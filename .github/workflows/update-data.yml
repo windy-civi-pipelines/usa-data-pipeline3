@@ -1,0 +1,84 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 1 * * *" # every day at 1am UTC
+
+env:
+  STATE: id # <-- update this value per state repo, e.g. il, tx, ny, etc.
+
+jobs:
+  update-data:
+    name: Update Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Get Date
+        id: get-date
+        run: |
+          echo "date=$(/bin/date \"+%Y%m%dT%H%M%S\")" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pipenv"
+
+      - name: Cache Scrapes
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/_working/_cache
+          key: cache-scrapes-key-${{ steps.get-date.outputs.date }}
+          restore-keys: |
+            cache-scrapes-key-
+
+      - name: Scrape Data
+        run: |
+          docker pull openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea
+          mkdir -p ${RUNNER_TEMP}/_working
+          docker run \
+              -v "${RUNNER_TEMP}/_working/_data":/opt/openstates/openstates/_data \
+              -v "${RUNNER_TEMP}/_working/_cache":/opt/openstates/openstates/_cache \
+              openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
+              $STATE bills --scrape --fastmode
+
+      - name: Sanitize Data (removes _id and scraped_at)
+        run: |
+          find ${RUNNER_TEMP}/_working/_data -type f -name "*.json" -exec bash -c 'jq "del(..|._id?, .scraped_at?)" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
+
+      - name: Format Data
+        working-directory: ./openstates_scraped_data_formatter
+        env:
+          FORMATTER_INPUT_FOLDER: ${{ runner.temp }}/_working/_data/$STATE
+        run: |
+          pip install pipenv
+          pipenv install
+          pipenv run python main.py --state $STATE --input-folder $FORMATTER_INPUT_FOLDER
+          cd ${{ github.workspace }} || exit 1
+
+      - name: Copy Scraped Data to Repo
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE/_data/$STATE"
+          cp -r "${RUNNER_TEMP}/_working/_data/$STATE"/* "$GITHUB_WORKSPACE/_data/$STATE/"
+
+      - name: Update Repo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.email "no_email"
+          git config user.name "Windy Civi Bot"
+          git fetch origin main
+          git pull origin main --rebase || true
+
+          git add _data data_output bill_session_mapping sessions
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Automated report update (report dated ${{ steps.get-date.outputs.date }})"
+          git push || echo "⚠️ Git push failed — possibly due to upstream changes."
