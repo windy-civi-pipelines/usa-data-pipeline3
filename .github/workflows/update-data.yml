@@ -6,7 +6,7 @@ on:
   #   - cron: "0 1 * * *" # every day at 1am UTC
 
 env:
-  STATE: id # <-- update this value per state repo, e.g. il, tx, ny, etc.
+  STATE: usa # <-- update this value per state repo, e.g. il, tx, ny, etc.
 
 jobs:
   update-data:
