@@ -1,0 +1,154 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4961",
+  "title": "Public Utility Remediation and Enhancement for Water Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Federal Water Pollution Control Act to direct the Administrator of the Environmental Protection Agency to establish a program to provide grants to owners and operators of publicly owned treatment works for use complying with requirements regarding the treatment of emerging contaminants, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terri A. Sewell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terri A. Sewell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haley M. Stevens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haley M. Stevens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher R. Deluzio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher R. Deluzio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jared Huffman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared Huffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hillary J. Scholten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4961ih/xml/BILLS-119hr4961ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4961ih/pdf/BILLS-119hr4961ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4961.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4961",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "F000466",
+      "S001185",
+      "S001215",
+      "D000530",
+      "C001068",
+      "H001068",
+      "L000599"
+    ],
+    "sponsor_bioguides": [
+      "S001221"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 647",
+  "title": "Condemning remarks made by Representative Delia Ramirez of Illinois declaring her allegiance to the Republic of Guatemala before the United States of America.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Ethics.",
+      "date": "2025-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Earl L. \"Buddy\" Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Earl L. \\\"Buddy\\\" Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres647ih/xml/BILLS-119hres647ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres647ih/pdf/BILLS-119hres647ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres647.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/647",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "C001103"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
