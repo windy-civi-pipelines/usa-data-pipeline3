@@ -1,0 +1,58 @@
+{
+  "name": "Subcommittee Hearings Held - HR 1663 - Oversight and Investigations Subcommittee",
+  "all_day": false,
+  "start_date": "2025-06-11T04:00:00+00:00",
+  "end_date": "",
+  "status": "confirmed",
+  "classification": "event",
+  "description": "",
+  "upstream_id": "",
+  "location": {
+    "name": "Washington, DC 20004",
+    "note": "",
+    "coordinates": null
+  },
+  "media": [],
+  "documents": [],
+  "links": [],
+  "participants": [
+    {
+      "name": "Oversight and Investigations Subcommittee",
+      "entity_type": "organization",
+      "note": "participant",
+      "organization_id": "~{\"name\": \"Oversight and Investigations Subcommittee\"}"
+    }
+  ],
+  "agenda": [
+    {
+      "description": "Associated Bills",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "HR 1663",
+          "entity_type": "bill",
+          "note": "consideration",
+          "bill_id": "~{\"identifier\": \"HR 1663\"}"
+        }
+      ],
+      "subjects": [],
+      "media": [],
+      "notes": [],
+      "order": 0,
+      "extras": {}
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1663.xml",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
