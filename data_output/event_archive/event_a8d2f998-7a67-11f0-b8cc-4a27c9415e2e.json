@@ -1,0 +1,58 @@
+{
+  "name": "Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held. - S 1809 - Governmental Operations and Border Management Subcommittee",
+  "all_day": false,
+  "start_date": "2025-06-10T04:00:00+00:00",
+  "end_date": "",
+  "status": "confirmed",
+  "classification": "event",
+  "description": "",
+  "upstream_id": "",
+  "location": {
+    "name": "Washington, DC 20004",
+    "note": "",
+    "coordinates": null
+  },
+  "media": [],
+  "documents": [],
+  "links": [],
+  "participants": [
+    {
+      "name": "Governmental Operations and Border Management Subcommittee",
+      "entity_type": "organization",
+      "note": "participant",
+      "organization_id": "~{\"name\": \"Governmental Operations and Border Management Subcommittee\"}"
+    }
+  ],
+  "agenda": [
+    {
+      "description": "Associated Bills",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "S 1809",
+          "entity_type": "bill",
+          "note": "consideration",
+          "bill_id": "~{\"identifier\": \"S 1809\"}"
+        }
+      ],
+      "subjects": [],
+      "media": [],
+      "notes": [],
+      "order": 0,
+      "extras": {}
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1809.xml",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
