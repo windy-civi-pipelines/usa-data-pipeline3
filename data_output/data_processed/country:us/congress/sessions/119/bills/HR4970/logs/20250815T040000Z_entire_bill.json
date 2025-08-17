@@ -1,0 +1,69 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4970",
+  "title": "To amend the Reclamation States Emergency Drought Relief Act of 1991 to facilitate the transfer of water from the Orland Project to the Central Valley Project.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Natural Resources.",
+      "date": "2025-08-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-08-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Doug LaMalfa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Doug LaMalfa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4970.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4970",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "L000578"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
