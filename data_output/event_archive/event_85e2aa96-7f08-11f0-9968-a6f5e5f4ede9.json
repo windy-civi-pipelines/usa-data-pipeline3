@@ -1,0 +1,58 @@
+{
+  "name": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held. - S 1733 - Transportation and Infrastructure Subcommittee",
+  "all_day": false,
+  "start_date": "2025-07-23T04:00:00+00:00",
+  "end_date": "",
+  "status": "confirmed",
+  "classification": "event",
+  "description": "",
+  "upstream_id": "",
+  "location": {
+    "name": "Washington, DC 20004",
+    "note": "",
+    "coordinates": null
+  },
+  "media": [],
+  "documents": [],
+  "links": [],
+  "participants": [
+    {
+      "name": "Transportation and Infrastructure Subcommittee",
+      "entity_type": "organization",
+      "note": "participant",
+      "organization_id": "~{\"name\": \"Transportation and Infrastructure Subcommittee\"}"
+    }
+  ],
+  "agenda": [
+    {
+      "description": "Associated Bills",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "S 1733",
+          "entity_type": "bill",
+          "note": "consideration",
+          "bill_id": "~{\"identifier\": \"S 1733\"}"
+        }
+      ],
+      "subjects": [],
+      "media": [],
+      "notes": [],
+      "order": 0,
+      "extras": {}
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1733.xml",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
