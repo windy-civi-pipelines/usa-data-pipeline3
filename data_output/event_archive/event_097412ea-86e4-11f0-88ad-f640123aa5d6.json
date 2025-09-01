@@ -1,0 +1,58 @@
+{
+  "name": "Committee on Veterans' Affairs. Hearings held. - S 214 - Veterans' Affairs Committee",
+  "all_day": false,
+  "start_date": "2025-05-21T04:00:00+00:00",
+  "end_date": "",
+  "status": "confirmed",
+  "classification": "event",
+  "description": "",
+  "upstream_id": "",
+  "location": {
+    "name": "Washington, DC 20004",
+    "note": "",
+    "coordinates": null
+  },
+  "media": [],
+  "documents": [],
+  "links": [],
+  "participants": [
+    {
+      "name": "Veterans' Affairs Committee",
+      "entity_type": "organization",
+      "note": "participant",
+      "organization_id": "~{\"name\": \"Veterans' Affairs Committee\"}"
+    }
+  ],
+  "agenda": [
+    {
+      "description": "Associated Bills",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "S 214",
+          "entity_type": "bill",
+          "note": "consideration",
+          "bill_id": "~{\"identifier\": \"S 214\"}"
+        }
+      ],
+      "subjects": [],
+      "media": [],
+      "notes": [],
+      "order": 0,
+      "extras": {}
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s214.xml",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
