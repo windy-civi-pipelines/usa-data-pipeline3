@@ -13,7 +13,7 @@ on:
         default: false
 
 env:
-  STATE_CODE: UPDATE_STATE_HERE # ⚠️ UPDATE THIS: Change to your state code (e.g., wy, usa, il, tx)
+  STATE_CODE: usa # ⚠️ UPDATE THIS: Change to your state code (e.g., wy, usa, il, tx)
 
 jobs:
   scrape:
