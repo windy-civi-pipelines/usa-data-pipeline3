@@ -1,0 +1,131 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 806",
+  "title": "Supporting the recognition of October 2025 as \"National Breast Cancer Awareness Month\".",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Max L. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Max L. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark DeSaulnier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph D. Morelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph D. Morelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Wasserman Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Earl L. \"Buddy\" Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Earl L. \\\"Buddy\\\" Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres806ih/xml/BILLS-119hres806ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres806ih/pdf/BILLS-119hres806ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres806.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/806",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001222",
+      "D000623",
+      "M001206",
+      "W000797"
+    ],
+    "sponsor_bioguides": [
+      "C001103"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

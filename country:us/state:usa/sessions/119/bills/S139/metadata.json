@@ -1,0 +1,192 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 139",
+  "title": "FASD Respect Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend the Public Health Service Act to reauthorize and extend the Fetal Alcohol Spectrum Disorders Prevention and Services program, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Advancing FASD Research, Services and Prevention Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2025-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-01-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Amy Klobuchar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Klobuchar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angus S. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angus S. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mazie K. Hirono",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mazie K. Hirono\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria Cantwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Cantwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susan M. Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan M. Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa Murkowski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s139is/xml/BILLS-119s139is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s139is/pdf/BILLS-119s139is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s139.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/139",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "K000367",
+      "K000383",
+      "H001042",
+      "M000934",
+      "B001230",
+      "C000127",
+      "C001096",
+      "C001035",
+      "P000595",
+      "W000790"
+    ],
+    "sponsor_bioguides": [
+      "M001153"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

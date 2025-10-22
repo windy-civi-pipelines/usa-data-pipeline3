@@ -1,0 +1,145 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5555",
+  "title": "Monterey Bay National Heritage Area Study Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land in California as the Monterey Bay National Heritage Area, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Natural Resources.",
+      "date": "2025-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin Mullin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Mullin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salud O. Carbajal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salud O. Carbajal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam T. Liccardo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam T. Liccardo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Garamendi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Garamendi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5555ih/xml/BILLS-119hr5555ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5555ih/pdf/BILLS-119hr5555ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5555.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5555",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001225",
+      "C001112",
+      "L000397",
+      "L000607",
+      "G000559"
+    ],
+    "sponsor_bioguides": [
+      "P000613"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5717",
+  "title": "To designate the facility of the United States Postal Service located at 514 Frelinghuysen Avenue in Newark, New Jersey, as the \"Mildred Joyce Coleman Crump Post Office Building\".",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Herbert C. Conaway",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Herbert C. Conaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonnie Watson Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonnie Watson Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas H. Kean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Menendez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Menendez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald Norcross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald Norcross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank Pallone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frank Pallone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nellie Pou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nellie Pou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mikie Sherrill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mikie Sherrill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher H. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher H. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaMonica McIver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LaMonica McIver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5717ih/xml/BILLS-119hr5717ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5717ih/pdf/BILLS-119hr5717ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-08",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5717.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5717",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001136",
+      "W000822",
+      "G000583",
+      "K000398",
+      "M001226",
+      "N000188",
+      "P000034",
+      "P000621",
+      "S001207",
+      "S000522",
+      "V000133"
+    ],
+    "sponsor_bioguides": [
+      "M001229"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:06Z"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5354",
+  "title": "Equal Employment for All Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Fair Credit Reporting Act to prohibit the use of consumer credit checks against prospective and current employees for the purposes of making adverse employment decisions."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Financial Services.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Danny K. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny K. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Mullin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Mullin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janice D. Schakowsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janice D. Schakowsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 2798",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5354ih/xml/BILLS-119hr5354ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5354ih/pdf/BILLS-119hr5354ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5354.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5354",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "D000096",
+      "M001225",
+      "N000147",
+      "S001145"
+    ],
+    "sponsor_bioguides": [
+      "C001068"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:02Z"
+  }
+}

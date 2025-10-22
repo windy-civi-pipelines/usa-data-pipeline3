@@ -1,0 +1,182 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5150",
+  "title": "Protecting Agricultural Borrower Information Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To strengthen privacy protections for recipients of loans and payments processed by the Farm Service Agency."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sponsor introductory remarks on measure. (CR H3883)",
+      "date": "2025-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Agriculture.",
+      "date": "2025-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jim Costa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Costa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John B. Larson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John B. Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Sherman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Sherman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnny Olszewski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnny Olszewski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suhas Subramanyam",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suhas Subramanyam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Pocan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Pocan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharice Davids",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharice Davids\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April McClain Delaney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"April McClain Delaney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5150ih/xml/BILLS-119hr5150ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5150ih/pdf/BILLS-119hr5150ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5150.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5150",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001059",
+      "L000557",
+      "E000301",
+      "S000344",
+      "O000176",
+      "S001230",
+      "P000607",
+      "D000629"
+    ],
+    "sponsor_bioguides": [
+      "M001232"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

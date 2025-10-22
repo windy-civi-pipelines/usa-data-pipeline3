@@ -1,0 +1,113 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4321",
+  "title": "SMART for TBI Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Supporting Modern Approaches in Recovery Technology for Traumatic Brain Injury Act"
+    },
+    {
+      "note": "",
+      "title": "To direct the Secretary of Defense to develop a strategy for treating traumatic brain injuries through digital health technologies."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Armed Services.",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Crank",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Crank\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Crow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Crow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4321ih/xml/BILLS-119hr4321ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4321ih/pdf/BILLS-119hr4321ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4321.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4321",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001137"
+    ],
+    "sponsor_bioguides": [
+      "C001121"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:00Z"
+  }
+}

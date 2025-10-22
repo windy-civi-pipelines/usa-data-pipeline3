@@ -1,0 +1,104 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 699",
+  "title": "Expressing support for the designation of September 2025 as \"National Polycystic Kidney Disease Awareness Month\", and raising awareness and understanding of polycystic kidney disease.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2025-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sam Graves",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Graves\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emanuel Cleaver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Emanuel Cleaver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres699ih/xml/BILLS-119hres699ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres699ih/pdf/BILLS-119hres699ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres699.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/699",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000546"
+    ],
+    "sponsor_bioguides": [
+      "C001061"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

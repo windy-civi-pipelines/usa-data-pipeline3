@@ -1,0 +1,167 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2225",
+  "title": "Prevent Interruptions in Physical Therapy Act of 2025",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend title XVIII of the Social Security Act to add physical therapists to the list of providers allowed to utilize locum tenens arrangements under Medicare."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Finance.",
+      "date": "2025-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John Boozman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Boozman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chuck Grassley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chuck Grassley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher A. Coons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher A. Coons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben R. Luj\u00e1n",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ben R. Luj\\u00e1n\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 1517",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2225is/xml/BILLS-119s2225is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2225is/pdf/BILLS-119s2225is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2225.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2225",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001236",
+      "C001096",
+      "G000386",
+      "B001305",
+      "C001088",
+      "B001243",
+      "C001075"
+    ],
+    "sponsor_bioguides": [
+      "L000570"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:00Z"
+  }
+}

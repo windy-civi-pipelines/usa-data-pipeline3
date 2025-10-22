@@ -1,0 +1,631 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5448",
+  "title": "Protecting Free Vaccines Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require coverage of certain immunizations recommended by the Advisory Committee on Immunization Practices under the Medicare program, the Medicaid program, the Children's Health Insurance Program, group health plans, and health insurance coverage."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Richard E. Neal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard E. Neal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert C. \"Bobby\" Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert C. \\\"Bobby\\\" Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Landsman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Landsman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Mullin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Mullin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doris O. Matsui",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doris O. Matsui\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Auchincloss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Auchincloss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Castor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Castor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy A. Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy A. Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerrold Nadler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerrold Nadler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janice D. Schakowsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janice D. Schakowsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kim Schrier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kim Schrier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joyce Beatty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joyce Beatty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Whitesides",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Whitesides\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John B. Larson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John B. Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Gay Scanlon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary Gay Scanlon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Wasserman Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Magaziner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Magaziner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Tonko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul Tonko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terri A. Sewell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terri A. Sewell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yvette D. Clarke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Dingell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Ivey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Ivey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Menendez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Menendez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny K. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny K. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darren Soto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darren Soto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Budzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Budzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ritchie Torres",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ritchie Torres\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rashida Tlaib",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rashida Tlaib\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nanette Diaz Barrag\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nanette Diaz Barrag\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzan K. DelBene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzan K. DelBene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabe Amo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabe Amo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Levin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne Bonamici\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William R. Keating",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William R. Keating\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jahana Hayes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jahana Hayes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lois Frankel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lois Frankel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alexandria Ocasio-Cortez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Trahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Trahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott H. Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher R. Deluzio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher R. Deluzio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Friedman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Friedman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maxine Dexter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maxine Dexter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brittany Pettersen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brittany Pettersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie Raskin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamie Raskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nydia M. Vel\u00e1zquez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nydia M. Vel\\u00e1zquez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sydney Kamlager-Dove",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sydney Kamlager-Dove\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Garamendi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Garamendi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becca Balint",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Becca Balint\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel S. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel S. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Randall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Randall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herbert C. Conaway",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Herbert C. Conaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank Pallone",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Frank Pallone\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5448ih/xml/BILLS-119hr5448ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5448ih/pdf/BILLS-119hr5448ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5448.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5448",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "N000015",
+      "S000185",
+      "L000601",
+      "M001225",
+      "M001163",
+      "A000148",
+      "C001066",
+      "C001125",
+      "N000002",
+      "S001145",
+      "S001216",
+      "B001281",
+      "W000830",
+      "Q000023",
+      "N000147",
+      "E000301",
+      "L000557",
+      "S001205",
+      "W000797",
+      "M001223",
+      "T000460",
+      "T000469",
+      "S001185",
+      "C001067",
+      "D000624",
+      "M001227",
+      "I000058",
+      "M001226",
+      "D000096",
+      "S001200",
+      "C001068",
+      "B001315",
+      "T000486",
+      "T000481",
+      "B001300",
+      "D000617",
+      "A000380",
+      "L000593",
+      "B001278",
+      "K000375",
+      "H001081",
+      "F000462",
+      "O000172",
+      "T000482",
+      "P000608",
+      "D000530",
+      "F000483",
+      "D000635",
+      "P000620",
+      "R000606",
+      "V000081",
+      "K000400",
+      "G000559",
+      "B001318",
+      "G000599",
+      "M001196",
+      "N000191",
+      "R000621",
+      "C001136"
+    ],
+    "sponsor_bioguides": [
+      "P000034"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

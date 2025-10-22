@@ -1,0 +1,187 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4407",
+  "title": "National Nursing Workforce Center Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Public Health Service Act to support and stabilize the existing nursing workforce, establish programs to increase the number of nurses, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2025-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marilyn Strickland",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marilyn Strickland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jay Obernolte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay Obernolte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald G. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald G. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Young Kim",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Young Kim\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 1482",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4407ih/xml/BILLS-119hr4407ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4407ih/pdf/BILLS-119hr4407ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4407.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4407",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001159",
+      "B001298",
+      "M001238",
+      "O000019",
+      "K000399",
+      "G000583",
+      "D000230",
+      "V000138",
+      "G000602"
+    ],
+    "sponsor_bioguides": [
+      "K000397"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:03Z"
+  }
+}

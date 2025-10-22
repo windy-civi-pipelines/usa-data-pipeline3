@@ -1,0 +1,177 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 2633",
+  "title": "U.S.-South Africa Bilateral Relations Review Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require a full review of the bilateral relationship between the United States and South Africa and identify South African government officials and ANC leaders eligible for the imposition of sanctions, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 13.",
+      "date": "2025-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John James",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy E. Nehls",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy E. Nehls\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Baird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Baird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Gregory Steube",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"W. Gregory Steube\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elise M. Stefanik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elise M. Stefanik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronny Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ronny Jackson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2633ih/xml/BILLS-119hr2633ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2633ih/pdf/BILLS-119hr2633ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-03",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: H.R. 2633, U.S.-South Africa Bilateral Relations Review Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61641",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2633.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/2633",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "J000307",
+      "N000026",
+      "B001307",
+      "S001214",
+      "S001196"
+    ],
+    "sponsor_bioguides": [
+      "J000304"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

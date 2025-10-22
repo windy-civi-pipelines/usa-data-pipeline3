@@ -1,0 +1,107 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2979",
+  "title": "PHMSA Voluntary Information Sharing Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend title 49, United States Code, to require the Secretary of Transportation to establish a confidential, voluntary information-sharing system to encourage the sharing of pipeline safety data and information in a nonpunitive context in order to improve the safety of pipeline facilities, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:57Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Moran",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2979is/xml/BILLS-119s2979is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2979is/pdf/BILLS-119s2979is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2979.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2979",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "D000622"
+    ],
+    "sponsor_bioguides": [
+      "M000934"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:57Z"
+  }
+}

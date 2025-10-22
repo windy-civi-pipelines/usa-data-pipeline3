@@ -1,0 +1,142 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 3678",
+  "title": "Strengthening US-Caribbean Partnership Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To provide for the treatment of the Caribbean Community as an international organization for purposes of the International Organizations Immunities Act, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Foreign Affairs.",
+      "date": "2025-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maria Elvira Salazar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Elvira Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheila Cherfilus-McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheila Cherfilus-McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joaquin Castro",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joaquin Castro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 4490",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3678ih/xml/BILLS-119hr3678ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3678ih/pdf/BILLS-119hr3678ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3678.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/3678",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S000168",
+      "C001127",
+      "L000599",
+      "F000466"
+    ],
+    "sponsor_bioguides": [
+      "C001091"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:58Z"
+  }
+}

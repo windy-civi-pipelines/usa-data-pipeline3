@@ -1,0 +1,164 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5445",
+  "title": "Federal-State Partnership for Clean Water Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Federal Water Pollution Control Act to reauthorize Federal-State clean water program development and implementation authorities, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Subcommittee on Water Resources and Environment.",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Haley M. Stevens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haley M. Stevens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rashida Tlaib",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rashida Tlaib\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shri Thanedar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shri Thanedar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristen McDonald Rivet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen McDonald Rivet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaMonica McIver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaMonica McIver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nellie Pou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nellie Pou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hillary J. Scholten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5445ih/xml/BILLS-119hr5445ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5445ih/pdf/BILLS-119hr5445ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5445.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5445",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001215",
+      "T000481",
+      "T000488",
+      "M001237",
+      "M001229",
+      "P000621"
+    ],
+    "sponsor_bioguides": [
+      "S001221"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:06Z"
+  }
+}

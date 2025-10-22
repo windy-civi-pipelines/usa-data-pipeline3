@@ -1,0 +1,125 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5067",
+  "title": "Rapid Disaster Relief Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act with respect to the disbursement of certain reimbursements provided under such Act, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "date": "2025-08-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-08-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-08-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John R. Moolenaar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John R. Moolenaar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristen McDonald Rivet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kristen McDonald Rivet\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 4669",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5067ih/xml/BILLS-119hr5067ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5067ih/pdf/BILLS-119hr5067ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-29",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5067.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5067",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001194"
+    ],
+    "sponsor_bioguides": [
+      "M001237"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

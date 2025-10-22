@@ -1,0 +1,129 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2863",
+  "title": "RRLEF Act of 2025",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to eligibility under the Edward Byrne Memorial Justice Assistance Grant Program, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Responsible Retirement of Law Enforcement Firearms Act of 2025"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on the Judiciary.",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Richard J. Durbin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard J. Durbin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Padilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2863is/xml/BILLS-119s2863is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2863is/pdf/BILLS-119s2863is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2863.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2863",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "D000563",
+      "B001277",
+      "P000145"
+    ],
+    "sponsor_bioguides": [
+      "D000622"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:58Z"
+  }
+}

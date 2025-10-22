@@ -1,0 +1,182 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5242",
+  "title": "To repeal the Second Chance Amendment Act of 2022 and the Incarceration Reduction Amendment Act of 2016.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 293.",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-341.",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 20.",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joe Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Kustoff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Kustoff\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5242rh/xml/BILLS-119hr5242rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5242rh/pdf/BILLS-119hr5242rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5242ih/xml/BILLS-119hr5242ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5242ih/pdf/BILLS-119hr5242ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-10",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: H.R. 5242, a bill to repeal the Second Chance Amendment Act of 2022 and the Incarceration Reduction Amendment of 2016",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61799",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-341",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt341/CRPT-119hrpt341.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5242.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5242",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "W000795"
+    ],
+    "sponsor_bioguides": [
+      "K000392"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 318",
+  "title": "ANCHOR Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to require a plan to improve the cybersecurity and telecommunications of the U.S. Academic Research Fleet, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2025-10-10T16:33:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-10-10T16:33:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2025-10-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-64.",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2025-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dan Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Padilla",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alex Padilla\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318es/xml/BILLS-119s318es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318es/pdf/BILLS-119s318es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-08",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318rs/xml/BILLS-119s318rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318rs/pdf/BILLS-119s318rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-29",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318is/xml/BILLS-119s318is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s318is/pdf/BILLS-119s318is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-29",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: S. 318, ANCHOR Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61558",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-64",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt64/CRPT-119srpt64.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s318.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/318",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001198"
+    ],
+    "sponsor_bioguides": [
+      "P000145"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:58Z"
+  }
+}

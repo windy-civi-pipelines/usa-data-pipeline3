@@ -1,0 +1,163 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5729",
+  "title": "North Rim Restoration Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To authorize direct emergency acquisition flexibilities for the National Park Service for the purpose of retaining, vetting, approving, and expediting contractor approval for the clearing, rebuilding, maintenance, and improvement of the Grand Canyon grounds that have been impacted by the Dragon Bravo Fire."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Natural Resources.",
+      "date": "2025-10-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-10-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Paul A. Gosar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul A. Gosar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Celeste Maloy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Celeste Maloy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doug LaMalfa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doug LaMalfa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas P. Tiffany",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas P. Tiffany\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abraham J. Hamadeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abraham J. Hamadeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Ciscomani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Ciscomani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elijah Crane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elijah Crane\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5729ih/xml/BILLS-119hr5729ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5729ih/pdf/BILLS-119hr5729ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5729.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5729",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000565",
+      "M001228",
+      "B001302",
+      "L000578",
+      "T000165",
+      "H001098",
+      "C001133"
+    ],
+    "sponsor_bioguides": [
+      "C001132"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:06Z"
+  }
+}

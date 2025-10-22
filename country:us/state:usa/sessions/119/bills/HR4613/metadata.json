@@ -1,0 +1,172 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4613",
+  "title": "Bubble Tax Modernization Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Internal Revenue Code of 1986 to remove the differentiation between mead and low alcohol by volume wine for purposes of the tax imposed on wines."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Ways and Means.",
+      "date": "2025-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Derrick Van Orden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Van Orden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne Bonamici\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Val T. Hoyle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Val T. Hoyle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claudia Tenney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudia Tenney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chellie Pingree",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chellie Pingree\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Salinas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Salinas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4613ih/xml/BILLS-119hr4613ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4613ih/pdf/BILLS-119hr4613ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-22",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4613.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4613",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "V000135",
+      "P000613",
+      "K000376",
+      "F000466",
+      "B001278",
+      "H001094",
+      "T000478",
+      "P000597"
+    ],
+    "sponsor_bioguides": [
+      "S001226"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:00Z"
+  }
+}

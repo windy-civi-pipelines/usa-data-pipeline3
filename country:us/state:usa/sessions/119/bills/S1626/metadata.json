@@ -1,0 +1,140 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 1626",
+  "title": "National Landslide Preparedness Act Reauthorization Act of 2025",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to reauthorize the National Landslide Preparedness Act, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.",
+      "date": "2025-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-05-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-05-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maria Cantwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Cantwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa Murkowski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 3816",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 2250",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1626is/xml/BILLS-119s1626is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1626is/pdf/BILLS-119s1626is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-06",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: S. 1626, National Landslide Preparedness Act Reauthorization Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61554",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1626.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/1626",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C000127"
+    ],
+    "sponsor_bioguides": [
+      "M001153"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:58Z"
+  }
+}

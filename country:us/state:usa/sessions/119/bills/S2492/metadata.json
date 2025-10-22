@@ -1,0 +1,107 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2492",
+  "title": "Fiscal Contingency Preparedness Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to require the Secretary of the Treasury, in coordination with the Director of the Office of Management and Budget, to examine the ability of the Federal Government to respond to potential fiscal shocks, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Todd Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Todd Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark R. Warner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark R. Warner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2492is/xml/BILLS-119s2492is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2492is/pdf/BILLS-119s2492is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-29",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2492.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2492",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "Y000064"
+    ],
+    "sponsor_bioguides": [
+      "W000805"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:01Z"
+  }
+}

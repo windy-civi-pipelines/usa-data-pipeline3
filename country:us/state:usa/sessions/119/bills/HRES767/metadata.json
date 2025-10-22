@@ -1,0 +1,131 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 767",
+  "title": "Expressing the sense of the House of Representatives that violent attacks against United States Immigration and Customs Enforcement (ICE) facilities and officers are unacceptable, must be fully condemned, and that Congress stands in support of ICE's mission to protect national security, public safety, and the enforcement of immigration laws.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "August Pfluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"August Pfluger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Sessions",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Sessions\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wesley Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wesley Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Fry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Russell Fry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres767ih/xml/BILLS-119hres767ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres767ih/pdf/BILLS-119hres767ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-26",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres767.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/767",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "P000048",
+      "W000816",
+      "S000250",
+      "H001095"
+    ],
+    "sponsor_bioguides": [
+      "F000478"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:02Z"
+  }
+}

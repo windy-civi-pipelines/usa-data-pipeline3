@@ -1,0 +1,124 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 3889",
+  "title": "National Prescribed Fire Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To direct the Secretary of the Interior and the Secretary of Agriculture to encourage and expand the use of prescribed fire on land managed by the Department of the Interior or the Forest Service, with an emphasis on units of the National Forest System in the western and southeastern United States, to acknowledge and support the long-standing use of cultural burning by Indian Tribes and Indigenous practitioners, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David G. Valadao",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David G. Valadao\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janelle S. Bynum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janelle S. Bynum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kim Schrier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kim Schrier\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 2015",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3889ih/xml/BILLS-119hr3889ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3889ih/pdf/BILLS-119hr3889ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3889.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/3889",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "V000129",
+      "B001326"
+    ],
+    "sponsor_bioguides": [
+      "S001216"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:05Z"
+  }
+}

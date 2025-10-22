@@ -1,0 +1,122 @@
+{
+  "legislative_session": "119",
+  "identifier": "SCONRES 22",
+  "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 36 - 62. Record Vote Number: 521. (: CR S6635-6637)",
+      "date": "2025-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on the Budget. (text: CR S6602)",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rand Paul",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rand Paul\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sconres22pcs/xml/BILLS-119sconres22pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sconres22pcs/pdf/BILLS-119sconres22pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres22.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/22",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "P000603"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:00Z"
+  }
+}

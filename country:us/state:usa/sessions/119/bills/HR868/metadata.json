@@ -1,0 +1,172 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 868",
+  "title": "Prison Staff Safety Enhancement Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To address sexual harassment and sexual assault of Bureau of Prisons staff in prisons, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-01-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-01-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jared Moskowitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared Moskowitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy E. Nehls",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy E. Nehls\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salud O. Carbajal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salud O. Carbajal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy K. Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy K. Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel S. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel S. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barry Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashley Hinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Hinson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laurel M. Lee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Laurel M. Lee\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr868ih/xml/BILLS-119hr868ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr868ih/pdf/BILLS-119hr868ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-31",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr868.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/868",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001217",
+      "N000026",
+      "C001112",
+      "W000814",
+      "C001068",
+      "G000599",
+      "M001212",
+      "H001091"
+    ],
+    "sponsor_bioguides": [
+      "L000597"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

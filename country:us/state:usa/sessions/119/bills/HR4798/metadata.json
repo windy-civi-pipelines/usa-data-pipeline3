@@ -1,0 +1,136 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4798",
+  "title": "Making American Elections Great Again Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To modify the timing of each decennial census of population, to count only citizens under any such census, to apportion Representatives in Congress among the several States based on such census, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Warren Davidson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Warren Davidson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barry Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheri Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheri Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marjorie Taylor Greene\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4798ih/xml/BILLS-119hr4798ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4798ih/pdf/BILLS-119hr4798ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-29",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4798.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4798",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "D000626",
+      "C001129",
+      "M001212",
+      "B001325"
+    ],
+    "sponsor_bioguides": [
+      "G000596"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:05Z"
+  }
+}

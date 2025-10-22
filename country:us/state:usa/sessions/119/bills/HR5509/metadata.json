@@ -1,0 +1,136 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5509",
+  "title": "Safe Step Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Employee Retirement Income Security Act of 1974 to require a group health plan or health insurance coverage offered in connection with such a plan to provide an exceptions process for any medication step therapy protocol, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Education and Workforce.",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lucy McBath",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lucy McBath\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mariannette Miller-Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mariannette Miller-Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raul Ruiz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raul Ruiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert F. Onder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert F. Onder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick W. Allen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick W. Allen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5509ih/xml/BILLS-119hr5509ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5509ih/pdf/BILLS-119hr5509ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5509.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5509",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001208",
+      "M001215",
+      "R000599",
+      "O000177"
+    ],
+    "sponsor_bioguides": [
+      "A000372"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:03Z"
+  }
+}

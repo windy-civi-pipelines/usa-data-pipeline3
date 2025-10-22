@@ -1,0 +1,169 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4541",
+  "title": "EARLY Act Reauthorization of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2025-07-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mariannette Miller-Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mariannette Miller-Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Castor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Castor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Dingell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Harshbarger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Harshbarger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Debbie Wasserman Schultz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 2339",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4541ih/xml/BILLS-119hr4541ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4541ih/pdf/BILLS-119hr4541ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4541.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4541",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001215",
+      "C001066",
+      "F000466",
+      "D000624",
+      "H001086",
+      "N000147",
+      "G000583"
+    ],
+    "sponsor_bioguides": [
+      "W000797"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:00Z"
+  }
+}

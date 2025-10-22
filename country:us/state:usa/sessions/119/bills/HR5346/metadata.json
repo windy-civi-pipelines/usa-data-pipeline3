@@ -1,0 +1,176 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5346",
+  "title": "Fair and Accountable IRS Reviews Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Internal Revenue Code of 1986 to reform certain penalty and interest provisions."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 272.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-318.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 44 - 0.",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Ways and Means.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adrian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Grothman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Glenn Grothman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346rh/xml/BILLS-119hr5346rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346rh/pdf/BILLS-119hr5346rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-30",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346ih/xml/BILLS-119hr5346ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346ih/pdf/BILLS-119hr5346ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-15",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "H. Rept. 119-318",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt318/CRPT-119hrpt318.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5346.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5346",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001172"
+    ],
+    "sponsor_bioguides": [
+      "G000576"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:01Z"
+  }
+}

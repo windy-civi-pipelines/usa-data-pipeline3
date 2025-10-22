@@ -1,0 +1,138 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 386",
+  "title": "A resolution designating the week of September 14 through September 20, 2025, as \"Community School Coordinators Appreciation Week\".",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on the Judiciary. (text: CR S6601)",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mazie K. Hirono",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mazie K. Hirono\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard J. Durbin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard J. Durbin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernie Sanders",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernie Sanders\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Heinrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Heinrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Alsobrooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Van Hollen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres386is/xml/BILLS-119sres386is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres386is/pdf/BILLS-119sres386is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres386.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/386",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "H001042",
+      "D000563",
+      "S000033",
+      "H001046",
+      "A000382"
+    ],
+    "sponsor_bioguides": [
+      "V000128"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:01Z"
+  }
+}

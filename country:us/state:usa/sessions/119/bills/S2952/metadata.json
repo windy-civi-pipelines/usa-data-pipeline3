@@ -1,0 +1,143 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2952",
+  "title": "$2.50 for America\u2019s 250th Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend title 31, United States Code, to require the Secretary of the Treasury to mint and issue $2.50 numismatic coins and $2.50 circulating coins, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Shelley Moore Capito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelley Moore Capito\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Shaheen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Padilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Murkowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia M. Lummis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cynthia M. Lummis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2952is/xml/BILLS-119s2952is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2952is/pdf/BILLS-119s2952is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2952.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2952",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001047",
+      "C001096",
+      "S001181",
+      "P000145",
+      "M001153"
+    ],
+    "sponsor_bioguides": [
+      "L000571"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

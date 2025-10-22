@@ -1,0 +1,176 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4218",
+  "title": "CLEAR Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Clean Air Act to facilitate State implementation of national ambient air quality standards, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Clean Air and Economic Advancement Reform Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2025-06-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick W. Allen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick W. Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Balderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy Balderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert E. Latta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert E. Latta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Newhouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Newhouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy K. Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy K. Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "August Pfluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"August Pfluger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jay Obernolte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay Obernolte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Earl L. \"Buddy\" Carter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Earl L. \\\"Buddy\\\" Carter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4218ih/xml/BILLS-119hr4218ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4218ih/pdf/BILLS-119hr4218ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4218.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4218",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000568",
+      "A000372",
+      "B001306",
+      "L000566",
+      "N000189",
+      "W000814",
+      "P000048",
+      "O000019"
+    ],
+    "sponsor_bioguides": [
+      "C001103"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

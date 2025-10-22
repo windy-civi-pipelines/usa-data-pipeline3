@@ -1,0 +1,158 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2755",
+  "title": "Protecting American Research and Talent Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to provide that no Federal funds may be obligated or expended to award a grant or contract to an institution of higher education for the specific purposes of conducting fundamental research in collaboration with a covered entity."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rick Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Markwayne Mullin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Markwayne Mullin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia M. Lummis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia M. Lummis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Cotton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tom Cotton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 5253",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2755is/xml/BILLS-119s2755is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2755is/pdf/BILLS-119s2755is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2755.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2755",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001217",
+      "M001190",
+      "C001098",
+      "B001305",
+      "B001243",
+      "L000571"
+    ],
+    "sponsor_bioguides": [
+      "C001095"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

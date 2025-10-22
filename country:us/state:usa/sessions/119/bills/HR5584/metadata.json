@@ -1,0 +1,140 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5584",
+  "title": "LIFT AI Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To improve educational efforts related to artificial intelligence literacy at the K through 12 level, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Literacy in Future Technologies Artificial Intelligence Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Science, Space, and Technology.",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gabe Amo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabe Amo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas H. Kean",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5584ih/xml/BILLS-119hr5584ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5584ih/pdf/BILLS-119hr5584ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-26",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5584.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5584",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "A000380",
+      "G000602",
+      "V000138",
+      "G000583"
+    ],
+    "sponsor_bioguides": [
+      "K000398"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:02Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 421",
+  "title": "A resolution urging the executive branch and leaders of the G7 and the European Union to seize sovereign assets of the Russian Federation under the jurisdiction of members of the G7 and disburse such assets to Ukraine in tranches of not less than $10,000,000,000 United States dollars per month until expended.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Foreign Relations. (text: CR S6839-6840)",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsey Graham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsey Graham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Kennedy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres421is/xml/BILLS-119sres421is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres421is/pdf/BILLS-119sres421is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-29",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres421.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/421",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001277",
+      "G000359",
+      "W000802"
+    ],
+    "sponsor_bioguides": [
+      "K000393"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:01Z"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 396",
+  "title": "A resolution condemning the tragic act of violence on September 10, 2025, in Evergreen, Colorado, recognizing the victims, survivors, and responders, and expressing condolences and support to their families and their communities.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on the Judiciary. (text: CR S6653: 2)",
+      "date": "2025-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John W. Hickenlooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Hickenlooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Bennet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HRES 728",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres396is/xml/BILLS-119sres396is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres396is/pdf/BILLS-119sres396is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres396.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/396",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "H000273"
+    ],
+    "sponsor_bioguides": [
+      "B001267"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

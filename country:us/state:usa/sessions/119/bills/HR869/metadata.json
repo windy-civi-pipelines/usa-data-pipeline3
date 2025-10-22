@@ -1,0 +1,192 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 869",
+  "title": "Keep Our PACT Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require full funding of part A of title I of the Elementary and Secondary Education Act of 1965 and the Individuals with Disabilities Education Act."
+    },
+    {
+      "note": "",
+      "title": "Keep Our Promise to America\u2019s Children and Teachers Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-01-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-01-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny K. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny K. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Whitesides",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Whitesides\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill N. Tokuda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jill N. Tokuda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angie Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angie Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Susie Lee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susie Lee\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 343",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 2598",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1277",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr869ih/xml/BILLS-119hr869ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr869ih/pdf/BILLS-119hr869ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-31",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr869.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/869",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "V000138",
+      "D000096",
+      "W000830",
+      "M001238",
+      "G000583",
+      "T000487",
+      "C001119",
+      "E000301"
+    ],
+    "sponsor_bioguides": [
+      "L000590"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:06Z"
+  }
+}

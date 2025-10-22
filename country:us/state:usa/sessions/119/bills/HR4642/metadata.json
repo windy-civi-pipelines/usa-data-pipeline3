@@ -1,0 +1,127 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4642",
+  "title": "Fiscal Contingency Preparedness Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require the Secretary of the Treasury, in coordination with the Director of the Office of Management and Budget, to examine the ability of the Federal Government to respond to potential fiscal shocks, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jared F. Golden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared F. Golden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack Bergman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack Bergman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Gluesenkamp Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marie Gluesenkamp Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Cline",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ben Cline\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4642ih/xml/BILLS-119hr4642ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4642ih/pdf/BILLS-119hr4642ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4642.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4642",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000592",
+      "B001301",
+      "G000600"
+    ],
+    "sponsor_bioguides": [
+      "C001118"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:03Z"
+  }
+}

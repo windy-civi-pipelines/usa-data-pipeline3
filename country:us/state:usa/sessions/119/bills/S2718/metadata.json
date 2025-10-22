@@ -1,0 +1,147 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2718",
+  "title": "A bill to amend the Community Development Banking and Financial Institutions Act of 1994 to provide for capitalization assistance to enhance liquidity.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "date": "2025-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia M. Lummis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia M. Lummis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Hyde-Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Daines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark R. Warner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark R. Warner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2718is/xml/BILLS-119s2718is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2718is/pdf/BILLS-119s2718is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2718.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2718",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C000880",
+      "S001203",
+      "L000571",
+      "P000595",
+      "H001079",
+      "D000618"
+    ],
+    "sponsor_bioguides": [
+      "W000805"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:06Z"
+  }
+}

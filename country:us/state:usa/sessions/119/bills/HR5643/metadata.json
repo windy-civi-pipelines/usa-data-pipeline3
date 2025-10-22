@@ -1,0 +1,194 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5643",
+  "title": "To name the Department of Veterans Affairs medical center located in Northport, New York, as the Navy (SEAL) Lieutenant Michael P. Murphy VA Medical Center, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Veterans' Affairs.",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:57Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Morgan Luttrell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan Luttrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claudia Tenney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudia Tenney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicole Malliotakis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas R. Suozzi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas R. Suozzi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darrell Issa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darrell Issa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elise M. Stefanik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elise M. Stefanik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicholas A. Langworthy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicholas A. Langworthy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick LaLota",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nick LaLota\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5643ih/xml/BILLS-119hr5643ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5643ih/pdf/BILLS-119hr5643ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5643.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5643",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000603",
+      "L000599",
+      "T000478",
+      "M000317",
+      "S001201",
+      "M001239",
+      "P000613",
+      "I000056",
+      "G000602",
+      "S001196",
+      "L000600"
+    ],
+    "sponsor_bioguides": [
+      "L000598"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:57Z"
+  }
+}

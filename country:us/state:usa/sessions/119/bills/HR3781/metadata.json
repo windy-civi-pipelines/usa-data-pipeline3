@@ -1,0 +1,208 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 3781",
+  "title": "Visa Overstays Penalties Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Immigration and Nationality Act to expand penalties for illegal entry and presence."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-06-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Randy Fine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy Fine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "August Pfluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"August Pfluger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harriet M. Hageman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harriet M. Hageman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary E. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary E. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Babin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Babin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adrian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott DesJarlais",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott DesJarlais\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barry Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Van Duyne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Van Duyne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert F. Onder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert F. Onder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy Mace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy Mace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathaniel Moran",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nathaniel Moran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3781ih/xml/BILLS-119hr3781ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3781ih/pdf/BILLS-119hr3781ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-05",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3781.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/3781",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "F000484",
+      "P000048",
+      "H001096",
+      "M001211",
+      "B001302",
+      "B001291",
+      "S001172",
+      "D000616",
+      "M001212",
+      "V000134",
+      "O000177",
+      "M000194"
+    ],
+    "sponsor_bioguides": [
+      "M001224"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

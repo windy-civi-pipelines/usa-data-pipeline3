@@ -1,0 +1,190 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4313",
+  "title": "Hospital Inpatient Services Modernization Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend title XVIII of the Social Security Act to extend acute hospital care at home waiver flexibilities, and to require an additional study and report on such flexibilities."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 44 - 0.",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Ways and Means.",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lloyd Smucker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lloyd Smucker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dwight Evans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dwight Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claudia Tenney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudia Tenney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Carey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Carey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael K. Simpson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael K. Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adrian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vern Buchanan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vern Buchanan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 1768",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 891",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2237",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4313ih/xml/BILLS-119hr4313ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4313ih/pdf/BILLS-119hr4313ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4313.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4313",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001199",
+      "E000296",
+      "T000478",
+      "C001126",
+      "S001148",
+      "S001172"
+    ],
+    "sponsor_bioguides": [
+      "B001260"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:03Z"
+  }
+}

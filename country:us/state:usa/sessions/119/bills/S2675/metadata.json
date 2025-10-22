@@ -1,0 +1,189 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2675",
+  "title": "Preventing HEAT Illness and Deaths Act of 2025",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Preventing Health Emergencies And Temperature-related Illness and Deaths Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "A bill to reduce the health risks of heat by establishing the National Integrated Heat Health Information System within the National Oceanic and Atmospheric Administration and the National Integrated Heat Health Information System Interagency Committee to improve extreme heat preparedness, planning, and response, requiring a study, and establishing financial assistance programs to address heat effects, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-08-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-08-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alex Padilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ruben Gallego",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ruben Gallego\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Heinrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Heinrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Wyden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Wyden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernie Sanders",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernie Sanders\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward J. Markey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edward J. Markey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 5104",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2675is/xml/BILLS-119s2675is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2675is/pdf/BILLS-119s2675is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-01",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2675.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2675",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "P000145",
+      "G000574",
+      "H001046",
+      "B001277",
+      "M001176",
+      "W000779",
+      "D000622",
+      "B001288",
+      "S000033"
+    ],
+    "sponsor_bioguides": [
+      "M000133"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

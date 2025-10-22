@@ -1,0 +1,158 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 3735",
+  "title": "IG Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Integrity in Government Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "To amend title 5, United States Code, to establish an Office of Inspector General in the Executive Office of the President and to limit the reasons for which certain Inspectors General may be removed from office, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angie Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angie Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emilia Strong Sykes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emilia Strong Sykes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Ryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher R. Deluzio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher R. Deluzio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill N. Tokuda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jill N. Tokuda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hillary J. Scholten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3735ih/xml/BILLS-119hr3735ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3735ih/pdf/BILLS-119hr3735ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3735.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/3735",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "N000191",
+      "C001119",
+      "S001223",
+      "R000579",
+      "D000530",
+      "T000487"
+    ],
+    "sponsor_bioguides": [
+      "S001221"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:59Z"
+  }
+}

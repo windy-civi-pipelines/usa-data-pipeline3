@@ -1,0 +1,183 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 1696",
+  "title": "DRIVE Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to prohibit the Administrator of the Federal Motor Carrier Safety Administration from issuing a rule or promulgating a regulation requiring certain commercial motor vehicles to be equipped with speed limiting devices, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Deregulating Restrictions on Interstate Vehicles and Eighteen-wheelers Act"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-05-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-05-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joni Ernst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joni Ernst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James E. Risch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernie Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernie Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Rounds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Rounds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Daines",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1696is/xml/BILLS-119s1696is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1696is/pdf/BILLS-119s1696is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-08",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1696.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/1696",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "E000295",
+      "C001096",
+      "S001232",
+      "L000577",
+      "B001305",
+      "R000584",
+      "C000880",
+      "M001242",
+      "R000605"
+    ],
+    "sponsor_bioguides": [
+      "D000618"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:05Z"
+  }
+}

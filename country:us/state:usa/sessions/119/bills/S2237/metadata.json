@@ -1,0 +1,177 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2237",
+  "title": "Hospital Inpatient Services Modernization Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend title XVIII of the Social Security Act to extend acute hospital care at home waiver flexibilities, and to require an additional study and report on such flexibilities."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Finance.",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:44:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James E. Risch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 1768",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 891",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 4313",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2237is/xml/BILLS-119s2237is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2237is/pdf/BILLS-119s2237is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2237.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2237",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "W000790",
+      "T000476",
+      "S001203",
+      "B001243",
+      "W000802",
+      "R000584",
+      "B001288"
+    ],
+    "sponsor_bioguides": [
+      "S001184"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:44:58Z"
+  }
+}

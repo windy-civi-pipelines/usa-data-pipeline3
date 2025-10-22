@@ -1,0 +1,902 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4206",
+  "title": "CONNECT for Health Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Creating Opportunities Now for Necessary and Effective Care Technologies (CONNECT) for Health Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "To amend title XVIII of the Social Security Act to expand access to telehealth services, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-06-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-06-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Schweikert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Schweikert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doris O. Matsui",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doris O. Matsui\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Balderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy Balderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raja Krishnamoorthi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raja Krishnamoorthi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Case",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Case\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Young Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Young Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yvette D. Clarke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suhas Subramanyam",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suhas Subramanyam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nanette Diaz Barrag\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nanette Diaz Barrag\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Budzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Budzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill N. Tokuda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jill N. Tokuda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ritchie Torres",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ritchie Torres\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Landsman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Landsman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salud O. Carbajal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salud O. Carbajal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Riley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Riley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jared F. Golden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared F. Golden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen F. Lynch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen F. Lynch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Guest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Guest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darren Soto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darren Soto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carlos A. Gimenez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Levin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald Norcross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald Norcross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Larsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Larsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janelle S. Bynum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janelle S. Bynum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joyce Beatty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joyce Beatty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rashida Tlaib",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rashida Tlaib\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark DeSaulnier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert P. Bresnahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert P. Bresnahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Dingell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Menendez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Menendez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry C. \"Hank\" Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry C. \\\"Hank\\\" Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheila Cherfilus-McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheila Cherfilus-McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Meng",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Meng\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April McClain Delaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April McClain Delaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzan K. DelBene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzan K. DelBene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzanne Bonamici\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haley M. Stevens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haley M. Stevens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pablo Jose Hern\u00e1ndez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pablo Jose Hern\\u00e1ndez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam T. Liccardo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam T. Liccardo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Foster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Foster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terri A. Sewell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terri A. Sewell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herbert C. Conaway",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Herbert C. Conaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher R. Deluzio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher R. Deluzio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jahana Hayes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jahana Hayes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny K. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny K. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Betty McCollum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Betty McCollum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanford D. Bishop",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanford D. Bishop\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark E. Amodei",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark E. Amodei\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Vargas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Vargas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie Raskin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamie Raskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lois Frankel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lois Frankel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hillary J. Scholten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emilia Strong Sykes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emilia Strong Sykes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jared Huffman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared Huffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabe Amo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabe Amo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maxwell Frost",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maxwell Frost\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kweisi Mfume",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kweisi Mfume\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James A. Himes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James A. Himes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Ciscomani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Ciscomani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Ivey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Ivey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ami Bera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ami Bera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Salinas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrea Salinas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan L. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan L. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William R. Keating",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William R. Keating\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Garamendi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Garamendi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley Scott Schneider",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bradley Scott Schneider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chrissy Houlahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie A. Stansbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie A. Stansbury\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Chu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Chu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Wasserman Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "S 1261",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4206ih/xml/BILLS-119hr4206ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4206ih/pdf/BILLS-119hr4206ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-26",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4206.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4206",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001183",
+      "M001163",
+      "B001306",
+      "B001298",
+      "K000391",
+      "C001055",
+      "G000583",
+      "K000397",
+      "C001067",
+      "S001230",
+      "M001238",
+      "M001227",
+      "N000147",
+      "B001300",
+      "B001315",
+      "T000487",
+      "T000486",
+      "C001068",
+      "L000601",
+      "C001123",
+      "C001112",
+      "R000622",
+      "G000592",
+      "L000562",
+      "G000591",
+      "S001200",
+      "G000593",
+      "L000593",
+      "M001196",
+      "P000613",
+      "N000188",
+      "L000560",
+      "B001326",
+      "B001281",
+      "T000481",
+      "E000301",
+      "D000623",
+      "B001327",
+      "D000624",
+      "M001226",
+      "J000288",
+      "C001127",
+      "S001157",
+      "M001188",
+      "M001232",
+      "D000617",
+      "B001278",
+      "S001215",
+      "H001103",
+      "L000607",
+      "F000454",
+      "S001185",
+      "C001136",
+      "D000530",
+      "H001081",
+      "D000096",
+      "K000402",
+      "L000582",
+      "M001143",
+      "B000490",
+      "A000369",
+      "V000130",
+      "R000606",
+      "F000462",
+      "S001221",
+      "G000604",
+      "S001223",
+      "H001068",
+      "A000380",
+      "F000476",
+      "M000687",
+      "H001047",
+      "C001133",
+      "S001228",
+      "I000058",
+      "B001287",
+      "S001226",
+      "B001285",
+      "J000309",
+      "A000381",
+      "K000375",
+      "G000559",
+      "S001190",
+      "H001085",
+      "S001218",
+      "C001072",
+      "C001080",
+      "W000797"
+    ],
+    "sponsor_bioguides": [
+      "T000460"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:01Z"
+  }
+}

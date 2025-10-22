@@ -1,0 +1,156 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 416",
+  "title": "A resolution expressing support for the designation of September 2025 as \"Sickle Cell Disease Awareness Month\" in order to educate communities across the United States about sickle cell disease and the need for research, early detection methods, effective treatments, and preventative care programs with respect to complications from sickle cell disease and conditions related to sickle cell disease.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6798; text: CR S6795)",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Lankford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Lankford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Padilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Hyde-Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth A. Warren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth A. Warren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Klobuchar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Klobuchar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tim Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Agreed to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres416ats/xml/BILLS-119sres416ats.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres416ats/pdf/BILLS-119sres416ats.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres416.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/416",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001288",
+      "L000575",
+      "P000145",
+      "H001079",
+      "W000817",
+      "K000367",
+      "W000790"
+    ],
+    "sponsor_bioguides": [
+      "S001184"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:07Z"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5596",
+  "title": "FARMS Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Freeze AEWR and Restore Monetary Sense Act"
+    },
+    {
+      "note": "",
+      "title": "To authorize the Secretary of Labor to retain in effect the adverse effect wage rate for a period of 2 years if the Secretary determines that there is not a valid method to calculate such rate, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-09-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Claudia Tenney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudia Tenney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elise M. Stefanik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elise M. Stefanik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russ Fulcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Russ Fulcher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Guest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Guest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ralph Norman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ralph Norman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert B. Aderholt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert B. Aderholt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Huizenga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Huizenga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Baird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Baird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack Bergman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack Bergman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John R. Moolenaar",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John R. Moolenaar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5596ih/xml/BILLS-119hr5596ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5596ih/pdf/BILLS-119hr5596ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-26",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5596.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5596",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "T000478",
+      "T000467",
+      "S001196",
+      "F000469",
+      "G000594",
+      "G000591",
+      "N000190",
+      "A000055",
+      "H001058",
+      "B001307",
+      "B001301"
+    ],
+    "sponsor_bioguides": [
+      "M001194"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}

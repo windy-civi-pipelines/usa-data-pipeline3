@@ -1,0 +1,123 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5166",
+  "title": "Financial Services and General Government Appropriations Act, 2026",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "District of Columbia Appropriations Act, 2026"
+    },
+    {
+      "note": "",
+      "title": "Department of the Treasury Appropriations Act, 2026"
+    },
+    {
+      "note": "",
+      "title": "Executive Office of the President Appropriations Act, 2026"
+    },
+    {
+      "note": "",
+      "title": "Making appropriations for financial services and general government for the fiscal year ending September 30, 2026, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Judiciary Appropriations Act, 2026"
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 193.",
+      "date": "2025-09-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    },
+    {
+      "description": "The House Committee on Appropriations reported an original measure, H. Rept. 119-236, by Mr. Joyce (OH).",
+      "date": "2025-09-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David P. Joyce",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David P. Joyce\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5166rh/xml/BILLS-119hr5166rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5166rh/pdf/BILLS-119hr5166rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-05",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "H. Rept. 119-236",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt236/CRPT-119hrpt236.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5166.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5166",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "J000295"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:05Z"
+  }
+}

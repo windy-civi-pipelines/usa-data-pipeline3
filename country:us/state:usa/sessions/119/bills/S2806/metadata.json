@@ -1,0 +1,196 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2806",
+  "title": "Eliminate Shutdowns Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to provide for automatic continuing appropriations."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to S. 2806 was not invoked (Record Vote No. 533) made in Senate.",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 533. (: CR S6824-6825)",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S6799)",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S6799)",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.",
+      "date": "2025-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ron Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HR 5130",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2721",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5552",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2806pcs/xml/BILLS-119s2806pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2806pcs/pdf/BILLS-119s2806pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-16",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SAMDT 3913",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/3913",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2806.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2806",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000577",
+      "S001217"
+    ],
+    "sponsor_bioguides": [
+      "J000293"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:02Z"
+  }
+}

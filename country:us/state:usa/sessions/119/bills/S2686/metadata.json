@@ -1,0 +1,165 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2686",
+  "title": "DC CRIMES Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "DC Criminal Reforms to Immediately Make Everyone Safe Act"
+    },
+    {
+      "note": "",
+      "title": "A bill to limit youth offender status in the District of Columbia to individuals 18 years of age or younger, to direct the Attorney General for the District of Columbia to establish and operate a publicly accessible website containing updated statistics on juvenile crime in the District of Columbia, to amend the District of Columbia Home Rule Act to prohibit the Council of the District of Columbia from enacting changes to existing criminal liability sentences, and for other purposes."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "date": "2025-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-22T23:45:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tom Cotton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Cotton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Hagerty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Hagerty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Cornyn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cornyn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric S. Schmitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric S. Schmitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Banks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jim Banks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2686is/xml/BILLS-119s2686is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2686is/pdf/BILLS-119s2686is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2686.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2686",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001095",
+      "C001075",
+      "S001232",
+      "B001305",
+      "H000601",
+      "C001056",
+      "S001227"
+    ],
+    "sponsor_bioguides": [
+      "B001299"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-22T23:45:04Z"
+  }
+}
