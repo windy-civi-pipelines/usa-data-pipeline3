@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEN25967-D30-10-D92">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2721 IS: Prevent Government Shutdowns Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2721</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250904">September 4, 2025</action-date>
+            <action-desc><sponsor name-id="S378">Mr. Lankford</sponsor> (for himself, <cosponsor name-id="S317">Mr. Barrasso</cosponsor>, <cosponsor name-id="S375">Mr.
+                    Daines</cosponsor>, <cosponsor name-id="S287">Mr. Cornyn</cosponsor>, <cosponsor name-id="S417">Mr. Budd</cosponsor>, <cosponsor name-id="S373">Mr.
+                    Cassidy</cosponsor>, <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>,
+                    <cosponsor name-id="S412">Mr. Tuberville</cosponsor>, <cosponsor name-id="S416">Mrs. Britt</cosponsor>, <cosponsor name-id="S376">Ms. Ernst</cosponsor>, and
+                    <cosponsor name-id="S153">Mr. Grassley</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for a period of continuing appropriations in the event of a lapse
+            in appropriations under the normal appropriations process, to establish procedures and
+            consequences in the event of a failure to enact appropriations, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H9E7EA99F8493429ABBA9F43FC72677DF">
+        <section section-type="section-one" id="H2E7C3F26371E4422AEB2E5544CA40B3A">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prevent Government Shutdowns Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H19EC759F8FC045FF9A9A029CAB056489">
+            <enum>2.</enum>
+            <header>Automatic continuing appropriations</header>
+            <subsection id="HF9249EDDBDEC4DA9A27A71DDFF6689CF">
+                <enum>(a)</enum>
+                <header>In General</header>
+ <text>Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/13">chapter 13</external-xref> of title 31, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="HA73980EF3B1D4FAEAA0046120ABC0720">
+                    <section id="H73637FE4B29A4E9CB05D61CEF9A4DE45">
+                        <enum>1311.</enum>
+                        <header>Automatic continuing appropriations</header>
+                        <subsection id="H14C1A979ECDD46E3B408A52079332AD2">
+                            <enum>(a)</enum>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                            <paragraph id="HEDB70E240B7F418D9675DCAFAF0FDFE2">
+                                <enum>(1)</enum>
+ <text>the term <quote>lapse in appropriations</quote> means a time period during which—</text>
+                                <subparagraph id="H8DD8F3882A7E4F4A968BD2A1812B31F8">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the applicable full-year appropriation Act for a program, project, or activity has not been enacted for the current fiscal year;</text>
+                                </subparagraph>
+                                <subparagraph id="HBBB46056505440D28E0BCF2AE6D2C30D">
+                                    <enum>(B)</enum>
+ <text>the program, project, or activity was provided funding in the preceding applicable appropriation Act; and</text>
+                                </subparagraph>
+                                <subparagraph id="H06598B2B59134FA1890C01251356C2ED">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">no continuing appropriation Act is in effect for such program, project, or activity; and</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HCB07E6057828409EB3597766ACD99484">
+                                <enum>(2)</enum>
+ <text>the term <quote>preceding applicable appropriation Act</quote> means—</text>
+                                <subparagraph id="HF36B4C29B9DC4292A3630DA1B18D67B3">
+                                    <enum>(A)</enum>
+ <text>the most recent continuing appropriation Act enacted; or</text>
+                                </subparagraph>
+                                <subparagraph id="H09BC97B463A24AFF8A1175BDDC33FE60">
+                                    <enum>(B)</enum>
+ <text>if no continuing appropriation Act has been enacted for the current fiscal year, the most recent applicable full-year appropriation Act (including a full-year continuing appropriation Act) enacted for the immediately preceding fiscal year (excluding any supplemental appropriation Act).</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H7403B9B64EB543D6B754E2CACF899DA0">
+                            <enum>(b)</enum>
+                            <paragraph commented="no" display-inline="yes-display-inline" id="H4838E3ACE616403CA63AD831B1F79910">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">On and after the first day of each fiscal year, if a lapse in appropriations occurs with respect to a program, project, or activity, there are appropriated such sums as may be necessary, at the rate for operations as provided in the preceding applicable appropriation Acts, under the authorities and conditions provided in such Acts, for continuing programs, projects, or activities (including the costs of direct loans and loan guarantees) that were conducted under such Acts and for which appropriations, funds, or other authorities were made available in such Acts.</text>
+                            </paragraph>
+                            <paragraph id="HB466772C729F42438BADEA2583F5F7F0" indent="up1">
+                                <enum>(2)</enum>
+                                <subparagraph commented="no" display-inline="yes-display-inline" id="H8296BDC3669B48DBBA5D1B0E8032FF2C">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">Appropriations and funds made available and authority granted under paragraph (1) shall be available for a period of 14 calendar days.</text>
+                                </subparagraph>
+                                <subparagraph id="HBFC288271E6A4645BFC0F154C63521C1" indent="up1">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">If, at the end of the first 14 calendar-day period during which appropriations and funds are made available and authority is granted under paragraph (1), and the end of every 14 calendar-day period thereafter, a lapse in appropriations with respect to a program, project, or activity continues, the appropriations and funds made available and authority granted under paragraph (1) with respect to the program, project, or activity shall be extended for an additional 14 calendar-day period.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HD9A991B6F5604E0DB50B6C9FDCCAD546" indent="up1">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">For entitlements and other mandatory payments whose budget authority was provided for in preceding applicable appropriation Acts or under this section, and for activities under the Food and Nutrition Act of 2008, appropriations and funds made available for a fiscal year under paragraph (1) shall be at the rate necessary to maintain program levels under current law, and under the authority and conditions provided in the preceding applicable appropriation Act.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H8D600E9C057747F48A301D511C70F9F4">
+                            <enum>(c)</enum>
+ <text display-inline="yes-display-inline">Appropriations and funds made available, and authority granted, for any fiscal year pursuant to this section for a program, project, or activity shall be available, in accordance with subsection (b), for the period—</text>
+                            <paragraph id="HEB7489CAE76541F6A165A8DA38DB809F">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">beginning on the first day of any lapse in appropriations during such fiscal year; and</text>
+                            </paragraph>
+                            <paragraph id="H67B93ABFFB3149E490361AF3E292D450">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">ending on the date of enactment of an appropriation Act for such fiscal year with respect to the account for such program, project, or activity (whether or not such Act provides appropriations for such program, project, or activity) or a continuing appropriation Act providing funding for the program, project, or activity, as applicable.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H26E47ABF236147018AE02ADE0F40E38A">
+                            <enum>(d)</enum>
+ <text display-inline="yes-display-inline">Expenditures made for a program, project, or activity for any fiscal year pursuant to this section shall be charged to the applicable appropriation, fund, or authorization whenever an appropriation Act for such fiscal year with respect to the account for a program, project, or activity or a law making continuing appropriations until the end of such fiscal year for such program, project, or activity is enacted.</text>
+                        </subsection>
+                        <subsection id="H8AC4BBBC0495451CA0CC6848DDE5F6FD">
+                            <enum>(e)</enum>
+ <text display-inline="yes-display-inline">Appropriations and funds made available by, or authority granted pursuant to, this section may be used without regard to the time limitations for submission and approval of apportionments set forth in section 1513 of this title, but nothing in this section shall be construed to waive any other provision of law governing the apportionment of funds.</text>
+                        </subsection>
+                        <subsection id="HA5374E11AA524ED88A752E6F8FED63C2">
+                            <enum>(f)</enum>
+ <text display-inline="yes-display-inline">Notwithstanding any other provision of this section, except for subsection (c), for those programs that would otherwise have high initial rates of operation or complete distribution of appropriations at the beginning of the applicable fiscal year because of distributions of funding to States, foreign countries, grantees, or others, such high initial rates of operation or complete distribution shall not be made, and no grants shall be awarded for such programs funded by this section that would impinge on final funding prerogatives.</text>
+                        </subsection>
+                        <subsection id="HAAFBF4EF9F6143B3B8D40478D10DE341">
+                            <enum>(g)</enum>
+ <text display-inline="yes-display-inline">This section shall be implemented so that only the most limited funding action of that permitted shall be taken in order to provide for continuation of programs, projects, and activities.</text>
+                        </subsection>
+                        <subsection id="HBFAA97C406094C3B892496DCD598FB91">
+                            <enum>(h)</enum>
+ <text display-inline="yes-display-inline">This section shall not apply to a program, project, or activity for any period during a fiscal year, if any other provision of law (other than an authorization of appropriations or an appropriation Act for a prior fiscal year making carryover funds available)—</text>
+                            <paragraph id="H3E94A4B6ADF9455584D9644F6A1F75CF">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">makes an appropriation, makes funds available, or grants authority for such program, project, or activity to continue for such period; or</text>
+                            </paragraph>
+                            <paragraph id="HA3B595B11C584EB2940C958086DD3218">
+                                <enum>(2)</enum>
+ <text>specifically provides that no appropriation shall be made, no funds shall be made available, or no authority shall be granted for such program, project, or activity to continue for such period.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H5E1301255EEF4193872FB26CC383EF45">
+                            <enum>(i)</enum>
+                            <paragraph commented="no" display-inline="yes-display-inline" id="HB7F5722BF8E6458581A1888AFA0C9EF6">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Subject to paragraph (2), the head of an agency may, with the approval of the Office of Management and Budget, transfer funds made available to such agency for an appropriation account pursuant to this section to any other appropriation account of such agency.</text>
+                            </paragraph>
+                            <paragraph id="HDBFBAA23FABD48ED94CCF23760E4D2B1" indent="up1">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Not more than 5 percent of any appropriation account may be transferred to another appropriation account under paragraph (1).</text>
+                            </paragraph>
+                            <paragraph id="H73B1495DC2EC4860BF1D65D63AE3DD0B" indent="up1">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">The authority provided by this subsection to transfer appropriated funds—</text>
+                                <subparagraph id="idfb0ed9d9864348e49194156d36e9122a" commented="no">
+                                    <enum>(A)</enum>
+ <text>is in addition to any other transfer authority provided elsewhere in this section;</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id6102b1e5476b49b5baab66a95b5f7924">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">may be used only to provide funds for items relating to activities necessary for a program, project, or activity that have a higher priority than the programs, projects, or activities carried out using amounts from the accounts from which the funds are transferred; and</text>
+                                </subparagraph>
+                                <subparagraph id="H9A9B8F8D43754D028DCA1746B86A838E">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">may not be used to provide funds for an item for which Congress has specifically denied funds.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H4B44DC0F1FB643E58E2F5E60A7455FAF" indent="up1">
+                                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">The head of an agency executing a transfer under this subsection shall promptly notify the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives of any transfer of funds to or from any appropriation.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H4FB821021F314E71B7BC3B067F6A6BC5" commented="no">
+                            <enum>(j)</enum>
+ <text display-inline="yes-display-inline">There shall be an expedited procedure for congressional review and adoption of a joint resolution containing anomalies transmitted by the President.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H045AA3B36D1D40E28D5546CFC9FD1E51">
+                <enum>(b)</enum>
+                <header>Clerical Amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/13">chapter 13</external-xref> of title 31, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/31/1310">section 1310</external-xref> the following:</text>
+                <quoted-block style="OLC" id="H1DAE8F75A2EB4157AAC8CD5A1CD9B44F">
+                    <toc>
+                        <toc-entry idref="H73637FE4B29A4E9CB05D61CEF9A4DE45" level="section">1311.
+                            Automatic continuing appropriations.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="H2C03CE32A75A402D9AC5793C44913C52">
+            <enum>3.</enum>
+            <header>Timely enactment of appropriation Acts</header>
+            <subsection id="HE0F39B364DCF4D2FA2424EADCFD51FE7">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section—</text> <paragraph id="HCE25DEE1D86D42649B29AAF9F4EB9460"> <enum>(1)</enum> <text>the term <term>covered officer or employee</term> means—</text>
+                    <subparagraph id="H3F2306DDA721401097B9661242CCDB77">
+                        <enum>(A)</enum>
+ <text>an officer or employee of the Office of Management and Budget;</text> </subparagraph> <subparagraph id="H430CFBCF6A424CB3B00785EECCE48315"> <enum>(B)</enum> <text>a Member of Congress; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H0ACB89BD77FF420D9338839D72829ED4">
+                        <enum>(C)</enum>
+ <text>an employee of the personal office of a Member of Congress, a committee of either House of Congress, or a joint committee of Congress;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H95DDCC351DC543AE97D42B9267ABB635">
+                    <enum>(2)</enum>
+ <text>the term <term>covered period</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H0E918FEA92CF444681A381FA7E043BB8"> <enum>(A)</enum> <text>means any period of automatic continuing appropriations; and</text>
+                    </subparagraph>
+                    <subparagraph id="H00488891045448A88E897A0C9443D543">
+                        <enum>(B)</enum>
+ <text>with respect to the legislative branch—</text> <clause id="HD45CEE2816754898B62699D4699EC6F6"> <enum>(i)</enum> <text>does not include any period of automatic continuing appropriations that occurs during the period—</text>
+                            <subclause id="HE8C97195DAB24C69A8662262E39CA141">
+                                <enum>(I)</enum>
+ <text>beginning at the time at which general appropriation Acts providing funding for the entire Federal Government (including a continuing appropriation Act) have been enacted or passed in identical form by both Houses and transmitted to Secretary of the Senate or Clerk of the House for enrollment and presentment to the President for his signature; and</text>
+                            </subclause>
+                            <subclause id="HB4979125CA5B4D308893D7F2FA75747A">
+                                <enum>(II)</enum>
+ <text>ending at the time at which 1 or more general appropriation Acts—</text>
+                                <item id="HF3E3910BD1D64F15A2C81CEE8216B462">
+                                    <enum>(aa)</enum>
+ <text>are vetoed by the President; or</text> </item> <item id="H5BB47369AB8A4E598F0AE4BDE2C6B5CB"> <enum>(bb)</enum> <text>do not become law without the President's signature under article I, section 7 of the Constitution of the United States based on an adjournment of the Congress; and</text>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <clause id="H07340CF41A984AF2A79BE514CA9BDAC4">
+                            <enum>(ii)</enum>
+ <text>includes any period of automatic continuing appropriations that is not a period described in clause (i) and that follows a veto or a failure to become law (as described in item (bb) of clause (i)(II)) of 1 or more general appropriation Acts;</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H27D48FFF8CE34894BAD2B2BAAB3A84D4">
+                    <enum>(3)</enum>
+ <text>the term <term>Member of Congress</term> has the meaning given that term in section 2106 of title 5, United States Code;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="HFC065E1ED0B646F1B43DE11D0CD0E61A">
+                    <enum>(4)</enum>
+ <text>the term <term>National Capital Region</term> has the meaning given that term in section 8702 of title 40, United States Code; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H45924DB98E2941D4A7E460B687B0BF11">
+                    <enum>(5)</enum>
+ <text>the term <term>period of automatic continuing appropriations</term> means a period during which automatic continuing appropriations under section 1311 of title 31, United States Code, as added by section 2 of this Act, are in effect with respect to 1 or more programs, projects, or activities.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H8D2BC4F6F7D44E17900EA2684F9216EB">
+                <enum>(b)</enum>
+                <header>Limits on travel expenditures</header>
+                <paragraph id="HF2F9167D3F994B858A92F1A4AFFA05DE">
+                    <enum>(1)</enum>
+                    <header>Limits on official travel</header>
+                    <subparagraph id="H5B6E562362F74445AD6FC512D84F214D">
+                        <enum>(A)</enum>
+                        <header>Limitation</header>
+ <text>Except as provided in subparagraph (B), no amounts may be obligated or expended for official travel by a covered officer or employee during a covered period.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H8E1E6737C06E4613885D86DB03D503E1">
+                        <enum>(B)</enum>
+                        <header display-inline="yes-display-inline">Exceptions</header>
+                        <clause commented="no" display-inline="no-display-inline" id="H4DFFFC40E3334CFAAE8FCC77334CFA60">
+                            <enum>(i)</enum>
+                            <header display-inline="yes-display-inline">Return to DC</header>
+ <text display-inline="yes-display-inline">If a covered officer or employee is away from the seat of Government on the date on which a covered period begins, funds may be obligated and expended for official travel for a single return trip to the seat of Government by the covered officer or employee.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="H8E9C32F298174C198F6FA95C0C26B5B2">
+                            <enum>(ii)</enum>
+                            <header>Travel in National Capital Region</header>
+ <text>During a covered period, amounts may be obligated and expended for official travel by a covered officer or employee from one location in the National Capital Region to another location in the National Capital Region.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="HF196F841E32F4966A826AD17734FB33F">
+                            <enum>(iii)</enum>
+                            <header>National security events</header>
+ <text>During a covered period, if a national security event that triggers a continuity of operations or continuity of Government protocol occurs, amounts may be obligated and expended for official travel by a covered officer or employee for any official travel relating to responding to the national security event or implementing the continuity of operations or continuity of Government protocol.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HF64C1C3FB88E455BAD9FC018016EE3D5">
+                    <enum>(2)</enum>
+                    <header>Restriction on use of campaign funds</header>
+ <text display-inline="yes-display-inline">Section 313 of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30114">52 U.S.C. 30114</external-xref>) is amended—</text>
+                    <subparagraph id="H06F201493B924292B83071175EDFF847">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in subsection (a)(2), by striking <quote>for ordinary</quote> and inserting <quote>except as provided in subsection (d), for ordinary</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HEC612E4F57754C9F936A484B7C46046E">
+                        <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H95980D2BEE4F4FAD8C43FEECCEDA256D"> <subsection id="H79544C206AC84C0A80E59DAB33047287"> <enum>(d)</enum> <header>Restriction on use of campaign funds for official travel during automatic continuing appropriations</header> <paragraph id="HCE51F02AE75E4C99BF5BB93AC85E7AB4"> <enum>(1)</enum> <header>In general</header> <text>Except as provided in paragraph (2), during a covered period (as defined in section 3 of the <short-title>Prevent Government Shutdowns Act of 2025</short-title>), a contribution or donation described in subsection (a) may not be obligated or expended for travel in connection with duties of the individual as a holder of Federal office.</text>
+                                </paragraph>
+                                <paragraph id="H68A92D2BA42849B3B6A4EB7527F49FBD">
+                                    <enum>(2)</enum>
+                                    <header>Return to DC</header>
+ <text>If the individual is away from the seat of Government on the date on which a covered period (as so defined) begins, a contribution or donation described in subsection (a) may be obligated and expended for travel by the individual to return to the seat of Government.</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="HE55EA1A1D0D641E090D4A17B4E31C8A1">
+                <enum>(c)</enum>
+                <header>Procedures in the Senate and House of Representatives</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="H629CF0723AD14B4891F4F83364BB0517">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>During a covered period, in the Senate and the House of Representatives—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H586AAF07BD45463ABF4D81AB5DB9E612">
+                        <enum>(A)</enum>
+ <text>it shall not be in order to move to proceed to any matter except for—</text>
+                        <clause commented="no" id="H6C8C0FA427BA4EF79F0DBEE13E71E58B">
+                            <enum>(i)</enum>
+ <text>a measure making appropriations for the fiscal year during which the covered period begins;</text>
+                        </clause>
+                        <clause commented="no" id="HFE24055DD1E447F9AEA0956C012172AA">
+                            <enum>(ii)</enum>
+ <text>any motion required to determine the presence of or produce a quorum;</text>
+                        </clause>
+                        <clause id="H51FCAE14CA904BCEBC50E1E8A41A4554">
+                            <enum>(iii)</enum>
+ <text>a reconciliation bill or resolution considered pursuant to section 310 of the Congressional Budget Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/2/641">2 U.S.C. 641</external-xref>);</text>
+                        </clause>
+                        <clause id="H578B5CFC177740D09256868F9B5B3AF2">
+                            <enum>(iv)</enum>
+ <text>a bill or resolution addressing the statutory limit on the public debt under section 3101 of title 31, United States Code;</text>
+                        </clause>
+                        <clause id="HFDE48CF7CD73455C9CEFF2F0B036AC78">
+                            <enum>(v)</enum>
+ <text>a measure that relates to an emergency or disaster declared by the President; or</text>
+                        </clause>
+                        <clause commented="no" id="H0E667E8AAEB4489B9969AEC39D1BDEFE">
+                            <enum>(vi)</enum>
+ <text>on and after the 30th calendar day after the first day of a covered period—</text>
+                            <subclause id="H1E1B8B48058E467896B99B5DCC159649">
+                                <enum>(I)</enum>
+ <text>the nomination of an individual—</text> <item id="H65B0BE2E0E044D2BACE959831A734EE0"> <enum>(aa)</enum> <text>to a position at level I of the Executive Schedule under section 5312 of title 5, United States Code; or</text>
+                                </item>
+                                <item commented="no" id="HF7714CAD321F4D2F992E786D322D298E">
+                                    <enum>(bb)</enum>
+ <text>to serve as Chief Justice of the United States or an Associate Justice of the Supreme Court of the United States; or</text>
+                                </item>
+                            </subclause>
+                            <subclause commented="no" id="H2B36BDDEA11144F79C43D8676E8E3345">
+                                <enum>(II)</enum>
+ <text>a measure extending the period during which a program, project, or activity is authorized to be carried out (without substantive change to the program, project, or activity or any other program, project, or activity) if—</text>
+                                <item commented="no" id="H6AAB39A8F0FE4904A7A49D684FA3FDD1">
+                                    <enum>(aa)</enum>
+ <text>an appropriation Act with respect to the program, project, or activity for the fiscal year during which the covered period occurs has not been enacted; and</text>
+                                </item>
+                                <item commented="no" id="H12849A92CFF4481383A2A968823A9E88">
+                                    <enum>(bb)</enum>
+ <text>the program, project, or activity has expired since the beginning of such fiscal year or will expire during the 30-day period beginning on the date of the motion;</text>
+                                </item>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H0768292368AB4364BF1E028F24F46261">
+                        <enum>(B)</enum>
+ <text>it shall not be in order to move to recess or adjourn for a period of more than 23 hours; and</text>
+                    </subparagraph>
+                    <subparagraph id="H344046D78712438E96EA570DF15773D0">
+                        <enum>(C)</enum>
+ <text>at noon each day, or immediately following any constructive convening of the Senate under rule IV, paragraph 2 of the Standing Rules of the Senate, the Presiding Officer shall direct the clerk to determine whether a quorum is present.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H85A188F7C55D4007A09D1C85A4E815FF">
+                    <enum>(2)</enum>
+                    <header>Waiver</header>
+                    <subparagraph id="HBFB0388150F14880B3A86AC6B8829DD1">
+                        <enum>(A)</enum>
+                        <header>Limitation on period</header>
+ <text>It shall not be in order in the Senate or the House of Representatives to move to waive any provision of paragraph (1) for a period that is longer than 7 days.</text>
+                    </subparagraph>
+                    <subparagraph id="HB6D5887BEB36418499D651B013F2C8B1">
+                        <enum>(B)</enum>
+                        <header>Supermajority vote</header>
+ <text>A provision of paragraph (1) may only be waived or suspended upon an affirmative vote of two-thirds of the Members of the applicable House of Congress, duly chosen and sworn.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H229C3410324F482C9C7CA4FC7B03ED44">
+            <enum>4.</enum>
+            <header>Budgetary effects</header>
+            <subsection id="H1F24C91C10CF41238AA4BBAB584253F2">
+                <enum>(a)</enum>
+                <header>Classification of budgetary effects</header>
+ <text>The budgetary effects of this Act and the amendments made by this Act shall be estimated as if this Act and the amendments made by this Act are discretionary appropriation Acts for purposes of section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901</external-xref>).</text>
+            </subsection>
+            <subsection id="H1DD1208137304F4FB46441C2852C8947">
+                <enum>(b)</enum>
+                <header>Baseline</header>
+ <text>For purposes of calculating the baseline under section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/907">2 U.S.C. 907</external-xref>), the provision of budgetary resources under section 1311 of title 31, United States Code, as added by this Act, for an account shall be considered to be a continuing appropriation in effect for such account for less than the entire current year.</text>
+            </subsection>
+            <subsection id="H5DE990950F3948A4B8C785A12AE9A189">
+                <enum>(c)</enum>
+                <header>Enforcement of discretionary spending limits</header>
+                <paragraph id="H976347E0E96E449C92D3BE3D965C8C25">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>For purposes of enforcing the discretionary spending limits under section 251(a) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(a)</external-xref>), the budgetary resources made available under section 1311 of title 31, United States Code, as added by this Act, shall be considered part-year appropriations for purposes of section 251(a)(4) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(a)(4)</external-xref>).</text>
+                </paragraph>
+                <paragraph commented="no" id="H77BAE4AC1E884B988774FD731D75EC6E">
+                    <enum>(2)</enum>
+                    <header>Application</header>
+ <text display-inline="yes-display-inline">If a report under section 254(f) of the Balanced Budget and Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/904">2 U.S.C. 904(f)</external-xref>) is required during a lapse in appropriations, the due date of such report shall be the later of—</text>
+                    <subparagraph commented="no" id="HA0D0495409B14271BA2DCB74BAA55BDE">
+                        <enum>(A)</enum>
+ <text>the date specified in section 251(a)(1) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(a)(1)</external-xref>); or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H6828504C39F847A084CCB50388FA848A">
+                        <enum>(B)</enum>
+ <text>the date that is 30 calendar days after the first day of the lapse in appropriations.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H9D0032313C074DFF8F9E7EBEE2C21A9F">
+            <enum>5.</enum>
+            <header>Effective date</header>
+ <text display-inline="no-display-inline">This Act and the amendments made by this Act shall take effect on September 30, 2025.</text>
+        </section>
+    </legis-body>
+</bill>
+

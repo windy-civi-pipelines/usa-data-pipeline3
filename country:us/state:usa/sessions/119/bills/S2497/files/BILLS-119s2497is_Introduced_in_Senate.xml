@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25589-HJX-LR-M5S">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2497 IS: Fair Billing Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2497</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250729">July 29, 2025</action-date>
+            <action-desc><sponsor name-id="S388">Ms. Hassan</sponsor> (for herself and <cosponsor name-id="S411">Mr. Marshall</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSFI00">Committee
+                    on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to require a separate
+            identification number and an attestation for each off-campus outpatient department of a
+            provider.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Billing Act</short-title></quote>.</text>
+        </section>
+        <section id="H863DDF84205B4D3BBA39F72C4B51A16A" section-type="subsequent-section" display-inline="no-display-inline">
+            <enum>2.</enum>
+            <header>Requiring a separate identification number and an attestation for each
+                off-campus outpatient department of a provider</header>
+            <subsection id="H59D92C5D97F445178D7C008669F6078B">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1833(t) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l(t)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="H6814ACB8AF0F46198998867FDFC48759" display-inline="no-display-inline">
+                    <paragraph id="H3C58B2B6D5C2448BA5B067CA57E1563C">
+                        <enum>(23)</enum>
+                        <header>Use of unique health identifiers; attestation</header>
+                        <subparagraph id="HBBBAF48FBBD044D282ABA6C6E3299B0D">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">No payment may be made under this subsection (or under an applicable payment system pursuant to paragraph (21)) for items and services furnished on or after January 1, 2026, by an off-campus outpatient department of a provider (as defined in subparagraph (C)) unless—</text>
+                            <clause id="HB31C2518814C430AB95716536F4B9700">
+                                <enum>(i)</enum>
+ <text>such department has obtained, and such items and services are billed under, a standard unique health identifier for health care providers (as described in section 1173(b)) that is separate from such identifier for such provider;</text>
+                            </clause>
+                            <clause id="HE0D2B58AD71743BEB10C71ECAA85E2D4">
+                                <enum>(ii)</enum>
+ <text>such provider has submitted to the Secretary, during the 2-year period ending on the date such items and services are so furnished, an initial provider-based status attestation that such department is compliant with the requirements described in section 413.65 of title 42, Code of Federal Regulations (or a successor regulation); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="HA149413DFEB7445B8BBC6EB938B36CC1">
+                                <enum>(iii)</enum>
+ <text>after such provider has submitted an attestation under clause (ii), such provider has submitted a subsequent attestation within the timeframe specified by the Secretary.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H85D2E8ADEC134B44A2182707BA088C8C">
+                            <enum>(B)</enum>
+                            <header>Process for submission and review</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this paragraph, the Secretary shall, through notice and comment rulemaking, establish a process for each provider with an off-campus outpatient department of a provider to submit an initial and subsequent attestation pursuant to clauses (ii) and (iii), respectively, of subparagraph (A), and for the Secretary to review each such attestation and determine, through site visits, remote audits, or other means (as determined appropriate by the Secretary), whether such department is compliant with the requirements described in such subparagraph.</text>
+                        </subparagraph>
+                        <subparagraph id="H57E853A8F3B44D0E985FE6A8A6CF2E56">
+                            <enum>(C)</enum>
+                            <header>Off-campus outpatient department of a provider defined</header>
+ <text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>off-campus outpatient department of a provider</term> means a department of a provider (as defined in section 413.65 of title 42, Code of Federal Regulations, or any successor regulation) that is not located—</text>
+                            <clause id="HFF3CAF36F7D14E0FB68C850CC43B203B">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">on the campus (as defined in such section) of such provider; or</text>
+                            </clause>
+                            <clause id="H331E4453365D488CA81BC9EC262F5F56">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">within the distance (described in such definition of campus) from a remote location of a hospital facility (as defined in such section).</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H88992193C37148D5864E88A25227A569">
+                <enum>(b)</enum>
+                <header>HHS OIG analysis</header>
+ <text display-inline="yes-display-inline">Not later than January 1, 2030, the Inspector General of the Department of Health and Human Services shall submit to Congress—</text>
+                <paragraph id="H983BF9597C524557A4C4B3351D076204">
+                    <enum>(1)</enum>
+ <text>an analysis of the process established by the Secretary of Health and Human Services to conduct the reviews and determinations described in section 1833(t)(23)(B) of the Social Security Act, as added by subsection (a) of this section; and</text>
+                </paragraph>
+                <paragraph id="H763D3B17EEDF42099BA4DCE332C562FB" commented="no" display-inline="no-display-inline">
+                    <enum>(2)</enum>
+ <text>recommendations based on such analysis, as the Inspector General determines appropriate.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25500-NGF-X5-G2M">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2435 IS: Fighting Fibers Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2435</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require that all new washing machines sold or offered for sale in the
+            United States contain a microfiber filtration system, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fighting Fibers Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idd710df8fbeee4bd9b7c1b5c4f191d778">
+            <enum>2.</enum>
+            <header>Definition of Administrator</header>
+ <text display-inline="no-display-inline">In this Act, the term <term>Administrator</term> means the Administrator of the Environmental Protection Agency.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id69ed735a81ec4c77aa8b6b928df4cb13">
+            <enum>3.</enum>
+            <header>Microfiber filtration in washing machines</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ide3b5e07226814a4b9143e895b89a67d6">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id7bd7f215fa7845659fed0b213b16c9f5"> <enum>(1)</enum> <header>Microfiber filtration system</header> <text>The term <term>microfiber filtration system</term> means a filtration unit for a washing machine that is—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf446c40247674e3888327a88efbcf6e5">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">active across all washing cycles; and</text>
+                    </subparagraph>
+                    <subparagraph id="id8ac48a4bf94a4003bb5e016d04ab8ea9">
+                        <enum>(B)</enum>
+                        <clause commented="no" display-inline="yes-display-inline" id="iddb7517984dec45b593535715b47b71ee">
+                            <enum>(i)</enum>
+ <text>integrated into the washing machine design as a built-in filter; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idd65afc16a7074a1481c1e0c19150f7cb" indent="up1">
+                            <enum>(ii)</enum>
+                            <subclause commented="no" display-inline="yes-display-inline" id="id699c4463b28d4f618280ae06a33d2eff">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">included as an in-line filter; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" indent="up1" id="id7b4e0c9df32343f59135cdaf0af69916">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">packaged, sold, and installed with the washing machine.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id31682e2fb9d74d658e0164b93a5b3a47">
+                    <enum>(2)</enum>
+                    <header>Washing machine</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf10f525a5e4447649496692cb6e30a3c">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>washing machine</term> means a machine designed and used for washing clothes and linen.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb3c7db06120648229e5d53caae5ac981">
+                        <enum>(B)</enum>
+                        <header>Inclusions</header>
+ <text>The term <term>washing machine</term> includes residential and commercial washing machines.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id4c25ce31f61a42e99c4e4ac53b135d2b">
+                <enum>(b)</enum>
+                <header>Microfiber filtration</header>
+ <text>The Administrator, jointly with the Secretary of Energy, shall ensure that, beginning on January 1, 2030, no new washing machine is sold or offered for sale in the United States unless the washing machine meets the following requirements:</text>
+                <paragraph id="id19a397bfbac14368a9dce2ccb5979349">
+                    <enum>(1)</enum>
+ <text>Contains a microfiber filtration system—</text> <subparagraph commented="no" display-inline="no-display-inline" id="iddb7856319b9b47908ee251f4a36fb7d1"> <enum>(A)</enum> <text display-inline="yes-display-inline">with a mesh size of not greater than 100 micrometers; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1d80f2317f1345798d12f36d4a866837">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">that meets another standard that is determined by the Administrator, jointly with the Secretary of Energy, in a rulemaking under subsection (c) to provide equal or greater efficacy in reducing microfiber pollution as compared to a microfiber filtration system with a mesh size of not greater than 100 micrometers.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id675cc1175bbd468c8ab8558af7c38673">
+                    <enum>(2)</enum>
+ <text>Bears a conspicuous label that is visible to the consumer, in the form of a sticker or any other label type, that includes—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="iddd9f5f1896ee4836b51fadea30e11a7c">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the following statement: <quote>Notice: This washing machine contains a filter to capture microfibers. Check filter regularly and dispose of captured lint in a waste bin.</quote>; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id05eaa2ea812f437393414d2eaf33c354">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a similar label as determined by the Administrator, jointly with the Secretary of Energy, in a rulemaking under subsection (c).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id54ae64e05d30435a94a021793e68af11">
+                    <enum>(3)</enum>
+ <text>Such other requirements or standards as the Administrator, jointly with the Secretary of Energy, may require through a rulemaking under subsection (c).</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id0fbbd343be7140e38255ad061fb7e4c3">
+                <enum>(c)</enum>
+                <header>Rulemaking</header>
+ <text display-inline="yes-display-inline">The Administrator, jointly with the Secretary of Energy, may promulgate regulations to carry out this section.</text>
+            </subsection>
+            <subsection id="idf87ea225c1d64f388b2573e69f4a2a07">
+                <enum>(d)</enum>
+                <header>Civil penalties</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4b99fbccbb7b45929127e85bb94eb8f4">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Any person that violates the requirements of this section shall be assessed a civil penalty by the Administrator of—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id00cccf4ff8aa4b79a886e0d03c01fd1b">
+                        <enum>(A)</enum>
+ <text>in the case of a first violation, not more than $10,000; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id46eab531b3ee4a809e42a73600491ac9"> <enum>(B)</enum> <text>in the case of each subsequent violation, $30,000.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc504e3cae0a84ab4bd6aa0d2f1294f0c">
+                    <enum>(2)</enum>
+                    <header>Cumulative remedies</header>
+ <text>The remedies provided in this section are in addition to any other remedy available under any other law.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id28d83fd4d0ac401bae0690444a30fdf5">
+                <enum>(e)</enum>
+                <header>Savings provision</header>
+ <text>Nothing in this section impairs or impedes any other right, cause of action, claim, or defense available under any other law.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idbb2d95bf3b6a46438d0f27c99e0ecadd">
+            <enum>4.</enum>
+            <header>Microfiber research and directives</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id1eba4b0b03f44815aa760a445544675f">
+                <enum>(a)</enum>
+                <header>Definition of microfiber</header>
+ <text>In this section, the term <term>microfiber</term> means a synthetic or natural textile fiber that is less than 5 millimeters in length.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id0cabe2ac1d2c4da09965b69c0ff5d03a">
+                <enum>(b)</enum>
+                <header>Study</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6d4e01ebe0a148b99e530c063923f033">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Administrator, in consultation with the heads of other Federal departments and agencies as the Administrator determines to be necessary, shall carry out a nationwide study on—</text>
+                    <subparagraph commented="no" id="id9ae17c30ec0c465bb9844d6b11aebb86">
+                        <enum>(A)</enum>
+ <text>the presence of, sources of, and pathways used by microfibers in the human body and the environment;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2a319ca749d34e008fbf0dc5bd33cd19">
+                        <enum>(B)</enum>
+ <text>whether the presence of microfibers in the human body and the environment has a toxic effect on human health and the environment; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2909901ca9234e4da9aa3406b45203f1">
+                        <enum>(C)</enum>
+ <text>whether the presence of microfibers in the human body and the environment has an inequitable impact on environmental justice communities, as determined by the Administrator.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id108a9499940f438ab814cbd0c4448de6">
+                    <enum>(2)</enum>
+                    <header>Report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Administrator shall submit to Congress, and make publicly available, a report that describes the results of the study under paragraph (1).</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

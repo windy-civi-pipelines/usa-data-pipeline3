@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25549-H2S-XJ-NX8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2427 IS: Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2427</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S323">Mr. Risch</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require certain agencies to impose extendable sunset dates on certain
+            regulations, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id62d2da9a21f44b849c2382dfecc71707">
+            <enum>2.</enum>
+            <header>Definitions; statutory identification</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="iddf0a0676dd5c4a4d8ff1aa62f8078265"> <enum>(1)</enum> <header>Covered agency</header> <text>The term <term>covered agency</term> means each of the following:</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id75bf7d36796f41ee80e01b8ee0d02492">
+                    <enum>(A)</enum>
+ <text>The Department of Energy.</text> </subparagraph> <subparagraph id="id267d8a4a63a2471bace6f1d3b763c5ce"> <enum>(B)</enum> <text>Each of the following offices within the Department of the Interior:</text>
+                    <clause id="id4dc9ec91f63b4d059dcfccb8876ac856">
+                        <enum>(i)</enum>
+ <text>The Bureau of Land Management.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="ida40ccf34cf2d436b9375107a5c90da0d"> <enum>(ii)</enum> <text>The Bureau of Ocean Energy Management.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id87898c6a311f495bbe591ff49b3abf70">
+                        <enum>(iii)</enum>
+ <text>The Bureau of Safety and Environmental Enforcement.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id875f67f6065a4eedabf2b277aa842e5a"> <enum>(iv)</enum> <text>The Office of Surface Mining Reclamation and Enforcement.</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id2d6520691cfc4b1ca84014d71d05bc14">
+                    <enum>(C)</enum>
+ <text>The Federal Energy Regulatory Commission.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id047469a0c8354b9592dfdf08f0b6e4d2"> <enum>(2)</enum> <header>Covered regulation</header> <text>The term <term>covered regulation</term> means—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idd9a43d78e803441382cd10a24ad529fb">
+                    <enum>(A)</enum>
+ <text>with respect to the Department of Energy, any regulation promulgated by the Department of Energy under or pursuant to—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id1e4a20aa6c9e4fe7a85f4144efaf6419">
+                        <enum>(i)</enum>
+ <text>the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2011">42 U.S.C. 2011 et seq.</external-xref>);</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id72cb49b12ddb40cd9ad9c25d512b7747"> <enum>(ii)</enum> <text>the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17001">42 U.S.C. 17001 et seq.</external-xref>);</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id436c031a9f2745949744d4de6b842ac7">
+                        <enum>(iii)</enum>
+ <text>the Energy Policy Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/42/13201">42 U.S.C. 13201 et seq.</external-xref>);</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id6ae68de162254ba3a279fc8036b94b38"> <enum>(iv)</enum> <text>the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801 et seq.</external-xref>); or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id79b542d867d54ab2aa3e1b3769501df0">
+                        <enum>(v)</enum>
+ <text>part B of title III of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6291">42 U.S.C. 6291 et seq.</external-xref>);</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idc14966fffed047919914d92d33427983">
+                    <enum>(B)</enum>
+ <text>with respect to the Bureau of Land Management, any regulation promulgated by the Bureau of Land Management under or pursuant to—</text>
+                    <clause id="ide3012f85a79d4de8abfa122554c16126" commented="no" display-inline="no-display-inline">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801 et seq.</external-xref>);</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id54fdd0117e7e45c8a74ddf4d6df2280b">
+                        <enum>(ii)</enum>
+ <text>the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1701">43 U.S.C. 1701 et seq.</external-xref>); or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id7e0a5e0b554d4907962734bbd2ab5cd4">
+                        <enum>(iii)</enum>
+ <text>sections 2319 through 2344 of the Revised Statutes (commonly known as the <quote>Mining Law of 1872</quote>) (<external-xref legal-doc="usc" parsable-cite="usc/30/22">30 U.S.C. 22 et seq.</external-xref>);</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id0d3392b4a5ff4d86bf0b8d10b0b37fe2">
+                    <enum>(C)</enum>
+ <text>with respect to the Bureau of Ocean Energy Management, any regulation promulgated by the Bureau of Ocean Energy Management under or pursuant to—</text>
+                    <clause id="ide22960dafe564099828d1ddd9a935ea4">
+                        <enum>(i)</enum>
+ <text>the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801 et seq.</external-xref>); or</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id947dc51150424dd2808bf3adb7795389"> <enum>(ii)</enum> <text>the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>);</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id283407ccf0fc4c0eb1158fa97012ffed">
+                    <enum>(D)</enum>
+ <text>with respect to the Bureau of Safety and Environmental Enforcement, any regulation promulgated by the Bureau of Safety and Environmental Enforcement under or pursuant to the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>);</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id516c3509d9f44fd2a538c40ebe534ffb">
+                    <enum>(E)</enum>
+ <text>with respect to the Office of Surface Mining Reclamation and Enforcement, any regulation promulgated by the Office of Surface Mining Reclamation and Enforcement under or pursuant to the Surface Mining Control and Reclamation Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/30/1201">30 U.S.C. 1201 et seq.</external-xref>); and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id8915f77728774cdd8caed8b5b51773a4">
+                    <enum>(F)</enum>
+ <text>with respect to the Federal Energy Regulatory Commission, any regulation promulgated by the Federal Energy Regulatory Commission under or pursuant to—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id1807bc8949b14fcd928b82effb6ea7a0">
+                        <enum>(i)</enum>
+ <text>the Federal Power Act (<external-xref legal-doc="usc" parsable-cite="usc/16/791a">16 U.S.C. 791a et seq.</external-xref>);</text> </clause> <clause commented="no" display-inline="no-display-inline" id="ida380af8f25f64529a7b29e766b78a391"> <enum>(ii)</enum> <text>the Natural Gas Act (<external-xref legal-doc="usc" parsable-cite="usc/15/717">15 U.S.C. 717 et seq.</external-xref>); or</text>
+                    </clause>
+                    <clause id="id80e82896939340148ec29704ae4aac10" commented="no" display-inline="no-display-inline">
+                        <enum>(iii)</enum>
+ <text>the Powerplant and Industrial Fuel Use Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/42/8301">42 U.S.C. 8301 et seq.</external-xref>).</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id0d01a72a26a4423fb2ee1cf2fc84d3e2">
+                <enum>(3)</enum>
+                <header>Regulation</header>
+ <text>The term <term>regulation</term> means each part, subpart, or individual provision of a rule (as defined in section 551 of title 5, United States Code) promulgated by a covered agency.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="iddffc9f53d40d45ebb320c68e909a3383">
+            <enum>3.</enum>
+            <header>Zero-based regulating</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idd643c40e167d4253a79ea15cb55f37d5">
+                <enum>(a)</enum>
+                <header>Sunsets required</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id071de811a2874350abad35eb03a9b549">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Existing regulations</header>
+ <text>Not later than 90 days after the date of enactment of this Act, the head of each covered agency shall amend each covered regulation in effect on that date to provide that each covered regulation expires not later than the date that is 1 year after the effective date of that amendment.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id784944a184204d55b777550a26294fd0">
+                    <enum>(2)</enum>
+                    <header>New regulations</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id45eef8140ff54f3e84470bccc21c34dd">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Subject to subparagraph (B), for each covered regulation promulgated on or after the date of enactment of this Act, the head of the applicable covered agency shall ensure that the covered regulation expires not later than 5 years after the effective date of the covered regulation.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id403ad334f0ef462eb6fa884305017ca3">
+                        <enum>(B)</enum>
+                        <header>Waiver</header>
+ <text>The head of a covered agency may exempt a covered regulation promulgated by the covered agency on or after the date of enactment of this Act from the requirement under subparagraph (A) if the head of the covered agency—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idfebd717eaed544d1b53bffd65e070bb8">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">determines that the covered regulation has a net deregulatory effect; and</text>
+                        </clause>
+                        <clause id="id07dbc7d334ed4cff94b31e9a0c0fcc41">
+                            <enum>(ii)</enum>
+ <text>notifies the Director of the Office of Management and Budget of that determination.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id17d10ecc590e43afa0d98d0b58569a1b">
+                <enum>(b)</enum>
+                <header>Extension of sunsets</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2b0d97d5f7e0472bbd6f39b384a50b4c">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The head of a covered agency may only extend an expiration date imposed pursuant to subsection (a)—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1794fbcf3f5a4d49b26b3757a5fc7385">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to a date that is not more than 5 years after the current expiration date; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8c27159893374c1a8d5cb25dae038145">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">if, before the current expiration date and except as provided in paragraph (2)(A)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id759de9f4519e40b283e741abf4a93587">
+                            <enum>(i)</enum>
+ <text>the head of the covered agency provides an opportunity for public comment on the costs and benefits of the applicable covered regulation, which may include the publication of a request for information with respect to the covered regulation; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id70f1ebba9c024c1ab61bb684200efc9b">
+                            <enum>(ii)</enum>
+ <text>following the completion of the opportunity for public comment under clause (i), the head of the covered agency determines, based on the comments provided in that opportunity, that an extension of the covered regulation is warranted.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4532da107c1446719d86cda12469970e">
+                    <enum>(2)</enum>
+                    <header>Effect of amendments</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id71fa6c6db2b747ed890f90d32794ac47">
+                        <enum>(A)</enum>
+                        <header>Deregulatory amendments</header>
+ <text display-inline="yes-display-inline">If the head of a covered agency determines that an amendment to a covered regulation of that covered agency has a net deregulatory effect, the amendment may extend the expiration date for that covered regulation without carrying out the requirements of subparagraph (B) of paragraph (1), subject to the limitation described in subparagraph (A) of that paragraph.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd0f22f2a35424ebdac8fc0ab1b671b1c">
+                        <enum>(B)</enum>
+                        <header>Other amendments</header>
+ <text>If the head of a covered agency does not make the determination described in subparagraph (A) with respect to an amendment to a covered regulation of that covered agency, the existing expiration date of the covered regulation being amended shall apply to that amendment unless the requirements described in paragraph (1)(B) have been met.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd01aebd48b57417d8155c1ff706825d5">
+                    <enum>(3)</enum>
+                    <header>Continued extensions</header>
+ <text>The head of a covered agency may extend the expiration date of a covered regulation as many times as the head of the agency determines appropriate, subject to the condition that each extension meets the requirements of this subsection.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide26caf7669264148a8def1545da06807">
+                    <enum>(4)</enum>
+                    <header>Savings provision</header>
+ <text>Seeking public comment with respect to a covered regulation under paragraph (1)(B)(i), including through a request for information, shall not automatically extend the applicable expiration date of the covered regulation.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="ide1bf410c7c564be68da3ba64678181a9">
+                <enum>(c)</enum>
+                <header>Effect of sunset</header>
+ <text>If the expiration date of a covered regulation is not extended in accordance with subsection (b)—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id45f1fdf95204495dbd8dcbdd12c4db7f">
+                    <enum>(1)</enum>
+ <text>the covered regulation shall cease to have any effect as of that expiration date;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8586fccade4d4d37bf13b72305a1d13e">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the applicable covered agency shall not enforce the covered regulation on or after that expiration date; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id46253dba90ee4c65ab6ac1ea7954b5f2">
+                    <enum>(3)</enum>
+ <text>as soon as practicable after that expiration date, the head of the applicable covered agency shall remove the covered regulation from the Code of Federal Regulations.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idd957bf33229e46a48c9f40f8b8ace722">
+            <enum>4.</enum>
+            <header>Severability</header>
+ <text display-inline="no-display-inline">If any provision of this Act or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this Act, and the application of the provision to any other person or circumstance, shall not be affected.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idcd627716602e4ca58269563fd9c08022">
+            <enum>5.</enum>
+            <header>Administrative provisions</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ide95d6a20aa364a98b86e014d23da9335">
+                <enum>(a)</enum>
+                <header>Savings provisions</header>
+ <text>Nothing in this Act impairs or otherwise affects the authority granted by law to an executive department or agency, or the head of an executive department or agency.</text>
+            </subsection>
+            <subsection id="id1acd021c760f432689a33b1c5f2e273c" commented="no" display-inline="no-display-inline">
+                <enum>(b)</enum>
+                <header>No rights or benefits</header>
+ <text>Nothing in this Act creates any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, the departments, agencies, or entities of the United States, the officers, employees, or agents of the United States, or any other person.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

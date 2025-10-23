@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25355-M7P-W6-R14">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1930 IS: Small Biotech Innovation Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1930</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250603">June 3, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XI of the Social Security Act to establish a research and
+            development-intensive small biotech manufacturer exception from the Medicare drug price
+            negotiation program.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Biotech Innovation Act</short-title></quote>.</text>
+        </section>
+        <section id="idd917d9065ed340bcbb281442a4431b7b">
+            <enum>2.</enum>
+            <header>Research and development-intensive small biotech manufacturer exception from
+                Medicare drug price negotiation program</header>
+ <text display-inline="no-display-inline">Section 1192(d)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320f-1">42 U.S.C. 1320f–1(d)(2)</external-xref>) is amended by adding at the end the following new subparagraph:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id5036A7C6D50E479DB563747F85FBF4D8">
+                <subparagraph id="id9e72d0ff1b134559bce55aded3c715e7">
+                    <enum>(D)</enum>
+                    <header>Research and development-intensive small biotech manufacturer exception
+                        for 2029 and subsequent years</header>
+                    <clause commented="no" display-inline="no-display-inline" id="id87352ab7df954d468bfb5e29285d9c53">
+                        <enum>(i)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>With respect to initial price applicability years (beginning with initial price applicability year 2029), subject to the succeeding provisions of this subparagraph, the term <term>negotiation eligible drug</term> shall not include a qualifying single source drug (as defined in subsection (e)) of a research and development-intensive small biotech manufacturer (as defined in clause (ii)).</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idfa13b74a5eb5401ba6c246178aeb48ef">
+                        <enum>(ii)</enum>
+                        <header>Definitions</header>
+ <text>In this subparagraph:</text> <subclause commented="no" display-inline="no-display-inline" id="id49d3bd2eb693464390c6b71dda7dbadb"> <enum>(I)</enum> <header>Applicable percent</header> <text>The term <term>applicable percent</term> means—</text>
+                            <item commented="no" display-inline="no-display-inline" id="idd3e74c44c71b46a69c91e3ca4cd3cd9f">
+                                <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">in the case of a small biotech manufacturer that has 1 qualifying single source drug, 30 percent;</text>
+                            </item>
+                            <item commented="no" display-inline="no-display-inline" id="id95341dae51b2459196c8c01b358fb1a9">
+                                <enum>(bb)</enum>
+ <text>in the case of a small biotech manufacturer that has 2 qualifying single source drugs, 40 percent;</text>
+                            </item>
+                            <item id="idb8ee700b4cec4bf7816b2af2967239fd">
+                                <enum>(cc)</enum>
+ <text>in the case of a small biotech manufacturer that has 3 qualifying single source drugs, 50 percent;</text>
+                            </item>
+                            <item commented="no" display-inline="no-display-inline" id="id810c1a2e859140cb85c887aa35c65e5b">
+                                <enum>(dd)</enum>
+ <text>in the case of a small biotech manufacturer that has 4 qualifying single source drugs, 60 percent; and</text>
+                            </item>
+                            <item commented="no" display-inline="no-display-inline" id="id1bc89d1df5d6469886004120722f6252">
+                                <enum>(ee)</enum>
+ <text>in the case of a small biotech manufacturer that has 5 qualifying single source drugs, 70 percent.</text>
+                            </item>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="idcb1bf1741c64414fa669e1da5f7111a5">
+                            <enum>(II)</enum>
+                            <header>Small biotech manufacturer defined</header>
+ <text display-inline="yes-display-inline">The term <term>small biotech manufacturer</term> means a manufacturer that—</text>
+                            <item commented="no" display-inline="no-display-inline" id="idf133ecc6bb744754824a76f0c18df4e6">
+                                <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">has 5 or less qualifying single source drugs; and</text>
+                            </item>
+                            <item commented="no" display-inline="no-display-inline" id="id293264ac523748f68012d5eb380bb53b">
+                                <enum>(bb)</enum>
+ <text>is not owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country, or organized under the laws of a foreign country that is a covered nation (as defined in section 4872(f) of title 10, United States Code).</text>
+                            </item>
+                        </subclause>
+                        <subclause id="idc0100d6696374fee9ca2494581325ef6">
+                            <enum>(III)</enum>
+                            <header>Research and development-intensive small biotech manufacturer
+                                defined</header>
+ <text>The term <term>research and development-intensive small biotech manufacturer</term> means a small biotech manufacturer that invests at least the applicable percent of their net revenue from the average of the previous three years in research and development (determined based on generally accepted accounting principles).</text>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idd8f5be3f59c14bc5ba6721eab787b913">
+                        <enum>(iii)</enum>
+                        <header>Treatment in case of acquisition</header>
+ <text>A drug shall not be considered to be a qualifying single source drug of a research and development-intensive small biotech manufacturer if the manufacturer of such drug is acquired after 2029 by another manufacturer that does not meet the definition of a research and development-intensive small biotech manufacturer, effective at the beginning of the plan year immediately following such acquisition.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id8429051a5af2417e9155522fa2016b5e">
+                        <enum>(iv)</enum>
+                        <header>Annual application</header>
+ <text display-inline="yes-display-inline">In order for a qualifying single source drug of a research and development-intensive small biotech manufacturer to be eligible for the exception under this subparagraph with respect to an initial price applicability year (beginning with initial price applicability year 2029), the manufacturer shall submit an application to the Secretary (at a time specified by the Secretary) containing—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="id25ff02554b36457b8a5ccd695fea02f9">
+                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">information on the net product revenue and research and development expenditures of the manufacturer during the relevant time period;</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id2513bfb453c442fc8a6c0f4c19f6543b">
+                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">a certification that the information submitted by the manufacturer under subclause (I) is accurate and complete to the best of the manufacturer’s knowledge; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="ide46c6aef857f456095ad539dc64068fc">
+                            <enum>(III)</enum>
+ <text display-inline="yes-display-inline">such other information as the Secretary may specify.</text>
+                        </subclause>
+                    </clause>
+                    <clause id="idff3571a1a25a4c208d4fd087083461ee">
+                        <enum>(v)</enum>
+                        <header>Dispute Resolution</header>
+ <text>The Secretary shall develop a process under which a manufacturer may appeal a determination by the Secretary that the manufacturer is not a research and development-intensive small biotech manufacturer. Such process shall conclude, with respect to a manufacturer, not later than the selected drug publication date with respect to the initial price applicability year for which the manufacturer submitted an application under clause (iv).</text>
+                    </clause>
+                </subparagraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

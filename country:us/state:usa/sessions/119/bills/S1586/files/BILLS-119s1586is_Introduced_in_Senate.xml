@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25315-R8L-PN-LV8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1586 IS: App Store Accountability Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1586</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250501">May 1, 2025</action-date>
+            <action-desc><sponsor name-id="S346">Mr. Lee</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To safeguard children by providing parents with clear and accurate
+            information about the apps downloaded and used by their children and to ensure proper
+            parental consent is achieved, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HDB4E2CBF9CF64C8D893D5699B8AB91FF">
+        <section section-type="section-one" id="HBD5016D81FE44071838D636EEF3CD762">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="H63E29D41D5B0488EAEC09EC773179140">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>App Store Accountability Act</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="H047DA1A137D942D29DCE369C5307F693">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="HBD5016D81FE44071838D636EEF3CD762">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="H13EB39733C454A8DA7256DB8B606CB08">Sec. 2. Definitions.</toc-entry> <toc-entry level="section" idref="H89D528A83672442495DFFD611765E740">Sec. 3. App store obligations.</toc-entry> <toc-entry level="section" idref="H91869E97B0944F798F3437D664427EE3">Sec. 4. App developer obligations.</toc-entry> <toc-entry level="section" idref="H53361F890F034BC28975F1B9C297C5A0">Sec. 5. Compliance.</toc-entry> <toc-entry level="section" idref="H06D4CA6C7C54406197649B977225EC68">Sec. 6. Enforcement by the Federal Trade Commission.</toc-entry> <toc-entry level="section" idref="H0B737C70B76C4031846F795AE3A6BBA4">Sec. 7. Enforcement by States.</toc-entry> <toc-entry level="section" idref="HFD2E1A44E4764D03AFF84C498E847968">Sec. 8. Safe harbor.</toc-entry> <toc-entry level="section" idref="H29D86CC56ABF4FD4B882E3C902E4670A">Sec. 9. Preemption.</toc-entry> <toc-entry level="section" idref="HEF18D64D80F04830853A252ED541CA83">Sec. 10. Severability.</toc-entry> <toc-entry level="section" idref="H3D0099A2DFFF4B43AC914BA7F4E3C169">Sec. 11. Effective date.</toc-entry> </toc> </subsection> </section> <section id="H13EB39733C454A8DA7256DB8B606CB08"> <enum>2.</enum> <header>Definitions</header> <text display-inline="no-display-inline">In this Act:</text>
+            <paragraph id="HA465DD2AEAC74C0482BD4DE7611397B5">
+                <enum>(1)</enum>
+                <header>Age category</header>
+ <text>The term <term>age category</term> means the category of an individual based on their age, including the following categories:</text>
+                <subparagraph id="H8310A936B7944F2FA534C269D03E740B">
+                    <enum>(A)</enum>
+                    <header>Adult</header>
+ <text>An <term>adult</term> is such an individual who has attained 18 years of age.</text>
+                </subparagraph>
+                <subparagraph id="H3E2843E34AEA474C9DD65BD574D9DC1D">
+                    <enum>(B)</enum>
+                    <header>Teenager</header>
+ <text>A <term>teenager</term> is such an individual who has attained 16 years of age but has not attained 18 years of age.</text>
+                </subparagraph>
+                <subparagraph id="H354AEB6D87B848969EBD80E313F4E791">
+                    <enum>(C)</enum>
+                    <header>Child</header>
+ <text>A <term>child</term> is such an individual who has attained 13 years of age but has not attained 16 years of age.</text>
+                </subparagraph>
+                <subparagraph id="H95C660F073354CC181F9DBAA73F44CE7">
+                    <enum>(D)</enum>
+                    <header>Young child</header>
+ <text>A <term>young child</term> is such an individual who has not attained 13 years of age.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H836AB1A957A8406E8836DAAAB9338970">
+                <enum>(2)</enum>
+                <header>Age category data</header>
+ <text display-inline="yes-display-inline">The term <term>age category data</term> means information that identifies the age category of a user and is collected by a covered app store provider and shared with an app developer.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H14BE962F49424F12B5A48000A49F10D2">
+                <enum>(3)</enum>
+                <header>Age rating</header>
+ <text display-inline="yes-display-inline">The term <term>age rating</term> means a publicly displayed assessment of an app’s appropriateness for different age categories.</text>
+            </paragraph>
+            <paragraph id="H74C5BDA30DE84DFDB84E0EB974E941F1">
+                <enum>(4)</enum>
+                <header>App</header>
+ <text>The term <term>app</term> means a software application or electronic service that may be run or directed by a user on a computer, mobile device, or any other general purpose computing device.</text>
+            </paragraph>
+            <paragraph id="H0AEBCB0A8CBF432CACE48B7703A71890">
+                <enum>(5)</enum>
+                <header>App developer</header>
+ <text>The term <term>app developer</term> means any person that owns or controls an app on the app store of a covered app store provider and is available in the United States.</text>
+            </paragraph>
+            <paragraph id="H884DDBD0800248D1B895771709572CF8">
+                <enum>(6)</enum>
+                <header>App store</header>
+ <text display-inline="yes-display-inline">The term <term>app store</term> means a publicly available website, software application, or other electronic service that distributes and facilitates the download onto a mobile device of an app from a third-party developer by a user of a computer, mobile device, or any other general purpose computing device.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H3569CA38772143568EAB833740413B99">
+                <enum>(7)</enum>
+                <header>Commission</header>
+ <text>The term <term>Commission</term> means the Federal Trade Commission.</text> </paragraph> <paragraph id="HE1BCD5DE08D344CC825C3D288A5254A1"> <enum>(8)</enum> <header>Covered app store provider</header> <text>The term <term>covered app store provider</term> means any person that owns or controls an app store available in the United States and for which users in the United States exceed 5,000,000.</text>
+            </paragraph>
+            <paragraph id="H37046F0CE30F495CBF4380FC4B3D596B">
+                <enum>(9)</enum>
+                <header>Know</header>
+ <text display-inline="yes-display-inline">The term <term>know</term> means to have actual knowledge or willful disregard.</text>
+            </paragraph>
+            <paragraph id="H5CBE8CF8828D486099FD85C583A42DC2">
+                <enum>(10)</enum>
+                <header>Minor</header>
+ <text>The term <term>minor</term> means an individual who has not attained 18 years of age.</text>
+            </paragraph>
+            <paragraph id="HCB5B97EC33FB4F0C85824047669CB974">
+                <enum>(11)</enum>
+                <header>Mobile device</header>
+ <text>The term <term>mobile device</term> means a phone or general purpose tablet that provides cellular or wireless connectivity, is capable of connecting to the internet, runs a mobile operating system, and is capable of running apps through the mobile operating system.</text>
+            </paragraph>
+            <paragraph id="H8F3A4EFCC69D4E8A808CCE63587B6E88">
+                <enum>(12)</enum>
+                <header>Mobile operating system</header>
+ <text>The term <quote>mobile operating system</quote> means a set of software that manages mobile device hardware resources, provides common services for mobile device programs, controls memory allocation, and provides interfaces for applications to access device functionality.</text>
+            </paragraph>
+            <paragraph id="HCE118CD8DEF240078AE70DDB598F9AE5">
+                <enum>(13)</enum>
+                <header>Parent</header>
+ <text>The term <term>parent</term>, with respect to a minor, means an adult with the legal right to make decisions on behalf of the minor, including—</text>
+                <subparagraph id="HBE0FE57173C74BCB8688F7BE35E4B386">
+                    <enum>(A)</enum>
+ <text>a natural parent;</text> </subparagraph> <subparagraph id="HC5232E2F2E1F4517B30F1B675CF74AA4"> <enum>(B)</enum> <text>an adoptive parent;</text>
+                </subparagraph>
+                <subparagraph id="H4F3C94CE26394A7787C94A89C8190EBC">
+                    <enum>(C)</enum>
+ <text>a legal guardian; or</text> </subparagraph> <subparagraph id="H2F00C86813D644B1921852E37BB43E0B"> <enum>(D)</enum> <text>an individual with legal custody over the minor.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HAAC264E0B6A94B8DB4417E8E5A9DD96A">
+                <enum>(14)</enum>
+                <header>Parental account</header>
+ <text>The term <term>parental account</term> means an account with a covered app store provider that is—</text>
+                <subparagraph id="H8C194D2053D5491E937EFA6E992A4F20">
+                    <enum>(A)</enum>
+ <text>verified to be established by an individual who the app store provider has determined is at least 18 years of age through the covered app store provider’s age verification method or process; and</text>
+                </subparagraph>
+                <subparagraph id="H51648EE9F3A642D88FE1591BB6E1AA86">
+                    <enum>(B)</enum>
+ <text>affiliated with one or more account of a user or prospective user who is a minor.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H50B56464DB3349FEBB198E86A8D89C77">
+                <enum>(15)</enum>
+                <header>Parental consent disclosure</header>
+ <text>The term <term>parental consent disclosure</term> means the following information that is provided to a parent before obtaining parental consent—</text>
+                <subparagraph id="H656AAADBD37842029606E254214E3283">
+                    <enum>(A)</enum>
+ <text>a description of—</text> <clause id="H73081D16D1844459B1E842C51BE88EE7"> <enum>(i)</enum> <text>the personal data collected by the app from a user; and</text>
+                    </clause>
+                    <clause id="H9C9AB601A2E04F2CB8B5344F103AF3FF">
+                        <enum>(ii)</enum>
+ <text>the personal data shared by the app with a third party;</text> </clause> </subparagraph> <subparagraph id="H46324508C771444A8425C5097898F5BD"> <enum>(B)</enum> <text>a description of the measures taken by the app developer to protect the confidentiality of the user’s personal data;</text>
+                </subparagraph>
+                <subparagraph id="H5CA446E482E94F6BA317208421DA533E">
+                    <enum>(C)</enum>
+ <text>if there is an age rating for the app or an in-app purchase, the app’s or in-app purchase’s age rating; and</text>
+                </subparagraph>
+                <subparagraph id="HEA3D837683CA43C0A3BBB45DCD1CFEA7">
+                    <enum>(D)</enum>
+ <text>if there is a content description for the app or in-app purchase, the app’s or in-app purchase’s content description.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HE403DC4A04F147B7AFCF7ADFD8E2EC37">
+                <enum>(16)</enum>
+                <header>Personal data</header>
+ <text>The term <term>personal data</term> has the same meaning as the term <term>personal information</term> as defined in section 1302 of the Children’s Online Privacy Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6501">15 U.S.C. 6501</external-xref>).</text>
+            </paragraph>
+            <paragraph id="H73D948D127714AC292E64709D5143BF9">
+                <enum>(17)</enum>
+                <header>Signal</header>
+ <text>The term <term>signal</term> means age bracketed data sent by a real-time secure application programming interface or operating system that is likely to be accessed by minors.</text>
+            </paragraph>
+            <paragraph id="H75B85E0755E3467BB3F5769397D6470E">
+                <enum>(18)</enum>
+                <header>Significant change</header>
+ <text display-inline="yes-display-inline">The term <term>significant change</term> means a material modification of an app’s terms of service or privacy policy that—</text>
+                <subparagraph id="H2D4D41BEB3B24434A1F538249802F7C3">
+                    <enum>(A)</enum>
+ <text>changes the category of data collected or stored;</text> </subparagraph> <subparagraph id="HFB96976A449B4D84B5214F766EEA30D1"> <enum>(B)</enum> <text>changes the category of data shared with an unaffiliated third party that is not a service provider or processor;</text>
+                </subparagraph>
+                <subparagraph id="H60A4E949D2FF4A358C06441CD7E04857">
+                    <enum>(C)</enum>
+ <text>alters the app’s age rating or content description;</text> </subparagraph> <subparagraph id="H8443757E9BD645AAAEEC2C90AFE394B5"> <enum>(D)</enum> <text>adds new monetization features, including in-app purchases or advertisements; or</text>
+                </subparagraph>
+                <subparagraph id="H8D768704949B437280383885CE2D4FAD">
+                    <enum>(E)</enum>
+ <text>changes the app’s user experience or functionality in a manner that a reasonable individual would view as material.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H57BAD9E5380F444FAA902F694610D600">
+                <enum>(19)</enum>
+                <header>Verifiable parental consent</header>
+ <text>The term <term>verifiable parental consent</term> means authorization that is provided—</text>
+                <subparagraph id="H9993B8058DFE4ADE9F27F2324D9A5AE8">
+                    <enum>(A)</enum>
+ <text>by a parental account;</text> </subparagraph> <subparagraph id="H1B4D336E2AD34BF4BEF0F995CEA19BA8"> <enum>(B)</enum> <text>in response to a clear and conspicuous parental content disclosure; and</text>
+                </subparagraph>
+                <subparagraph id="H4304EE7688EE48A4A581D91A5612C997">
+                    <enum>(C)</enum>
+ <text>signifies a parent’s freely given, specific, informed, and unambiguous agreement.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="H89D528A83672442495DFFD611765E740">
+            <enum>3.</enum>
+            <header>App store obligations</header>
+            <subsection id="HD2EC30F270FE4893A4A896366D1C7D97">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Each covered app store provider shall—</text>
+                <paragraph id="H20DF4CB4021D4888979C04A56AC470E1">
+                    <enum>(1)</enum>
+ <text>at the time an individual creates an account with the covered app store provider—</text>
+                    <subparagraph id="H414751FC48A04110AAB57D8E165BAE7E">
+                        <enum>(A)</enum>
+ <text>request age information from the individual; and</text> </subparagraph> <subparagraph id="HE96478CE54F3427BA8C4AFADECA03402"> <enum>(B)</enum> <text>verify the individual’s age category using a commercially available method or process that is reasonably designed to ensure accuracy;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HE192A292AFBB4BCBADDE5A9A91EEDD16">
+                    <enum>(2)</enum>
+ <text>if the age verification method or process determines the individual is a minor—</text>
+                    <subparagraph id="H618E9DAFCB404ACD8607CC1BDB1AD275">
+                        <enum>(A)</enum>
+ <text>require the account to be affiliated with a parental account; and</text>
+                    </subparagraph>
+                    <subparagraph id="H0E2C96015DF64C66B46FB4A4F8C1C473">
+                        <enum>(B)</enum>
+ <text>obtain verifiable parental consent from the holder of the affiliated parental account before allowing the minor to download or purchase an app or make an in-app purchase;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H9B49DEFEBD3B4A3FB15BCCC8031E4883">
+                    <enum>(3)</enum>
+ <text>after receiving notice of a significant change from an app developer—</text>
+                    <subparagraph id="H030DE7961B2E42A8B6F9FB7833528F97">
+                        <enum>(A)</enum>
+ <text>notify the user of a significant change; and</text> </subparagraph> <subparagraph id="HA9E78E5EB7DD4177950673838E7D2B3E"> <enum>(B)</enum> <text>for a minor account, notify the holder of the affiliated parental account and obtain a new verifiable parental consent;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HEA7166487423453CB11B430944E6F13E">
+                    <enum>(4)</enum>
+ <text>provide to an app developer the user’s age category and the status of verified parental consent if the user is a minor;</text>
+                </paragraph>
+                <paragraph id="HA66BFF6244A84C4A8621A369E1141721">
+                    <enum>(5)</enum>
+ <text>notify an app developer when a parent revokes verifiable parental consent;</text>
+                </paragraph>
+                <paragraph id="HA32BE9FC3111485E91D2930042205B0E">
+                    <enum>(6)</enum>
+ <text>protect the confidentiality of personal data related to age verification by—</text>
+                    <subparagraph id="H178BCE36B04B4D92B5CA487732616F0C">
+                        <enum>(A)</enum>
+ <text>limiting its collection, processing, and storage to what is strictly necessary to verify a user’s age, obtain verifiable parental consent, or maintain compliance records; and</text>
+                    </subparagraph>
+                    <subparagraph id="H622CBD4B3D8149BBBAA27F9DD23589C7">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">safeguarding personal data related to age verification by adopting reasonable administrative, technical, and physical safeguards to secure the collection, processing, storage, and transmission of this data, including through industry-standard encryption;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HF59C7DCF0B374E37891B03573EF8DB7B">
+                    <enum>(7)</enum>
+ <text display-inline="yes-display-inline">if a covered app store provider displays an age rating or description of an app’s content, the age rating and description must be clearly and prominently displayed and be in plain and concise language; and</text>
+                </paragraph>
+                <paragraph id="H32C6C4B90B534468A26E6BF1E26CB773">
+                    <enum>(8)</enum>
+ <text display-inline="yes-display-inline">provide to an app developer the ability to determine, in real time, the age category of any user and, with respect to any user that is a minor, whether the covered app store provider has obtained verifiable parental consent.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H0B83872825C442859456520E178915F5">
+                <enum>(b)</enum>
+                <header>Rules of construction</header>
+ <text>Nothing in this section shall be construed—</text> <paragraph id="HB8E1C1FD7516479EA302F4143B3C6B38"> <enum>(1)</enum> <text>to prevent a covered app store provider from taking reasonable measures to block, detect, or prevent the distribution of unlawful or obscene material to minors, to block or filter spam, to prevent criminal activity, or to protect the security of an app store or app;</text>
+                </paragraph>
+                <paragraph id="H60C889027A814E769C4008DA045ED605">
+                    <enum>(2)</enum>
+ <text>to require a covered app store provider to disclose to an app developer information other than such user’s age category and, with respect to any user that is a minor, whether the covered app store provider has obtained verifiable parental consent in accordance with this section;</text>
+                </paragraph>
+                <paragraph id="H7A2A21A7E09A45B8AD4187F105F42C80">
+                    <enum>(3)</enum>
+ <text>to allow a covered app store provider to use any measures required by this section in a way that is arbitrary, capricious, anti-competitive, or unlawful; or</text>
+                </paragraph>
+                <paragraph id="H9E773152D9E54E39A730885B64C98462">
+                    <enum>(4)</enum>
+ <text>to affect or restrict the expression of political, religious, or other viewpoints.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H91869E97B0944F798F3437D664427EE3">
+            <enum>4.</enum>
+            <header>App developer obligations</header>
+            <subsection id="HACEAA60D4B7F438DB8E62414B8505A8B">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>An app developer shall—</text> <paragraph id="H7EE7D17E62824B39AB14C8C6BBE4DA13"> <enum>(1)</enum> <text>verify through a covered app store’s method or process the age category of the app developer’s users or potential users and, for a minor account, whether verifiable parental consent has been obtained;</text>
+                </paragraph>
+                <paragraph id="HB223124F71634492ABAC8D200A98653B">
+                    <enum>(2)</enum>
+ <text>notify a covered app store provider of a significant change to the app; and</text>
+                </paragraph>
+                <paragraph id="HD5AD704A2A034F2BA22ED14575A16CE9">
+                    <enum>(3)</enum>
+ <text>request age category data or verifiable parental consent—</text> <subparagraph id="H2E5CEBA766214139B6FEB90EF9B1B7BE"> <enum>(A)</enum> <text>at the time a potential app user downloads or purchases an app;</text>
+                    </subparagraph>
+                    <subparagraph id="HAB6BE431A1FA467D852F3AEE131396DA">
+                        <enum>(B)</enum>
+ <text>when the app developer implements a significant change to the app; or</text>
+                    </subparagraph>
+                    <subparagraph id="H986A2AE1A3F244AE97E6A95DB34A1AC7">
+                        <enum>(C)</enum>
+ <text>to comply with an applicable law or regulation.</text> </subparagraph> </paragraph> </subsection> <subsection id="HCA6478BFB9514FEDB2A1F322FBA3A09D"> <enum>(b)</enum> <header>App developer requests</header> <text>An app developer may request age category data or verifiable parental consent—</text>
+                <paragraph id="HDC8BFB5D99AE436F9804CB98CCF45715">
+                    <enum>(1)</enum>
+ <text>no more than once during each 12-month period to verify the accuracy of user age verification data or continued account use within the verified age category;</text>
+                </paragraph>
+                <paragraph id="HA90C9ADA3A4B47DE8A83C9264F6E2837">
+                    <enum>(2)</enum>
+ <text>when there is reasonable suspicion of account transfer or misuse outside the verified age category; or</text>
+                </paragraph>
+                <paragraph id="H56285E6F7C98454685AE8878EEE94E5D">
+                    <enum>(3)</enum>
+ <text>at the time a user creates a new account with the app developer.</text> </paragraph> </subsection> <subsection id="H0D245CA7D9194EF4981F72B0169829DD"> <enum>(c)</enum> <header>Permissible uses</header> <text>An app developer may use age category data to—</text>
+                <paragraph id="HDCC211BA7120402FAD5147FF7B76E1FB">
+                    <enum>(1)</enum>
+ <text>enforce any app developer-created age-related restrictions;</text> </paragraph> <paragraph id="HC9DE885E016D47EABF67429F54ABDD44"> <enum>(2)</enum> <text>ensure compliance with applicable laws and regulations; and</text>
+                </paragraph>
+                <paragraph id="HF0D9B684CBD64947B6BA60B2181AEC69">
+                    <enum>(3)</enum>
+ <text>implement any app developer-created features or defaults.</text> </paragraph> </subsection> <subsection id="H50A03CEFD1E24C1784CECA641F48C283"> <enum>(d)</enum> <header>Restrictions</header> <text>An app developer may not—</text>
+                <paragraph id="H7E08ED7EC96F4D68BD332054D163EC2C">
+                    <enum>(1)</enum>
+ <text>enforce a contract or terms of service against a minor unless the app developer has verified through the covered app store provider that verifiable parental consent has been obtained;</text>
+                </paragraph>
+                <paragraph id="HC82174BED77443EFA6E992BFBD0EC64B">
+                    <enum>(2)</enum>
+ <text>knowingly misrepresent any material information in the parental consent disclosure; or</text>
+                </paragraph>
+                <paragraph id="H10349AF33550485AA5D274DBE9C36103">
+                    <enum>(3)</enum>
+ <text>share age category data with an unaffiliated third party that is not a service provider or processor.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HCC423C2399A44D7F87B7844D7BDFA175">
+                <enum>(e)</enum>
+                <header>App age rating</header>
+ <text>If an app developer provides an age rating or description of an app’s content to a covered app store or user, the age rating or description must be in plain and concise language.</text>
+            </subsection>
+            <subsection id="H3B1A109E8C4341ADAD8CF25CD0011FE9">
+                <enum>(f)</enum>
+                <header>Covered app store provider signal</header>
+                <paragraph id="H31F2F3DA862A45098D389F8240096FB2">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Each app developer shall use a covered app store provider’s signal to determine the age category of a user.</text>
+                </paragraph>
+                <paragraph id="HC8440491A02543CC9D94C9710708068A">
+                    <enum>(2)</enum>
+                    <header>Rule of construction</header>
+ <text>Receipt of a covered app store provider’s signal serves as actual knowledge of a user’s age category.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="H53361F890F034BC28975F1B9C297C5A0">
+            <enum>5.</enum>
+            <header>Compliance</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id7e37aa145d3841618280d3370f2a4f4e">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Guidance</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb5b5665733c849ae93f7bb2cce005ab6">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Commission shall issue guidance to assist covered app store providers and app developers in complying with the requirements of this Act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id714b99a7cb4242f6b0cfdf138d75b009">
+                    <enum>(2)</enum>
+                    <header>Limitations</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4055a7b852ef462c83d0b7dd46c614e4">
+                        <enum>(A)</enum>
+                        <header>No conferring of rights or binding effect</header>
+ <text display-inline="yes-display-inline">Any guidance issued by the Commission with respect to this Act shall not confer any rights on any person, State, or locality, nor shall such guidance operate to bind the Commission or any person to the approach recommended in such guidance.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4bb388d176f44fad9a4bac63cdbf3a7c">
+                        <enum>(B)</enum>
+                        <header>Basis of enforcement actions</header>
+ <text display-inline="yes-display-inline">In any enforcement action brought pursuant to this Act, the Commission shall allege a specific violation of a provision of this Act. The Commission may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate sections 3 or 4.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id56de49b7e80744289573c4ead985f16f">
+                <enum>(b)</enum>
+                <header>Mechanism To certify compliance</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idd18ff28acf974cc1a9d933f739871629">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Commission shall—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide6baaea6e2ae4842930128e73ad2ce8a"> <enum>(A)</enum> <text display-inline="yes-display-inline">establish a mechanism, in such form and manner as the Commission determines is appropriate, for any covered app store provider to submit a request for the Commission to review their policies relevant to the requirements under section 3; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id030d0efd79734ee7a17f1abb639d532b">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">not later than 30 days after receiving such a request—</text>
+                        <clause commented="no" display-inline="no-display-inline"
+                            id="idd0c553e4fb9b47f7943cbab2cc889ce4">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">review such policies to determine whether the covered app store provider that submitted such request is compliant with such requirements; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline"
+                            id="idbc9f65a08d624ccfa9802af4746b6d4f">
+                            <enum>(ii)</enum>
+ <text>if the Commission determines that such provider is compliant with such requirements and does not permit or is able to quickly remedy any method of circumventing such requirements, submit to Congress and make publicly available on the website of the Commission a notice certifying that such provider is compliant with such requirements.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id0ee6252e086742a89ba3b57743894c74">
+                    <enum>(2)</enum>
+                    <header>Notification of significant changes</header>
+ <text>If a covered app store provider that the Commission certifies is compliant with the requirements of section 3 makes a significant change to any policy of such provider that is relevant to such requirements, such provider shall notify the Commission of such change to ensure that the change does not impact the certification of compliance under paragraph (1).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id6ca3bbae5b524265b041438c10f89262">
+                    <enum>(3)</enum>
+                    <header>Period of eligibility</header>
+ <text>A certification of compliance under paragraph (1) shall be valid for 1 year after the date of the issuance of such certification.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2056d5d126db40dbad887e6e7d1af6da">
+                <enum>(c)</enum>
+                <header>Complaints</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8a8fc8b798a943f28cebf803dee018d3">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>The Commission shall establish a mechanism to receive complaints regarding the compliance of any covered app store provider with the requirements described in section 3.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id1ffffd50dbb84ef78449da548b8eb9a3">
+                    <enum>(2)</enum>
+                    <header>Review</header>
+ <text>The Commission shall regularly review any complaints received through the mechanism described in paragraph (1) and, if necessary, evaluate the covered app store provider’s certification of compliance under subsection (b)(1).</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="H06D4CA6C7C54406197649B977225EC68">
+            <enum>6.</enum>
+            <header>Enforcement by the Federal Trade Commission</header>
+            <subsection id="H9490D6ECA922474FA115734F04DB998A">
+                <enum>(a)</enum>
+                <header>Unfair or deceptive acts or practices</header>
+ <text>A violation of this Act or a regulation promulgated thereunder shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text>
+            </subsection>
+            <subsection id="HFF76C8BAD38A485AA4ABDC4DFBAB2031">
+                <enum>(b)</enum>
+                <header>Powers of the Commission</header>
+                <paragraph id="H684DDD018EF24432954C006623FB6072">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this Act.</text>
+                </paragraph>
+                <paragraph id="HDBC45469FC9A4066B228BA95B5177E49">
+                    <enum>(2)</enum>
+                    <header>Privileges and immunities</header>
+ <text>Any person who violates this Act or a regulation promulgated thereunder shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text>
+                </paragraph>
+                <paragraph id="H7D769361C70E4C5B94A53F6032547635">
+                    <enum>(3)</enum>
+                    <header>Authority preserved</header>
+ <text>Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H0B737C70B76C4031846F795AE3A6BBA4">
+            <enum>7.</enum>
+            <header>Enforcement by States</header>
+            <subsection id="H7AAFDCD7ECAB416787D7307C1B9DD01E">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph id="H98115C12D3A34DE59CD9B8FECFE17A90">
+                    <enum>(1)</enum>
+                    <header>Civil actions</header>
+ <text>In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates this Act, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—</text>
+                    <subparagraph id="HC4DD0181350A4F4CBD51E021BEA123DA">
+                        <enum>(A)</enum>
+ <text>enjoin that practice;</text> </subparagraph> <subparagraph id="HCA8024DB6C904B6BBBFBBA0EEC95DBD0"> <enum>(B)</enum> <text>enforce compliance with the regulation;</text>
+                    </subparagraph>
+                    <subparagraph id="H34C043F2BCB449C8B6EDC50AEA9DF797">
+                        <enum>(C)</enum>
+ <text>obtain damages, restitution, or other compensation on behalf of residents of the State; or</text>
+                    </subparagraph>
+                    <subparagraph id="H5F66314564AF4735953CB2F07BF3DCF1">
+                        <enum>(D)</enum>
+ <text>obtain such other relief as the court may consider to be appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H248C86A01B24417585D8FB4B6D8179B4">
+                    <enum>(2)</enum>
+                    <header>Notice</header>
+                    <subparagraph id="H240B9C216266417C9D0D25E3C3DA109F">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Before filing an action under paragraph (1), the attorney general of the State involved shall provide to the Commission—</text>
+                        <clause id="H718262649AE34B55968F74954B75CF75">
+                            <enum>(i)</enum>
+ <text>a written notice of that action; and</text> </clause> <clause id="H24927EAA7D5A4DAF9A9B99000E206ADD"> <enum>(ii)</enum> <text>a copy of the complaint for that action.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H07EBE06D1154418CBE8FA41A59282C34">
+                        <enum>(B)</enum>
+                        <header>Exemption</header>
+                        <clause id="H8F48B000EB8A4D278A0F5EFDA38DCF6A">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before the filing of the action.</text>
+                        </clause>
+                        <clause id="HBA4C0B031F9E493A93DF1886BEB3AEFF">
+                            <enum>(ii)</enum>
+                            <header>Notification</header>
+ <text>In an action described in clause (i), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H0746275E9A294F4DB6FA9025C63CEEDD">
+                <enum>(b)</enum>
+                <header>Intervention</header>
+                <paragraph id="H61CD5C98153E426AAD651A363FBF18EF">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.</text>
+                </paragraph>
+                <paragraph id="HE20EC3B6D26C4BE7BA10AE3C7073BCB3">
+                    <enum>(2)</enum>
+                    <header>Effect of intervention</header>
+ <text>If the Commission intervenes in an action under subsection (a), it shall have the right—</text>
+                    <subparagraph id="H98168AD7B67146409320C8866A7D7BB4">
+                        <enum>(A)</enum>
+ <text>to be heard with respect to any matter that arises in that action; and</text>
+                    </subparagraph>
+                    <subparagraph id="HB30DFFAB8D6042D7BACD85C06DBDF6AA">
+                        <enum>(B)</enum>
+ <text>to file a petition for appeal.</text> </subparagraph> </paragraph> </subsection> <subsection id="H887F114FBD2F41FFA12ED483C0E38266"> <enum>(c)</enum> <header>Construction</header> <text>For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—</text>
+                <paragraph id="H379D705A8194456582FB50B972A1E8F3">
+                    <enum>(1)</enum>
+ <text>conduct investigations;</text> </paragraph> <paragraph id="H26254BFB11584A78ACF240FC12D14E66"> <enum>(2)</enum> <text>administer oaths or affirmations; or</text>
+                </paragraph>
+                <paragraph id="H5A5DD961ECE345E9A13B13BBA011E55A">
+                    <enum>(3)</enum>
+ <text>compel the attendance of witnesses or the production of documentary and other evidence.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H74D3B5C9EAE34BA2ABEB75E27A17556C">
+                <enum>(d)</enum>
+                <header>Actions by the Commission</header>
+ <text>In any case in which an action is instituted by or on behalf of the Commission for a violation of this Act, no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for such violation.</text>
+            </subsection>
+            <subsection id="H328D6860CD534B0C85AA7914451579DE">
+                <enum>(e)</enum>
+                <header>Venue; service of process</header>
+                <paragraph id="HC3D5B234A8784079A26386D70560A8C0">
+                    <enum>(1)</enum>
+                    <header>Venue</header>
+ <text>Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code.</text>
+                </paragraph>
+                <paragraph id="HA50612ACE6C54E0E9A56D674CE7D1565">
+                    <enum>(2)</enum>
+                    <header>Service of process</header>
+ <text>In an action brought under subsection (a), process may be served in any district in which the defendant—</text>
+                    <subparagraph id="H51D40C3742DF429B85DF4E5310BB6064">
+                        <enum>(A)</enum>
+ <text>is an inhabitant; or</text> </subparagraph> <subparagraph id="H004E6775B32E4C2391FF40605B16A259"> <enum>(B)</enum> <text>may be found.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="HFD2E1A44E4764D03AFF84C498E847968">
+            <enum>8.</enum>
+            <header>Safe harbor</header>
+            <subsection id="H7C3A16E536734E399D019271FB800199">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>An app developer is deemed not liable for a violation of this Act if the app developer demonstrates it has—</text>
+                <paragraph id="H73F5733DAC7D43F792ACA07D1B42E3A5">
+                    <enum>(1)</enum>
+ <text>relied in good faith on age verification data provided by a covered app store provider or it obtained a signal from a covered app store provider that indicates the user is a minor;</text>
+                </paragraph>
+                <paragraph id="H15A57526F0204EA1B6193E1173114417">
+                    <enum>(2)</enum>
+ <text>complied with the requirements of section 4; and</text> </paragraph> <paragraph id="HED3DD4C16BE9499FBEFCD4874B006BC6"> <enum>(3)</enum> <text display-inline="yes-display-inline">reasonably conforms to widely accepted industry standards or best practices, or to standards or best practices identified by the Commission, for age ratings and app content descriptions and applies those standards or best practices consistently and in good faith.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HA1F905B482964BDFACF1321F8252C253">
+                <enum>(b)</enum>
+                <header>Limitations</header>
+ <text>The safe harbor described in this section applies only to actions brought under this Act and does not limit the liability of an app developer under any other applicable law.</text>
+            </subsection>
+        </section>
+        <section id="H29D86CC56ABF4FD4B882E3C902E4670A">
+            <enum>9.</enum>
+            <header>Preemption</header>
+            <subsection id="HF18E0F109E6F4561ACB170D5E69F9B36">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>No State or political subdivision of a State may maintain, enforce, prescribe, or continue in effect any law, rule, regulation, requirement, standard, or other provision having the force and effect of law of any State, or political subdivision of a State, related to the provisions of this Act.</text>
+            </subsection>
+            <subsection id="HE02725BEDFCE42F9B4216C584AFF4146">
+                <enum>(b)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this subsection shall be construed as preempting, displacing, or supplanting contract or tort law.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="HEF18D64D80F04830853A252ED541CA83">
+            <enum>10.</enum>
+            <header>Severability</header>
+ <text display-inline="no-display-inline">If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by the invalidation.</text>
+        </section>
+        <section id="H3D0099A2DFFF4B43AC914BA7F4E3C169">
+            <enum>11.</enum>
+            <header>Effective date</header>
+ <text display-inline="no-display-inline">Except as otherwise provided in this Act, this Act shall take effect on the date that is 1 year after the date of enactment of this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

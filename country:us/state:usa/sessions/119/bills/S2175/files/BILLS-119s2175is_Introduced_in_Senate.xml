@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25591-WFM-79-H8C">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2175 IS: Pilot and Aircraft Privacy Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2175</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250625" legis-day="20250624">June 25 (legislative day, June 24),
+                2025</action-date>
+            <action-desc><sponsor name-id="S417">Mr. Budd</sponsor> (for himself, <cosponsor name-id="S383">Mr. Sullivan</cosponsor>, and <cosponsor name-id="S435">Mr.
+                    Sheehy</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSCM00">Committee on Commerce,
+                    Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish requirements and limitations regarding the use of automatic
+            dependent surveillance-broadcast data, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pilot and Aircraft Privacy Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idbf60d2a216d84847a56863f1954e621f">
+            <enum>2.</enum>
+            <header>Use of automatic dependent surveillance-broadcast data</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id887478daf23a4459affc5abb60b747d5">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/447">Chapter 447</external-xref> of title 49, United States Code, is amended by adding at the end the following new section:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id46ae1884ca844fb893fe162b8b511929">
+                    <section id="idfc13911afb314cda9e2d1afc9289d320">
+                        <enum>44749.</enum>
+                        <header>Use of automatic dependent surveillance-broadcast data</header>
+                        <subsection id="id1d95b261d21e49c9b62ad61ceec3c3ee">
+                            <enum>(a)</enum>
+                            <header>Limitation on use of ADS–B data</header>
+ <text>No person (including a government agency) may use automatic dependent surveillance-broadcast data to identify any aircraft in order to assess a fee or otherwise impose a charge on the owner or operator of such aircraft.</text>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="idbfb3a5713c724ad191b91a3f187847e9">
+                            <enum>(b)</enum>
+                            <header>Use by air traffic controllers</header>
+ <text>An air traffic controller may only use automatic dependent surveillance-broadcast data—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id42c4c91a51d346cb9b0a989dbd2719aa">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">to assist in tracking aircraft and improving air traffic safety and efficiency; or</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idd2f7e8023f754fb8a215fa1a0198f9b0">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">for any other purpose determined appropriate by the Secretary of Transportation after notice and an opportunity for public comment.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id60b9506098214cdaa41fe3ec19f80239">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/447">chapter 447</external-xref> of title 49, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/49/44748">section 44748</external-xref> the following:</text>
+                <quoted-block style="USC" id="idca750a1ac2b6469c975dc5ae63c5672c" display-inline="no-display-inline">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">44749. Use of automatic dependent
+                            surveillance-broadcast data.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline"
+            id="ida2d628e8173841aeaf249089224e9dc1">
+            <enum>3.</enum>
+            <header>Limitation on use of ADS–B data in investigations</header>
+ <text display-inline="no-display-inline">Section 46101(c)(1) of title 49, United States Code, is amended by striking <quote>the Administrator of the Federal Aviation may not</quote> and inserting <quote>neither the Administrator of the Federal Aviation Administration nor any other Federal, State, local, territorial, or Tribal official may</quote>.</text>
+        </section>
+        <section id="H426FFD9B15FF486ABD4459FCA8506FE5">
+            <enum>4.</enum>
+            <header>Imposition of fees on general aviation aircraft</header>
+            <subsection commented="no" display-inline="no-display-inline" id="H1517C5BFC37249BE8D3B91EF1A981A19">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/401">Chapter 401</external-xref> of title 49, United States Code, is amended by adding at the end the following new section:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="H6AC7A3C2731A430B87DA2BEC8B868BDF">
+                    <section id="H74F7068FD7E44910A5FE180E47522E37">
+                        <enum>40133.</enum>
+                        <header>Imposition of fees on general aviation aircraft</header>
+                        <subsection commented="no" display-inline="no-display-inline" id="idf7ad3741f44f402ab3caf66af984bfbf">
+                            <enum>(a)</enum>
+                            <header>Disclosure required</header>
+ <text>Prior to imposing a landing or take-off fee on any general aviation aircraft (as defined in subsection (d)), the owner or operator of a public-use airport (as defined in section 47102) shall make available to the public the following information:</text>
+                            <paragraph id="ide6f23571a24947b0acf718c1108e03bd">
+                                <enum>(1)</enum>
+ <text>Any efforts the airport owner or operator has undertaken to reduce non-airside related expenses.</text>
+                            </paragraph>
+                            <paragraph id="idba75e3d580a247e197f2621331749122">
+                                <enum>(2)</enum>
+ <text>Any efforts the airport owner or operator has undertaken to obtain revenues from sources other than general aviation aircraft.</text>
+                            </paragraph>
+                            <paragraph id="ide666a60b5ff14cab9bf34bf7c1b4e475">
+                                <enum>(3)</enum>
+ <text>The total cost estimate of the airside safety projects that the airport owner or operator plans to undertake, the amount or percentage of the fees imposed on general aviation aircraft that will be used to pay for such project, and an estimated timeline to collect such amount.</text>
+                            </paragraph>
+                            <paragraph id="iddb81a7cf375c476a859605dca44df922">
+                                <enum>(4)</enum>
+ <text>An assessment of the impact of any fees on the health and vitality of general aviation and on the pilots, students, charities, and businesses that support or rely on general aviation in the area of the airport.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idf6f0eb7c399442b38b0e57c7c623ebad">
+                            <enum>(b)</enum>
+                            <header>Restriction on use of funds</header>
+ <text>Any revenues derived from fees imposed on general aviation aircraft may only be used for airside safety projects.</text>
+                        </subsection>
+                        <subsection id="idaf92525a48c24eb6ace01b45d870e77e">
+                            <enum>(c)</enum>
+                            <header>Rulemaking and reporting</header>
+ <text>The Administrator of the Federal Aviation Administration may promulgate such regulations or impose such reporting requirements as may be necessary to carry out this section.</text>
+                        </subsection>
+                        <subsection id="id5e286bab467d4385a6e847ebbeda0048">
+                            <enum>(d)</enum>
+                            <header>General aviation aircraft defined</header>
+ <text>For purposes of this section, the term <term>general aviation aircraft</term> means an aircraft that is being used for—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idabcdee216d0d4d678514e313b3b5347c">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">personal, recreational, or flight training purposes; or</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idafd7af82109b4f1e9c8088770d4fd94c">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">purposes other than scheduled airline operations or military flights.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HDF45F3C9583944A989A371AC8854EED3">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/401">chapter 401</external-xref> of title 49, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/49/40132">section 40132</external-xref> the following:</text>
+                <quoted-block style="USC" id="H425E27A0124B41C2AFD802B7316270A0" display-inline="no-display-inline">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">40133. Imposition of fees on general aviation
+                            aircraft.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

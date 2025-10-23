@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-PAT25329-48G-8F-5W6">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2593 IS: Preventing Remote Operations by Threatening Entities on Critical Technology for the Grid Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2593</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> introduced the
+                following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To direct the Secretary of Commerce to submit a report assessing
+            vulnerabilities to the electric grid in the United States from certain
+            Internet-connected devices and applications, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Remote Operations by Threatening Entities on Critical Technology for the Grid Act</short-title></quote> or the <quote><short-title>PROTECT the Grid Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="iddf697b69a87d4ba7bdd7e8d195466a9b">
+            <enum>2.</enum>
+            <header>Findings; Purposes</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idb54693317c874601aa283857d3ca811f">
+                <enum>(a)</enum>
+                <header>Findings</header>
+ <text>Congress finds that—</text> <paragraph id="id5f3389c32b1d4845a5d6ee63ffe643df"> <enum>(1)</enum> <text>the rapid proliferation of high‑wattage IoT devices, such as electric vehicle chargers, clothes dryers, smart air conditioners, water heaters, ovens, and similar appliances, has dramatically increased the number of connected devices in households in the United States;</text>
+                </paragraph>
+                <paragraph id="iddf4e1b7738be47de8fc7817f79755a5c">
+                    <enum>(2)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="ida35b7293c798491a93b08c863337c0dc">
+                        <enum>(A)</enum>
+ <text>smart appliance applications and software platforms increasingly serve as remote control interfaces; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4cce3fe4b6914229a4f8ac0e27cad99b" indent="up1">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">when those applications and software platforms originate from companies operating under the jurisdiction or direction of foreign adversaries they offer a pathway for large-scale, coordinated manipulation of power demand, threatening grid stability;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6c6ac16519b3411983d62b0f09467eba">
+                    <enum>(3)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="id764944e949e5453d9d5582f397f8089a">
+                        <enum>(A)</enum>
+ <text>in certain foreign adversary jurisdictions, particularly the People’s Republic of China, private companies are subject to formal political oversight through mechanisms such as, in the case of the People’s Republic of China, embedded Chinese Communist Party committees and executive-level Chinese Communist Party leadership; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id97a050880e66495aadd6b495c4467e5a" indent="up1">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">those arrangements blur the lines between commercial activity and state-directed strategic interests;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id268ad1009e674a71bf4168120288cc33">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">further elevating the risk to the United States electric grid is the 2017 Cybersecurity Law of the People’s Republic of China (commonly referred to as the <quote>Chinese Cybersecurity Law</quote>), which mandates that Chinese companies store customer data domestically and grant Chinese state authorities broad access to those data;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3792db1a8bba4585853e1027d3f0ee18">
+                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">the legal and political structures described in paragraphs (3) and (4) increase the likelihood that connected home appliances could be leveraged by foreign adversaries to target critical infrastructure in the event of a conflict with the United States;</text>
+                </paragraph>
+                <paragraph id="id484f8ded2ac54053a495487473f33e54">
+                    <enum>(6)</enum>
+ <text>companies controlled by foreign adversaries—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idbd46b64a45e8443f8ee1c5bfe83af9b6"> <enum>(A)</enum> <text display-inline="yes-display-inline">are actively pursuing rapid deployment of high-wattage IoT devices that could be used to attack the electric grid in the United States; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id592c13053b7d482bb21e80ca39bf2e30">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">control more than 25 percent of the major appliance industry in the United States, which provides an established platform for quickly deploying those high-wattage IoT devices;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id77275f6e59cc43b58c10835db57e1146">
+                    <enum>(7)</enum>
+ <text>through smart applications, companies controlled by foreign adversaries—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2c25f26935e840fa906ea4c3f63163c5">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">are actively collecting detailed consumer data on millions of people in the United States; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id84eff1b0c5b44378b6975a32d98b8d97">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">have the ability to directly manipulate the demand of high-wattage devices on the electric grid;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id79c1f0d0072043ddb565dcddaef55db3">
+                    <enum>(8)</enum>
+ <text>as a result, foreign adversary-controlled applications for high‑wattage IoT devices create significant risk of coordinated, deliberate, demand-manipulation attacks on the electric grid in the United States;</text>
+                </paragraph>
+                <paragraph id="id318ac3f043c842f19c675769dfae6087">
+                    <enum>(9)</enum>
+ <text>several academic studies from researchers at Princeton University, the Georgia Institute of Technology, and the University of California, Santa Cruz, point to significant risks of manipulation of demand via IoT (commonly referred to as <quote>MaDIoT</quote>) attacks to manipulate power demand on the electric grid that could result in large-scale blackouts and potential damage to the electric grid;</text>
+                </paragraph>
+                <paragraph id="id56c8497ac18749edb32e9379e937ea13">
+                    <enum>(10)</enum>
+ <text>it is therefore critical to protect energy infrastructure in the United States by ensuring that smart applications embedded in home appliances are secure and cannot serve as an entry point for foreign adversaries; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4798e2f041ff467c9129b8c64c76b89f">
+                    <enum>(11)</enum>
+ <text display-inline="yes-display-inline">failing to address the vulnerabilities presented by those smart applications could lead to grid instability, frequency imbalances, cascading system failures, and, ultimately, catastrophic disruptions that jeopardize both public safety and the broader economy of the United States.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id9c2fe34807ab44cfa1e7c259dacff26e">
+                <enum>(b)</enum>
+                <header>Purposes</header>
+ <text>The purposes of this Act are—</text> <paragraph commented="no" display-inline="no-display-inline" id="id2008f993a27146f7bf4eee2662ad3b15"> <enum>(1)</enum> <text display-inline="yes-display-inline">to harmonize and reinforce existing national security initiatives aimed at securing the domestic information and communications technology and services (commonly referred to as <quote>ICTS</quote>) supply chain against manipulation of demand, especially by the People’s Republic of China; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb4a518e132ff4b91b77b3fd5cad15b29">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">to direct the Secretary of Commerce, in consultation with other relevant Federal officials, to submit to Congress a report containing findings and recommendations to ensure that network-connected home appliances in households in the United States do not serve as a conduit for activities by foreign adversaries or jeopardize the stability of the electric grid in the United States.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id81df76eface248fb973fed9822cfbdd5">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id1a22e24616f647b48d6d59e178d9cf6e"> <enum>(1)</enum> <header>Consumer product</header> <text>The term <quote>consumer product</quote> has the meaning given the term in section 3(a) of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2052">15 U.S.C. 2052(a)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id1b12e659a8714fefb9eb7f5ed043d3b5">
+                <enum>(2)</enum>
+                <header>Covered entity</header>
+ <text>The term <term>covered entity</term> means an entity that—</text> <subparagraph id="idc514f8ac61c84cd98159f87931f46636"> <enum>(A)</enum> <text>is subject to the jurisdiction of a foreign adversary;</text>
+                </subparagraph>
+                <subparagraph id="idf64acb3d447c40a682d58832d3549085">
+                    <enum>(B)</enum>
+ <text>is directly or indirectly operating on behalf of a foreign adversary; or</text>
+                </subparagraph>
+                <subparagraph id="id31f2d80363214c84bbbc3f09dd57c65d" commented="no" display-inline="no-display-inline">
+                    <enum>(C)</enum>
+ <text>is owned by, directly or indirectly controlled by, or otherwise subject to the direction or influence of, a foreign adversary.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idbadd2b91e6844d75bcea3ab4b89e37ab">
+                <enum>(3)</enum>
+                <header>Critical infrastructure</header>
+ <text>The term <term>critical infrastructure</term> has the meaning given the term in subsection (e) of the Critical Infrastructures Protection Act of 2001 (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">42 U.S.C. 5195c</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id7ec6f61abdf8421cb05dee083c690f7e">
+                <enum>(4)</enum>
+                <header>Foreign adversary</header>
+ <text>The term <term>foreign adversary</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id3f47cff8494340c9a17b47698132c370"> <enum>(A)</enum> <text display-inline="yes-display-inline">any covered nation (as defined in section 4872(f) of title 10, United States Code); and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id646cdcedb6814437bb2ad17ee0ef9540">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Bolivarian Republic of Venezuela while Nicolás Maduro Moros is in power.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idd6f1f29a6ea840039f0edcd8f57a7b15">
+                <enum>(5)</enum>
+                <header>Foreign adversary-controlled application</header>
+ <text>The term <term>foreign adversary-controlled application</term> means a website, desktop application, mobile application, or augmented or immersive technology application that is operated, directly or indirectly (including through a parent, subsidiary, or affiliate (as those terms are defined in section 230.405 of title 17, Code of Federal Regulations (as in effect on the date of enactment of this Act))), by a covered entity.</text>
+            </paragraph>
+            <paragraph id="id2010918061494164ad59fe2366939804">
+                <enum>(6)</enum>
+                <header>High-wattage IoT device</header>
+ <text>The term <term>high-wattage IoT device</term> means any Internet‑connected appliance or device that is capable of consuming or controlling electrical power at a level exceeding 500 watts, regardless of whether the device is used or designed for use in residential or commercial applications.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline"
+                id="id0afc5abd13624e4ab07709f7d8713a6e">
+                <enum>(7)</enum>
+                <header>IoT</header>
+ <text>The term <term>IoT</term> means Internet of Things.</text> </paragraph> <paragraph id="id72ca420b7cf0436e83da069c53fbba87"> <enum>(8)</enum> <header>Relevant Federal official</header> <text>The term <term>relevant Federal official</term> means—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id693a2ac587d449dea5046ff3b6be586f">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">any Federal official described in section 1(a) of Executive Order 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain) (as in effect on the date of enactment of this Act) (or a designee of the applicable Federal official); and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id44be09d34b234d529812659e73937b50">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the head (or a designee of the head) of any other Federal department or agency that, in the determination of the Secretary of Commerce, is relevant to the purposes of this Act.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id1206d8dbd6f94c6ba58d64c63b1e3090">
+            <enum>4.</enum>
+            <header>Report on national security risks posed by foreign adversary-controlled
+                applications with the capability of controlling high-wattage IoT devices</header>
+            <subsection id="idbbdf6f142e37436f9225137afe6d665f">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 270 days after the date of enactment of this Act, the Secretary of Commerce, in coordination with other relevant Federal officials, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report assessing the national security risks associated with foreign adversary-controlled applications with the ability to attack or undermine critical infrastructure in the United States.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id518a42bfb79d4e25abb919c59d20bd71">
+                <enum>(b)</enum>
+                <header>Considerations</header>
+ <text display-inline="yes-display-inline">In preparing the report under subsection (a), the Secretary of Commerce shall consider, at a minimum—</text>
+                <paragraph id="id9147926939d4448c8543e4d91cb3da00">
+                    <enum>(1)</enum>
+ <text>the extent of deployment of high-wattage IoT devices across the United States;</text>
+                </paragraph>
+                <paragraph id="id3a84f8e64f0f44ce8d03450617baee36">
+                    <enum>(2)</enum>
+ <text>risks relating to foreign adversary-controlled applications, especially those incorporated into consumer products that could be used to attack or otherwise destabilize the electric grid;</text>
+                </paragraph>
+                <paragraph id="id784ea99729f94a4494351873f3e88d3b">
+                    <enum>(3)</enum>
+ <text>potential impacts of those risks and any other relevant vulnerabilities on national security, including the risks of frequency imbalances, cascading failures, and other disruptions to critical infrastructure; and</text>
+                </paragraph>
+                <paragraph id="id3af85e45dc354b40a3e8e8d39042cd27">
+                    <enum>(4)</enum>
+ <text>public comments and input from industry experts, domestic producers, importers, consumer groups, and other stakeholders regarding the security of, and the extent of foreign influence over, foreign adversary-controlled applications and high-wattage IoT devices.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id337499bcfc324fa88d2c6729217dc753">
+                <enum>(c)</enum>
+                <header>Recommendations</header>
+ <text>The report submitted under subsection (a) shall include recommendations for mitigation measures to address any identified national security risks, which may include—</text>
+                <paragraph id="id41710377f2544db79e4daa616557c1ea">
+                    <enum>(1)</enum>
+ <text>an assessment of how Executive Order 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain) (as in effect on the date of enactment of this Act) may be applied to IoT devices, as such devices apply to the electric grid, to include restrictions or conditions on transactions directly involving foreign adversary-controlled applications in high-wattage IoT devices;</text>
+                </paragraph>
+                <paragraph id="idf13f39d9fc084414bcf080200844f970">
+                    <enum>(2)</enum>
+ <text>specifically restricting the procurement by the Federal Government of consumer products with a foreign adversary-controlled application;</text>
+                </paragraph>
+                <paragraph id="idfdccb6752af84a06860900f25fb969a9">
+                    <enum>(3)</enum>
+ <text>certification or labeling requirements for high-wattage IoT devices; and</text>
+                </paragraph>
+                <paragraph id="id0c9f63f32e7a4557b1f3d63fece396cd">
+                    <enum>(4)</enum>
+ <text>any other proposal, as determined necessary by the Secretary of Commerce, in consultation with other relevant Federal officials.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="ida141422d04b3408cbb3917b71e7a6aa9">
+            <enum>5.</enum>
+            <header>Codification of Executive Order 13873</header>
+            <subsection id="idB69EA980C6F24818AF1BEB77EF1238D7">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The provisions of Executive Order 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain) (as in effect on the date of enactment of this Act) are enacted into law.</text>
+            </subsection>
+            <subsection id="idC548918E9C4F4F8AA32C6244CAE210FA">
+                <enum>(b)</enum>
+                <header>Publication</header>
+ <text>In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the Executive order referred to in subsection (a) (as in effect on the date of enactment of this Act).</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

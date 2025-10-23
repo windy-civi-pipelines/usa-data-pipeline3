@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RYA25047-VY2-99-5SG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1713 IS: Agriculture Innovation Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1713</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250512">May 12, 2025</action-date>
+            <action-desc><sponsor name-id="S311">Ms. Klobuchar</sponsor> (for herself and <cosponsor name-id="S303">Mr. Thune</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAF00">Committee on
+                    Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Food Security Act of 1985 to authorize the Secretary of
+            Agriculture to improve agricultural productivity, profitability, resilience, and
+            ecological outcomes through modernized data infrastructure and analysis, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Agriculture Innovation Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id4fc2ba7e64534adca2e474f555502087">
+            <enum>2.</enum>
+            <header>Data on conservation and other production practices</header>
+ <text display-inline="no-display-inline">Subtitle E of title XII of the Food Security Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/16/3841">16 U.S.C. 3841 et seq.</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id6b786ff0e8bc4fc78c1028490e26904c">
+                <section id="id3B8395FABD444E33BD37CE643C180FB3">
+                    <enum>1248.</enum>
+                    <header>Data on conservation and other production practices</header>
+                    <subsection commented="no" id="id4221db5f94ae42c09c75742ac68e7b70">
+                        <enum>(a)</enum>
+                        <header>Purpose</header>
+ <text>The purpose of this section is to improve conservation outcomes, increase agricultural productivity and resilience, and accelerate the development of ecosystem service markets by collecting, analyzing, and providing data—</text>
+                        <paragraph commented="no" id="id6A828F12AE464C539F755503BFF14C02">
+                            <enum>(1)</enum>
+ <text>to better understand how covered conservation practices and suites of covered conservation practices and other production practices impact farm, ranch, and other working land productivity and profitability (such as crop yields, soil health, and other risk-reducing factors);</text>
+                        </paragraph>
+                        <paragraph commented="no" id="idF5D326F6B9B0426AB335B75439B806E9">
+                            <enum>(2)</enum>
+ <text>to support the measurement and quantification of ecosystem services provided by working land, such as soil health, water filtration, and habitat, that result from covered conservation practices and other production practices; and</text>
+                        </paragraph>
+                        <paragraph commented="no" id="idB968CF22F53241A89EA4DF11BEDCDCCD">
+                            <enum>(3)</enum>
+ <text>to improve the implementation of Department programs to optimize productivity, profitability, and ecological benefits.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id5c64831dcefc48b5951b0efa729c2361">
+                        <enum>(b)</enum>
+                        <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id2541fe0fcb7a4f20859a859c1704c317"> <enum>(1)</enum> <header>Covered conservation practice</header> <text>The term <term>covered conservation practice</term> means a specific conservation practice or enhancement that is designed to protect soil health, farm and ranch productivity, or both (including the protection of wildlife habitat) while maintaining or enhancing crop yields in an economically sustainable manner (including such a conservation practice or enhancement that is supported by the Department or used independently by a producer), as determined by the Secretary.</text>
+                        </paragraph>
+                        <paragraph id="id5522a886df0a425eb2c79255ee400b49">
+                            <enum>(2)</enum>
+                            <header>Department</header>
+ <text>The term <term>Department</term> means the Department of Agriculture. </text>
+                        </paragraph>
+                        <paragraph id="ida8fb4eb576d24cec81ff51e8712f46b8">
+                            <enum>(3)</enum>
+                            <header>Other production practice</header>
+ <text>The term <term>other production practice</term> means a practice used to produce a crop or livestock, including pest control, nutrient management, manure management, water and irrigation management, seed, feed and nutrition, and crop residue management. </text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id8a172fc09585451da8bc55e7dfc5159f">
+                        <enum>(c)</enum>
+                        <header>Data collection, review, analysis, and technical assistance</header>
+ <text>The Secretary, acting through the 1 or more applicable Under Secretaries that head mission areas relating to farm and ranch productivity and conservation, in coordination with the Chief Data Officer of the Department, the Chief Economist, and the Under Secretary for Research, Education, and Economics, shall carry out the following activities:</text>
+                        <paragraph commented="no" id="id8b46c4af1cd04752964ccc7306e460d1">
+                            <enum>(1)</enum>
+ <text>Identify in the data inventory maintained by the Secretary under section 3511 of title 44, United States Code, data relating to the impacts of covered conservation practices and other production practices on enhancing crop yields, soil health, and ecosystem services, reducing risk, and improving farm, ranch, and other working land profitability generated or collected by the Department, including the Farm Service Agency, the Risk Management Agency, the Natural Resources Conservation Service, the National Agricultural Statistics Service, the Economic Research Service, the Forest Service, and any other relevant agency, as determined by the Secretary.</text>
+                        </paragraph>
+                        <paragraph commented="no" id="id72d635b5da2d4e52a39767b9fe8f87f0">
+                            <enum>(2)</enum>
+ <text>Collect or acquire, using other authorities of the Secretary, and using technology and a modernized survey system, to the greatest extent practicable, or another appropriate method, any additional producer data, baseline data, or other data relating to the impacts of covered conservation practices and other production practices on enhancing crop yields, soil health, and ecosystem services, reducing risk, and improving farm, ranch, and other working land profitability necessary to achieve the purpose described in subsection (a), ensuring that data is collected from all types and sizes of operations.</text>
+                        </paragraph>
+                        <paragraph id="id6f673b1b2efb41659f5cf41212dda0cb">
+                            <enum>(3)</enum>
+ <text>Ensure that producer data identified or collected under paragraph (1) or (2) are collected in a compatible format that is machine-readable (as defined in section 3502 of title 44, United States Code) at the field- and farm-level and in a manner that places the lowest practicable burden on producers and improves the interoperability of the data collected by the Department for the purposes of this section and optimizes the interoperability, to the extent practicable, with data relating to conservation practices generated by other organizations and other activities of the Department.</text>
+                        </paragraph>
+                        <paragraph commented="no" id="id80bb95f2da7547deb625fe9f62d4fdb0">
+                            <enum>(4)</enum>
+ <text>Establish procedures for producers to voluntarily provide supplemental data that may be useful in statistical activities (as defined in section 311 of title 5, United States Code) and activities to build evidence (as defined in that section) of the impacts of covered conservation practices on—</text>
+                            <subparagraph commented="no" id="id3911DE0A84604F9AA62EA724209F2AAB">
+                                <enum>(A)</enum>
+ <text>enhancing crop yields, soil health, and ecosystem services;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="id8F75FB577062491EAC44B8417BB2A069">
+                                <enum>(B)</enum>
+ <text>reducing risk; and</text> </subparagraph> <subparagraph commented="no" id="id1B9BF53D931B43F7AAA818E0C0AD979F"> <enum>(C)</enum> <text>improving farm, ranch, and other working land profitability.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idb5585bc125f9423d929906482d68f222">
+                            <enum>(5)</enum>
+ <text>Integrate, collate, and link, to the greatest extent practicable, data identified or collected under this subsection with other government or nongovernmental data sources that include crop yields, soil health, covered conservation practices, and other production practices.</text>
+                        </paragraph>
+                        <paragraph id="id84fcd5076dd44c9a8d15ad13939660f2">
+                            <enum>(6)</enum>
+ <text>Establish a conservation and farm productivity secure data center designed to carry out the purposes of this section that ensures the security, privacy, and integrity of data.</text>
+                        </paragraph>
+                        <paragraph id="id5d67e8a4e5ac46d585d1b39cbf902139">
+                            <enum>(7)</enum>
+ <text>Make available data through the secure data center established under paragraph (6) to academic institutions and researchers that meet the user permission requirements described in subsection (d)(2)(A) for the provision of technical assistance.</text>
+                        </paragraph>
+                        <paragraph id="ida23ac420d09b48c39805ac008f621c8f">
+                            <enum>(8)</enum>
+ <text>Analyze, consistent with the scientific integrity policy of the Department, the data identified or collected under this subsection to consider the impacts of covered conservation practices and other production practices on enhancing crop yields, soil health, and ecosystem services and improving farm, ranch, and other working land profitability.</text>
+                        </paragraph>
+                        <paragraph id="id0e2e1d2aa6414764a56f2fc46420df97">
+                            <enum>(9)</enum>
+ <text>Use the results of the analyses under paragraph (8) to improve the implementation and efficiency of Department programs to increase productivity, profitability, and ecological benefits of farm, ranch, and other working land, including relating to issues identified in the evidence-building plan of the Department required under section 312 of title 5, United States Code.</text>
+                        </paragraph>
+                        <paragraph id="id81e05fdaa6984ccca8d5237d1a0b3bf7">
+                            <enum>(10)</enum>
+ <text>Promptly make available on the public-facing component of the secure data center established under paragraph (6) the research, analysis, evaluation products, and other information generated in carrying out this section (including open Government data assets (as defined in section 3502 of title 44, United States Code), to the extent permissible by law)—</text>
+                            <subparagraph id="idA282104521764A62A76D67B5BACBA079">
+                                <enum>(A)</enum>
+ <text>that demonstrates the impacts of covered conservation practices and other production practices on enhancing crop yields, soil health, and ecosystem services, reducing risk, and improving farm, ranch, and other working land profitability; and </text>
+                            </subparagraph>
+                            <subparagraph id="id30FD66B2C27E48B9857B78D0B3219886">
+                                <enum>(B)</enum>
+ <text>in a manner that is easily accessed by producers, researchers, and other stakeholders.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id9919f479e4814956ba8faefa7df84a8b">
+                        <enum>(d)</enum>
+                        <header>Secure agricultural data center establishment</header>
+                        <paragraph id="idf93ebe22cbc84fed80e45877a679423c">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary may enter into 1 or more agreements with 1 or more academic institutions, organizations, government agencies, or other experts determined necessary by the Secretary to provide technical assistance, expertise, and technology infrastructure, as needed, to develop the secure data center under subsection (c)(6).</text>
+                        </paragraph>
+                        <paragraph id="idb75bb7fb3bf94ed4a187d05520434647">
+                            <enum>(2)</enum>
+                            <header>Requirement to modernize data security, storage, and
+                                access</header>
+                            <subparagraph id="id0449e3451a2040fe9f1843016b40a388">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>In establishing the secure data center described in paragraph (1), the Secretary shall use industry-standard data security protocols and user permissions to protect the security and confidentiality of proprietary producer data while automating and standardizing data collection, storage, and sharing, to the greatest extent practicable, for the purpose of carrying out this section and encouraging agriculture innovation.</text>
+                            </subparagraph>
+                            <subparagraph id="idabebcf8fdbbb43899f884f7260f1fc03">
+                                <enum>(B)</enum>
+                                <header>Requirements</header>
+ <text>In carrying out subparagraph (A), the Secretary shall establish procedures for the operation and use of the secure data center that include—</text>
+                                <clause id="iddc9b107b11a9447a93287cddf6716e90">
+                                    <enum>(i)</enum>
+ <text>prohibiting the sale of any individual or identifiable producer data;</text>
+                                </clause>
+                                <clause id="id938ca72c487c4e84807fa7dbf0d91fd2">
+                                    <enum>(ii)</enum>
+ <text>a method to provide disclosure review of research resulting from data for which access is provided prior to public release to ensure that no information that is otherwise protected from disclosure by law is disclosed;</text>
+                                </clause>
+                                <clause id="id1822792fd7f34e0b9d7a6565f35fe2d1">
+                                    <enum>(iii)</enum>
+ <text>requiring any published research to release only aggregated and anonymized data, consistent with best practices for disclosure avoidance and reducing the risk of re-identification; and</text>
+                                </clause>
+                                <clause id="idd9e0ccc34bf74f7ab89b5fad1651eab2">
+                                    <enum>(iv)</enum>
+ <text>periodically consulting with experts and stakeholders to consider necessary modifications to security protocols or confidentiality protections for identifiable data accessed or maintained by the secure data center and improvements to access for approved users. </text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="id996963fd870946629bd11b9d7cd5ffdd">
+                                <enum>(C)</enum>
+                                <header>Additional requirements</header>
+ <text>In carrying out subparagraphs (A) and (B), the Secretary shall establish measures to ensure proposals to use data made available through the secure data center to academic institutions and researchers—</text>
+                                <clause id="id6104cb84694f4103b79e01cacf9ffe1a">
+                                    <enum>(i)</enum>
+ <text>would have statistical results that pose no risk of unauthorized disclosure of protected data;</text>
+                                </clause>
+                                <clause id="idec8e1fc51d0b4080aae068a6f6498bef">
+                                    <enum>(ii)</enum>
+ <text>are feasible given the features of the data; and</text> </clause> <clause id="idd85416de8ed94a62a0e750b7b4b69dcc"> <enum>(iii)</enum> <text>would be consistent with the purposes for which the data were collected, including for developing evidence that can be used for technical assistance and assessment of program outcomes. </text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idfad117197d2a44d8ae8fa3cb5aed5365">
+                        <enum>(e)</enum>
+                        <header>Producer tools</header>
+                        <paragraph id="idb81f2ba9676442ae94b62d8d5103f00f">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>Not later than 3 years after the date of enactment of this section, the Secretary shall provide technical assistance, including through internet-based tools, based on the analysis conducted in carrying out this section and other sources of relevant data, to assist producers in improving sustainable production practices that increase yields and enhance environmental outcomes.</text>
+                        </paragraph>
+                        <paragraph id="id9e952eeed23f4fd486bc791d8e19ae33">
+                            <enum>(2)</enum>
+                            <header>Internet-based tools</header>
+ <text>Internet-based tools described in paragraph (1) shall provide to producers, to the greatest extent practicable—</text>
+                            <subparagraph id="id860fa133c4764ec98b5dcefde007aaf8">
+                                <enum>(A)</enum>
+ <text>confidential data specific to each farm or ranch of the producer; and</text>
+                            </subparagraph>
+                            <subparagraph id="idc6081d0b3a0c4c44b0f4653d4fc4eebf">
+                                <enum>(B)</enum>
+ <text>general data relating to the impacts of covered conservation practices on enhancing crop yields, soil health, and otherwise reducing risk and improving farm and ranch profitability.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id166589f692fd442bb16ee7a8a5525776">
+                        <enum>(f)</enum>
+                        <header>Effect on privacy protection laws</header>
+ <text>Nothing in this section affects the applicability to this section of—</text>
+                        <paragraph id="id28b94b5de83e43a2893263cc7b1bdf10">
+                            <enum>(1)</enum>
+ <text>section 1770;</text> </paragraph> <paragraph id="id2a2e8f5b3a404612ad0c77707a800ccf"> <enum>(2)</enum> <text>section 1619 of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/8791">7 U.S.C. 8791</external-xref>);</text>
+                        </paragraph>
+                        <paragraph id="idd22be020123040c7ad8e317c5f3b81af">
+                            <enum>(3)</enum>
+ <text>section 502(c) of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1502">7 U.S.C. 1502(c)</external-xref>);</text>
+                        </paragraph>
+                        <paragraph id="id32694740dd724fb4ad27264f42cdad9d">
+                            <enum>(4)</enum>
+ <text>section 552a of title 5, United States Code; or</text> </paragraph> <paragraph id="id65b601f6fc764d1884929893a6a3ec45"> <enum>(5)</enum> <text>any other applicable privacy law that protects personally identifiable information of producers.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idbc5d84a08d554eee88a3c53dca6d6f43">
+                        <enum>(g)</enum>
+                        <header>Reporting</header>
+ <text>Not later than 1 year after the date of enactment of this section, and each year thereafter, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report that includes—</text>
+                        <paragraph id="id722f64e26ad94f088b8b460edda07d45">
+                            <enum>(1)</enum>
+ <text>a summary of the analysis conducted under this section;</text> </paragraph> <paragraph id="idfb6e5e610b2347b9915fb5bc1522a532"> <enum>(2)</enum> <text>the number and regions of producers that voluntarily provided data under subsection (c)(4);</text>
+                        </paragraph>
+                        <paragraph id="idf209e5a6e4cb4b358ab30eaac1553507">
+                            <enum>(3)</enum>
+ <text>a description of any additional or new activities planned to be conducted under this section in the next fiscal year, including—</text>
+                            <subparagraph id="idbb63740b167a4e80b47a1d9eeb0c4702">
+                                <enum>(A)</enum>
+ <text>research relating to any additional conservation practices;</text>
+                            </subparagraph>
+                            <subparagraph id="id23782915e78f4a1b8117023462c49be9">
+                                <enum>(B)</enum>
+ <text>any new types of data to be collected;</text> </subparagraph> <subparagraph id="id2e0ffb98b9d44c359213ae3d581dc9a5"> <enum>(C)</enum> <text>any improved or streamlined data collection efforts associated with this section; and</text>
+                            </subparagraph>
+                            <subparagraph id="id6cfa82e65dd54f279f896141ed269bd5">
+                                <enum>(D)</enum>
+ <text>any new research projects; </text> </subparagraph> </paragraph> <paragraph id="idfea5158bda8c4652b709b2e531c9b988"> <enum>(4)</enum> <text>a summary of the procedures for the operation and use of the secure data center under subsection (c)(6), including procedures for protecting the security and confidentiality of proprietary producer data; and </text>
+                        </paragraph>
+                        <paragraph id="id755694a6993240229444bb66b89e83d7">
+                            <enum>(5)</enum>
+ <text>in the case of the first 2 reports submitted under this subsection, a description of the current status of the implementation of activities under subsection (c).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id8a2051318a7240dfa08da5d5aefa3963">
+                        <enum>(h)</enum>
+                        <header>Funding and administration</header>
+ <text>The Secretary shall use the existing funds and authorities of the Department to carry out this section.</text>
+                    </subsection>
+                    <subsection id="id8c02a46609364dada21a0d3963eb580b">
+                        <enum>(i)</enum>
+                        <header>Effect</header>
+ <text>Nothing in this section authorizes the Secretary to compel a producer—</text>
+                        <paragraph id="idAF995FCBBA9144849517A20A3F7A2FE8">
+                            <enum>(1)</enum>
+ <text>to provide data to the Department; or</text> </paragraph> <paragraph id="id0444EDA3C9814E83B56359AF840C4998"> <enum>(2)</enum> <text>to receive technical assistance.</text>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

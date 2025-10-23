@@ -1,0 +1,2138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25376-GDS-GC-NSY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1645 IS: American Ownership and Resilience Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1645</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S390">Mr. Van Hollen</sponsor> (for himself, <cosponsor name-id="S347">Mr. Moran</cosponsor>, <cosponsor name-id="S354">Ms.
+                    Baldwin</cosponsor>, <cosponsor name-id="S391">Mr. Young</cosponsor>, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>, <cosponsor name-id="S420">Mr.
+                    Schmitt</cosponsor>, and <cosponsor name-id="S422">Mr. Welch</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish a domestic ownership investment facility, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Ownership and Resilience Act</short-title></quote>.</text>
+        </section>
+        <section id="id66983ac3fc79446e99c6b9b5427580da">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="idef3fe228d2d641dc9e411e35c88d856b"> <enum>(1)</enum> <header>1940 Act Company</header> <text>The term <term>1940 Act Company</term> means an investment company subject to registration under the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-1">15 U.S.C. 80a–1 et seq.</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id6a52b827a38946df95b700281ef6bc42">
+                <enum>(2)</enum>
+                <header>1980 Act Company</header>
+ <text>The term <term>1980 Act Company</term> means an investment company subject to registration under the Small Business Investment Incentive Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-51">15 U.S.C. 80a–51 et seq.</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id25974213a0d8450eb069fa1ad5dbdf1f">
+                <enum>(3)</enum>
+                <header>Articles</header>
+ <text>The term <term>articles</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id8a0d79544b864474b02779c78a6f1300"> <enum>(A)</enum> <text display-inline="yes-display-inline">articles of incorporation for an incorporated body; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id11f8639b4cc5469c8f2a2cba855878e2">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the functional equivalent or other similar documents specified by the Secretary for other business entities.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id22b1984b6718441298cfbbe57b91fd2d">
+                <enum>(4)</enum>
+                <header>Capital interest</header>
+ <text>The term <term>capital interest</term> means an interest in a subsidiary LLC determined at the time of receipt that gives the holder of the interest a share of the proceeds in a complete liquidation of the subsidiary LLC if the assets of the subsidiary LLC are sold at fair market value.</text>
+            </paragraph>
+            <paragraph id="idc46dfdef88ca458d883520145f090dc5">
+                <enum>(5)</enum>
+                <header>Covered business concern</header>
+ <text>The term <term>covered business concern</term> means an enterprise, regardless of any size standard, that is independently owned and operated, except that an investment by a venture capital firm, investment company, employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation shall not cause a business concern to be deemed not independently owned and operated regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment.</text>
+            </paragraph>
+            <paragraph id="id99bea0fa05a94185b259f7418326d975">
+                <enum>(6)</enum>
+                <header>Covered investment</header>
+ <text>The term <term>covered investment</term> means, with respect to an investment in a covered business concern—</text>
+                <subparagraph id="id26c5546f7cc64bb180025062f211da67">
+                    <enum>(A)</enum>
+ <text>the provision of capital to finance the sale of an ownership interest of a covered business concern, including a covered business concern created as a result of a corporate divestiture, to an employee stock ownership plan or eligible worker-owned cooperative if such sale results in—</text>
+                    <clause id="id1beedc011ef743989dd17f7c47e4d646">
+                        <enum>(i)</enum>
+ <text>the employee stock ownership plan or eligible worker-owned cooperative, respectively, holding a majority interest of the outstanding stock of the covered business concern; and</text>
+                    </clause>
+                    <clause id="id2dcbfb407b4a4afe8d8137b8bc1deee6">
+                        <enum>(ii)</enum>
+ <text>with respect to such a sale to an employee stock ownership plan, the appointment of an independent trustee for the transaction; or</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id3195b08873fd403f95c45db3d72bc6f4">
+                    <enum>(B)</enum>
+ <text>the provision of capital to finance a covered business concern if—</text> <clause id="id884f18d98b454229b92aab5042d38a23"> <enum>(i)</enum> <text>an employee stock ownership plan or eligible worker-owned cooperative holds a majority interest of the outstanding stock of the covered business concern, prior to and immediately following the provision of capital; and</text>
+                    </clause>
+                    <clause id="idbeed471d446f49008814d1585909f87e" commented="no" display-inline="no-display-inline">
+                        <enum>(ii)</enum>
+ <text>the provision of capital does not reduce the percentage of stock of the covered business concern held by the employee stock ownership plan or eligible worker-owned cooperative (as applicable), excluding any synthetic equity.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="ide135481834d64ea69487849911fd9139">
+                <enum>(7)</enum>
+                <header>Department</header>
+ <text>The term <term>Department</term> means the Department of Commerce.</text> </paragraph> <paragraph id="idbdfea3041d6f4532a2d11d85cb5dfb60"> <enum>(8)</enum> <header>Eligible worker-owned cooperative</header> <text>The term <term>eligible worker-owned cooperative</term> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/26/1042">section 1042(c)</external-xref> of the Internal Revenue Code of 1986.</text>
+            </paragraph>
+            <paragraph id="id1c605356930a44e2a0d35aae4463770f" commented="no" display-inline="no-display-inline">
+                <enum>(9)</enum>
+                <header>Employee stock ownership plan</header>
+ <text>The term <term>employee stock ownership plan</term> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/26/4975">section 4975(e)</external-xref> of the Internal Revenue Code of 1986.</text>
+            </paragraph>
+            <paragraph id="id9b6eee1f297c46c4b701c0683704994b">
+                <enum>(10)</enum>
+                <header>Employee welfare benefit plan; pension plan</header>
+ <text>The terms <term>employee welfare benefit plan</term> and <term>pension plan</term>—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5dbca9f7536149a492dc6a4331ba21ab">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">have the meanings given those terms in section 3 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1002">29 U.S.C. 1002</external-xref>); and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id58e7a418669a494a8b54f6a402731d72">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">include—</text> <clause id="id2e2048e317d74faa9c8c22bcaaf2c1b9"> <enum>(i)</enum> <text>public and private pension or retirement plans subject to such Act; and</text>
+                    </clause>
+                    <clause id="id81f651d6933a47af893a7431a082c727" commented="no" display-inline="no-display-inline">
+                        <enum>(ii)</enum>
+ <text>similar plans not covered by such Act that have been established and that are maintained by the Federal Government or any State or political subdivision, or any agency or instrumentality thereof, for the benefit of employees.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idc138c665e2404f7f92557c3519a0710b">
+                <enum>(11)</enum>
+                <header>Independent financial advisor</header>
+ <text>The term <term>independent financial advisor</term> means a financial or valuation advisor that—</text>
+                <subparagraph id="id8dce162153da461680af5f8a6907856a">
+                    <enum>(A)</enum>
+ <text>is in the profession of serving as a financial or valuation advisor for transactions involving employee stock ownership plans;</text>
+                </subparagraph>
+                <subparagraph id="idfe8bcbf34d28487997e0da2f96a5eefd">
+                    <enum>(B)</enum>
+ <text>has never—</text> <clause id="idf1374daa29c14bf3ad68b7ad95c7ab81"> <enum>(i)</enum> <text>performed services, including a preliminary valuation, for or on behalf of—</text>
+                        <subclause id="idf5e880e7c601454da067bd1ea21a7e50">
+                            <enum>(I)</enum>
+ <text>any party selling an ownership interest in the covered business concern to the employee stock ownership plan involved in the transaction that the advisor is evaluating; or</text>
+                        </subclause>
+                        <subclause id="id92ff2eae1c0a44d785e1f9d038362dac">
+                            <enum>(II)</enum>
+ <text>the covered business concern, unless the services were provided solely to an existing employee stock ownership plan sponsored by the covered business concern; or</text>
+                        </subclause>
+                    </clause>
+                    <clause id="id3a86ee6b7434434b8a0043d8ab0fbf12">
+                        <enum>(ii)</enum>
+ <text>been a director, officer, or employee of the covered business concern;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="idbc51e5fc466f4eee93080c1629daa545">
+                    <enum>(C)</enum>
+ <text>has not performed services related to the transaction the advisor is evaluating, including a preliminary valuation, for or on behalf of—</text>
+                    <clause id="id68b5dfa3c5164287ac1218d1da580653">
+                        <enum>(i)</enum>
+ <text>the ownership investment company that is preparing to or has already allocated capital to the covered business concern; or</text>
+                    </clause>
+                    <clause id="ida774cc1f860e42c4b7d3a3af8f199c55">
+                        <enum>(ii)</enum>
+ <text>any other entity that is structuring or financing the transaction for any party other than the employee stock ownership plan; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id940dcd4a391f4d16a16c76fda197e133" commented="no" display-inline="no-display-inline">
+                    <enum>(D)</enum>
+ <text>does not have a familial or corporate relationship (such as a parent-subsidiary relationship) to any of person or entity described in subparagraph (B) or (C).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id02b74e1f9820499cb90da57de18755c2">
+                <enum>(12)</enum>
+                <header>Independent trustee</header>
+ <text>The term <term>independent trustee</term> means a trustee that—</text> <subparagraph id="ide71488d8be93470e9a91b1169dd1f757"> <enum>(A)</enum> <text>is in the profession of serving as a fiduciary for employee stock ownership plans;</text>
+                </subparagraph>
+                <subparagraph id="id28c63341949a4a6494cd89298fa783f0">
+                    <enum>(B)</enum>
+ <text>has never—</text> <clause id="id0c44c496db3d4d54b4187f2ab1df178a"> <enum>(i)</enum> <text>performed services for or on behalf of any party selling an ownership interest in the covered business concern to the employee stock ownership plan involved in the transaction that the trustee is considering; or</text>
+                    </clause>
+                    <clause id="id2113bb64a34f45799b7b70108b500911">
+                        <enum>(ii)</enum>
+ <text>been a director, officer, or employee of the covered business concern;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id697576e4038841b683c11bc98ad06695">
+                    <enum>(C)</enum>
+ <text>has not performed services for or on behalf of the covered business concern at any time during the 5-year period ending on the date of execution of the transaction the trustee is considering, unless such services solely consisted of acting as a fiduciary of an employee benefit plan (including an employee stock ownership plan) under the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1001">29 U.S.C. 1001 et seq.</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="id1c153bc3f88c4fe9b5a7591bc2ca0482">
+                    <enum>(D)</enum>
+ <text>has not performed services related to the transaction the trustee is considering, for or on behalf of—</text>
+                    <clause id="id5e3de33ab0884b1f936e44c34f723b1c">
+                        <enum>(i)</enum>
+ <text>the ownership investment company that is preparing to or has already allocated capital to the covered business concern; or</text>
+                    </clause>
+                    <clause id="id4962e12950464e78a748aac842215e4b">
+                        <enum>(ii)</enum>
+ <text>any other entity that is structuring or financing the transaction for any party other than the employee stock ownership plan; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id318adad861c84baaad5d0733a92b24e3">
+                    <enum>(E)</enum>
+ <text>does not have a familial or corporate relationship (such as a parent-subsidiary relationship) to any person or entity described in subparagraph (B), (C), or (D).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id20552185b084438ebff1820b48b0a26c">
+                <enum>(13)</enum>
+                <header>Leverage</header>
+ <text>The term <term>leverage</term> means debentures guaranteed by the Department.</text> </paragraph> <paragraph id="idcc86dc1e9cde4145bfd3777a0186c534"> <enum>(14)</enum> <header>License</header> <text>The term <term>license</term> means a license issued by the Department as provided in section 4(c).</text>
+            </paragraph>
+            <paragraph id="id92805acdb1da43ab8ba46be989ae5e89">
+                <enum>(15)</enum>
+                <header>Licensee</header>
+ <text>The term <term>licensee</term> means a company approved by the Secretary to operate under the provisions of this Act and issued a license provided in section 4(c).</text>
+            </paragraph>
+            <paragraph id="id17b462fa67be4f92b503ffd6a10e75fa">
+                <enum>(16)</enum>
+                <header>Limited liability company</header>
+ <text>The term <term>limited liability company</term> means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Department.</text>
+            </paragraph>
+            <paragraph id="idcad8114e21f148d984f03133c659822e">
+                <enum>(17)</enum>
+                <header>Member</header>
+ <text>The term <term>member</term> means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company.</text>
+            </paragraph>
+            <paragraph id="idf326b8eb6f1f45ceacaff9fe3d7fc77a">
+                <enum>(18)</enum>
+                <header>Non-leveraged licensee</header>
+ <text>The term <term>non-leveraged licensee</term> means a licensee that—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id0c80bd45fb6444e3a198dfd6329dd66f"> <enum>(A)</enum> <text display-inline="yes-display-inline">has no outstanding leverage or leverage commitment; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id7f3c544f90a84f5eaa9acaaf595f4268">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">certifies to the Department in writing that the licensee will not seek leverage in the future.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id7bca5d9055a546b99fc9d6bba9905425">
+                <enum>(19)</enum>
+                <header>Outstanding stock</header>
+ <text>The term <term>outstanding stock</term> means shares of stock, including synthetic equity.</text>
+            </paragraph>
+            <paragraph id="id014d05e3d70a48b6a91795e62b841108">
+                <enum>(20)</enum>
+                <header>Ownership investment company</header>
+ <text>The term <term>ownership investment company</term> means—</text> <subparagraph id="ida6594d1b44f5410c8ee39e01050741df"> <enum>(A)</enum> <text>a company approved by the Secretary to operate under the provisions of this Act and issued a license as provided in section 4(c); and</text>
+                </subparagraph>
+                <subparagraph id="id0a3ab3fe1a974818bf86b98665be46b4">
+                    <enum>(B)</enum>
+ <text>for which—</text> <clause id="id59322d72ab8347879170b0e711f1a75c"> <enum>(i)</enum> <text>100 percent of the total capital managed by the investment firm shall be invested in covered investments;</text>
+                    </clause>
+                    <clause id="ide0c7e746d0934999917be11041679f0f">
+                        <enum>(ii)</enum>
+ <text>not less than 50 percent of the total capital managed by the investment firm shall be invested in covered investments described in paragraph (6)(A); and</text>
+                    </clause>
+                    <clause id="id2909afd936c0438383950db5fbf19d4d" commented="no" display-inline="no-display-inline">
+                        <enum>(iii)</enum>
+ <text>covered investment returns are obtained from debt, synthetic equity, preferred stock, equity, or a combination thereof, including returns obtained from cash interest, payment-in-kind interest, and stock warrants.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id4c380bedafa0444a9767dbd04e9bf638">
+                <enum>(21)</enum>
+                <header>Preferred stock</header>
+ <text>The term <quote>preferred stock</quote> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/26/351">section 351(g)(3)</external-xref> of the Internal Revenue Code of 1986.</text>
+            </paragraph>
+            <paragraph id="id36faa8583dfb4b688a49616597cbc973">
+                <enum>(22)</enum>
+                <header>Private capital</header>
+ <text>The term <term>private capital</term>—</text> <subparagraph id="ida5b1c4a5c07f4ac8a33df04a18136e80"> <enum>(A)</enum> <text>means the sum of—</text>
+                    <clause id="id371eb04be4584c8f8118d03565bf62d1">
+                        <enum>(i)</enum>
+ <text>the paid-in capital and paid-in surplus of a corporate licensee, the contributed capital of the partners of a partnership licensee, or the equity investment of the members of a limited liability company licensee; and</text>
+                    </clause>
+                    <clause id="id8d77c803226c484ea1211b47ced95fb6" commented="no">
+                        <enum>(ii)</enum>
+ <text>unfunded binding commitments, from investors that meet criteria established by the Secretary, to contribute capital to the licensee, provided that such unfunded commitments may be counted as private capital for purposes of approval by the Secretary of any request for leverage, but leverage shall not be funded based on such commitments; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="ida817601a920341578f80251ec8518b7a">
+                    <enum>(B)</enum>
+ <text>does not include any—</text> <clause id="ide061b01b8a4e4470b8021bf2199704ae"> <enum>(i)</enum> <text>funds borrowed by a licensee from any source;</text>
+                    </clause>
+                    <clause id="id8d433980d94d4beb8949c13a7a683242">
+                        <enum>(ii)</enum>
+ <text>funds obtained through the issuance of leverage; or</text> </clause> <clause id="ida47f158f3ddc4ceda5fb5bc872f71d76"> <enum>(iii)</enum> <text>funds obtained directly or indirectly from any Federal, State, or local government, or any government agency or instrumentality, except for—</text>
+                        <subclause id="id9d01098acc3543a2937ebd720be20e5c">
+                            <enum>(I)</enum>
+ <text>funds obtained from the business revenues (excluding any governmental appropriation) of any federally chartered or government-sponsored corporation established before October 1, 1987;</text>
+                        </subclause>
+                        <subclause id="idbcf756972b2745aaacce53936909eb41">
+                            <enum>(II)</enum>
+ <text>funds invested by an employee welfare benefit plan or pension plan; and</text>
+                        </subclause>
+                        <subclause id="idd046e78564884a15a50c4c0b03611a92">
+                            <enum>(III)</enum>
+ <text>any qualified nonprivate funds (if the investors of the qualified nonprivate funds do not control, directly or indirectly, the management, board of directors, general partners, or members of the licensee).</text>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idcf2542cc7b694d8890212e02cc93087d">
+                <enum>(23)</enum>
+                <header>Profits interest</header>
+ <text>The term <term>profits interests</term> means an interest in a subsidiary LLC other than a capital interest.</text>
+            </paragraph>
+            <paragraph id="id63ac3b6402ec4850841c8882f96b05ce">
+                <enum>(24)</enum>
+                <header>Protégé OIC</header>
+ <text>The term <quote>Protégé OIC</quote> means an entity licensed under section 4(c) as an ownership investment company and selected in accordance with section 6—</text>
+                <subparagraph id="id6da2bea40b2842bbad4c409eb99dd372">
+                    <enum>(A)</enum>
+ <text>for which the managers of the firm have a documented record of successful business experience; and</text>
+                </subparagraph>
+                <subparagraph id="id382bab3fc5674563918259f21e1f6ced">
+                    <enum>(B)</enum>
+ <text>that has an investment track record that does not meet the requirements under section 4(c)(3)(B)(i).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id1032948dc4af41d4a718dbc7bd883776">
+                <enum>(25)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Commerce.</text> </paragraph> <paragraph id="id10483bafd46344b58de472bb38ec7d76"> <enum>(26)</enum> <header>State</header> <text>The term <term>State</term> includes the several States, the territories and possessions of the United States, the Commonwealth of Puerto Rico, and the District of Columbia.</text>
+            </paragraph>
+            <paragraph id="id6ad9954f6c7848c78e17da38e65f7274" commented="no">
+                <enum>(27)</enum>
+                <header>Subsidiary LLC</header>
+ <text>The term <term>subsidiary LLC</term> means a limited liability company owned by a corporation through equity ownership of the subsidiary with a common parent corporation, as described in <external-xref legal-doc="usc" parsable-cite="usc/26/1563">section 1563</external-xref> of the Internal Revenue Code of 1986, in which—</text>
+                <subparagraph id="idfe5ec593b71a4ce7b89bcb8f8da78464" commented="no">
+                    <enum>(A)</enum>
+ <text>the equity of the subsidiary LLC owned by the corporation possesses not less than 80 percent of the total combined voting power of all classes of equity of the subsidiary LLC entitled to vote; and</text>
+                </subparagraph>
+                <subparagraph id="ida4cf799d491c469cb407278553d7aa79" commented="no">
+                    <enum>(B)</enum>
+ <text>the equity value of the subsidiary LLC owned by the corporation that represents—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="idc8ee6f7955c6496f96e05f254f30b0ae">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">not less than 51 percent of the total value of all classes of equity of the subsidiary LLC; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id383a109c3a6e4f18b7f2b248db63923a">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">not less than 51 percent equity ownership of the subsidiary LLC.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idc435fa743b3741308d32fc23f31679eb">
+                <enum>(28)</enum>
+                <header>Synthetic equity</header>
+ <text>The term <term>synthetic equity</term> includes—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idad37dfd95e564fa6870459089f0c3566"> <enum>(A)</enum> <text display-inline="yes-display-inline">synthetic equity, as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(p)(6)</external-xref> of the Internal Revenue Code of 1986;</text>
+                </subparagraph>
+                <subparagraph id="ide209111393ef42d093b6f25583012eff">
+                    <enum>(B)</enum>
+ <text>a profits interest of a subsidiary LLC granted to, purchased by, or otherwise obtained directly or indirectly by employees and directors of the subsidiary LLC; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idc0a35c7e0154442a993b85abd2ef84e9">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">nonqualified deferred compensation plans and arrangements subject to <external-xref legal-doc="usc" parsable-cite="usc/26/409A">section 409A</external-xref> of the Internal Revenue Code of 1986.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id5c43af73f9214c1697c494d9fca13d1c">
+                <enum>(29)</enum>
+                <header>Third party debt</header>
+ <text>The term <term>third party debt</term> means any indebtedness for borrowed money, other than indebtedness owed to the Department.</text>
+            </paragraph>
+        </section>
+        <section id="id23d1947bc21f4375a59378fa8a0ba40c">
+            <enum>3.</enum>
+            <header>Ownership investment facility</header>
+            <subsection id="id9cdadf58ce7f4fc6baa397676d1c8a76">
+                <enum>(a)</enum>
+                <header>Definition of facility</header>
+ <text>In this section, the term <term>facility</term> means the facility established under subsection (b).</text>
+            </subsection>
+            <subsection id="id202c43e27b1742f795a24c4d01e28cfd">
+                <enum>(b)</enum>
+                <header>Establishment</header>
+ <text>The Secretary shall establish and carry out a facility to provide leverage to licensed ownership investment companies for the purpose of encouraging covered investments.</text>
+            </subsection>
+            <subsection id="id4f352fa783a3451eaeb9be4211061a0c">
+                <enum>(c)</enum>
+                <header>Combined leverage</header>
+ <text display-inline="yes-display-inline">The Secretary may not provide leverage to ownership investment companies under the facility in a total amount that is greater than $5,000,000,000 for a fiscal year. Not more than 20 percent of such total amount may be provided to Protégé OIC companies for a fiscal year.</text>
+            </subsection>
+            <subsection id="id2f1016ba5fbb4534a0fb72e59ed149be">
+                <enum>(d)</enum>
+                <header>Transaction requirements</header>
+                <paragraph id="ide11bc5b689884b008be5a973d42ab261">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>With respect to a covered investment described in section 2(6)(A) involving a sale to an employee stock ownership plan, an independent trustee for the employee stock ownership plan shall be appointed by the covered business concern before the execution of the covered investment for a period of time that is sufficient for the independent trustee to fully evaluate the proposed transaction.</text>
+                </paragraph>
+                <paragraph id="iddf186490e6ba41efb0e15c678281a1ce">
+                    <enum>(2)</enum>
+                    <header>Fairness opinion</header>
+ <text>With respect to the scope of appointment under paragraph (1), an independent trustee appointed under paragraph (1) shall obtain a fairness opinion on the proposed covered investment from an independent financial advisor, which shall evaluate whether the price, terms, and cost of financing of the proposed covered investment are financially fair to the employee stock ownership plan.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id192f2931cb9e4b93a1777eda825430d4">
+                <enum>(e)</enum>
+                <header>Prohibitions</header>
+                <paragraph id="id34e34c5807174a1593a1b5ef52d43676">
+                    <enum>(1)</enum>
+                    <header>Financing</header>
+                    <subparagraph id="idbc31d4b90d1b40a78dc18b053a2bfdb0">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>An employee of a covered business concern may not provide personal financing of any kind for a covered investment, including through a wage concession or rollover of a retirement plan.</text>
+                    </subparagraph>
+                    <subparagraph id="id86dbb3ea9cd449078f36dd80bc609177">
+                        <enum>(B)</enum>
+                        <header>Exceptions</header>
+ <text>Subparagraph (A) shall not apply to—</text> <clause id="id79d3613a17a74927a063cacb624aa0fa"> <enum>(i)</enum> <text>financing provided by an employee for the sale of an ownership interest held by the employee in a covered business concern; or</text>
+                        </clause>
+                        <clause id="ida07bd21c021441b58b6c9d31c0c71d84">
+                            <enum>(ii)</enum>
+ <text>employee capital contributions or membership fees paid by members of an eligible worker-owned cooperative, if such amounts are reasonable and customary and not used for the purchase of the covered business concern.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id930af7b875104615b07ed748916d7c01">
+                    <enum>(2)</enum>
+                    <header>Control</header>
+ <text>An ownership investment company shall not exercise control over a covered business concern in which the ownership investment company has made a covered investment.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id761023cf9ba04f9da9dc8177b529d5b3">
+                <enum>(f)</enum>
+                <header>Employee allocations</header>
+ <text display-inline="yes-display-inline">With respect to a covered investment described in section 2(6)(A) made by an ownership investment company that involves an employee stock ownership plan, the employee stock ownership plan shall include a requirement that in the event of a sale to a third party of the covered business concern in which the covered investment is made, the proceeds that the employee stock ownership plan receives from the sale shall be distributed as though all shares of stock held by the employee stock ownership plan prior to the sale were fully allocated based on each participant's compensation, as defined under <external-xref legal-doc="usc" parsable-cite="usc/26/415">section 415(c)(3)</external-xref> of the Internal Revenue Code of 1986.</text>
+            </subsection>
+            <subsection id="idba0130ec01a14fa8b1725489c39500b9">
+                <enum>(g)</enum>
+                <header>Recirculation of shares</header>
+                <paragraph id="id5005ca3af7d24a7bac4318ae4a540b37">
+                    <enum>(1)</enum>
+                    <header>Share count</header>
+ <text>With respect to a covered investment described in section 2(6)(A) made by an ownership investment company that involves an employee stock ownership plan, the number of shares held by the employee stock ownership plan on the final date of each plan year shall not be less than the number of shares held by the employee stock ownership plan on the execution date of the covered investment.</text>
+                </paragraph>
+                <paragraph id="id9933f6e7fed2475795231e5928f002cc">
+                    <enum>(2)</enum>
+                    <header>Limitation</header>
+ <text>The requirements under paragraph (1) shall apply only with respect to the period during which the ownership investment company has an interest in the covered business concern.</text>
+                </paragraph>
+                <paragraph id="idb4a8e4b87ffc46c19e2b97717e1b4c33">
+                    <enum>(3)</enum>
+                    <header>Exception</header>
+ <text>The requirement under paragraph (1) may be waived by the independent trustee for the applicable employee stock ownership plan.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id9ff2cc6cf0af49a1bb077781963f02bc">
+                <enum>(h)</enum>
+                <header>Independent trustees</header>
+ <text display-inline="yes-display-inline">With respect to a covered investment described in section 2(6)(A) made by an ownership investment company that involves an employee stock ownership plan, the employee stock ownership plan shall have an independent trustee during the period that the ownership investment company has an interest in the covered business concern.</text>
+            </subsection>
+            <subsection id="id4016ee7eb7684347a3561b09ce7778d6">
+                <enum>(i)</enum>
+                <header>Subsidiary LLCs</header>
+ <text>With respect to any covered investment made by an ownership investment company that involves an employee stock ownership plan, a subsidiary LLC may be permitted to be established, provided that the following requirements are met:</text>
+                <paragraph id="id0c6242c872344f08b681000f1dc4d88d">
+                    <enum>(1)</enum>
+                    <header>ESOP majority interest</header>
+ <text>The employee stock ownership plan exercises a majority interest in the subsidiary LLC as a result of the sale or provision of capital.</text>
+                </paragraph>
+                <paragraph id="id5626d963f5f048e8b5c2ba042957c8a1">
+                    <enum>(2)</enum>
+                    <header>S corporation board governance</header>
+ <text>The board governance of the subsidiary LLC resides exclusively at the level of the S corporation by which the subsidiary LLC is owned.</text>
+                </paragraph>
+                <paragraph id="id9872e386b17f4b8ba2a1e2681d9e4480">
+                    <enum>(3)</enum>
+                    <header>Profits interest</header>
+ <text>The profits interest or any type of similar arrangements, including phantom stock and any deferred bonus plan related to equity in the subsidiary LLC, complies with <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(p)</external-xref> of the Internal Revenue Code of 1986.</text>
+                </paragraph>
+                <paragraph id="id144eb5e31f694625a3b044af84929197">
+                    <enum>(4)</enum>
+                    <header>Event protection</header>
+ <text>The requirements of subsection (f) apply at the level of the subsidiary LLC.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idb90d82d151334d49a246df82ac2ad70c">
+                <enum>(j)</enum>
+                <header>Procedures related to a sale of a covered business concern</header>
+                <paragraph id="ide2aa7c5d2f814f6fbee99f8eddd41288">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Subject to paragraph (2), an ownership investment company shall require as a condition of making a covered investment described in section 2(6)(A) involving an employee stock ownership plan that—</text>
+                    <subparagraph id="id5c4cfe936f7046828a1d00553fc0636f">
+                        <enum>(A)</enum>
+ <text>before any stock sale or the execution of any corporate matter listed in <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(e)(3)</external-xref> of the Internal Revenue Code of 1986, the employee stock ownership plan shall—</text>
+                        <clause id="idf084189916614c32aa9b871ac5c19ada">
+                            <enum>(i)</enum>
+ <text>appoint an independent trustee for the transaction; and</text> </clause> <clause id="id7236e04f14ed4b039d3f3b14f1f0b48c"> <enum>(ii)</enum> <text>require that the independent trustee obtain a fairness opinion from an independent financial advisor, which shall evaluate whether the price, terms, and cost of financing of the proposed covered investment are financially fair to the employee stock ownership plan; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id7f61e018954741a9bf6f7eb92b31443b">
+                        <enum>(B)</enum>
+ <text>the employee stock ownership plan requires that—</text> <clause id="id2607232c3784405b922445ba24be45a6"> <enum>(i)</enum> <text>in addition to the corporate matters listed in <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(e)(3)</external-xref> of the Internal Revenue Code of 1986, each participant or beneficiary in the employee stock ownership plan is entitled to direct the employee stock ownership plan as to the manner in which voting rights under securities of the employer which are allocated to the account of such participant or beneficiary are to be exercised with respect to the approval or disapproval of any stock sale;</text>
+                        </clause>
+                        <clause id="id22be711cf77f42f1aec531e76a5ea70e">
+                            <enum>(ii)</enum>
+ <text>the requirements of <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(e)(3)</external-xref> of the Internal Revenue Code of 1986 and clause (i) of this subparagraph shall be met using the procedures described in <external-xref legal-doc="usc" parsable-cite="usc/26/409">section 409(e)(5)</external-xref> of the Internal Revenue Code of 1986;</text>
+                        </clause>
+                        <clause id="ide42520fec79c4a398352c697992e580e">
+                            <enum>(iii)</enum>
+ <text>unless the parties agree otherwise, with respect to unallocated shares, the independent trustee shall be directed to vote or tender such unallocated shares in the same proportion as allocated shares for which the independent trustee has received voting or tender instructions from participants in the employee stock ownership plan; and</text>
+                        </clause>
+                        <clause id="id4e7bc50556e04d3391e0afe9a2e033de">
+                            <enum>(iv)</enum>
+ <text>with respect to allocated shares that the independent trustee does not receive voting or tender instructions from participants in the employee stock ownership plan, the independent trustee shall have voting discretion over such shares.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idbf4f4ef6590542778ac2f0c3af888b6f">
+                    <enum>(2)</enum>
+                    <header>Voting discretion</header>
+ <text>Nothing in paragraph (1)(B) shall limit the ability of an independent trustee to exercise voting discretion in accordance with the fiduciary obligations of the independent trustee under the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1001">29 U.S.C. 1001 et seq.</external-xref>).</text>
+                </paragraph>
+                <paragraph id="id5a5de9b2cf7345f4ab71e3993a7ff6f3">
+                    <enum>(3)</enum>
+                    <header>Limitation</header>
+ <text>The requirements under paragraph (1) shall apply only with respect to the period during which the ownership investment company has an interest in the covered business concern.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ida3dd8fb643c842b4893890626eb84df6">
+                <enum>(k)</enum>
+                <header>Reports</header>
+ <text>Each ownership investment company (including Protégé OICs) shall submit to the Secretary an annual report, which shall include, for the year covered by the report, the following information, disaggregated by type of covered investment as described in subparagraph (A) or (B) of section 2(6), as applicable:</text>
+                <paragraph id="id80bea621e1254f828b4aba5e80ccd238">
+                    <enum>(1)</enum>
+ <text>Whether the covered investment was made with respect to an employee stock ownership plan or eligible worker-owned cooperative.</text>
+                </paragraph>
+                <paragraph id="ide3bef1d1acb44bcd9922469e6cc8401c">
+                    <enum>(2)</enum>
+ <text>For an employee stock ownership plan—</text> <subparagraph id="id6bbca57dab4c4d8aa23af8dba00dee6e"> <enum>(A)</enum> <text>the effective date of the employee stock ownership plan;</text>
+                    </subparagraph>
+                    <subparagraph id="idf53a2ea6781b418ab940eec44d0f037a">
+                        <enum>(B)</enum>
+ <text>the number of active employee stock ownership plan participants;</text>
+                    </subparagraph>
+                    <subparagraph id="ideb5886cd2833470895327e0f9378255f">
+                        <enum>(C)</enum>
+ <text>the number of employees of the covered business concern for which the employee stock ownership plan is established;</text>
+                    </subparagraph>
+                    <subparagraph id="id3990e0b990d34d95b852090df915af28">
+                        <enum>(D)</enum>
+ <text>the total value of employer securities, as determined by an independent appraiser hired by the independent trustee of the employee stock ownership plan;</text>
+                    </subparagraph>
+                    <subparagraph id="id8544defd93234f1499e88dab4a01f653">
+                        <enum>(E)</enum>
+ <text>the total employee stock ownership plan assets;</text> </subparagraph> <subparagraph id="id1a98cc88eb3849c186b834aa98ac8097"> <enum>(F)</enum> <text>the total contributions during the employee stock ownership plan year;</text>
+                    </subparagraph>
+                    <subparagraph id="idc32f853a8046425484c5f6d610cf5a49">
+                        <enum>(G)</enum>
+ <text>the total distributions during the employee stock ownership plan year;</text>
+                    </subparagraph>
+                    <subparagraph id="ide8b32ea6b121469c814a687529cae374">
+                        <enum>(H)</enum>
+ <text>the median account asset balance; and</text> </subparagraph> <subparagraph id="id29fa1df143ca47b9a276eb10a38664dc"> <enum>(I)</enum> <text>demographic information of employee stock ownership plan participants, disaggregated by race, gender, and State, to the extent available.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id09de5c1e41b544b9b7bdb5d74a80d7d6">
+                    <enum>(3)</enum>
+ <text>For an eligible worker-owned cooperative—</text> <subparagraph id="id896eebe2bd044855b2b18508d7a717ed"> <enum>(A)</enum> <text>the number of member-owners;</text>
+                    </subparagraph>
+                    <subparagraph id="idb473e75863424529aa9039e259a18f57">
+                        <enum>(B)</enum>
+ <text>the number of employees of the covered business concern for which the eligible worker-owned cooperative is established;</text>
+                    </subparagraph>
+                    <subparagraph id="idc782707d12d6441687bf31a5df83d59d">
+                        <enum>(C)</enum>
+ <text>the total value of employer securities;</text> </subparagraph> <subparagraph id="id9fa62e3245e84b9bbacc529f54dc9e81"> <enum>(D)</enum> <text>the aggregate assets of all membership accounts of the eligible worker-owned cooperative;</text>
+                    </subparagraph>
+                    <subparagraph id="id7cf3a3bcbda94c05b2b89626a6137cd4">
+                        <enum>(E)</enum>
+ <text>the median membership account balance; and</text> </subparagraph> <subparagraph id="idfbbd53b18bb0460396c14f90ba1b1983"> <enum>(F)</enum> <text>demographic information of membership base, disaggregated by race, gender, and State, to the extent available.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id261ac9d68dca46519b2dc178f3988484">
+                <enum>(l)</enum>
+                <header>Implementation milestones</header>
+                <paragraph id="ida4dea7016618436788873c612feb08ad">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than 540 days after the date of enactment of this Act, the Secretary shall begin accepting applications to be licensed to participate in the facility as an ownership investment company.</text>
+                </paragraph>
+                <paragraph id="id3325980902c44f83abf3cf16283e066b">
+                    <enum>(2)</enum>
+                    <header>License timeline</header>
+ <text>Not later than 2 years after the date of enactment of this Act, the Secretary shall approve the first tranche of licenses to participate in the facility as an ownership investment company with respect to applicants that satisfy the applicable eligibility criteria.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id53da4f326bdd4aea91afae0c2657bf40">
+                <enum>(m)</enum>
+                <header>Sunset</header>
+                <paragraph id="ida61970a39ea2422eb1f665d4842e0f18">
+                    <enum>(1)</enum>
+                    <header>Definition</header>
+ <text>In this subsection, the term <term>sunset date</term> means the first day of the 20th calendar year that begins after the date on which the Secretary approves the first license to participate in the facility as an ownership investment company (including as a Protégé OIC).</text>
+                </paragraph>
+                <paragraph id="idf29bdc534fe24081a061ea9683b6cbf3">
+                    <enum>(2)</enum>
+                    <header>Termination of authority</header>
+ <text>On and after the sunset date, the Secretary may not license an entity to participate in the facility as an ownership investment company (including as a Protégé OIC).</text>
+                </paragraph>
+                <paragraph id="id9fa33670a1f84d6cb901ea38729c9157">
+                    <enum>(3)</enum>
+                    <header>Continued participation by existing entities</header>
+ <text>Nothing in paragraph (2) shall be construed to prohibit an ownership investment company (including a Protégé OIC) from continuing to draw leverage on and after the sunset date that was committed to the entity through the facility before the sunset date.</text>
+                </paragraph>
+                <paragraph id="ide0cafe1320d447de8c75bfa8d9c3ccb0">
+                    <enum>(4)</enum>
+                    <header>Application</header>
+ <text>The Secretary shall not consider paragraph (2) as a factor in the decision to license an entity to participate in the facility as an ownership investment company (including as a Protégé OIC) before the sunset date.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idf8c25cde25d846938482d33eda05b832">
+            <enum>4.</enum>
+            <header>Organization of ownership investment companies</header>
+            <subsection id="id5f655f148669438ab3b7b75b32fafd03">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idbd188d29466e426eaa0744d53d3b88e0">
+                    <enum>(1)</enum>
+                    <header>Requirement</header>
+ <text display-inline="yes-display-inline">An ownership investment company shall be an incorporated body, a limited liability company, or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities contemplated under this Act, which—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id61b21488f9d248a290b879aa5d312acd">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">if incorporated, has succession for a period of not fewer than 30 years unless sooner dissolved by its shareholders; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide4c671cc93ee48c087491a6fad4f6eab">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">if a limited partnership, has succession for a period of not fewer than 10 years, and possesses the powers reasonably necessary to perform such functions and conduct such activities.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0e7b7adfb0ca4e5a9b552b35f7890150">
+                    <enum>(2)</enum>
+                    <header>Area of operation</header>
+ <text display-inline="yes-display-inline">The area in which an ownership investment company described in paragraph (1) is to conduct its operations, and the establishment of branch offices or agencies (if authorized by the articles), shall be subject to the approval of the Department.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idd275517ab8e445d4a579fd374bccb657">
+                <enum>(b)</enum>
+                <header>Articles</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida336e7ff6180468ca1eed718d188a886">
+                    <enum>(1)</enum>
+                    <header>Requirements</header>
+ <text display-inline="yes-display-inline">The articles of any ownership investment company shall specify—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id95fc012adae74e4b99cf2b577bed2fc6">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the objects for which the company is formed in general terms;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf91f86e779de4413bed679cb3a2a4562">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the name assumed by the ownership investment company;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide626d84f34d7476482a9056c83a8c5f8">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the area or areas in which the operations of the ownership investment company are to be carried on;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc027a6e175bd4a99acffde6dd73174cf">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the place where the principal office of the ownership investment company is to be located; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1151d8e4497645c2ae6ae5bb1da75d19">
+                        <enum>(E)</enum>
+ <text display-inline="yes-display-inline">the amount and classes of the shares of capital stock of the ownership investment company.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6a72bcfac0b246338cef3586ffcacafe">
+                    <enum>(2)</enum>
+                    <header>Inclusions</header>
+ <text display-inline="yes-display-inline">Articles of an ownership investment company may contain any other provisions not inconsistent with this Act that the ownership investment company may see fit to adopt for the regulation of the business of the ownership investment company and the conduct of the affairs of the ownership investment company.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8e17f019b76e403990cc399fdd3662fa">
+                    <enum>(3)</enum>
+                    <header>Approval</header>
+ <text display-inline="yes-display-inline">Articles of an ownership investment company and any amendments thereto adopted from time to time shall be subject to the approval of the Secretary.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id83da2b1f99ea4739b25bf61610731d9a">
+                <enum>(c)</enum>
+                <header>Issuance of license</header>
+                <paragraph id="id0dc419a11ab04dbd8bdda73e08429200">
+                    <enum>(1)</enum>
+                    <header>Submission of application</header>
+                    <subparagraph id="ida72a5d72ddb54592a7f8f2c34a6fd98d">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Each applicant to operate as an ownership investment company (including a Protégé OIC) under this Act shall submit to the Secretary an application, in a form and including such documentation as may be prescribed by the Secretary.</text>
+                    </subparagraph>
+                    <subparagraph id="id1c1f6b5ceb0744ec8e4985defd0eac2c">
+                        <enum>(B)</enum>
+                        <header>Rolling basis</header>
+ <text>The Secretary shall accept applications under subparagraph (A) on a rolling basis.</text>
+                    </subparagraph>
+                    <subparagraph id="id198acf8d89f74a3295eb64e8d737d9a8">
+                        <enum>(C)</enum>
+                        <header>Electronic submissions</header>
+ <text>The Secretary shall allow an applicant under this subsection to electronically submit any document required by this subsection and to provide an electronic signature for any signature that is required on such a document.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb7f98b770c6f4b2a9b612879b1693491">
+                    <enum>(2)</enum>
+                    <header>Procedures</header>
+                    <subparagraph id="id853c0417a0f64a4585ca7efe12c3e06f">
+                        <enum>(A)</enum>
+                        <header>Status</header>
+ <text>Not later than 90 days after the initial receipt by the Secretary of an application under this subsection, the Secretary shall provide the applicant with a written report detailing the status of the application and any requirements remaining for completion of the application.</text>
+                    </subparagraph>
+                    <subparagraph id="id1e8c3b31e7f843b0b0b04a23ac03fbcd">
+                        <enum>(B)</enum>
+                        <header>Approval or disapproval</header>
+ <text>Within 90 days after receiving a completed application submitted in accordance with this subsection and in accordance with such requirements as the Secretary may prescribe by regulation, the Secretary shall—</text>
+                        <clause id="id1aeb771d75fc44ffb4d2b50fb40acc3d">
+                            <enum>(i)</enum>
+ <text>approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or</text>
+                        </clause>
+                        <clause id="idde7e4aea94c040b481d770e705e352b2">
+                            <enum>(ii)</enum>
+ <text>disapprove the application and notify the applicant in writing of the disapproval.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id376db7e2690240a99209aee8a8c67317">
+                    <enum>(3)</enum>
+                    <header>Matters considered</header>
+                    <subparagraph id="id9312a8233dbb40c7b2be6d391d0137d5">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>In reviewing and processing any application under this subsection, the Secretary—</text>
+                        <clause id="id422494043ff744aa983943c6d361a1a0">
+                            <enum>(i)</enum>
+ <text>shall determine whether—</text> <subclause id="ide12bccc40e574038b6c0a12f0a0473fb"> <enum>(I)</enum> <text>the applicant meets the requirements of subsections (a) and (b) of section 6; and</text>
+                            </subclause>
+                            <subclause id="idb40a19b98ac14782bad2a1ad05b882be">
+                                <enum>(II)</enum>
+ <text>the management of the applicant is qualified and has the knowledge, experience, and capability necessary to comply with this Act;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id475fafb224394b30b90fd23302d49e75">
+                            <enum>(ii)</enum>
+ <text>shall take into consideration—</text> <subclause id="id2ce88c13a5af4649ab8be79d8a0ba868"> <enum>(I)</enum> <text>the need for and availability of financing for a covered business concerns in the geographic area in which the applicant is to commence business;</text>
+                            </subclause>
+                            <subclause id="id1cea917c55f34d46964dffeb2398c94c">
+                                <enum>(II)</enum>
+ <text>the general business reputation of the owners and management of the applicant; and</text>
+                            </subclause>
+                            <subclause id="idbb117d16dfed4df0af48fd6cb9dd03c9">
+                                <enum>(III)</enum>
+ <text>the probability of successful operations of the applicant, including adequate profitability and financial soundness; and</text>
+                            </subclause>
+                        </clause>
+                        <clause id="idc30d858a21164953841e115466b0fc6d">
+                            <enum>(iii)</enum>
+ <text>shall not take into consideration any projected shortage or unavailability of leverage.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id35ad6da08ea6466698bd47173c15a9ec">
+                        <enum>(B)</enum>
+                        <header>Additional matters considered for ownership investment
+                            companies</header>
+                        <clause id="id1808d1f701604f03a217f4cbe895dca9">
+                            <enum>(i)</enum>
+                            <header>Investment track record</header>
+ <text>Except as provided in clause (ii), an applicant for a license to operate as an ownership investment company shall submit to the Secretary proof that the managers of the applicant have a track record of managing investments, including structured investments, realized or unrealized, in an employee stock ownership plan or eligible worker-owned cooperative.</text>
+                        </clause>
+                        <clause id="ide9a2228065474a13a4f9007d8044b84b">
+                            <enum>(ii)</enum>
+                            <header>Advisory requirement</header>
+ <text>An applicant that does not have an investment track record described in clause (i) or that is a Protégé OIC shall submit to the Secretary evidence that the applicant has retained or will retain a legal, accounting, or financial advisory firm with not fewer than 5 years of experience in structuring employee stock ownership plans or eligible worker-owned cooperatives.</text>
+                        </clause>
+                        <clause id="id771801b50cfb4fbab456358044c6a881">
+                            <enum>(iii)</enum>
+                            <header>Limitation</header>
+ <text>The Secretary may not reject an applicant for a license to operate as an ownership investment company solely because the applicant lacks a sufficient track record in realized investments if the applicant demonstrates an otherwise successful investment track record that includes unrealized covered investments.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="ida8e68e969f634d80a61ab32dbd2addda">
+                        <enum>(C)</enum>
+                        <header>Provisional approval</header>
+                        <clause id="idfb91ed40f7b644e6b26bd37d1284a22b">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>The Secretary may provide provisional approval for a license to participate in the facility as an ownership investment company (including a Protégé OIC) for a period not to exceed 1 year to an investment firm submitting an application under this subsection or—</text>
+                            <subclause id="id286399f0b92545e9a5a18198542c1b14">
+                                <enum>(I)</enum>
+ <text>that does not meet the minimum private capital requirements under section 6(a) necessary for licensing under this subsection at the time of application;</text>
+                            </subclause>
+                            <subclause id="id903871c8c60b49929a976939ee879eff">
+                                <enum>(II)</enum>
+ <text>that states an intent to more effectively raise capital commitments in private markets with a license; and</text>
+                            </subclause>
+                            <subclause id="id28614e538bc14f2a909a84108e047dc4">
+                                <enum>(III)</enum>
+ <text>that states an intent to more precisely request the desired amount of leverage contingent on securing capital from private market investors.</text>
+                            </subclause>
+                        </clause>
+                        <clause id="idf72039b3cc1745fd952d0b0777fa2993">
+                            <enum>(ii)</enum>
+                            <header>Capital requirements</header>
+ <text>An applicant granted provisional approval under clause (i) shall not be eligible to receive leverage until the applicant satisfies the requirements of section 6(a).</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id6d1bdd6d522845888ebe3fa4a47d36d4">
+                        <enum>(D)</enum>
+                        <header>Fees</header>
+                        <clause id="ided97e0f01b9d4bc6bcdb6c6330d60d73">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>The Secretary may prescribe fees to be paid by each applicant for a license to operate as an ownership investment company (including a Protégé OIC) under this Act.</text>
+                        </clause>
+                        <clause id="id94ea6d7025f148ee9abb88df4dd6cd0a">
+                            <enum>(ii)</enum>
+                            <header>Use of amounts</header>
+ <text>Fees collected under this subparagraph—</text> <subclause id="ida4ebd7b97fc448039a14b392bf1f6d7b"> <enum>(I)</enum> <text>shall be deposited in the account for salaries and expenses of the Department; and</text>
+                            </subclause>
+                            <subclause id="idf009576f46e74c3686c84f8dd28dca1f">
+                                <enum>(II)</enum>
+ <text>are authorized to be appropriated solely to cover the costs of licensing examinations.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idb6a69a3470284164a3487dbefbba8f2c">
+                <enum>(d)</enum>
+                <header>1940 and 1980 Act Companies</header>
+                <paragraph id="id9b0d447dd7bc4488b0df936143fc2483">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd285a9c936bb44fca17aaddb45869511">
+                        <enum>(A)</enum>
+                        <header>Application</header>
+ <text display-inline="yes-display-inline">A 1940 Act Company or 1980 Act Company is eligible to apply for a license under this Act.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id197a3376f29b421eb54e12f1d3496bf8">
+                        <enum>(B)</enum>
+                        <header>Eligibility of licensees</header>
+ <text display-inline="yes-display-inline">A licensee that is not registered as a 1940 Act Company or 1980 Act Company is eligible to apply for approval from the Secretary to convert to a 1940 Act Company or 1980 Act Company.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id835eb80406584366873d265fe1d4cab8">
+                    <enum>(2)</enum>
+                    <header>Regulation</header>
+ <text>A 1940 Act Company or 1980 Act Company that is a licensee may elect to be taxed as a regulated investment company for purposes of <external-xref legal-doc="usc" parsable-cite="usc/26/851">section 851</external-xref> of the Internal Revenue Code of 1986 (<external-xref legal-doc="usc" parsable-cite="usc/26/851">26 U.S.C. 851</external-xref>), provided that the licensee making such election may make distributions only as permitted under the applicable guidance or regulations that the Secretary may prescribe.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idc70dd36d29424842acafaf8e41cdd348">
+            <enum>5.</enum>
+            <header>Protégé OIC Program</header>
+            <subsection id="idb7218977702647f7990a117ee15870dc">
+                <enum>(a)</enum>
+                <header>Establishment</header>
+ <text>The Secretary shall establish a program to be known as the <quote>Protégé OIC Program</quote> under which a manager of an ownership investment company that is not a Protégé OIC may enter into a written agreement approved by the Secretary to provide guidance and assistance to a Protégé OIC with respect to—</text>
+                <paragraph id="id5a08508ede074d44be43a05b8a57349c">
+                    <enum>(1)</enum>
+ <text>applying for a license for the Protégé OIC to operate as an ownership investment company; and</text>
+                </paragraph>
+                <paragraph id="id758aedb05e434a90af3170b44389562b">
+                    <enum>(2)</enum>
+ <text>management of the ownership investment company after licensure.</text> </paragraph> </subsection> <subsection id="idb5ed13b821854deba89be7f527dff5fd"> <enum>(b)</enum> <header>Application</header> <text>After entering into a written agreement described in subsection (a), the Protégé OIC shall apply for a license under section 4(c).</text>
+            </subsection>
+            <subsection id="id3523dd4dd2f9471c8bd3880eeaf17ed8">
+                <enum>(c)</enum>
+                <header>Selection</header>
+ <text>The Secretary may grant a license to a Protégé OIC to operate as an ownership investment company under section 4(c) based on the investment track record of 1 or more of the managers that have entered into a written agreement described in subsection (a) of this section with the applicant Protégé OIC.</text>
+            </subsection>
+            <subsection id="id0688d836a800444e89967cb8a0824a5d">
+                <enum>(d)</enum>
+                <header>Requirements for managers</header>
+ <text>If a manager enters into a written agreement described in subsection (a)—</text>
+                <paragraph id="id57e57b6c16004853ac249176084a591e">
+                    <enum>(1)</enum>
+ <text>the manager may hold a minority financial interest in the ownership investment company that is to be managed by the Protégé OIC;</text>
+                </paragraph>
+                <paragraph id="iddfb27fc605574abd8972f03be4f55ac2">
+                    <enum>(2)</enum>
+ <text>the otherwise applicable maximum amount of outstanding leverage that may be made available to any 1 licensed company of the manager under section 7(b)(6)(B)(i)(I) shall be increased by $17,500,000; and</text>
+                </paragraph>
+                <paragraph id="id5c3738fb105b445886900c505c2d8aac">
+                    <enum>(3)</enum>
+ <text>the otherwise applicable maximum amount of outstanding leverage that may be made available to any 2 or more licensed companies that are commonly controlled by the manager under section 7(b)(6)(B)(i)(II) shall be increased by $35,000,000.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idf50912e5fa41480ea5f445028453cba2">
+            <enum>6.</enum>
+            <header>Capital requirements</header>
+            <subsection id="id57f78e007d7c4a54a95eef25cada60bf">
+                <enum>(a)</enum>
+                <header>Amount</header>
+                <paragraph id="id04b53260a9e0453d950f85506e45d7d3">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The private capital of each licensee shall be not less than $10,000,000.</text>
+                </paragraph>
+                <paragraph id="id59dad8988c91463cb46a8a94b94a7bfc">
+                    <enum>(2)</enum>
+                    <header>Adequacy</header>
+ <text>In addition to the requirement under paragraph (1), the Secretary shall—</text>
+                    <subparagraph id="id7994f46b34814579aa9fb0465fe10005">
+                        <enum>(A)</enum>
+ <text>determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managed actively and prudently in accordance with the articles of the licensee; and</text>
+                    </subparagraph>
+                    <subparagraph id="id6b7b5c7d35874a54a2f8e50957653d0c">
+                        <enum>(B)</enum>
+ <text>determine whether the licensee will be able, both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the licensee that is interest bearing and shall take into consideration the income that the licensee anticipates on the contemplated investments of the licensee, the experience of the owners and managers of the licensee, the history of the licensee as an entity, if any, and the financial resources of the licensee.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id1929717f3cff44e8a262627ff3117a85">
+                <enum>(b)</enum>
+                <header>Diversification of ownership</header>
+ <text>The Secretary shall ensure that the management of each licensee (including Protégé OICs) is sufficiently diversified from and unaffiliated with the ownership of the licensee in a manner that ensures independence and objectivity in the financial management and oversight of the investments and operations of the licensee.</text>
+            </subsection>
+        </section>
+        <section id="idb43a76695fbc4ba88cafb6d0769eca0e">
+            <enum>7.</enum>
+            <header>Borrowing power</header>
+            <subsection id="id0309b82001de488cafce0df6d68da526">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Each ownership investment company shall have authority to borrow money and to issue its securities, promissory notes, or other obligations under such general conditions and subject to such limitations and regulations as the Secretary may prescribe.</text>
+            </subsection>
+            <subsection id="ida85ad93344ad452e9d9c690fe0bb4b41">
+                <enum>(b)</enum>
+                <header>Authority To guarantee</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idbb9cf80d23c14d2ab7039db8480f9997">
+                    <enum>(1)</enum>
+                    <header>Grant of authority</header>
+ <text display-inline="yes-display-inline">To encourage the formation and growth of ownership investment companies the Secretary may, when authorized in appropriation Acts, guarantee the timely payment of all principal and interest as scheduled on debentures issued by ownership investment companies.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id7518d9f65b634317b5fa69e3732e24b5">
+                    <enum>(2)</enum>
+                    <header>Terms and conditions</header>
+ <text display-inline="yes-display-inline">Guarantees made under paragraph (1) may be made by the Secretary on such terms and conditions as the Secretary deems appropriate, pursuant to regulations issued by the Secretary.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id99e6878608db4c04b6eea18205817981">
+                    <enum>(3)</enum>
+                    <header>Full faith and credit</header>
+ <text display-inline="yes-display-inline">The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee under this subsection.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id93ec0f7d9d3245e48f5e2f89f76e1095">
+                    <enum>(4)</enum>
+                    <header>Status of debentures</header>
+ <text display-inline="yes-display-inline">Debentures guaranteed by the Department under this subsection shall be subordinate to any other debenture bonds, promissory notes, or other debts and obligations of an ownership investment company, unless the Secretary, in the exercise of reasonable investment prudence and in considering the financial soundness of such ownership investment company, determines otherwise.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id55fb46cb763646448218882f105e1184">
+                    <enum>(5)</enum>
+                    <header>Term and interest rate</header>
+ <text display-inline="yes-display-inline">A debenture issued under this subsection may be issued for a term of not to exceed 15 years and shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities on such debentures, adjusted to the nearest <fraction>1/8</fraction> of 1 per centum, plus an additional charge, in an amount established annually by the Secretary, as necessary to reduce to 0 the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">2 U.S.C. 661a</external-xref>)) to the Department guaranteeing debentures under this Act, which amount may not exceed 1.38 percent per year, and which shall be paid to and retained by the Department.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idac076ef7d89e4fe6ba8552ce81241362">
+                    <enum>(6)</enum>
+                    <header>Additional restrictions and limitations</header>
+ <text display-inline="yes-display-inline">A debenture issued under this subsection—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="idfe148fd652ea4f63a45e74b004d93b2e">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">shall include such other terms as the Department may fix; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id5044a0ab586447e29c7f121aa87d3eb6">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">shall be subject to the following restrictions and limitations:</text>
+                        <clause id="idefa41869f2764dd6a9c1db6957a89ed7" commented="no">
+                            <enum>(i)</enum>
+                            <subclause commented="no" display-inline="yes-display-inline"
+                                id="id2e96680ce160490ab388e8cd9023f335">
+                                <enum>(I)</enum>
+ <text>The maximum amount of outstanding leverage made available to any 1 ownership investment company licensed under section 4(c) that is not a Protégé OIC may not exceed the lesser of—</text>
+                                <item indent="up1" commented="no" display-inline="no-display-inline"
+                                    id="id8ded4028e8c34564bb192936682cf25e">
+                                    <enum>(aa)</enum>
+ <text>100 percent of the private capital of such company; or</text>
+                                </item>
+                                <item indent="up1" commented="no" display-inline="no-display-inline"
+                                    id="id29fa25677ac34a65a4d1195c899b5b8b">
+                                    <enum>(bb)</enum>
+ <text>$500,000,000.</text> </item> </subclause> <subclause indent="up1" commented="no" display-inline="no-display-inline" id="id540cc56a99944016908dff19fb70079c"> <enum>(II)</enum> <text>The maximum amount of outstanding leverage made available to 2 or more ownership investment companies licensed under section 4(c) that are commonly controlled (as determined by the Secretary) and not under capital impairment may not exceed $1,000,000,000.</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline"
+                            id="id677e9abdaa5b4f1b8cb27ec679e4803a">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">A Protégé OIC may not have multiple licenses under common control.</text>
+                        </clause>
+                        <clause id="id45cf1e5c588d44aaa69631f039b8c553" commented="no">
+                            <enum>(iii)</enum>
+ <text>The maximum amount of outstanding leverage made available under the facility established under section 3 to any 1 Protégé OIC may not to exceed the lesser of—</text>
+                            <subclause id="id38fe09575b884431a3e6e00f494b3937" commented="no">
+                                <enum>(I)</enum>
+ <text>100 percent of the private capital of the Protégé OIC; or</text>
+                            </subclause>
+                            <subclause id="idb1fe382d75d34f308792b8b024824cab" commented="no">
+                                <enum>(II)</enum>
+ <text>$100,000,000.</text> </subclause> </clause> <clause id="id368b55f5c4d845989073d62683c5184a" commented="no"> <enum>(iv)</enum> <subclause commented="no" display-inline="yes-display-inline" id="id68a897a8dab2472ba5a2f597c38f298c"> <enum>(I)</enum> <text>In calculating the outstanding leverage of a company for the purposes of subclauses (I) and (II) of clause (i), the Secretary shall not include the amount of the cost basis of any covered investment made by the ownership investment company in a covered business concern that—</text>
+                                <item indent="up1" commented="no" display-inline="no-display-inline"
+                                    id="id4ad5cecf627e4fe8b3f4a2e60ec94f5c">
+                                    <enum>(aa)</enum>
+ <text>conducts in the United States research and development, engineering, or production activities necessary or incidental to manufacturing;</text>
+                                </item>
+                                <item indent="up1" commented="no" display-inline="no-display-inline"
+                                    id="iddc20e494f16342e0b26782c5e7e5319f">
+                                    <enum>(bb)</enum>
+ <text>operates in a critical industry or critical technology area identified by the Secretary to be vital to maintaining the national or economic security of the United States; and</text>
+                                </item>
+                                <item indent="up1" commented="no" display-inline="no-display-inline"
+                                    id="idd623b0bd5e554cb4aa85f990598e5b5b">
+                                    <enum>(cc)</enum>
+ <text>is headquartered in the United States, or will be headquartered in the United States immediately following the transaction in the case of a covered investment described in section 2(6)(A).</text>
+                                </item>
+                            </subclause>
+                            <subclause indent="up1" commented="no"
+                                display-inline="no-display-inline"
+                                id="id30ed0325baf6489eacd739c25a1f6730">
+                                <enum>(II)</enum>
+ <text>The exclusion of amounts in subclause (I) shall not exceed a total of $75,000,000 or 25 percent of private capital of such company, whichever is less.</text>
+                            </subclause>
+                            <subclause indent="up1" commented="no"
+                                display-inline="no-display-inline"
+                                id="idf6e42a4fe2c54a4e94b982bd0ea392ed">
+                                <enum>(III)</enum>
+ <text>Subclause (I) shall not apply to any Protégé OIC.</text> </subclause> </clause> <clause id="idc570f0da7fdb422e9def75c7d1274d2b" commented="no"> <enum>(v)</enum> <text>Nothing in this paragraph shall prevent licensees with 1 or more small business investment companies licensed under section 301(c) of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/681">15 U.S.C. 681</external-xref>) under common control (as determined by the Secretary), including licensees whose small business investment companies have received the maximum amount of leverage in sections 303(b)(2)(A) or 303(b)(2)(B) of that Act, from receiving the maximum amount of leverage in clause (i).</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id90466916250248188e5da61b8180357a">
+                <enum>(c)</enum>
+                <header>Third party debt</header>
+ <text>The Secretary—</text> <paragraph id="idb49b06337acb424c8fe4c0d052a1e4a5"> <enum>(1)</enum> <text>may not permit a licensee having outstanding leverage to incur third party debt that would create or contribute to an unreasonable risk of default or loss to the Federal Government; and</text>
+                </paragraph>
+                <paragraph id="id470bbd508c6545bcad3beee3c214b00f">
+                    <enum>(2)</enum>
+ <text>shall permit any licensee to incur third party debt only on such terms and subject to such conditions as may be established by the Secretary, by regulation or otherwise.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id95bc02352321404cb2d15673293cfaa5">
+                <enum>(d)</enum>
+                <header>Capital impairment</header>
+ <text>Before approving any application for leverage submitted by a licensee under this Act, the Secretary—</text>
+                <paragraph id="idc9fecbcafc234d1780087d2700ed7144">
+                    <enum>(1)</enum>
+ <text>shall determine that the private capital of the licensee meets the requirements of section 6(a); and</text>
+                </paragraph>
+                <paragraph id="id78c0294f364e479884225fb52fc36850">
+                    <enum>(2)</enum>
+ <text>shall determine, taking into account the nature of the assets of the licensee, the amount and terms of any third party debt owed by such licensee, and any other factors determined to be relevant by the Secretary, that the private capital of the licensee has not been impaired to such an extent that the issuance of additional leverage would create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id866ae9e9736c4d7392d88a1069f38621">
+                <enum>(e)</enum>
+                <header>Leverage fee</header>
+ <text>With respect to leverage granted by the Department to a licensee, the Department shall collect from the licensee a nonrefundable fee in an amount equal to 3 percent of the face amount of leverage granted to the licensee in the following manner:</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4afc71bc7b874df9a35fadcb8563e95c">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">One percent upon the date on which the Department enters into any commitment for such leverage with the licensee.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7c93043f593a4785aab1f329139a84ae">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">The balance of 2 percent (or 3 percent if no commitment has been entered into by the Department) on the date on which the leverage is drawn by the licensee.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id91beeefe79324da3867c51e0b6a689f0">
+                <enum>(f)</enum>
+                <header>Calculation of subsidy rate</header>
+ <text>All fees and interest received and retained by the Department under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 502 of the Federal Credit Reform Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">2 U.S.C. 661a</external-xref>)) to the Department of guaranteeing debentures under this Act.</text>
+            </subsection>
+        </section>
+        <section id="ide7d59c95958f4745b3b1021ce73fbc19">
+            <enum>8.</enum>
+            <header>Provision of investment capital for covered business concerns</header>
+            <subsection id="id92747f2b6dfe4ff0a163ae91e61980cb">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Each ownership investment company shall provide a source of debt, synthetic equity, preferred stock, or equity capital, or a combination thereof, for incorporated and unincorporated covered business concerns, in such manner and under such terms as the ownership investment company may fix in accordance with the regulations established by the Department.</text>
+            </subsection>
+            <subsection id="iddbe32fcb03b24c758dcc5dd20755765d">
+                <enum>(b)</enum>
+                <header>Requirement</header>
+ <text>Before any capital described in subsection (a) is provided to a covered business concern under this section—</text>
+                <paragraph id="ide3793a8a32104217a78cfe4fa6c783e9">
+                    <enum>(1)</enum>
+ <text>the ownership investment company may require a covered business concern to refinance any or all of the outstanding indebtedness of the covered business concern so that the ownership investment company is the only holder of any evidence of indebtedness of the covered business concern; and</text>
+                </paragraph>
+                <paragraph id="id3e3472cc86594499a87ec177cb099aa5">
+                    <enum>(2)</enum>
+ <text>except as provided in regulations issued by the Secretary, such the covered business concern shall agree that the covered business concern will not thereafter incur any indebtedness without first securing the approval of the ownership investment company and giving the ownership investment company the first opportunity to finance such indebtedness.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idcffb5790894549c986f5a60cdaa90bd1">
+                <enum>(c)</enum>
+                <header>Third party investors</header>
+ <text>Investment capital provided to covered business concerns under this section may be provided directly or in cooperation with other investors, incorporated or unincorporated, through agreements to participate on an immediate or deferred basis.</text>
+            </subsection>
+            <subsection id="id5afdc4175e47450d88dbe4221d37b8f2">
+                <enum>(d)</enum>
+                <header>Interest</header>
+ <text>The maximum rate of interest for the share of an ownership investment company of any loan made under this section shall be determined by the Secretary—</text>
+                <paragraph id="id7d0e588ccd434164af83abb6e6e17b07">
+                    <enum>(1)</enum>
+ <text>provided that the Department also shall permit those ownership investment companies that have issued debentures pursuant to this Act to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the ownership investment company as may be approved by the Department; and</text>
+                </paragraph>
+                <paragraph id="id2e8cec563abd4d93aaa0ad20af1d19bd">
+                    <enum>(2)</enum>
+ <text>in making the initial determinations on the maximum rate of interest under this subsection following the enactment of this Act, the Secretary shall consult the regulations promulgated by the Administrator of the Small Business Administration on the maximum rate of interest for loans and debt securities in accordance with section 305 of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/685">15 U.S.C. 685</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idbf6dc8026d4f453383ca9b7a86bb6420">
+                <enum>(e)</enum>
+                <header>Maturity</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id74223448dc734537a8696e2b22a5646b">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Any loan made under this section shall have a maturity not exceeding 20 years.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id82e0e9925e1c4d3b8704797918471e07">
+                    <enum>(2)</enum>
+                    <header>Extension or renewal</header>
+ <text>Any ownership investment company that makes a loan to a covered business concern under this section is authorized to extend the maturity of or renew such loan for additional periods, not exceeding 10 years, if the ownership investment company finds that such extension or renewal will aid in the orderly liquidation of such loan.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="iddb537692c5fa4c46987c00ae769948fe">
+                <enum>(f)</enum>
+                <header>Repayment</header>
+ <text display-inline="yes-display-inline">Any loan made under this section shall be of such sound value, or so secured, as reasonably to assure repayment.</text>
+            </subsection>
+        </section>
+        <section id="id08d63b5366d14c018ca18e72349db645">
+            <enum>9.</enum>
+            <header>Portfolio diversification</header>
+ <text display-inline="no-display-inline">If any ownership investment company obtains financing from the Secretary under this Act and such financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by the ownership investment company under this Act for any single covered business concern shall not, without the approval of the Secretary, exceed 10 percent of the sum of—</text>
+            <paragraph id="id4edee51bc49d4828b7e9c90091335ce2">
+                <enum>(1)</enum>
+ <text>the private capital of such company; and</text> </paragraph> <paragraph id="id029f94bf5e02472493b0a45130f6af0e"> <enum>(2)</enum> <text>the total amount of leverage projected by the ownership investment company in the business plan of the ownership investment company that was approved by the Secretary at the time of the grant of the license of the ownership investment company.</text>
+            </paragraph>
+        </section>
+        <section id="idbccc5a67deb94bd69f2ea410e3a1e22f">
+            <enum>10.</enum>
+            <header>Exemptions</header>
+            <subsection id="idc6d3d9941b814b5c8d79f79d5270ce6c">
+                <enum>(a)</enum>
+                <header>Securities Act of 1933</header>
+ <text>Notwithstanding the provisions of title I of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77a">15 U.S.C. 77a et seq.</external-xref>), the Securities and Exchange Commission may from time to time by the rules and regulations of the Securities and Exchange Commission, and subject to such terms and conditions as may be prescribed under section 3 of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77c">15 U.S.C. 77c</external-xref>), add to the securities exempted as provided in section 3 of that Act any class of securities issued by an ownership investment company under this Act if the Securities and Exchange Commission finds, having regard to the purposes of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77a">15 U.S.C. 77a et seq.</external-xref>), that the enforcement of title I of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77a">15 U.S.C. 77a et seq.</external-xref>), with respect to such securities, is not necessary in the public interest and for the protection of investors.</text>
+            </subsection>
+            <subsection id="id275fa918b2fd424c9e971de51a43c3f0">
+                <enum>(b)</enum>
+                <header>Trust Indenture Act of 1939</header>
+ <text>Notwithstanding the provisions of title III of the Trust Indenture Act of 1939 (<external-xref legal-doc="usc" parsable-cite="usc/15/77aaa">15 U.S.C. 77aaa et seq.</external-xref>), the Securities and Exchange Commission may from time to time by the rules and regulations of the Securities and Exchange Commission, and subject to such terms and conditions as may be prescribed under section 304 of the Trust Indenture Act of 1939 (<external-xref legal-doc="usc" parsable-cite="usc/15/77ddd">15 U.S.C. 77ddd</external-xref>), add to the securities exempted as provided in section 304 of that Act any class of securities issued by an ownership investment company under this Act if the Securities and Exchange Commission finds, having regard to the purposes of the Trust Indenture Act of 1939 (<external-xref legal-doc="usc" parsable-cite="usc/15/77aaa">15 U.S.C. 77aaa et seq.</external-xref>), that the enforcement of title III of the Trust Indenture Act of 1939 (<external-xref legal-doc="usc" parsable-cite="usc/15/77aaa">15 U.S.C. 77aaa et seq.</external-xref>), with respect to such securities is not necessary in the public interest and for the protection of investors.</text>
+            </subsection>
+            <subsection id="idd8cbf3bf738a40199fe9e64cb01d848a">
+                <enum>(c)</enum>
+                <header>Investment Company Act of 1940</header>
+ <text>Notwithstanding the provisions of section 18 of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-18">15 U.S.C. 80a–18</external-xref>), the provisions of subparagraphs (A) and (B) of subsection (a)(1) of that section shall not apply to any ownership investment company operating under this Act, provided that such class of senior security shall be guaranteed by the Department.</text>
+            </subsection>
+        </section>
+        <section id="idee1bd932adc8457abb75fb1382e81419">
+            <enum>11.</enum>
+            <header>Leverage requirements</header>
+ <text display-inline="no-display-inline">No leverage shall be committed by the Department under this Act to any licensee unless the managers of such licensee—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id9014ab26754d4f749200ab3f6cb17cd6">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">certify to the Department the names of any attorneys, agents, or other persons engaged by or on behalf of such licensee for the purpose of expediting applications made to the Department for assistance of any sort, and the fees paid or to be paid to any such persons; and</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id458bf09172af486db5bb2bac81a553c2">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">executes an agreement binding any such licensee for a period of 2 years after any assistance is rendered by the Department to such licensee, to refrain from employing, tendering any office or employment to, or retaining for professional services, any person who, on the date such assistance or any part thereof was rendered, or within the 1 year period prior thereto, shall have served as an officer, attorney, agent, or employee of the Department occupying a position or engaging in activities which the department shall have determined involve discretion with respect to the granting of assistance under this Act.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ide6167a93e6e3442ab667015f8194442c">
+            <enum>12.</enum>
+            <header>Reporting</header>
+            <subsection id="id26276c8658c4472eb34ec156b68ecb74">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Secretary shall submit to Congress a full and detailed account of the operations of the Department under this Act, including the amount of losses sustained by the Government as a result of such operations during the preceding fiscal year, together with an estimate of the total losses that the Government can reasonably expect to incur as a result of such operations during the current fiscal year.</text>
+            </subsection>
+            <subsection id="id349b55d4fa594e56b96b7c97d8101de9">
+                <enum>(b)</enum>
+                <header>Contents</header>
+ <text>In the annual report submitted pursuant to subsection (a), the Secretary shall include full and detailed accounts relative to the following matters:</text>
+                <paragraph id="id0f1b90ee9aa44269a37c85b13ce14cb1">
+                    <enum>(1)</enum>
+ <text>The plans of the Department to insure the provision of ownership investment company financing and licensing to all areas of the country and to all covered business concerns, including steps taken to accomplish the same.</text>
+                </paragraph>
+                <paragraph id="id6034d1778d1e4b179b6f84ad8d6a3b64">
+                    <enum>(2)</enum>
+ <text>The plans of the Department to support States that seek to increase the number of licensees in the State.</text>
+                </paragraph>
+                <paragraph id="ida785345158ea48e58db44d66f9438820">
+                    <enum>(3)</enum>
+ <text>Steps taken by the Department to maximize recoupment of Government funds incident to the inauguration and administration of the ownership investment company program and to insure compliance with statutory and regulatory standards relating to the ownership investment company program.</text>
+                </paragraph>
+                <paragraph id="ida88ee9c83a3f4c2c8ab918d5f3697966">
+                    <enum>(4)</enum>
+ <text>Recommendations to the Department of the Treasury with respect to additional tax incentives to improve and facilitate the operations of ownership investment companies and to encourage the use of the financing facilities of ownership investment companies by covered business concerns.</text>
+                </paragraph>
+                <paragraph id="idd38f9abce07242b190e1c1ededea3111">
+                    <enum>(5)</enum>
+ <text>A report from the Securities and Exchange Commission enumerating actions undertaken by the Securities and Exchange Commission to—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idcc06e779847b4009b3ef0e8b4695a95d">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">simplify and minimize the regulatory requirements governing ownership investment companies under the Federal securities laws; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc72aaf45583a4380a35294279663a2ff">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">eliminate overlapping regulation and jurisdiction as between the Securities and Exchange Commission, the Department, and other agencies of the executive branch.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idacb40b6cb02249af973d27d40840bc8e">
+                    <enum>(6)</enum>
+ <text>Actions undertaken by the Securities and Exchange Commission to simplify compliance by ownership investment companies with the requirements of the Investment Company Act of 1940 and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of the Internal Revenue Code of 1954.</text>
+                </paragraph>
+                <paragraph id="idffde487e39c64f9cbbc39c7166471923">
+                    <enum>(7)</enum>
+ <text>The number of ownership investment companies the Department licensed (including Protégé OICs), the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses during the year ending on the date the report is submitted, identifying the amount of leverage each received during that period.</text>
+                </paragraph>
+                <paragraph id="id2f37c5ff9abc448880ba46b03753e8d9">
+                    <enum>(8)</enum>
+ <text>The amount of leverage that ownership investment companies (including Protégé OICs) received during the year ending on the date the report is submitted.</text>
+                </paragraph>
+                <paragraph id="idd3438ddbc5c448b984488642464e518f">
+                    <enum>(9)</enum>
+ <text>The sizes, geographic locations, and other characteristics of licensed ownership investment companies (including Protégé OICs), including the extent to which the ownership investment companies have used the leverage to make debt, synthetic equity, preferred equity, or equity investments, or a combination thereof, to covered business concerns.</text>
+                </paragraph>
+                <paragraph id="id4a0ac1e6bf2d4979a36ca0a13cd86d6c">
+                    <enum>(10)</enum>
+ <text>The geographic dispersion of licensees in each State compared to the population of the State.</text>
+                </paragraph>
+                <paragraph id="id502778a3e23e4777bb62ddc5c4ba8fcf">
+                    <enum>(11)</enum>
+ <text>A summary of employee stock ownership plans created by an ownership investment company (including Protégé OICs), including—</text>
+                    <subparagraph id="id1d37182244454ed78ca3f0ee030e3651">
+                        <enum>(A)</enum>
+ <text>the total number of active plan participants;</text> </subparagraph> <subparagraph id="id59e41da055ba47e9a4777c3b6b1f4742"> <enum>(B)</enum> <text>the total number of employees of the covered business concerns with such employee stock ownership plans;</text>
+                    </subparagraph>
+                    <subparagraph id="idd7be95d752fb490b9f4a4601016cfa68">
+                        <enum>(C)</enum>
+ <text>the total value of employer securities, as determined by the independent appraisers hired by the independent trustee of each employee stock ownership plan;</text>
+                    </subparagraph>
+                    <subparagraph id="idac6ac48c83864a72839313d4f23b87d9">
+                        <enum>(D)</enum>
+ <text>the total plan assets;</text> </subparagraph> <subparagraph id="id7f61c25ee387446e9ca3452474f640cf"> <enum>(E)</enum> <text>the total contributions during the plan year;</text>
+                    </subparagraph>
+                    <subparagraph id="id1879ca0772b9484aac873496c9438ad3">
+                        <enum>(F)</enum>
+ <text>the total distributions during the plan year;</text> </subparagraph> <subparagraph id="idfd5fa129b5094f4da359a7babf37883c"> <enum>(G)</enum> <text>the median account asset balance; and</text>
+                    </subparagraph>
+                    <subparagraph id="ide7e20514a8554c7ea4864e55f60e56a0">
+                        <enum>(H)</enum>
+ <text>demographic information of plan participants, disaggregated by race, gender, and State, to the extent available.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb15454b873ff4487a02f23b20b33db32">
+                    <enum>(12)</enum>
+ <text>A summary of eligible worker-owned cooperatives created by ownership investment companies (including Protégé OICs), including—</text>
+                    <subparagraph id="idbdf99ac0d9c1414e928232c209e89d59">
+                        <enum>(A)</enum>
+ <text>the number of member-owners;</text> </subparagraph> <subparagraph id="id6986ae98cc7d4ae39177e5a26b5b277b"> <enum>(B)</enum> <text>the total number of employees of the covered business concern with such eligible worker-owned cooperatives;</text>
+                    </subparagraph>
+                    <subparagraph id="id4b1611702bad44d994c997e9c365b329">
+                        <enum>(C)</enum>
+ <text>the total value of employer securities;</text> </subparagraph> <subparagraph id="id628f0b8f1b014c6dbf5b9a5288049643"> <enum>(D)</enum> <text>the assets of all membership accounts;</text>
+                    </subparagraph>
+                    <subparagraph id="id471127d6590c41bc84f472fb7838117c">
+                        <enum>(E)</enum>
+ <text>the median membership account balance; and</text> </subparagraph> <subparagraph id="ida39be02b98b9465da17cb7bba6947d9e"> <enum>(F)</enum> <text>demographic information of membership base, disaggregated by race, gender, and State, to the extent available.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idcecb0270d2fe4a78b25dd73244843c96">
+            <enum>13.</enum>
+            <header>Revocation and suspension of licenses; cease and desist orders</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ide1af1211cb134405b62e81b18b2c913d">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">A license may be revoked or suspended by the Secretary—</text>
+                <paragraph id="id59045e0dc72b491ea37a9371ffe0c073">
+                    <enum>(1)</enum>
+ <text>for any false statement knowingly made in any written statement required under this Act, or under any regulation issued under this Act by the Secretary;</text>
+                </paragraph>
+                <paragraph id="id196f5a65cc4041358f97c779de61cfe1">
+                    <enum>(2)</enum>
+ <text>if any written statement required under this Act, or under any regulation issued under this Act by the Secretary, fails to state a material fact necessary in order to make the statement not misleading in the light of the circumstances under which the statement was made;</text>
+                </paragraph>
+                <paragraph id="id1062ffa926e34149814f4b3f6768940d">
+                    <enum>(3)</enum>
+ <text>for willful or repeated violation, or willful or repeated failure to observe, any provision of this Act;</text>
+                </paragraph>
+                <paragraph id="id3e307ac9ccf94c1a846e110c0bed1a8d">
+                    <enum>(4)</enum>
+ <text>for willful or repeated violation of, or willful or repeated failure to observe, any rule or regulation issued under this Act by the Secretary; or</text>
+                </paragraph>
+                <paragraph id="idcb5eae3f4661415fbf8f5740572f8528">
+                    <enum>(5)</enum>
+ <text>for violation of, or failure to observe, any cease and desist order issued by the Secretary under this section.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ida957bff28e1d4c23831d0a988691cf9a">
+                <enum>(b)</enum>
+                <header>Order To cease and desist</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id3bb3798cb29a46a8b451205ca7feb2cf">
+                    <enum>(1)</enum>
+                    <header>Issuance</header>
+ <text display-inline="yes-display-inline">Where a licensee or any other person has not complied with any provision of this Act, or of any regulation issued under this Act by the Secretary, or is engaging or is about to engage in any acts or practices that constitute or will constitute a violation of such Act or regulation, the Secretary may order such licensee or other person to cease and desist from such action or failure to act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id89fc04a3e9f1446184e2a2b065687625">
+                    <enum>(2)</enum>
+                    <header>Actions required</header>
+ <text display-inline="yes-display-inline">The Secretary may order such licensee or other person to take such action or to refrain from such action as the Secretary deems necessary to insure compliance with the Act and the regulations implementing this Act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idc6a5dbc21af44aac9192a4cb2387cfec">
+                    <enum>(3)</enum>
+                    <header>Suspension of licenses</header>
+ <text display-inline="yes-display-inline">The Secretary may also suspend the license of a licensee against whom an order has been issued until such licensee complies with an order issued under this subsection.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id878535e7a3e74d8e8d60b15ad9a8aba4">
+                <enum>(c)</enum>
+                <header>Orders To show cause</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idae221bc389f144b7bd9b604fb3b52d4b">
+                    <enum>(1)</enum>
+                    <header>Issuance</header>
+ <text display-inline="yes-display-inline">Before revoking or suspending a license pursuant to subsection (a) or issuing a cease and desist order pursuant to subsection (b), the Secretary shall serve upon the licensee and any other person involved an order to show cause why an order revoking or suspending the license or a cease and desist order should not be issued.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id6f66636477a544bd9a46fbfa6fc8e864">
+                    <enum>(2)</enum>
+                    <header>Contents</header>
+ <text display-inline="yes-display-inline">Any order to show cause issued under paragraph (1) shall—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id7c9363a143124ad9a3217356bd963ffd">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">contain a statement of the matters of fact and law asserted by the Department and the legal authority and jurisdiction under which a hearing is to be held; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="idd1b3350a95764dcca0216c7e97d1bfca">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">set forth that a hearing will be held before the Department at a time and place stated in the order.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idf84dec3f279e460a8c3d428271a9cdb4">
+                    <enum>(3)</enum>
+                    <header>Statement of findings</header>
+ <text display-inline="yes-display-inline">If after hearing, or a waiver thereof, the Secretary determines on the record that an order revoking or suspending the license or a cease and desist order should issue, the Secretary shall—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="idf31ebdab600547c5a1f585a124853dca">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">promptly issue such order, which shall include a statement of the findings of the Secretary and the grounds and reasons therefor and specify the effective date of the order; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id4dcda59c6461418399c9a6069218aff3">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">cause the order to be served on the licensee and any other person involved.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idacfe73d4877749fbb53f888645dd2c69">
+                <enum>(d)</enum>
+                <header>Witnesses</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2fe5afc3227b4cebbaee0a0a3ebc12d0">
+                    <enum>(1)</enum>
+                    <header>Subpoena authority</header>
+ <text display-inline="yes-display-inline">The Secretary may require by subpoena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to the hearing from any place in the United States.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide44f0c7037374ee29de77e9c4d6b207c">
+                    <enum>(2)</enum>
+                    <header>Payment</header>
+ <text display-inline="yes-display-inline">Any witness summoned before the Department shall be paid by the party at whose instance the witness was called the same fees and mileage that are paid witnesses in the courts of the United States.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id214aa550254c4d4cb5ad920cf9cb3863">
+                    <enum>(3)</enum>
+                    <header>Aid of the court</header>
+ <text display-inline="yes-display-inline">In case of disobedience to a subpoena, the Secretary, or any party to a proceeding before the Department, may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of books, papers, and documents.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idffe2f9df00d443f7b33163c827815fd0">
+                <enum>(e)</enum>
+                <header>Appeals</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc21d28595a0444da9e1433f2f2c850f3">
+                    <enum>(1)</enum>
+                    <header>Filing</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8be0dc0a402a4552b75dc90d97e97906">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">An order issued by the Secretary under this section shall be final and conclusive unless within 30 days after the service thereof the licensee, or other person against whom an order is issued, appeals to the United States court of appeals for the circuit in which such licensee has its principal place of business by filing with the clerk of such court a petition praying that the Department’s order be set aside or modified in the manner stated in the petition.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc3d5035da95e4a449055c792a3b70d56">
+                        <enum>(B)</enum>
+                        <header>Leave required</header>
+ <text display-inline="yes-display-inline">After the expiration of the 30-day period described in subparagraph (A), a petition may be filed only by leave of court on a showing of reasonable grounds for failure to file the petition theretofore.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida98e6232a8554e1b973a0d4f6a9c34ab">
+                    <enum>(2)</enum>
+                    <header>Delivery</header>
+ <text display-inline="yes-display-inline">The clerk of the court shall immediately cause a copy of the petition described in paragraph (1) to be delivered to the Secretary, and, upon receipt, the Secretary shall certify and file in the court a transcript of the record upon which the order complained of was entered.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf7b90f6dd9504a59b5aa954016bab560">
+                    <enum>(3)</enum>
+                    <header>Amending petition</header>
+ <text display-inline="yes-display-inline">If, before the record is filed under paragraph (2), the Secretary amends or sets aside its order, in whole or in part, the petitioner may amend the petition within such time as the court may determine, on notice to the Secretary.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8e76f90695b14bbfb03bedd72e7614d6">
+                    <enum>(4)</enum>
+                    <header>Operation of order</header>
+ <text display-inline="yes-display-inline">The filing of a petition for review under this subsection shall not of itself stay or suspend the operation of the order of the Department, but the court of appeals in its discretion may restrain or suspend, in whole or in part, the operation of the order pending the final hearing and determination of the petition.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4ea95f84f0144a69a692e03d083d70f9">
+                    <enum>(5)</enum>
+                    <header>Disposition</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc7c867f946174d1396dda18375b7bc19">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The court may affirm, modify, or set aside the order of the Secretary under this section.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id640f95b3628b41209510650392c4892d">
+                        <enum>(B)</enum>
+                        <header>Evidence</header>
+ <text display-inline="yes-display-inline">If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the Secretary to reopen the hearing for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id50912d55c2434ab59696732dfeff352b">
+                        <enum>(C)</enum>
+                        <header>Findings of fact</header>
+ <text display-inline="yes-display-inline">The Secretary—</text> <clause commented="no" display-inline="no-display-inline" id="idb2a9446cc3ce4bfda0029d67f0c0fb54"> <enum>(i)</enum> <text display-inline="yes-display-inline">may modify the findings as to the facts of the Department, or make new findings, by reason of the additional evidence so taken; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id02ff73a6033044d59936a86f1f34372a">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">shall file modified or new findings and the amendments, if any, of the order, with the record of such additional evidence.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1361cd73826f4b539bd9daf0ebcb2af9">
+                        <enum>(D)</enum>
+                        <header>Objections</header>
+ <text display-inline="yes-display-inline">No objection to an order of the Secretary shall be considered by the court unless such objection was urged before the Department or, if it was not so urged, unless there were reasonable grounds for failure to do so.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3fb94b8e0ba34bdf905583e6c2ee5fff">
+                        <enum>(E)</enum>
+                        <header>Review</header>
+ <text display-inline="yes-display-inline">The judgment and decree of the court affirming, modifying, or setting aside any such order of the Secretary shall be subject only to review by the Supreme Court of the United States upon certification or certiorari as provided in section 1254 of title 28, United States Code.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id1d31e50d6b144746841e7c3c97c88e64">
+                <enum>(f)</enum>
+                <header>Enforcement</header>
+                
+                <paragraph commented="no" display-inline="no-display-inline" id="id8fa831dd5f674632b1d423ae7c049530">
+                    <enum>(1)</enum>
+                    <header>Failure to obey</header>
+ <text display-inline="yes-display-inline">If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Secretary—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id515e5067d85340bd842653636ba5598c">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id547fc91df5f848acbb025baf2400574c">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">shall file a transcript of the record upon which the order complained of was entered.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id05a0b2fd4b904e86af8f18d498052982">
+                    <enum>(2)</enum>
+                    <header>Notice</header>
+ <text display-inline="yes-display-inline">Upon the filing of the application under paragraph (1), the court shall cause notice thereof to be served on the licensee or other person.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id452d3c5b22ca419bb7b8413f2e924679">
+                    <enum>(3)</enum>
+                    <header>Evidence</header>
+ <text display-inline="yes-display-inline">The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) for applications to set aside or modify orders.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idb91a7ed2539c4315bd977c2de8c83880">
+            <enum>14.</enum>
+            <header>Examinations and investigations</header>
+            <subsection id="idd86e5241c64043e7a2c597aee06e4ab3">
+                <enum>(a)</enum>
+                <header>Investigations</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2ec1410986e5474fa90a62529323d1e0">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary may make such investigations as the Secretary deems necessary to determine whether a licensee or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this Act, or of any rule or regulation under this Act, or of any order issued under this Act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5e76c1ffcbf042d4b41afd87076b1a7a">
+                    <enum>(2)</enum>
+                    <header>Statements</header>
+ <text display-inline="yes-display-inline">The Secretary shall permit any person to file with it a statement in writing, under oath or otherwise as the Secretary shall determine, as to all the facts and circumstances concerning the matter to be investigated.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id15310eee139947bb8e76ecf563f1027a">
+                    <enum>(3)</enum>
+                    <header>Oaths and affirmations</header>
+ <text display-inline="yes-display-inline">For the purpose of any investigation under this subsection, the Secretary is empowered to—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id95421b4562f841e7bc7642866681b606">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">administer oaths and affirmations;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id901f63a36e0a4000a4d237cd64c03460"> <enum>(B)</enum> <text display-inline="yes-display-inline">subpoena witnesses;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id166e2159e84d4891911bb5a5dce274bd">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">compel the attendance of witnesses;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3621f7480e854861bf75f55ac2099498">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">take evidence; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id58a6961f3271415ebf356be96a867987"> <enum>(E)</enum> <text display-inline="yes-display-inline">require the production of any books, papers, and documents that are relevant to the inquiry.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id96472ebd24ee4f80affc2be649f06137">
+                    <enum>(4)</enum>
+                    <header>Attendance and production</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbbee732c3eaf4d47bc6096db5d92d900">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Attendance of witnesses and the production of any such records under this section may be required from any place in the United States.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id05bbc49eaf114ab4813dfa9d159e9c70">
+                        <enum>(B)</enum>
+                        <header>Failure to obey</header>
+ <text display-inline="yes-display-inline">In case of contumacy by, or refusal to obey a subpoena issued to, any person, including a licensee, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents, and such court may issue an order requiring such person to appear before the Department, thereto produce records, if so ordered, or to give testimony touching the matter under investigation.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id78424a7b4d0642b7980df613102ee557">
+                        <enum>(C)</enum>
+                        <header>Enforcement</header>
+ <text display-inline="yes-display-inline">Any failure to obey such order of the court may be punished by such court as a contempt thereof.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf9e8b7f2531644dab0611df1bb40fe5b">
+                        <enum>(D)</enum>
+                        <header>Service of process</header>
+ <text display-inline="yes-display-inline">All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id0c0389c61efe4281b0efb61dee4f7e1a">
+                <enum>(b)</enum>
+                <header>Examinations</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id1638192d28104078a6bc7091423a6996">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Each licensee shall be subject to examinations made by direction of the Department, which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations, and the cost of such examinations, including the compensation of the examiners, may, in the discretion of the Department, be assessed against the licensee examined and when so assessed shall be paid by the licensee.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4624638fe158484abe3a03dfc6adc346">
+                    <enum>(2)</enum>
+                    <header>Fees</header>
+ <text display-inline="yes-display-inline">Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Department, and are authorized to be appropriated solely to cover the costs of examinations and other oversight activities under this Act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4001b267dc054ed58b50ac2da30709d7">
+                    <enum>(3)</enum>
+                    <header>Reports</header>
+ <text display-inline="yes-display-inline">Every licensee shall make such reports to the Secretary at such times and in such form as the Secretary may require, except that the Secretary is authorized to exempt from making such reports any such licensee that is registered under the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-1">15 U.S.C. 80a–1 et seq.</external-xref>) to the extent necessary to avoid duplication in reporting requirements.</text>
+                </paragraph>
+                <paragraph id="id1af44992562d4b059429e9b172219f6b">
+                    <enum>(4)</enum>
+                    <header>Required information</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id974a1096f26742a59079c3e83fcfd0ed">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), each licensee shall be examined not less frequently than once every 2 years in such detail so as to determine whether or not—</text>
+                        <clause id="iddcae1c6797534ca4ab42cb28b66c32e1">
+                            <enum>(i)</enum>
+ <text>the licensee has engaged solely in lawful activities and those contemplated by this Act;</text>
+                        </clause>
+                        <clause id="id7568a41ddea64a2dbb440bed0d9f367d">
+                            <enum>(ii)</enum>
+ <text>the licensee has engaged in prohibited conflicts of interest under section 16;</text>
+                        </clause>
+                        <clause id="idddc13aeea32e4c0db9a5fd36f19ce7b3">
+                            <enum>(iii)</enum>
+ <text>the licensee has acquired or exercised illegal control of a covered business concern;</text>
+                        </clause>
+                        <clause id="id1e41750866254af2b7ba24583abb707f">
+                            <enum>(iv)</enum>
+ <text>the licensee has made investments in covered businesses for not less than 1 year;</text>
+                        </clause>
+                        <clause id="id87a87741e5df4d8caaeeef4a7ac4d69e">
+                            <enum>(v)</enum>
+ <text>the licensee has adhered to portfolio diversification limits as stated under section 9;</text>
+                        </clause>
+                        <clause id="id6ea262ff1a864da4815d88604aaa0bff">
+                            <enum>(vi)</enum>
+ <text>the licensee has engaged in relending, foreign investments, or passive investments;</text>
+                        </clause>
+                        <clause id="ida66d0b18f91e43189ff7a696c1fde1be">
+                            <enum>(vii)</enum>
+ <text>the licensee has charged an interest rate in excess of the maximum permitted by law; or</text>
+                        </clause>
+                        <clause id="idda0c4ffe95e24449aa5af6e32f4feda2" commented="no">
+                            <enum>(viii)</enum>
+ <text>the licensee has adhered to the requirements to make covered investments.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6101f836d32a443bbf91278ba6ebc247">
+                        <enum>(B)</enum>
+                        <header>Waiver</header>
+ <text display-inline="yes-display-inline">The Secretary may waive any examination required under subparagraph (A)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idf4921493f5554ce49978946ac993eb91">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">for not more than 1 year if, in the discretion of the Secretary, the Secretary determines such a delay would be appropriate, based on the amount of debentures being issued by the licensee and the repayment record of the licensee, the prior operating experience of the licensee, the contents and results of the last examination and the management expertise of the licensee; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idbcc678679f534c38b23776882ad8de9b">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">if it is the examination of a licensee whose operations have been suspended while the licensee is involved in litigation or is in receivership.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id577e65a7c57c4c889039690c4e777016">
+                <enum>(c)</enum>
+                <header>Valuations</header>
+                <paragraph id="id84336e4d0b4d4d3dad153f4a3cba7443">
+                    <enum>(1)</enum>
+                    <header>Frequency of valuations</header>
+                    <subparagraph id="ida5c2033d2e964fd09b8d8008db88d6af">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Each licensee shall submit to the Secretary a written valuation of the loans and investments of the licensee not less often than semiannually or otherwise upon the request of the Secretary, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Secretary determines otherwise.</text>
+                    </subparagraph>
+                    <subparagraph id="id60cfceb155ba4df1a4c132b98a5cd2ba">
+                        <enum>(B)</enum>
+                        <header>Material adverse changes</header>
+ <text>Not later than 30 days after the end of a fiscal quarter of a licensee during which a material adverse change in the aggregate valuation of the loans and investments or operations of the licensee occurs, the licensee shall notify the Secretary in writing of the nature and extent of that change.</text>
+                    </subparagraph>
+                    <subparagraph id="id0ed5bf2a96db4d69b9f7a8c8d9751961">
+                        <enum>(C)</enum>
+                        <header>Independent certification</header>
+                        <clause id="id473eccf1d9114517a1d5bf31582d3c08">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Not less frequently than once during each fiscal year, each licensee shall submit to the Secretary the financial statements of the licensee, audited by an independent certified public accountant approved by the Secretary.</text>
+                        </clause>
+                        <clause id="id96a5bce084174c8393c941a00d75ee74">
+                            <enum>(ii)</enum>
+                            <header>Audit requirements</header>
+ <text>Each audit conducted under clause (i) shall include—</text> <subclause commented="no" display-inline="no-display-inline" id="id323dd72d1a8d4a0d8b69b8ebc822da0b"> <enum>(I)</enum> <text display-inline="yes-display-inline">a review of the procedures and documentation used by the licensee in preparing the valuations required by this section; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idf57ee213ce6146cb916ff1777dea175e">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">a statement by the independent certified public accountant that such valuations were prepared in conformity with the valuation criteria applicable to the licensee established in accordance with paragraph (2).</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ida9176b93b2294962aa0ca82a52aa1414">
+                    <enum>(2)</enum>
+                    <header>Valuation criteria</header>
+ <text>Each valuation submitted under this subsection shall be prepared by the licensee in accordance with valuation criteria, which shall—</text>
+                    <subparagraph id="id0bf25d931ce94782ba863b885ef194c8">
+                        <enum>(A)</enum>
+ <text>be established or approved by the Secretary; and</text> </subparagraph> <subparagraph id="id9f1f028ad763493da28bfddb1399658b"> <enum>(B)</enum> <text>include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id4d9f102a54304b08be194961f27fa98c">
+            <enum>15.</enum>
+            <header>Injunctions and other orders</header>
+            <subsection id="id22ee10e5c1994418b18c1ac40b7d120b">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Whenever, in the judgment of the Secretary, a licensee or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this Act, or of any rule or regulation under this Act, or of any order issued under this Act, the Secretary may make application to the proper district court of the United States or a United States court of any place subject to the jurisdiction of the United States for an order enjoining such acts or practices, or for an order enforcing compliance with such provision, rule, regulation, or order, and such courts shall have jurisdiction of such actions and, upon a showing by the Secretary that such licensee or other person has engaged or is about to engage in any such acts or practices, a permanent or temporary injunction shall be granted without bond.</text>
+            </subsection>
+            <subsection id="id39a21d2184ee41e2a440c071657cd10c">
+                <enum>(b)</enum>
+                <header>Exclusive jurisdiction</header>
+ <text>In any proceeding under subsection (a), the court as a court of equity—</text> <paragraph commented="no" display-inline="no-display-inline" id="id535aec11ec22400bbf1b0d4de5368be7"> <enum>(1)</enum> <text display-inline="yes-display-inline">may, to such extent as the court deems necessary, take exclusive jurisdiction of the licensee or licensees and the assets thereof, wherever located; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5c80372349ab413780d65d146dddc757">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">shall have jurisdiction in any such proceeding to appoint a trustee or receiver to hold or administer under the direction of the court the assets so possessed.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id09f98dde32da42b283e2c4d6db5a4bfd">
+                <enum>(c)</enum>
+                <header>Trustee and receivership</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6be9193600434838a2082cbc9c142276">
+                    <enum>(1)</enum>
+                    <header>Authority</header>
+ <text display-inline="yes-display-inline">The Secretary shall have authority to act as trustee or receiver of the licensee.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id230b04ddbb0d4063a34992bc68a0f10a">
+                    <enum>(2)</enum>
+                    <header>Appointment</header>
+ <text display-inline="yes-display-inline">Upon request by the Secretary, the court may appoint the Secretary to act in such capacity unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id06f160d132c444c7a0e738fba87f3b4d">
+            <enum>16.</enum>
+            <header>Conflicts of interest</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idc50e5ddaa9b54770958ac5a34fc34be7">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">For the purpose of controlling conflicts of interest that may be detrimental to covered business concerns, to licensees, to the shareholders, partners, or members of either, or to the purposes of this Act, the Secretary shall adopt regulations to govern transactions with any officer, director, shareholder, partner, or member of any licensee, or with any person or concern, in which any interest, direct or indirect, financial or otherwise, is held by any officer, director, shareholder, partner, or member of any licensee, or any person or concern with an interest, direct or indirect, financial or otherwise, in any licensee.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id7e8692a95d5b470780cd347fce0c2441">
+                <enum>(b)</enum>
+                <header>Public disclosure</header>
+ <text display-inline="yes-display-inline">Regulations adopted under subsection (a) shall include appropriate requirements for public disclosure necessary to the purposes of this section.</text>
+            </subsection>
+            <subsection id="idf158d3df03f445f78da8e65b446a5f9d">
+                <enum>(c)</enum>
+                <header>Consultation with existing regulations</header>
+ <text>In making any initial determination relating to a regulation adopted under subsection (a), the Secretary shall consult the regulations promulgated by the Administrator of the Small Business Administration on financing which constitute conflicts of interest in accordance with section 312 of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/687d">15 U.S.C. 687d</external-xref>).</text>
+            </subsection>
+            <subsection id="id59b8947971104ac185a871a0820472fb">
+                <enum>(d)</enum>
+                <header>Regulations</header>
+ <text>The Secretary shall promulgate regulations under this section in accordance with the implementation milestones as set forth in section 3(l) of this Act.</text>
+            </subsection>
+        </section>
+        <section id="id899a52f8d5bf4f1c905178d46e54fae5">
+            <enum>17.</enum>
+            <header>Removal or suspension of management officials</header>
+            <subsection id="id66abcd3b67834bd888187915abf82e51">
+                <enum>(a)</enum>
+                <header>Definition of management official</header>
+ <text>In this section, the term <term>management official</term> means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.</text>
+            </subsection>
+            <subsection id="idabefab395ec44ba0bf1dacb85fd73f06">
+                <enum>(b)</enum>
+                <header>Removal of management officials</header>
+                <paragraph id="id4737ecda7e524758a43fb5908d062b89">
+                    <enum>(1)</enum>
+                    <header>Notice of removal</header>
+ <text>The Secretary may serve upon any management official a written notice of its intention to remove that management official whenever, in the opinion of the Secretary—</text>
+                    <subparagraph id="id5a12d6f2da58486b9c74f9ddbd7e5d8f">
+                        <enum>(A)</enum>
+ <text>such management official—</text> <clause commented="no" display-inline="no-display-inline" id="idd5c624f8a3ea46d28aed546f9bac6751"> <enum>(i)</enum> <text display-inline="yes-display-inline">has willfully and knowingly committed any substantial violation of—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="idfabe99a51dbe4ee8a4dca5dc10f3fb09">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">this Act;</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="id8a21e75da8664495af762732f47017da"> <enum>(II)</enum> <text display-inline="yes-display-inline">any regulation issued under this Act; or</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id320db322383d471382576275e8c832e0">
+                                <enum>(III)</enum>
+ <text display-inline="yes-display-inline">a cease-and-desist order which has become final; or</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idbbc9feb19a4d455f83048fa907290d3e">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">has willfully and knowingly committed or engaged in any act, omission, or practice which constitutes a substantial breach of a fiduciary duty of that person as a management official; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idd7e7edcee30541a0a5508f0b0ef7172c">
+                        <enum>(B)</enum>
+ <text>the violation or breach of fiduciary duty is one involving personal dishonesty on the part of such management official.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id51b6fa7858114622b9934eaffacf5e7a">
+                    <enum>(2)</enum>
+                    <header>Contents of notice</header>
+ <text>A notice of intention to remove a management official, as provided in paragraph (1), shall contain a statement of the facts constituting grounds therefor, and shall fix a time and place at which a hearing will be held thereon.</text>
+                </paragraph>
+                <paragraph id="id91eddc872a2847ca976e7a9c37f35dd6">
+                    <enum>(3)</enum>
+                    <header>Hearings</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id385f70279908456dbc489f5925589b43">
+                        <enum>(A)</enum>
+                        <header>Timing</header>
+ <text>A hearing described in paragraph (2) shall be fixed for a date not earlier than 30 days nor later than 60 days after the date of service of notice of the hearing, unless an earlier or a later date is set by the Secretary at the request of—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id2a22c87992b248b3a2c25df9dfda8d95">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the management official, and for good cause shown; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id18e13e1b045e481f9338eb789dcd501e">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the Attorney General of the United States.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id5d7dd694000f459f8410b030d0a6a787">
+                        <enum>(B)</enum>
+                        <header>Consent</header>
+ <text>Unless the management official shall appear at a hearing described in this paragraph in person or by a duly authorized representative, that management official shall be deemed to have consented to the issuance of an order of removal under paragraph (4)(A).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb5a1b8ec44044d16a3da8342d737ebbf">
+                    <enum>(4)</enum>
+                    <header>Issuance of order of removal</header>
+                    <subparagraph id="id6c0e09f4206b4b8b9e131bbce52dd123">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>In the event of consent under paragraph (3)(B), or if upon the record made at a hearing described in this subsection, the Secretary finds that any of the grounds specified in the notice of removal has been established, the Secretary may issue such orders of removal from office as the Secretary deems appropriate.</text>
+                    </subparagraph>
+                    <subparagraph id="id89b35b84d4cf4a458f05e0724e337cca">
+                        <enum>(B)</enum>
+                        <header>Effectiveness</header>
+ <text>An order under subparagraph (A) shall—</text> <clause commented="no" display-inline="no-display-inline" id="id9d85348909884d2a86f3b41783fe5d3c"> <enum>(i)</enum> <text display-inline="yes-display-inline">become effective at the expiration of 30 days after the date of service upon the subject licensee and the management official concerned (except in the case of an order issued upon consent as described in paragraph (3)(B), which shall become effective at the time specified in such order); and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id93f2a5a8fe8f4dc2b897ac300cd9d755">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Secretary or a reviewing court in accordance with this section.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id74bca802765349b692ba15377b464869">
+                <enum>(c)</enum>
+                <header>Authority To suspend or prohibit participation</header>
+                <paragraph id="id8ac6cd54edac415f8cbcede90ffaa04e">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Secretary may, if the Secretary deems it necessary for the protection of the licensee or the interests of the Department, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1), by written notice to such effect served upon the management official.</text>
+                </paragraph>
+                <paragraph id="idda5ed3c1fc4640dfa964312bf8a2789b">
+                    <enum>(2)</enum>
+                    <header>Effectiveness</header>
+ <text>A suspension or prohibition under paragraph (1)—</text> <subparagraph id="id061f59a64ccb4809924758e22b808137"> <enum>(A)</enum> <text>shall become effective upon service of notice under paragraph (1); and</text>
+                    </subparagraph>
+                    <subparagraph id="iddec1021c1ad246d6a9a72a441aeeab9e">
+                        <enum>(B)</enum>
+ <text>unless stayed by a court in proceedings authorized by paragraph (3), shall remain in effect—</text>
+                        <clause commented="no" display-inline="no-display-inline"
+                            id="iddfd4ea60b12945cca7df491f10d87775">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under subsection (b); and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline"
+                            id="idee13cc30e5dd4f8b87f45c4821b18f2a">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">until such time as the Secretary shall dismiss the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id83690e0cf13049829955787b281edd70">
+                    <enum>(3)</enum>
+                    <header>Judicial review</header>
+ <text>Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States District Court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b), and such court shall have jurisdiction to stay such action.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id74fb76e10a26471c912bb5cf54d8fc61">
+                <enum>(d)</enum>
+                <header>Authority To suspend on criminal charges</header>
+                <paragraph id="id489756e2204e4ab2b2776802770361ff">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Whenever a management official is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a felony involving dishonesty or breach of trust, the Secretary may, by written notice served upon that management official, suspend that management official from office or prohibit that management official from further participation in any manner in the management or conduct of the affairs of the licensee, or both.</text>
+                </paragraph>
+                <paragraph id="id9722d27653844b8b9f85973bf7513f82">
+                    <enum>(2)</enum>
+                    <header>Effectiveness</header>
+ <text>A suspension or prohibition under paragraph (1) shall remain in effect until the subject information, indictment, or complaint is finally disposed of, or until terminated by the Secretary.</text>
+                </paragraph>
+                <paragraph id="id8740d51ea68e44ae9298f63505324500">
+                    <enum>(3)</enum>
+                    <header>Authority upon conviction</header>
+ <text>If a judgment of conviction with respect to an offense described in paragraph (1) is entered against a management official, then at such time as the judgment is not subject to further appellate review, the Secretary may issue and serve upon the management official an order removing that management official, which removal shall become effective upon service of a copy of the order upon the licensee.</text>
+                </paragraph>
+                <paragraph id="idfc24bf2404f74dcc91050c2f1e264d6b">
+                    <enum>(4)</enum>
+                    <header>Authority upon dismissal or other disposition</header>
+ <text>A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Secretary from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idc078b651cf71408697d75a65362aea0f">
+                <enum>(e)</enum>
+                <header>Notification to licensees</header>
+ <text>Copies of each notice required to be served on a management official under this section shall also be served upon the interested licensee.</text>
+            </subsection>
+            <subsection id="id586c5e53b82d4af3999d6dcc9a2653d4">
+                <enum>(f)</enum>
+                <header>Procedural provisions; judicial review</header>
+                <paragraph id="idc678b1963c814ebd978709c37658370b">
+                    <enum>(1)</enum>
+                    <header>Hearing venue</header>
+ <text>Any hearing provided for in this section shall be—</text> <subparagraph id="id344d3aa7ee1342cb9e7de9c7410b6f7b"> <enum>(A)</enum> <text>held in the Federal judicial district or in the territory in which the principal office of the licensee is located, unless the party afforded the hearing consents to another place; and</text>
+                    </subparagraph>
+                    <subparagraph id="ide290e84d480d4739b9f8b834b0a45945">
+                        <enum>(B)</enum>
+ <text>conducted in accordance with the provisions of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6a274271c99d435ab5ca5126ac3d32a7">
+                    <enum>(2)</enum>
+                    <header>Issuance of orders</header>
+ <text>After a hearing provided for in this section, and not later than 90 days after the Secretary has notified the parties that the case has been submitted for final decision, the Secretary shall render a decision in the matter (which shall include findings of fact upon which its decision is predicated), and shall issue and cause to be served upon each party to the proceeding an order or orders consistent with the provisions of this section.</text>
+                </paragraph>
+                <paragraph id="idf3e932ccbf85462b8022a6558c3ea7bc">
+                    <enum>(3)</enum>
+                    <header>Authority to modify orders</header>
+ <text>The Secretary may modify, terminate, or set aside any order issued under this section—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id271fbfeed09f40ae9ee4658c9b278aeb">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">at any time, upon such notice, and in such manner as the Secretary deems proper, unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (4)(B), and thereafter until the record in the proceeding has been filed in accordance with paragraph (4)(C); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1d55901d0a26410da61e4252d94d40c4">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">upon such filing of the record, with permission of the court.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idab9f48eff853409c9737d07036499cd6">
+                    <enum>(4)</enum>
+                    <header>Judicial review</header>
+                    <subparagraph id="id917799c5800a465eba302163c2f82bee">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Judicial review of an order issued under this section shall be exclusively as provided in this paragraph.</text>
+                    </subparagraph>
+                    <subparagraph id="id70e556b393134fdeb16f2461bd3221cf">
+                        <enum>(B)</enum>
+                        <header>Petition for review</header>
+ <text>Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d)), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Secretary be modified, terminated, or set aside.</text>
+                    </subparagraph>
+                    <subparagraph id="idd7d7d2fa2f25466a85d3faf85aebf8f4">
+                        <enum>(C)</enum>
+                        <header>Notification to Department</header>
+ <text>A copy of a petition filed under subparagraph (B) shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the court the record in the proceeding, as provided in section 2112 of title 28, United States Code.</text>
+                    </subparagraph>
+                    <subparagraph id="idc8db6b1da5f24207a6c61fad60bafa3d">
+                        <enum>(D)</enum>
+                        <header>Court jurisdiction</header>
+ <text>Upon the filing of a petition under subparagraph (A)—</text> <clause commented="no" display-inline="no-display-inline" id="idf4bd3615af65470489d94370a121cdec"> <enum>(i)</enum> <text display-inline="yes-display-inline">the court shall have jurisdiction, which, upon the filing of the record under subparagraph (C), shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Secretary;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idb55294a5c1d84774a0991b6635b1617f">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">review of such proceedings shall be had as provided in <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/7">chapter 7</external-xref> of title 5, United States Code; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id87cb5867ec8c4d9eb3607e9295a668f6">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">the judgment and decree of the court shall be final, except that the judgment and decree shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, United States Code.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id37259c3f3bff45139ff630e2a71152d5">
+                        <enum>(E)</enum>
+                        <header>Judicial review not a stay</header>
+ <text>The commencement of proceedings for judicial review under this paragraph shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Secretary under this section.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idaf02eece08ed40a8bbd46f708c0427cd">
+            <enum>18.</enum>
+            <header>Unlawful acts and omissions by officers, directors, employees, or agents; breach
+                of fiduciary duty</header>
+            <subsection id="id08b09d155e3c49efac01844b6e42230e">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Wherever a licensee violates any provision of this Act or regulation issued thereunder by reason of the failure of the licensee to comply with the terms thereof or by reason of the licensee engaging in any act or practice which constitutes or will constitute a violation thereof, such violation shall be deemed to be also a violation and an unlawful act on the part of any person who, directly or indirectly, authorizes, orders, participates in, or causes, brings about, counsels, aids, or abets in the commission of any acts, practices, or transactions which constitute or will constitute, in whole or in part, such violation.</text>
+            </subsection>
+            <subsection id="id639314266c624a55b29b31da41221e23">
+                <enum>(b)</enum>
+                <header>Unlawful acts</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id24be4e8e24914a50b2e4bbf4d97aa572">
+                    <enum>(1)</enum>
+                    <header>Prohibition</header>
+ <text display-inline="yes-display-inline">It shall be unlawful for any officer, director, employee, agent, or other participant in the management or conduct of the affairs of a licensee to engage in any act or practice, or to omit any act, in breach of his fiduciary duty as such officer, director, employee, agent, or participant, if, as a result thereof, the licensee has suffered or is in imminent danger of suffering financial loss or other damage.</text>
+                </paragraph>
+                <paragraph id="ida04b2650d37b45129ede614967f393c9">
+                    <enum>(2)</enum>
+                    <header>Specific acts and omissions</header>
+ <text>Except with the written consent of the Secretary, it shall be unlawful—</text>
+                    <subparagraph id="id29b4e4358532406cade87b6693e8ab36">
+                        <enum>(A)</enum>
+ <text>for any person hereafter to take office as an officer, director, or employee of a licensee, or to become an agent or participant in the conduct of the affairs or management of a licensee, if—</text>
+                        <clause id="id53087dc02d374826b49f8ce96bd563b2">
+                            <enum>(i)</enum>
+ <text>the person has been convicted of a felony, or any other criminal offense involving dishonesty or breach of trust; or</text>
+                        </clause>
+                        <clause id="id9069e3ab59d24868a57ee2cf939daa61">
+                            <enum>(ii)</enum>
+ <text>the person has been found civilly liable in damages, or has been permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust; or</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idef09ac1a898c4bf48683b1ecda41b545">
+                        <enum>(B)</enum>
+ <text>for any person to continue to serve in any of the above described capacities, if—</text>
+                        <clause id="id43c8ed0f42604d4eb7f370af9bf49a27">
+                            <enum>(i)</enum>
+ <text>the person is hereafter convicted of a felony, or any other criminal offense involving dishonesty or breach of trust; or</text>
+                        </clause>
+                        <clause id="id772ded38fde04c01858efc626b218d43">
+                            <enum>(ii)</enum>
+ <text>the person is hereafter found civilly liable in damages or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id0d3a093dcbb340f1a0abc26a91f66793">
+            <enum>19.</enum>
+            <header>Penalties and forfeitures</header>
+            <subsection id="id537d50c5a30c42f4a8bfae061f72b16b">
+                <enum>(a)</enum>
+                <header>Penalties</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id9dde704c11f940f182bf8edb8c351b2b">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subsection (b), a licensee that violates any regulation or written directive issued by the Secretary issued under this Act, requiring the filing of any regular or special report pursuant to section 12, shall forfeit and pay to the United States a civil penalty of not more than $100 for each day of the continuance of the failure by the licensee to file such report, unless it is shown that such failure is due to reasonable cause and not due to willful neglect.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="iddd455066e2604248b7646f6269746773">
+                    <enum>(2)</enum>
+                    <header>Accrual</header>
+ <text display-inline="yes-display-inline">Any civil penalty under paragraph (1) shall accrue to the United States and may be recovered in a civil action brought by the Secretary.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id38a8c48e49d3454bb239045fd7962676">
+                <enum>(b)</enum>
+                <header>Enforcement</header>
+ <text display-inline="yes-display-inline">The Secretary may—</text> <paragraph commented="no" display-inline="no-display-inline" id="idd33c4c0f8112477f9798e6ab54d1d893"> <enum>(1)</enum> <text display-inline="yes-display-inline">by rules and regulations, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing, exempt in whole or in part, any licensee from the provisions of subsection (a) of this section, upon such terms and conditions and for such period of time as the Secretary deems necessary and appropriate, if the Secretary funds that such action is not inconsistent with the public interest or the protection of the Department; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6d8447f9c0fd4e2687ca2d18f130b021">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">for the purposes of this section make any alternative requirements appropriate to the situation.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id30ede9b5a96f4aa3b095a8a500e88798">
+            <enum>20.</enum>
+            <header>Jurisdiction and service of process</header>
+ <text display-inline="no-display-inline">Any suit or action brought under section 13, 15, 17, 19, or 23 by the Department at law or in equity to enforce any liability or duty created by, or to enjoin any violation of this Act, or any rule, regulation, or order promulgated thereunder, shall be brought in the district wherein the licensee maintains its principal office, and process in such cases may be served in any district in which the defendant maintains its principal office or transacts business, or wherever the defendant may be found.</text>
+        </section>
+        <section id="idfd61fc1873d446158de50a5f7390d365">
+            <enum>21.</enum>
+            <header>Issuance and guarantee of trust certificates</header>
+            <subsection id="id091f455c7f9b4d05ae49de17a148b3d5">
+                <enum>(a)</enum>
+                <header>Authority To issue trust certificates</header>
+ <text>The Secretary may issue trust certificates representing ownership of all or a fractional part of debentures issued by licensees and guaranteed by the Department under this Act, provided that the trust certificates shall be based on and backed by a trust or pool approved by the Secretary and composed solely of guaranteed debentures.</text>
+            </subsection>
+            <subsection id="id5e7688e99cbb447aa74b1fcc559c2a6a">
+                <enum>(b)</enum>
+                <header>Guarantee authority</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide0ec5bbc1aae4cf8a4230be772366d57">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary may, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Department or its agent for purposes of this section.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id33d9c16b73e04abb9a0f622381bdb8ac">
+                    <enum>(2)</enum>
+                    <header>Limitation</header>
+ <text display-inline="yes-display-inline">Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures which compose the trust or pool.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id74b897691969483d99959b57dbebe568">
+                    <enum>(3)</enum>
+                    <header>Reduction of guarantee</header>
+ <text display-inline="yes-display-inline">In the event that a debenture in such trust or pool is prepaid, either voluntarily or involuntarily, or in the event of default of a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture and priority payments represent in the trust or pool.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4929e729cceb45d19325858a952dee55">
+                    <enum>(4)</enum>
+                    <header>Interest</header>
+ <text display-inline="yes-display-inline">Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Department only through the date of payment on the guarantee.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id770f15746f9143e3a58c4dbf64ec2467">
+                    <enum>(5)</enum>
+                    <header>Redemption</header>
+ <text display-inline="yes-display-inline">During the term of the trust certificate, it may be called for redemption due to prepayment or default of all debentures.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idaa758a34c2f54b70add1952efbd8d0db">
+                <enum>(c)</enum>
+                <header>Full faith and credit</header>
+ <text>The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee of such trust certificates issued by the Secretary pursuant to this section.</text>
+            </subsection>
+            <subsection id="id55fcbc9889ae457abacc18918f406a11">
+                <enum>(d)</enum>
+                <header>Fees</header>
+ <text>The Secretary may not collect a fee for any guarantee under this section, provided that nothing herein shall preclude any agent of the Department from collecting a fee approved by the Department for the functions described in subsection (f)(2).</text>
+            </subsection>
+            <subsection id="id87de7788415b4099b006a050562fa289">
+                <enum>(e)</enum>
+                <header>Rights of the Department</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide939736408b24d9d9ad06f67f5e69559">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Subrogation</header>
+ <text>In the event the Secretary pays a claim under a guarantee issued under this section, it shall be subrogated fully to the rights satisfied by such payment.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0332e69729644054961d22a029782764">
+                    <enum>(2)</enum>
+                    <header>Ownership rights</header>
+ <text display-inline="yes-display-inline">No State or local law, and no Federal law, shall preclude or limit the exercise by the Secretary of the ownership rights of the Secretary in the debentures residing in a trust or pool against which trust certificates are issued.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idef2d8157f32d48849fc2512901a10a1f">
+                <enum>(f)</enum>
+                <header>Responsibilities</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd44a1008f477417faffe4a21f192a614">
+                    <enum>(1)</enum>
+                    <header>Registration</header>
+ <text>The Secretary shall provide for a central registration of all trust certificates sold pursuant to this section.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id000b3ef111194027beef5369f2c0d39f">
+                    <enum>(2)</enum>
+                    <header>Contracts</header>
+ <text display-inline="yes-display-inline">The Secretary shall contract with an agent or agents to carry out, on behalf of the Department, the pooling and the central registration functions of this section including, notwithstanding any other provision of law, maintenance on behalf of and under the direction of the Department, such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate trusts or pools backed by guaranteed under this Act, and the issuance of trust certificates to facilitate such poolings. Such agent or agents shall provide a fidelity bond or insurance in such amounts as the Secretary determines to be necessary to fully protect the interests of the Government.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5874aad0a5ae45c69b4bc4be8ee170f4">
+                    <enum>(3)</enum>
+                    <header>Disclosures</header>
+ <text display-inline="yes-display-inline">Before any sale of a trust certificate, the Secretary shall require the seller to disclose to a purchaser of a trust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idde134be521ef431a9032e177dd66a30d">
+                    <enum>(4)</enum>
+                    <header>Regulation of brokers and dealers</header>
+ <text display-inline="yes-display-inline">The Secretary is authorized to regulate brokers and dealers in trust certificates sold pursuant to this section.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idff143ee6e407496d98e5804519936ccc">
+                    <enum>(5)</enum>
+                    <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">Nothing in this subsection shall prohibit the use of a bookentry or other electronic form of registration for trust certificates.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="ida52173ea12e34dc0a247b03bde532597">
+            <enum>22.</enum>
+            <header>Periodic issuance of guarantees and trust certificates</header>
+ <text display-inline="no-display-inline">The Secretary shall issue guarantees under section 7 and trust certificates under section 21 at periodic intervals of not less than every 12 months and shall do so at such shorter intervals as the Secretary deems appropriate, taking into consideration the amount and number of such guarantees or trust certificates.</text>
+        </section>
+        <section id="ida75407ffd2e4465ab5dc0f4f179de0f0">
+            <enum>23.</enum>
+            <header>Miscellaneous</header>
+            <subsection id="id9c0b19bd0d454e48a479ddcb03c415bd">
+                <enum>(a)</enum>
+                <header>Cooperation with banks, investors, and lenders</header>
+ <text>Whenever practicable, the operations of an ownership investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, and any servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this Act may be handled through such banks or other investors or lenders on a fee basis. Any ownership investment company may receive fees for services rendered to such banks and other investors and lenders.</text>
+            </subsection>
+            <subsection id="idff6fea3c72d84e4c9d41ce66081f809f">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+ <text>The Secretary is authorized to prescribe regulations governing the operations of ownership investment companies, and to carry out the provisions of this Act, in accordance with the purposes of this Act.</text>
+            </subsection>
+            <subsection id="id51e0ce9e8ef844e8b1ddf176aa5a0539">
+                <enum>(c)</enum>
+                <header>Dissolution or forfeiture of rights</header>
+ <text>Should any ownership investment company violate or fail to comply with any of the provisions of this Act or of regulations prescribed hereunder, all of the rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such ownership investment company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this Act shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the ownership investment company is located. Any such suit shall be brought by the United States at the instance of the Secretary or the Attorney General.</text>
+            </subsection>
+            <subsection id="id27443c2801c44cc98c33a7eca7b11926" commented="no" display-inline="no-display-inline">
+                <enum>(d)</enum>
+                <header>Liability</header>
+ <text>Except as expressly provided otherwise in this Act, nothing in this Act or in any other provision of law shall be deemed to impose any liability on the United States with respect to any obligations entered into, or stocks issued, or commitments made, by any company operating under the provisions of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

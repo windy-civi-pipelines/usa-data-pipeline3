@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-SIL25683-W1K-R2-R9R">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2046 IS: No China in Index Funds Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2046</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250612">June 12, 2025</action-date>
+            <action-desc><sponsor name-id="S423">Mr. Ricketts</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit index funds from investing in Chinese companies, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HE4DA9E15A75246AE81B35EBDDFB4BBE2">
+        <section section-type="section-one" id="H52B1158652E746C8961270766B025EA7">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No China in Index Funds Act</short-title></quote>.</text>
+        </section>
+        <section id="id9a14a4aa770449449e28abbf371c07ad">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" id="H2AB95EEE0BC44194A6E2854A46260821"> <enum>(1)</enum> <header>Amount of the transaction</header> <text>The term <term>amount of the transaction</term> means—</text>
+                <subparagraph commented="no" id="H29EE5E34B75744B7AF21FA0E7841B477">
+                    <enum>(A)</enum>
+ <text>with respect to a purchase that violates this Act, the purchase price; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="HEBA982FDE1F94019B235030B82B1F1A4">
+                    <enum>(B)</enum>
+ <text>with respect to the holding of an investment that violates this Act, the fair market value of the investment at the time of the violation.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H72E7275034EF49F590BFF02C1FFF8F61">
+                <enum>(2)</enum>
+                <header>Chinese company</header>
+ <text display-inline="yes-display-inline">The term <term>Chinese company</term> means a company—</text>
+                <subparagraph id="H4FDD7DEEA1B94C279077D0EC6768B936">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">incorporated or otherwise organized in the People's Republic of China;</text>
+                </subparagraph>
+                <subparagraph id="HAD4D7D4476C046979AB8B6A36F088D97">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">that has a majority of its assets or employees located in the People's Republic of China;</text>
+                </subparagraph>
+                <subparagraph id="H45A4BE4788D742E8AF34C1A96B2E608B">
+                    <enum>(C)</enum>
+ <text>owned by, controlled by, or subject to the jurisdiction or direction of the government of the People’s Republic of China;</text>
+                </subparagraph>
+                <subparagraph id="H00DC1FB8F7884BAD866A74645A02DED7">
+                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">where a majority of the value of the company depends on the revenues, profits, market capitalization, assets, or the value of a security (including options to purchase or sell) of a company described in subparagraph (A), (B), or (C), as determined by the Securities and Exchange Commission; or</text>
+                </subparagraph>
+                <subparagraph id="H96F7D0436F734A1FABA930AC6659EE38">
+                    <enum>(E)</enum>
+ <text>where a company described under subparagraph (A), (B), or (C) has control, as defined in section 230.405 of title 17, Code of Federal Regulations, of the company, as determined by the Securities and Exchange Commission.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HB7D8F45C1C4C450EB2E6963D9EC7CFF2">
+                <enum>(3)</enum>
+                <header>Hedge fund</header>
+ <text display-inline="yes-display-inline">The term <term>hedge fund</term> means an issuer that would be an investment company but for paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-3">15 U.S.C. 80a–3(c)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="HE1AC17BC9D2A465E94FF44791AA72F0D">
+                <enum>(4)</enum>
+                <header>Index fund</header>
+ <text display-inline="yes-display-inline">The term <term>index fund</term> means an investment company or hedge fund that is designed to track an index of securities or a portion of such an index.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H3885C82A5D864EDEB146BB741E0853CD">
+                <enum>(5)</enum>
+                <header>Investment company</header>
+ <text display-inline="yes-display-inline">The term <term>investment company</term> has the meaning given the term in section 3 of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-3">15 U.S.C. 80a–3</external-xref>).</text>
+            </paragraph>
+        </section>
+        <section id="H2F0E5D8B6AC44A5B814612881E68A080">
+            <enum>3.</enum>
+            <header>Prohibition</header>
+            <subsection id="H397B61DE9F6B457F8C635AF98174E469">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">An index fund may not invest in a Chinese company.</text>
+            </subsection>
+            <subsection commented="no" id="HAD5ECA458E3F40968736280D0520ABEB">
+                <enum>(b)</enum>
+                <header>Divestment period safe harbor</header>
+ <text>With respect to an index fund with an investment in a Chinese company on the date of enactment of this Act, subsection (a) shall not apply to such investment during the 180-day period beginning on the date of enactment of this Act.</text>
+            </subsection>
+            <subsection commented="no" id="HC4601847F0EA4D2D9A7D8E6401B9D680">
+                <enum>(c)</enum>
+                <header>Civil penalty</header>
+ <text display-inline="yes-display-inline">Any person who violates this section shall be subject to a civil penalty in an amount not to exceed the greater of—</text>
+                <paragraph commented="no" id="H11B050055BCC4C659393C9354026989E">
+                    <enum>(1)</enum>
+ <text>$250,000; or</text> </paragraph> <paragraph commented="no" id="H352DABA0554A4B578392446C10115EED"> <enum>(2)</enum> <text>an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H8BD7EC9BBC074912B374C947F3F83D80">
+                <enum>(d)</enum>
+                <header>Rulemaking</header>
+ <text display-inline="yes-display-inline">The Securities and Exchange Commission may issue such rules as may be necessary to carry out this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
