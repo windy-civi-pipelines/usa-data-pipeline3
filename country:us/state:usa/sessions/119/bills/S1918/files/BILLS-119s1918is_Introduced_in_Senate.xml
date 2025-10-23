@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25537-L7M-WC-9HK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1918 IS: Access Technology Affordability Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1918</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250522">May 22, 2025</action-date>
+            <action-desc><sponsor name-id="S343">Mr. Boozman</sponsor> (for himself and <cosponsor name-id="S409">Mr. Luján</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to allow a refundable tax credit
+            against income tax for the purchase of qualified access technology for the
+            blind.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H7CD710027BE54E5E8662DC452146E454">
+        <section section-type="section-one" id="HF76C2EC280604FFBB259C1497CECC24D">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Access Technology Affordability Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HCDDF2464D5BD49B995FD9141ABE30E79">
+            <enum>2.</enum>
+            <header>Credit for qualified access technology for the blind</header>
+            <subsection id="HE67A089A9F4B408F8896EAF0EE3293CD">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after section 36B the following new section:</text>
+                <quoted-block style="OLC" id="H4BE73FE6A8F641FCBF84B1BED0CD5D2B">
+                    <section id="HFADCE0A5BA7748809E2DCDF881F73B19">
+                        <enum>36C.</enum>
+                        <header>Credit for qualified access technology for the blind</header>
+                        <subsection id="HF11524104CE04D6585200A679CB845BB">
+                            <enum>(a)</enum>
+                            <header>Allowance of credit</header>
+ <text display-inline="yes-display-inline">There shall be allowed as a credit against the tax imposed by this subtitle an amount equal to amounts paid or incurred during the taxable year, not compensated for by insurance or otherwise, by the taxpayer for qualified access technology for use by a qualified blind individual who is the taxpayer, the taxpayer’s spouse, or any dependent (as defined in section 152) of the taxpayer.</text>
+                        </subsection>
+                        <subsection id="H9A239CD0070949C49D1612A3AC8AB445">
+                            <enum>(b)</enum>
+                            <header>Limitation</header>
+ <text>The aggregate amount of the credit allowed under subsection (a) with respect to any qualified blind individual shall not exceed $2,000 in any 3-consecutive-taxable-year period.</text>
+                        </subsection>
+                        <subsection id="H62C7F97C1B5E465FAA45449C298C276C">
+                            <enum>(c)</enum>
+                            <header>Definitions</header>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                            <paragraph id="HE50527F097924CE9BAFACDCD7C6F9CC5">
+                                <enum>(1)</enum>
+                                <header>Qualified blind individual</header>
+ <text display-inline="yes-display-inline">The term <term>qualified blind individual</term> means an individual who is blind within the meaning of section 63(f)(4).</text>
+                            </paragraph>
+                            <paragraph id="HEA48518923144A5CBF8A527D2E09ED32">
+                                <enum>(2)</enum>
+                                <header>Qualified access technology defined</header>
+ <text>The term <term>qualified access technology</term> means hardware, software, or other information technology the primary function of which is to convert or adapt information which is visually represented into forms or formats useable by blind individuals.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H246826E5628F4F45AA775DA376018582">
+                            <enum>(d)</enum>
+                            <header>Denial of double benefit</header>
+ <text>No credit shall be allowed under subsection (a) for any expense for which a deduction or credit is allowed under any other provision of this chapter.</text>
+                        </subsection>
+                        <subsection id="H378195F3231445629D7AE6F13102A8BA">
+                            <enum>(e)</enum>
+                            <header>Inflation adjustment</header>
+                            <paragraph id="HB8F8E87D4FCB4A48811959DB6685B52A">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>In the case of a taxable year beginning after 2026, the $2,000 amount in subsection (b) shall be increased by an amount equal to—</text>
+                                <subparagraph id="H37F70C74030B4EBCBEC2AB2A48937CD6">
+                                    <enum>(A)</enum>
+ <text>such dollar amount, multiplied by</text> </subparagraph> <subparagraph id="HA03A0031B50448218B6F40FF3747C93A"> <enum>(B)</enum> <text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting <quote>calendar year 2025</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H1A45BB3128914F8D9ABE2113A6F39495">
+                                <enum>(2)</enum>
+                                <header>Rounding</header>
+ <text display-inline="yes-display-inline">If the amount as adjusted under subparagraph (A) is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HA5F42CED5BF04F7D843BDD450D6C6862">
+                            <enum>(f)</enum>
+                            <header>Termination</header>
+ <text display-inline="yes-display-inline">This section shall not apply with respect to amounts paid or incurred in taxable years beginning after December 31, 2030.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HB769661FAA22453E8E3057596A38AB88">
+                <enum>(b)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H1FFCBCF7334F448C814A60955185C4BF">
+                    <enum>(1)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6211">Section 6211(b)(4)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>, 36C</quote> after <quote>36B</quote>.</text>
+                </paragraph>
+                <paragraph id="H982C66EC500140A0B8BD910058109193">
+                    <enum>(2)</enum>
+ <text>Section 1324(b)(2) of title 31, United States Code, is amended by inserting <quote>, 36C</quote> after <quote>, 36B</quote>.</text>
+                </paragraph>
+                <paragraph id="H192628092FB14FBDAB8BC4FC17F51FD8">
+                    <enum>(3)</enum>
+ <text>The table of sections for subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following new item:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H75CAD7D89D6F4AC685D4C6E212C41167">
+                        <toc container-level="quoted-block-container" idref="H7CD710027BE54E5E8662DC452146E454" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+                            <toc-entry idref="H7CD710027BE54E5E8662DC452146E454" level="section">Sec. 36C. Credit for qualified access technology for the
+                                blind.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HD4B7D76837F14ADCA16B89C7B86C8F26">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

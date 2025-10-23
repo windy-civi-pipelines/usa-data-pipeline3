@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H397CFC70EAB44560A8612F91A2CB91D3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5269 IH: Reforming and Enhancing Sustainable Updates to Laboratory Testing Services Act of 2025</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-09-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5269</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250910">September 10, 2025</action-date><action-desc><sponsor name-id="H001067">Mr. Hudson</sponsor> (for himself, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>, <cosponsor name-id="J000302">Mr. Joyce of Pennsylvania</cosponsor>, <cosponsor name-id="C001133">Mr. Ciscomani</cosponsor>, <cosponsor name-id="D000230">Mr. Davis of North Carolina</cosponsor>, <cosponsor name-id="D000629">Ms. Davids of Kansas</cosponsor>, <cosponsor name-id="R000305">Ms. Ross</cosponsor>, <cosponsor name-id="B001306">Mr. Balderson</cosponsor>, and <cosponsor name-id="S001185">Ms. Sewell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to provide long-term stability for Medicare beneficiary access to clinical diagnostic laboratory tests by improving the accuracy of, and feasibility of data collection for, the private payor-based fee schedule payment rates applied under the Medicare program for such tests, and for other purposes.</official-title></form><legis-body id="HED7680A0F912485B9BFC1B0351940DDD" style="OLC"> 
+<section id="HD3AEC1E71B2D4B9CAE8194D84AE2F424" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reforming and Enhancing Sustainable Updates to Laboratory Testing Services Act of 2025</short-title></quote> or the <quote><short-title>RESULTS Act</short-title></quote>.</text></section> <section id="H076A85284774420F9CCECF00D69FD5BF"><enum>2.</enum><header>Improving the accuracy and data collection feasibility of the private payor-based Medicare payment rates for clinical diagnostic laboratory tests</header> <subsection id="HE04B4BA8214143D3BF0B7CD593812DA9"> <enum>(a)</enum> <header>Acquiring data for widely available non-Advanced diagnostic laboratory tests from a qualifying comprehensive claims database of an independent national nonprofit entity</header> <text>Section 1834A(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(a)</external-xref>) is amended—</text>
+        <paragraph commented="no" display-inline="no-display-inline"
+          id="H6A0691661CFC403FAD0DC162D3C98CF8">
+          <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in paragraph (1)—</text> <subparagraph id="HA3E159FE808F4000B0FB44D484CEDACA"> <enum>(A)</enum> <text>in subparagraph (A)—</text>
+            <clause id="H9FEFE053997F46798B2A89879969475B">
+              <enum>(i)</enum>
+ <text>by striking <quote><header-in-text style="OLC" level="subparagraph" >requirements</header-in-text>.—Subject to subparagraph (B)</quote> and inserting</text>
+              <quoted-block id="H74D74C2C361B428F894FC1466FC483EE"
+                display-inline="yes-display-inline">
+ <text><header-in-text level="subparagraph" style="OLC" >requirements</header-in-text>.—</text>
+                <clause commented="no" display-inline="no-display-inline"
+                  id="HAC72B95D2BFC4B4B91493971245B89B9">
+                  <enum>(i)</enum>
+                  <header>In general</header>
+ <text>Subject to subparagraph (B) and except as provided for in clause (ii)</text> </clause> <after-quoted-block>;</after-quoted-block> </quoted-block> </clause> <clause id="HB39887D69D1C4860B5E0CDEBF060A520"> <enum>(ii)</enum> <text>in clause (i), as added by clause (i) of this subparagraph—</text>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="H9B709054B2DF406BAF80236F205955C5">
+                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>paragraph (2)</quote> and inserting <quote>paragraph (2)(A)</quote>;</text>
+              </subclause>
+              <subclause id="HCADE2D484E224C8FA519C9801F2B820C">
+                <enum>(II)</enum>
+ <text>by inserting <quote>, in accordance with the provisions of this section,</quote> before <quote>report to the Secretary</quote>;</text>
+              </subclause>
+              <subclause id="HE150B2F9ADF64882BA37BC4C28D5131D">
+                <enum>(III)</enum>
+ <text>by striking <quote>applicable information (as defined in paragraph (3)) for a data collection period (as defined in paragraph (4))</quote> and inserting</text>
+                <quoted-block style="OLC" display-inline="yes-display-inline"
+                  id="H77CD749A20DE4662B915AE6DF9CD8B91">
+ <text>applicable information (as defined in paragraph (3))—</text> <subclause id="H4B007B558D8E45029342B2C0FA5866F0"> <enum>(I)</enum> <text>for a data collection period (as defined in paragraph (4)) beginning before January 1, 2027,</text>
+                  </subclause>
+                  <after-quoted-block>;</after-quoted-block>
+                </quoted-block>
+              </subclause>
+              <subclause id="H409C64A606A64E4FB57886D3241CA1A9">
+                <enum>(IV)</enum>
+ <text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+              </subclause>
+              <subclause id="H81B456E0E83D42FC873F063367837365">
+                <enum>(V)</enum>
+ <text>by adding at the end the following new subclause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H7B9287FC66F14FDF854A6A61C1DE9A3E"> <subclause id="H096BFD40F2C240B685A65758D5FB6D2C" commented="no" display-inline="no-display-inline"> <enum>(II)</enum> <text display-inline="yes-display-inline">for a data collection period beginning on or after January 1, 2027, for each clinical diagnostic laboratory test for which final payment is made under this part to the laboratory during such period.</text>
+                  </subclause>
+                  <after-quoted-block>; and</after-quoted-block>
+                </quoted-block>
+              </subclause>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H49F2910EC49440B79BB53ACF3CA97C51">
+              <enum>(iii)</enum>
+ <text>by adding at the end the following new clause;</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H90E4A7EC68354092A0D51187E330B150"> <clause commented="no" display-inline="no-display-inline" id="H3257DFF358574B6BBA45015E059499FB"> <enum>(ii)</enum> <header>Collection and submission of data</header> <subclause commented="no" display-inline="no-display-inline" id="H80F70777550047888814EBD94D3251DD"> <enum>(I)</enum> <header>In general</header> <text display-inline="yes-display-inline">With respect to data collection periods for reporting periods beginning on or after January 1, 2028, and for purposes of this section, in the case of a widely available non-ADLT clinical diagnostic laboratory test (as defined in paragraph (2)(E)), the Secretary shall collect and use applicable information from a qualifying comprehensive claims database (as defined in paragraph (2)(C)) of a qualifying independent claims data entity (as defined in paragraph (2)(D)) with which the Secretary has in effect a contract under subclause (II) for each such test furnished during the respective data collection period and for which final payment is made under this part during the year in which such data collection period occurs.</text>
+                  </subclause>
+                  <subclause commented="no" display-inline="no-display-inline"
+                    id="H97C5156855FB4970911302E19BC5462E">
+                    <enum>(II)</enum>
+                    <header>Contract with qualifying independent claims data entity for access to
+                      applicable information</header>
+ <text display-inline="yes-display-inline">As soon as practicable after the date of enactment of this clause, the Secretary shall identify and enter into a contract with a qualifying independent claims data entity for the purpose of, with respect to widely available non-ADLT clinical diagnostic laboratory tests furnished during a data collection period, such entity reporting to the Secretary applicable information from a qualifying comprehensive claims database of the entity for such tests for which final payment is made under this part during the year in which such data collection period occurs and for which there is applicable information within such database for such period.</text>
+                  </subclause>
+                </clause>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+          <subparagraph id="HBCE8F653B0174EB5A2320786E737BEF5">
+            <enum>(B)</enum>
+ <text>in subparagraph (B)—</text> <clause id="H4F829CA5787540079756A245B45FBBED"> <enum>(i)</enum> <text>in clause (i), by striking <quote>2025</quote> and inserting <quote>2027</quote>;</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="HE06B22F17FBF474E8E698A2D22E9F0FC">
+              <enum>(ii)</enum>
+ <text>in clause (ii), by striking <quote>beginning January 1, 2026, and ending March 31, 2026</quote> and inserting <quote>beginning January 1, 2028, and ending March 31, 2028</quote>; and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H7E29AD3EC024437383A5C8A7D4B90BFB">
+              <enum>(iii)</enum>
+ <text>in clause (iii), by striking <quote>three years</quote> and inserting <quote>4 years</quote>;</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HF98749FF3A2E420BAF3A2811250972A2">
+          <enum>(2)</enum>
+ <text>in paragraph (2)—</text> <subparagraph id="HC75143C321254CF0930F76967E591D06" commented="no"> <enum>(A)</enum> <text>by striking <quote><header-in-text style="OLC" level="paragraph">Definition of applicable laboratory</header-in-text>.—In this section, the term <term>applicable laboratory</term> means</quote> and inserting <quote><header-in-text style="OLC" level="paragraph">Definitions</header-in-text>.—In this section:</quote></text>
+            <quoted-block style="OLC" display-inline="no-display-inline"
+              id="H9C97B079C31D4FAE8FDEBC2293DC3A72">
+              <subparagraph id="HF6D0234A70A244E2AC48D88D76E910E6" commented="no">
+                <enum>(A)</enum>
+                <header>Applicable laboratory</header>
+                <clause id="H13600D2F2D8047339A6A19A99B8DCCBF" commented="no">
+                  <enum>(i)</enum>
+                  <header>Reporting periods before 2028</header>
+ <text>With respect to reporting periods beginning before January 1, 2028, the term <term>applicable laboratory</term> means</text>
+                </clause>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+          <subparagraph id="H5493A6C8589140398C2DBBDF8C9952A7">
+            <enum>(B)</enum>
+ <text>in subparagraph (A), as inserted by subparagraph (A) of this paragraph—</text> <clause commented="no" display-inline="no-display-inline" id="H9F8330C913FF444CAB90CAE96DEFB5C4"> <enum>(i)</enum> <text display-inline="yes-display-inline">in clause (i), in the second sentence, by striking <quote>paragraph</quote> and inserting <quote>clause</quote>; and</text>
+            </clause>
+            <clause id="HDE1A7F605B594FD294F48647533D8063">
+              <enum>(ii)</enum>
+ <text>by adding at the end the following new clause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HF223A8E88EB64B1DB05B096475FB70B6"> <clause id="H690CFA1474C546C3B155139296E984E7"> <enum>(ii)</enum> <header>Reporting periods beginning during 2028 and subsequent years</header> <text>With respect to reporting periods beginning on or after January 1, 2028, the term <term>applicable laboratory</term> shall have the meaning given such term in section 414.502 of title 42, Code of Federal Regulations, as in effect on May 1, 2025, except without application of paragraph (3) of such section.</text>
+                </clause>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+          <subparagraph id="HC77D75D48C034A4B94DCCA878621206B">
+            <enum>(C)</enum>
+ <text>by adding at the end the following new subparagraphs:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HCDA7063AD10D48D19611AAAD5C4098A6"> <subparagraph id="HAE106351D8264BA9BB5EC35716905D6E"> <enum>(B)</enum> <header>Non-widely available non-ADLT clinical diagnostic laboratory test</header> <text>The term <term>non-widely available non-ADLT clinical diagnostic laboratory test</term> means, with respect to a reporting period, a clinical diagnostic laboratory test that is not an advanced diagnostic laboratory test and that is not described in subparagraph (E).</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H5FD3C473B93C497EA85F8B0A9C7A7708">
+                <enum>(C)</enum>
+                <header>Qualifying independent claims data entity</header>
+ <text>The term <term>qualifying independent claims data entity</term> means an entity that satisfies each of the following criteria:</text>
+                <clause id="HB740C2CE6DDD4A1380388653B3D97823">
+                  <enum>(i)</enum>
+ <text>The entity is a national nonprofit organization that is not affiliated with any Government agency, insurance issuer, group health plan, provider of services or supplier, or other organization in the health care sector.</text>
+                </clause>
+                <clause id="H5699C3DC38CE456B8B6708CAB9FE86C1">
+                  <enum>(ii)</enum>
+ <text>The entity collects data and maintains a qualifying comprehensive claims database (as defined in subparagraph (D)).</text>
+                </clause>
+                <clause id="HDEDDFD860BFC45248E87CB9C086CADBB">
+                  <enum>(iii)</enum>
+ <text>The entity is certified by the Secretary to be a qualified entity (as defined in paragraph (2) of section 1874(e)) with respect to having access to data described in paragraph (3) of such section.</text>
+                </clause>
+                <clause id="H6DF75666D484425C8C8263EF86839316">
+                  <enum>(iv)</enum>
+ <text>The entity, with respect to all data included in the qualifying comprehensive claims database of the entity, complies with all applicable Federal and State privacy and security requirements, including HIPAA privacy and security law (as defined in section 3009 of the Public Health Service Act).</text>
+                </clause>
+                <clause id="H6CDA73C340F74BB696AC3977EF8BE949">
+                  <enum>(v)</enum>
+ <text>The entity applies quality assurance processes to validate all data that is included in the qualifying comprehensive claims database of the entity, including comprehensive statistical testing.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H7859EBD1FF5F4712931BB21A6825D517">
+                <enum>(D)</enum>
+                <header>Qualifying comprehensive claims database</header>
+ <text>The term <term>qualifying comprehensive claims database</term> means an independent database of private payor claims data, which—</text>
+                <clause id="HAD32B660810448D8B6B21211DEAC37A1">
+                  <enum>(i)</enum>
+ <text>includes at least 50,000,000,000 claims from more than 50 private payors and claims administrators;</text>
+                </clause>
+                <clause id="H282CFDA782F246F2AACE594BF38D6CCE">
+                  <enum>(ii)</enum>
+ <text>is a statistically significant repository of claims data that is representative for all 50 States and the District of Columbia;</text>
+                </clause>
+                <clause id="H0D9FE175826744D0ABEA629F533BC29E">
+                  <enum>(iii)</enum>
+ <text>includes only data that is validated by quality assurance processes, including comprehensive statistical testing;</text>
+                </clause>
+                <clause id="HAFAEA7A7F20C4E3B8ED89E6E0107AD5F">
+                  <enum>(iv)</enum>
+ <text>complies with all applicable Federal and State privacy and security requirements, as described in subparagraph (C)(iv);</text>
+                </clause>
+                <clause id="HDB950DC8FAB645AFB4B7375DBC5C2582">
+                  <enum>(v)</enum>
+ <text>provides for version control of claims to enable the collation and submission, for purposes of this section, of only claims representative of final payment amounts; and</text>
+                </clause>
+                <clause id="HF0E212B4C6F6463594E9DE0B0DA89E64">
+                  <enum>(vi)</enum>
+ <text>includes claims data with respect to widely available non-ADLT clinical diagnostic laboratory tests.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HA786223DF10B40179DC334442459940B">
+                <enum>(E)</enum>
+                <header>Widely available non-ADLT clinical diagnostic laboratory test</header>
+ <text>The term <quote>widely available non-ADLT clinical diagnostic laboratory test</quote> means, with respect to a reporting period, a clinical diagnostic laboratory test that is not an advanced diagnostic laboratory test and for which, during the first 6 months of the year immediately preceding the data collection period for such reporting period, the number of providers of services and suppliers receiving payments under this section (as determined by the Secretary using the national provider identifier of the provider of services or supplier on the claim submitted for payment under this part for such test) exceeds 100.</text>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HA06187667CEB41548D8B0E0F30BF6AB5">
+          <enum>(3)</enum>
+ <text>in paragraph (5)—</text> <subparagraph id="HEEF2DDC8AB734565AEBE799134484074"> <enum>(A)</enum> <text>by inserting <quote>final</quote> after <quote>The</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="HC45D37D2CA48474A818759E31BDE5F92">
+            <enum>(B)</enum>
+ <text>by inserting <quote>or from a qualifying comprehensive claims database pursuant to paragraph (1)(A)(ii)</quote> after <quote>reported by a laboratory under this subsection</quote>;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H2C34D1B2A5254D2D92A0BA61275DF591">
+          <enum>(4)</enum>
+ <text>in paragraph (6)—</text> <subparagraph id="H6051E284D9F14191B59507676B1E4753"> <enum>(A)</enum> <text>by inserting <quote>(or, with respect to a widely available non-ADLT clinical diagnostic laboratory test, the qualifying comprehensive claims database of the qualifying independent claims data entity with a contract under paragraph (1)(A)(ii))</quote> after <quote>In the case where an applicable laboratory</quote>;</text>
+          </subparagraph>
+          <subparagraph id="H57E85B21923D4805ADAE3F2F9303D9E7">
+            <enum>(B)</enum>
+ <text>by striking <quote>payment rate</quote> each place it appears and inserting <quote>final payment rate</quote>;</text>
+          </subparagraph>
+          <subparagraph id="HED08F8C45CF1441CA9EABB8DE80B86C5">
+            <enum>(C)</enum>
+ <text>by inserting <quote>(and such different payment rates do not relate to the same claim)</quote> after <quote>for the same payor for the same test</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="H47DAB353FBB9442F869C6F0197AB6E3E">
+            <enum>(D)</enum>
+ <text>by inserting <quote>or qualifying independent claims data entity, as applicable,</quote> after <quote>the applicable laboratory</quote>;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H40A6815F2B9D4238B161C34E71039E47">
+          <enum>(5)</enum>
+ <text>in paragraph (9)(A), by inserting <quote>required to be reported by such laboratory</quote> after <quote>in reporting information</quote>;</text>
+        </paragraph>
+        <paragraph id="H3D9D7C89F2B14C25B68047E029E44917">
+          <enum>(6)</enum>
+ <text>in paragraph (10)—</text> <subparagraph id="HD593F7BAE3924A3D82BE726266CE48DB"> <enum>(A)</enum> <text>by striking <quote>by a laboratory</quote> after <quote>information disclosed</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="H3F702FC8477F459DB15F5BBDC7E1EC27">
+            <enum>(B)</enum>
+ <text>by inserting <quote>by a laboratory or the qualifying independent claims data entity with a contract under paragraph (1)(A)(ii)</quote> after <quote>under this subsection</quote>; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H5FE573AD667C4579929287E74E8E0F5A">
+          <enum>(7)</enum>
+ <text>in paragraph (12)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H6ECED9C1295F4CDEB26153354D3D659A"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking <quote><header-in-text style="OLC" level="paragraph">Regulations</header-in-text>.—Not later than June 30, 2015,</quote> and inserting</text>
+            <quoted-block id="H4CC90DEAB1AA4F1699279558A76530C3" display-inline="yes-display-inline">
+ <text><header-in-text style="OLC" level="paragraph" >Regulations</header-in-text>.—</text>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H04A0DC5ABC7A4F2391B0F8B015D19BAC">
+                <enum>(A)</enum>
+                <header>For data collection periods before 2027</header>
+ <text>Not later than June 30, 2015, for data collection periods beginning before January 1, 2027,</text>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+          <subparagraph id="H1A717F6E6FB04A319EB25E0FB3194E38">
+            <enum>(B)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HA07B86ADD9324E30B167CAC45CDC8789"> <subparagraph id="HB2ED60D8630E44229BE98E9992818B9D"> <enum>(B)</enum> <header>For data collection periods beginning with 2027</header> <text>Not later than December 31, 2026, the Secretary shall establish through notice and comment rulemaking parameters for data collection periods beginning on or after January 1, 2027.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+      </subsection> 
+<subsection id="H3DBFDD29F7F548AF8AA0C0A008F6CBD5">
+        <enum>(b)</enum>
+        <header>Incorporating data collection improvements into private payor-Based Medicare payment
+          rates for clinical diagnostic laboratory tests that are not advanced diagnostic laboratory
+          tests</header>
+        <paragraph id="HED96C76196144EBDA3C9098B76AFE3DD">
+          <enum>(1)</enum>
+          <header>Calculation of weighted median of private payor-based rates</header>
+ <text>Section 1834A(b)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(b)(2)</external-xref>) is amended—</text>
+          <subparagraph id="HDA7911CA88CE4B2397C4AD88712AE01D">
+            <enum>(A)</enum>
+ <text>by inserting <quote>and, in the case of widely available non-ADLT clinical diagnostic laboratory tests, with respect to data collection periods for reporting periods beginning on or after January 1, 2028, for each such test furnished by an applicable laboratory with respect to which there is applicable information made available to the Secretary pursuant to paragraph (1)(A)(ii)) of such subsection</quote> after <quote>under subsection (a) for a data collection period</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="H95125A4D72714FBD9C4E74261735DEDC">
+            <enum>(B)</enum>
+ <text>by inserting <quote>final</quote> before <quote>payment rates reported</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H224EC8EC92B2438494BD5CD4990431D2">
+          <enum>(2)</enum>
+          <header>Default adjustment in cases of widely available non-ADLT clinical diagnostic
+            laboratory tests for periods for which there is no contract with a qualifying
+            independent claims entity or no applicable information in the qualifying comprehensive
+            claims database</header>
+ <text>Section 1834A(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(b)</external-xref>) is amended—</text>
+          <subparagraph id="HF9B1BF31CA404773A7CBD65F6196DC44">
+            <enum>(A)</enum>
+ <text>in paragraph (1)(A), by striking <quote>paragraph (3)</quote> and inserting <quote>paragraphs (3) and (6)</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="HC3801CB1E2734347AB7C2078A8A0E59D">
+            <enum>(B)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H9215EE0AFFD949A1A60769A19C9EFD91"> <paragraph id="H195F1ABE98B642C98DC488553500A5F8"> <enum>(6)</enum> <header>Default payment for widely available non-ADLT clinical diagnostic laboratory tests for periods for which there is no contract with an independent entity or with respect to which there is no data</header> <subparagraph id="HA3016C1915EE48E6AFDE065C2615E3E4"> <enum>(A)</enum> <header>In general</header> <text>With respect to data collection periods for reporting periods beginning on or after January 1, 2028, in the case of a widely available non-ADLT clinical diagnostic laboratory test with respect to which subsection (c) does not apply, if a circumstance described in subparagraph (B) applies with respect to such a reporting period and such a clinical diagnostic laboratory test, payment for such test under this section for a year beginning during the qualified rate period described in subparagraph (C), shall be equal to the amount of payment for such clinical diagnostic laboratory test under this section for the previous year, increased by the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over the previous year.</text>
+                </subparagraph>
+                <subparagraph id="HCAD5CDD7C9154D5E8DF341F17549486B" commented="no">
+                  <enum>(B)</enum>
+                  <header>Circumstances described</header>
+ <text>For purposes of subparagraph (A), with respect to a data collection period and a widely available non-ADLT clinical diagnostic laboratory test, the circumstances described in this subparagraph are if the Secretary—</text>
+                  <clause id="H79BF62BEF6C142339FE0C97A0D36626B" commented="no">
+                    <enum>(i)</enum>
+ <text>is not able to enter into a contract under subsection (a)(1)(A)(ii) with a qualifying independent claims data entity with respect to such data collection period; or</text>
+                  </clause>
+                  <clause id="HE8D9E66CBC5D49DFAC1824D1C783479B" commented="no">
+                    <enum>(ii)</enum>
+ <text>determines that there is no applicable information with respect to such clinical diagnostic laboratory test and data collection period in the qualifying comprehensive claims database of such qualifying independent claims data entity.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H521E99FEBF81471981313E8E8C631260">
+                  <enum>(C)</enum>
+                  <header>Qualified rate period described</header>
+ <text>For purposes of subparagraph (A), the qualified rate period, with respect to a data collection period and a widely available non-ADLT clinical diagnostic test to which a circumstance described in subparagraph (B) applies, is the period—</text>
+                  <clause id="H537EF57181F8472E94E3A71CFA9E06A5">
+                    <enum>(i)</enum>
+ <text>beginning on the first day of the second year following the first data collection period with respect to which such circumstance applies with respect to such test; and</text>
+                  </clause>
+                  <clause id="H3949D933327B4D318638EBDACD65BF93">
+                    <enum>(ii)</enum>
+ <text>ending with the last day of the year following the first data collection period with respect to which such circumstance no longer applies with respect to such test.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HD6BE2161030F4BE190882352F98376C7">
+          <enum>(3)</enum>
+          <header>Payment in cases in which there is no reported applicable information for
+            non-widely available non-ADLTs</header>
+ <text>Section 1834A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1</external-xref>), is amended—</text> <subparagraph id="HE3983BCB56474C36896B458733A5747D"> <enum>(A)</enum> <text>in subsection (b), as amended by paragraph (2)—</text>
+            <clause id="H8D3B3ED3DCCA499A89DF46F82896039E">
+              <enum>(i)</enum>
+ <text>in paragraph (1)(A), by striking <quote>paragraphs (3) and (6)</quote> and inserting <quote>paragraphs (3), (6), and (7)</quote>; and</text>
+            </clause>
+            <clause id="H7AF52AAED2EA4903B565A5AE72CE8E06">
+              <enum>(ii)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HD48AFDD906F644D3AB7A43F994CCF9C1"> <paragraph id="H1A2C846BD3A74150A21BDCFB42E0E62C"> <enum>(7)</enum> <header>Payment for non-widely available non-ADLT clinical diagnostic laboratory tests for which there is no applicable information</header> <subparagraph id="H4B01BE36FD67438BA22794037B7F45F7"> <enum>(A)</enum> <header>In general</header> <text>For determining payment under this subsection for a year in the case of a non-widely available non-ADLT clinical diagnostic laboratory test with respect to which subsection (c) does not apply, if the Secretary determines that no applicable information has been reported under subsection (a)(1)(A)(i) by any applicable laboratory for such test with respect to the most recent data collection period (beginning with data collection periods for reporting periods beginning on or after January 1, 2028), payment for such test under this section for such year shall be determined as follows:</text>
+                    <clause id="HCB86354B806942F2B4E7D4104558199F">
+                      <enum>(i)</enum>
+ <text>In the case that a process described in subparagraph (B) was not applied pursuant to this subparagraph for determining payment for such test for a previous year with respect to such data collection period, payment for such test and year shall be determined using such a process.</text>
+                    </clause>
+                    <clause id="H02D09BEB164F4C1EB23AFD10641EA9C5">
+                      <enum>(ii)</enum>
+ <text>In the case that a process described in subparagraph (B) was applied pursuant to this subparagraph for determining payment for such test for a previous year with respect to such data collection period, payment for such test and year shall be equal to the amount of payment for such test under this section for the previous year.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph id="H6C5734C2626D43D68DE54C6E493350FD">
+                    <enum>(B)</enum>
+                    <header>Process described</header>
+ <text>For purposes of subparagraph (A), a process described in this subparagraph, with respect to a non-widely available non-ADLT clinical diagnostic laboratory test for which there is no reported data (as described in such subparagraph) with respect to a data collection period, is—</text>
+                    <clause id="H9C870F0172D24CCFBC8CD76C2492FD81">
+                      <enum>(i)</enum>
+ <text>cross-walking (as described in section 414.508(a) of title 42, Code of Federal Regulations, or any successor regulation) to the most appropriate clinical diagnostic laboratory test under the fee schedule under this section during that period; or</text>
+                    </clause>
+                    <clause id="H1DE189CE86E94BC8BF7D2F1C0111415D">
+                      <enum>(ii)</enum>
+ <text>if no other clinical diagnostic laboratory test is comparable to the test for which there is no reported applicable information, according to the gapfilling process described in subsection (c)(2).</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H5C0CEAED7510455EA191E84C252BC4C2">
+            <enum>(B)</enum>
+ <text>in subsection (c)(3), by inserting <quote>or subsection (b)(7)</quote> after <quote>under this subsection</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H6964618AD08A4507BF63D9557123F2DE">
+          <enum>(4)</enum>
+          <header>Publicly available explanation of payment rates</header>
+ <text>Section 1834A(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(b)</external-xref>), as amended by paragraphs (2) and (3)(A), is amended by adding at the end the following new paragraph:</text>
+          <quoted-block style="OLC" display-inline="no-display-inline"
+            id="H543FB49E1D2648F09E6DE8285F69D6B6">
+            <paragraph id="H93B44679E97E4DAF96D65A3A0986E85F">
+              <enum>(8)</enum>
+              <header>Explanation of payment rates</header>
+ <text>In the case of a clinical diagnostic laboratory test for which payment is made under this subsection, the Secretary shall make available to the public an explanation of the payment rate for such test, including any supporting data as may be necessary for a laboratory to assess the accuracy of the calculations.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="HA71010C9933F470EB1976B0F83CA25F4">
+          <enum>(5)</enum>
+          <header>Technical correction clarifying period of application of market rates</header>
+ <text>Section 1834A(b)(4)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(b)(4)(A)</external-xref>) is amended by striking <quote>until the year following</quote> and inserting <quote>through the year following</quote>.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="HF7CF65EBCDDE4FD6B94922A56BBBA58C">
+        <enum>(c)</enum>
+        <header>Additional improvements To ensure updated, accurate market-Based data for clinical
+          diagnostic laboratory tests</header>
+        <paragraph id="HC05DE69193514499AE842B1DED2EC1DD">
+          <enum>(1)</enum>
+          <header>Updates to applicable information to better reflect final payment rates</header>
+ <text>Section 1834A(a)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(a)(3)</external-xref>) is amended—</text>
+          <subparagraph id="H9C8EA9263C304DFA88904EC5D73856BC">
+            <enum>(A)</enum>
+ <text>in the heading, by inserting <quote><header-in-text style="OLC" level="paragraph" >and final payment rate</header-in-text></quote> after <quote><header-in-text style="OLC" level="paragraph">information</header-in-text></quote>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline"
+            id="H24D3E7E5F7ED4AC6BD62C1D365F9C2B3">
+            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (A)—</text> <clause id="H546820D42A0F49689A5B73B98CDE61F0"> <enum>(i)</enum> <text>in the heading, by striking <quote><header-in-text style="OLC" level="subparagraph">In general</header-in-text></quote> and inserting <quote><header-in-text style="OLC" level="subparagraph">Data collection periods before January 1, 2027</header-in-text></quote>; and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H7D5FF0D12FBE43C581FA4D890DBBAC26">
+              <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding clause (i)—</text> <subclause commented="no" display-inline="no-display-inline" id="HDAC93D8EB2604EB1AB2CF47F10D6A33C"> <enum>(I)</enum> <text display-inline="yes-display-inline">by striking <quote>subparagraph (B)</quote> and inserting <quote>subparagraph (C)</quote>; and</text>
+              </subclause>
+              <subclause id="HD2330CECA8784D1B85591FB967D6C547">
+                <enum>(II)</enum>
+ <text>by inserting <quote>beginning before January 1, 2027</quote> after <quote>for a data collection period</quote>;</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H5A302BAF02F2481C8F84BBB818AA06FB">
+            <enum>(C)</enum>
+ <text>by redesignating subparagraph (B) as subparagraph (C);</text> </subparagraph> <subparagraph id="H437C30D99D0B4F43A14A2743911C2819"> <enum>(D)</enum> <text>by inserting after subparagraph (A) the following new subparagraph:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline"
+              id="H24787B968621465FAFFCBCD125EFA822">
+              <subparagraph id="HE6F4709AC85D47A29F1B106574C7A4E0">
+                <enum>(B)</enum>
+                <header>Subsequent data collection periods</header>
+ <text>In this section, subject to subparagraph (C), for a data collection period beginning on or after January 1, 2027, the term <term>applicable information</term> means—</text>
+                <clause id="HBE5064D78CC7476DBD4AC4427DC37278">
+                  <enum>(i)</enum>
+ <text>with respect to a widely available non-ADLT clinical diagnostic laboratory test furnished during such period—</text>
+                  <subclause id="H03FA693786504A4C90361239D2681676">
+                    <enum>(I)</enum>
+ <text>the final payment rate (as determined in accordance with paragraph (5) and defined in subparagraph (D)) that was paid by each private payor for the test during the year in which such period occurs; and</text>
+                  </subclause>
+                  <subclause id="H69476B77218B4FB7B79D7E392369D673">
+                    <enum>(II)</enum>
+ <text>the volume, for each such payor, of such test for which final payment was made during such year; and</text>
+                  </subclause>
+                </clause>
+                <clause id="HA609CBC945E64CD9B240B97097F7ACB5">
+                  <enum>(ii)</enum>
+ <text>with respect to a non-widely available non-ADLT clinical diagnostic laboratory test or an advanced diagnostic laboratory test—</text>
+                  <subclause id="HF0FEB566EB4D469AA38B68AAD493162A">
+                    <enum>(I)</enum>
+ <text>the final payment rate (as determined in accordance with paragraph (5) and defined in subparagraph (D)) that was paid by each private payor for the test during the data collection period; and</text>
+                  </subclause>
+                  <subclause id="HC1425710C3C1419D966113945FA69CEB">
+                    <enum>(II)</enum>
+ <text>the volume, for each such payor, of such test for which final payment was made during such period.</text>
+                  </subclause>
+                </clause>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline"
+            id="H5EE17CB28FBF4BCFA83043A0FC640E39">
+            <enum>(E)</enum>
+ <text>by inserting after subparagraph (C), the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H8914AF37AD9947109FE85A58D3DE5A65"> <subparagraph commented="no" display-inline="no-display-inline" id="HD0C099F3DABB43A1BF994F88E2CF4E44"> <enum>(D)</enum> <header>Final payment rate</header> <text>In this section, for a data collection period beginning on or after January 1, 2027, the term <term>final payment rate</term>—</text>
+                <clause commented="no" display-inline="no-display-inline"
+                  id="HF137D7C8E21D4A4B98D95C9C57B34C03">
+                  <enum>(i)</enum>
+ <text display-inline="yes-display-inline">means—</text> <subclause commented="no" display-inline="no-display-inline" id="H8C34214C565440689B622D5DE6C3DF8A"> <enum>(I)</enum> <text display-inline="yes-display-inline">with respect to a widely available non-ADLT clinical diagnostic laboratory test furnished during a data collection period, the last payment made for a test during the year in which the data collection period occurs; and</text>
+                  </subclause>
+                  <subclause commented="no" display-inline="no-display-inline"
+                    id="H40B26877497D4F628FF27C66BB2968BC">
+                    <enum>(II)</enum>
+ <text>with respect to a non-widely available non-ADLT clinical diagnostic laboratory test or an advanced diagnostic laboratory test paid during a data collection period, the last payment made during the data collection period; and</text>
+                  </subclause>
+                </clause>
+                <clause commented="no" display-inline="no-display-inline"
+                  id="H7650F11AF64841EDB2AB7A4CB875297E">
+                  <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">does not include—</text> <subclause commented="no" display-inline="no-display-inline" id="H00E1218C3F45404E9339966C2E1E1F08"> <enum>(I)</enum> <text display-inline="yes-display-inline">denied payments;</text>
+                  </subclause>
+                  <subclause commented="no" display-inline="no-display-inline"
+                    id="H3253003AFC9E4B959C6F3FA3CD8E2489">
+                    <enum>(II)</enum>
+ <text>payments under appeal or under review by the private payor;</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="H6BB58182A66742BDB469E91A56DB4260"> <enum>(III)</enum> <text>payments made in error; or</text>
+                  </subclause>
+                  <subclause commented="no" display-inline="no-display-inline"
+                    id="H2B718E5A1C1A42A580EE32C6DA0231CA">
+                    <enum>(IV)</enum>
+ <text>payments that are recouped by the private payor.</text> </subclause> </clause> </subparagraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subparagraph> </paragraph> <paragraph id="HB80F12A86F124F42AC63B30F80F082B5"> <enum>(2)</enum> <header>Updating data collection periods</header> <text>Section 1834A(a)(4)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(a)(4)(B)</external-xref>) is amended—</text>
+          <subparagraph id="HCF89C96F5A3F48E596FAD5FDA3882DE2">
+            <enum>(A)</enum>
+ <text>by striking <quote>January 1, 2019</quote> and inserting <quote>January 1, 2027</quote>;</text>
+          </subparagraph>
+          <subparagraph id="H88AFF4AAEA064A84975BB88E3EAB3AC6">
+            <enum>(B)</enum>
+ <text>by striking <quote>June 30, 2019</quote> and inserting <quote>June 30, 2027</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="H033C23A4E0D94C9BB4ED3A8CF82AA52E">
+            <enum>(C)</enum>
+ <text>by adding at the end the following new sentence: <quote>In the case of the reporting period after the reporting period described in paragraph (1)(B)(ii) and each subsequent reporting period with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the term <term>data collection period</term> means the 6-month period beginning January 1st of the year preceding the year during which such reporting period begins.</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H2E03EC44DC344C4C8777E2FD9D96F675">
+          <enum>(3)</enum>
+          <header>Ensuring data is market-based by excluding rates of Medicaid managed care
+            organizations</header>
+ <text>Section 1834A(a)(8)(C) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(a)(8)(C)</external-xref>) is amended by striking <quote>A medicaid managed care organization</quote> and inserting <quote>With respect to data collection periods for reporting periods beginning before January 1, 2028, a medicaid managed care organization.</quote>.</text>
+        </paragraph>
+        <paragraph id="H959429DCD9824DC8B8DDBBD91FE334D7">
+          <enum>(4)</enum>
+          <header>Modifications to limits on payment reductions</header>
+ <text>Section 1834A(b)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(b)(3)</external-xref>) is amended—</text>
+          <subparagraph id="H8F34311AF979410CA145F5589CF80811">
+            <enum>(A)</enum>
+ <text>in subparagraph (A), by striking <quote>each of 2017 through 2028</quote> and inserting <quote>2017 and each subsequent year</quote>;</text>
+          </subparagraph>
+          <subparagraph id="H58D9C4D7034D4408A1DE2BC0B7286933">
+            <enum>(B)</enum>
+ <text>in subparagraph (B)—</text> <clause id="HCD25F37D7AAB4498B43F683C608EB13B"> <enum>(i)</enum> <text>in clause (ii), by striking <quote>2025</quote> and inserting <quote>2028</quote>; and</text>
+            </clause>
+            <clause id="HA6199E37A7ED4770970684C6C50DC619">
+              <enum>(ii)</enum>
+ <text>in clause (iii), by striking <quote>for each of 2026 through 2028, 15 percent</quote> and inserting <quote>for 2029 and each subsequent year, 5 percent</quote>; and</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H1C1CD4D0A1044C1A9CCBF554AD25813B">
+            <enum>(C)</enum>
+ <text>in subparagraph (C)(ii), by inserting <quote>laboratory</quote> after <quote>advanced diagnostic</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H79ECADCED9F5408FB993C4FA36F736FF">
+          <enum>(5)</enum>
+          <header>Sunsetting review limitations</header>
+ <text>Section 1834A(h)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m-1">42 U.S.C. 1395m–1(h)(1)</external-xref>) is amended by inserting <quote>before January 1, 2029</quote> before the period at the end.</text>
+        </paragraph>
+      </subsection></section> 
+</legis-body></bill>
+

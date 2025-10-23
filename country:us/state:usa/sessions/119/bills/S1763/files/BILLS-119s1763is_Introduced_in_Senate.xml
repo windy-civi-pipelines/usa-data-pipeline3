@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25504-DN1-RC-16F">
+    <form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1763</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250514">May 14, 2025</action-date>
+            <action-desc><sponsor name-id="S391">Mr. Young</sponsor> (for himself and <cosponsor name-id="S327">Mr. Warner</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to make permanent the 7-year
+            recovery period for motorsports entertainment complexes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H123902DBA5284EC8BC3E4927605A265F">
+        <section commented="no" display-inline="no-display-inline" section-type="section-one" id="H75467BA52AD746A491593F25B7E52C54">
+            <enum>1.</enum>
+            <header display-inline="yes-display-inline">Short title</header>
+            <text display-inline="no-display-inline">This Act may be cited as the
+                        <quote><short-title>Motorsports Fairness and Permanency Act of
+                        2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="HAFCA184BBE914073A87BE15358070EC9">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">7-year recovery period for motorsports
+                entertainment complexes made permanent</header>
+            <text display-inline="no-display-inline">Section 168(i)(15) of the Internal Revenue Code
+                of 1986 is amended by striking subparagraph (D).</text>
+        </section>
+    </legis-body>
+</bill>

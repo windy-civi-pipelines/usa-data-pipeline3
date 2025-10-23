@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25627-TFK-VM-9KL">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1597 IS: Paycheck Protection Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1597</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250505">May 5, 2025</action-date>
+            <action-desc><sponsor name-id="S435">Mr. Sheehy</sponsor> (for himself, <cosponsor name-id="S346">Mr. Lee</cosponsor>, and <cosponsor name-id="S412">Mr.
+                    Tuberville</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security
+                    and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 5, United States Code, to provide that agencies may not
+            deduct labor organization dues from the pay of Federal employees, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H3B92ECCB0F7C49779876BCADD5A4D251">
+        <section commented="no" section-type="section-one" id="H607A1D85673B461AABDE1E4698F03461">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Paycheck Protection Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HB11E9AEE01FD41DFA719C771B725AA4E">
+            <enum>2.</enum>
+            <header>Labor organization dues not deductible from pay</header>
+            <subsection id="H8522E3213DD247CA9B33462EDB4ACCD5">
+                <enum>(a)</enum>
+                <header>Federal agencies</header>
+                <paragraph id="HECF50CC965D0458E8F5977170A4FECC8">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 7115 of title 5, United States Code, is amended to read as follows:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="H8082A2CE093E45D0B228A1F261B01614">
+                        <section id="H3DFEDFECF5BB49F69EF9EF2B2822AA10">
+                            <enum>7115.</enum>
+                            <header>Labor organization dues not deductible from pay</header>
+ <text display-inline="no-display-inline">An agency may not deduct any amount from the pay of an employee for labor organization dues, fees, or political contributions.</text>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="HEBA8E05096FF40EDA2AD070BB3569D70">
+                    <enum>(2)</enum>
+                    <header>Clerical amendment</header>
+ <text>The table of sections for subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/71">chapter 71</external-xref> of title 5, United States Code, is amended by striking the item relating to section 7115 and inserting the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="H36C95F8A5F6248E8B83EC3D6C039F9A0">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">7115. Labor organization dues not deductible
+                                from pay.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H75A63B16BC9544B191D4F7FD062F9D6A">
+                <enum>(b)</enum>
+                <header>Postal Service</header>
+                <paragraph id="H489A1282C7F14C2CA79FC1CC7BA76829">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 1205 of title 39, United States Code, is amended to read as follows:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="HB46B758091AA4B56BB55C9AAB3421D02">
+                        <section id="H9851A246118C4F9EA169F5CF6597682D">
+                            <enum>1205.</enum>
+                            <header>Labor organization dues not deductible from pay</header>
+ <text display-inline="no-display-inline">The Postal Service may not deduct any amount from the pay of an employee for labor organization dues, fees, or political contributions. </text>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H99EF91847CEB424D8DB409D3BC07AFC4">
+                    <enum>(2)</enum>
+                    <header>Clerical amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/39/12">chapter 12</external-xref> of title 39, United States Code, is amended by striking the item relating to section 1205 and inserting the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="HFBB176FFE24849BA9BD3C37CD6B8BB7A">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">1205. Labor organization dues not deductible
+                                from pay.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

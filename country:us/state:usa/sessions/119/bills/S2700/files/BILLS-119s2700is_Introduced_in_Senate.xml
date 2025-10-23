@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BOM25589-2TY-8X-D97">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2700 IS: Debt, Earnings, and Cost Information Disclosure for Education Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2700</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250903">September 3, 2025</action-date>
+            <action-desc><sponsor name-id="S438">Mr. Husted</sponsor> (for himself and <cosponsor name-id="S412">Mr. Tuberville</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSHR00">Committee
+                    on Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve transparency and accountability for Federal student loan
+            borrowers.</official-title>
+    </form>
+    <legis-body>
+        <section id="id3bb1796dbe0349298a9e1d5f37bee1c4" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Debt, Earnings, and Cost Information Disclosure for Education Act</short-title></quote> or the <quote><short-title>DECIDE Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ided1e54143ebf49b5b1877092c476890d">
+            <enum>2.</enum>
+            <header>Improving transparency and accountability for student loan borrowers</header>
+            <subsection id="idc3626e71cf1f4636ad631a6fa764cf13">
+                <enum>(a)</enum>
+                <header>Program-Level data</header>
+ <text>The Secretary of Education shall expand and update annually the College Scorecard, or any successor, with the following program-level data for each certificate, degree, graduate, and professional program for which students are eligible to receive Federal student aid:</text>
+                <paragraph id="idfae0f26e982c4b6ba6596d90b0fb971c">
+                    <enum>(1)</enum>
+ <text>The median annual earnings of the programmatic cohort of students who received Federal funds (including Federal Pell Grants or student loans under title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1070">20 U.S.C. 1070 et seq.</external-xref>)) for enrollment in such program during the academic year that is 10 years before the year of the determination, regardless of completion status.</text>
+                </paragraph>
+                <paragraph id="id9ae8912540184c889af36fc65366b598">
+                    <enum>(2)</enum>
+ <text>The median amount of Federal Direct Stafford Loan debt, as determined by the Secretary of Education, that borrowers of such loans who completed the program had at the time they entered repayment on such Federal Direct Stafford Loans.</text>
+                </paragraph>
+                <paragraph id="id7af4f783e4e84064abc41c9efcb75ece">
+                    <enum>(3)</enum>
+ <text>In the case of a graduate or professional program, the median amount of Graduate Federal Direct PLUS loan debt, as determined by the Secretary of Education, that borrowers of such loans who completed the program had at the time they entered repayment on such Graduate PLUS loans.</text>
+                </paragraph>
+                <paragraph id="idcacdfc97a9ba4bc6b5bfd470c0b4885b">
+                    <enum>(4)</enum>
+ <text>The median amount of Parent Federal Direct PLUS loan debt, as determined by the Secretary of Education, for students who completed the program and on whose behalf a parent borrowed such Parent PLUS loans.</text>
+                </paragraph>
+                <paragraph id="id032370d5bce140deb36bafa09ec648ba">
+                    <enum>(5)</enum>
+ <text>The default rate of students who completed the program, as determined by the Secretary of Education.</text>
+                </paragraph>
+                <paragraph id="id5a22663b962d4a41a0e8b38f3e143700">
+                    <enum>(6)</enum>
+ <text>The repayment rate.</text> </paragraph> </subsection> <subsection id="id94e57a92cedc4a91b88d47a57f6d9271"> <enum>(b)</enum> <header>Institution-Level data</header> <text>The Secretary of Education shall expand and update annually the College Scorecard, or any successor, with the following institution-level data:</text>
+                <paragraph id="idcd2bb1d18d30448e9426d40ab30fc4fe">
+                    <enum>(1)</enum>
+ <text>The cohort default rate.</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idda78ebd2ab274a2ab24a798ce7f2458b"> <enum>(2)</enum> <text>The repayment rate.</text>
+                </paragraph>
+                <paragraph id="id0876f2f347374679af5fff7ff0251265">
+                    <enum>(3)</enum>
+ <text>The rate of default on Graduate Federal Direct PLUS loans, as determined by the Secretary of Education, and the repayment rate of such loans for students who received such loans for attendance at the institution.</text>
+                </paragraph>
+                <paragraph id="id468cbda9c566407da18c6272a6dcdefc">
+                    <enum>(4)</enum>
+ <text>The rate of default on Parent Federal Direct PLUS loans, as determined by the Secretary of Education, and the repayment rate of such loans for students on whose behalf a parent borrowed such loans for the student’s attendance at the institution.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idab8df75e21ae4d3eab19e67c6637fcfe">
+                <enum>(c)</enum>
+                <header>Definitions</header>
+ <text>In this Act:</text> <paragraph id="idbf97fc23acc24a78862b190428c007f9"> <enum>(1)</enum> <header>Cohort default rate</header> <text>The term <term>cohort default rate</term> has the meaning given the term in section 435(m) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1085">20 U.S.C. 1085(m)</external-xref>).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id770f64be77d14b1a816bb149bde8d413">
+                    <enum>(2)</enum>
+                    <header>Repayment rate</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id332b7045578f4dcb91c01044455c6075">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>repayment rate</term> means the share of borrowers that graduated with Federal student loans in repayment that belong to a status category described in subparagraph (B), 2 years after entering repayment.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7762165fb8d04cc0b5cedf24cc9b6dee">
+                        <enum>(B)</enum>
+                        <header>Status categories</header>
+ <text>The status categories shall be determined by the Secretary of Education and may include the categories: making progress, not making progress, deferment, paid in full, forbearance, defaulted, delinquent, and discharged.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbb488f7dc6a540c5af9efdb2afda3892">
+                        <enum>(C)</enum>
+                        <header>Exclusions</header>
+ <text>The repayment rate shall exclude private student loans and Federal loans originated at a different institution.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

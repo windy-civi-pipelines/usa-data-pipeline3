@@ -1,0 +1,879 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEN25914-M88-1G-L3F">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2522 IS: Cell-Site Simulator Warrant Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2522</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250729">July 29, 2025</action-date>
+            <action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself and <cosponsor name-id="S375">Mr. Daines</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSJU00">Committee on
+                    the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 18, United States Code, to regulate the use of cell-site
+            simulators, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HDC93063496FF4D9EB660AD02230A4910">
+        <section section-type="section-one" id="H8A57F5747BDB458C92E85055F80F1C9F">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cell-Site Simulator Warrant Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H8200EFC521EF4E6DA66CA2BBB1B9883B">
+            <enum>2.</enum>
+            <header>Prohibition on cell-site simulator use</header>
+            <subsection id="H27A48E338CDF4E7BBE5255B802B394E8">
+                <enum>(a)</enum>
+                <header>Prohibition</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/205">Chapter 205</external-xref> of title 18, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="H79432371B5B94E33BF04BD3117FA219C">
+                    <section id="H4DBCAC56B34946E6888E2A1B3B5D1354">
+                        <enum>3119.</enum>
+                        <header>Cell-site simulators</header>
+                        <subsection id="H876798161E7E4C9E864DE0D4172C2E9F">
+                            <enum>(a)</enum>
+                            <header>Prohibition of use</header>
+                            <paragraph id="H3FE0749F450740978A544BFA1B95284A">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subsection (d), it shall be unlawful— </text>
+                                <subparagraph id="H1628C41983B248CBBF83D7E19AE8E12C">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">for any individual or entity to knowingly use a cell-site simulator in the United States; or</text>
+                                </subparagraph>
+                                <subparagraph id="H2B226684247C4F5EBE2A001F1EA429FE">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">for an element of the intelligence community to use a cell-site simulator outside the United States if the subject of the surveillance is a United States person.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H2A7C06EC13CD4544B5BEB6D3FDDE570F">
+                                <enum>(2)</enum>
+                                <header>Rule of construction</header>
+ <text>Nothing in paragraph (1) shall be construed to authorize a law enforcement agency of a governmental entity to use a cell-site simulator outside the United States.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H85F6862759894F358568CAFB2A037026">
+                            <enum>(b)</enum>
+                            <header>Penalty</header>
+ <text display-inline="yes-display-inline">Any individual or entity that violates subsection (a)(1) shall be fined not more than $250,000.</text>
+                        </subsection>
+                        <subsection id="H6DA5F36BD2EB43A5856C4DDF0E782ED5">
+                            <enum>(c)</enum>
+                            <header>Prohibition of use as evidence</header>
+                            <paragraph id="HE56327E8AB5640288A6F622FCAD08D47">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (2), no information acquired through the use of a cell-site simulator in violation of subsection (a)(1), and no evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.</text>
+                            </paragraph>
+                            <paragraph id="H36C803552F914BB295D8C4CB1B2CF818">
+                                <enum>(2)</enum>
+                                <header>Exception for enforcement</header>
+ <text>Information acquired through the use of a cell-site simulator in violation of subsection (a)(1) by a person, and evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding described in paragraph (1) of this subsection relating to the alleged violation of subsection (a)(1) in connection with such use. </text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H3AE1309E73D84D51B67ADE1F3EF31ED3">
+                            <enum>(d)</enum>
+                            <header>Exceptions</header>
+                            <paragraph id="HFB7FD2869BD84D6FA7C6DDCBEF36DAF8">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+                                <subparagraph id="H28B7D3A642A344A0A34978444E67E52A">
+                                    <enum>(A)</enum>
+                                    <header>Warrant</header>
+                                    <clause id="H075136E16E3C4046AEA5B6CF24C68EAE">
+                                        <enum>(i)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity under a warrant issued— </text>
+                                        <subclause id="H90A8FFC9804147058658D76F6662F8FF">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">in accordance with this subparagraph; and</text>
+                                        </subclause>
+                                        <subclause id="H36B13BE36E594E35A69BAB35B7CECF45">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">using the procedures described in, and in accordance with the requirements for executing and returning a warrant under, the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant and execution and return procedures and, in the case of a court-martial or other proceeding under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/47">chapter 47</external-xref> of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title and in accordance with the requirements for executing and returning such a warrant, in accordance with regulations prescribed by the President) by a court of competent jurisdiction.</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H3227273CDADC408EBCAA6B5CA4575C95">
+                                        <enum>(ii)</enum>
+                                        <header>Requirements</header>
+ <text display-inline="yes-display-inline">A court may issue a warrant described in clause (i) (except, with respect to a State court, to the extent use of a cell-site simulator by a law enforcement agency of a governmental entity is prohibited by the law of the State) only if the law enforcement agency— </text>
+                                        <subclause id="H5BB3BB35ABD0438BA91FCB37A4FD5C04">
+                                            <enum>(I)</enum>
+ <text>demonstrates that other investigative procedures, including electronic location tracking methods that solely collect records of the investigative target— </text>
+                                            <item id="H2F44D659C5E143F7AB963604493FE98A">
+                                                <enum>(aa)</enum>
+ <text>have been tried and have failed; or </text> </item> <item id="HFA5A9C4C4FC14D5AA0E511CC33068794"> <enum>(bb)</enum> <text>reasonably appear to be— </text>
+                                                <subitem id="HB611B95F56E240918D89C1A3AAE7AD77">
+                                                  <enum>(AA)</enum>
+ <text>unlikely to succeed if tried; or </text> </subitem> <subitem id="H098B841F919D4C0BBA2A6A7358AE986D"> <enum>(BB)</enum> <text>too dangerous; </text>
+                                                </subitem>
+                                            </item>
+                                        </subclause>
+                                        <subclause id="H010ADC2BF4C24724AFED92729E21037C">
+                                            <enum>(II)</enum>
+ <text>specifies the likely area of effect of the cell-site simulator to be used and the time that the cell-site simulator will be in operation; </text>
+                                        </subclause>
+                                        <subclause id="HE6ED7F85671A481EB029268238CF16A7">
+                                            <enum>(III)</enum>
+ <text>certifies that the requested area of effect and time of operation are the narrowest reasonably possible to obtain the necessary information; and</text>
+                                        </subclause>
+                                        <subclause id="HFCF1900C6A3C4EBE9D98E22CC1BB8015">
+                                            <enum>(IV)</enum>
+ <text>demonstrates that the requested use of a cell-site simulator would be in compliance with applicable provisions of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/151">47 U.S.C. 151 et seq.</external-xref>) and the rules of the Federal Communications Commission. </text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H5CA2956418EA4285AF34A37A494CCF60">
+                                        <enum>(iii)</enum>
+                                        <header>Considerations</header>
+ <text>In considering an application for a warrant described in clause (i), the court shall—</text>
+                                        <subclause id="H8D1EB21BB70C4ED0AE72E28C6DE1F767">
+                                            <enum>(I)</enum>
+ <text>weigh the need of the government to enforce the law and apprehend criminals against the likelihood and impact of any potential negative side effects disclosed by the government under subparagraph (C); and</text>
+                                        </subclause>
+                                        <subclause id="H4B881B9178B24757AACE95FADA57C90E">
+                                            <enum>(II)</enum>
+ <text>not grant a request for a warrant that would put public safety at risk or unreasonably inconvenience the community. </text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H394357F8551A4B8A9E5408541E258AD6">
+                                        <enum>(iv)</enum>
+                                        <header>Period of initial authorization</header>
+ <text>No warrant described in clause (i) may authorize the use of a cell site simulator for any period longer than is necessary to achieve the objective of the authorization, nor in any event for longer than 30 days.</text>
+                                    </clause>
+                                    <clause id="H3E8302438EC044D9A098CABC2A1DDF0D">
+                                        <enum>(v)</enum>
+                                        <header>Extensions</header>
+                                        <subclause id="HB347F781C5F44181B1702CC7A507F82B">
+                                            <enum>(I)</enum>
+                                            <header>In general</header>
+ <text>A court may grant extensions of a warrant described in clause (i), but only upon application for an extension made in accordance with clause (i) and the court considering the factors described in clause (iii) and determining the requirements under clause (ii) are met.</text>
+                                        </subclause>
+                                        <subclause id="HE8517F61ECAC420184276A0B5AAE85F8">
+                                            <enum>(II)</enum>
+                                            <header>Period of extension</header>
+ <text>The period of an extension of a warrant shall be no longer than the authorizing judge determines necessary to achieve the purposes for which the extension was granted, nor in any event for longer than 30 days.</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H87FE11B642B049EC90602164D4688880">
+                                        <enum>(vi)</enum>
+                                        <header>Termination provision</header>
+ <text>Each warrant described in clause (i), and each extension thereof, shall contain a provision that the authorization to use the cell site simulator shall be executed as soon as practicable and shall terminate upon attainment of the authorized objective, or in any event in 30 days. </text>
+                                    </clause>
+                                    <clause id="H5306582FC2194FC4A7D8773F71208344">
+                                        <enum>(vii)</enum>
+                                        <header>Start of 30-day periods</header>
+ <text>The 30-day periods described in clauses (iv), (v)(II), and (vi) shall begin on the earlier of— </text>
+                                        <subclause id="H7D025D541BCE437C852E334A5CF27E21">
+                                            <enum>(I)</enum>
+ <text>the date on which a law enforcement agency first begins to use the cell site simulator as authorized by the warrant, or extension thereof; or </text>
+                                        </subclause>
+                                        <subclause id="H841EC3CF0D9E4258AF362D4B8262BAF6">
+                                            <enum>(II)</enum>
+ <text>the date that is 10 days after the warrant, or extension thereof, is issued. </text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H5B210AB71C274B8692B16E50C42FB238">
+                                    <enum>(B)</enum>
+                                    <header>Emergency</header>
+                                    <clause id="HB1893BDE03B640D4823B4AA55AB3A2A9">
+                                        <enum>(i)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Subject to clause (ii), subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity, or use of a cell-site simulator as part of assistance provided by a component of the Department of Defense or an Armed Force to such a law enforcement agency, if—</text>
+                                        <subclause id="H4345B151222148D794B21A0AB06D7F32">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the governmental entity reasonably determines an emergency exists that—</text>
+                                            <item id="HB5AC9271F2E944A4B7BEF7D3ACC17F31">
+                                                <enum>(aa)</enum>
+ <text>involves— </text> <subitem id="HCA013991C94F48E297C5A65B223319DA"> <enum>(AA)</enum> <text>immediate danger of death or serious physical injury to any person; </text>
+                                                </subitem>
+                                                <subitem id="HC7471C913BF44C97A5EF85CED768D5E7">
+                                                  <enum>(BB)</enum>
+ <text>conspiratorial activities characteristic of organized crime; or</text>
+                                                </subitem>
+                                                <subitem id="H0879F3C61C8846D38E4CE7945797A797">
+                                                  <enum>(CC)</enum>
+ <text>an immediate threat to a national security interest; and</text>
+                                                </subitem>
+                                            </item>
+                                            <item id="H4579A7BA05474775A8FCF89083ABAE35">
+                                                <enum>(bb)</enum>
+ <text>requires use of a cell-site simulator before a warrant described in subparagraph (A) can, with due diligence, be obtained; and</text>
+                                            </item>
+                                        </subclause>
+                                        <subclause id="H142C6E9EC5C0411296F36490FC53CD81">
+                                            <enum>(II)</enum>
+ <text>except in an instance in which the governmental entity is trying to locate a lost or missing person, locate someone believed to have been abducted or kidnapped, or find victims, dead or alive, in an area where a natural disaster, terrorist attack, or other mass casualty event has taken place— </text>
+                                            <item id="HF8D83A9D34354C58B2F9001B56C7C97A">
+                                                <enum>(aa)</enum>
+ <text>there are grounds upon which a warrant described in subparagraph (A) could be entered to authorize such use; and</text>
+                                            </item>
+                                            <item display-inline="no-display-inline" id="HE8A7EB1E90254859A3F9D4763E0DD334">
+                                                <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">the governmental entity applies for a warrant described in subparagraph (A) approving such use not later than 48 hours after such use begins, and takes such steps to expedite the consideration of such application as may be possible.</text>
+                                            </item>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H57E07F2809B140BFA26EF54913A544D5">
+                                        <enum>(ii)</enum>
+                                        <header>Termination of emergency use</header>
+                                        <subclause id="HC3EE6B24CA0F437EB837FC033A57325F">
+                                            <enum>(I)</enum>
+                                            <header>In general</header>
+ <text>A law enforcement agency of a governmental entity shall immediately terminate use of a cell-site simulator under clause (i) of this subparagraph at the earlier of the time the information sought is obtained or the time the application for a warrant described in subparagraph (A) is denied.</text>
+                                        </subclause>
+                                        <subclause id="HD899A6BBC33E47379E558451417BCB6F">
+                                            <enum>(II)</enum>
+                                            <header>Warrant denied</header>
+ <text display-inline="yes-display-inline">If an application for a warrant described in clause (i)(II)(bb) is denied— </text>
+                                            <item id="H4A2968D76A534E36A8E3763B698777EF">
+                                                <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">any information or evidence derived from use of the cell-site simulator shall be— </text>
+                                                <subitem id="HA58B2D56A36347C68E1D675B25B23E4A">
+                                                  <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">subject to subsection (c); and</text>
+                                                </subitem>
+                                                <subitem id="H2CDDE42B09EC4CF5B17FD285067AEECB">
+                                                  <enum>(BB)</enum>
+ <text>promptly destroyed by the applicable law enforcement agency; and</text>
+                                                </subitem>
+                                            </item>
+                                            <item id="HE11CA37FCFD9482FBA98152F7D7DFBB7">
+                                                <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">the applicable law enforcement agency shall serve an inventory on each person named in the application. </text>
+                                            </item>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HB0439961706C47B2A97E00DF3ABF7202">
+                                    <enum>(C)</enum>
+                                    <header>Disclosures required in application</header>
+ <text>In any application for a warrant authorizing the use of a cell-site simulator under subparagraph (A) or (B), the governmental entity shall include the following:</text>
+                                    <clause id="HE71F859C60D94871B83BF5ADE1D3DE00">
+                                        <enum>(i)</enum>
+ <text>A disclosure of any potential disruption of the ability of the subject of the surveillance or bystanders to use commercial mobile radio services or private mobile services, including using advanced communications services, to make or receive, as applicable— </text>
+                                        <subclause id="HF0EA63FD98C640118E6248C0A85B5074">
+                                            <enum>(I)</enum>
+ <text>emergency calls (including 9–1–1 calls); </text> </subclause> <subclause id="HD2A01D6748A24B76ACD2E5036820D643"> <enum>(II)</enum> <text>calls to the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system designated under paragraph (4) of section 251(e) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/251">47 U.S.C. 251(e)</external-xref>); </text>
+                                        </subclause>
+                                        <subclause id="H9A07B4F9FFF9429AA0643927F2FEF6EB">
+                                            <enum>(III)</enum>
+ <text>calls to the nationwide toll-free number for the poison control centers established under section 1271 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300d-71">42 U.S.C. 300d–71</external-xref>); </text>
+                                        </subclause>
+                                        <subclause id="H880136C8B530400A84ED44B50E208DBD">
+                                            <enum>(IV)</enum>
+ <text>calls using telecommunications relay services; or</text>
+                                        </subclause>
+                                        <subclause id="HCBD82E4D717741A5987CAA61EDCA8116">
+                                            <enum>(V)</enum>
+ <text>any other communications or transmissions.</text> </subclause> </clause> <clause id="H4B5DE6397D1945AE89F3B5FD64E5A415"> <enum>(ii)</enum> <text>A certification that the specific model of the cell-site simulator to be used has been inspected by a third party that is an accredited testing laboratory recognized by the Federal Communications Commission to verify the accuracy of the disclosure under clause (i). </text>
+                                    </clause>
+                                    <clause id="H1696DA02A4AB4758A8284625C924FC46">
+                                        <enum>(iii)</enum>
+ <text>A disclosure of the methods and precautions that will be used to minimize disruption, including— </text>
+                                        <subclause id="H2FBF0F60984B408AB29F549227CA09A9">
+                                            <enum>(I)</enum>
+ <text>any limit on the length of time the cell-site simulator can be in continuous operation; and </text>
+                                        </subclause>
+                                        <subclause id="H6461EE82AEC74C0DB161BCCFE8B6E3E0">
+                                            <enum>(II)</enum>
+ <text>any user-defined limit on the transmission range of the cell-site simulator. </text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="HC36B17642B414AACB1E87B6DC408AECB">
+                                        <enum>(iv)</enum>
+ <text>A disclosure as to whether the cell-site simulator will primarily be used at a gathering where constitutionally protected activity, including speech, will occur. </text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HDF53AEB35C384D50943CE75F89C7758A">
+                                    <enum>(D)</enum>
+                                    <header>Notice</header>
+                                    <clause id="HB4B143B84F81492798E87AE0E8267975">
+                                        <enum>(i)</enum>
+                                        <header>In general</header>
+ <text>Within a reasonable time, but, subject to clause (ii), not later than 90 days after the filing of an application for a warrant authorizing the use of a cell-site simulator which is denied or the termination of the period of such a warrant, or extensions thereof, the issuing or denying judge shall cause to be served on the persons named in the warrant or the application, and, as the judge may determine, in the discretion of the judge, is in the interest of justice, other persons about whose devices the government obtained information with the cell site simulator, an inventory which shall include notice of—</text>
+                                        <subclause id="HB785FD4103CE4544ADC975F9E14C9C4F">
+                                            <enum>(I)</enum>
+ <text>the fact of the entry of the warrant or the application;</text>
+                                        </subclause>
+                                        <subclause id="H5EE6B58923F943FE8491C42F93E09335">
+                                            <enum>(II)</enum>
+ <text>the date of the entry and the period of authorized, approved or disapproved use of a cell-site simulator, or the denial of the application; and</text>
+                                        </subclause>
+                                        <subclause id="H3DF29F736FCF42429BC5FD1D6BFE85BC">
+                                            <enum>(III)</enum>
+ <text>whether, during the period— </text> <item id="H515D70EF6A6B40A299C87170932E4F11"> <enum>(aa)</enum> <text>information about their device was, or was not, obtained by the government; </text>
+                                            </item>
+                                            <item id="HED3998AE71374AC992056E766F66092D">
+                                                <enum>(bb)</enum>
+ <text>their location was, or was not, tracked; and </text>
+                                            </item>
+                                            <item id="H643127CD574141A6BC6CF2FE7399BA8F">
+                                                <enum>(cc)</enum>
+ <text>their communications were, or were not, intercepted. </text>
+                                            </item>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="H9F602AF422864EDA8EB3AB188391942A">
+                                        <enum>(ii)</enum>
+                                        <header>Delay of notice</header>
+ <text>On an ex parte showing of good cause to a court of competent jurisdiction, the serving of the inventory required under clause (i) may be postponed.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HA975E64C76EA4B888F69B56B80E58FF4">
+                                <enum>(2)</enum>
+                                <header>Foreign intelligence surveillance</header>
+ <text display-inline="yes-display-inline">Use of a cell-site simulator by an element of the intelligence community shall not be subject to subsection (a)(1) if it is conducted in a manner that is in accordance with— </text>
+                                <subparagraph id="H41FC2ED46F6B4294B0AE0DBDAEA632BE">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">title I of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>) (including testing or training authorized under paragraph (1) or (3) of section 105(g) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/50/1805">50 U.S.C. 1805(g)</external-xref>) (including such testing or training conducted in conjunction with a component of the Department of Defense or an Armed Force), if any information obtained during such testing or training (including metadata) is destroyed after its use for such testing or training); or </text>
+                                </subparagraph>
+                                <subparagraph id="HE78BE01EEDCC472095D02DF18EB9F591">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">section 704(c)(1)(E) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/50/1881c">50 U.S.C. 1881c(c)(1)(E)</external-xref>). </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HF7112D0FE9BF46A3837125A967D2E4CD">
+                                <enum>(3)</enum>
+                                <header>Research</header>
+ <text>Subsection (a)(1) shall not apply to the use of a cell-site simulator in order to engage, in good-faith, in research or teaching by a person that is not— </text>
+                                <subparagraph id="H746A3602F93E48DE80A216DE41DDC6D3">
+                                    <enum>(A)</enum>
+ <text>a law enforcement agency of a governmental entity; </text> </subparagraph> <subparagraph id="HA4BCB34CBE5A4C749ED1D25ED521E2DD"> <enum>(B)</enum> <text>an element of the intelligence community; or </text>
+                                </subparagraph>
+                                <subparagraph id="HFD42DB5BF49C41AF89018FB221CF7A61">
+                                    <enum>(C)</enum>
+ <text>acting as an agent thereof.</text> </subparagraph> </paragraph> <paragraph commented="no" id="HD78E4CA43F664354A21C45D5A5D58041"> <enum>(4)</enum> <header>Protective services</header> <subparagraph commented="no" id="HFB558856C8BC4F62875F8A934CF9AC60"> <enum>(A)</enum> <header>In general</header> <text>Subsection (a)(1) shall not apply to the use of a cell-site simulator in the performance of protective duties pursuant to section 3056 of this title, or as otherwise authorized by law.</text>
+                                </subparagraph>
+                                <subparagraph id="H703A4A95C9584D33AE15B94F4BA86F42">
+                                    <enum>(B)</enum>
+                                    <header>Prohibition on use as evidence</header>
+ <text display-inline="yes-display-inline">No information acquired through the use of a cell-site simulator under the authority under subparagraph (A), and no evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.</text>
+                                </subparagraph>
+                                <subparagraph id="HE1883840643340FB9C539BE6EF5ECF5A">
+                                    <enum>(C)</enum>
+                                    <header>No bar to other authorized use</header>
+ <text display-inline="yes-display-inline">Nothing in subparagraph (A) or (B) shall be construed to prohibit the United States Secret Service from using a cell-site simulator in accordance with a provision of this section other than subparagraph (A). </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" id="HCC6B0DCB05E14258A9095D0BB89D7C00">
+                                <enum>(5)</enum>
+                                <header>Contraband interdiction by correctional facilities</header>
+ <text>Subsection (a)(1) shall not apply to the use of a contraband interdiction system if the correctional facility or the entity operating the contraband interdiction system for the benefit of the correctional facility—</text>
+                                <subparagraph id="H4363270915F8454183D8A9A35EF2BE82">
+                                    <enum>(A)</enum>
+ <text>has—</text> <clause id="H3B2204B415634F98BAE993C519C195B8"> <enum>(i)</enum> <text>taken reasonable steps to restrict transmissions by the contraband interdiction system to cellular devices physically located within the property of the correctional facility; </text>
+                                    </clause>
+                                    <clause id="HDFE415FB2EAE4888BF3A2F1D24B0CA4D">
+                                        <enum>(ii)</enum>
+ <text>posted signs around the correctional facility informing visitors and staff that the correctional facility employs such a contraband interdiction system; and</text>
+                                    </clause>
+                                    <clause id="H5210B9A01FA14BEB938C3E9429003CEE">
+                                        <enum>(iii)</enum>
+ <text>complied with any relevant regulations promulgated by the Federal Communications Commission and, as applicable, policies issued by the National Telecommunications and Information Administration; </text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H82CFD473E033498E885C15691F6A18CA">
+                                    <enum>(B)</enum>
+ <text>annually tests and evaluates compliance with subparagraph (A) in accordance with best practices, which shall be issued by the Federal Communications Commission; and </text>
+                                </subparagraph>
+                                <subparagraph id="H21EC5362EDA242A9943CE15852B63CB7">
+                                    <enum>(C)</enum>
+ <text>not later than 10 business days after identifying an issue relating to the use of the contraband interdiction system, whether in the course of normal business operations or conducting testing and evaluation, submits to the Federal Communications Commission a report describing the issues identified and the steps taken to address the issues.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H78FF62A473DE48E78FC593863A19B398">
+                                <enum>(6)</enum>
+                                <header>Testing and training by law enforcement</header>
+ <text>Subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity in the normal course of official duties that is not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="H512F9CD1780C4F16A99E17D02B2C3378">
+                                    <enum>(A)</enum>
+ <text>test the capability of electronic equipment, if—</text> <clause id="H37315197164D4B9B9BCEB7958181FCD8"> <enum>(i)</enum> <text>it is not reasonable to obtain the consent of the persons incidentally subjected to the surveillance;</text>
+                                    </clause>
+                                    <clause id="H2E511500F0644800B220068FD7FA0E4A">
+                                        <enum>(ii)</enum>
+ <text>the test is limited in extent and duration to that necessary to determine to capability of the equipment;</text>
+                                    </clause>
+                                    <clause id="H44EE9A00BF184FD285972998E8AE9AA8">
+                                        <enum>(iii)</enum>
+ <text>any information obtained during such testing (including metadata) is retained and used only for the purpose of determining the capability of the equipment, is disclosed only to test personnel, and is destroyed before or immediately upon completion of the test; and</text>
+                                    </clause>
+                                    <clause id="HA4862A99AC194C12942485AC81AD493D">
+                                        <enum>(iv)</enum>
+ <text>the test is for a period of not longer than 90 days, unless the law enforcement agency obtains the prior approval of the Attorney General; or</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="H6DC0206A85E64BA6A62FFEF2227157B3">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">train law enforcement personnel in the use of electronic surveillance equipment, if—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="H4E1BF395C04248F1B9739E46303B7652">
+                                        <enum>(i)</enum>
+ <text>it is not reasonable to—</text> <subclause id="H90609EBFB69C421F94FBB13979CA76CE"> <enum>(I)</enum> <text>obtain the consent of the persons incidentally subjected to the surveillance;</text>
+                                        </subclause>
+                                        <subclause id="HF1E26DDD0C4B440BAEEC0E572808C8E0">
+                                            <enum>(II)</enum>
+ <text>train persons in the course of otherwise authorized law enforcement activities; or</text>
+                                        </subclause>
+                                        <subclause id="H3EAC6E0A9AC746AF83B40CAEA28A7C76">
+                                            <enum>(III)</enum>
+ <text>train persons in the use of such equipment without engaging in surveillance;</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="H6D3E662AD30146EF916E0A228F51EE02">
+                                        <enum>(ii)</enum>
+ <text>such surveillance is limited in extent and duration to that necessary to train the personnel in the use of the equipment; and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="H2091D7ECEF9A4401B440C886808387AD">
+                                        <enum>(iii)</enum>
+ <text>any information obtained during such training (including metadata) is destroyed after its use for such training.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="HF80D97D2F4644076BE138DB406015749">
+                                <enum>(7)</enum>
+                                <header>FCC Testing</header>
+ <text>Subsection (a)(1) shall not apply to the use of a cell-site simulator by the Federal Communications Commission, or an accredited testing laboratory recognized by the Federal Communications Commission, in order to test the cell-site simulator.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="H0D503B252A1D41DE8F69E92E81F6F18B">
+                                <enum>(8)</enum>
+                                <header>Rule of construction</header>
+ <text>Nothing in this subsection shall be construed to exempt a State or local government from complying with regulations promulgated by the Federal Communications Commission, including the requirement to obtain authorization to transmit on spectrum regulated by the Federal Communications Commission.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HB2A67A60F52240418CD5EEC4C0851F49">
+                            <enum>(e)</enum>
+                            <header>Limit on certain use not conducted pursuant to warrants and
+                                orders</header>
+ <text>The use of a cell-site simulator under subsection (d)(1)(B) of this section (which shall not include such a use by a component of the Department of Defense or an Armed Force providing assistance to a law enforcement agency of a governmental entity under such subsection (d)(1)(B)), under section 105(e) of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1805">50 U.S.C. 1805(e)</external-xref>), or under clause (i) or (ii) of section 102(a)(1)(A) of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1802">50 U.S.C. 1802(a)(1)(A)</external-xref>) may only be carried out lawfully using a specific model of a cell-site simulator for which the disclosures required under clauses (i) and (ii) of subsection (d)(1)(C) were included with respect to the specific model in connection with—</text>
+                            <paragraph id="H2641392A47F24221B60B854D29B74CFC">
+                                <enum>(1)</enum>
+ <text>for use by an element of the intelligence community under title I of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>), an application for an order under such Act that was approved; or</text>
+                            </paragraph>
+                            <paragraph id="H50D315452C444D499DCDBA43B045AA6E">
+                                <enum>(2)</enum>
+ <text>for use by a law enforcement agency of a governmental entity, an application for a warrant— </text>
+                                <subparagraph id="H838F9EAF265D425D84250D49B6C1E5E4">
+                                    <enum>(A)</enum>
+ <text>under the Federal Rules of Criminal Procedure that was approved by a judge of the judicial district in which the law enforcement agency intends to use the cell-site simulator; or </text>
+                                </subparagraph>
+                                <subparagraph id="HF67AD9C4D26C45A18C508C7F2893DE3A">
+                                    <enum>(B)</enum>
+ <text>using State warrant procedures that was approved by a judge of the State in which the law enforcement agency intends to use the cell-site simulator. </text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H498A153831A94C48AD269A2F66217BCD">
+                            <enum>(f)</enum>
+                            <header>Minimization</header>
+                            <paragraph id="HAD1ED35945E44E79B8BBB4D8F5DA175F">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The Attorney General shall adopt specific procedures that are reasonably designed to minimize the acquisition and retention, and prohibit the dissemination, of information obtained through the use of a cell-site simulator under an exception under paragraph (1) or (2) of subsection (d) that pertains to any person who is not an authorized subject of the use.</text>
+                            </paragraph>
+                            <paragraph id="HE0DA78B54A5C41B39957C5C1AF2967E4">
+                                <enum>(2)</enum>
+                                <header>Publication</header>
+ <text>The Attorney General shall make publicly available on the website of the Department of Justice the procedures adopted under paragraph (1) and any revisions to such procedures. </text>
+                            </paragraph>
+                            <paragraph id="HEA9ADA1966774564832B309D4D72C341">
+                                <enum>(3)</enum>
+                                <header>Use by agencies</header>
+ <text>If a law enforcement agency of a governmental entity or element of the intelligence community acquires information pertaining to a person who is not an authorized subject of the use of a cell-site simulator under an exception under paragraph (1) or (2) of subsection (d), the law enforcement agency or element of the intelligence community shall— </text>
+                                <subparagraph id="HE10ECB130D064BB78648159A5E42C65F">
+                                    <enum>(A)</enum>
+ <text>minimize the acquisition and retention, and prohibit the dissemination, of the information in accordance with the procedures adopted under paragraph (1); and</text>
+                                </subparagraph>
+                                <subparagraph id="H5F765BDA2A844F3FAE7817BBF7C258C3">
+                                    <enum>(B)</enum>
+ <text>destroy the information (including metadata) at the earliest possible opportunity.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H9AE4844E07CC40C3A8BBB13E5876D2DE">
+                            <enum>(g)</enum>
+                            <header>Disclosure to defendant</header>
+ <text>Any information acquired through the operation of a cell-site simulator, or derived from such information, shall be disclosed to the defendant in any action in which the information is introduced into evidence.</text>
+                        </subsection>
+                        <subsection commented="no" id="HE62E17C8E03E45E194EF5B105E547025">
+                            <enum>(h)</enum>
+                            <header>Scope of collection</header>
+                            <paragraph commented="no" id="H4683D43A07A746618E68EB2E0BCB434C">
+                                <enum>(1)</enum>
+                                <header>Authorized use</header>
+ <text display-inline="yes-display-inline">Information collected under this section may only include information identifying nearby electronic devices communicating with the cell-site simulator and the strength and direction of transmissions from those electronic devices.</text>
+                            </paragraph>
+                            <paragraph commented="no" id="H8F155C4A39C340189EED3702588CD9F7">
+                                <enum>(2)</enum>
+                                <header>Compliance with wiretapping requirements to obtain
+                                    contents</header>
+ <text display-inline="yes-display-inline">In the case of any interception of a wire or electronic communication by the cell-site simulator—</text>
+                                <subparagraph commented="no" id="HCE4DE9C1C57C4B18BDD028FD914A54D8">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">with respect to an interception by a law enforcement agency of a governmental entity, the provisions of chapter 119 shall apply in addition to the provisions of this section; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" id="H4D4F957654384FB9AB20E706D003F197">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">with respect to an interception by an element of the intelligence community, the element of the intelligence community may only conduct the surveillance using the cell-site simulator in accordance with an order authorizing the use issued in accordance with title I of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>), in addition to complying with the provisions of this section. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H167D8FCA83C540219AC1086CC0D08725">
+                                <enum>(3)</enum>
+                                <header>Compliance with tracking device requirements</header>
+                                <subparagraph id="HA5CB88D3A40943938E47D8F10E4FB110">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>If a cell-site simulator is to be used by a law enforcement agency of a governmental entity to locate or track the movement of a person or object, the provisions of section 3117 and rule 41 of the Federal Rules of Criminal Procedure shall apply in addition to the provisions of this section.</text>
+                                </subparagraph>
+                                <subparagraph id="H510666DDEB984AB5B4464FBA9FEEC250">
+                                    <enum>(B)</enum>
+                                    <header>Court</header>
+ <text>For purposes of applying section 3117 and rule 41 of the Federal Rules of Criminal Procedure to the use of a cell-site simulator, a court may authorize such use within the jurisdiction of the court, and outside that jurisdiction if— </text>
+                                    <clause id="HF44C190A9C9849E6BA08CDD1088F502C">
+                                        <enum>(i)</enum>
+ <text>the use commences within that jurisdiction; or </text> </clause> <clause id="H66FB69876CF94E00B773977EB147FA5A"> <enum>(ii)</enum> <text>at the time the application is presented to the court, the governmental entity certifies that it has probable cause to believe that the target is physically located within that jurisdiction. </text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H0AA102E8F13B4C8D9D136C527C1DA6C2">
+                            <enum>(i)</enum>
+                            <header>Civil action</header>
+ <text>Any person subject to an unlawful operation of a cell-site simulator may bring a civil action for appropriate relief (including declaratory and injunctive relief, actual damages, statutory damages of not more than $500 for each violation, and attorney fees) against the person, including a governmental entity, that conducted that unlawful operation before a court of competent jurisdiction. </text>
+                        </subsection>
+                        <subsection id="H67B2267965F3486DBCFC503AA1B31E30">
+                            <enum>(j)</enum>
+                            <header>Administrative discipline</header>
+ <text>If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this section, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination. </text>
+                        </subsection>
+                        <subsection id="H2C024DFE4F704C63B4277A77AB8BBB0F">
+                            <enum>(k)</enum>
+                            <header>Definitions</header>
+ <text>As used in this section—</text> <paragraph id="H264DF50E4184474C8A560D80658BDEFD"> <enum>(1)</enum> <text>the terms defined in section 2711 have, respectively, the definitions given such terms in that section; </text>
+                            </paragraph>
+                            <paragraph id="HB0740F43ACDD4AC6AB6850DECE9F82DE">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the term <term>advanced communications services</term> has the meaning given that term in section 3 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/153">47 U.S.C. 153</external-xref>); </text>
+                            </paragraph>
+                            <paragraph id="H7AA0358DB5054DFF94220112DD3C9C88">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the term <term>cell-site simulator</term> means any device that functions as or simulates a base station for commercial mobile services or private mobile services in order to identify, locate, or intercept transmissions from cellular devices for purposes other than providing ordinary commercial mobile services or private mobile services; </text>
+                            </paragraph>
+                            <paragraph id="HAD4CB3550716460D93CA572352226804">
+                                <enum>(4)</enum>
+ <text>the term <term>commercial mobile radio service</term> has the meaning given that term in section 20.3 of title 47, Code of Federal Regulations, or any successor thereto; </text>
+                            </paragraph>
+                            <paragraph id="HFF59F2C040ED47FC8418480BC0F33947">
+                                <enum>(5)</enum>
+ <text>the term <term>contraband interdiction system</term> means any device that functions as or simulates a base station for commercial mobile services or private mobile services for purposes of identifying, locating, or intercepting transmissions from contraband cellular devices in correctional facilities; </text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="HF5D6B66F26F747F48E075E17BF9F9935">
+                                <enum>(6)</enum>
+ <text display-inline="yes-display-inline">the term <term>derived</term> means, with respect to information or evidence, that the government would not have originally possessed the information or evidence but for the use of a cell-site simulator, and regardless of any claim that the information or evidence is attenuated from the surveillance would inevitably have been discovered, or was subsequently reobtained through other means; </text>
+                            </paragraph>
+                            <paragraph id="H1E1A70F98A754DACBFE689AFCDF12F39">
+                                <enum>(7)</enum>
+ <text>the term <term>electronic communication</term> has the meaning given that term in section 2510; </text>
+                            </paragraph>
+                            <paragraph id="HF9D1DA0A0AC34B999677787E558A83CB">
+                                <enum>(8)</enum>
+ <text>the term <term>electronic device</term> has the meaning given the term <term>computer</term> in section 1030(e); </text>
+                            </paragraph>
+                            <paragraph id="HDEFEB49372F94A71A23B8266BE09D0D8">
+                                <enum>(9)</enum>
+ <text>the term <term>emergency call</term> has the meaning given that term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/47/1401">47 U.S.C. 1401</external-xref>); </text>
+                            </paragraph>
+                            <paragraph id="H6AAB1E8BB8C04E1DA2485C38E8E018FC">
+                                <enum>(10)</enum>
+ <text>the term <term>intelligence community</term> has the meaning given that term in section 3 of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">50 U.S.C. 3003</external-xref>); </text>
+                            </paragraph>
+                            <paragraph id="H6E48C68388A44EEA8778FDC3214BE32E">
+                                <enum>(11)</enum>
+ <text display-inline="yes-display-inline">the term <term>mitigation</term> means the deletion of all information collected about a person who is not the subject of the warrant or investigation; </text>
+                            </paragraph>
+                            <paragraph id="H26DFE6403F534DA3A6304C53313EA688">
+                                <enum>(12)</enum>
+ <text display-inline="yes-display-inline">the term <term>private mobile service</term> has the meaning given that term in section 332 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/332">47 U.S.C. 332</external-xref>); </text>
+                            </paragraph>
+                            <paragraph id="HC26CE34E52674D48B700B173E44474F6">
+                                <enum>(13)</enum>
+ <text display-inline="yes-display-inline">the term <term>telecommunications relay service</term> has the meaning given that term in section 225 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/225">47 U.S.C. 225</external-xref>); and</text>
+                            </paragraph>
+                            <paragraph id="HCC8714C6143C44FA8290BE8DE9FF3F44">
+                                <enum>(14)</enum>
+ <text display-inline="yes-display-inline">the term <term>United States person</term> has the meaning given that term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801</external-xref>).</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HDA089ADDAA1549378436F29068D05901">
+                <enum>(b)</enum>
+                <header>Foreign Intelligence Surveillance Act of 1978 requirements</header>
+ <text>The Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801 et seq.</external-xref>) is amended—</text>
+                <paragraph id="HE01FB038AE0D4677A52225EC5A61BC32">
+                    <enum>(1)</enum>
+ <text>in section 101 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HB8FA05BC747747A783CFF33D4F0F3874">
+                        <subsection id="H29E12E92737F4E4B8A6FD106EB180664">
+                            <enum>(q)</enum>
+ <text><term>Cell-site simulator</term> has the meaning given that term in section 3119 of title 18, United States Code.</text>
+                        </subsection>
+                        <after-quoted-block>; </after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H4D9364088A604037A50EC42ACA3FB675">
+                    <enum>(2)</enum>
+ <text>in section 102(a) (<external-xref legal-doc="usc" parsable-cite="usc/50/1802">50 U.S.C. 1802(a)</external-xref>), by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H6F1491E2E03841BFB6B1FCE923529702"> <paragraph id="HE70C6BD32E8645A499E861DEE5CEF9D2" indent="up1"> <enum>(5)</enum> <text display-inline="yes-display-inline">The Government may only use a cell-site simulator pursuant to the authority under clause (i) or (ii) of paragraph (1)(A) without obtaining an order under this title authorizing such use if the Government has implemented measures that are reasonably likely to limit the collection activities to— </text>
+                            <subparagraph id="HDB542B87C99141A3AF94F916DB8EB51B">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">means of communications used exclusively between or among foreign powers, as defined in paragraph (1), (2), or (3) of section 101(a); or </text>
+                            </subparagraph>
+                            <subparagraph id="H32272769AD5746D183ECA0EBCAB0732D">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">property or premises under the open and exclusive control of a foreign power, as defined in paragraph (1), (2), or (3) of section 101(a).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>; </after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H8CC0F6FD205D4F81BA9EB8B7C35D5372">
+                    <enum>(3)</enum>
+ <text>in section 105 (<external-xref legal-doc="usc" parsable-cite="usc/50/1805">50 U.S.C. 1805</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HA3ACFF745D8447CB84201A88F57B9140">
+                        <subsection id="HC037114BFB024ED99B5D08575335D109">
+                            <enum>(k)</enum>
+                            <paragraph commented="no" display-inline="yes-display-inline" id="H28ADE7D3F80B4EDF96EA61C2888A056D">
+                                <enum>(1)</enum>
+ <text>A judge having jurisdiction under section 103 may issue an order under this section that authorizes the use of a cell-site simulator only if the applicant—</text>
+                                <subparagraph id="H52EE5B6B8F8546E7979339301AFAF7F0" indent="up1">
+                                    <enum>(A)</enum>
+ <text>demonstrates that other investigative procedures, including electronic location tracking methods that solely collect records of the investigative target— </text>
+                                    <clause id="H3CB1D5FBB58447A9B9E274793EE9A253">
+                                        <enum>(i)</enum>
+ <text>have been tried and have failed; or </text> </clause> <clause id="H7C394F375C004B1DB7618A16CFE0C862"> <enum>(ii)</enum> <text>reasonably appear to be— </text>
+                                        <subclause id="H495F443CC8AF4C1BB48F8B21F2F74521">
+                                            <enum>(I)</enum>
+ <text>unlikely to succeed if tried; or </text> </subclause> <subclause id="HBF4C8025C75F405D90C9E20A717DD671"> <enum>(II)</enum> <text>too dangerous; </text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HE555EA88E7DD49CA9C30AB575119EA53" indent="up1">
+                                    <enum>(B)</enum>
+ <text>specifies the likely area of effect of the cell-site simulator to be used and the time that the cell-site simulator will be in operation; </text>
+                                </subparagraph>
+                                <subparagraph id="H386BADA7CB814B92A329503C47731E82" indent="up1">
+                                    <enum>(C)</enum>
+ <text>certifies that the requested area of effect and time of operation are the narrowest reasonably possible to obtain the necessary information; and</text>
+                                </subparagraph>
+                                <subparagraph id="HC165538F87864587BD6819730B23E748" indent="up1">
+                                    <enum>(D)</enum>
+ <text>demonstrates that the requested use of a cell-site simulator would be in compliance with applicable provisions of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/151">47 U.S.C. 151 et seq.</external-xref>) and the rules of the Federal Communications Commission. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HA19C41FDEBBA4C7382D3C5594447BA46" indent="up1">
+                                <enum>(2)</enum>
+ <text>In any application for an order under this section authorizing the use of a cell-site simulator, the applicant shall include the following:</text>
+                                <subparagraph id="H94E0235AF0054082AFA1AC7A74EC30AC">
+                                    <enum>(A)</enum>
+ <text>A disclosure of any potential disruption of the ability of the subject of the surveillance or bystanders to use commercial mobile radio services or private mobile services, including using advanced communications services, to make or receive, as applicable— </text>
+                                    <clause id="H3605255D83F6427CBAF25A2BFCF82C63">
+                                        <enum>(i)</enum>
+ <text>emergency calls (including 9–1–1 calls); </text> </clause> <clause id="H7CB127B948FC45D2830252D995F0179C"> <enum>(ii)</enum> <text>calls to the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system under designated under paragraph (4) of section 251(e) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/251">47 U.S.C. 251(e)</external-xref>); </text>
+                                    </clause>
+                                    <clause id="H29FA3CE320C24730887F233A078619D9">
+                                        <enum>(iii)</enum>
+ <text>calls to the nationwide toll-free number for the poison control centers established under section 1271 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300d-71">42 U.S.C. 300d–71</external-xref>); </text>
+                                    </clause>
+                                    <clause id="H8FB468B792AE48A9B410B3D73F667120">
+                                        <enum>(iv)</enum>
+ <text>calls using telecommunications relay services; or</text>
+                                    </clause>
+                                    <clause id="H466E7208579047A1A97A7DBBDF5A91FF">
+                                        <enum>(v)</enum>
+ <text>any other communications or transmissions.</text> </clause> </subparagraph> <subparagraph id="H62C8CAA2EE664B61832A82E68E6522B5"> <enum>(B)</enum> <text>A certification that the specific model of the cell-site simulator to be used has been inspected by a third party that is an accredited testing laboratory recognized by the Federal Communications Commission to verify the accuracy of the disclosure under subparagraph (A). </text>
+                                </subparagraph>
+                                <subparagraph id="H08641AEB2A9D4582A18FF70C3FA50C81">
+                                    <enum>(C)</enum>
+ <text>A disclosure of the methods and precautions that will be used to minimize disruption, including— </text>
+                                    <clause id="H1E040F4BC64C436A959B95B5D60E7DF5">
+                                        <enum>(i)</enum>
+ <text>any limit on the length of time the cell-site simulator can be in continuous operation; and </text>
+                                    </clause>
+                                    <clause id="HDDCC9609DF9B44919A39BF92F39DC7CC">
+                                        <enum>(ii)</enum>
+ <text>any user-defined limit on the transmission range of the cell-site simulator. </text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H20B63CC4930549C090C7C510D8A8D36E">
+                                    <enum>(D)</enum>
+ <text>A disclosure as to whether the cell-site simulator will primarily be used at a gathering where constitutionally protected activity, including speech, will occur. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H47501C3462B641128266ACD4D7966EAD" indent="up1">
+                                <enum>(3)</enum>
+ <text>In considering an application for an order under this section that authorizes the use of a cell-site simulator, the court shall—</text>
+                                <subparagraph id="H6FA9747C600B44F5A1402BEC20EE84BC">
+                                    <enum>(A)</enum>
+ <text>weigh the need of the Government to obtain the information sought against the likelihood and impact of any potential negative side effects disclosed by the Government under paragraph (2); and</text>
+                                </subparagraph>
+                                <subparagraph id="H6CC01D2E98B244A79537F6A331D1AA5E">
+                                    <enum>(B)</enum>
+ <text>not grant a request for an order that would put public safety at risk or unreasonably inconvenience the community.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H1F3B7709CB384C5C8FD2F518C8C52D76">
+                    <enum>(4)</enum>
+ <text>in section 704(c)(1) (<external-xref legal-doc="usc" parsable-cite="usc/50/1881c">50 U.S.C. 1881c(c)(1)</external-xref>)—</text> <subparagraph id="H41A279BCE51643EA9F52AA901843B638"> <enum>(A)</enum> <text>in subparagraph (C), by striking <quote>and</quote> at the end;</text>
+                    </subparagraph>
+                    <subparagraph id="HFE99F5C9DA814D49B2A7F83D2294C7CC">
+                        <enum>(B)</enum>
+ <text>in subparagraph (D), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HD1CEEAA875A54E70824C7C6FA3BBECD9">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H660931BF24D2461A9B57C374B01F18BC"> <subparagraph id="H4784C8BB2B9542ED9C935CE65865DA98"> <enum>(E)</enum> <text>if the applicant is seeking to use a cell-site simulator (as defined in section 101), the requirements that would apply for the use of a cell-site simulator in the United States under section 105(k) have been satisfied.</text>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H8A428874F6424847B57492D9355615E2">
+                <enum>(c)</enum>
+                <header>Conforming amendment</header>
+ <text>Section 3127 of title 18, United States Code, is amended—</text> <paragraph id="HB628D6CE28B944109FD3059BC2BA1E0F"> <enum>(1)</enum> <text display-inline="yes-display-inline">in paragraph (3) by striking <quote>but such term does not include any</quote> and inserting <quote>except such term does not include any cell-site simulator, as that term is defined in section 3119, or</quote>; and</text>
+                </paragraph>
+                <paragraph id="H0DEE633C3423409D941D4A47811BBAE3">
+                    <enum>(2)</enum>
+ <text>in paragraph (4) by striking <quote>of any communication</quote> and inserting <quote>of any communication, except such term does not include any cell-site simulator, as that term is defined in section 3119</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H46BEB43EDD2D48B9B8C6663C608261C3">
+                <enum>(d)</enum>
+                <header>Inspector General reports</header>
+                <paragraph id="H1B9BC6A400884AFA8A3F5F3AC2C22B56">
+                    <enum>(1)</enum>
+                    <header>Definition</header>
+ <text display-inline="yes-display-inline">In this subsection, the term <term>covered Federal entity</term> means—</text>
+                    <subparagraph id="H6C12B33D11914C7F8E202B3CFE09B079">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a law enforcement agency of a department or agency of the Federal Government; and</text>
+                    </subparagraph>
+                    <subparagraph id="H2F786524B833438497B709F3B46B75D9">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">50 U.S.C. 3003</external-xref>)).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H1FC280F7AE434FB0997176561B36B39D">
+                    <enum>(2)</enum>
+                    <header>Reports</header>
+ <text display-inline="yes-display-inline">The Inspector General of the Department of Justice, the Inspector General of the Department of Homeland Security, the Inspector General of the Department of Defense, and the Inspector General of the Intelligence Community shall annually submit to Congress a joint report, and publish an unclassified version of the report on the website of each such inspector general, on—</text>
+                    <subparagraph id="HF4DE7349BD544B23A9682A3D11826703">
+                        <enum>(A)</enum>
+ <text>the overall compliance of covered Federal entities with this Act and the amendments made by this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="H36536BE510674E91AC602626823D419F">
+                        <enum>(B)</enum>
+ <text>the number of applications by covered Federal entities for use of a cell-site simulator that were applied for and the number that were granted;</text>
+                    </subparagraph>
+                    <subparagraph id="H9B7440088BA045A0AF66D920F73E43BA">
+                        <enum>(C)</enum>
+ <text>the number of emergency uses of a cell-site simulator under section 3119(d)(1)(B) of title 18, United States Code, as added by this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="H0004283EC80F425D973CF0E16FF783DB">
+                        <enum>(D)</enum>
+ <text>the number of such emergency uses for which a court subsequently issued a warrant authorizing the use and the number of such emergency uses in which an application for a warrant was denied;</text>
+                    </subparagraph>
+                    <subparagraph id="HCDDBC3711C7841DDA46984125DF9E5F8">
+                        <enum>(E)</enum>
+ <text>the number of devices that were targeted with a cell-site simulator, which shall be provided separately for targeting conducted pursuant to a warrant or court order and targeting conducted pursuant to an authority to use a cell-site simulator without a warrant or order;</text>
+                    </subparagraph>
+                    <subparagraph id="H443460B47C45414692C310D8CE5E51AE">
+                        <enum>(F)</enum>
+ <text>the number of devices that were not the target of the use of a cell-site simulator about which information was obtained with the cell-site simulator, which shall—</text>
+                        <clause id="H727FB55526A54720A375376EF6D91E33">
+                            <enum>(i)</enum>
+ <text>be provided separately for use conducted pursuant to a warrant or court order and use conducted pursuant to an authority to use a cell-site simulator without a warrant or order; and</text>
+                        </clause>
+                        <clause id="H79BC87C82678460DA3713711EBAB2EBA">
+                            <enum>(ii)</enum>
+ <text>include the number of such devices about which the information was not destroyed as a result of the minimization requirements under section 3119(f) of title 18, United States Code, as added by this section, which shall be provided separately for use conducted pursuant to a warrant or court order and use conducted pursuant to an authority to use a cell-site simulator without a warrant or order;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HC5A77711A6FC40DC9A3D0AEAE5F68AB3">
+                        <enum>(G)</enum>
+ <text>which components of a law enforcement agency of a department or agency of the Federal Government are using cell-site simulators and how many are available to that component; and</text>
+                    </subparagraph>
+                    <subparagraph id="H80D11F1EE06748CEB80EEBE354B58DE1">
+                        <enum>(H)</enum>
+ <text>instances in which a law enforcement agency of a department or agency of the Federal Government made cell-site simulators available to a State or unit of local government.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H7066F133C9B64E57A8AB955CC32EF94A">
+                    <enum>(3)</enum>
+                    <header>Form of reports</header>
+ <text>Each report submitted under paragraph (2) shall be submitted in unclassified form, but may include a classified annex.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H0DD7BC3F1B2C40D6911300C300CE156B">
+                <enum>(e)</enum>
+                <header>FCC regulations</header>
+                <paragraph id="H9A064DB002B8412D98A97F059F4826F0">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Federal Communications Commission shall initiate any proceeding that may be necessary to promulgate or modify regulations promulgated by the Federal Communications Commission to implement this Act and the amendments made by this Act.</text>
+                </paragraph>
+                <paragraph id="HE06DD15EB99748B4B61C5DC35311B03E">
+                    <enum>(2)</enum>
+                    <header>Construction</header>
+ <text>Nothing in this Act or an amendment made by this Act shall be construed to expand or contract the authority of the Federal Communications Commission.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HBF3F78C26D4F4F49AC809ABD056FC70B">
+                <enum>(f)</enum>
+                <header>Effective date</header>
+                <paragraph id="H67B38A35B2E942CABF0DF2982536B370">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Except as provided in paragraph (2), subsections (a), (b), (c), and (d) of this section, and the amendments made by such subsections, shall apply on and after the date that is 2 years after the date of enactment of this Act.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="HA11570C017F44A42A2883F53CE06EB69">
+                    <enum>(2)</enum>
+                    <header>Exceptions</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="HE9FCC09E833D4A4B9C8ACAA8373718AD">
+                        <enum>(A)</enum>
+                        <header>Definition</header>
+ <text>In this paragraph, the term <term>cell-site simulator</term> has the meaning given that term in section 3119 of title 18, United States Code, as added by subsection (a).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="HE0191166538A4BBFA65647A8295478B6">
+                        <enum>(B)</enum>
+                        <header>Extension for existing cell-site simulators</header>
+ <text>For any model of a cell-site simulator in use before the date of enactment of this Act, including such use in a contraband interdiction system at a correctional facility, if the Attorney General certifies that additional time is necessary to obtain independent tests of the model of cell-site simulator, subsections (a), (b), (c), and (d) of this section, and the amendments made by such subsections, shall apply to the use of the model of cell-site simulator on and after the date that is 3 years after the date of enactment of this Act.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

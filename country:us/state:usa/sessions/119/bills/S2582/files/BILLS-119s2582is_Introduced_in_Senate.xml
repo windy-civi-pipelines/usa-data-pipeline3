@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RYA25422-FPR-6P-46L">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2582 IS: Advancing Research on Agricultural Soil Health Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2582</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S394">Ms. Smith</sponsor> (for herself and <cosponsor name-id="S391">Mr. Young</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAF00">Committee on
+                    Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Agriculture to conduct research relating to
+            measurement, monitoring, reporting, and verification of soil carbon sequestration, and
+            for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advancing Research on Agricultural Soil Health Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idD5B45614D19B4786A4BE12BD5817D452">
+            <enum>2.</enum>
+            <header>Definition of Secretary</header>
+ <text display-inline="no-display-inline">In this Act, the term <term>Secretary</term> means the Secretary of Agriculture.</text>
+        </section>
+        <section id="id9CCF70DF23AA47359272FAE01B4385E1">
+            <enum>3.</enum>
+            <header>Standard soil carbon measurement methodology</header>
+            <subsection id="idBFF0CA87D00444C78511824D34CAB230">
+                <enum>(a)</enum>
+                <header>Methodology</header>
+                <paragraph id="id86AC6FD5B9894737B93243A5B4646FA6">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than 270 days after the date of enactment of this Act, the Secretary shall develop a standardized methodology to directly measure soil carbon for research and conservation purposes.</text>
+                </paragraph>
+                <paragraph id="idDDFA709EAD7543F7B727A45EB5702F17">
+                    <enum>(2)</enum>
+                    <header>Review</header>
+ <text>In developing the methodology under paragraph (1), the Secretary shall conduct a review of widely used existing methodologies for direct soil carbon measurement.</text>
+                </paragraph>
+                <paragraph id="id57D9418E6EC147069EFD50B6F1245AC0">
+                    <enum>(3)</enum>
+                    <header>Consultation</header>
+ <text>In developing the methodology under paragraph (1) and conducting the review under paragraph (2), the Secretary shall consult with—</text>
+                    <subparagraph id="idD2D41463A53D4407A45DCE5E8DCE2976">
+                        <enum>(A)</enum>
+ <text>agricultural producers, including socially disadvantaged farmers and ranchers (as defined in section 355(e) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2003">7 U.S.C. 2003(e)</external-xref>));</text>
+                    </subparagraph>
+                    <subparagraph id="idF5C70A73B9FD4ED391FCEC27880CC6BB">
+                        <enum>(B)</enum>
+ <text>soil carbon experts;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="ide7ee5b3c10b44134b675d6865c1b7010"> <enum>(C)</enum> <text>nonprofit organizations;</text>
+                    </subparagraph>
+                    <subparagraph id="id56BDC84F40344FF6853379DC988FCC7B">
+                        <enum>(D)</enum>
+ <text>academic researchers; and</text> </subparagraph> <subparagraph id="id403FBD481C9041E39DEDA5D40F76EF2C"> <enum>(E)</enum> <text>other stakeholders who reflect the operational, geographic, and socioeconomic diversity of United States agricultural operations.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id8BFDA2F7301C4C2D89C684A2387075C7">
+                    <enum>(4)</enum>
+                    <header>Requirements</header>
+ <text>The methodology developed under paragraph (1) shall, to the maximum extent practicable—</text>
+                    <subparagraph id="id84a9fde9977a4c9cb29cb5ad5167b070">
+                        <enum>(A)</enum>
+ <text>be usable at any location at which soil carbon can be directly measured;</text>
+                    </subparagraph>
+                    <subparagraph id="id91087992713e44f08a0d1aed0dfdd451">
+                        <enum>(B)</enum>
+ <text>require measurement to a standard soil depth appropriate for the sample site, determined using the best available science;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb9f1fe2e5c564ebdae442478301aef66">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">measure the soil organic carbon concentration and any other soil health variables, as determined by the Secretary in consultation with stakeholders described in paragraph (3), to produce a standard set of reporting metrics;</text>
+                    </subparagraph>
+                    <subparagraph id="id217089a50b874d63bdf9c7ab32b83481">
+                        <enum>(D)</enum>
+ <text>produce data that is interoperable with other data collected by the Department of Agriculture;</text>
+                    </subparagraph>
+                    <subparagraph id="ida8315907fb624dde9b54a073910015a5">
+                        <enum>(E)</enum>
+ <text>account for calibration differences in soil analysis between testing facilities;</text>
+                    </subparagraph>
+                    <subparagraph id="id00a214a72be34b5b83a139fda9db4d41">
+                        <enum>(F)</enum>
+ <text>account for differences in uncertainty between different measurement tools; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6170b9dcc0544d33b9000ec8a97c25cf">
+                        <enum>(G)</enum>
+ <text>be usable for voluntary reporting of soil carbon data under subsection (b).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id9A5CBD517E4D411E9B83A1D986EB67E2">
+                <enum>(b)</enum>
+                <header>Voluntary soil carbon reporting</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id780803d4fd554393ad60cf67954c83d0">
+                    <enum>(1)</enum>
+                    <header>Technical assistance</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idea0db1f8505648c3a7e969092a9b9a66">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary, acting through the Chief of the Natural Resources Conservation Service, shall provide to producers described in paragraph (2) technical assistance, including guidance, for voluntarily measuring, monitoring, and reporting to the Secretary soil carbon data using the methodology developed under subsection (a).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc4c8d7c83ea045da8fa382e043f58d94">
+                        <enum>(B)</enum>
+                        <header display-inline="yes-display-inline">Guidance</header>
+ <text>Guidance provided under subparagraph (A) shall be, at a minimum—</text>
+                        <clause id="id4531f803b5e7441b8b260d4cbfc9c46a">
+                            <enum>(i)</enum>
+ <text>available in multiple languages; and</text> </clause> <clause id="idace0c50fa62849f0ad643755fc4d8a72"> <enum>(ii)</enum> <text>available to producers described in paragraph (2) in both digital and analog formats.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd7943a7b1f87462d81c42f670a1a13ea">
+                    <enum>(2)</enum>
+                    <header>Applicability</header>
+ <text display-inline="yes-display-inline">The guidance developed under paragraph (1) shall be applicable to—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id131d196d4caa494082e8e594876eca54">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">producers that are recipients of grants under programs described in paragraph (3) to voluntarily measure, monitor, and report to the Secretary soil carbon outcomes under those programs; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf1062966e582412e851b68385cfb0424">
+                        <enum>(B)</enum>
+ <text>any other producer that elects to voluntarily report to the Secretary direct measurements of soil carbon.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id4612BAA747BF490A9B167DB329614820">
+                    <enum>(3)</enum>
+                    <header>Programs described</header>
+ <text>The programs referred to in paragraph (2)(A) include—</text> <subparagraph id="idBE1E277EB3DC48DFB7543CA597C08FA9"> <enum>(A)</enum> <text>conservation innovation grants under section 1240H of the Food Security Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/16/3839aa-8">16 U.S.C. 3839aa–8</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="id2E837D6734334E7BA41BFF976E59861C">
+                        <enum>(B)</enum>
+ <text>the sustainable agriculture research and education program under subtitle B of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/5801">7 U.S.C. 5801 et seq.</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="id2269F0C8C598463C9D1AB9B6F58CDCD3">
+                        <enum>(C)</enum>
+ <text>the organic agriculture research and extension initiative established under section 1672B of that Act (<external-xref legal-doc="usc" parsable-cite="usc/7/5925b">7 U.S.C. 5925b</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="idAD859E9E81C843EEA52F987EA25B93D9">
+                        <enum>(D)</enum>
+ <text>grants under the Agriculture and Food Research Initiative under section 2(b) of the Competitive, Special, and Facilities Research Grant Act (<external-xref legal-doc="usc" parsable-cite="usc/7/3157">7 U.S.C. 3157(b)</external-xref>); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide3a06336c17d4517877a7219f33954f5">
+                        <enum>(E)</enum>
+ <text>such other programs as the Secretary determines to be appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idf493c2bfe48443bd9e59feec3eff563a">
+                <enum>(c)</enum>
+                <header>Updates</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id857e203395be4c83825993aa1cef4ff7">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall update the methodology developed under subsection (a)(1) and the guidance issued under subsection (b)(1)(B) as needed to reflect the best-available science.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id9df01d196cfe4452a3b62965f40bb651">
+                    <enum>(2)</enum>
+                    <header>Interoperability</header>
+ <text display-inline="yes-display-inline">In making any updates under paragraph (1), the Secretary shall ensure that information collected with the updated methodology remains interoperable with previously collected measurements.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2465fdddfcff412497269b7e0f248cbe">
+                <enum>(d)</enum>
+                <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out this section $2,000,000 for each fiscal year.</text>
+            </subsection>
+        </section>
+        <section id="id9D2E0A6FEA004BD5AE439F4221BA1774">
+            <enum>4.</enum>
+            <header>Development of new measurement tools under AFRI</header>
+ <text display-inline="no-display-inline">Section 2(b)(2)(D) of the Competitive, Special, and Facilities Research Grant Act (<external-xref legal-doc="usc" parsable-cite="usc/7/3157">7 U.S.C. 3157(b)(2)(D)</external-xref>) is amended—</text>
+            <paragraph id="idB61EA3A69A8E4C4D828D28ECC3FDF2DC">
+                <enum>(1)</enum>
+ <text>in clause (vii), by striking <quote>and</quote> at the end;</text> </paragraph> <paragraph id="id92632DFD48294EAEB8167BEE2D37C3C3"> <enum>(2)</enum> <text>in clause (viii), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+            </paragraph>
+            <paragraph id="idDF0FB8ACF62241E69D3645BE9E4653E2">
+                <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id361E7294DF264A58BAA5BAAA65C46221"> <clause id="id14F48985518B463984129CFB0A825628"> <enum>(ix)</enum> <text>measuring, monitoring, reporting, and verifying soil carbon sequestration and emissions.</text>
+                    </clause>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+        <section id="id2aceb555a97f410d9aaded61d9d9f525">
+            <enum>5.</enum>
+            <header>Soil health and carbon demonstration trials</header>
+            <subsection id="idcee16b8720f84689bd4f7fc461f149a3">
+                <enum>(a)</enum>
+                <header>On-Farm conservation innovation trials</header>
+ <text>Section 1240H(c) of the Food Security Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/16/3839aa-8">16 U.S.C. 3839aa–8(c)</external-xref>) is amended—</text>
+                <paragraph id="id49bc37572bea49fdbe2f5cf4a3cd40a8">
+                    <enum>(1)</enum>
+ <text>in paragraph (1)(B)(i), by striking subclause (III) and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline"
+                        id="id0d77c9bc3cfb4eb687bb2e969736caa2">
+                        <subclause id="id95f83932f41644439f8121432dce3742">
+                            <enum>(III)</enum>
+ <text>soil health management systems, including—</text> <item id="id7058ace483da486d96efd5e2173dd635"> <enum>(aa)</enum> <text>systems to maintain or increase soil carbon levels; and</text>
+                            </item>
+                            <item id="id8cc6953ba7534a4bb6e9439e02de37db">
+                                <enum>(bb)</enum>
+ <text>cost-effective tools to measure, monitor, report, and verify greenhouse gas emissions and carbon sequestration;</text>
+                            </item>
+                        </subclause>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="idf3d26bf2d3a64cd6b4270e92b5666394">
+                    <enum>(2)</enum>
+ <text>in paragraph (3)(D), by striking <quote>3 years</quote> each place it appears and inserting <quote>5 years</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id0c420470e9754df4ad53ef0bc3874755">
+                <enum>(b)</enum>
+                <header>Sustainable agriculture research and education program</header>
+ <text>Section 1621(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/5811">7 U.S.C. 5811(e)</external-xref>) is amended—</text>
+                <paragraph id="id171a2792af1c4973b12678d070f5e522">
+                    <enum>(1)</enum>
+ <text>by striking <quote>The Secretary</quote> and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id7723707d75224277b8fa1fd88ee93813">
+                        <paragraph id="id7412cd9edcd640d3a5de99877c721e1b">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </paragraph> <paragraph id="id5bec2921be9c414fa53e5e90ac5a4ce8"> <enum>(2)</enum> <text>by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id8085dc6d9f8b4f3e845d02fd56bc35f7">
+                        <paragraph id="id3aa1b1e4744a4576827d28d448e70c77">
+                            <enum>(2)</enum>
+                            <header>Soil carbon sequestration demonstration projects</header>
+ <text>In carrying out this section, the Secretary shall conduct on-farm demonstration projects for soil carbon sequestration.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+        <section section-type="subsequent-section" id="id722D39A1B3D74825A5C9661F920F9B5C">
+            <enum>6.</enum>
+            <header>Soil Carbon Inventory and Analysis Network</header>
+ <text display-inline="no-display-inline">Chapter 5 of subtitle D of title XII of the Food Security Act of 1985 is amended by inserting after section 1240M (<external-xref legal-doc="usc" parsable-cite="usc/16/3839bb">16 U.S.C. 3839bb</external-xref>) the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id8E7419DD12B14A41A102060B45164CFC">
+                <section section-type="subsequent-section" id="idF3A84B87F7264F95846607EADBCD2FB4">
+                    <enum>1240N.</enum>
+                    <header>Soil Carbon Inventory and Analysis Network</header>
+                    <subsection id="id707535E9E1784F5AA3AD2A09CF0F1B58">
+                        <enum>(a)</enum>
+                        <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id85d666777d664ac99a12e5968bb61b53"> <enum>(1)</enum> <header>Conservation activities</header> <text>The term <term>conservation activities</term> has the meaning given the term in section 1240I.</text>
+                        </paragraph>
+                        <paragraph id="id5E7F8153B72845199DD75145754A8E35">
+                            <enum>(2)</enum>
+                            <header>Eligible land</header>
+ <text>The term <term>eligible land</term> means public and private cropland, rangeland, pastureland, and wetlands in the United States.</text>
+                        </paragraph>
+                        <paragraph id="idC89D1835B2AB408596B1FAA3D56D153E">
+                            <enum>(3)</enum>
+                            <header>Program</header>
+ <text>The term <term>program</term> means the program established under subsection (b)(1). </text>
+                        </paragraph>
+                        <paragraph id="id917657ef83374b7f84b4392df29de2dc">
+                            <enum>(4)</enum>
+                            <header>Regional resource area</header>
+ <text>The term <term>regional resource area</term> means a contiguous area of eligible land that has similar resource characteristics.</text>
+                        </paragraph>
+                        <paragraph id="id9232f725d2454ef699b43364a4bf8a40">
+                            <enum>(5)</enum>
+                            <header>Resource characteristics</header>
+ <text>The term <term>resource characteristics</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id59dae73225024ec6b703a92c475a7340"> <enum>(A)</enum> <text display-inline="yes-display-inline">geographic, long-term weather pattern, natural resource, and soil type characteristics; and </text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id21262793c6c442738a884abbc66d402d">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any other characteristics that the Secretary determines to be appropriate for the purpose of carrying out the program.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id12CB96D30EDD4365BF60F69C3B9AEC6B">
+                            <enum>(6)</enum>
+                            <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary, acting jointly through the Chief of the Natural Resources Conservation Service and the Administrator of the Agricultural Research Service.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id54AC5113F8D54E93911EF30E8EAE34EE">
+                        <enum>(b)</enum>
+                        <header>Establishment</header>
+                        <paragraph id="id776C179689B7432BBDA31417AFDA147E">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary shall establish a program to inventory, monitor, and analyze soil carbon changes on eligible land in the United States.</text>
+                        </paragraph>
+                        <paragraph id="idB4B9A9202B8A461F862B7675CBC41603">
+                            <enum>(2)</enum>
+                            <header>Purposes</header>
+ <text>The purposes of the program are—</text> <subparagraph id="id90EF544ED65E4F6FA1F11659BB488793"> <enum>(A)</enum> <text>to analyze soil properties, including soil organic carbon, across space, time, and depth; </text>
+                            </subparagraph>
+                            <subparagraph id="idDC2925CF07B14115B7E3D1E6682036BD">
+                                <enum>(B)</enum>
+ <text>to analyze the impacts of land management strategies, including conservation activities, on soil carbon sequestration; and</text>
+                            </subparagraph>
+                            <subparagraph id="id94f207a4dcca4a3584fa45accc934c0a">
+                                <enum>(C)</enum>
+ <text>to inform any tools of the Secretary designed to predict the impacts of different land management practices, including implementing conservation activities, on soil carbon and associated environmental outcomes, such as resilience to extreme weather, reduced farm inputs, or other environment impacts, as determined by the Secretary, across the United States. </text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idD7CC8A396B7B4917BEF2DDD78CA3F8D4">
+                            <enum>(3)</enum>
+                            <header>Consultation</header>
+ <text>In carrying out the program, the Secretary shall consult with the Director of the National Institute of Food and Agriculture, the Chief of the Forest Service, the Chief Data Officer, the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the head of any other department or agency that the Secretary determines to be appropriate. </text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id99C374D5AB424907AC9F88E5A0887993">
+                        <enum>(c)</enum>
+                        <header>Sampling</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="ida7e93457567a4a47b9f104de9360a118">
+                            <enum>(1)</enum>
+                            <header>Sample sites</header>
+ <text>The Secretary shall select sample sites under the program by taking into consideration—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id8c28307832c047509b17864c7af0defe">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the accessibility of sites;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ide2fe875bb3ae4cc8a20466458af8539d">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the ease of collecting repeated measurements over time; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id1cfafdcb38954d9c8db2d029541c7b1d">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">such other factors as the Secretary determines to be appropriate.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="ide6f970cd1e43416e8966bb99c6acc92f">
+                            <enum>(2)</enum>
+                            <header>Preference</header>
+ <text>In selecting sample sites under paragraph (1), the Secretary shall give preference to sites that have been used for soil testing previously. </text>
+                        </paragraph>
+                        <paragraph id="id226cde7b221c4eb8ba86cc1238705ebe">
+                            <enum>(3)</enum>
+                            <header>Number of sample sites</header>
+ <text>The Secretary shall select sufficient sample sites under paragraph (1) to analyze changes in soil carbon across regional resource areas, as determined by the Secretary, over time, taking into account the geographical size and heterogeneity of each regional resource area. </text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id65F819E68E0846268AD2FDC36A455BDD">
+                        <enum>(d)</enum>
+                        <header>Soil carbon inventory</header>
+                        <paragraph id="idA7E86320C93B43C4A774676D79952317">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>Every 5 years, the Secretary shall prepare an inventory of soil carbon stocks on eligible land, under which the Secretary shall collect measurements at each sample site selected under subsection (c).</text>
+                        </paragraph>
+                        <paragraph id="idCCA1A8ED0B1942C7897F2F89B2BD82D5">
+                            <enum>(2)</enum>
+                            <header>Methodology</header>
+ <text>The Secretary shall ensure that the methodology developed under section 3(a) of the <short-title>Advancing Research on Agricultural Soil Health Act of 2025</short-title> is used for purposes of conducting measurements at each sample site under the program. </text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="ide481fbe019514ac6bbd6ee279740fd51">
+                            <enum>(3)</enum>
+                            <header>Minimum number of samples</header>
+ <text display-inline="yes-display-inline">The Secretary shall measure a sufficient number of samples to analyze changes in soil carbon at each sample site selected under subsection (c) for each inventory under paragraph (1). </text>
+                        </paragraph>
+                        <paragraph id="id537e8bd8da834f36b06d98da90a5c016">
+                            <enum>(4)</enum>
+                            <header>Characteristics</header>
+ <text>In preparing the inventory under paragraph (1), the Secretary shall document the following characteristics for each sample site selected under subsection (c):</text>
+                            <subparagraph id="id52f960df8d1e48608d528d2feff8cafd">
+                                <enum>(A)</enum>
+ <text>Soil type and texture.</text> </subparagraph> <subparagraph id="idd81509d855bb482fa6518bcf3214ca79"> <enum>(B)</enum> <text>Land use history, including conservation activities.</text>
+                            </subparagraph>
+                            <subparagraph id="id0c8c8d3fe0cd4f7d86092e8af36be754">
+                                <enum>(C)</enum>
+ <text>Environmental characteristics, such as temperature and precipitation.</text>
+                            </subparagraph>
+                            <subparagraph id="ide6d3d64f1e024b5296a9a7124ff13ca5">
+                                <enum>(D)</enum>
+ <text>Other characteristics, as determined by the Secretary. </text> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="id0f4c51907a40464cb59d557bd1e7092c"> <enum>(e)</enum> <header>Individual protections</header> <paragraph id="id777C3E3914614031BE1005F0381B4FE3"> <enum>(1)</enum> <header>Protection of private property rights</header> <text>Before selecting a sample site under subsection (c) or conducting any measurement under subsection (d)(1), the Secretary shall obtain authorization from the owner of the eligible land.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id167d53fa55d542cdad58f34bfff8e20b">
+                            <enum>(2)</enum>
+                            <header>Voluntariness requirement</header>
+ <text>The Secretary may not require authorization under paragraph (1) or any other participation in any activity under this section as a condition on receipt of any benefit under a program administered by the Secretary.</text>
+                        </paragraph>
+                        <paragraph id="id9D134FC29785441C9D6BC31B53BABF3B">
+                            <enum>(3)</enum>
+                            <header>Data privacy protection</header>
+ <text display-inline="yes-display-inline">In carrying out the program, the Secretary shall ensure that data is collected and analyzed while respecting relevant privacy safeguards and does not include any identifiable, proprietary, or personal information of individual land owners or operators.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="ide0e14f6c632e4095aa752a78bcbd6a98">
+                        <enum>(f)</enum>
+                        <header>Soil characteristics inventory</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id368a3a42bee44bb382aeba2ad2f30e7e">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">Survey and analysis information collected under the program shall be maintained in a soil characteristics inventory operated by the Secretary.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idc0f65acdae394241a97022c19b1fe071">
+                            <enum>(2)</enum>
+                            <header>Partnerships</header>
+ <text>The inventory described in paragraph (1) may be operated in partnership with 1 or more of the following entities, if the entity complies with paragraph (4):</text>
+                            <subparagraph id="id0623D426163342BBBB7ED7C7E0CD0D38">
+                                <enum>(A)</enum>
+ <text>An 1862 Institution (as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/7/7601">7 U.S.C. 7601</external-xref>)).</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id7920C421B65C46AC90C11953AE059C45">
+                                <enum>(B)</enum>
+ <text>An 1890 Institution (as defined in that section).</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id2773D0EB346E4D7285B113E408EE6ADB"> <enum>(C)</enum> <text>A 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/7/301">7 U.S.C. 301</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/103/382">Public Law 103–382</external-xref>)). </text>
+                            </subparagraph>
+                            <subparagraph id="idCE192E90CBBC48738991A998AA9A8E25">
+                                <enum>(D)</enum>
+ <text>Institutions of higher education with expertise in predictive modeling, large-scale data collection, soil carbon research, or agricultural conservation management practices.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idA6F2D4D5B4AF41E9928EA649943FDF48">
+                                <enum>(E)</enum>
+ <text>Federal research centers.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id84f6529bdbbb4455ab9ce5cdc37a40c7"> <enum>(3)</enum> <header>Applications</header> <text display-inline="yes-display-inline">An entity described in any of subparagraphs (A) through (E) of paragraph (2) seeking to enter into a partnership to manage the inventory described in paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id66d7c774e48640449df2163ad3aded20">
+                            <enum>(4)</enum>
+                            <header>Requirements</header>
+ <text>The inventory described in paragraph (1) shall—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id43de576f9be040c2bc7f144a6e19f740"> <enum>(A)</enum> <text display-inline="yes-display-inline">use the industry standard protocols to protect identifiable, proprietary, or personal information of individual land owners or operators; </text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ide7534c0600074c3093e57702f5b60652">
+                                <enum>(B)</enum>
+ <text>ensure that individual producer information is not sold through the inventory; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id99c05b3121ac4995815068cb75df4ae3">
+                                <enum>(C)</enum>
+ <text>comply with all applicable privacy requirements, including—</text>
+                                <clause id="id8a1a6cdec8f646288ebfc86a2e2dd28f">
+                                    <enum>(i)</enum>
+ <text>section 1770 of the Food Security Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/7/2276">7 U.S.C. 2276</external-xref>);</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idb150ca98408f404f846d59b63794913e">
+                                    <enum>(ii)</enum>
+ <text>section 1619 of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/8791">7 U.S.C. 8791</external-xref>);</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id843bc826a07d4b358b9602c5d9754b1e">
+                                    <enum>(iii)</enum>
+ <text>section 502(c) of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1502">7 U.S.C. 1502(c)</external-xref>); and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idad487a13e423417c8526bf37ff48a2f4">
+                                    <enum>(iv)</enum>
+ <text>section 552 of title 5, United States Code.</text> </clause> </subparagraph> </paragraph> <paragraph id="idd386bf70017b4468a6ad3467c5df70b3"> <enum>(5)</enum> <header>Limited release of information</header> <text>The Secretary may release or disclose information maintained in the inventory described in paragraph (1) pursuant to section 1619(b)(3)(A)(i) of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/8791">7 U.S.C. 8791(b)(3)(A)(i)</external-xref>) to researchers for the purposes of statistically analyzing the information. </text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id2280B27BBBFE473D9FF2EF6376BAB489">
+                        <enum>(g)</enum>
+                        <header>Public availability</header>
+ <text>On completion of each inventory under subsection (d)(1), the Secretary shall make publicly available—</text>
+                        <paragraph id="id6E1DCCC5392B45519D0CB5B2B1B011D4">
+                            <enum>(1)</enum>
+ <text>the statistical or aggregated form of data collected from measurements under that subsection;</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idbf784063cfef4886955c5ca03c7b38b4">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">information regarding the methodology used to collect that data; and</text>
+                        </paragraph>
+                        <paragraph id="id3CBDB70F95084D9EA72EEF166127CDBB">
+                            <enum>(3)</enum>
+ <text>any analysis made of the measurements described in paragraph (1). </text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id7430F006E63A4983B087A38B1F992A43">
+                        <enum>(h)</enum>
+                        <header>Reports</header>
+ <text>On completion of each inventory under subsection (d)(1), the Secretary shall prepare, publish, and make available to the public a report that—</text>
+                        <paragraph id="id6d4172c3dc314ef7aed65f1a15e4f55c">
+                            <enum>(1)</enum>
+ <text>contains a description of soil carbon trends, including by incorporating measurements conducted under subsection (d) during the 5 years covered by the report;</text>
+                        </paragraph>
+                        <paragraph id="idfedfd7f1308a4909800758d015c0dfd1">
+                            <enum>(2)</enum>
+ <text>contains an analysis of the impact of different land management practices, including implementing 1 or more conservation activities, on soil carbon levels; </text>
+                        </paragraph>
+                        <paragraph id="id99a437898fcb4fbfafb94b992161cddc">
+                            <enum>(3)</enum>
+ <text>contains an analysis of the effect of short- and long-term weather variability on the observed trends;</text>
+                        </paragraph>
+                        <paragraph id="id77918454a7d345d59eba48ab54bfbad1">
+                            <enum>(4)</enum>
+ <text>contains an analysis of how land management practices, including conservation activities, that influence soil carbon sequestration may affect the rate of increase in atmospheric carbon and other gases in the agricultural sector, including methane and nitrous oxide; and </text>
+                        </paragraph>
+                        <paragraph id="idc1e2506fa36e48a5a51f5b8ec9423915">
+                            <enum>(5)</enum>
+ <text>establishes a benchmark for the baseline soil carbon absent additional conservation activities.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id5b6f2b5bf5a94997897971754b3763e4">
+                        <enum>(i)</enum>
+                        <header>Strategic plan</header>
+ <text>Not later than 1 year after the date of enactment of the <short-title>Advancing Research on Agricultural Soil Health Act of 2025</short-title>, the Secretary shall prepare and submit to Congress a strategic plan to implement and carry out this section, which shall describe in detail—</text>
+                        <paragraph id="id85cc5c51dfed45bcb6de566f839f6408">
+                            <enum>(1)</enum>
+ <text>the organization and procedures necessary to implement and carry out this section; and</text>
+                        </paragraph>
+                        <paragraph id="id2f884bcf6f1e48a8814e4423ed8be38f">
+                            <enum>(2)</enum>
+ <text>the plan for measurements in each regional resource area under subsection (d)(1) for the first 5-year interval, including the schedule and the number of samples collected from each sample site selected under subsection (c).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="idba1fb64522d9447d9f01851afd907bce">
+                        <enum>(j)</enum>
+                        <header>Authorization of appropriations</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this section $17,500,000 for each fiscal year.</text>
+                    </subsection>
+                </section>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section section-type="subsequent-section" id="idF15F54B23ABE4EF1805AC27B3DD54B89">
+            <enum>7.</enum>
+            <header>Predictive models</header>
+            <subsection id="id469579EA27C74831AEE7FD122D7371CC">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall develop and maintain a modeling tool (or combination of tools) that shall predict the impacts of different land management practices, including implementing conservation activities, on atmospheric carbon, methane, and nitrous oxide and soil carbon sequestration across the United States.</text>
+            </subsection>
+            <subsection id="id7709f50d71a2449ca3ff077129377c52">
+                <enum>(b)</enum>
+                <header>Consultation</header>
+ <text>In developing the modeling tool or tools under subsection (a), the Secretary shall consult with—</text>
+                <paragraph id="id54eb8c35ef4a4d009d59888a251d317a">
+                    <enum>(1)</enum>
+ <text>the Secretary of Energy;</text> </paragraph> <paragraph id="id38dbc5d1f6b949ba87d3768ff811ee39"> <enum>(2)</enum> <text>the Administrator of the Environmental Protection Agency;</text>
+                </paragraph>
+                <paragraph id="id169a5635079e4ba0bc21827ac66c45bf">
+                    <enum>(3)</enum>
+ <text>agricultural producers, including socially disadvantaged farmers and ranchers (as defined in section 355(e) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2003">7 U.S.C. 2003(e)</external-xref>));</text>
+                </paragraph>
+                <paragraph id="id070d91925a3f4e41ab2cfd20cdef7f1b">
+                    <enum>(4)</enum>
+ <text>soil carbon experts;</text> </paragraph> <paragraph id="idc7f2f1a516fa4f229f0473c14c00ed06"> <enum>(5)</enum> <text>nonprofit organizations;</text>
+                </paragraph>
+                <paragraph id="id481ef3b73357448d93271cc9577bf50b">
+                    <enum>(6)</enum>
+ <text>academic researchers;</text> </paragraph> <paragraph id="id5b46ed2e310a40feaf9c670b632922ec"> <enum>(7)</enum> <text>private companies with expertise in soil carbon sequestration or in atmospheric carbon, methane, and nitrous oxide monitoring for agricultural operations; and</text>
+                </paragraph>
+                <paragraph id="id82dc07bc1a704f52ba5ca5912261698d">
+                    <enum>(8)</enum>
+ <text>other stakeholders, including the heads of other appropriate Federal agencies or non-Federal entities, who reflect the operational, geographic, and socioeconomic diversity of United States agricultural operations.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id8CEFA49390024129A16B0287BA698944">
+                <enum>(c)</enum>
+                <header>Requirements</header>
+ <text>The modeling tool or tools described in subsection (a) shall—</text> <paragraph id="id6a6a4223a2da49a39343ea1641f01b96"> <enum>(1)</enum> <text>be anchored in direct measurements of land, including soil sampling, such as under the program established under section 1240N of the Food Security Act of 1985 and the programs described in section 3(b)(3);</text>
+                </paragraph>
+                <paragraph id="id24c9ef6036144aa6848e3f3b55b14a73">
+                    <enum>(2)</enum>
+ <text>account for differences that could impact land management outcomes, including—</text>
+                    <subparagraph id="id48f90733e5dd4ca68fbe1e8dbcc11d6f">
+                        <enum>(A)</enum>
+ <text>soil type;</text> </subparagraph> <subparagraph id="ide5fdef410df64cb5bf6381469fe7ac69"> <enum>(B)</enum> <text>type of land use;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idecce42aefb9e4dfab28454d6e1e7f641">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">type of crop;</text> </subparagraph> <subparagraph id="ida25bfbcfd85c4d94a1d092757bc78139"> <enum>(D)</enum> <text>geography and local long-term weather patterns;</text>
+                    </subparagraph>
+                    <subparagraph id="id0e2bbbd71f4e498496cd849357355d77">
+                        <enum>(E)</enum>
+ <text>geographic size of the land-use operation;</text> </subparagraph> <subparagraph id="iddfc47cdd386447f3b6a2704610efdca5"> <enum>(F)</enum> <text>ongoing or existing conservation activities; and</text>
+                    </subparagraph>
+                    <subparagraph id="idba1b4f58055b4305821b84ffa76500be">
+                        <enum>(G)</enum>
+ <text>such other items as the Secretary determines to be appropriate;</text> </subparagraph> </paragraph> <paragraph id="id7096cfd0d47f4cb087d785c05620a32f"> <enum>(3)</enum> <text>allow a user of the tool to estimate the changes in atmospheric carbon, methane, and nitrous oxide or soil carbon sequestration, and the uncertainty of those estimated changes, that occur as a result of implementing 1 or more conservation activities; and</text>
+                </paragraph>
+                <paragraph id="id5824b2eaa9d342e98b04039436a28fd8">
+                    <enum>(4)</enum>
+ <text>be user-friendly and accessible—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idc64df6aa914640329deb095cb0e4f145"> <enum>(A)</enum> <text display-inline="yes-display-inline">to producers and researchers; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id31d23843c3274e7dbb38fb022737ee68">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in multiple languages.</text> </subparagraph> </paragraph> </subsection> <subsection id="id927E487E69C546FFA60B91CAA74D2E87"> <enum>(d)</enum> <header>Reviews and updates</header> <paragraph commented="no" display-inline="no-display-inline" id="id33fd62bed64c4feb98c8938ee12aacd1"> <enum>(1)</enum> <header>Reviews</header> <text display-inline="yes-display-inline">Not less frequently than annually, the modeling tool or tools described in subsection (a) shall be reviewed to determine if an update is required to reflect the best available data and science.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8ddb3b006a0b46668450c1b7a116d95b">
+                    <enum>(2)</enum>
+                    <header>Updates</header>
+ <text>If it is determined that an update is required under paragraph (1), the update shall be made not later than 1 year after the date of that determination.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id43D50791D6A542C1B1BB81947DE177AC">
+                <enum>(e)</enum>
+                <header>Partners</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="iddc8a0127fede4b2d81546786e09b9f91">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">In analyzing data, conducting research, and developing and maintaining the modeling tool or tools under subsection (a), the Secretary may partner with—</text>
+                    <subparagraph id="id8D31FF621ED14E50B9B6FE0DC5826C5C">
+                        <enum>(A)</enum>
+ <text>an Institution described in paragraph (2);</text> </subparagraph> <subparagraph id="id334ed87cf2fa4e8d839c966809a68112"> <enum>(B)</enum> <text>an institution of higher education with expertise in predictive modeling, large-scale data collection, soil carbon research, or agricultural conservation management; or</text>
+                    </subparagraph>
+                    <subparagraph id="idC5D10E506D5A42E6BCD0CEE7C3B64223">
+                        <enum>(C)</enum>
+ <text>a Federal research center.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id77370735dec744ac84d7364511e45476"> <enum>(2)</enum> <header>Institutions described</header> <text>An Institution referred to in paragraph (1)(A) is any of the following:</text>
+                    <subparagraph id="id56f8d17c748c4844bad87913322c3a5d">
+                        <enum>(A)</enum>
+ <text>An 1862 Institution (as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/7/7601">7 U.S.C. 7601</external-xref>)).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id059ebc22b5c34c6d9a1f358b6e15dbe4">
+                        <enum>(B)</enum>
+ <text>An 1890 Institution (as defined in that section).</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd3accaae258b44a39b749ebd3d3e5c6a"> <enum>(C)</enum> <text>A 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/7/301">7 U.S.C. 301</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/103/382">Public Law 103–382</external-xref>)).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id174C56DA3F3941928F779A6D746EB98A">
+                <enum>(f)</enum>
+                <header>Reporting</header>
+ <text>Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to Congress a report that—</text>
+                <paragraph id="idbd7fc863f1cf4b8ea81fc783aab3b8bb">
+                    <enum>(1)</enum>
+ <text>describes the progress of the Secretary in developing the modeling tool or tools under subsection (a);</text>
+                </paragraph>
+                <paragraph id="id145a544563fc4bb59d4c14c9402c1c67">
+                    <enum>(2)</enum>
+ <text>contains an assessment of the accuracy with which a user will be able to use the tool to determine the permanence and additionality of atmospheric carbon, methane, and nitrous oxide reduced or carbon sequestered;</text>
+                </paragraph>
+                <paragraph id="id185322ce74db48009cc4d3cb4aa73b76">
+                    <enum>(3)</enum>
+ <text>describes the models and survey and analysis information that the Secretary has developed or collected, or intends to develop or collect, as applicable, for purposes of developing or maintaining the tool;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2192141b03754023916f857266ad7fbd">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">describes—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idac56ebf7f539464a863677627a727c19"> <enum>(A)</enum> <text display-inline="yes-display-inline">whether it was determined that an update was required under subsection (d)(1); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id1a908810125943f880b5b476fcda6d6d">
+                        <enum>(B)</enum>
+ <text>if an update was required, the specifics of the update; and</text> </subparagraph> </paragraph> <paragraph id="id7d6ba9d8e07d4de7aaf444a1a2891e35"> <enum>(5)</enum> <text>includes any other information that, as determined by the Secretary, is relevant to—</text>
+                    <subparagraph id="id221105380cbe4b9896b9086483a76a56">
+                        <enum>(A)</enum>
+ <text>the efficacy of the tool;</text> </subparagraph> <subparagraph id="id1f368cf98aa8408ba360f1289e4bbd40"> <enum>(B)</enum> <text>the intended applications of the tool; or</text>
+                    </subparagraph>
+                    <subparagraph id="id0811c3dc4e744fc5875a7d8c3b259b2b">
+                        <enum>(C)</enum>
+ <text>the determination of—</text> <clause id="idcd63e587f8a246a592f5cf385b1a84dc"> <enum>(i)</enum> <text>changes in atmospheric carbon, methane, and nitrous oxide or soil carbon sequestration associated with producer land-use practices; or</text>
+                        </clause>
+                        <clause id="idce12a10fa6a44821b15a227082b34ef0">
+                            <enum>(ii)</enum>
+                            <subclause commented="no" display-inline="yes-display-inline" id="id4b8d64e79e49407b92d8b54bfd17ee2e">
+                                <enum>(I)</enum>
+ <text>estimates of the impacts of land use practices, including conservation activities, on atmospheric carbon, methane, and nitrous oxide and soil carbon sequestration; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id5fd5f95d130c4ef1abe669e01c09488f" indent="up1">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the measurement error of the tool.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="iddc80dd0813dc4613a22902e88ef14d0b">
+                <enum>(g)</enum>
+                <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out this section $500,000 for each fiscal year.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

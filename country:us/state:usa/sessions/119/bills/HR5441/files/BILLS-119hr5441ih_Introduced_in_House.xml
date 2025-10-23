@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBA725A512CB44A5DA8B9F9538765A4F0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5441 IH: Fusion Advanced Manufacturing Parity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5441</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250917">September 17, 2025</action-date><action-desc><sponsor name-id="M001205">Mrs. Miller of West Virginia</sponsor> (for herself, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, <cosponsor name-id="D000617">Ms. DelBene</cosponsor>, and <cosponsor name-id="B001292">Mr. Beyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to expand the advanced manufacturing production credit to include fusion energy components.</official-title></form><legis-body id="HFCFF17F4B5384150AB43B3F7B8C934DE" style="OLC"> 
+<section id="H917AACAFF7704822A0BF8340408C7AE4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fusion Advanced Manufacturing Parity Act</short-title></quote>.</text></section> <section id="H17BDFEA49CDA4D328F86F03EBB89A517"><enum>2.</enum><header>Inclusion of fusion energy components in advanced manufacturing production credit</header> <subsection id="H6C0C4C32EF964D1683E959C96216CD2B"> <enum>(a)</enum> <header>In general</header> <text><external-xref legal-doc="usc" parsable-cite="usc/26/45X">Section 45X</external-xref> of the Internal Revenue Code of 1986, as amended by section 70514 of <external-xref legal-doc="public-law" parsable-cite="pl/119/21">Public Law 119–21</external-xref>, is amended—</text>
+        <paragraph commented="no" display-inline="no-display-inline"
+          id="HC7E7447F187946C1AD50C1624A980E02">
+          <enum>(1)</enum>
+ <text>in subsection (b)—</text> <subparagraph id="H04DFEFB7B007460BAA02F0D5CFAA966F"> <enum>(A)</enum> <text>in paragraph (1)—</text>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H07C6DA0F7F554341AF9E33556D87B5FA">
+              <enum>(i)</enum>
+ <text>in subparagraph (L)(ii), by striking <quote>and</quote> at the end,</text> </clause> <clause commented="no" display-inline="no-display-inline" id="H990392EFF6264D21BCAB4067E6FABD68"> <enum>(ii)</enum> <text>by redesignating subparagraph (M) as subparagraph (N), and</text>
+            </clause>
+            <clause id="H401C7AF1B00140E1B8000A221B0A0DBD">
+              <enum>(iii)</enum>
+ <text>by inserting after subparagraph (L) the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HA0B48BC104DC4B8BAEA6A2E50857F34C"> <subparagraph commented="no" display-inline="no-display-inline" id="H75D240DEB4944138B17A72FEC517E261"> <enum>(M)</enum> <text>in the case of a fusion energy component, an amount equal to 25 percent of the sales price of such component, and</text>
+                </subparagraph>
+                <after-quoted-block>,</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline"
+            id="HF641522257FE4A2DAA44B592C6595507">
+            <enum>(B)</enum>
+ <text>in paragraph (3)—</text> <clause commented="no" display-inline="no-display-inline" id="H46CBE0289AF24E0187810581AB1A82F5"> <enum>(i)</enum> <text>in subparagraph (A), by striking <quote>and (D)</quote> and inserting <quote>, (D), and (E)</quote>,</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H6E45886A6DB04B82BF2342CF579005EB">
+              <enum>(ii)</enum>
+ <text>by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively, and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H2B983B0EE65546BFB51C43326566725B">
+              <enum>(iii)</enum>
+ <text>by inserting after subparagraph (C) the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H19AE4D131B424FB1A576CF519363383D"> <subparagraph commented="no" display-inline="no-display-inline" id="H5ED223D0915140AFB5E1BB0723DBC467"> <enum>(D)</enum> <header>Phase out for fusion energy components</header> <clause commented="no" display-inline="no-display-inline" id="HAD5765EFD3C444A89B4644E94DB44614"> <enum>(i)</enum> <header>In general</header> <text display-inline="yes-display-inline">In the case of any fusion energy component sold after December 31, 2031, the amount determined under this subsection with respect to such component shall be equal to the product of—</text>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="H19AAE9424AF64AC5B92EA517191CD709">
+                      <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the amount determined under paragraph (1) with respect to such component, as determined without regard to this paragraph, multiplied by</text>
+                    </subclause>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="H71CC9F0E45F74328AC7D254E4C387799">
+                      <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the phase out percentage under clause (ii).</text>
+                    </subclause>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="HD4CDC1DFB40245669E94D206C63985B4">
+                    <enum>(ii)</enum>
+                    <header>Phase out percentage</header>
+ <text display-inline="yes-display-inline">The phase out percentage under this clause is equal to—</text>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="HA899258D2EB34667A342FFBCF7CFD6C1">
+                      <enum>(I)</enum>
+ <text display-inline="yes-display-inline">in the case of a fusion energy component sold during calendar year 2032, 75 percent,</text>
+                    </subclause>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="HAF21EDA11E5F44AA966921018807A07E">
+                      <enum>(II)</enum>
+ <text display-inline="yes-display-inline">in the case of a fusion energy component sold during calendar year 2033, 50 percent,</text>
+                    </subclause>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="H8701A3AD31874B39837F4D69BD3D8CD5">
+                      <enum>(III)</enum>
+ <text display-inline="yes-display-inline">in the case of a fusion energy component sold during calendar year 2034, 25 percent, and</text>
+                    </subclause>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="H6F77292F214E422A9B2B01A73040AAFD">
+                      <enum>(IV)</enum>
+ <text display-inline="yes-display-inline">in the case of a fusion energy component sold after December 31, 2034, 0 percent.</text>
+                    </subclause>
+                  </clause>
+                </subparagraph>
+                <after-quoted-block>, and</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline"
+          id="H216508915B844B508A185DB22A802B5C">
+          <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph id="H15A73A03530E4D4FBCE154A6D6F7AB3F"> <enum>(A)</enum> <text>in paragraph (1)(A)—</text>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H2FB6340A56504AFBA787C19E8666CDF2">
+              <enum>(i)</enum>
+ <text>by redesignating clauses (iv) and (v) as clauses (v) and (vi), respectively, and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H384AF9688DF14F38A388245036403B1B">
+              <enum>(ii)</enum>
+ <text>by inserting after clause (iii) the following new clause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HCFF93AD61E554316845713B8C3F205AE"> <clause commented="no" display-inline="no-display-inline" id="HED7CE2C54D934BD5B42275E241232B87"> <enum>(iv)</enum> <text>any fusion energy component,</text>
+                </clause>
+                <after-quoted-block>,</after-quoted-block>
+              </quoted-block>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline"
+            id="H748BF86F384443718CC46050CCD256D7">
+            <enum>(B)</enum>
+ <text>by redesignating paragraph (6) as paragraph (7),</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="HE8A9BB68267F4A03AA3139956DAC4B93"> <enum>(C)</enum> <text>by inserting after paragraph (5) the following new paragraph:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline"
+              id="HE776F4C72122419FA457BBA0CD85510B">
+              <paragraph commented="no" display-inline="no-display-inline"
+                id="HB78CC682FEBB47BBA85C2298F9A896AC">
+                <enum>(6)</enum>
+                <header>Fusion energy component</header>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H7F872FA2A5A348E4ACE1C0399E7F5A06">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+ <text>The term <term>fusion energy component</term> means any of the following components which are intended for the operation or use of a fusion energy machine:</text>
+                  <clause id="H06A55D5A07AD4B65814EFBC7CB8DFD13">
+                    <enum>(i)</enum>
+ <text>A high-temperature superconducting magnet.</text> </clause> <clause id="H4E284F67120146D3B11C180D3D8E5A72"> <enum>(ii)</enum> <text>A fusion chamber or plasma vacuum vessel.</text>
+                  </clause>
+                  <clause id="H78B4A9ADBEEA4EC1B0D00D356926FB53">
+                    <enum>(iii)</enum>
+ <text>A blanket system.</text> </clause> <clause id="HD2001F13884B46FBADC6B733DC8057E5"> <enum>(iv)</enum> <text>High-temperature superconductor tape or wire.</text>
+                  </clause>
+                  <clause id="H8CD81C2953FE4F6BB6A4DDE02909A4CA">
+                    <enum>(v)</enum>
+ <text>A high-energy laser.</text> </clause> <clause id="HAA68C1EBE7054BA2BE1EBE9D7A1030AF"> <enum>(vi)</enum> <text>A fusion heating system.</text>
+                  </clause>
+                  <clause id="H8CACB4E28613424D92A48BBA4DF0E63F">
+                    <enum>(vii)</enum>
+ <text>A high-voltage capacitor.</text> </clause> <clause id="HCAFF8AB795734B78B1CC12F6A021B791"> <enum>(viii)</enum> <text>Films used in high-voltage capacitors.</text>
+                  </clause>
+                  <clause id="H41E0807AA12543CDB44EA4CE05C668BA">
+                    <enum>(ix)</enum>
+ <text>Plasma compression systems.</text> </clause> <clause id="HD6C0072EF8594A15B46F6C16D7420F59"> <enum>(x)</enum> <text>High-power switches.</text>
+                  </clause>
+                  <clause id="H2DA7C173342B459F8ACFEF28289C85E5">
+                    <enum>(xi)</enum>
+ <text>Packaging used in high-power switches.</text> </clause> <clause id="H11060D4EF8D2469B9BAD19789278F755"> <enum>(xii)</enum> <text>High-voltage conductors and insulators.</text>
+                  </clause>
+                  <clause id="H43DCB0F6B7F14CB895D6E6649B362A9B">
+                    <enum>(xiii)</enum>
+ <text>Composite materials used in fusion chambers or vacuum vessels.</text> </clause> <clause id="HF99F05E5340647748AC7143E24AF27D5"> <enum>(xiv)</enum> <text>Fused quartz parts and ceramics used in fusion chambers or vacuum vessels.</text>
+                  </clause>
+                  <clause id="HC7A81E506F9A4C8A87B01478E7A1D521">
+                    <enum>(xv)</enum>
+ <text>Plasma formation devices.</text> </clause> <clause id="H27B5C328C2CE4E69B2216CB0066B91BD"> <enum>(xvi)</enum> <text>Fuel processing and storage components.</text>
+                  </clause>
+                  <clause id="H0DDC6C1798964B09A1803AD63CEC3AB0">
+                    <enum>(xvii)</enum>
+ <text>Cooling system components.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="H6FABAF4496614F07A426D2D33ED60FAA"> <enum>(xviii)</enum> <text>Fusion targets.</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H7937DB2C78284E8BA79EDF905E81A72E">
+                    <enum>(xix)</enum>
+ <text>Dielectric fluids and systems.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="H523F9225C3B949FDAA1E5E379AE21E1C"> <enum>(xx)</enum> <text>Controls equipment.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="HC7C587874B9F4B21BCAC8C58DE4DCC68">
+                  <enum>(B)</enum>
+                  <header>Fusion energy machine</header>
+ <text>The term <term>fusion energy machine</term> means a fusion machine (as defined in section 11 of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2014">42 U.S.C. 2014</external-xref>)) which is used for the production of electricity or process heat, as well as any associated system (such as for fuel and exhaust processing).</text>
+                </subparagraph>
+                <subparagraph id="HB7025E6545DC4A5E85A9D8AB119B8C82">
+                  <enum>(C)</enum>
+                  <header>High-temperature superconducting magnet</header>
+ <text>The term <term>high-temperature superconducting magnet</term> means the entire system of electromagnetic coils consisting of high-temperature superconducting tape and structural metals that produce the magnetic fields, which confine, shape, and stabilize the plasma in a fusion energy machine, including toroidal field magnets, poloidal field magnets, and central solenoid magnets.</text>
+                </subparagraph>
+                <subparagraph id="H2B27D8CBCB174DE1BD7FAC4C756A4F45">
+                  <enum>(D)</enum>
+                  <header>Fusion chamber or plasma vacuum vessel</header>
+ <text>The term <term>fusion chamber or plasma vacuum vessel</term> means the enclosing structure that—</text>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H9FEEAECDF6964EDEB2BD23750554BCE7">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">holds fusion targets or creates and maintains a vacuum in the area which contains the fusion plasma, and</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H3CFD96D3E08E4F45AEBE2C205A514A5F">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">absorbs the plasma heat exhaust and structurally supports other integrated components, such as the plasma facing material, in-vessel diagnostics, and plasma heating systems in the fusion energy machine.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HECF7A2EE198B45A7A432C8FB49413289">
+                  <enum>(E)</enum>
+                  <header>Blanket system</header>
+ <text>The term <term>blanket system</term> means the containers, pipes, pumps, chemistry control, tritium and fuel extractors, heat exchangers, and liquid metal, salt bath, or other components that are designed to remove the fusion heat, shield components from neutrons, generate tritium, and transfer heat to a power generation system.</text>
+                </subparagraph>
+                <subparagraph id="H80B11C084E3E40FCB37B5D0D5CA905AD">
+                  <enum>(F)</enum>
+                  <header>High-temperature superconductor tape or wire</header>
+ <text>The term <term>high-temperature superconductor tape or wire</term> means the multi-layered tape or foil that carries electrical current with no resistance at high temperatures and magnetic fields.</text>
+                </subparagraph>
+                <subparagraph id="HFDC8337C803C4D249CD3F43F00CE67D4">
+                  <enum>(G)</enum>
+                  <header>High-energy laser</header>
+ <text>The term <term>high-energy laser</term> means the sources of light and associated optic systems that transfer beams of light to either directly or indirectly implode a fusion fuel capsule to create a fusion reaction.</text>
+                </subparagraph>
+                <subparagraph id="HB67483F6F6614776A4B3640239F2ED2D">
+                  <enum>(H)</enum>
+                  <header>Fusion heating system</header>
+ <text>The term <term>fusion heating system</term> means an auxiliary system used to increase the temperature of fusion fuel to create fusion reactions.</text>
+                </subparagraph>
+                <subparagraph id="H2D936DCA0E984348ADF66DD91785BBDB">
+                  <enum>(I)</enum>
+                  <header>High-voltage capacitor</header>
+ <text>The term <term>high-voltage capacitor</term> means an electrical component designed to store and release electrical energy in circuits operating at high voltage levels above 1,000 volts, as well as circuit components (such as printed circuit boards) used to enable the capacitor system or related power system to function.</text>
+                </subparagraph>
+                <subparagraph id="HAFE7816334CD488D9A34EAB5BF46C7AF">
+                  <enum>(J)</enum>
+                  <header>Films used in high-voltage capacitors</header>
+ <text>The term <term>films used in high-voltage capacitors</term> means metalized and non-metalized films used due to their dielectric properties, high breakdown voltage, and thermal stability in windings for high-voltage capacitors.</text>
+                </subparagraph>
+                <subparagraph id="H158006FCDC074E70BBF4B5776E8727B1">
+                  <enum>(K)</enum>
+                  <header>Plasma compression system</header>
+ <text>The term <term>plasma compression system</term> means mechanical or electrical components, such as electromagnetic coils or gas-driven pistons, used to compress plasma targets.</text>
+                </subparagraph>
+                <subparagraph id="HEE93847A6E7B49349DAA5F20F4B67030">
+                  <enum>(L)</enum>
+                  <header>High-power switches</header>
+ <text>The term <term>high-power switches</term> means switching devices which—</text>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="HD1BDF5358FDA4CCA8D483140CC5E93E9">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">use semiconductors, electrodes and a gas chamber, or other approaches, and</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="HBBE0D9AD3E5F41E296623C361F4209DA">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">are used to control and manage the flow of power in circuits by enabling or interrupting the flow of high voltage or high current greater than 1 kilovolt.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HB7FBAB19C6B44A049829F3067E8E17DC">
+                  <enum>(M)</enum>
+                  <header>Packaging used in high-power switches</header>
+ <text>The term <term>packaging used in high-power switches</term> means covers, terminals, or connections, heat transfer components, or packaging surrounding a semiconductor die.</text>
+                </subparagraph>
+                <subparagraph id="H42EF1263C9184967922D8A24A290A3A2">
+                  <enum>(N)</enum>
+                  <header>High-voltage conductors and insulators</header>
+ <text>The term <term>high-voltage conductors and insulators</term> means power transmission components used to connect high-voltage capacitors to fusion energy machines, including cables and busbars capable of operating greater than 1 kilovolt or 1 kiloampere.</text>
+                </subparagraph>
+                <subparagraph id="H693C99EB989A4B4EB35CBADF1775F995">
+                  <enum>(O)</enum>
+                  <header>Composite materials used in vacuum vessels</header>
+ <text>The term <term>composite materials used in vacuum vessels</term> means fiber reinforced materials, such as glass-epoxy systems, used to create vacuum chambers for fusion energy machines.</text>
+                </subparagraph>
+                <subparagraph id="HBA55ED1F899348B7A64738AEA521B0CA">
+                  <enum>(P)</enum>
+                  <header>Fused quartz and ceramic parts used in vacuum vessels</header>
+ <text>The term <term>fused quartz parts and ceramics used in vacuum vessels</term> means components made of high-purity quartz material or other dielectric ceramics and machined into components used as plasma-facing components on fusion energy machine vacuum vessels.</text>
+                </subparagraph>
+                <subparagraph id="HFE8653899A4642038B6F6A648A6531EC">
+                  <enum>(Q)</enum>
+                  <header>Plasma formation device</header>
+ <text>The term <term>plasma formation device</term> means components used to form fusion plasmas through methods such as coaxial helicity injection or local helicity injection.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H68ADE21CCF4847CAA903272917F9FD3B">
+                  <enum>(R)</enum>
+                  <header display-inline="yes-display-inline">Fuel processing and storage
+                    components</header>
+ <text>The term <term>fuel processing and storage components</term> means components used for the manufacture, purification, processing, transport, or storage of fusion fuels, including deuterium, tritium, and helium-3.</text>
+                </subparagraph>
+                <subparagraph id="H9B43F02B9C9E4B29AF962FFC8B87DD9C">
+                  <enum>(S)</enum>
+                  <header>Cooling system components</header>
+ <text>The term <term>cooling system components</term> includes chillers, fluid coolers, distribution systems, and similar components that cool mechanical or electrical components (such as high-temperature superconducting magnets) during normal operations.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H97922E511A1F48D0A1A6F330630BAE79">
+                  <enum>(T)</enum>
+                  <header>Fusion targets</header>
+ <text>The term <term>fusion targets</term> means components that—</text> <clause commented="no" display-inline="no-display-inline" id="H91B3B7BD4E8F4352AFAA5F194ADBE4AA"> <enum>(i)</enum> <text display-inline="yes-display-inline">contain the fusion fuel in the fusion chamber, and</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H917B2C6B86854F60A614D4A1E34280B8">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">receive energy from lasers or electrical circuits to cause such fusion fuel to undergo a fusion reaction.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H7369F53A44DA4D1CABCE321EC38204CB">
+                  <enum>(U)</enum>
+                  <header display-inline="yes-display-inline">Dielectric fluids and systems</header>
+ <text>The term <term>dielectric fluids and systems</term> means—</text> <clause commented="no" display-inline="no-display-inline" id="H9C0D93AB94164BEEADF7834479B9F87D"> <enum>(i)</enum> <text display-inline="yes-display-inline">electrically insulated fluids, such as transformer oil or deionized water used for electrical insulation, and</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H0676DCC627E64E66A3A30AC93DA28E8C">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any associated equipment needed to move and maintain the physical properties of such fluids, such as pumps, filtration systems, and cooling systems.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H15F4594BF2234686B266901FAD7D2170">
+                  <enum>(V)</enum>
+                  <header display-inline="yes-display-inline">Controls equipment</header>
+ <text display-inline="yes-display-inline">The term <term>controls equipment</term> means any hardware or software used to electronically control any subsystem of a fusion energy machine.</text>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>, and</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+          <subparagraph id="H2A9EDBDB17DB4E68B5259483D22B3E47">
+            <enum>(D)</enum>
+ <text>in paragraph (7) (as redesignated by subparagraph (B) of this paragraph)—</text> <clause commented="no" display-inline="no-display-inline" id="H3707CF7D10F9420CB9BADA966C91936D"> <enum>(i)</enum> <text>in subparagraph (D)(i), by inserting <quote>beryllium hydroxide, or beryllium fluoride,</quote> after <quote>copper-beryllium master alloy,</quote>,</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="HF1255378D4DC422C820F39F4BE2581DC">
+              <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (P)(i), by striking <quote>or lithium hydroxide</quote> and inserting <quote>, lithium hydroxide, lithium chloride, lithium fluoride, lithium-6, lithium-7, or lithium tetrafluoroberyllate</quote>,</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="HC5236D7250B74E03808038B81F7D0BF0">
+              <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">by striking subparagraphs (X) and (Y) and inserting the following:</text>
+              <quoted-block style="OLC" display-inline="no-display-inline"
+                id="H0BDAD3D72EB24F639DEB1499436AA046">
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="HB94724B1F494433C95222A5E112035A2">
+                  <enum>(X)</enum>
+                  <header>Tungsten</header>
+ <text>Tungsten which is—</text> <clause commented="no" display-inline="no-display-inline" id="H4A1796C29DD94FAA9ABB85405B01E31C"> <enum>(i)</enum> <text display-inline="yes-display-inline">converted to tungsten master alloy,</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H814A3B674ADC4006A1A6CD97E3279E55">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">converted to ammonium paratungstate, ferrotungsten, tungsten trioxide, or tungsten carbide, or</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="HF6019C3BD32243A785BABBF6C2A5018B">
+                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">purified to a minimum purity of 85 percent tungsten by mass.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="HC6722D54E553422EA3261C171BA01AB7">
+                  <enum>(Y)</enum>
+                  <header>Vanadium</header>
+ <text display-inline="yes-display-inline">Vanadium which is—</text> <clause commented="no" display-inline="no-display-inline" id="HE20F256FA0F74643A8B3978628F7CA4D"> <enum>(i)</enum> <text display-inline="yes-display-inline">converted to vanadium master alloy,</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H9AE6133D286D4748AC20439B05D3154E">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">converted to ferrovanadium or vanadium pentoxide, or</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H64A4052A160D43008C1741586EBFDA63">
+                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">purified to a minimum purity of 85 percent vanadium by mass.</text>
+                  </clause>
+                </subparagraph>
+                <after-quoted-block>,</after-quoted-block>
+              </quoted-block>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="H9849DA98140A4A539BDB07843E28A32B">
+              <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (AA)—</text> <subclause commented="no" display-inline="no-display-inline" id="HC4BF301CA55344C8ABCA83089B8C77DF"> <enum>(I)</enum> <text display-inline="yes-display-inline">by redesignating clauses (xxiii) through (xxv) as clauses (xxvi) through (xxviii), respectively,</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="HA7E77DA501C44B1494950189415A6D37">
+                <enum>(II)</enum>
+ <text>by redesignating clauses (vii) through (xxii) as clauses (ix) through (xxiv), respectively,</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="H6470E79434DF4FBFB99D96BA8BE207F2">
+                <enum>(III)</enum>
+ <text display-inline="yes-display-inline">by redesignating clauses (iii) through (vi) as clauses (iv) through (vii), respectively,</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="H8DFF385E331B48199FA3F742C382430A">
+                <enum>(IV)</enum>
+ <text>by inserting after clause (ii) the following new clause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HE036A694456143DF8CDE4C27DBE1ABEF"> <clause commented="no" display-inline="no-display-inline" id="HD4E55503DC904E86B4DF32EB94648060"> <enum>(iii)</enum> <text>Deuterium.</text>
+                  </clause>
+                  <after-quoted-block>,</after-quoted-block>
+                </quoted-block>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="HC406F5252A3F43C197E96F79127F60E5">
+                <enum>(V)</enum>
+ <text>by inserting after clause (vii) (as redesignated by subclause (III) of this clause) the following new clause:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                  id="H5F86C46322104E1AB9B459CD6466BED4">
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="H4A72808ED2F64C7CA2B687DFC69F51A8">
+                    <enum>(viii)</enum>
+ <text>Helium–3.</text> </clause> <after-quoted-block>, and</after-quoted-block> </quoted-block> </subclause> <subclause commented="no" display-inline="no-display-inline" id="HC3C042E8732642DE9EF97B68B3F55F46"> <enum>(VI)</enum> <text>by inserting after clause (xxiv) (as redesignated by subclause (II) of this clause) the following new clause:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                  id="H568C47D8CFF84207AE63ACCBEC7876A8">
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="HF29AC1B02C7C4842930C469B0489D9CF">
+                    <enum>(xxv)</enum>
+ <text>Tritium.</text> </clause> <after-quoted-block>,</after-quoted-block> </quoted-block> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" id="H94727AA1D47A4C8495CAF502047C5E41"> <enum>(v)</enum> <text display-inline="yes-display-inline">by redesignating subparagraphs (I) through (AA) as subparagraphs (K) through (CC), respectively,</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="HD15FB1EFBEC04CF7A85BA61E968062AF">
+              <enum>(vi)</enum>
+ <text>by redesignating subparagraphs (E) through (H) as subparagraphs (F) through (I), respectively,</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline"
+              id="HC603195FB20D4E79BFBB93B7395118D0">
+              <enum>(vii)</enum>
+ <text display-inline="yes-display-inline">by inserting after subparagraph (D) the following new subparagraph:</text>
+              <quoted-block style="OLC" display-inline="no-display-inline"
+                id="H1A58C78AA6EC415BA3EAD435A963B0AF">
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H7F81F93F6D6445DCA2B4DA1931746F7F">
+                  <enum>(E)</enum>
+                  <header>Boron</header>
+ <text>Boron which is converted to boron carbide or ferroboron.</text> </subparagraph> <after-quoted-block>, and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="H6BFE7B05014349619FD22406DD026910"> <enum>(viii)</enum> <text display-inline="yes-display-inline">by inserting after subparagraph (I) (as redesignated by clause (vi) of this paragraph) the following new subparagraph:</text>
+              <quoted-block style="OLC" display-inline="no-display-inline"
+                id="H4FB2D7D9E2184619AAF2B8B311035B8F">
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H1F221F92B73C4518A79044FB77414C9D">
+                  <enum>(J)</enum>
+                  <header>Copper chromium zirconium</header>
+ <text>Alloys or assemblies comprised of not less than 80 percent copper.</text> </subparagraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </clause> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="H33F45BD35E374F3E8905DBEA94B4B2E3"><enum>(b)</enum><header>Conforming amendment</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/30D">Section 30D(e)(1)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>section 45X(c)(6)</quote> and inserting <quote>section 45X(c)(7)</quote>.</text></subsection>
+<subsection commented="no" display-inline="no-display-inline" id="H7A370C2CB32345E3A1CC223B52236B1D"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to components produced and sold after December 31, 2025.</text></subsection></section> </legis-body></bill>
+
