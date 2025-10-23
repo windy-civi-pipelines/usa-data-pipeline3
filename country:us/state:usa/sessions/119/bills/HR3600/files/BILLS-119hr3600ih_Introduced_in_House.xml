@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H17026C0D8A954D9C898DCB3B5FCE51E8" public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 3600 IH: Law On Offender Transgressions during Emergencies and Recovery Act of 2025</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-05-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session>
+        <legis-num display="yes">H. R. 3600</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20250523">May 23, 2025</action-date>
+            <action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> (for himself, <cosponsor name-id="B001314">Mr. Bean of Florida</cosponsor>, and <cosponsor name-id="N000026">Mr. Nehls</cosponsor>) introduced the following bill; which
+                was referred to the <committee-name committee-id="HJU00">Committee on the
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To amend title 18, United States Code, to provide for the
+            punishment of larceny during natural disasters.</official-title>
+    </form>
+    <legis-body id="HDA3C9A7FE9854ECEA800B629915DB435" style="OLC">
+        <section id="HA3BDA8781A494FA9AFF0199EF22F23CE" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Law On Offender Transgressions during Emergencies and Recovery Act of 2025</short-title></quote> or as the <quote><short-title>LOOTER Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H2DF9E76BF81B41A5A3FCACCEF4BDE04F">
+            <enum>2.</enum>
+            <header>Larceny during natural disasters</header>
+            <subsection id="H1FA8024E87BD400281F1AAFCD884B9DF">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Chapter _ of title 18, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" id="H98357D0391164784943D01BD108E9154" display-inline="no-display-inline">
+                    <section id="HDA210E517BAB42CE987A9F18628C563F">
+                        <enum>__.</enum>
+                        <header>Larceny during natural disasters</header>
+                        <subsection id="H6BD941477D55402F87EB0B5855855078">
+                            <enum>(a)</enum>
+                            <header>Petit larceny</header>
+ <text display-inline="yes-display-inline">Whoever, during any period where any county in a State is subject to an emergency declared pursuant to section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5191">42 U.S.C. 5191</external-xref>), commits petit larceny in that State (as defined under the law of the State in which the offense occurred) shall be fined under this title or imprisoned not more than 1 year, or both.</text>
+                        </subsection>
+                        <subsection id="H4E60D832E6344403A95FD02C7CD111A1">
+                            <enum>(b)</enum>
+                            <header>Grand larceny</header>
+ <text display-inline="yes-display-inline">Whoever, during any period where any county in a State is subject to an emergency declared pursuant to section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5191">42 U.S.C. 5191</external-xref>), commits grand larceny in that State (as defined under the law of the State in which the offense occurred) shall be fined under this title or imprisoned not more than 5 years, or both.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H9ABA344FB9FD4C14A830491D56B1C8EE">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for such chapter is amended by adding at the end the following:</text>
+                <quoted-block style="USC" id="HA78B166A650344E0877E5DBD0D6EE683" display-inline="no-display-inline">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">__. Larceny during natural disasters.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

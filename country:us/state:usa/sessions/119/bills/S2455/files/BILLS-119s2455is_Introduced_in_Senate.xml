@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OLL25918-40D-3H-27Y">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2455 IS: Transparency and Responsibility for Artificial Intelligence Networks Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2455</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S422">Mr. Welch</sponsor> (for himself, <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>, <cosponsor name-id="S399">Mr.
+                    Hawley</cosponsor>, and <cosponsor name-id="S427">Mr. Schiff</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSJU00">Committee on the
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To create an administrative subpoena process to assist copyright owners in
+            determining which of their copyrighted works have been used in the training of
+            artificial intelligence models.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency and Responsibility for Artificial Intelligence Networks Act</short-title></quote> or the <quote><short-title>TRAIN Act</short-title></quote>.</text>
+        </section>
+        <section id="id196EDAA57F4944D28E33AC90E4BD8430">
+            <enum>2.</enum>
+            <header>Subpoena for copies or records relating to artificial intelligence
+                models</header>
+            <subsection id="id152F9863312644F5AF0075F782CEF9D4">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/17/5">Chapter 5</external-xref> of title 17, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id61225CD99E6A4D4F97F78DECB58D9489">
+                    <section id="id6DA3C0BE51104AF9B5633111CE7A90CF">
+                        <enum>514.</enum>
+                        <header>Subpoena for copies or records relating to artificial intelligence
+                            models</header>
+                        <subsection id="idE3AE95050F574B6292CF6F003FA6C083">
+                            <enum>(a)</enum>
+                            <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="idc82202069e1a4e4aab3203a6276bb06e"> <enum>(1)</enum> <header>Artificial intelligence</header> <text display-inline="yes-display-inline">The term <term>artificial intelligence</term> has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/15/9401">15 U.S.C. 9401</external-xref>).</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id0d895203b01e41899be6ed15d2d79053">
+                                <enum>(2)</enum>
+                                <header>Artificial intelligence model</header>
+ <text display-inline="yes-display-inline">The term <term>artificial intelligence model</term> means a component of an information system that implements artificial intelligence technology and uses computational, statistical, or machine-learning techniques to produce outputs from a given set of inputs.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id66449133aea449339c0a6c4fc3b82ae6">
+                                <enum>(3)</enum>
+                                <header>Developer</header>
+ <text>The term <term>developer</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ida07f82b63f91415a895963baa39a97c7"> <enum>(A)</enum> <text display-inline="yes-display-inline">means a person or State or local government agency that—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id875eb649f8274c07a94f5c929a259d82">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">designs, codes, produces, owns, or substantially modifies a generative artificial intelligence model for use by—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id2848f6b2a9ab4d31a3ad5cd5c18cf03c">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the person or State or local government agency; or</text>
+                                        </subclause>
+                                        <subclause id="idaf344fca3add4572aee8356cb343b998">
+                                            <enum>(II)</enum>
+ <text>a third party; and</text> </subclause> </clause> <clause id="ideec0daa5a4184f25b12aef472d190418"> <enum>(ii)</enum> <text>engages in or supervises, including as a third party training dataset curator—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id7bf1e2f6754c48e88d0e94a80080821a">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the curation of the training dataset of the artificial intelligence model; or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id5584edb577d74db488d68a846d37c5f1">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the use of the training dataset to train the artificial intelligence model; and</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idDEAAF9182F224F99B52F2583FAB88C56">
+                                    <enum>(B)</enum>
+ <text>does not include a noncommercial end user of a generative artificial intelligence model.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id3802224ee6df46399f0af4fea50a0563">
+                                <enum>(4)</enum>
+                                <header>Generative artificial intelligence model</header>
+ <text display-inline="yes-display-inline">The term <term>generative artificial intelligence model</term>—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idc3c1eb2d802a4fbca2216678b48e7566">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">means an artificial intelligence model that emulates the structure and characteristics of input data in order to generate derived synthetic content, which may include images, videos, audio, text, and other digital content; and</text>
+                                </subparagraph>
+                                <subparagraph id="ida81c46c62cea4a0dbd3ab4f5be615b5d">
+                                    <enum>(B)</enum>
+ <text>includes any subsequent variation on an artificial intelligence model described in subparagraph (A), even if created by a third party.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="idafb7ff934e2c47cd9b45c35c67e394e6">
+                                <enum>(5)</enum>
+                                <header>Substantially modify</header>
+ <text>The term <term>substantially modify</term>, with respect to a generative artificial intelligence model, means to take 1 or more actions leading to a new version of, new release of, or other update to the generative artificial intelligence model that materially changes the functionality or performance of the generative artificial intelligence model, including by retraining or fine tuning the generative artificial intelligence model.</text>
+                            </paragraph>
+                            <paragraph id="idc7916f0105e648b2879b2e02827393aa">
+                                <enum>(6)</enum>
+                                <header>Training material</header>
+ <text>The term <term>training material</term> means individual works or components thereof used for the purpose of training a generative artificial intelligence model, including a combination of text, images, audio, or other categories of expressive materials, as well as annotations describing the material.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idC8DB36B46CBF4DFAB2098EAF2618B898">
+                            <enum>(b)</enum>
+                            <header>Request</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idf3529295daf04f8faec966130db6b525">
+                                <enum>(1)</enum>
+                                <header display-inline="yes-display-inline">In general</header>
+ <text>The legal or beneficial owner of an exclusive right under a copyright, or a person authorized to act on the owner's behalf, may request the clerk of any United States district court to issue a subpoena to a developer for disclosure of copies of, or records sufficient to identify with certainty, the copyrighted works, or any portion thereof, likely owned or controlled by the legal or beneficial owner that were used by the developer to train the generative artificial intelligence model, if the legal or beneficial owner or authorized person has a subjective good faith belief that the developer used some or all of 1 or more such copyrighted works to train the generative artificial intelligence model.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="ida612d93061864b96b4d4a8f321faf68e">
+                                <enum>(2)</enum>
+                                <header>Subpoena limited to requester's own copyrighted
+                                    work</header>
+ <text>Nothing in paragraph (1) shall be construed to authorize a legal or beneficial owner of an exclusive right under a copyright, or a person authorized to act on the owner's behalf, to request a subpoena for disclosure of copies of, or records sufficient to identify with certainty, copyrighted works likely owned or controlled by any person other than the legal or beneficial owner.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idB79CDE27C9F74471AF64C8A4E70CDC36">
+                            <enum>(c)</enum>
+                            <header>Contents of request</header>
+ <text>A request under subsection (b) may be made by filing with the clerk—</text>
+                            <paragraph id="id8583445D20AA4724AA411B2378EDE080">
+                                <enum>(1)</enum>
+ <text>a proposed subpoena; and</text> </paragraph> <paragraph id="id51E491D82F6849BEA41DC24F61C13690"> <enum>(2)</enum> <text>a sworn declaration to the effect that—</text>
+                                <subparagraph id="idB054E14B290C4D738BB32E16FF0A8924">
+                                    <enum>(A)</enum>
+ <text>the legal or beneficial owner or authorized person has a subjective good faith belief that the developer used some or all of 1 or more of the copyrighted works owned or controlled by the legal or beneficial owner to train the generative artificial intelligence model;</text>
+                                </subparagraph>
+                                <subparagraph id="idF83F3405B71F4C038CEABE0A8A071937">
+                                    <enum>(B)</enum>
+ <text>the purpose for which the subpoena is sought is to obtain copies of the training material, or records sufficient to identify with certainty the training material, used to train the generative artificial intelligence model in order to determine whether the developer has used copyrighted works owned or controlled by the legal or beneficial owner in connection with the generative artificial intelligence model; and</text>
+                                </subparagraph>
+                                <subparagraph id="id7340A397C38542EDBE894B3C8DA56EEB">
+                                    <enum>(C)</enum>
+ <text>the copies or records will only be used for the purpose of protecting the rights of the legal or beneficial owner.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id0AFA0FDDC1E5435AA66C4738BF335CF5">
+                            <enum>(d)</enum>
+                            <header>Contents of subpoena</header>
+ <text display-inline="yes-display-inline">A subpoena issued pursuant to a request under subsection (b) shall authorize and order the developer receiving the subpoena to expeditiously disclose to the legal or beneficial owner or authorized person all records described in that subsection.</text>
+                        </subsection>
+                        <subsection id="id96AB276ACD21471E93277CB63503D565">
+                            <enum>(e)</enum>
+                            <header>Basis for granting subpoena</header>
+ <text>If a proposed subpoena described in subsection (c)(1) is in proper form, and the accompanying declaration described in subsection (c)(2) is properly executed, the clerk shall expeditiously issue and sign the proposed subpoena and return it to the requester for delivery to the developer.</text>
+                        </subsection>
+                        <subsection id="id2853921E6E8C4E54994CB75FC9B60AA5">
+                            <enum>(f)</enum>
+                            <header>Actions of developer receiving subpoena</header>
+ <text>Upon receipt of a subpoena issued under subsection (e), a developer shall expeditiously disclose to the legal or beneficial owner or authorized person the copies or records requested by the subpoena.</text>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="id1053ea8368cd460ca3727490c68ab19e">
+                            <enum>(g)</enum>
+                            <header>Duty of confidentiality</header>
+ <text>A legal or beneficial owner or authorized person who receives copies or records from a developer under this section may not disclose the copies or records to any other person without proper authorization or consent.</text>
+                        </subsection>
+                        <subsection id="id05AC9C7326A04C10A05837F609FFA3EC">
+                            <enum>(h)</enum>
+                            <header>Rules applicable to subpoena</header>
+ <text>Unless otherwise provided by this section or by applicable rules of the court, the procedure for issuance and delivery of a subpoena issued under subsection (e), and the remedies for noncompliance with the subpoena, shall be governed to the greatest extent practicable by the provisions of the Federal Rules of Civil Procedure governing the issuance, service, and enforcement of a subpoena duces tecum.</text>
+                        </subsection>
+                        <subsection id="id485A11ECCECA4DF8B19899E4B6CE67D9">
+                            <enum>(i)</enum>
+                            <header>Rebuttable presumption</header>
+ <text>If a developer fails to comply with a subpoena issued under subsection (e), that failure shall provide a rebuttable presumption that the developer made copies of the copyrighted work.</text>
+                        </subsection>
+                        <subsection id="id6920a40eb88140fdabb418b71a661819">
+                            <enum>(j)</enum>
+                            <header>Sanctions for bad faith subpoena request</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id614abbec71594a3cac97a28d983c2706">
+                                <enum>(1)</enum>
+                                <header display-inline="yes-display-inline">Motion</header>
+ <text>If the legal or beneficial owner of an exclusive right under a copyright, or a person authorized to act on the owner’s behalf, requests a subpoena under subsection (b) in bad faith, the court that issued the subpoena, upon motion of the recipient of the subpoena, may impose sanctions on the legal or beneficial owner or authorized person.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id99a9ea88cfbd4be1852b700a8177b3de">
+                                <enum>(2)</enum>
+                                <header>Implementation</header>
+ <text>Rule 11(c) of the Federal Rules of Civil Procedure shall apply to sanctions imposed under this subsection in the same manner as that rule applies to sanctions imposed for a violation of rule 11(b) of those Rules.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="id5bf471f34d3340a1864983d38e84c8bc">
+                            <enum>(k)</enum>
+                            <header>Effective date</header>
+ <text display-inline="yes-display-inline">This section shall take effect on the date of enactment of this section.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id6449494EAAE64BDE994D8F61167E42BE">
+                <enum>(b)</enum>
+                <header>Technical and conforming amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/17/5">chapter 5</external-xref> of title 17, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id08400A143FCC46F695C0F87B686AFEA2">
+                    <toc>
+                        <toc-entry bold="off" level="section">514. Subpoena for copies or records
+                            relating to artificial intelligence models.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

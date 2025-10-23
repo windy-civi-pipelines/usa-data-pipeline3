@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"
+  slc-id="S1-TAM25289-9L1-W0-LMK">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S822 IS: Scientific External Process for Educated Review of Therapeutics Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+    <distribution-code>II</distribution-code>
+    <congress>119th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>S. 822</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date>March 3, 2025</action-date>
+      <action-desc><sponsor name-id="S311">Ms. Klobuchar</sponsor> (for herself and <cosponsor
+          name-id="S318">Mr. Wicker</cosponsor>) introduced the following bill; which was read twice
+        and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education,
+          Labor, and Pensions</committee-name></action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To amend the Federal Food, Drug, and Cosmetic Act to establish a process for
+      science-focused drug development meetings led by the Reagan-Udall Foundation for the Food and
+      Drug Administration with respect to drugs for rare diseases and conditions, and for other
+      purposes.</official-title>
+  </form>
+  <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause"
+    id="H969DCEBD4E9842AEB35857068ED7209F">
+    <section section-type="section-one" id="H1670E51A7E9E4FDCB9355152778A36C8">
+      <enum>1.</enum>
+      <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Scientific External Process for Educated Review of Therapeutics Act of 2025</short-title></quote> or the <quote><short-title>Scientific EXPERT Act of 2025</short-title></quote>.</text>
+    </section>
+    <section id="H33AA097108BE4DFA853D4C4F7F04DA9A">
+      <enum>2.</enum>
+      <header>Science-focused drug development meetings</header>
+ <text display-inline="no-display-inline">The Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/301">21 U.S.C. 301 et seq.</external-xref>) is amended by inserting after section 770 (<external-xref legal-doc="usc" parsable-cite="usc/21/379dd">21 U.S.C. 379dd</external-xref>) the following:</text>
+      <quoted-block style="OLC" display-inline="no-display-inline"
+        id="H13E2BB9D5B8D4371830A978516918F25">
+        <section id="H76504F880DE4419688AEE8FFE5BCFC5B">
+          <enum>770A.</enum>
+          <header>Science-focused drug development meetings</header>
+          <subsection id="HD08040BE76274D5B9EF0D6396758C274">
+            <enum>(a)</enum>
+            <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall develop and implement a process for Foundation led, science-focused drug development meetings to provide an opportunity for academic researchers and medical experts, drug sponsors, scientific organizations, and patient organizations to—</text>
+            <paragraph id="HA8DD566AD2EA4FCBB82589A0FB8B42C7">
+              <enum>(1)</enum>
+ <text display-inline="yes-display-inline">discuss science-related challenges impacting the development of drugs for rare diseases and conditions;</text>
+            </paragraph>
+            <paragraph id="HF802EC8909CC472DBC624C249CF6F360">
+              <enum>(2)</enum>
+ <text>identify scientific approaches and opportunities to facilitate the development, review, and approval of such drugs; and</text>
+            </paragraph>
+            <paragraph id="H8CE0CF7958EC42B1A2E6C4A4BAEB490B">
+              <enum>(3)</enum>
+ <text>align on novel approaches for the development of drugs for particular diseases, including appropriate clinical trial designs and metrics, manufacturing standards, patient populations, clinical endpoints, the use of biomarkers as surrogate endpoints, and natural history as a control, to advance treatment options to address unmet medical needs.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H26BDAED095FA4B7C8D612213E7023660">
+            <enum>(b)</enum>
+            <header>Arrangement</header>
+            <paragraph id="H4EC5BE04167B488A8FCBFC9FB5BEA595">
+              <enum>(1)</enum>
+              <header>Qualified third party convenor</header>
+ <text display-inline="yes-display-inline">The Secretary shall enter into an arrangement with the Foundation under which the Foundation agrees to convene EL–SFDD meetings regarding drugs for rare diseases or conditions in accordance with this section.</text>
+            </paragraph>
+            <paragraph id="HE913533D1E3F4290902E673119E2345A">
+              <enum>(2)</enum>
+              <header>Minimum number of meetings</header>
+ <text display-inline="yes-display-inline">The Foundation shall convene no fewer than 4 EL–SFDD meetings each year, with each such meeting focused on addressing a different rare disease or condition or a different group of rare diseases and conditions.</text>
+            </paragraph>
+            <paragraph id="H74BA60E7FF394C4DAA6D36F037EF505A">
+              <enum>(3)</enum>
+              <header>Steering committee</header>
+              <subparagraph id="HC10DA95C8C6D42FDB1FFC2B7126B3AF7">
+                <enum>(A)</enum>
+                <header>In general</header>
+ <text>The Foundation shall establish and maintain a permanent steering committee, to be known as the Science-Focused Drug Development Multistakeholder Steering Committee, to advise the Foundation on implementation of this section, including by—</text>
+                <clause id="H2DDBF1E97B454CB29789ADE53C1ADF6F">
+                  <enum>(i)</enum>
+ <text>establishing a process by which licensed and board-certified medical clinicians and academics with expertise in a rare disease or condition, sponsors of drugs for a rare disease or condition, scientific organizations, rare disease or condition patient organizations, and other entities can provide suggested meeting topics to the Foundation;</text>
+                </clause>
+                <clause id="H5167564714AD430194B0C05D77B92464">
+                  <enum>(ii)</enum>
+ <text>reviewing such suggested meeting topics for EL–SFDD meetings; and</text> </clause> <clause id="H94E10F50EA0C4826A89CEE430D0914D4"> <enum>(iii)</enum> <text>based on the criteria under subparagraph (B), recommending to the Foundation topics for EL–SFDD meetings.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HF7D02254760541FB9944CD759BB5D76E">
+                <enum>(B)</enum>
+                <header>Criteria for meetings</header>
+ <text>In formulating recommendations under subparagraph (A), the Foundation shall consider—</text>
+                <clause id="H8B604E6F51CB444F9A5B158A0E493E10">
+                  <enum>(i)</enum>
+ <text>unmet therapeutic needs;</text> </clause> <clause id="HAC8DC87D14BC492A93F1CDF135E07796"> <enum>(ii)</enum> <text>the size of the patient population of the rare disease or condition;</text>
+                </clause>
+                <clause id="HEF2C8EDA2DB646549E8C655E638B6AF1">
+                  <enum>(iii)</enum>
+ <text>whether there were or are multiple products in development to prevent or treat the rare disease or condition involved;</text>
+                </clause>
+                <clause id="H3CB3DD7973614018B091DC60C49F848C">
+                  <enum>(iv)</enum>
+ <text>whether there is a need for increased regulatory flexibility to facilitate the development of products;</text>
+                </clause>
+                <clause id="H0D6EC34F47ED4013B7E099B1503204CF">
+                  <enum>(v)</enum>
+ <text>whether the rare disease or condition involved would benefit from clarity and alignment on drug development questions (such as clinical trial design, natural history as a control, appropriate clinical endpoints, biomarkers that may serve as surrogate endpoints, and other approaches) to expedite drug development for such disease or condition; and</text>
+                </clause>
+                <clause id="H7B22920EE799450D8455B3D41BB8D6D5">
+                  <enum>(vi)</enum>
+ <text>whether the discussions about such rare disease or condition may have broader impact on other rare diseases and conditions.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HD57D3A25615B4B7CAFF879994EFB3834">
+                <enum>(C)</enum>
+                <header>Membership</header>
+ <text>The members of the Steering Committee shall be subject to all relevant conflict of interest policies of the Foundation, and shall include—</text>
+                <clause id="HB83139A39BFB4B449227A7F23E0A619F">
+                  <enum>(i)</enum>
+ <text>representatives of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, and the Center for Devices and Radiological Health;</text>
+                </clause>
+                <clause id="H9262796E31114E2A97970AD446CDDBC3">
+                  <enum>(ii)</enum>
+ <text>academic and licensed and board-certified medical clinicians;</text> </clause> <clause id="H80352CDE59D94A1BBF2A6A0E3CC010C4"> <enum>(iii)</enum> <text>patient representatives; and</text>
+                </clause>
+                <clause id="H07887360D275442A96DB032201640533">
+                  <enum>(iv)</enum>
+ <text>industry representatives engaged in the development of drugs for rare diseases and conditions.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HDB6942B9D3174AB6A679F8E82A8D4EC4">
+              <enum>(4)</enum>
+              <header>Planning process</header>
+ <text display-inline="yes-display-inline">In planning an EL–SFDD meeting under this section, the Foundation, in consultation with the stakeholders listed in paragraph (5), shall develop—</text>
+              <subparagraph id="H90B53D12DF414046880F192599F204B6">
+                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a list of the specific objectives of the meeting related to key drug development issues for the rare disease or condition, or group of rare diseases and conditions, with a goal of expediting drug development;</text>
+              </subparagraph>
+              <subparagraph id="HEBFEEB5531974085B35F52C5C4C8F395">
+                <enum>(B)</enum>
+ <text>a proposed agenda for the meeting; and</text> </subparagraph> <subparagraph id="H57145AAF182A4D1493BC88697689DB22"> <enum>(C)</enum> <text display-inline="yes-display-inline">a list of medical experts, drug sponsors, scientific organizations, patient organizations, and other entities to be invited to participate in the meeting.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H73805D93D5D04D74B8D34484A4745C80">
+              <enum>(5)</enum>
+              <header>Agency and stakeholder engagement</header>
+ <text>Throughout the process of planning an EL–SFDD meeting, the Foundation shall consult with—</text>
+              <subparagraph id="H9B312F12D6C8473D9CEB36F9A65907AC">
+                <enum>(A)</enum>
+ <text>appropriate staff of the Food and Drug Administration;</text> </subparagraph> <subparagraph id="HA53E04E8D76443F58504D0F3CB8FF34F"> <enum>(B)</enum> <text display-inline="yes-display-inline">the Steering Committee;</text>
+              </subparagraph>
+              <subparagraph id="H7FDB14B1177C460D8A4A44FA5F7F637B">
+                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">industry representatives engaged in the development of products for rare diseases and conditions to be discussed at such EL–SFDD meeting;</text>
+              </subparagraph>
+              <subparagraph id="HFB899D38614547D28EE50C85B40DC37C">
+                <enum>(D)</enum>
+ <text>patient representatives of rare diseases and conditions under discussion in such EL–SFDD meeting;</text>
+              </subparagraph>
+              <subparagraph id="HC429019B396F4579B20E20AECA2F3834">
+                <enum>(E)</enum>
+ <text>academics or board-certified and licensed medical clinicians with expertise in treating a rare disease or condition; and</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="idb0d985ba06e44ffdbb4fcf9e764295a2">
+                <enum>(F)</enum>
+ <text display-inline="yes-display-inline">other appropriate stakeholders.</text> </subparagraph> </paragraph> <paragraph commented="no" id="HF4D0B387E61049A0B0D40585E4A97715"> <enum>(6)</enum> <header>Post-meeting reports</header> <subparagraph commented="no" id="HF56B1B1D53144CE68F5CD698CCEBF6E5"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">Not later than 180 days after an EL–SFDD meeting, the Foundation shall make publicly available on the website of the Food and Drug Administration—</text>
+                <clause id="H106ACF142FB34E8AA2DF8ED86FBB1887">
+                  <enum>(i)</enum>
+ <text>a transcript and recording of the meeting; and</text> </clause> <clause id="HECACF330E82945CBA1E3A8D90C5B5EB3"> <enum>(ii)</enum> <text>in consultation with the stakeholders listed in paragraph (5), a summary analysis of the input received during the meeting that is relevant to approval or licensing of drugs for the rare disease or condition involved.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph commented="no" id="H718609C3D11F4249A0200E092081D56B">
+                <enum>(B)</enum>
+                <header>Contents</header>
+ <text>Each publication under subparagraph (A) shall include a clear identification of—</text>
+                <clause id="HBCFC712852804CB9A8016014028BF59A">
+                  <enum>(i)</enum>
+ <text>areas of consensus;</text> </clause> <clause id="H953B04EC52C341089CFB3ED2B6854600"> <enum>(ii)</enum> <text>areas where additional clarification or information is needed to reach consensus; and</text>
+                </clause>
+                <clause id="H2DE6B83D89C24F8B8989CAA9AEC522E1">
+                  <enum>(iii)</enum>
+ <text>next steps agreed upon with the Food and Drug Administration.</text> </clause> </subparagraph> </paragraph> </subsection> <subsection id="H1B5DD9AE8DD34A808B802AD88DD44945"> <enum>(c)</enum> <header>Representatives of FDA review divisions</header> <text display-inline="yes-display-inline">The Secretary shall require appropriate representatives of the review divisions of the Food and Drug Administration to participate in each EL–SFDD meeting under this section.</text>
+          </subsection>
+          <subsection id="HB1315BAEDE4E4C4C89EE451BB2BCBD7A">
+            <enum>(d)</enum>
+            <header>Rules of construction</header>
+ <text>Nothing in this section shall be construed—</text> <paragraph id="H0BC58E5B23664629B1A258B46D2EE687"> <enum>(1)</enum> <text display-inline="yes-display-inline">to prevent other third-party organizations from organizing similarly structured EL–SFDD-like meetings to discuss challenges in rare disease drug development;</text>
+            </paragraph>
+            <paragraph id="HF12113F3F54046DE9755DFA769F5B05C">
+              <enum>(2)</enum>
+ <text>to require the Food and Drug Administration to participate in additional meetings described in paragraph (1);</text>
+            </paragraph>
+            <paragraph id="H32871B3A92564F2CA6CE4845825BF0CD">
+              <enum>(3)</enum>
+ <text>to alter the protections offered by laws, regulations, or policies governing disclosure of confidential commercial or trade secret information and any other information exempt from disclosure pursuant to section 552(b) of title 5, United States Code;</text>
+            </paragraph>
+            <paragraph id="H8D658E5F450A401F9401D283BBCDF4BF">
+              <enum>(4)</enum>
+ <text>to limit the ability of the Secretary to consult with individuals and organizations;</text>
+            </paragraph>
+            <paragraph id="HE3BFCA8DDE404339ADDC61225DFD89E5">
+              <enum>(5)</enum>
+ <text>to create a legal right for consultation on any matter or require the Secretary to meet with any particular expert or stakeholder;</text>
+            </paragraph>
+            <paragraph id="H26F98B6B1CE64F46810E97B3E63B6D2F">
+              <enum>(6)</enum>
+ <text>to alter agreed-upon goals and procedures identified in the letters described in section 1001(b) of the FDA User Fee Reauthorization Act of 2022; or</text>
+            </paragraph>
+            <paragraph id="HABDD5DCA49E84E3D8D918DA635A6EF68">
+              <enum>(7)</enum>
+ <text>to increase the number of review cycles for drugs.</text> </paragraph> </subsection> <subsection id="H3B6FC09DC63842D1A78CC550108D574E"> <enum>(e)</enum> <header>Definitions</header> <text display-inline="yes-display-inline">In this section:</text>
+            <paragraph id="H4F7D5D74010F42A2BF8CB1AB931F8470">
+              <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The term <term>EL–SFDD meeting</term> means an externally led, science-focused drug development meeting.</text>
+            </paragraph>
+            <paragraph id="HF59E43B3C23D4D7B8B40D319C5031793">
+              <enum>(2)</enum>
+ <text>The term <term>rare disease or condition</term> has the meaning given such term in section 526.</text>
+            </paragraph>
+            <paragraph id="H02026234C48E43E386300D8560CB47A4">
+              <enum>(3)</enum>
+ <text display-inline="yes-display-inline">The term <term>Steering Committee</term> means the Science-Focused Drug Development Multistakeholder Steering Committee established under subsection (b)(3).</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H3B11ED40B4AC4E6D925672EC38A8A5CB">
+            <enum>(f)</enum>
+            <header>Authorization of appropriations</header>
+            <paragraph id="H36388EA76C15455B87B27983B175381C">
+              <enum>(1)</enum>
+              <header>In general</header>
+ <text display-inline="yes-display-inline">To carry out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2025 through 2029.</text>
+            </paragraph>
+            <paragraph id="HD0285CFEC48E475E9A00F394A4A2F3E8">
+              <enum>(2)</enum>
+              <header>Rule of construction</header>
+ <text>Nothing in this section shall be construed to prohibit the Foundation from soliciting or accepting funds pursuant to section 770(i) for the purposes of planning or operating an EL–SFDD meeting authorized by this section.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section commented="no" id="HABC97437103B4B47A576D49D52F927DB">
+          <enum>770B.</enum>
+          <header>Required actions following EL–SFDD meetings</header>
+          <subsection commented="no" id="HBF702B5FC6F842448B0FBB64D64A5F63">
+            <enum>(a)</enum>
+            <header>Incorporation of input into risk-Benefit assessments</header>
+ <text display-inline="yes-display-inline">In approving or licensing a drug under subsection (c) or (j) of section 505 of this Act or subsection (a) or (k) of section 351 of the Public Health Service Act, the Secretary shall make public—</text>
+            <paragraph id="H25C19D31D58A4563A3852BEDD41D7CF2">
+              <enum>(1)</enum>
+ <text display-inline="yes-display-inline">a statement of whether any EL–SFDD meeting under section 770A was held that was relevant to such approval or licensure; and</text>
+            </paragraph>
+            <paragraph id="H58A1666A468E44F7A3B8D189165758EC">
+              <enum>(2)</enum>
+ <text display-inline="yes-display-inline">if a meeting described in paragraph (1) was held, a description of how the Secretary incorporated input from such meeting in the risk-benefit assessment described in section 505(d).</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H0DF881907C0C4AFA92EAA56041981327">
+            <enum>(b)</enum>
+            <header>Annual report</header>
+ <text>On an annual basis, the Secretary shall submit a report to Congress summarizing—</text>
+            <paragraph id="HD023F7635EAF46CDB21FCC52D3B1465F">
+              <enum>(1)</enum>
+ <text>the number and topics of EL–SFDD meetings held during the reporting period;</text>
+            </paragraph>
+            <paragraph id="H7B938C69B2CB4B1C97FCFFEAE8D95F1E">
+              <enum>(2)</enum>
+ <text>the extent of participation in such meetings from the review divisions of the Food and Drug Administration;</text>
+            </paragraph>
+            <paragraph id="H0FBC05F24F7D472EA3230A89C173371B">
+              <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the impact of EL–SFDD meetings on the workload and resources of the Food and Drug Administration; and</text>
+            </paragraph>
+            <paragraph id="HC21F97781F1E49B39A7ED7DFE88791F5">
+              <enum>(4)</enum>
+ <text>an assessment of how the input received during such meetings was used in—</text> <subparagraph id="H180BBDBCDC7B4D50B19FA17A3469790A"> <enum>(A)</enum> <text display-inline="yes-display-inline">deliberations throughout the drug development lifecycle;</text>
+              </subparagraph>
+              <subparagraph id="HB5C6748443B74914B44DC11D57AC3DC6">
+                <enum>(B)</enum>
+ <text>regulatory decision-making; and</text> </subparagraph> <subparagraph id="H78221595A2C74FEFBA58B7D1A65A8992"> <enum>(C)</enum> <text>formulating recommendations for future meetings.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H9AE177BE0AB547B6BA7AF2896DEC4157">
+            <enum>(c)</enum>
+            <header>Definition</header>
+ <text>In this section, the term <term>EL–SFDD meeting</term> has the meaning given to that term in section 770A.</text>
+          </subsection>
+          <subsection id="HFD0F7A2C35D644E6AE5433C014FAF7AD">
+            <enum>(d)</enum>
+            <header>Authorization of appropriations</header>
+ <text display-inline="yes-display-inline">To carry out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2025 through 2029.</text>
+          </subsection>
+        </section>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+    </section>
+  </legis-body>
+</bill>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3EF545EAEF4145AF8A6011D16FF16F2E" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 1490 IH: TRIO Access Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-02-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1490</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20250221">February 21, 2025</action-date>
+<action-desc><sponsor name-id="M001160">Ms. Moore of Wisconsin</sponsor> (for herself, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>, and <cosponsor name-id="T000467">Mr. Thompson of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to allow certain return information disclosed to institutions of higher education for financial aid purposes to also be used for certain Federal TRIO programs.</official-title>
+</form>
+<legis-body id="H1E057EF1E20D4073ACBC94B67934157A" style="OLC">
+<section id="HA577E24E13874310899FB8E19B66FDEB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>TRIO Access Act</short-title></quote>. </text></section> <section id="H9EB0F43E61F044E28B78677B43CBF5F7"><enum>2.</enum><header>Certain return information disclosed to institutions of higher education for financial aid purposes also allowed to be used for certain Federal TRIO programs</header><text display-inline="no-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6103">Section 6103(l)(13)(D)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause:</text>
+<quoted-block style="OLC" id="H5B10DA1BF83449E3B0ED33FBE4472C0D" display-inline="no-display-inline">
+<clause id="H8EE2FCFF6D06403BBD46AC8BDCB24901"><enum>(vii)</enum><header>Certain Federal TRIO programs</header><text display-inline="yes-display-inline">Return information received pursuant to clause (iii)(I) may be used by the institution of higher education referred to in such clause for the purposes of the programs authorized under sections 402D and 402E of the Higher Education Act of 1965 (20 U.S.C. 1070a–14 and 1070a–15; relating to student support services and the Ronald E. McNair Post-Baccalaureate Achievement Program), as in effect on the date of the enactment of this clause.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="H2291D33F23184B2786E8819D69C92C15"><enum>3.</enum><header>Conforming amendments to the Higher Education Act of 1965</header> <subsection id="HD87E214E9CCE4AE6A0FD8EC5EE28B551" commented="no"><enum>(a)</enum><header>Authorization To disclose fAFSA information</header><text display-inline="yes-display-inline">Section 483(a)(2)(D)(i) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1090">20 U.S.C. 1090(a)(2)(D)(i)</external-xref>) is amended by striking <quote>to disclose to an institution</quote> and inserting <quote>to disclose to an institution for purposes of a program authorized under section 402D or 402E, and to disclose to an institution</quote>.</text></subsection>
+<subsection id="HCC6FFD9E4FFE479D8B4DDA4FE4B9EE08"><enum>(b)</enum><header>Use of information provided to the institution</header><text display-inline="yes-display-inline">Section 483(a)(3)(C)(i) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1090">20 U.S.C. 1090(a)(3)(C)(i)</external-xref>) is amended to read as follows: </text> <quoted-block style="OLC" id="H0F77674D698549A89ED5C1135552E1A4" display-inline="no-display-inline"> <clause id="H3AE453CC8570472EB78F1639459D404C"><enum>(i)</enum><text display-inline="yes-display-inline">shall use the information provided to the institution solely—</text>
+<subclause id="H3544626F287146B5B93560A41A4C6B02"><enum>(I)</enum><text>for the application, award, and administration of financial aid to the applicant; and</text></subclause> <subclause id="H1D17512A56BC4274BC2C06EA69AB20E8"><enum>(II)</enum><text display-inline="yes-display-inline">for purposes of a program authorized under section 402D or 402E;</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H6079568F2BD444AAB68CB1796F6F36CD"><enum>(c)</enum><header>Notification and Approval Requirements for requesting tax return information</header><text>Section 494(a)(1)(A) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1098h">20 U.S.C. 1098h(a)(1)(A)</external-xref>) is amended—</text> <paragraph id="HFE1CD15DA38A4540A4433554A400BD40"><enum>(1)</enum><text>in clause (i)(II), by striking <quote>(v), and (vi)</quote> and inserting <quote>(v), (vi), and (vii)</quote>; and</text></paragraph>
+<paragraph id="HB7285891D10C4C70B015A4273587761F" commented="no"><enum>(2)</enum><text>in clause (ii), by inserting <quote>and an institution of higher education being unable to determine the eligibility of such individual for a program authorized under section 402D or 402E</quote> before the semicolon.</text></paragraph></subsection></section> </legis-body> </bill> 
+

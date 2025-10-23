@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25439-9DS-WC-GSY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1775 IS: Protecting AI and Cloud Competition in Defense Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1775</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S366">Ms. Warren</sponsor> (for herself and <cosponsor name-id="S420">Mr. Schmitt</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAS00">Committee on
+                    Armed Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for certain requirements relating to cloud, data infrastructure,
+            and foundation model procurement.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting AI and Cloud Competition in Defense Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id61b333ee582a41fc85ff73e13dc2cc05">
+            <enum>2.</enum>
+            <header>Ensuring competition in artificial intelligence procurement</header>
+            <subsection id="iddc2428fbcd3e462b98ebbc9fd9b401af">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="idc8f0b54d17cd42f2b1bfba3c85d0fe03"> <enum>(1)</enum> <header>Artificial intelligence; AI</header> <text>The terms <term>artificial intelligence</term> and <term>AI</term> have the meaning given the term <term>artificial intelligence</term> in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/15/9401">15 U.S.C. 9401</external-xref>).</text>
+                </paragraph>
+                <paragraph id="id769ee5a95fb6431197b9693d6c68a228">
+                    <enum>(2)</enum>
+                    <header>Cloud computing</header>
+ <text>The term <term>cloud computing</term> has the meaning given the term in Special Publication 800–145 of the National Institute of Standards and Technology, or any successor document.</text>
+                </paragraph>
+                <paragraph id="idab5ef166930845a186c23c3f7e00ac6a">
+                    <enum>(3)</enum>
+                    <header>Cloud provider</header>
+ <text>The term <term>cloud provider</term> means any company engaged in the provision, sale, or licensing of cloud computing to customers, including individuals and businesses.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ideffaef13e1714104ae86eabc9275e36a">
+                    <enum>(4)</enum>
+                    <header>Congressional defense committees</header>
+ <text>The term <term>congressional defense committees</term> has the meaning given the term in section 101(a) of title 10, United States Code.</text>
+                </paragraph>
+                <paragraph id="ida278e94e25074e0b857ea85f25e886e0">
+                    <enum>(5)</enum>
+                    <header>Covered provider</header>
+ <text>The term <term>covered provider</term> means any cloud provider, data infrastructure provider, or foundation model provider that has entered into contracts with the Department of Defense totaling at least $50,000,000 in any of the 5 previous fiscal years.</text>
+                </paragraph>
+                <paragraph id="id263e1c05a0624f24925a4addd558f65e">
+                    <enum>(6)</enum>
+                    <header>Data infrastructure</header>
+ <text>The term <term>data infrastructure</term> means the underlying computer, network, and software systems that enable the collection, storage, processing, and analysis of data, including the ability to record, transmit, transform, categorize, integrate, and otherwise process data generated by digital data systems.</text>
+                </paragraph>
+                <paragraph id="id6b93ce1c29384e08bd620810e35d5a9f">
+                    <enum>(7)</enum>
+                    <header>Data infrastructure provider</header>
+ <text>The term <term>data infrastructure provider</term> means any company engaged in the provision, sale, or licensing of data infrastructure to customers, including individuals and businesses.</text>
+                </paragraph>
+                <paragraph id="id5b2abf89df874aa58c1e538f5b9e4496">
+                    <enum>(8)</enum>
+                    <header>Foundation model</header>
+ <text>The term <term>foundation model</term> means an artificial intelligence model that—</text>
+                    <subparagraph id="id7e02a8bf1cf44b9c882b276547f2fb21">
+                        <enum>(A)</enum>
+                        <clause commented="no" display-inline="yes-display-inline" id="id5d6692a80fa5474682b60f2793c5db07">
+                            <enum>(i)</enum>
+ <text>generally uses self-supervision;</text> </clause> <clause id="idc85da2b3ccb54ddfa93921ef3def2228" indent="up1"> <enum>(ii)</enum> <text>contains at least 1,000,000,000 parameters; and</text>
+                        </clause>
+                        <clause id="idc34bd8d3fbad4a2db73d76f5fdab66ec" indent="up1">
+                            <enum>(iii)</enum>
+ <text>is applicable across a wide range of contexts; or</text> </clause> </subparagraph> <subparagraph id="id50c173a4b80e4aafa0f3768d4f8289f0"> <enum>(B)</enum> <text>exhibits, or could be easily modified to exhibit, high levels of performance at tasks that pose a serious risk to security, national economic security, national public health, or safety.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idab802634f8d34c31929e3ebcfc7b98dc">
+                    <enum>(9)</enum>
+                    <header>Foundation model provider</header>
+ <text>The term <term>foundation model provider</term> means any company engaged in the provision, sale, or licensing of foundation models to customers, including individuals and businesses.</text>
+                </paragraph>
+                <paragraph id="id0a81f8ce69d4426dbe20c90e7bef27a7">
+                    <enum>(10)</enum>
+                    <header>Multi-cloud technology</header>
+ <text>The term <term>multi-cloud technology</term> means architecture and services that allow for data, application, and program portability, usability, and interoperability between infrastructure, platforms, and hosted applications of multiple cloud providers and between public, private, and edge cloud environments in a manner that securely delivers operational and management consistency, comprehensive visibility, and resiliency.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idebefd6cc04274e198ebfef9aee634d28">
+                <enum>(b)</enum>
+                <header>Cloud, data infrastructure, and foundation model procurement
+                    requirements</header>
+ <text>The Secretary of Defense shall, in contracting provisions with cloud providers, foundation model providers, and data infrastructure providers—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id41a419a03f614090966cdaf1fc048304">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">promote security, resiliency, and competition in the procurement of such solutions by requiring a competitive award process for each procurement of cloud computing, data infrastructure, or foundation model solutions;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id09d52492ccb54db696bea6eb47decd84">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">ensure that the Government maintains exclusive rights to access and use of all Government data; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0a2f10ab4ea640d5af4fbbf1177094dc">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">ensure that the competitive process—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idda4ffa5dc04d4e20b8823fcf3e54c074">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">prioritizes the appropriate role for the Government with respect to intellectual property and data rights and security, interoperability, and auditability requirements;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="iddc1458ea1d0344a6a200694c9e56577a">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">includes modular open systems approaches and appropriate work allocation and technical boundaries;</text>
+                    </subparagraph>
+                    <subparagraph id="id15db1f35660a4c14a837f851241472d9">
+                        <enum>(C)</enum>
+ <text>mitigates barriers to entry faced by small businesses and nontraditional contractors; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7ff3da2c893244c494784fafd57f6900">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">prioritizes multi-cloud technology unless doing so is infeasible or presents a substantial danger to national security.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idbe9f771d480f4610a46fdd5e9ed7bd70">
+                <enum>(c)</enum>
+                <header>Data training and use protection</header>
+ <text>The Secretary of Defense shall direct the Chief Digital and Artificial Intelligence Office to update or promulgate provisions of the Defense Federal Acquisition Regulation Supplement (DFARS) to ensure that—</text>
+                <paragraph id="id0cc301815c444dca8f60cef3085daeaa">
+                    <enum>(1)</enum>
+ <text>Government-furnished data, provided for purposes of development and operation of AI products and services to the Department of Defense, is not disclosed or used without proper authorization by the Department of Defense, including that such data cannot be used to train or improve the functionality of commercial products offered by a covered provider without express authorization by the Department of Defense;</text>
+                </paragraph>
+                <paragraph id="ide849372f2ac3425289700abfc758b2eb">
+                    <enum>(2)</enum>
+ <text>Government-furnished data stored on vendor systems, provided for purposes of development and operation of AI products and services to the Department of Defense, is appropriately protected from other data on such systems, and is treated in accordance with Department of Defense data decrees and Creating Data Advantage (Open DAGIR) principles;</text>
+                </paragraph>
+                <paragraph id="ide033500d562f46cdaf3a5150e7613b9d">
+                    <enum>(3)</enum>
+ <text>violation of these provisions shall be subject to specific penalties, including fines and contract termination; and</text>
+                </paragraph>
+                <paragraph id="id8680ffb43b7e48ebaa57a97f33876be8">
+                    <enum>(4)</enum>
+ <text>component acquisition executives may issue exemptions upon—</text> <subparagraph id="id6bfeb93963f34b40959dfebd49b55da8"> <enum>(A)</enum> <text>determining that issuing an exemption is necessary for national security; and</text>
+                    </subparagraph>
+                    <subparagraph id="id21ba3eb6bdec434485d69b4d4e94bdb7">
+                        <enum>(B)</enum>
+ <text>notifying the Chief Digital and Artificial Intelligence Officer of the specific provisions exempted, the vendor and program being issued the exemption, and the justification for the exemption.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id2fb2fc7519e84148bdac6ce4ff90681d">
+                <enum>(d)</enum>
+                <header>Reporting</header>
+                <paragraph id="id0decf8a103224aeebb8a6f22807a7cb2">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than January 15, 2027, and annually thereafter for four years, the Chairman of the Joint Chiefs of Staff, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees a report assessing the competition, innovation, barriers to entry, and concentrations of market power or market share in the AI space for each period covered by the report. The report shall also include a list of the exemptions granted under subsection (c)(4)(A), including the date and purpose of the exemption. The report shall also include recommendations of appropriate legislative and administrative action.</text>
+                </paragraph>
+                <paragraph id="id4ced9c692f2c4b77aea76260b9455033">
+                    <enum>(2)</enum>
+                    <header>Publication</header>
+ <text>The Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—</text>
+                    <subparagraph id="id553db714e1c244c5bb88e3be7eb32e4c">
+                        <enum>(A)</enum>
+ <text>posting a publicly releasable version of the report on a website of the Department of Defense; and</text>
+                    </subparagraph>
+                    <subparagraph id="id9b8fc39751af4ab58adf03ebc77c4595">
+                        <enum>(B)</enum>
+ <text>upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

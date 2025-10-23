@@ -1,0 +1,1731 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25420-LKC-CP-PSR">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2640 IS: Cruise Passenger Protection Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-08-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2640</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250801">August 1, 2025</action-date>
+            <action-desc><sponsor name-id="S341">Mr. Blumenthal</sponsor> (for himself and
+                    <cosponsor name-id="S369">Mr. Markey</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve passenger vessel security and safety, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="idF22EA0E0DA804BB0B7F3912B614FB780">
+            <enum>1.</enum>
+            <header>Short title; references</header>
+            <subsection id="idE4C9D8FD475A47CEB811C9C84479FB5B">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Cruise Passenger Protection Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection id="idDCA27C46164D40319A9CA1B6081A2E2C">
+                <enum>(b)</enum>
+                <header>References to title 46, United States Code</header>
+ <text>Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 46, United States Code.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id7ae61d5493284a8c826225068fdb1774">
+            <enum>2.</enum>
+            <header>Table of contents</header>
+ <text display-inline="no-display-inline">The table of contents for this Act is as follows:</text>
+            <toc>
+                <toc-entry level="section" idref="idF22EA0E0DA804BB0B7F3912B614FB780">Sec. 1. Short
+                    title; references.</toc-entry>
+                <toc-entry level="section" idref="id7ae61d5493284a8c826225068fdb1774">Sec. 2. Table
+                    of contents.</toc-entry>
+                <toc-entry level="title" idref="id6624316130b145c487beb26644908109">TITLE I—Covered
+                    passenger vessel consumer service and protection</toc-entry>
+                <toc-entry level="section" idref="idEE0DCB8170E7465DB43920006771F167">Sec. 101.
+                    Covered passenger vessel consumer service improvements.</toc-entry>
+                <toc-entry level="section" idref="id03becb2ceb464aaa873f8961b899df2f">Sec. 102.
+                    Cruise line passenger bill of rights; advisory committee for covered passenger
+                    vessel consumer protection.</toc-entry>
+                <toc-entry level="section" idref="id6D7ABF43409B4A5D98403DC433F7C2E5">Sec. 103.
+                    Assistance to victims of crimes on board certain passenger vessels.</toc-entry>
+                <toc-entry level="section" idref="ide4144ecd3e91450e84665cb9a7f2a625">Sec. 104.
+                    Clerical amendments.</toc-entry>
+                <toc-entry level="title" idref="id78f99e7acb3343d182d5c42b74763932">TITLE II—Cruise
+                    vessel passenger improvements</toc-entry>
+                <toc-entry level="section" idref="idF02F563193C247C3934A98C8E756ED25">Sec. 201.
+                    Cruise vessel chapter organization, application, and definitions.</toc-entry>
+                <toc-entry level="section" idref="id2A889E59B3904DF486BAB94CCF2D4D77">Sec. 202.
+                    Crime reporting and public notice.</toc-entry>
+                <toc-entry level="section" idref="id17F030EC115C485E95AF681D75E66DD6">Sec. 203.
+                    Crime prevention, documentation, and response requirements.</toc-entry>
+                <toc-entry level="section" idref="id830F3CA9FE3F4259B67598698E397EFE">Sec. 204.
+                    Passenger vessel security and safety requirements.</toc-entry>
+                <toc-entry level="section" idref="id481D5A9134A746FAA5EB98A3E504391E">Sec. 205.
+                    Enforcement.</toc-entry>
+                <toc-entry level="section" idref="idF480A053140148ECAA23FF773C5C5BAF">Sec. 206.
+                    Technical and conforming amendments.</toc-entry>
+                <toc-entry level="section" idref="HD47FC106A68D49DD98BD1F9252CB8389">Sec. 207.
+                    Limitations in certain cases.</toc-entry>
+            </toc>
+        </section>
+        <title id="id6624316130b145c487beb26644908109" style="OLC">
+            <enum>I</enum>
+            <header>Covered passenger vessel consumer service and protection</header>
+            <section id="idEE0DCB8170E7465DB43920006771F167">
+                <enum>101.</enum>
+                <header>Covered passenger vessel consumer service improvements</header>
+ <text display-inline="no-display-inline">Subtitle II is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id3629BB302C2D441DBF2836B61CB2FC37">
+                    <part id="idecffdbba987e4cc9a95013395e56c7cb" style="USC">
+                        <enum>L<?LEXA-Enum III?></enum>
+                        <header>Office of Maritime Consumer Protection</header>
+                        <chapter id="id0b2145c02df3425eb36e218596c36814" style="USC">
+                            <enum>161<?LEXA-Enum 161?></enum>
+                            <header>Office of Maritime Consumer Protection</header>
+                            <toc>
+                                <toc-entry level="section" idref="id7C65BD4C70D041D081ED153F0BBB5F7F">16101. Definitions. </toc-entry>
+                                <toc-entry level="section" idref="idDB98B974269746DAAB2483D3FD40E237">16102. Application. </toc-entry>
+                                <toc-entry level="section" idref="idc37953d29b6844e2a4592b0052aafe17">16103. Office of
+                                    Maritime Consumer Protection. </toc-entry>
+                                <toc-entry level="section" idref="id94a5d5c8dccc4be1bb3c9162c8c90a78">16104. Covered
+                                    passenger vessel consumer service improvements. </toc-entry>
+                                <toc-entry level="section" idref="ida353298973a5496285f44a7cb056f016">16105. Invalidation
+                                    of pre-dispute arbitration and class action waiver clauses in
+                                    certain contracts relating to covered passenger vessel
+                                    transportation. </toc-entry>
+                            </toc>
+                            <section id="id7C65BD4C70D041D081ED153F0BBB5F7F">
+                                <enum>16101.</enum>
+                                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this chapter:</text> <paragraph id="idAB57B450B7FC4F949117F0280013DE77"> <enum>(1)</enum> <header>Applicable passenger</header> <text>The term <term>applicable passenger</term> means a passenger on a covered passenger vessel who is a citizen of the United States. </text>
+                                </paragraph>
+                                <paragraph id="idB4A0A5E7600E4D6B92AA410874E4CAF8">
+                                    <enum>(2)</enum>
+                                    <header>Assistant General Counsel</header>
+ <text>The term <term>Assistant General Counsel</term> means the Assistant General Counsel for the Office of Maritime Consumer Protection.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idc3b5d50d6a4f4fb0839bcc0c96d2425d">
+                                    <enum>(3)</enum>
+                                    <header>Covered passenger vessel</header>
+ <text>The term <term>covered passenger vessel</term> means a passenger vessel or small passenger vessel to which this chapter applies, in accordance with section 16102 of this title.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idb6dc3f4d2cd64e39b51517721fef403d">
+                                    <enum>(4)</enum>
+                                    <header>Key terms</header>
+ <text>The term <term>key terms</term> includes terms related to undisclosed costs and fees, indemnification, waivers, limitations on liability, notice of claim and actions, time limitations, arbitration, forum, and jurisdiction. </text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id80f748dbf5a743f2941e1995496b1844">
+                                    <enum>(5)</enum>
+                                    <header>Office</header>
+ <text>The term <term>Office</term> means the Office of Maritime Consumer Protection.</text>
+                                </paragraph>
+                                <paragraph id="id3B408DF4093C4980850B6667A8465FE1">
+                                    <enum>(6)</enum>
+                                    <header>Owner</header>
+ <text>The term <term>owner</term> means the owner, charterer, managing operator, master, or other individual in charge of a vessel.</text>
+                                </paragraph>
+                                <paragraph id="id09FB27411015455EB0788A8131DE1AE5">
+                                    <enum>(7)</enum>
+                                    <header>Passage contract</header>
+ <text>The term <term>passage contract</term> means a binding agreement for passage on a covered passenger vessel. </text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id8e25bb2c0a9b4aa48c92bcc5d0891403">
+                                    <enum>(8)</enum>
+                                    <header>Secretary</header>
+ <text>Notwithstanding section 2101 of this title, the term <term>Secretary</term> means the Secretary of Transportation.</text>
+                                </paragraph>
+                            </section>
+                            <section id="idDB98B974269746DAAB2483D3FD40E237">
+                                <enum>16102.</enum>
+                                <header>Application</header>
+                                <subsection id="idCADC3234165C437BB53DAE48E80FCF93">
+                                    <enum>(a)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">This chapter applies to passenger vessels and small passenger vessels. </text>
+                                </subsection>
+                                <subsection id="idAF700C82AAB14629AD309F079C68D558">
+                                    <enum>(b)</enum>
+                                    <header>Federal and State vessels</header>
+ <text>This chapter does not apply to—</text> <paragraph id="idD3DD75455B4D44F99C3AB568A1321034"> <enum>(1)</enum> <text>a vessel of the United States operated by the Federal Government; or</text>
+                                    </paragraph>
+                                    <paragraph id="id286A088AC4D8493989F7B19F90C7771F">
+                                        <enum>(2)</enum>
+ <text>a vessel owned and operated by a State. </text> </paragraph> </subsection> </section> <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idc37953d29b6844e2a4592b0052aafe17"> <enum>16103.</enum> <header>Office of Maritime Consumer Protection</header> <subsection commented="no" display-inline="no-display-inline" id="idce6f7e4d3d7045869d4a73c8dd14ac54"> <enum>(a)</enum> <header>Establishment</header> <text display-inline="yes-display-inline">There is established within the Office of the General Counsel of the Department of Transportation an Office of Maritime Consumer Protection. </text>
+                                </subsection>
+                                <subsection commented="no" display-inline="no-display-inline" id="id9b2583336a064b8b86ee80a891c63cc2">
+                                    <enum>(b)</enum>
+                                    <header>Head</header>
+ <text display-inline="yes-display-inline">The Office shall be headed by the Assistant General Counsel for the Office of Maritime Consumer Protection.</text>
+                                </subsection>
+                                <subsection commented="no" display-inline="no-display-inline" id="ide67960b7196b4871ad3c84748877a1de">
+                                    <enum>(c)</enum>
+                                    <header>Duties</header>
+ <text>The Office shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="id478c7dc71007430c8f33f676935d81aa"> <enum>(1)</enum> <text>serve as the primary entity of the Department of Transportation with respect to consumer protection issues relating to covered passenger vessels (unless otherwise provided under law), including—</text>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id78fd2420fff744099df310d109f0558a">
+                                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">carrying out the requirements of this chapter; </text>
+                                        </subparagraph>
+                                        <subparagraph id="id8731156989a64f9c92f2211984d00ff2">
+                                            <enum>(B)</enum>
+ <text>providing assistance to the industry regarding compliance assistance under this chapter; </text>
+                                        </subparagraph>
+                                        <subparagraph id="id2919129587f043128ab9e596b3727b2c">
+                                            <enum>(C)</enum>
+ <text>processing consumer complaints regarding the requirements of this chapter and other consumer complaints regarding covered passenger vessels;</text>
+                                        </subparagraph>
+                                        <subparagraph id="id5c03b5f7ab214929830bacfe0b5a2449">
+                                            <enum>(D)</enum>
+ <text>inspecting covered passenger vessels to ensure that owners of such vessels have knowledge of the consumer protection requirements that apply;</text>
+                                        </subparagraph>
+                                        <subparagraph id="idf0be8a6f48bf4c60a1aeb639664ec385">
+                                            <enum>(E)</enum>
+ <text>investigating potential consumer protection violations regarding maritime travel; and</text>
+                                        </subparagraph>
+                                        <subparagraph id="id4d30b3618e15463a839260b5e5f04604">
+                                            <enum>(F)</enum>
+ <text>pursuing enforcement of such violations; and</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="id4d757dc95dc043a48ef8ed341ac79a9a">
+                                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">serve as the implementing office for the duties of the Secretary under section 102 of the <short-title>Cruise Passenger Protection Act of 2025</short-title>.</text>
+                                    </paragraph>
+                                </subsection>
+                            </section>
+                            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id94a5d5c8dccc4be1bb3c9162c8c90a78">
+                                <enum>16104.</enum>
+                                <header>Covered passenger vessel consumer service
+                                    improvements</header>
+                                <subsection id="idC685C8F1435B4738A12DAE011B344745">
+                                    <enum>(a)</enum>
+                                    <header>Passage contracts</header>
+                                    <paragraph id="id0F331AD13E21465D938F4115A1830D94">
+                                        <enum>(1)</enum>
+                                        <header>Development of standards</header>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="idf150294164054467bd13a86227423edb">
+                                            <enum>(A)</enum>
+                                            <header>Passenger vessels</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date on which the advisory committee makes its recommendations under section 102(b)(6)(C) of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Secretary, acting through the Assistant General Counsel, shall develop standards for use by an owner of a covered passenger vessel that is a passenger vessel or, subject to subparagraph (B), a small passenger vessel, to provide a prospective applicable passenger with a summary that highlights key terms in the passage contract and is provided before such terms are binding. </text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="idd34700683f7f47a7bd7754c857de79ea">
+                                            <enum>(B)</enum>
+                                            <header>Small passenger vessels</header>
+ <text>The Secretary shall determine the extent to which standards developed under subparagraph (A) shall apply with respect to passage contracts for small passenger vessels.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="idee02c5d7c7a7479b907de248ad6f8560">
+                                        <enum>(2)</enum>
+                                        <header>Consultation</header>
+ <text display-inline="yes-display-inline">In developing the standards under paragraph (1), the Secretary may consult with other Federal agencies, persons with expertise on admiralty and maritime law, consumer advocates, industry representatives, and such other persons as the Secretary considers necessary.</text>
+                                    </paragraph>
+                                    <paragraph commented="no" id="id265A8F0C797D46549E8F1D294264FC3A">
+                                        <enum>(3)</enum>
+                                        <header>Statute of limitations</header>
+ <text>The statute of limitations for filing a lawsuit against the owner of a covered passenger vessel, which shall not be shorter than 3 years, shall be clearly identified in the passage contract described in paragraph (1).</text>
+                                    </paragraph>
+                                    <paragraph id="id2CA0F972713C438FBC5D8892A0E68085">
+                                        <enum>(4)</enum>
+                                        <header>Recommendations</header>
+ <text>The standards developed under paragraph (1) shall include recommendations regarding—</text>
+                                        <subparagraph id="id6CD988BC5ABF481581B19641952C719C">
+                                            <enum>(A)</enum>
+ <text>style, formatting, and placement that ensures that the summary is conspicuous; and</text>
+                                        </subparagraph>
+                                        <subparagraph id="idBE727082E7BA44AC8759DD1167F46E0D">
+                                            <enum>(B)</enum>
+ <text>terminology that ensures that the summary is—</text>
+                                            <clause id="id33CFCB0D82D84747B6D89D39E00FCF0E">
+                                                <enum>(i)</enum>
+ <text>clear, unambiguous, and unmistakable; and</text>
+                                            </clause>
+                                            <clause id="idCB2B9E6EC24741ED96CD7BE12B60280A">
+                                                <enum>(ii)</enum>
+ <text>to the greatest extent possible, uniform, concise, and not complex.</text>
+                                            </clause>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph id="id0F4CCB20293947E2847D82FDCE6B931F">
+                                        <enum>(5)</enum>
+                                        <header>Periodic review</header>
+ <text>The Secretary shall periodically review and update, as appropriate, the standards developed under paragraph (1).</text>
+                                    </paragraph>
+                                    <paragraph id="id4B3144C755874ABFB415A152C25EFE56">
+                                        <enum>(6)</enum>
+                                        <header>Requirements</header>
+ <text>Beginning on the date that is 180 days after the date on which the standards are developed under paragraph (1), an owner of a covered passenger vessel shall—</text>
+                                        <subparagraph id="idD802032EAC8A48908DFA599BBACCE17B">
+                                            <enum>(A)</enum>
+ <text>provide each prospective applicable passenger with a summary in accordance with the standards that apply to the covered passenger vessel under paragraph (1);</text>
+                                        </subparagraph>
+                                        <subparagraph id="id4EE01645834F42F2AF42DF78C8FDD7A1">
+                                            <enum>(B)</enum>
+ <text>include a prominently accessible link to the summary on each internet website that the owner maintains for prospective applicable passengers to purchase or book passage on the covered passenger vessel; and</text>
+                                        </subparagraph>
+                                        <subparagraph id="idF5DAF9F0F5E749E0B5C6EFC0F2D995E3">
+                                            <enum>(C)</enum>
+ <text>include the summary in any promotional literature or advertising, through any medium of communication in the United States offering passage or soliciting applicable passengers for ocean voyages anywhere in the world, that the Secretary considers necessary to adequately notify a prospective applicable passenger of the key terms in the passage contract before such terms are binding.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph id="id69FE4D5DBF6846C59CE6A7B537AD5261">
+                                        <enum>(7)</enum>
+                                        <header>Preemption</header>
+ <text>The standards developed under paragraph (1) shall preempt any related State standards that require a summary that provides less information to a prospective applicable passenger than the information required to be provided under this subsection, as determined by the Secretary.</text>
+                                    </paragraph>
+                                </subsection>
+                                <subsection id="idFF81B763F9D34A978C9BCBE1F4E3D53D">
+                                    <enum>(b)</enum>
+                                    <header>Covered passenger vessel consumer complaints</header>
+                                    <paragraph id="id6FDF1FFA67FD4FE1A6BFB0206AA6F703">
+                                        <enum>(1)</enum>
+                                        <header>Toll-free hotline and Internet website link for
+                                            consumer passenger vessel complaints</header>
+ <text>The Secretary, acting through the Assistant General Counsel, shall—</text>
+                                        <subparagraph id="idE10A12BE447442A883E4E6F10F36FBF8">
+                                            <enum>(A)</enum>
+ <text>establish a consumer complaints toll-free hotline telephone number for applicable passengers;</text>
+                                        </subparagraph>
+                                        <subparagraph id="idD53DA7538517488F854CC12AF7631791">
+                                            <enum>(B)</enum>
+ <text>establish a consumer complaints link for use by applicable passengers on the internet website maintained under section 16106(i); and</text>
+                                        </subparagraph>
+                                        <subparagraph id="idADDFE477A1DD49DE89AF73D979C55BDD">
+                                            <enum>(C)</enum>
+ <text>notify the public of—</text> <clause id="id6FBCB0D7DA4C4F7EB03BCC53B2E202D9"> <enum>(i)</enum> <text>the telephone number established under subparagraph (A); and</text>
+                                            </clause>
+                                            <clause id="id8D301B301FA74ED2B42508947ED45B59">
+                                                <enum>(ii)</enum>
+ <text>the internet website maintained under section 16106(i).</text>
+                                            </clause>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph id="id72C2795CD44345CDA0943448B1066AB3">
+                                        <enum>(2)</enum>
+                                        <header>Website</header>
+ <text>The Secretary, acting through the Assistant General Counsel, shall—</text>
+                                        <subparagraph id="id10307717BA884333BB47D0649BE9F4F3">
+                                            <enum>(A)</enum>
+ <text>maintain a statistical compilation of all consumer complaints on the internet website under section 16106(i) that provides a numerical accounting of each category of consumer complaint;</text>
+                                        </subparagraph>
+                                        <subparagraph id="idAE89084D6312474990A13F70EE7184AD">
+                                            <enum>(B)</enum>
+ <text>update the data referred to in subparagraph (A) not less frequently than monthly;</text>
+                                        </subparagraph>
+                                        <subparagraph id="idEF08CAC6799D4820804921977AFB0AE7">
+                                            <enum>(C)</enum>
+ <text>aggregate such data by covered passenger vessel; and</text>
+                                        </subparagraph>
+                                        <subparagraph id="id80BEC1634B9E4DF2BD809183FDEAE5C4">
+                                            <enum>(D)</enum>
+ <text>identify each covered passenger vessel by name.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph id="id115B77CED7904DD3A05EC0FF8CC4A403">
+                                        <enum>(3)</enum>
+                                        <header>Investigations of consumer complaints</header>
+ <text>The Secretary, acting through the Assistant General Counsel and in coordination with other relevant Federal agencies, may investigate consumer complaints from applicable passengers, including—</text>
+                                        <subparagraph commented="no" id="id06BBB06D7F4B4B2AA99F39AC962FB262">
+                                            <enum>(A)</enum>
+ <text>cancellations, delays, and port skipping;</text> </subparagraph> <subparagraph commented="no" id="idA99E598DD06648D398F7BBB69CF49DDC"> <enum>(B)</enum> <text>lost, damaged, and delayed baggage;</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" id="idF720F72E8A0F4F0582EBBBFAFBBAE491">
+                                            <enum>(C)</enum>
+ <text>conditions on board the covered passenger vessel;</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" id="id78E97D73FC1442AC9E596A593BB068CC">
+                                            <enum>(D)</enum>
+ <text>problems in obtaining refunds for unused or lost tickets or fare adjustments;</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" id="id021B80A5A33A4E9CAE4B46432E9CD3A4">
+                                            <enum>(E)</enum>
+ <text>incorrect or incomplete information about fares, discount fare conditions and availability, overcharges, and fare increases;</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" id="idF2D710D77B54436A8AD8F4FA23D6CB2E">
+                                            <enum>(F)</enum>
+ <text>deceptive or misleading advertising; and</text> </subparagraph> <subparagraph commented="no" id="idBC6A7A4C1A9F4778A702226119937ED8"> <enum>(G)</enum> <text>compliance with Federal regulations.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph commented="no" id="id947C32A716AC48199BC3232470A728C0">
+                                        <enum>(4)</enum>
+                                        <header>Referral to federal or state agency</header>
+ <text>The Secretary may refer any complaint received under this subsection to the Attorney General or a relevant Federal or State agency for action, as appropriate.</text>
+                                    </paragraph>
+                                    <paragraph id="id978B7B0700124F3F9FA134B81A3D8F60">
+                                        <enum>(5)</enum>
+                                        <header>Notice to passengers</header>
+                                        <subparagraph id="idE40814B56B1644C6B2C531DEA52FB7E5">
+                                            <enum>(A)</enum>
+                                            <header>Internet websites</header>
+ <text>Each owner of a covered passenger vessel shall include, in a conspicuous location on each internet website that such owner maintains for applicable passengers to purchase or book passage on the covered passenger vessel—</text>
+                                            <clause id="idAB070EAA6663410B95A006CDB80725CE">
+                                                <enum>(i)</enum>
+ <text>the telephone number established under paragraph (1)(A);</text>
+                                            </clause>
+                                            <clause id="id34cce7edfd8a4586bebfb69eedfd5dc2">
+                                                <enum>(ii)</enum>
+ <text>the consumer complaints link established under paragraph (1)(B); and </text>
+                                            </clause>
+                                            <clause id="idA15B0C53A4714A97872580E4FD5D6D6F">
+                                                <enum>(iii)</enum>
+ <text>any other information necessary for an applicable passenger to submit a consumer complaint for resolution.</text>
+                                            </clause>
+                                        </subparagraph>
+                                        <subparagraph id="id0E551D96B0444AFC883174C6B92E78CC">
+                                            <enum>(B)</enum>
+                                            <header>Boarding documentation</header>
+ <text>The owner of a covered passenger vessel shall include the telephone number and internet address of the link for consumer complaints established under paragraph (1) on—</text>
+                                            <clause commented="no" id="id2B90C7AF60F944F0820748D35023581C">
+                                                <enum>(i)</enum>
+ <text>any promotional literature or advertising, through any medium of communication in the United States offering passage or soliciting applicable passengers for ocean voyages on covered passenger vessels, that the Secretary considers necessary to adequately notify such prospective passenger of the telephone number and internet address; and</text>
+                                            </clause>
+                                            <clause commented="no" id="id00B5A96D0B1C48B8AE8E33FFA446F21F">
+                                                <enum>(ii)</enum>
+ <text>any electronic confirmation of the purchase of passage on a covered passenger vessel.</text>
+                                            </clause>
+                                        </subparagraph>
+                                    </paragraph>
+                                </subsection>
+                                <subsection commented="no" id="idB93D354C4EC74E1281CC6ACB6D3C9CCF">
+                                    <enum>(c)</enum>
+                                    <header>Penalties</header>
+                                    <paragraph commented="no" id="idA22EFBBF77C241C3A434E8A66374A5E7">
+                                        <enum>(1)</enum>
+                                        <header>Civil penalty</header>
+ <text>The Secretary, acting through the Assistant General Counsel, may impose on any person that violates this section or a regulation under this section a civil penalty of not more than $25,000 for each day during which the violation continues. The Secretary, acting through the Assistant General Counsel, may bring an action to pursue a penalty under this paragraph in an appropriate district court of the United States.</text>
+                                    </paragraph>
+                                    <paragraph commented="no" id="id999A2EDE1B8245E4A7D7F89B8A666C24">
+                                        <enum>(2)</enum>
+                                        <header>Criminal penalty</header>
+ <text>Any person that willfully violates this section or a regulation under this section shall be fined not more than $250,000 or imprisoned not more than 1 year, or both.</text>
+                                    </paragraph>
+                                </subsection>
+                                <subsection id="id99E0FCA56D344BB796CD96C4D88F9275">
+                                    <enum>(d)</enum>
+                                    <header>Rulemaking</header>
+ <text>The Secretary, acting through the Assistant General Counsel, shall issue such regulations as are necessary to implement this section.</text>
+                                </subsection>
+                            </section>
+                            <section id="ida353298973a5496285f44a7cb056f016">
+                                <enum>16105.</enum>
+                                <header>Invalidation of pre-dispute arbitration and class action
+                                    waiver clauses in certain contracts relating to covered
+                                    passenger vessel transportation</header>
+                                <subsection id="id7f731815270c4f6ca990272b41fba51b">
+                                    <enum>(a)</enum>
+                                    <header>Covered contract</header>
+ <text>In this section, the term <term>covered contract</term> means a contract for the purchase of a ticket for transportation on a covered passenger vessel.</text>
+                                </subsection>
+                                <subsection commented="no" display-inline="no-display-inline" id="id0a8d965348e34c5db1eb9f3a8715b003">
+                                    <enum>(b)</enum>
+                                    <header>Arbitration</header>
+ <text>Notwithstanding any other provision of law, arbitration may be used to settle a controversy arising from or relating to a provision of a covered contract only if, after the controversy arises, all parties to the controversy consent, in writing, to use arbitration to settle the controversy.</text>
+                                </subsection>
+                                <subsection id="idc89db51f4b604f1fb56d8edc19a86be9">
+                                    <enum>(c)</enum>
+                                    <header>Class Actions</header>
+ <text>Notwithstanding any other provision of law, no predispute joint-action waiver shall be valid or enforceable with respect to any alleged claim regarding a covered contract. </text>
+                                </subsection>
+                                <subsection commented="no" display-inline="no-display-inline" id="ida42f6fc70b6f43f894d90d3269d27053">
+                                    <enum>(d)</enum>
+                                    <header>Court determinations</header>
+ <text>An issue as to whether this section applies with respect to a dispute shall be determined under Federal law. The applicability of this section to an agreement to arbitrate and the validity and enforceability of a covered contract shall be determined by a court, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the covered contract containing such agreement, and irrespective of whether the agreement purports to delegate such determinations to an arbitrator. </text>
+                                </subsection>
+                                <subsection id="id21e8ccb260dc4a53a02c7a84f74d4b8c">
+                                    <enum>(e)</enum>
+                                    <header>Applicability</header>
+ <text>This section shall apply with respect to contracts entered into, or renewed, on or after the date of the enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>.</text>
+                                </subsection>
+                            </section>
+                        </chapter>
+                    </part>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id03becb2ceb464aaa873f8961b899df2f">
+                <enum>102.</enum>
+                <header>Cruise line passenger bill of rights; advisory committee for covered
+                    passenger vessel consumer protection</header>
+                <subsection id="id13C536C575E849DA914BF34140165DE1">
+                    <enum>(a)</enum>
+                    <header>Bill of rights</header>
+                    <paragraph id="idAC3AE2F311E94014B23CBDE9735EFCF2">
+                        <enum>(1)</enum>
+                        <header>Enforceability</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Transportation, acting through the Assistant General Counsel for the Office of Maritime Consumer Protection, shall determine whether any of the enumerated rights in the international cruise line passenger bill of rights, which was adopted in 2013 by the members of the Cruise Lines International Association, are enforceable under Federal law.</text>
+                    </paragraph>
+                    <paragraph id="id73E3A68038C54DDD82D282F5DB55AD48">
+                        <enum>(2)</enum>
+                        <header>Required statement</header>
+ <text display-inline="yes-display-inline">The Secretary of Transportation, acting through the Assistant General Counsel for the Office of Maritime Consumer Protection, shall include in the standards developed under section 16104(a) of title 46, United States Code, a statement informing a prospective passenger—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id72f0cfebcbd8406f92b0ca753e0e4a83">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">which rights referred to in paragraph (1) are legally enforceable; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id792750894fad418db2a2b056b3a3de53">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">how a passenger or prospective passenger might pursue such enforcement, including identifying any action, including a private cause of action, an administrative action, or any other method of enforcement, that may be taken or pursued.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id0AAB1A4748BD4BEE9C891D2FC3012BBA">
+                    <enum>(b)</enum>
+                    <header>Advisory committee for covered passenger vessel consumer
+                        protection</header>
+                    <paragraph id="idA73C4F69976645CC909824DEF0A823F9">
+                        <enum>(1)</enum>
+                        <header>Definition of covered passenger vessel</header>
+ <text>In this subsection, the term <term>covered passenger vessel</term> means a passenger vessel or small passenger vessel to which <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/46/161">chapter 161</external-xref> of title 46, United States Code, applies.</text>
+                    </paragraph>
+                    <paragraph id="id04AB3C3D5E184683BDCEF73A7724E2D0">
+                        <enum>(2)</enum>
+                        <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation, acting through the Assistant General Counsel for the Office of Maritime Consumer Protection, shall establish an advisory committee for covered passenger vessel consumer protection (referred to in this subsection as the <quote>advisory committee</quote>) to advise the Secretary in carrying out activities relating to passenger vessel customer service improvements.</text>
+                    </paragraph>
+                    <paragraph id="id04F517DDFD83425AB99073656D38D88D">
+                        <enum>(3)</enum>
+                        <header>Membership</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id6e97caffc7934626a9719bcb819ef0c5">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">By not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall appoint the members of the advisory committee, which shall be comprised of 1 representative each of—</text>
+                            <clause id="id5A0C7F6809C24944A1172660CFB02D07">
+                                <enum>(i)</enum>
+ <text>owners of passenger vessels, as defined in section 2101 of title 46, United States Code;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id5d20a1f2afad4c6f9a7db7e6cf7f1120">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">owners of small passenger vessels, as defined in such section;</text>
+                            </clause>
+                            <clause id="idD5158BF1F123489B9F0DB9EA7FF19BBD">
+                                <enum>(iii)</enum>
+ <text>international industry-related associations;</text> </clause> <clause id="id4A4BD01DE539451DA18F8564E5FDD3C7"> <enum>(iv)</enum> <text>State or local governments with expertise in consumer protection matters;</text>
+                            </clause>
+                            <clause id="id3CFD610E0C6F4E2C9AF3EF756307D2E6">
+                                <enum>(v)</enum>
+ <text>nonprofit public interest groups with expertise in consumer protection matters;</text>
+                            </clause>
+                            <clause id="id547D5E85BBC649E192B82FB064D833E5">
+                                <enum>(vi)</enum>
+ <text>nonprofit public interest groups with expertise in victim assistance; and</text>
+                            </clause>
+                            <clause id="idFFCFA4F6AC40404A8324C11F83B53463">
+                                <enum>(vii)</enum>
+ <text>relevant Federal agencies, as determined by the Secretary of Transportation.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idA2F5A024DDDC48FE98EA1E3675FC85CE">
+                            <enum>(B)</enum>
+                            <header>Vacancies</header>
+ <text>A vacancy in the advisory committee shall be filled in the manner in which the original appointment was made.</text>
+                        </subparagraph>
+                        <subparagraph id="id2CC2E5BE4CCA4779BF738BF569AFA3DB">
+                            <enum>(C)</enum>
+                            <header>Chair</header>
+ <text>The Secretary of Transportation shall designate, from among the individuals appointed under subparagraph (A), an individual to serve as chair of the advisory committee.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id9741c03e22b046ddbb9cd90e173f8670">
+                        <enum>(4)</enum>
+                        <header>Meetings</header>
+ <text>The advisory committee shall meet at the call of the chair of the advisory committee, but not less frequently than annually.</text>
+                    </paragraph>
+                    <paragraph commented="no" id="id4BA9E00CFF56463F85CCAF34DF0D4D65">
+                        <enum>(5)</enum>
+                        <header>Travel expenses</header>
+ <text>Members of the advisory committee shall serve without pay, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> of title 5, United States Code.</text>
+                    </paragraph>
+                    <paragraph id="idE1C785F9DE654DE08B6CF278DFA82E57">
+                        <enum>(6)</enum>
+                        <header>Duties</header>
+ <text>The advisory committee shall—</text> <subparagraph id="idE23DBE0110FB4BDAA801BA030662EDDC"> <enum>(A)</enum> <text>evaluate existing consumer protection programs or services for covered passenger vessels;</text>
+                        </subparagraph>
+                        <subparagraph id="id24C10AE29C8D4698A693F1B3FF68FE7E">
+                            <enum>(B)</enum>
+ <text>recommend to the Secretary of Transportation—</text> <clause commented="no" display-inline="no-display-inline" id="iddd70e4412df94ce48a73c77eb3d56901"> <enum>(i)</enum> <text display-inline="yes-display-inline">improvements needed to the programs or services under subparagraph (A), as necessary; and</text>
+                            </clause>
+                            <clause id="id9D94F9B7F4384C56AFB399206F6DCE55">
+                                <enum>(ii)</enum>
+ <text>any additional consumer protection programs or services for covered passenger vessels, as necessary;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id65969DD8ABB146DFA826708E2E887E39">
+                            <enum>(C)</enum>
+ <text>not later than 1 year after the date on which the committee is established under paragraph (2), recommend to the Secretary of Transportation which key terms in a passage contract for a covered passenger vessel should be highlighted before such terms are binding, such as—</text>
+                            <clause id="idA11DAE502BEC4943BBB82A4FE88AC975">
+                                <enum>(i)</enum>
+ <text>products and services available on board the covered passenger vessel for an undisclosed cost or fee or that otherwise are not included in the price of passage;</text>
+                            </clause>
+                            <clause id="idCC30EF4E4F1E4C03A26699C98FBC424C">
+                                <enum>(ii)</enum>
+ <text>the country under which the covered passenger vessel is registered or flagged;</text>
+                            </clause>
+                            <clause id="id52F077A7C39E4B3595580AB6FEFAC222">
+                                <enum>(iii)</enum>
+ <text>a statement that, under certain circumstances, a passenger on a covered passenger vessel may be subject to the law of a foreign country;</text>
+                            </clause>
+                            <clause id="idA6D799027F1341BCB35B2804E4B5A0A9">
+                                <enum>(iv)</enum>
+ <text>the covered passenger vessel may not accept responsibility for any health care services provided to a passenger by medical staff on board the covered passenger vessel;</text>
+                            </clause>
+                            <clause id="idFBD9003B4662451B8187FAB8725CB5C4">
+                                <enum>(v)</enum>
+ <text>the maximum amount an owner of a covered passenger vessel will reimburse a passenger for lost or stolen property while on board the passenger vessel; and</text>
+                            </clause>
+                            <clause id="id92DFBD3BC0CF44139AE4266DB370A6E3">
+                                <enum>(vi)</enum>
+ <text>where to file a notice of claim or initiate any legal action against the owner of the covered passenger vessel; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id2a35ca72400e472f8c0a219ba95ae31e">
+                            <enum>(D)</enum>
+ <text display-inline="yes-display-inline">annually for the 5-year period beginning on the date on which the advisory committee is established, and periodically thereafter as the advisory committee determines necessary, review the recommendations described in subparagraphs (B) and (C) and submit any recommended updates to the Secretary of Transportation.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id4FF51C8AB25944BA8872C98A2EF778BB">
+                        <enum>(7)</enum>
+                        <header>Report to Congress</header>
+ <text>Not later than 30 days after the Secretary of Transportation receives recommendations, including updated recommendations, under paragraph (6) from the advisory committee, the Secretary shall submit to Congress a report that contains—</text>
+                        <subparagraph id="idDBD0DD49275540F79FEDEBE2D423E829">
+                            <enum>(A)</enum>
+ <text>such recommendations of the advisory committee;</text> </subparagraph> <subparagraph id="idB7D686A5397E49B4913C90775082D4E9"> <enum>(B)</enum> <text>an explanation of whether and how the industry has implemented each recommendation; and</text>
+                        </subparagraph>
+                        <subparagraph id="idB570DDBA3BE5462BAA173E74C79E896A">
+                            <enum>(C)</enum>
+ <text>for each recommendation not implemented, the industry’s reason for not implementing the recommendation.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id967e3964f1d44dd4867ec61f7fb1dac3">
+                        <enum>(8)</enum>
+                        <header>Termination</header>
+ <text>The advisory committee shall terminate on the date that is 15 years after the date of enactment of this Act.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id6D7ABF43409B4A5D98403DC433F7C2E5">
+                <enum>103.</enum>
+                <header>Assistance to victims of crimes on board certain passenger vessels</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id35d0155a636447768cf16cfa3f5752f7">
+                    <enum>(a)</enum>
+                    <header>Authority To provide assistance to victims of crimes on board passenger
+                        vessels</header>
+ <text display-inline="yes-display-inline">Chapter 161, as added by section 101 of this Act, is further amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id12E06602FCB2420FB6683C28219067FB">
+                        <section id="idF92FFA0057604BA98496B4F6974DBFC7">
+                            <enum>16106.</enum>
+                            <header>Assistance to victims of crimes on board certain passenger
+                                vessels</header>
+                            <subsection id="id7F5340F784164746888B7354BEB47E20">
+                                <enum>(a)</enum>
+                                <header>Purpose</header>
+ <text>The purpose of this section is to provide to an applicable passenger who is an alleged victim of an incident described in section 3523(g)(3)(A)(i)—</text>
+                                <paragraph id="id0E14ED5940FF483AB7ED3BDDA2AFF143">
+                                    <enum>(1)</enum>
+ <text>a written summary of rights described in subsection (e);</text>
+                                </paragraph>
+                                <paragraph id="idE769756A136D477082F29D4E11B6BAEF">
+                                    <enum>(2)</enum>
+ <text>a primary point of contact within the Federal Government; and</text>
+                                </paragraph>
+                                <paragraph id="idDFCA6640E2DD489A8EDB98AACEE77847">
+                                    <enum>(3)</enum>
+ <text>a means of obtaining immediate, free, and confidential support services.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idD3EB727774F545A7805D534FBEBBC17E">
+                                <enum>(b)</enum>
+                                <header>Director of victim support services</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id8259b485ed49477c82c62c67ef1dd77a">
+                                    <enum>(1)</enum>
+                                    <header display-inline="yes-display-inline">Establishment</header>
+ <text>There shall be a director of victim support services of the Office.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="idFC66E4E9E0FF43B4A95F56C8F091EB04">
+                                    <enum>(2)</enum>
+                                    <header>Designation; public outreach</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id0f927b4fff7e4831a67725621eb87780">
+                                        <enum>(A)</enum>
+                                        <header>Interim director</header>
+ <text>Not later than 30 days after the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Secretary shall designate an employee of the Department of Transportation as the interim director of victim support services, who shall serve in such position until a final designation or appointment is made under subparagraph (B).</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="idBA16F515F0304127A84963FB41213020">
+                                        <enum>(B)</enum>
+                                        <header>Final designation and public outreach</header>
+ <text>Not later than 180 days after the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Secretary, in consultation with the Department of Justice and other relevant Federal agencies, shall—</text>
+                                        <clause commented="no" id="id8862F70E4D78429CBE461C50FC4339F2">
+                                            <enum>(i)</enum>
+ <text>appoint an individual to serve as the director of victim support; and</text>
+                                        </clause>
+                                        <clause commented="no" id="id9B7A2AD40B6F442FBB2BF0DC4B97EF82">
+                                            <enum>(ii)</enum>
+ <text>determine an effective way to publicize the toll-free telephone number under subsection (c) and the availability of support services under this section.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idAC0EB73E050849D59CEF1232C87C9461">
+                                    <enum>(3)</enum>
+                                    <header>Responsibilities</header>
+ <text>The director of victim support services shall—</text> <subparagraph id="idADD0E7F60FAC4FAD8E0AE89A854DEA59"> <enum>(A)</enum> <text>be responsible for acting as a primary point of contact within the Federal Government for any applicable passenger described in subsection (a);</text>
+                                    </subparagraph>
+                                    <subparagraph id="id59FA1394DD0843189474ABADF99ACAAA">
+                                        <enum>(B)</enum>
+ <text>coordinate with one or more nonprofit organizations or other entities that can provide the types of support services described in subsection (d);</text>
+                                    </subparagraph>
+                                    <subparagraph id="id42D7E368874C4AB9AABD1DA06976D508">
+                                        <enum>(C)</enum>
+ <text>establish a process for an applicable passenger described in subsection (a) to obtain the appropriate types of support services described in subsection (d);</text>
+                                    </subparagraph>
+                                    <subparagraph id="id6ED03A2DBFE847018F561B24885D9B3E">
+                                        <enum>(D)</enum>
+ <text>recommend a process for an applicable passenger described in subsection (a) to obtain an appropriate continuum of care;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id4C130C53F812461BB41DCB9AB9AB718D">
+                                        <enum>(E)</enum>
+ <text>recommend a process for an applicable passenger described in subsection (a) to obtain information on the status of any related criminal investigation;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id52273F8E6DBE454AA37A01668CF3F6BB">
+                                        <enum>(F)</enum>
+ <text>develop guidance, consistent with the purpose of this section, for the security guide under section 3523(c)(1), including a process to ensure that an owner of a passenger vessel provides a copy of the security guide to an applicable passenger immediately after the vessel is notified that the passenger is an alleged victim of an incident described in section 3523(g)(3)(A)(i);</text>
+                                    </subparagraph>
+                                    <subparagraph id="id2BA98F1AA39648D786C64B4E9F54B9D4">
+                                        <enum>(G)</enum>
+ <text>periodically update that guidance, as necessary; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id2E15C3F34C834B6D967BE4A1BEEE6228">
+                                        <enum>(H)</enum>
+ <text>be the primary liaison between an applicable passenger described in subsection (a) and—</text>
+                                        <clause id="id4D6393B61B834F18A50ECDF0A09EB52E">
+                                            <enum>(i)</enum>
+ <text>the owner of the passenger vessel;</text> </clause> <clause id="id008C386AFF0B4DD8AA9FF1E9EE9BC01C"> <enum>(ii)</enum> <text>any relevant Federal agency;</text>
+                                        </clause>
+                                        <clause id="id78B4182F8012406983B3B991B21297E0">
+                                            <enum>(iii)</enum>
+ <text>any relevant United States embassy or United States consulate; and</text>
+                                        </clause>
+                                        <clause id="idE7B6B68F42A54E5FACECDB5D5DD0A1EA">
+                                            <enum>(iv)</enum>
+ <text>any other person that the director of victim support services considers necessary to carry out the purpose of this section.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idCFFFB7CD765449F598A192EE860A8824">
+                                <enum>(c)</enum>
+                                <header>Toll-Free telephone number</header>
+ <text>The Secretary shall establish a toll-free telephone number, available 24 hours each day, that an applicable passenger described in subsection (a) can call to initiate the process under subsection (b)(3)(C).</text>
+                            </subsection>
+                            <subsection id="id3B66A320465C4623AE404099ACE49E9C">
+                                <enum>(d)</enum>
+                                <header>Support services</header>
+ <text>The director of victim support services shall determine the types of support services that an applicable passenger described in subsection (a) can obtain, such as—</text>
+                                <paragraph id="idDE8643CB1AC74E98960935979014B3F6">
+                                    <enum>(1)</enum>
+ <text>directions on how to report an incident described in section 3523(g)(3)(A)(i) to appropriate authorities;</text>
+                                </paragraph>
+                                <paragraph id="idF180D13978394DDA95F05A20EBC2E62C">
+                                    <enum>(2)</enum>
+ <text>an explanation of, or assistance completing, necessary forms to report an incident described in section 3523(g)(3)(A)(i);</text>
+                                </paragraph>
+                                <paragraph id="idB8E099E0438B423A8FC0C4584AEC64FD">
+                                    <enum>(3)</enum>
+ <text>an explanation of how, or assistance to, obtain support services under this section;</text>
+                                </paragraph>
+                                <paragraph id="id6D5320C26F5248A091C2E4E1B1C954A6">
+                                    <enum>(4)</enum>
+ <text>arranging, if appropriate, for mental health and counseling services;</text>
+                                </paragraph>
+                                <paragraph id="id644DCA980D8A42D483115EDEB1329449">
+                                    <enum>(5)</enum>
+ <text>arranging, if possible, for education regarding and advocacy during applicable criminal justice proceedings; and</text>
+                                </paragraph>
+                                <paragraph id="id65968E7609BD4E37B17CE99A4895E1DE">
+                                    <enum>(6)</enum>
+ <text>communicating with that applicable passenger as to the roles of the organization or entities described in subsection (b)(3)(B), government agencies, and the owner of the passenger vessel involved with respect to the incident and the post-incident activities.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" id="id53627B703D064C03AC5FB65A616BD79F">
+                                <enum>(e)</enum>
+                                <header>Summary of rights</header>
+ <text>Not later than 180 days after the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Secretary, acting through the Assistant General Counsel and in consultation with the Department of Justice, other relevant Federal agencies, nonprofit public interest groups with expertise in victim assistance, and such other persons that the Secretary considers necessary, shall—</text>
+                                <paragraph commented="no" id="idDBB2AF15FDFA417D8EDAE32A53CDD51B">
+                                    <enum>(1)</enum>
+ <text>determine what rights an applicable passenger described in subsection (a) may have under law, such as the right to contact the Federal Bureau of Investigation to report the crime, the right to contact the director of victim support services, and the right to speak confidentially to Federal law enforcement, the director of victim support services, and any other third-party victim advocate without any representative or employee of the passenger vessel present;</text>
+                                </paragraph>
+                                <paragraph commented="no" id="id12D7C6C068A54E858696870909E06004">
+                                    <enum>(2)</enum>
+ <text>develop a written summary of those rights; and</text> </paragraph> <paragraph commented="no" id="idC903CC7478584B73B42C7ECF1073C31C"> <enum>(3)</enum> <text>establish a process for an applicable passenger described in subsection (a) to receive the written summary of rights as soon as practicable after an alleged incident described under section 3523(g)(3)(A)(i).</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idC99D14B78C4E40C492F277A0C228F06E">
+                                <enum>(f)</enum>
+                                <header>Guardians and relatives</header>
+ <text>If an applicable passenger described in subsection (a) is deceased or is a minor, or under such other circumstances that the director of victim support services considers necessary, the director may provide support services under this section to a guardian or relative of that applicable passenger.</text>
+                            </subsection>
+                            <subsection id="id2A543600FCA045D99CCBF46147CC820B">
+                                <enum>(g)</enum>
+                                <header>Use of passenger vessel resources</header>
+ <text>As appropriate, the resources of the passenger vessel shall be used to the greatest extent possible to carry out the purpose of this section.</text>
+                            </subsection>
+                            <subsection id="id76A0D2CC428F4EFEBF0A48B6FB6B33D7">
+                                <enum>(h)</enum>
+                                <header>Statutory construction</header>
+ <text>Nothing in this section may be construed as limiting the obligations that an owner of a passenger vessel may have in providing assistance to an applicable passenger who is an alleged victim of an incident described under section 3523(g)(3)(A)(i).</text>
+                            </subsection>
+                            <subsection commented="no" id="idF39AB63A572140D08CB18FFC0A57A34C">
+                                <enum>(i)</enum>
+                                <header>Availability of incident data via Internet</header>
+                                <paragraph commented="no" id="id3B084D5B34814D488C7E07036228E5C7">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>The Secretary, acting through the Assistant General Counsel, shall maintain a statistical compilation of all incidents described in section 3523(g)(3)(A) on an internet website that provides a numerical accounting of the missing persons and alleged crimes duly recorded in each report filed under section 3523(g)(3). Each incident described in section 3523(g)(3)(A) shall be included in the statistical compilation irrespective of its investigative status.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="idF2D965F80F43471D98917FD67125E5F9">
+                                    <enum>(2)</enum>
+                                    <header>Updates</header>
+ <text>The Secretary shall ensure that the data described in paragraph (1)—</text>
+                                    <subparagraph commented="no" id="idA2C58D54F0C34F06A09CFB478384A124">
+                                        <enum>(A)</enum>
+ <text>is updated not less frequently than monthly;</text> </subparagraph> <subparagraph commented="no" id="id1E63D1B5D4284430A02D58078F3B5BAF"> <enum>(B)</enum> <text>is aggregated by cruise line;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="id6F371BEBFA3E490ABF58545123102B74">
+                                        <enum>(C)</enum>
+ <text>identifies each cruise line by name;</text> </subparagraph> <subparagraph commented="no" id="id1796F288C90742F799A2C483BFAEB14E"> <enum>(D)</enum> <text>identifies each crime and alleged crime as to whether it was committed or allegedly committed by a passenger or a crew member;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="id55385AEA6523423C98FD48D65F88E93D">
+                                        <enum>(E)</enum>
+ <text>identifies each crime and alleged crime as to whether it was committed or allegedly committed against a minor;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="idCF4968B4DB26435DB054163239410982">
+                                        <enum>(F)</enum>
+ <text>identifies the number of alleged individuals overboard; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="id3F39DD8E907043F4A17B045416ABA1C1">
+                                        <enum>(G)</enum>
+ <text>is compiled on the internet website in a user-friendly format.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" id="idF93EF015C5484FFF8AFE1DCEF680E0BE">
+                                    <enum>(3)</enum>
+                                    <header>Access to website</header>
+ <text>Each owner of a passenger vessel shall include a prominently accessible link to the internet website maintained by the Office of Maritime Consumer Protection under paragraph (1) on each internet website that the owner maintains for prospective applicable passengers to purchase or book passage on the passenger vessel.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="id19D580643B2E40C8860A9C5FEE45AAF6">
+                                <enum>(j)</enum>
+                                <header>Regulations</header>
+ <text>The Secretary shall issue such regulations as are necessary to implement this section.</text>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="idA70F8B81FD2D476D824ACCD484437041">
+                    <enum>(b)</enum>
+                    <header>Study</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation, acting through the Assistant General Counsel for the Office of Maritime Consumer Protection and in coordination with the Secretary of the department in which the Coast Guard is operating, the Attorney General, and heads of other relevant Federal agencies, shall—</text>
+                    <paragraph id="idEF16A1566E9F4BD592182DBFDFDAC738">
+                        <enum>(1)</enum>
+ <text>conduct a study to determine the feasibility of having an individual on board each passenger vessel, or certain categories of passenger vessels, to which chapter 161 applies to provide victim support services, including the support services under section 16106(d) of title 46, United States Code, and related safety and security services, which includes consideration of the cost, the benefit to passengers, jurisdiction, and logistics; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idFF71EFD1716D4B46B0E09C5723E9C40B">
+                        <enum>(2)</enum>
+ <text>report the findings of the study conducted under paragraph (1) to Congress.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="ide4144ecd3e91450e84665cb9a7f2a625">
+                <enum>104.</enum>
+                <header>Clerical amendments</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idd42b44ea76154b0daffa46d04acedd90">
+                    <enum>(a)</enum>
+                    <header>Title 46 table of chapters</header>
+ <text display-inline="yes-display-inline">The table of chapters for subtitle II is amended by adding at the end the following:</text>
+                    <quoted-block style="USC" id="id08380768-bff1-49bd-a017-4187860edbb0">
+                        <toc>
+                            <toc-entry level="part" idref="idecffdbba987e4cc9a95013395e56c7cb">PART
+                                L—Office of Maritime Consumer Protection</toc-entry>
+                            <multi-column-toc-entry level="chapter" idref="id0b2145c02df3425eb36e218596c36814">
+                                <toc-enum>161.</toc-enum>
+                                <level-header level="chapter">Office of Maritime Consumer
+                                    Protection</level-header>
+                                <target>16101</target>
+                            </multi-column-toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id78b3f12b3fb647e6b057a028aa7305fd">
+                    <enum>(b)</enum>
+                    <header>Table of sections</header>
+ <text>The table of sections at the beginning of chapter 161, as added by section 101 of this Act, is further amended by adding at the end the following:</text>
+                    <quoted-block style="USC" id="idb254988e-5f17-4940-89de-512f488140eb">
+                        <toc>
+                            <toc-entry level="section" idref="idF92FFA0057604BA98496B4F6974DBFC7">16106. Assistance to victims of crimes on board certain passenger
+                                vessels.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+        </title>
+        <title id="id78f99e7acb3343d182d5c42b74763932" style="OLC">
+            <enum>II</enum>
+            <header>Cruise vessel passenger improvements</header>
+            <section id="idF02F563193C247C3934A98C8E756ED25">
+                <enum>201.</enum>
+                <header>Cruise vessel chapter organization, application, and definitions</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id1b15c4cc8ed845a085a54a17085bf9e2">
+                    <enum>(a)</enum>
+                    <header>Subchapter organization</header>
+ <text display-inline="yes-display-inline">Chapter 35 is amended—</text> <paragraph id="idB7E54F98170345339854CBE1B67F8E9C"> <enum>(1)</enum> <text display-inline="yes-display-inline">by inserting before section 3501 the following:</text>
+                        <quoted-block style="USC" display-inline="no-display-inline" id="idEBED2437104C4D8E8466E1D23EF24B46">
+                            <subchapter id="id47f273f19b314e3aba47dae3b8021050" style="OLC">
+                                <enum>I<?LEXA-Enum I?></enum>
+                                <header>General provisions</header>
+                            </subchapter>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="idB6592EAABA554A0C9EFDE83E1BA80A86">
+                        <enum>(2)</enum>
+ <text>by inserting before section 3507 the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="id729C8AB787CE477AB9B0CD74FF257D8D"> <subchapter id="id76a4061e83f34bf38abdcaa6fb211400" style="OLC"> <enum>II<?LEXA-Enum II?></enum> <header>Cruise vessels</header> </subchapter> <after-quoted-block>;</after-quoted-block> </quoted-block> <continuation-text continuation-text-level="paragraph">and</continuation-text> </paragraph> <paragraph id="idCF9BCB5C71FB4D3ABD775A29D3F03B78"> <enum>(3)</enum> <text>by redesignating sections 3507, 3508, 3509, and 3510 as sections 3523, 3524, 3525, and 3526, respectively.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id218AC675BA8D43C59D603C64B626BFF5">
+                    <enum>(b)</enum>
+                    <header>Application</header>
+ <text display-inline="yes-display-inline">Chapter 35, as amended by subsection (a), is further amended by inserting before section 3523 the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id71B236C1DB7B42219D0737A5188DCE36">
+                        <section id="id00E6A3AD4F9949C2B2634ED6763D960D">
+                            <enum>3521.</enum>
+                            <header>Application</header>
+                            <subsection id="id2CBAF909337E465AAF703761B7B49848">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">This subchapter applies to a passenger vessel that—</text>
+                                <paragraph id="id7955848580484E7C85C26131A2D4B11A">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">is authorized to carry 250 or more passengers;</text>
+                                </paragraph>
+                                <paragraph id="idC6B49E0F21EA46AC93546CAAACDB9E56">
+                                    <enum>(2)</enum>
+ <text>has overnight accommodations for 250 or more passengers; and</text>
+                                </paragraph>
+                                <paragraph id="idD0369864DB6A475B9E34E7EAC4097C67">
+                                    <enum>(3)</enum>
+ <text>is on a voyage that embarks or disembarks passengers in the United States.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idFF4A9E1E3FF64C3FBA6A585240332463">
+                                <enum>(b)</enum>
+                                <header>Federal and State vessels</header>
+ <text>Notwithstanding subsection (a), this subchapter does not apply to—</text>
+                                <paragraph id="id7B2114EAE6F0463DBFB9E1820DC54539">
+                                    <enum>(1)</enum>
+ <text>a vessel of the United States operated by the Federal Government; or</text>
+                                </paragraph>
+                                <paragraph id="id8857879933C64AA89AA1DBD3560C657E">
+                                    <enum>(2)</enum>
+ <text>a vessel owned and operated by a State.</text> </paragraph> </subsection> </section> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="id7B70FE0B9A844BE2BE97681948C2DA5A"> <enum>(c)</enum> <header>Definitions</header> <text display-inline="yes-display-inline">Chapter 35, as amended by subsections (a) and (b), is further amended by inserting after section 3521, as added by subsection (b), the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="idABF6649602944D82B0368B286A4BC866">
+                        <section id="id6C3DC6EE367E45FB94C2C2328EC8021D">
+                            <enum>3522.</enum>
+                            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subchapter: </text> <paragraph id="id63F11C9132EB419B890BC3D20C32DB87"> <enum>(1)</enum> <header>Exterior deck</header> <text>The term <term>exterior deck</term> means any exterior weather deck on which a passenger may be present, including passenger stateroom balconies, exterior promenades on passenger decks, muster stations, and similar exterior weather deck areas.</text>
+                            </paragraph>
+                            <paragraph id="id22744C29EA504A67BC3FA3FAC2664D63">
+                                <enum>(2)</enum>
+                                <header>Owner</header>
+ <text>The term <term>owner</term> means the owner, charterer, managing operator, master, or other individual in charge of a vessel.</text>
+                            </paragraph>
+                            <paragraph id="id9F7F0294A8F641938C1597EDFD74BC64">
+                                <enum>(3)</enum>
+                                <header>Applicable passenger</header>
+ <text>The term <term>applicable passenger</term> means a passenger carried on a passenger vessel who is a citizen of the United States.</text>
+                            </paragraph>
+                            <paragraph commented="no" id="idcb2a354a691f49c7b57ec0134ff14a2d">
+                                <enum>(4)</enum>
+                                <header>Physician</header>
+ <text>The term <term>physician</term> means a doctor of medicine or doctor of osteopathic medicine who—</text>
+                                <subparagraph commented="no" id="id0b92aa6dbcd446978307fe78f3df4b28">
+                                    <enum>(A)</enum>
+ <text>has at least 3 years of post-graduate, post-registration experience in general and emergency medicine; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" id="idcb4feaa75d3c45389b033c0d88698e62">
+                                    <enum>(B)</enum>
+ <text>is certified by the American Board of Medical Specialties, or any other certifying body designated by the Secretary, in emergency medicine, family medicine, or internal medicine. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idbbc73613673b4e52bf74d74dd8844c2c">
+                                <enum>(5)</enum>
+                                <header>Qualified medical staff member</header>
+ <text>The term <term>qualified medical staff member</term> means a medical professional certified in advanced cardiovascular life support and advanced trauma life support training.</text>
+                            </paragraph>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+            <section id="id2A889E59B3904DF486BAB94CCF2D4D77">
+                <enum>202.</enum>
+                <header>Crime reporting and public notice</header>
+                <subsection id="id40578B4917E44F0D9A8472317BF7C955">
+                    <enum>(a)</enum>
+                    <header>Availability of log book and entries to FBI and other
+                        investigators</header>
+ <text>Section 3523(g)(1), as redesignated under section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph id="id331C9581E8AD451885E2DA1928D68323">
+                        <enum>(1)</enum>
+ <text>in subparagraph (A), by striking <quote>in a centralized location readily accessible to law enforcement personnel,</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" id="id1D43C103C5374611851DDD7D3A39428E">
+                        <enum>(2)</enum>
+ <text>in subparagraph (B), by striking <quote>make such log book available</quote> and inserting <quote>make available the log book described in subparagraph (A), the Captain’s log, the security log, the engine room log, all other logs, and all entries of the log books or logs described in this subparagraph, without regard as to whether the log book, logs, or entries are maintained on board the vessel or at a centralized location off the vessel,</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id0129EB2B767E4C0D9FAC3ED1D519572D">
+                    <enum>(b)</enum>
+                    <header>Deadline To notify Federal Bureau of Investigation regarding certain
+                        incidents</header>
+ <text>Section 3523(g)(3), as redesignated under section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id796e90b976774216a3389bc0b056a684">
+                        <enum>(1)</enum>
+ <text>in subparagraph (A)(i)—</text> <subparagraph id="idCA13221EC04D4DB0BF5257499846D232"> <enum>(A)</enum> <text>by striking <quote>shall contact</quote> and inserting <quote>subject to subparagraph (C), shall contact</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph id="idB6261D40F74744E9A3C8FBAAC8B7378C">
+                            <enum>(B)</enum>
+ <text>by striking <quote>after the occurrence on board the vessel of an incident involving</quote> and inserting <quote>, but not later than 4 hours, after an employee of the vessel is notified of an incident on board the vessel allegedly involving</quote>; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id38889bb451f34c5d9903c7e7e9306294">
+                        <enum>(2)</enum>
+ <text>in subparagraph (B)(i), by striking <quote>admiralty and maritime jurisdiction of the United States and outside the jurisdiction of any State</quote> and inserting <quote>special maritime and territorial jurisdiction of the United States, as defined in section 7 of title 18,</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idC159ED8A09AC4EC3B3E8CD19170335C9">
+                    <enum>(c)</enum>
+                    <header>Crime reporting guidelines</header>
+ <text>Section 3523(g)(1)(A), as redesignated under section 201(a)(3) of this Act and amended by subsection (a), is further amended—</text>
+                    <paragraph id="idD0B153A0CDDC4F5E97A4C688932E7466">
+                        <enum>(1)</enum>
+ <text>in clause (i), by striking the comma at the end and inserting a semicolon;</text>
+                    </paragraph>
+                    <paragraph id="id7445BE72DC7B4F188847F5198BC6B577">
+                        <enum>(2)</enum>
+ <text>in clause (ii), by striking <quote>, and</quote> and inserting a semicolon;</text>
+                    </paragraph>
+                    <paragraph id="id069E2548EBF84295830826BC5C400D40">
+                        <enum>(3)</enum>
+ <text>in clause (iii), by striking the comma at the end and inserting <quote>; and</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="idEB1F68ACEDE04BB0981C0351DB55FE01">
+                        <enum>(4)</enum>
+ <text>by inserting after clause (iii) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id9FAC1ECAF9ED4DB2ADED5A360CBE5A6C"> <clause id="idF28BCBCAAE2348B29E6D1A0E981B16A5"> <enum>(iv)</enum> <text>any other criminal offenses reported to the Federal Bureau of Investigation through the Uniform Crime Reporting Program,</text>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection id="idD21CB6D334B1476B9CCFD7D9F688637F">
+                    <enum>(d)</enum>
+                    <header>Reports before departure</header>
+ <text>Section 3523(g)(3), as redesignated under section 201(a)(3) of this Act, is amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id36A9CF48CF4245A6B2C1EFF922512BC0">
+                        <subparagraph id="id10BF5AB77D1E485DB6CF7257753A3F4C">
+                            <enum>(C)</enum>
+                            <header>Reports before departure</header>
+ <text>If an employee of a vessel to which this subchapter applies is notified of an incident under subparagraph (A)(i) while the vessel is within the special maritime and territorial jurisdiction of the United States, as defined in section 7 of title 18, and en route to a United States port or at a United States port, the owner of the vessel (or the owner's designee) shall contact the nearest Federal Bureau of Investigation Field Office or Legal Attaché not later than the time specified under subparagraph (A)(i) or before the vessel departs port, whichever is earlier.</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="idF25141E89B794009B4266CF4B48BF058">
+                    <enum>(e)</enum>
+                    <header>Reports to United States consulates</header>
+ <text>Section 3523(g)(3), as amended by subsection (d), is further amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id3BF8297B21384D499D8552EF865BF7E5">
+                        <subparagraph id="id8486A75F27884DFE9A7A6BA6CDF6CDD1">
+                            <enum>(D)</enum>
+                            <header>Reports to United States consulates</header>
+ <text>If an incident described in subparagraph (A)(i) allegedly involves an offense by or against a United States national, in addition to contacting the nearest Federal Bureau of Investigation Field Office or Legal Attaché under that subparagraph, the owner of a vessel to which this subchapter applies (or the owner's designee) shall contact the United States consulate at the next port of call as soon as possible, but not later than 4 hours after arrival at the port.</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="id14BCF857862145F2AB703EB9C5CE6478">
+                    <enum>(f)</enum>
+                    <header>Reports to Secretary of Transportation; incidents and details</header>
+ <text>Section 3523(g)(3)(A), as amended by subsection (b), is further amended—</text>
+                    <paragraph id="idE2C05BE898904687BAFE176F1A8A1970">
+                        <enum>(1)</enum>
+ <text>in clause (ii), by striking <quote>to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)</quote> and inserting <quote>, including the details under paragraph (2), to the internet website maintained by the Secretary of Transportation under section 16106(i)</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="idBDDF583D5D5E43D79B921DEBD1E436DA">
+                        <enum>(2)</enum>
+ <text>in clause (iii), by striking <quote>under paragraph (4)(A)</quote> and inserting <quote>under section 16106(i)</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" id="idD53E7EB4CA094E7290EA447F8C4D99F6">
+                    <enum>(g)</enum>
+                    <header>Availability of security guide via Internet</header>
+ <text>Section 3523(c)(1), as redesignated under section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph commented="no" id="id7FF060578568400DA7CE9A41853765F9">
+                        <enum>(1)</enum>
+ <text>in subparagraph (A)—</text> <subparagraph commented="no" id="id09EDF4AE098B46C88511CDF97CD13206"> <enum>(A)</enum> <text>by striking <quote>a guide (referred to in this subsection as the <quote>security guide</quote>)</quote> and inserting <quote>a security guide</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id916C0CE24303404489BABE7B76EF5715">
+                            <enum>(B)</enum>
+ <text>by striking <quote>English, which</quote> and inserting <quote>English, that</quote>; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="id35BCC40E531343E8A5091A08F03D800D">
+                        <enum>(2)</enum>
+ <text>in subparagraph (C), by striking <quote>on the website of the vessel owner</quote> and inserting <quote>through a prominently accessible link on each internet website that the vessel owner maintains for applicable passengers to purchase or book passage on a passenger vessel</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" id="id8FB1D1202E344D7F8417B9098F2E3508">
+                    <enum>(h)</enum>
+                    <header>Reporting requirements</header>
+ <text>Section 3523, as redesignated under section 201(a)(3) of this Act, is further amended—</text>
+                    <paragraph commented="no" id="id9C8145BC830A468FBD745C922FB2CD09">
+                        <enum>(1)</enum>
+ <text>by striking subsections (k) and (l);</text> </paragraph> <paragraph commented="no" id="idB84F7FB228B443718588B94A070D07DB"> <enum>(2)</enum> <text>by redesignating subsections (i) and (j) as subsections (j) and (k), respectively; and</text>
+                    </paragraph>
+                    <paragraph commented="no" id="idE46C3B33445948FDA013D79FEDFC06C9">
+                        <enum>(3)</enum>
+ <text>by inserting after subsection (h) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id366C0E0C02EF47BEB30B9C48E465A88F"> <subsection commented="no" id="id7A60D2095F3A4B048D6F32268FFDD1BE"> <enum>(i)</enum> <header>Reporting requirements</header> <paragraph commented="no" id="idA9C625BBDCE8440ABDB379A5A4F0C4BF"> <enum>(1)</enum> <header>Provision to State fusion centers</header> <subparagraph commented="no" id="id695393C967B047F8AB336E81310E6AC5"> <enum>(A)</enum> <header>In general</header> <text>Any records (including electronic records), information, or written documentation provided to any source under subsection (g) shall also be provided to the State fusion center (as described in section 210A of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/124h">6 U.S.C. 124h</external-xref>)) for the State in which the applicable port described in subparagraph (B) is located.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="idBD1408F8BA12455EB941D4BD87FEBD8C">
+                                        <enum>(B)</enum>
+                                        <header>Applicable port</header>
+ <text>For purposes of this paragraph, the applicable port shall be the port from which a vessel originally embarks or the port at which the vessel disembarks, whichever port is nearest when the alleged incident occurs.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idf53553abd5614061a741336764c22a5d">
+                                    <enum>(2)</enum>
+                                    <header>Effect on other reporting requirements</header>
+ <text>Requirements under this subsection supplement and do not amend, or serve as a substitute for, the reporting requirements of section 10104 of this title or any other provision of law.</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id17F030EC115C485E95AF681D75E66DD6">
+                <enum>203.</enum>
+                <header>Crime prevention, documentation, and response requirements</header>
+                <subsection commented="no" id="idAE27B9DD87AE4FCAACB062588B75F4F7">
+                    <enum>(a)</enum>
+                    <header>Maintenance and placement of video surveillance equipment</header>
+ <text>Section 3523(b)(1)(B), as redesignated under section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph id="idf09746e443374787b719b8672228fcc0">
+                        <enum>(1)</enum>
+ <text>in subclause (II) of clause (ii), by striking <quote>to the maximum extent practicable</quote>;</text>
+                    </paragraph>
+                    <paragraph id="id749BBC4A731D4EB8B52B37F0CFC8870B">
+                        <enum>(2)</enum>
+ <text>by redesignating subclause (IV) of clause (ii) as clause (iii), and adjusting the margins appropriately;</text>
+                    </paragraph>
+                    <paragraph id="idCE349EF9A47C4E249C7876CF35CC754B">
+                        <enum>(3)</enum>
+ <text>by inserting after subclause (III) of clause (ii) the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idED114C05C394429996BBFFA3F106A1A7">
+                            <subclause id="id4531935A2B2D4F2F804D32D7090F9345">
+                                <enum>(IV)</enum>
+ <text>incorporate the feedback and suggestions from the results of the independent third party risk assessment to provide optimum surveillance that complies with the guidance from the Commandant.</text>
+                            </subclause>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="id37A582BC74CE4C0496DDD9FEC0C7DA82">
+                        <enum>(4)</enum>
+ <text>in clause (iii), as redesignated by paragraph (2), by striking <quote>the independent third party referred to in paragraph (C)</quote> and inserting the following: <quote><header-in-text level="clause" style="OLC">Independent third party</header-in-text>.—The independent third party referred to in clause (ii)(III)</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idF9778FB4849E4A1FB0352012788B07AE">
+                    <enum>(b)</enum>
+                    <header>Access to video records</header>
+ <text>Section 3523(b)(3)(B), as redesignated under section 201(a)(3) of this Act, is further amended—</text>
+                    <paragraph id="ide57508cb9cff4af0a37f435145736813">
+                        <enum>(1)</enum>
+ <text>in the matter preceding clause (i), by striking <quote>Except as proscribed by law enforcement authorities or court order, the</quote> and inserting <quote>The</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="id3c4a7bc614f34e19b7635b8827242644">
+                        <enum>(2)</enum>
+ <text>in clause (ii), by striking <quote>of any sexual assault incident</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idBDFE0BC751F44440BDDBB84051F593F1">
+                    <enum>(c)</enum>
+                    <header>Notice of video surveillance</header>
+ <text>Section 3523(b)(2), as redesignated under section 201(a)(3) of this Act, is further amended by striking <quote>this section applies</quote> and inserting <quote>this subchapter applies</quote>.</text>
+                </subsection>
+                <subsection id="id4EF28371E5A5456491C69FC28E76EB53">
+                    <enum>(d)</enum>
+                    <header>Retention requirements</header>
+ <text>Section 3523(b)(4), as redesignated under section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph id="id283A94C073FC4C6E807D4E31E605AC88">
+                        <enum>(1)</enum>
+ <text>by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins appropriately;</text>
+                    </paragraph>
+                    <paragraph id="id05C3D9C9266B43C68998E313CD15D33F">
+                        <enum>(2)</enum>
+ <text>by striking <quote>The owner of a vessel to which this section applies</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id338D4402579B476AB0B15A2A8A17ED30">
+                            <subparagraph id="idD5314234D31B4C47A3D4C6E36369DA5D">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>The owner of a vessel to which this subchapter applies</text> </subparagraph> <after-quoted-block>; </after-quoted-block> </quoted-block> </paragraph> <paragraph id="id11a0387091974865ae60e1c9173106cd"> <enum>(3)</enum> <text>by striking <quote>20 days after the footage is obtained</quote> and inserting <quote>1 year after completion of the voyage</quote>;</text>
+                    </paragraph>
+                    <paragraph id="idB79B44770572444CB66FCE9726D7561F">
+                        <enum>(4)</enum>
+ <text>in clause (ii) of subparagraph (A), as redesignated by this subsection, by striking <quote>4 years</quote> and inserting <quote>5 years</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="id3bc5a2e92bec45c49f42b3edf425dacc">
+                        <enum>(5)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id440718360412487a8a20e7e9065347d8"> <subparagraph id="id37ed2422d78b47479d5d8f4703cd1c32"> <enum>(B)</enum> <header>Interim standards</header> <text>Not later than 180 days after the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate interim standards for the retention of records of video surveillance.</text>
+                            </subparagraph>
+                            <subparagraph id="idb9198ccb6a8f4f18ba29584090372f13">
+                                <enum>(C)</enum>
+                                <header>Final standards</header>
+ <text>Not later than 1 year after the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate final standards for the retention of records of video surveillance.</text>
+                            </subparagraph>
+                            <subparagraph id="id0238cdaa4deb46439a76b02675f3d8da">
+                                <enum>(D)</enum>
+                                <header>Considerations</header>
+ <text>In promulgating standards under subparagraphs (B) and (C), the Commandant shall—</text>
+                                <clause id="ide47f20f8060c4d01a506c0e4190b1934">
+                                    <enum>(i)</enum>
+ <text>consider factors that would aid in the investigation of serious crimes, including crimes that go unreported until after the completion of a voyage;</text>
+                                </clause>
+                                <clause id="id512d7450e5f64de79d38a8d43be4c26b">
+                                    <enum>(ii)</enum>
+ <text>consider the different types of video surveillance systems and storage requirements in creating standards both for vessels currently in operation and for vessels newly built;</text>
+                                </clause>
+                                <clause id="id6d453591dfef4e4d87c0d856dff5ebe0">
+                                    <enum>(iii)</enum>
+ <text>consider privacy, including standards for permissible access to and monitoring and use of the records of video surveillance; and</text>
+                                </clause>
+                                <clause id="idcde6d5c1f6494a96aaa347fae53e4f89">
+                                    <enum>(iv)</enum>
+ <text>consider technological advancements, including requirements to update technology.</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection id="idB0C553C2CCC64DCB8EF251259020801D">
+                    <enum>(e)</enum>
+                    <header>Technology detecting passengers who have fallen overboard
+                        requirement</header>
+ <text>Section 3523(a)(1)(D), as redesignated under section 201(a)(3) of this Act, is amended by striking <quote>or detecting passengers who have fallen overboard,</quote> and inserting <quote>and detecting passengers who have fallen overboard, as certified by an independent third party accepted by a classification society that is a member of the International Association of Classification Societies or another classification society recognized by the Secretary pursuant to section 3316(b) of this title,</quote>.</text>
+                </subsection>
+                <subsection commented="no" id="idCB4BFD2A7F52499CA27E861DE75F1C1C">
+                    <enum>(f)</enum>
+                    <header>Criminal activity prevention and response guide</header>
+ <text>Section 3523(c)(1), as amended by section 202(g) of this Act, is further amended—</text>
+                    <paragraph commented="no" id="id1DB42D68DAA74E599C4CEC9A7702433A">
+                        <enum>(1)</enum>
+ <text>in subparagraph (A)—</text> <subparagraph commented="no" id="id2306EA6CC376495F9D1BECB6A28F1FB5"> <enum>(A)</enum> <text>by redesignating clause (ii) as clause (vi);</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id6FACD3A2A88641348A0B603545248411">
+                            <enum>(B)</enum>
+ <text>by inserting after clause (i) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id11E8C1A1F4AA43B89BB7F41B56005665"> <clause commented="no" id="idD3260E71627F44A8AF4CBF9C732C35CB"> <enum>(ii)</enum> <text>describes the availability of support services under section 16106, including any contact information provided by the Secretary of Transportation or director of victim support services under that section;</text>
+                                </clause>
+                                <clause commented="no" id="idBB5A73D55DFB425DB6A34CFBD804BCD5">
+                                    <enum>(iii)</enum>
+ <text>includes the summary of rights under section 16106(e);</text>
+                                </clause>
+                                <clause commented="no" id="idF686C11E10AE487894A2CFFBA47B683E">
+                                    <enum>(iv)</enum>
+ <text>includes the summary under section 16104(a);</text> </clause> <clause commented="no" id="id7C4434AE09B148B48AE265D9D0198E91"> <enum>(v)</enum> <text>includes the toll-free hotline telephone number and consumer complaints internet website link under section 16104(b);</text>
+                                </clause>
+                                <after-quoted-block>;</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id1A7F4BB00E4B461E87AB4DAA79E997DB">
+                            <enum>(C)</enum>
+ <text>in clause (vi), as redesignated by subparagraph (A), by inserting <quote>and</quote> at the end; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="idDA3A8643703D4CEDAB1A4B1599F68F4C">
+                            <enum>(D)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id6D16890EAB824EB5959CB06ACB962E38"> <clause commented="no" id="id10A63CD80B8C41129FECE74EC3AD9D98"> <enum>(vii)</enum> <text>includes such other information as the Secretary of Transportation recommends under section 16106(b)(3)(F);</text>
+                                </clause>
+                                <after-quoted-block>;</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="idD4866FC54048495EBDF9DE031C9D34DE">
+                        <enum>(2)</enum>
+ <text>by amending subparagraph (B) to read as follows:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idF6EEC4AECED24C40AFFADAFA84AB835F"> <subparagraph commented="no" id="id91C97E4ED30D45E8A735AA29BE43C52A"> <enum>(B)</enum> <text>provide a copy of the security guide to—</text>
+                                <clause commented="no" id="id4AAEBE4094824CB393DEB84DB3059D6B">
+                                    <enum>(i)</enum>
+ <text>the Secretary of Transportation for review; and</text> </clause> <clause commented="no" id="idFB889FC938F648BBB32F0B5E3156A171"> <enum>(ii)</enum> <text>the Federal Bureau of Investigation for comment;</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>; </after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" id="idDDDD576905E04093AD2B17FFA08EA2ED">
+                        <enum>(3)</enum>
+ <text>by redesignating subparagraph (C) as subparagraph (D); and</text> </paragraph> <paragraph commented="no" id="id2E715C41037041A995214EA2E1C8E9E8"> <enum>(4)</enum> <text>by inserting after subparagraph (B) the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id45CBACB7247F4583ABB922E9010E70B4">
+                            <subparagraph commented="no" id="idFE269C34EA314124A1A913486BA1B399">
+                                <enum>(C)</enum>
+ <text>immediately after the vessel is notified that a passenger is an alleged victim of an incident described under subsection (g)(3)(A)—</text>
+                                <clause commented="no" id="idD23F12F0425A4EDA8C9D8AFDA258C7F1">
+                                    <enum>(i)</enum>
+ <text>provide the passenger with a copy of the security guide; and</text>
+                                </clause>
+                                <clause commented="no" id="id4EDD815C140A430C8607FFA4CCD57FC2">
+                                    <enum>(ii)</enum>
+ <text>inform the passenger that the passenger has the right to notify the Federal Bureau of Investigation that the passenger has been a victim of a crime on a passenger vessel; and</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection id="idA849504F9CC548BDB50737093984D92C">
+                    <enum>(g)</enum>
+                    <header>Maintenance of supplies To prevent sexually transmitted
+                        diseases</header>
+ <text>Section 3523(d)(1), as redesignated by section 201(a)(3) of this Act, is amended by inserting <quote>(taking into consideration the length of the voyage and the number of passengers and crewmembers that the vessel can accommodate)</quote> after <quote>a sexual assault</quote>.</text>
+                </subsection>
+                <subsection id="id2664A88E354140A9AD41FD25395AE934">
+                    <enum>(h)</enum>
+                    <header>Sexual assault; contact information</header>
+ <text>Section 3523(d)(5)(A), as redesignated by section 201(a)(3) of this Act, is amended by striking <quote>the United States Coast Guard,</quote>.</text>
+                </subsection>
+                <subsection id="id0AC37712B80544EDBA54CE85335F933A">
+                    <enum>(i)</enum>
+                    <header>Sexual assault; private telephone line</header>
+ <text>Section 3523(d)(5)(B), as redesignated by section 201(a)(3) of this Act, is amended by inserting <quote>under section 16106 or</quote> after <quote>the information and support services available</quote>.</text>
+                </subsection>
+                <subsection id="id13C28DCF09B34D53AC00B62FCAABE17C">
+                    <enum>(j)</enum>
+                    <header>Crime scene preservation training</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id806eceb003fe4cd1b4a578e2a6d74b1a">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">promulgate a rule establishing the standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment, as required under subsection (a) of section 3524 of title 46, United States Code (as redesignated by section 201(a)(3) of this Act); and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4976e02c61654c18b91674a5bec5d8e1">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">publish the rule and the most recent curricula described in paragraph (1) on the website of the department.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idD74057827EFE4153BF53D91C64BD0C3B">
+                    <enum>(k)</enum>
+                    <header>Crew access to passenger staterooms; procedures and
+                        restrictions</header>
+ <text>Section 3523(f), as redesignated by section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph id="idBC6B9C9616F34A0F90D63466C40AF51C">
+                        <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph id="idEA3BF52BCEDA4B1A8EAACE0FD87C27C5"> <enum>(A)</enum> <text>in subparagraph (A), by striking <quote>and</quote> at the end; and</text>
+                        </subparagraph>
+                        <subparagraph id="id923ECA2DB62B47EEB7E52A0516A0E024">
+                            <enum>(B)</enum>
+ <text>by inserting after subparagraph (B) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id5E49DAB0A28845D7A95C9FE20552BFA7"> <subparagraph id="idA180222C77124C068D19D405653B653E"> <enum>(C)</enum> <text>a system that electronically records the date, time, and identity of each crew member accessing each passenger stateroom; and</text>
+                                </subparagraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id954D9FA97D6F4C2CB383D823D98EE987">
+                        <enum>(2)</enum>
+ <text>by striking paragraph (2) and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id7759C2E61EB544E38C45217F7E27E866"> <paragraph id="id88C5F5E1E82D4FC9B02188B06F1CEF58"> <enum>(2)</enum> <text>ensure that the procedures and restrictions are—</text>
+                                <subparagraph id="id5678E510C491492695DBBA42A110F9F3">
+                                    <enum>(A)</enum>
+ <text>fully and properly implemented;</text> </subparagraph> <subparagraph id="idDDE0C9908DF0410F9FFAE214FBE6C56A"> <enum>(B)</enum> <text>reviewed annually; and</text>
+                                </subparagraph>
+                                <subparagraph id="id4F0271E0DB1443A8975101FECE3EE760">
+                                    <enum>(C)</enum>
+ <text>updated as necessary.</text> </subparagraph> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> </subsection> <subsection commented="no" id="id2235E2E4A16045F9A9E2DC6946AFACAF"> <enum>(l)</enum> <header>Requirements for reporting</header> <text>Subsection (i) of section 3523, as added by section 202(h) of this Act, is further amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idD04F91AFC6664EBF8B9F0C9FF82E215F">
+                        <paragraph commented="no" id="id2B1DEDF4690849E2AE3DEB50941B7304">
+                            <enum>(3)</enum>
+                            <header>Applicability of requirements</header>
+ <text>Any reporting requirement under this section relating to an incident specified in subsection (g)(3)(A)(i) is required without regard as to whether the Federal Bureau of Investigation has opened a formal investigation relating to the incident.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+            <section id="id830F3CA9FE3F4259B67598698E397EFE">
+                <enum>204.</enum>
+                <header>Passenger vessel security and safety requirements</header>
+                <subsection id="id06762772C5194ADBA2FF7928E49BB29B">
+                    <enum>(a)</enum>
+                    <header>Vessel design, equipment, construction, and retrofitting
+                        requirements</header>
+ <text>Section 3523(a), as redesignated by section 201(a)(3) of this Act, is amended—</text>
+                    <paragraph id="idC2793762A040437288A9328B28581A73">
+                        <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph commented="no" id="id1F6B59E247FF4A2DA8ACB7936A84577A"> <enum>(A)</enum> <text>in the matter preceding subparagraph (A), by striking <quote>to which this subsection applies</quote> and inserting <quote>to which this subchapter applies</quote>;</text>
+                        </subparagraph>
+                        <subparagraph id="idA8D544D9D472463997219037000CFE00">
+                            <enum>(B)</enum>
+ <text>in subparagraph (A)—</text> <clause id="id22C1E3BAE2184D0384ACE8EB01E4F0DC"> <enum>(i)</enum> <text>by striking <quote>The vessel</quote> and inserting <quote>Each exterior deck of a vessel</quote>; and</text>
+                            </clause>
+                            <clause id="id97688BA4E8F246DB8F3FA6C357163265">
+                                <enum>(ii)</enum>
+ <text>by inserting <quote>unless the height requirement would interfere with the deployment of a lifesaving device or other emergency equipment as identified by the Commandant</quote> before the period at the end;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idAF99E6A4C02C41C9965F463142796C5E">
+                            <enum>(C)</enum>
+ <text>in subparagraph (B), by striking <quote>entry doors that include peep holes or other means of visual identification.</quote> and inserting <quote>an entry door that includes a peep hole or other means of visual identification that provides an unobstructed view of the area outside the stateroom or crew cabin. For purposes of this subparagraph, the addition of an optional privacy cover on the interior side of the entry shall not in and of itself constitute an obstruction.</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph id="id7A14D2C730A24950AE67B461F6840339">
+                            <enum>(D)</enum>
+ <text>in subparagraph (E), by striking <quote>when operating in high risk areas (as defined by the United States Coast Guard)</quote>; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id6095B49300274E5BA3F89989626138EF">
+                        <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idDEE93BEBE21C4C0B9C37CD4A7F9B61C5"> <paragraph id="id9480AC0CFF074546B90D5EE139CBC1FA"> <enum>(3)</enum> <header>Waivers; record of waivers</header> <text>The Secretary—</text>
+                                <subparagraph id="ida5df831547f64594914f0b46178fb2fd">
+                                    <enum>(A)</enum>
+ <text>may waive a requirement under paragraph (1) as the Secretary determines necessary;</text>
+                                </subparagraph>
+                                <subparagraph id="idd663bf2f5fcb4d5aab9cad551f96bcfe">
+                                    <enum>(B)</enum>
+ <text>shall maintain a record of each waiver under subparagraph (A); and</text>
+                                </subparagraph>
+                                <subparagraph id="idab64a3c2632743bd80c67fdb4c2f4e49">
+                                    <enum>(C)</enum>
+ <text>shall include in such record the justification for the waiver.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection id="id42c6c8f51c694a92b07991fb88cea6fb">
+                    <enum>(b)</enum>
+                    <header>Medical standards</header>
+                    <paragraph commented="no" id="id102ac498b0614a6ebf896c013a4d09ae">
+                        <enum>(1)</enum>
+                        <header>Medical standards</header>
+ <text>Section 3525, as redesignated by section 201(a)(3) of this Act, is amended—</text>
+                        <subparagraph id="idd41acce5db7a428088e0ae20172b171c">
+                            <enum>(A)</enum>
+ <text>by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;</text>
+                        </subparagraph>
+                        <subparagraph id="idf5fc0d53b26f4a688ccd098cb090bb2b">
+                            <enum>(B)</enum>
+ <text>by inserting after paragraph (1) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id9FC510E3BFAE4362BDBAB29082520B4E"> <paragraph id="id6B178030B97842C8A814657D003DD189"> <enum>(2)</enum> <text>there are a sufficient number of qualified medical staff members on the vessel to treat the number of passengers who may be on board the vessel, as determined by regulation by the Secretary, in consultation with the Secretary of Health and Human Services;</text>
+                                </paragraph>
+                                <after-quoted-block>;</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                        <subparagraph id="idbf04b0a509ee483a85174c9bcb9483b1">
+                            <enum>(C)</enum>
+ <text>in paragraph (3), as redesignated by subparagraph (A), by striking <quote>; and</quote> and inserting <quote>or any successor standard;</quote>;</text>
+                        </subparagraph>
+                        <subparagraph id="id304C4F54AE284032835F8D072E094846">
+                            <enum>(D)</enum>
+ <text>in paragraph (4), as redesignated by subparagraph (A)—</text> <clause id="id44698f66a8e14da29511c240558d9378"> <enum>(i)</enum> <text>in subparagraph (A), by striking <quote>and</quote> after the semicolon;</text>
+                            </clause>
+                            <clause id="id14c784e2c2d746d4a03c0dcecc2c2256">
+                                <enum>(ii)</enum>
+ <text>in subparagraph (B), by striking the period and inserting a semicolon; and</text>
+                            </clause>
+                            <clause id="idEC911A84E6F34007B5FD7C1CADEF2D24">
+                                <enum>(iii)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id8FA526B048854519B8827B2F127901D9"> <subparagraph id="id644d84d3f2ef442489f7e64ce2066e36"> <enum>(C)</enum> <text>the location and proper use of automated external defibrillators; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id7e805aebe44b43bdb73f976bf386fa5b">
+                                        <enum>(D)</enum>
+ <text>the proper way to report an incident or to seek security assistance in the event of a medical emergency;</text>
+                                    </subparagraph>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idbc9b31b65e064938b671dea486f9f28f">
+                            <enum>(E)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id457F67859E934827942D1A96216C2425"> <paragraph id="id7DBB9887B5F64BD58BD701266A73F6BE"> <enum>(5)</enum> <text>if a United States citizen dies on board the vessel and the citizen’s next of kin requests that the citizen’s body return to the United States on the vessel—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id99313454d1994a24a86a1d4a5ce409b3">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">such request is granted—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id88e735c2734a4238b4bb25e6fb2821a5">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">unless—</text> <subclause id="id0b23eea5bb724789b8d270e8bc03612b"> <enum>(I)</enum> <text>the vessel comes within the domestic jurisdiction of a country that requires human remains to be removed from a vessel or requires human remains to undergo post-mortem offshore autopsy; or</text>
+                                            </subclause>
+                                            <subclause id="id5fbbc6c03b934311a61d12530b93e329">
+                                                <enum>(II)</enum>
+ <text>the vessel is scheduled to enter the domestic jurisdiction of such a country as part of the scheduled voyage; and </text>
+                                            </subclause>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id99411ce971c940278ced8309bdc03eeb">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">except that, in cases in which the vessel is not scheduled to return to a United States port for 21 or more days after the citizen's death, arrangements may be made to return the body on a different appropriate vessel; and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idc1689f24faa946c5b1c30550f8e8f20e">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline"> the owner of the vessel pays for any transportation costs related to the return; </text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id4eae7b4916ae45b7a318a8ecac69d073">
+                                    <enum>(6)</enum>
+ <text>every crew member on the vessel has received basic life support training and is certified in cardiopulmonary resuscitation; and</text>
+                                </paragraph>
+                                <paragraph id="id9f4695e7d7d746cea0dc08af54533681">
+                                    <enum>(7)</enum>
+ <text>every passenger-facing crew member on a vessel leaving from or en route to a United States port of call has a basic understanding of the English language, including—</text>
+                                    <subparagraph id="idd8fab106791b49858201349e364d4609">
+                                        <enum>(A)</enum>
+ <text>at least a <quote>Basic</quote> score on the Test of English as a Foreign Language for both listening and speaking;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id303bf8de8d7d498bbcdae6a7aecbecd6">
+                                        <enum>(B)</enum>
+ <text>at least a <quote>4 Skill Level</quote> score on the International English Language Testing System for both listening and speaking; or</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idb131ec587a644598ba008230d11f7532">
+                                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">at least a basic level of proficiency for listening and speaking on another test of the English Language designated by the Secretary.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idE1BDE2243B9748D9AFF662F13EB0ED2E">
+                        <enum>(2)</enum>
+                        <header display-inline="yes-display-inline">Effective date</header>
+ <text display-inline="yes-display-inline">The amendments made by paragraph (1) shall take effect on the date that is 180 days after the date of enactment of this Act.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" id="id481D5A9134A746FAA5EB98A3E504391E">
+                <enum>205.</enum>
+                <header>Enforcement</header>
+                <subsection id="id651b475479b4419682e68248136865d8">
+                    <enum>(a)</enum>
+                    <header>Penalties for Violation of Passenger Vessel Security and Safety
+                        Requirements</header>
+ <text>Section 3523(h)(1)(A), as redesignated by section 201(a)(3) of this Act, is amended by striking <quote>, except that</quote> and all that follows through <quote>$50,000</quote>.</text>
+                </subsection>
+                <subsection commented="no" id="id6E30CE88A32A4726B343F1271ECF54D3">
+                    <enum>(b)</enum>
+                    <header>Information sharing</header>
+ <text>Subchapter II of chapter 35, as amended by this Act, is further amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="idE59BC52D0F1B462EAD17D941772AF37B">
+                        <section commented="no" id="id6448E8AF747B4262A0ED63999E1984A0">
+                            <enum>3527.</enum>
+                            <header>Information sharing</header>
+                            <subsection commented="no" id="id2A76954E285F42CDA83941B7850C8DAA">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>To the extent not prohibited by other law, the head of a designated agency shall make available to another head of a designated agency any information necessary to carry out the provisions of this subchapter. The provision by the head of a designated agency of any information under this section to another head of a designated agency shall not constitute a waiver of, or otherwise effect, any privilege any agency or person may claim with respect to that information under Federal or State law.</text>
+                            </subsection>
+                            <subsection commented="no" id="id93BC169977A14E668B080F9B81D7653F">
+                                <enum>(b)</enum>
+                                <header>Definition of head of a designated agency</header>
+ <text>In this section, the term <term>head of a designated agency</term> means the Secretary of Transportation, the Secretary of Homeland Security, or the Attorney General.</text>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" id="idE315F558AF3D46D1BDFEA57DFE7706B9">
+                    <enum>(c)</enum>
+                    <header>Enforcement</header>
+ <text>Subchapter II of chapter 35, as amended by this Act, is further amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id555DC63C88894CF4AC592D2C348E6A1F">
+                        <section commented="no" id="id75363C2E02C648F6B90B91A3DDFCF3F8">
+                            <enum>3528.</enum>
+                            <header>Refusal of clearance; denial of entry</header>
+                            <subsection commented="no" id="id72D6793D6D084A96B4E8214C404B8DF6">
+                                <enum>(a)</enum>
+                                <header>Clearance</header>
+ <text>The Secretary of Homeland Security may withhold or revoke the clearance required under section 60105 of any vessel of the owner of a vessel to which this subchapter applies, wherever the vessel is found, if the owner of the vessel—</text>
+                                <paragraph commented="no" id="id7CFD1133B4B24080AAFE146A38B525A5">
+                                    <enum>(1)</enum>
+ <text>commits an act or omission for which a penalty may be imposed under this subchapter or chapter 161; or </text>
+                                </paragraph>
+                                <paragraph commented="no" id="id87450EFD2CC6450794CDF90BA48C439F">
+                                    <enum>(2)</enum>
+ <text>fails to pay a penalty imposed on the owner under this subchapter or chapter 161.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" id="id69DD4D790A9741D78D515C995ED0D601">
+                                <enum>(b)</enum>
+                                <header>Denial of entry</header>
+ <text>The Secretary of the department in which the Coast Guard is operating may deny entry into the United States to a vessel to which this subchapter applies if it is made aware by the Secretary of the Department of Transportation or the Attorney General that the owner of the vessel— </text>
+                                <paragraph commented="no" id="idC2B04009E75A4315BCBC0FFD7FA710ED">
+                                    <enum>(1)</enum>
+ <text>commits an act or omission for which a penalty may be imposed under this subchapter or chapter 161; or</text>
+                                </paragraph>
+                                <paragraph commented="no" id="id22EE83AD4A954AA1AE4285E5477DA558">
+                                    <enum>(2)</enum>
+ <text>fails to pay a penalty imposed on the owner under this subchapter or chapter 161.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+            <section id="idF480A053140148ECAA23FF773C5C5BAF">
+                <enum>206.</enum>
+                <header>Technical and conforming amendments</header>
+                <subsection commented="no" id="id8FC10FBD9A304690AFBE5C58BDFE11DF">
+                    <enum>(a)</enum>
+                    <header>Application</header>
+ <text>Chapter 35, as amended by this Act, is further amended—</text> <paragraph commented="no" id="id8BD661AC98FE4D97981590EF3AAA404B"> <enum>(1)</enum> <text>in section 3523, by striking <quote>to which this section applies</quote> each place such phrase appears and inserting <quote>to which this subchapter applies</quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" id="idD9C0060A0C24415CBDEB3192B1D2577C">
+                        <enum>(2)</enum>
+ <text>in section 3524, by striking <quote>to which this section applies</quote> each place such phrase appears and inserting <quote>to which this subchapter applies</quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" id="idB6993D9D93C24FAA8D0E25B25E79551E">
+                        <enum>(3)</enum>
+ <text>in section 3525, by striking <quote>to which section 3507 applies</quote> and inserting <quote>to which this subchapter applies</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" id="idEBD7A54BF5B447A9961693E2A3709F77">
+                        <enum>(4)</enum>
+ <text>in section 3526—</text> <subparagraph commented="no" id="idEDC565515BB64E6B94325B361C033B51"> <enum>(A)</enum> <text>by striking <quote>to which section 3507 applies</quote> and inserting <quote>to which this subchapter applies</quote>;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id3857801E43D145808B9158FDFCC3DDEA">
+                            <enum>(B)</enum>
+ <text>by striking <quote>(a) <header-in-text level="subsection" style="USC">Automated external defibrillators</header-in-text>.—</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="idB607072912FD4C519562C9EEB55D0A1F">
+                            <enum>(C)</enum>
+ <text>by striking subsection (b).</text> </subparagraph> </paragraph> </subsection> <subsection id="idF434303EAF3542D7838B13B00B822563"> <enum>(b)</enum> <header>Availability of incident data via Internet</header> <text>Section 3523(g), as redesignated under section 201(a)(3) of this Act, is amended by striking paragraph (4).</text>
+                </subsection>
+                <subsection id="id29F41089321E4C06A96450013E3C1523">
+                    <enum>(c)</enum>
+                    <header>Master key control system</header>
+ <text>Section 3106(e) is amended by striking <quote>3507(f)</quote> and inserting <quote>3523(f)</quote>.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idc577cdd8e8024587948a140e360dcab4">
+                    <enum>(d)</enum>
+                    <header display-inline="yes-display-inline">Reporting requirements</header>
+ <text>Section 8440(c)(2) of the William M. (Mac) Thornberry National Defense Authorization Act of 2021 is amended by striking <quote>3507 of title 46, United States Code</quote> and inserting <quote>3523 of title 46, United States Code (designated as section 3507 of such title before the date of enactment of the <short-title>Cruise Passenger Protection Act of 2025</short-title>),</quote>.</text>
+                </subsection>
+                <subsection id="id327F012C339B49BCA2F3F37980BE6252">
+                    <enum>(e)</enum>
+                    <header>Table of contents</header>
+ <text>The table of sections for chapter 35 is amended—</text> <paragraph id="id6EF260CCBD1A4857A6BA4D92E996A9B1"> <enum>(1)</enum> <text>by inserting before the item relating to section 3501 the following:</text>
+                        <quoted-block style="USC" display-inline="no-display-inline" id="id66B50B30DE5D4F7EB2510592DEF3511B">
+                            <toc>
+                                <toc-entry bold="off" level="subchapter">Subchapter I–General
+                                    provisions</toc-entry>
+                            </toc>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="idE15BCD639D62480CA3846B808ED7538A">
+                        <enum>(2)</enum>
+ <text>by inserting after the item relating to section 3506 the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id809A0035F04543408AEB87FBF80C78BB">
+                            <toc>
+                                <toc-entry bold="off" level="subchapter">Subchapter II–Cruise
+                                    vessels</toc-entry>
+                            </toc>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                        <continuation-text continuation-text-level="paragraph">and</continuation-text>
+                    </paragraph>
+                    <paragraph id="idD74C0AAE497A4BBB95A4826D01816C2B">
+                        <enum>(3)</enum>
+ <text>by striking the items relating to sections 3507, 3508, 3509, and 3510 and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idE8A265E40A1E4FE4B8745D2FBC102901">
+                            <toc>
+                                <toc-entry bold="off" level="section">3521. Application.</toc-entry>
+                                <toc-entry bold="off" level="section">3522. Definitions.</toc-entry>
+                                <toc-entry bold="off" level="section">3523. Passenger vessel
+                                    security and safety requirements.</toc-entry>
+                                <toc-entry bold="off" level="section">3524. Crime scene preservation
+                                    training for passenger vessel crewmembers.</toc-entry>
+                                <toc-entry bold="off" level="section">3525. Medical
+                                    standards.</toc-entry>
+                                <toc-entry bold="off" level="section">3526. Additional medical and
+                                    safety standards.</toc-entry>
+                                <toc-entry bold="off" level="section">3527. Information
+                                    sharing.</toc-entry>
+                                <toc-entry bold="off" level="section">3528. Refusal of clearance;
+                                    denial of entry.</toc-entry>
+                            </toc>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="HD47FC106A68D49DD98BD1F9252CB8389">
+                <enum>207.</enum>
+                <header>Limitations in certain cases</header>
+                <subsection id="HC2106364675F49A98E32F67E6B112BEF">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Section 30307 is amended—</text> <paragraph id="H1AEC1BA45B664C7D832372B675D27CA7"> <enum>(1)</enum> <text>in the section heading, by striking <quote><header-in-text level="section" style="USC">Commercial aviation accidents</header-in-text></quote> and inserting <quote><header-in-text level="section" style="USC">Limitations in certain cases</header-in-text></quote>;</text>
+                    </paragraph>
+                    <paragraph id="H0E41BD10F8D546A6A8EC0F3EE3986F98">
+                        <enum>(2)</enum>
+ <text>by striking subsection (a) and inserting the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="HCB3C67DBE16F4B1096BEF5B180B18317"> <subsection id="HC80085FD45C24FFD88F87DEDE1B5A1B3"> <enum>(a)</enum> <header>Definitions</header> <text display-inline="yes-display-inline">In this section, the following definitions apply:</text>
+                                <paragraph id="HB027AD4C512F4DE3B882F288319D79A9">
+                                    <enum>(1)</enum>
+                                    <header>Cruise ship</header>
+ <text display-inline="yes-display-inline">The term <term>cruise ship</term> means a passenger vessel, other than a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State, that—</text>
+                                    <subparagraph id="H75FA487855A341359670DCAE63E897F2">
+                                        <enum>(A)</enum>
+ <text>is authorized to carry at least 250 passengers;</text> </subparagraph> <subparagraph id="HC6D9497161CD43CDA1FD3DC97FBEE90D"> <enum>(B)</enum> <text>has onboard sleeping facilities for each passenger; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="H0A6486E5DA454107A84EAAE7723BB1FB">
+                                        <enum>(C)</enum>
+ <text>is on a voyage that embarks or disembarks passengers in the United States.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="HB940443C3CA84DEC8B93F0A1A2FADAF9">
+                                    <enum>(2)</enum>
+                                    <header>Nonpecuniary damages</header>
+ <text display-inline="yes-display-inline">The term <term>nonpecuniary damages</term> means damages for pre-death pain and suffering and for loss of care, comfort, and companionship.</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="idb9f4df23c96d4b6e9f6e66d0ae961006">
+                        <enum>(3)</enum>
+ <text>in subsection (b), by inserting <quote>, or cruise ship voyage,</quote> after <quote>commercial aviation accident</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="idb58b4384e65d41e38494c67d8e9b5bdd">
+                        <enum>(4)</enum>
+ <text>in subsection (c), by inserting <quote>, or cruise ship voyage,</quote> after <quote>commercial aviation accident</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H462B9795D5C245CBA695D9698D89A3B1">
+                    <enum>(b)</enum>
+                    <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for chapter 303 is amended by striking the item relating to section 30307 and inserting the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="HDF1433FEB4794995830859A9A87DAD05">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">30307. Limitations in certain
+                                cases.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

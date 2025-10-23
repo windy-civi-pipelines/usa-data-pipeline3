@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="A1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 3467 IH: To amend title XVIII to reform the Medicare Advantage program.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3467</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250515">May 15, 2025</action-date><action-desc><sponsor name-id="S001183">Mr. Schweikert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII to reform the Medicare Advantage program.</official-title></form><legis-body id="HE7C570A477B0455D8E15C39F79850F50" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section id="HC8808302347C" section-type="section-one"><enum>1.</enum><header>Reforming Medicare Advantage</header> 
+<subsection id="HC63F673464054F12AA1C691CA8020499">
+        <enum>(a)</enum>
+        <header>Requirement To use capitated payments</header>
+ <text display-inline="yes-display-inline">Section 1852 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-22">42 U.S.C. 1395w–22</external-xref>) is amended by adding at the end the following new subsection:</text>
+        <quoted-block style="OLC" id="HD406589DF2484E818391CBE2508041A4"
+          display-inline="no-display-inline">
+          <subsection id="H38D6DECD5E5F498EB8CC6E0C8F06D899">
+            <enum>(o)</enum>
+            <header>Requirement To use capitated payments</header>
+            <paragraph id="H198B7A9DC28D4803A872BAE007AC74CA">
+              <enum>(1)</enum>
+              <header>In general</header>
+ <text>Subject to paragraph (2) and section 1853(p), for plan years beginning on or after January 1, 2028, a Medicare Advantage plan may only pay for benefits furnished under such plan on a capitated basis.</text>
+            </paragraph>
+            <paragraph id="H481EA24583D340FA8C866C6458019C78">
+              <enum>(2)</enum>
+              <header>Exceptions</header>
+ <text>Paragraph (1) shall not apply in the case of the following MA plans for a plan year:</text>
+              <subparagraph id="HA88C03841A254C56B3E35536CD344312">
+                <enum>(A)</enum>
+ <text>An MA plan that was made available in such area during the preceding plan year, except that the only individuals eligible to enroll in such plan shall be individuals who were enrolled in such plan during such preceding plan year.</text>
+              </subparagraph>
+              <subparagraph id="H910CF029B2F44B049B23702341D255BF">
+                <enum>(B)</enum>
+ <text>A specialized MA plan for special needs individuals.</text> </subparagraph> </paragraph> </subsection> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="H5CDD35CA2B664CA8B46B57C80531DBE8"><enum>(b)</enum><header>Payment modifications</header> <paragraph id="H22F7EC507704491BADF00D54B0311E77"><enum>(1)</enum><header>Reducing blended benchmark</header><text display-inline="yes-display-inline">Section 1853(j)(1)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23(j)(1)(A)</external-xref>) is amended by inserting <quote>(or, beginning with 2028, 75 percent of <fraction>1/12</fraction> of such blended benchmark amount)</quote> after <quote>for the area for the year)</quote>.</text></paragraph> 
+<paragraph id="H40373AAAC438413989904C36A32DF791"><enum>(2)</enum><header>Risk adjustment modifications</header><text>Section 1853(a)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23(a)(3)</external-xref>) is amended by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" id="H66566F8E782940BF990744CD75DF6D45" display-inline="no-display-inline"> <subparagraph id="H85A4A02872E44645A5358F0B9B5C7F8E"><enum>(E)</enum><header>Risk adjustment requirements for health status</header><text display-inline="yes-display-inline">Beginning January 1, 2028, risk adjustment for health status shall be determined—</text> 
+<clause id="H30BDA6FAA2DD4AEF888840D09FB2FAEA"><enum>(i)</enum><text display-inline="yes-display-inline">using only diagnoses documented on claims from face-to-face or telehealth visits;</text></clause> <clause id="H3B656444F79346769A0D2AA8C2EE98AA"><enum>(ii)</enum><text>without using any diagnoses obtained for chart reviews or stand-alone health risk assessments; and</text></clause> 
+<clause id="H37CA50C97F8A4373BF9453CE60CF9F3A"><enum>(iii)</enum><text>using diagnoses from a 2-year period preceding the year for which such adjustment is made.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph> <paragraph id="H4373658DADD646D69C7A62D4F993004D" display-inline="no-display-inline"><enum>(3)</enum><header>Eliminating quality benchmark increases</header><text>Section 1853(o) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23(o)</external-xref>) is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" id="HDC37FFC502564D29BAD08F39C0BE5938" display-inline="no-display-inline"> 
+<paragraph id="HB8B9B2594CA546E4B030794887A969C6"><enum>(8)</enum><header>Nonapplication of increase to qualified MA plans</header><text display-inline="yes-display-inline">No increase to the applicable percentage under subsection (n)(2)(B) shall be made under this subsection for a plan for plan years beginning on or after January 1, 2028.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> <paragraph id="HC04BA0F0EEB3442D97A94F74251F4AE0"><enum>(4)</enum><header>Stop-loss payments</header><text>Section 1853 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-23">42 U.S.C. 1395w–23</external-xref>) is amended by adding at the end the following new subsection:</text> 
+<quoted-block style="OLC" id="H89154DDA636F4A2D85E2B08B286DE586" display-inline="no-display-inline"> 
+<subsection id="HB2277B7785214F26B45AB55322950B00">
+              <enum>(p)</enum>
+              <header>Stop-Loss payments</header>
+              <paragraph id="HC7B5ACC934A24F58A764413FE8D79590">
+                <enum>(1)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">For years beginning on or after January 1, 2028, the Secretary may establish stop-loss payment for Medicare Advantage plans that experience significantly higher expenditures compared to the risk-adjusted expected expenditures of such plans.</text>
+              </paragraph>
+              <paragraph id="H3AE82024DA174FA6B0CEA28768DE112E">
+                <enum>(2)</enum>
+                <header>Requirements</header>
+ <text>Any payment described in paragraph (1) shall be based on encounter data subject to audit by the Secretary.</text>
+              </paragraph>
+              <paragraph id="H810CCD688FD444AE96EDB417444EF164">
+                <enum>(3)</enum>
+                <header>Adjustments</header>
+ <text>The Secretary may make such payment adjustments under this part as the Secretary determines necessary to ensure that this paragraph is implemented in a budget-neutral manner.</text>
+              </paragraph>
+            </subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HF60184D2692144B88BE904A7045F56A8"><enum>(c)</enum><header>Automatic enrollment; plan change limitations</header><text display-inline="yes-display-inline">Part C of title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-21">42 U.S.C. 1395w–21 et seq.</external-xref>) is amended by adding at the end the following new section:</text> <quoted-block style="OLC" id="H4E793BA359A94F0CA479482B19AA6E71" display-inline="no-display-inline"> <section id="H29AEF929A7024533B85CD7B20844157B"><enum>1859A.</enum><header>Automatic enrollment; plan change limitations</header> <subsection id="H45D35C6D2B7947B99BB117D0F236C010"><enum>(a)</enum><header>Automatic enrollment</header> <paragraph id="H7B4D0DE0AF774B62A80B211378AC952C"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this title, for plan years beginning on or after January 1, 2028, the Secretary shall provide for the automatic enrollment of each individual entitled to benefits under part A and enrolled under part B into the MA plan with the lowest premium available to such individual.</text></paragraph> 
+<paragraph id="H38AC1295C59F4C79896CA073EAE57C40"><enum>(2)</enum><header>Special rule if multiple low-cost plans available</header><text>In the case that multiple MA plans are available at the lowest premium applicable under this part for a plan year for an individual, the Secretary shall provide for the automatic enrollment of individuals described in paragraph (1) among such plans in a manner determined appropriate by the Secretary.</text></paragraph> <paragraph id="HA3900AEDA66643F292A73E299C654D1D"><enum>(3)</enum><header>Opt out</header><text>The Secretary shall provide each individual automatically enrolled into a qualified MA plan under this subsection with an opportunity to decline such enrollment.</text></paragraph></subsection> 
+<subsection id="HD0547891A89D474D8533C98C43CEEA7D"><enum>(b)</enum><header>Mandatory continuous enrollment</header> 
+<paragraph id="H27CA85C199774DA0B7ABF17279430106"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this title, except as provided in paragraph (2), in the case of an individual who enrolls in an MA plan for a plan year beginning on or after January 1, 2028, such individual may not, for the 3-year period beginning on the date such individual so enrolls in such MA plan—</text> <subparagraph id="H67AB624D22004214A9CA58F45FF06A27"><enum>(A)</enum><text>enroll in any other MA plan under this part; or</text></subparagraph> 
+<subparagraph id="HDE1186CB3A3E4DAABFD22FDC542DF61E"><enum>(B)</enum><text>elect to receive benefits under this title through traditional fee-for-service Medicare under part A or B.</text></subparagraph></paragraph> <paragraph id="HE883B8F063AB4A64AB6414D6C95700D9"><enum>(2)</enum><header>Exceptions</header><text>Paragraph (1) shall not apply in the case of an individual who experiences a hardship event (such as a serious illness (as specified by the Secretary)).</text></paragraph></subsection> </section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection> 
+<subsection id="H1E4F20D68B59424D9DB754072E10DF73"><enum>(d)</enum><header>Required inclusion of hospice care</header><text display-inline="yes-display-inline">Section 1852 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-22">42 U.S.C. 1395w–22</external-xref>) is amended—</text> <paragraph id="HD0720FDCAD784ABE96E7A928C9F05B1D"><enum>(1)</enum><text>in subsection (a)(1)(B)(i), by inserting <quote>(except in the case of an MA plan offered in a plan year beginning on or after January 1, 2028)</quote> after <quote>hospice care</quote>; and</text></paragraph> 
+<paragraph id="HC59575FD017747ACA8785B06C3D35E8A"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (m)(6), by inserting <quote>(except in the case of an MA plan offered in a plan year beginning on or after January 1, 2028)</quote> after <quote>hospice care</quote>.</text></paragraph></subsection> <subsection id="H5EB502895D764792985F2DF4AA0DEFC6"><enum>(e)</enum><header>Stark exception</header><text>Section 1877(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395nn">42 U.S.C. 1395nn(b)</external-xref>) is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" id="H29301ECBD82A425E9633A73E0532888B" display-inline="no-display-inline"> 
+<paragraph id="HDD22B63ADE07438A8AD35EDE66CBF722"><enum>(6)</enum><header>Exception for certain services furnished under MA plans</header><text display-inline="yes-display-inline">In the case of designated health services consisting of durable medical equipment or covered part D drugs, if such services are furnished under an MA plan.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body></bill>
+

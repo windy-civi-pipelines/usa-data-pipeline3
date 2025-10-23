@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25876-0MN-VN-XND">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2443 IS: Veterans Jobs Opportunity Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2443</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S402">Ms. Rosen</sponsor> (for herself and <cosponsor name-id="S347">Mr. Moran</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to establish a small business
+            start-up tax credit for veterans creating businesses in underserved
+            communities.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H167512EBC4E54A2E87E83C6791E7FEE6">
+        <section section-type="section-one" id="H8D1B197FDC4B4646AB4ADBCBA637FFD6">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veterans Jobs Opportunity Act</short-title></quote>.</text>
+        </section>
+        <section id="HAE2BB38D3D284732A434ECB3AD4B4D62">
+            <enum>2.</enum>
+            <header>Veteran small business start-up credit</header>
+            <subsection id="H750F69D4060B40DAA92DCF533D82BC8E">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H416C3EEFEEAA4F0880F09C61C1239035">
+                    <section id="H21AE675CB293403CAAE885943C701F43">
+                        <enum>45BB.<?LEXA-Enum 45BB.?></enum>
+                        <header>Veteran small business start-up credit</header>
+                        <subsection id="H8D750B104B85497D9E50F9F761E07179">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of section 38, the veteran small business start-up credit determined under this section for any taxable year is an amount equal to 15 percent of so much of the qualified start-up expenditures paid or incurred by the taxpayer during such taxable year with respect to an applicable veteran-owned business as does not exceed $50,000.</text>
+                        </subsection>
+                        <subsection id="H5D7DA6E79E33415796FEB3420A6796C3">
+                            <enum>(b)</enum>
+                            <header>Definitions</header>
+ <text>For purposes of this section—</text> <paragraph id="idFF056EB29AB642F6B2A4E5B9302307F0"> <enum>(1)</enum> <header>Applicable veteran-owned small business</header> <text>The term <term>applicable veteran-owned small business</term> means a small business—</text>
+                                <subparagraph id="id9FEA6FC6B65F43FBA0C8B98EFF4944C2">
+                                    <enum>(A)</enum>
+ <text>owned and controlled by 1 or more veterans or spouses of veterans, and </text>
+                                </subparagraph>
+                                <subparagraph id="id938DC562E42249679757ACC489AB6BE6">
+                                    <enum>(B)</enum>
+ <text>the principal place of business of which is in an underserved community.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H4ABD7A1C0AB244B0B069EFF1B3D7E395">
+                                <enum>(2)</enum>
+                                <header>Ownership and control</header>
+ <text display-inline="yes-display-inline">The term <term>owned and controlled</term> means—</text>
+                                <subparagraph id="idA049AE9D9F924440ABCB25C6E6B58FC2">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">with respect to any of the individuals described in paragraph (1)(A), that the conduct of any trade or business of the small business is not a passive activity (as defined in section 469(c)), and </text>
+                                </subparagraph>
+                                <subparagraph id="H36A9EE3CCDD943AAB18816E20A646442">
+                                    <enum>(B)</enum>
+ <text>with respect to the small business—</text> <clause id="H8253D40A416447AB9A565B1C4397E175"> <enum>(i)</enum> <text>such small business is a sole proprietorship,</text>
+                                    </clause>
+                                    <clause id="id3CAB1128EC9844FBB51145B00FD37F13">
+                                        <enum>(ii)</enum>
+ <text>if such small business is a corporation, ownership (by vote or value) by the individuals described in paragraph (1)(A) of greater than 50 percent of the stock in such corporation, or </text>
+                                    </clause>
+                                    <clause id="idECF5D80C86854C288060C134404EC363">
+                                        <enum>(iii)</enum>
+ <text>if such small business is a partnership, ownership by the individuals described in paragraph (1)(A) of greater than 50 percent of the profits interests or capital interests in such partnership.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H2D026473B2294436A97245AA9792FA8F">
+                                <enum>(3)</enum>
+                                <header>Qualified start-up expenditures</header>
+ <text>The term <term>qualified start-up expenditures</term> means—</text>
+                                <subparagraph id="H27A97F6A12D5438E86E602C22ED6678A">
+                                    <enum>(A)</enum>
+ <text>any start-up expenditures (as defined in section 195(c)), and</text>
+                                </subparagraph>
+                                <subparagraph id="H9A4FDB24D0214A05B6D39771132E143B">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any amounts paid or incurred during the taxable year for the purchase or lease of real property, or the purchase of personal property, placed in service during the taxable year and used in the active conduct of a trade or business. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HA75E153547FD4310A50DD839CBA3D8AB">
+                                <enum>(4)</enum>
+                                <header>Small business</header>
+                                <subparagraph id="idEE70323F0DC14C9AB5CD56A8B7C9D031">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>small business</term> means, with respect to any taxable year, any person engaged in a trade or business in the United States if—</text>
+                                    <clause id="id559ADC5B177A46188D4D442A3D9F6ECF">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the gross receipts of such person for the preceding taxable year did not exceed $5,000,000, or</text>
+                                    </clause>
+                                    <clause id="idF62D414570AB489AB7AB9AC20F865EBE">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the case of a person to which clause (i) does not apply, such person employed not more than 50 full-time employees during the preceding taxable year.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id82E7538CB155445C83769BCE4B15D807">
+                                    <enum>(B)</enum>
+                                    <header>Full-time employee</header>
+ <text>For purposes of subparagraph (A)(ii), an employee shall be considered full-time if such employee is employed at least 30 hours per week for 20 or more calendar weeks in the taxable year.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HD10B6291196E4A0297E90300332FADB5">
+                                <enum>(5)</enum>
+                                <header>Underserved community</header>
+ <text>The term <term>underserved community</term> means any area located within—</text>
+                                <subparagraph id="HAE3BAE3961434985A7E8781925AFC42B">
+                                    <enum>(A)</enum>
+ <text>a HUBZone (as defined in section 3(p) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632(p)</external-xref>), as in effect on the date of enactment of this section),</text>
+                                </subparagraph>
+                                <subparagraph id="HADAA6C3E9FEB42DAA2F1DF510A3C92D0">
+                                    <enum>(B)</enum>
+ <text>an empowerment zone, or enterprise community, designated under section 1391 (and without regard to whether or not such designation remains in effect),</text>
+                                </subparagraph>
+                                <subparagraph id="H6A721A7E13B84D4CA4A8A28861D199D3">
+                                    <enum>(C)</enum>
+ <text>an area of low income or moderate income (as recognized by the Federal Financial Institutions Examination Council), or</text>
+                                </subparagraph>
+                                <subparagraph id="H710DF6B38B5B4BDC97B05DE153DB7089">
+                                    <enum>(D)</enum>
+ <text>a county with persistent poverty (as classified by the Economic Research Service of the Department of Agriculture).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H5C0BA7890A524FA4B6F13B7793905001">
+                                <enum>(6)</enum>
+                                <header>Veteran or spouse of veteran</header>
+ <text>The term <term>veteran or spouse of a veteran</term> has the meaning given such term by section 7(a)(31)(G)(ii) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(31)(G)(ii)</external-xref>, as in effect on the date of enactment of this section).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H3114A5D6A951464CADA25731C00E609C">
+                            <enum>(c)</enum>
+                            <header>Special rules</header>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                            <paragraph id="H04B48ACBDB5E4A35BDC8F4F517B2F926">
+                                <enum>(1)</enum>
+                                <header>Election to take credit</header>
+ <text>No credit shall be allowed under subsection (a) for any expenditures unless the taxpayer elects to have this section apply to such expenditures.</text>
+                            </paragraph>
+                            <paragraph id="id408FA6508AC04017B6DF3B2D7EC3CB20">
+                                <enum>(2)</enum>
+                                <header>Year of election</header>
+ <text display-inline="yes-display-inline">The taxpayer may elect the application of this section only for the first 2 taxable years for which ordinary and necessary expenses paid or incurred in carrying on such trade or business are allowable as a deduction by the taxpayer under section 162.</text>
+                            </paragraph>
+                            <paragraph id="H60862340DDC74204AFC3ECDFDEDFE71B">
+                                <enum>(3)</enum>
+                                <header>Controlled groups and common control</header>
+ <text display-inline="yes-display-inline">All persons treated as a single employer under subsections (a) and (b) of section 52 shall be treated as 1 person.</text>
+                            </paragraph>
+                            <paragraph id="HFD3A5784E29947A487F85299C84FAA04">
+                                <enum>(4)</enum>
+                                <header>No double benefit</header>
+ <text display-inline="yes-display-inline">If a credit is determined under this section with respect to any property, the basis of such property shall be reduced by the amount of the credit attributable to such property.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id4f8b9c0e699f4725a2a184a68bcde332">
+                                <enum>(5)</enum>
+                                <header>Verification</header>
+ <text display-inline="yes-display-inline">For purposes of determining whether an entity qualifies as an applicable veteran-owned small business for purposes of this section, the Secretary, in consultation with the Administrator of the Small Business Administration, shall verify that the requirements described in subsection (b)(1) have been satisfied.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HA44A2DBE53104BE1BE3FDAA98037B95F">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for subpart D of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H584ADF35DE9C429395C4B3BB29271DD4">
+                    <toc container-level="quoted-block-container" idref="H416C3EEFEEAA4F0880F09C61C1239035" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+                        <toc-entry idref="H21AE675CB293403CAAE885943C701F43" level="section">Sec.
+                            45BB. Veteran small business start-up credit.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H9190A4BA963F43898DB96E25C6CD85CF">
+                <enum>(c)</enum>
+                <header>Part of general business credit</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/38">Section 38(b)</external-xref> of the Internal Revenue Code of 1986, as amended by sections 13105, 13701, and 13704 of <external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref>, is amended by striking <quote>plus</quote> at the end of paragraph (40), by striking the period at the end of paragraph (41) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="HA81512F799CD4382A4154EC9A6DD47A1">
+                    <paragraph id="H3535739A98D64BBD979CFBB357E78B4F">
+                        <enum>(42)</enum>
+ <text display-inline="yes-display-inline">the veteran small business start-up credit determined under section 45BB.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H1462F0D55FED409386AFDFD2FDBC05C5">
+                <enum>(d)</enum>
+                <header>Report by Treasury Inspector General for Tax Administration</header>
+ <text>Every fourth year after the date of the enactment of this Act, the Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under <external-xref legal-doc="usc-act" parsable-cite="usc-act/Inspector General Act of 1978 /5">section 5</external-xref> of the Inspector General Act of 1978 with respect to such year, an evaluation of the credit allowed under <external-xref legal-doc="usc" parsable-cite="usc/26/45BB">section 45BB</external-xref> of the Internal Revenue Code of 1986 (as added by this section), including an evaluation of the success of, and accountability with respect to, such credit.</text>
+            </subsection>
+            <subsection id="H9FBAF5E6671842D5BE7C62B04CA51C6F">
+                <enum>(e)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

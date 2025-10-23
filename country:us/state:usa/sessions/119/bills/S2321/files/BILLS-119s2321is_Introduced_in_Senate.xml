@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RIL25787-1L3-VV-J9N">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2321 IS: Price Gouging Prevention Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2321</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250717">July 17, 2025</action-date>
+            <action-desc><sponsor name-id="S366">Ms. Warren</sponsor> (for herself, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, <cosponsor name-id="S341">Mr.
+                    Blumenthal</cosponsor>, <cosponsor name-id="S418">Mr. Fetterman</cosponsor>,
+                    <cosponsor name-id="S426">Mr. Kim</cosponsor>, <cosponsor name-id="S369">Mr.
+                    Markey</cosponsor>, <cosponsor name-id="S322">Mr. Merkley</cosponsor>,
+                    <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S436">Ms.
+                    Slotkin</cosponsor>, and <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                    Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To make price gouging unlawful, to expand the ability of the Federal Trade
+            Commission to seek permanent injunctions and equitable relief, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection id="id345376FD8CB84BD3917EA260E5D05A49">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Price Gouging Prevention Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection id="idF1A43C1716F647CD92ACF5462F58691C">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="idA2E66C13992A4B3197548330DB502D75">Sec. 2. Definitions.</toc-entry> <toc-entry level="section" idref="idD22742B6CA73464F842C90A3E769264D">Sec. 3. Prevention of price gouging.</toc-entry> <toc-entry level="section">Sec. 4. Disclosures in SEC filings.</toc-entry> <toc-entry level="section" idref="id1e94113ddd8f41bbb1eabe750f2dc341">Sec. 5. Funding.</toc-entry> </toc> </subsection> </section> <section id="idA2E66C13992A4B3197548330DB502D75"> <enum>2.</enum> <header>Definitions</header> <text display-inline="no-display-inline">In this Act:</text>
+            <paragraph id="id3E8687BEE74D4482AB56A995B9D57F93">
+                <enum>(1)</enum>
+                <header>Commission</header>
+ <text>The term <term>Commission</term> means the Federal Trade Commission.</text> </paragraph> <paragraph id="id0458F8D1BD5F4F248A7D41CE2B21D4AD"> <enum>(2)</enum> <header>Critical trading partner</header> <text>The term <term>critical trading partner</term> means a person that has the ability to restrict, impede, or foreclose access to the inputs, customers, partners, goods, services, technology, platform, facilities, or tools of such person in a way that harms competition or limits the ability of the customers or suppliers of such person to carry out business effectively.</text>
+            </paragraph>
+            <paragraph id="idCCDBA01F2A674AA2B335D8918496C807">
+                <enum>(3)</enum>
+                <header>Exceptional market shock</header>
+ <text>The term <term>exceptional market shock</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idfdc6af44d87a4efa962894ddc994aa50"> <enum>(A)</enum> <text display-inline="yes-display-inline">any change or imminently threatened (as determined under guidance issued by the Commission) change in the market for a good or service resulting from a natural disaster, failure or shortage of electric power or other source of energy, concerted labor action, lockout, civil disorder, war, military action, national or local emergency, abrupt or significant shift in trade policy, public health emergency, or any other cause of an atypical disruption in such market; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ida76a2189ed524c4284591e4fe2ca588a">
+                    <enum>(B)</enum>
+ <text>any period of time during which the President has declared a major disaster or emergency under section 401 or 502, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>, 5191).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idF385F3DE72D64BCBB2F21B00F45D11C8">
+                <enum>(4)</enum>
+                <header>Good or service</header>
+ <text>The term <term>good or service</term> means any good or service offered in commerce.</text>
+            </paragraph>
+            <paragraph id="idECE5ED95ECBF4111A235AD940718F406">
+                <enum>(5)</enum>
+                <header>State</header>
+ <text>The term <term>State</term> means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.</text>
+            </paragraph>
+            <paragraph id="id0f2b8ad5482b45f5a47c6598f3645021">
+                <enum>(6)</enum>
+                <header>Ultimate parent entity</header>
+ <text>The term <term>ultimate parent entity</term> has the meaning given such term in section 801.1 of title 16, Code of Federal Regulations (or any successor regulation).</text>
+            </paragraph>
+        </section>
+        <section id="idD22742B6CA73464F842C90A3E769264D">
+            <enum>3.</enum>
+            <header>Prevention of price gouging</header>
+            <subsection id="id65f8de85f6724c2d88cd24c0b4bb01a6">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>It shall be unlawful for a person to sell or offer for sale a good or service at a grossly excessive price, regardless of the person’s position in a supply chain or distribution network.</text>
+            </subsection>
+            <subsection id="id3a2d7e5623c44a68815510da0e49345c">
+                <enum>(b)</enum>
+                <header>Affirmative defense</header>
+                <paragraph id="id85e865463d9a4eb8a2260aa501332eae">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Subsection (a) shall not apply to the sale, or offering for sale, of a good or service by a person if—</text>
+                    <subparagraph id="idb3fbf0a3eda949388a08d9dfea7c49af">
+                        <enum>(A)</enum>
+ <text>the person’s ultimate parent entity earned less than $100,000,000 in gross revenue from goods or services provided in the United States during the 12-month period preceding the sale or offer that allegedly violates subsection (a); and</text>
+                    </subparagraph>
+                    <subparagraph id="id2e394116de9d4e22b985029919c39a2a">
+                        <enum>(B)</enum>
+ <text>the person demonstrates by a preponderance of the evidence that the increase in the price of the good or service involved is directly attributable to additional costs that are—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idffad340790b14540ae30432ff998c41e">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">not within the control of the person; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida9aa13a0209048c4b4c0541cb90a1214">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">incurred by the person in procuring, acquiring, distributing, or providing the good or service.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ida1ff01b320c44d9493f03bd5c12a7e84">
+                    <enum>(2)</enum>
+                    <header>Inflation adjustment</header>
+ <text>Beginning on January 1, 2026, the Commission shall annually adjust the amount specified in paragraph (1)(A) by the percentage change in the consumer price index for all urban consumers published by the Bureau of Labor Statistics for the 12-month period ending on December 31 of the previous year.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id1cca08c4d30645d0a3e04cb82289d907">
+                <enum>(c)</enum>
+                <header>Presumptive violations</header>
+ <text>A person shall be presumed to be in violation of subsection (a) if, during an exceptional market shock, it is shown by a preponderance of the evidence that the person—</text>
+                <paragraph id="id3A7CC0B223404E64A07308FE4C8E6097">
+                    <enum>(1)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="id895D41885F1245818D55FB8D3A2D1A87">
+                        <enum>(A)</enum>
+ <text>has unfair leverage; or</text> </subparagraph> <subparagraph indent="up1" id="idEEEC306CAD8142BC8847DEDC8AC4137F"> <enum>(B)</enum> <text>is using the effects or circumstances related to an exceptional market shock as a pretext to increase prices; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idFCE69E0ACE65457AA7120301FADD5A0D">
+                    <enum>(2)</enum>
+ <text>regardless of the person's position in a supply chain or distribution network, sells or offers for sale a good or service at an excessive price compared to—</text>
+                    <subparagraph id="id2F1AA69DAFFE4183ACB670630995C31D">
+                        <enum>(A)</enum>
+ <text>the average price at which the good or service was sold or offered for sale by the person in the market during the 120-day period preceding such exceptional market shock; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5a236d263f1b46ad876b1e119211a5ac">
+                        <enum>(B)</enum>
+ <text>the price at which the good or service was sold or offered for sale by competing sellers in the market during the exceptional market shock.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id0E094399692043C590E22C104149F147">
+                <enum>(d)</enum>
+                <header>Rebuttal</header>
+ <text>A person may rebut a presumption under subsection (c) if the person demonstrates by clear and convincing evidence that the increase in the price of the good or service involved is directly attributable to additional costs that are—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0948442c0a8243059cde00e66126e98b">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">not within the control of the person; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id1dcf48e435bb41fba696ee68b8102bce">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">incurred by the person in procuring, acquiring, distributing, or providing the good or service.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id3F4EF5AF07A94C608AEA33BCD810CFFF">
+                <enum>(e)</enum>
+                <header>Unfair leverage</header>
+                <paragraph id="idB82F2798A1EE4DEB9E15C2F67662DBAE">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1b84c4cd357749808814c429e0b3ea0d">
+                        <enum>(A)</enum>
+                        <header>Characteristics of unfair leverage</header>
+ <text display-inline="yes-display-inline">For purposes of subsection (c), a person has unfair leverage if the person—</text>
+                        <clause id="id6519BD2551544F4083F4228B39AF799F">
+                            <enum>(i)</enum>
+ <text>earned at least $1,000,000,000 in gross revenue from goods or services provided in the United States during the 12-month period preceding the sale or offer that allegedly violates subsection (a);</text>
+                        </clause>
+                        <clause id="id0314A8ABF8744B258D883FACA96619EA">
+                            <enum>(ii)</enum>
+ <text>discriminates between otherwise equal trading partners in the same market by applying differential prices or conditions;</text>
+                        </clause>
+                        <clause id="idE6E0AD82E3A14B17959CA05271711D6E">
+                            <enum>(iii)</enum>
+ <text>is a critical trading partner;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id365a35c9593249afa6d44c3d10b0a648"> <enum>(iv)</enum> <text display-inline="yes-display-inline">engages in unfair, deceptive, or abusive acts or practices;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id69ed3b292e2c4b35bb5d8d738cb054b1">
+                            <enum>(v)</enum>
+ <text>has a dominant position in—</text> <subclause commented="no" display-inline="no-display-inline" id="ide21894dcbc3d463a940fef72931bbe46"> <enum>(I)</enum> <text display-inline="yes-display-inline">the conduct of any business, trade, or commerce;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id32519d8005374105891de230e3bee27a">
+                                <enum>(II)</enum>
+ <text>any labor market; or</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="id4f85a94246b5443b99819cc061080091"> <enum>(III)</enum> <text>the furnishing of any service; or</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id36E45B32957E4991B1D1303962FCA36C">
+                            <enum>(vi)</enum>
+ <text>has a characteristic described in a rule promulgated by the Commission that further defines unfair leverage.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4948f9c7f507422b82abc303abc9fea2">
+                        <enum>(B)</enum>
+                        <header>Presumption of a dominant position</header>
+ <text>For purposes of subparagraph (A)(v), a person shall be presumed to have a dominant position if—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idda4cde18557c45339da686f31c4fb386">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">evidence shows that the person is not constrained by meaningful competitive pressures; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id36a26f7de7af40ebbc3f50b659893433">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the person—</text> <subclause commented="no" display-inline="no-display-inline" id="ide0ee9665b54845f4a937053abde2434b"> <enum>(I)</enum> <text display-inline="yes-display-inline">has a share of 40 percent or greater of a relevant market as a seller; or</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id653dc6da90e24aa582d0f7f5ef48296c">
+                                <enum>(II)</enum>
+ <text>has a share of 30 percent or greater of a relevant market as a buyer.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id17B508BF7F234D7EBEFE4DE1BD74F97A">
+                    <enum>(2)</enum>
+                    <header>Inflation adjustment</header>
+ <text>Beginning on January 1, 2026, the Commission shall annually adjust the amount specified in paragraph (1)(A)(i) by the percentage change in the consumer price index for all urban consumers published by the Bureau of Labor Statistics for the 12-month period ending on December 31 of the previous year.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idC31F06BAE3B34B539728A57CB29FE651">
+                <enum>(f)</enum>
+                <header>Enforcement by the Commission</header>
+                <paragraph id="id9f14d2f0da444ab1b811f2a080764664">
+                    <enum>(1)</enum>
+                    <header>Unfair or deceptive acts or practices</header>
+ <text>A violation of this section or a regulation promulgated under this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="idD0C5193B26BD4BF69B8203737DE7D53D">
+                    <enum>(2)</enum>
+                    <header>Powers of the Commission</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ida9e2e49a926546e7a5b6dd6985c4a028">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided by subparagraphs (D) and (E), the Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this section.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id36d1345cc74b4a578f86b5243d766435">
+                        <enum>(B)</enum>
+                        <header>Privileges and immunities</header>
+ <text display-inline="yes-display-inline">Any person who violates this section or a regulation promulgated under this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id313a7e063c4c4d2ebb8b36ea75f197aa">
+                        <enum>(C)</enum>
+                        <header>Authority preserved</header>
+ <text>Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.</text>
+                    </subparagraph>
+                    <subparagraph id="id4cdbda52b81640dca625c699fb883909">
+                        <enum>(D)</enum>
+                        <header>Independent litigation authority</header>
+ <text>If the Commission has reason to believe that a person has violated this section, the Commission may bring a civil action in any appropriate United States district court to—</text>
+                        <clause id="id9075029ebb2a42a39996f00ab570c4a7">
+                            <enum>(i)</enum>
+ <text>enjoin any further such violation by such person;</text> </clause> <clause id="id22ecfaf66c7f49779ff7cecc17eef36c"> <enum>(ii)</enum> <text>enforce compliance with this section;</text>
+                        </clause>
+                        <clause id="idc856d61dd2e644daa182b19270cb1e8e">
+                            <enum>(iii)</enum>
+ <text>obtain a permanent, temporary, or preliminary injunction;</text> </clause> <clause id="id18a356542b964b62a9f01ad37c928d12"> <enum>(iv)</enum> <text>obtain civil penalties;</text>
+                        </clause>
+                        <clause id="idf803a4c8ac0c462da3f26c4377ea1650">
+                            <enum>(v)</enum>
+ <text>obtain damages, restitution, or other compensation on behalf of aggrieved consumers; or</text>
+                        </clause>
+                        <clause id="id47da81da279d45c7b2223c2a291652b2">
+                            <enum>(vi)</enum>
+ <text>obtain any other appropriate equitable relief.</text> </clause> </subparagraph> <subparagraph commented="no" id="id011769a0bbf941da81c6d1b8da96c3d5"> <enum>(E)</enum> <header>Civil penalties</header> <text>In addition to any other penalties as may be prescribed by law, each violation of this section shall carry a civil penalty not to exceed—</text>
+                        <clause commented="no" id="idAAA50D929AD842B9A78EDDF56D79517D">
+                            <enum>(i)</enum>
+ <text>if the person who committed the violation does not have unfair leverage (as described in subsection (e)), the lesser of—</text>
+                            <subclause commented="no" id="idEA854D466C4B44EDB590F9045790C466">
+                                <enum>(I)</enum>
+ <text>$25,000; or</text> </subclause> <subclause commented="no" id="idB838075D66AC4EFF94098A51BEDE14C3"> <enum>(II)</enum> <text>5 percent of the revenues earned by the person's ultimate parent entity during the preceding 12-month period; or</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" id="idA351461AA53E46D1A6FF8A4531204236">
+                            <enum>(ii)</enum>
+ <text>if the person who committed the violation has unfair leverage, 5 percent of the revenues earned by the person's ultimate parent entity during the preceding 12-month period.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" id="id99037337F40A4BEC953D67F2415DB36F">
+                        <enum>(F)</enum>
+                        <header>Rulemaking</header>
+                        <clause commented="no" id="idE8714E3DBB344088A32AAC63376C627A">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>The Commission may promulgate in accordance with section 553 of title 5, United States Code, such rules as may be necessary to carry out this section, including guidelines regarding what circumstances constitute an exceptional market shock or guidelines that provide for additional characteristics that demonstrate that a person has unfair leverage.</text>
+                        </clause>
+                        <clause commented="no" id="id5CAB627925FA4104B974C72791DBFABA">
+                            <enum>(ii)</enum>
+                            <header>Required guidance</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Commission shall promulgate regulations regarding violations of this section, which shall include guidelines on, for the purposes of this Act, what constitutes a market, a grossly excessive price for a good or service, and an excessive price for a good or service.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="iddadd8cf83d884126b1de4658fd101284">
+                            <enum>(iii)</enum>
+                            <header>Definition of grossly excessive price</header>
+                            <subclause commented="no" display-inline="no-display-inline" id="id50f942762dcb44a790a9c6505d59a2ff">
+                                <enum>(I)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of subsection (a) and the guidelines on what constitutes a grossly excessive price described in clause (ii), the Commission shall define the term <quote>grossly excessive price</quote> using any metric it deems appropriate.</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id27cf99358dca4548b423f5468033001d">
+                                <enum>(II)</enum>
+                                <header>Definition considerations</header>
+ <text display-inline="yes-display-inline">In formulating the definition in subclause (I), the Commission shall consider whether to provide that such term shall include a price for a good or service that is an amount equal to or greater than 120 percent (or a lesser percentage, as determined appropriate by the Commission) of the average price for such good or service in the market during the 6-month period preceding the sale or offer that allegedly violates subsection (a).</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idc25c1d94fe4b482e9c7ae815aca05309">
+                <enum>(g)</enum>
+                <header>Enforcement by State attorneys general</header>
+                <paragraph id="id540cbf719c544513878deccdc570a73d">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>If the attorney general of a State has reason to believe that any person has violated or is violating this section, the attorney general, in addition to any authority it may have to bring an action in State court under the laws of such State, may bring a civil action in any appropriate United States district court or in any other court of competent jurisdiction, including a State court, to—</text>
+                    <subparagraph id="idf43db805d3394f459208eb9773697846">
+                        <enum>(A)</enum>
+ <text>enjoin any further such violation by such person;</text> </subparagraph> <subparagraph id="id195281788306444ea985aab890da31a6"> <enum>(B)</enum> <text>enforce compliance with this section;</text>
+                    </subparagraph>
+                    <subparagraph id="id0b9aae999cad47f7b24bd186cbef8d62">
+                        <enum>(C)</enum>
+ <text>obtain a permanent, temporary, or preliminary injunction;</text> </subparagraph> <subparagraph id="id60445FFD849A42EDA963379610AADFB7"> <enum>(D)</enum> <text>obtain civil penalties;</text>
+                    </subparagraph>
+                    <subparagraph id="id2628c039ab644b03a6f95d4e0dbbfacd">
+                        <enum>(E)</enum>
+ <text>obtain damages, restitution, or other compensation on behalf of residents of the State; or</text>
+                    </subparagraph>
+                    <subparagraph id="idF233A88B5F514E91AC8C516659C2EC1D">
+                        <enum>(F)</enum>
+ <text>obtain any other appropriate equitable relief.</text> </subparagraph> </paragraph> <paragraph id="id9dd42949a2104317a94255ea38cd477b"> <enum>(2)</enum> <header>Rights of the Commission</header> <subparagraph commented="no" display-inline="no-display-inline" id="id18a9a3a5589b47338cd0087c6193581c"> <enum>(A)</enum> <header display-inline="yes-display-inline">Notice to the Commission</header> <clause commented="no" display-inline="no-display-inline" id="idd8f1b925f4114ed5ad47ad49a53c7ff2"> <enum>(i)</enum> <header display-inline="yes-display-inline">In general</header> <text>Except as provided in clause (ii), before initiating a civil action under paragraph (1), the attorney general of a State shall provide to the Commission a written notice of such action and a copy of the complaint for such action.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id825195204e0f4afe9eaac826c0bb5351">
+                            <enum>(ii)</enum>
+                            <header>Exception</header>
+ <text display-inline="yes-display-inline">If the attorney general determines that it is not feasible to provide the notice described in clause (i) before initiating a civil action under this subsection, the attorney general shall provide written notice of the action and a copy of the complaint to the Commission immediately upon initiating the civil action.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id24a931994f1e43409fceb6efb37fd305">
+                            <enum>(iii)</enum>
+                            <header>Jurisdiction not affected</header>
+ <text>An attorney general failing to provide notice under clause (i) shall not prevent the attorney general or the Commission from having jurisdiction over a civil action brought under paragraph (1) or imperil such civil action in any way.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id529aad5b5ff748938b8e842aaa4647d4">
+                        <enum>(B)</enum>
+                        <header>Intervention</header>
+ <text>The Commission may—</text> <clause commented="no" display-inline="no-display-inline" id="id3039581008444771b2e48694bd7c3292"> <enum>(i)</enum> <text display-inline="yes-display-inline">intervene in any civil action brought by the attorney general, official, or agency of a State under this subsection; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id55dc95ba2e7648c691832c8029071482">
+                            <enum>(ii)</enum>
+ <text>upon intervening—</text> <subclause commented="no" display-inline="no-display-inline" id="id3e270046eaf24abd8211c6a0c1294cdd"> <enum>(I)</enum> <text display-inline="yes-display-inline">be heard on all matters arising in the civil action; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idf6e66ff071bb4c01a0beef55f8615b73">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">file petitions for appeal of a decision in the civil action.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6f31d06ccbe948069e9cd5f2094ac196">
+                    <enum>(3)</enum>
+                    <header>Investigatory powers</header>
+ <text display-inline="yes-display-inline">Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to conduct investigations, to administer oaths or affirmations, or to compel the attendance of witnesses or the production of documentary or other evidence.</text>
+                </paragraph>
+                <paragraph id="id87e0397036fd455b93451508d534578b">
+                    <enum>(4)</enum>
+                    <header>Limitation on State action while Federal action is pending</header>
+ <text>If the Commission has instituted a civil action for a violation of this section, no State attorney general may, without the approval of the Commission, bring an action under this subsection during the pendency of that action against any defendant named in the complaint of the Commission for any violation of this section alleged in the complaint.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idaa0e0b558ac24488949fbda2d5d9edf1">
+                    <enum>(5)</enum>
+                    <header>Relationship with State-law claims</header>
+ <text>If the attorney general of a State has authority to bring an action under State law directed at acts or practices that also violate this section, the attorney general may assert a claim under State law and a claim under this section in the same civil action.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idcdc9ed9a56a04e2b80709524d540072c">
+                    <enum>(6)</enum>
+                    <header>Venue; Service of process</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id9aa2544cc3f64ef296a621fbd9992d28">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">Venue</header>
+ <text>Any action brought under paragraph (1) may be brought in—</text> <clause commented="no" display-inline="no-display-inline" id="ide8d87ba893cd4744aca502e8323d6d3c"> <enum>(i)</enum> <text>the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id07d31f9a94a24d7190bffd3593b99d76">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">another court of competent jurisdiction.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id812d2cec0661432c80b100d002537293">
+                        <enum>(B)</enum>
+                        <header>Service of process</header>
+ <text display-inline="yes-display-inline">In an action brought under paragraph (1), process may be served in any district in which—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id125c7184b858401d8e9da135d973ae44">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the defendant is an inhabitant, may be found, or transacts business; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id44b913c0a59f48f1b20f245bdf32e031">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">venue is proper under section 1391 of title 28, United States Code.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6c83b065d260431a88a6d6948e1224a9">
+                    <enum>(7)</enum>
+                    <header>Actions by other State officials</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4488cf96a571437da49f280feccd602f">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">In addition to civil actions brought by an attorney general under paragraph (1), any other officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide47a778644724d7089bb6bf11cb7c4a4">
+                        <enum>(B)</enum>
+                        <header>Savings provision</header>
+ <text>Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id09435380e3ff4042ad971b7a0c17e26f">
+                    <enum>(8)</enum>
+                    <header>Effect on State laws</header>
+ <text display-inline="yes-display-inline">Nothing in this section shall preempt or otherwise affect any State or local law.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id8AB905A8515D468798BE734F357FFF9B">
+            <enum>4.</enum>
+            <header>Disclosures in SEC filings</header>
+            <subsection id="idE463E9CFE2EF4429B2E1F31FAF7581C5">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id0DCC75637D334E50B31D2411F43908F9"> <enum>(1)</enum> <header>Covered issuer</header> <text>The term <term>covered issuer</term> means an issuer that—</text>
+                    <subparagraph id="id61B8C85E0D3E4EBEAD6FE5735D612CA5">
+                        <enum>(A)</enum>
+ <text>has a covered quarter; and</text> </subparagraph> <subparagraph id="id62941BED93F246DF9EADB49E93C53F52"> <enum>(B)</enum> <text>in the quarter following the covered quarter described in subparagraph (A), is required to submit Form 10–Q or Form 10–K.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id4F6782B20D5941BBB11D815EBFEE8AF9">
+                    <enum>(2)</enum>
+                    <header>Covered quarter</header>
+ <text>The term <term>covered quarter</term> means a quarter during which there is an exceptional market shock.</text>
+                </paragraph>
+                <paragraph id="id97B09F24EFA949B993D8CB59E63C3CCC">
+                    <enum>(3)</enum>
+                    <header>Form 10–K</header>
+ <text>The term <term>Form 10–K</term> means the form described in section 249.310 of title 17, Code of Federal Regulations, or any successor regulation.</text>
+                </paragraph>
+                <paragraph id="idE426A934EED6486CA69FC6E94FF9A569">
+                    <enum>(4)</enum>
+                    <header>Form 10–Q</header>
+ <text>The term <term>Form 10–Q</term> means the form described in section 240.15d–13 of title 17, Code of Federal Regulations, or any successor regulation.</text>
+                </paragraph>
+                <paragraph id="idDC1F0B1E87754B2C9B471685CA6136D1">
+                    <enum>(5)</enum>
+                    <header>Issuer</header>
+ <text>The term <term>issuer</term> has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idA2DC8935CCA445B38D0AB02B9F8F94F4">
+                <enum>(b)</enum>
+                <header>Inclusion in filing</header>
+ <text>Each covered issuer, in each Form 10–K or Form 10–Q that the covered issuer is required to file in a quarter following a covered quarter, shall include in the filing the following information with respect to that covered quarter, as compared with the quarter preceding that covered quarter:</text>
+                <paragraph id="idE3FD0D0101B845EA92D92F0D2E373881">
+                    <enum>(1)</enum>
+ <text>The percentage change in the volume of goods or services sold, and the percentage change in the average sales price of those goods or services, which shall be broken down by material product categories, when relevant, and presented in a tabular format.</text>
+                </paragraph>
+                <paragraph id="id23089464D7E841A08865A25478291610">
+                    <enum>(2)</enum>
+ <text>The gross margins of the covered issuer, which shall be broken down by material product categories, when relevant, and presented in a tabular format.</text>
+                </paragraph>
+                <paragraph id="id92CB8795D66A4DD3ABA2DE38ABAF8961">
+                    <enum>(3)</enum>
+ <text>Presented in tabular format, the share of the increase in revenue of the covered issuer that is attributable to—</text>
+                    <subparagraph id="idC9A056DED40E44BDB3B8C9ACF576D930">
+                        <enum>(A)</enum>
+ <text>a change in the cost of goods or services sold by the covered issuer; and</text>
+                    </subparagraph>
+                    <subparagraph id="id06CB45D2016D45B897BDDD61E4741627">
+                        <enum>(B)</enum>
+ <text>a change in the volume of goods or services sold by the covered issuer.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idF4A56962CC8A44A0BFBB2E8D9FDDF8FB">
+                    <enum>(4)</enum>
+ <text>The percentage change in the costs of the covered issuer, which shall be broken down by category and presented in tabular format.</text>
+                </paragraph>
+                <paragraph id="id2EC823C42F3148CF8A71445CECA832CC">
+                    <enum>(5)</enum>
+ <text>In dollars, the change in the costs of the covered issuer and the revenue of the covered issuer, which shall be presented in tabular format.</text>
+                </paragraph>
+                <paragraph id="idC95B97B03A9F4DEE9B60DDDDFCC14DD5">
+                    <enum>(6)</enum>
+ <text>A detailed narrative disclosure of the pricing strategy of the covered issuer, which shall include—</text>
+                    <subparagraph id="id752924C6E4764C7483FAA6A9BAA699EF">
+                        <enum>(A)</enum>
+ <text>an explanation for any increase in the gross margins of material product categories, including all material causes for such an increase, an explanation of how each such material cause affected such an increase, and a description of the relative importance of each such material cause with respect to such an increase;</text>
+                    </subparagraph>
+                    <subparagraph id="idF544B68D238841F0908FBF3F00FDB9F9">
+                        <enum>(B)</enum>
+ <text>an explanation for the decisions made by the covered issuer with respect to the prices of goods or services sold by the covered issuer;</text>
+                    </subparagraph>
+                    <subparagraph id="id40999D6D890E4F9B9F13FBD3F556DC68">
+                        <enum>(C)</enum>
+ <text>if the covered issuer increased prices at a rate that was greater than the rate at which the costs incurred by the covered issuer increased, the rationale and objectives for increasing prices in such a manner; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2F58E9DFA6514AB68DC658EE15C987D6">
+                        <enum>(D)</enum>
+ <text>a description of conditions under which the covered issuer plans to modify pricing after the date on which the covered issuer submits the filing.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id1CEF1AB74E6B4974A9ADF782F1774DD9">
+                <enum>(c)</enum>
+                <header>Regulations</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Securities and Exchange Commission shall issue final regulations, or amend existing regulations of the Commission, to carry out this section.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idA8ACDD6022504CC2BEA7094C2C9E5C91">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>This section shall take effect on the date on which the Securities and Exchange Commission issues final regulations under subsection (c) or completes the amendments required under that subsection, as applicable.</text>
+            </subsection>
+        </section>
+        <section id="id1e94113ddd8f41bbb1eabe750f2dc341">
+            <enum>5.</enum>
+            <header>Funding</header>
+ <text display-inline="no-display-inline">In addition to amounts otherwise available, there is appropriated to the Commission for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available until September 30, 2033, for carrying out the work of the Commission.</text>
+        </section>
+    </legis-body>
+</bill>
+

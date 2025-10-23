@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25292-M3D-J5-3PL">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1549 IS: Water Cybersecurity Enhancement Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1549</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250501">May 1, 2025</action-date>
+            <action-desc><sponsor name-id="S432">Mr. Gallego</sponsor> (for himself and <cosponsor name-id="S374">Mr. Cotton</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSEV00">Committee on
+                    Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Safe Drinking Water Act to provide grants under the Drinking
+            Water Infrastructure Risk and Resilience Program for training programs relating to
+            protecting public water systems from and responding to cyberattacks, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H843ED9E7793C478A98C91C3EE884DE94">
+        <section section-type="section-one" id="HC90B20AA6ED243368B2CA2E72EDDF66F">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Water Cybersecurity Enhancement Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="ide8f3728139674b9e93478240f0156c7e">
+            <enum>2.</enum>
+            <header>Community water system risk and resilience</header>
+ <text display-inline="no-display-inline">Section 1433(g) of the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300i-2">42 U.S.C. 300i–2(g)</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id18acc725d6fc4442aa442c41f645a479">
+                <enum>(1)</enum>
+ <text>in paragraph (1), by striking <quote>2020 and 2021</quote> and inserting <quote>2026 through 2031</quote>;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="iddabe2befa86d485d9a19af0639e2ede2">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in paragraph (2), by striking subparagraph (F) and inserting the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id13AC1F64E4FF4B31BF6A43253277DDAB">
+                    <subparagraph id="idAC7EC665090E4A1DB66171B20B01E1D4">
+                        <enum>(F)</enum>
+ <text display-inline="yes-display-inline">participation in training programs, and the purchase of training manuals and guidance materials, relating to security and resilience, including—</text>
+                        <clause id="idD14B6437B80C4A109B27C356039004EE">
+                            <enum>(i)</enum>
+ <text>protecting community water systems from cyberattacks; and</text> </clause> <clause id="idAE61AF8A9C104C6CA9B402F959D1936E"> <enum>(ii)</enum> <text>responding to cyberattacks;</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>; and</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idb1eacfe67858453da36210dbcb600ab4">
+                <enum>(3)</enum>
+ <text>in paragraph (6), by striking <quote>2020 and 2021</quote> and inserting <quote>2026 through 2031</quote>.</text>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

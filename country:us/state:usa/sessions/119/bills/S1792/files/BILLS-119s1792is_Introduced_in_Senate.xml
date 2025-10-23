@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25290-WV9-PK-50W">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1792 IS: AI Whistleblower Protection Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1792</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S153">Mr. Grassley</sponsor> (for himself, <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S396">Mrs.
+                    Blackburn</cosponsor>, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>,
+                    <cosponsor name-id="S399">Mr. Hawley</cosponsor>, and <cosponsor name-id="S353">Mr. Schatz</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSHR00">Committee on Health,
+                    Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit employment discrimination against whistleblowers reporting AI
+            security vulnerabilities or AI violations, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>AI Whistleblower Protection Act</short-title></quote>.</text>
+        </section>
+        <section id="idc74010edb39d466e945c5d54ddca6da9">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id3b964a107c7e45de8b52268748a21847"> <enum>(1)</enum> <header>AI security vulnerability</header> <text>The term <term>AI security vulnerability</term> means any failure or lapse in security that could potentially allow emerging artificial intelligence technology to be acquired by a person (including a foreign entity) by theft or other means.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idae1b2c135ed44ce59fd3f6570aea5adf">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">AI violation</header>
+ <text>The term <term>AI violation</term> means—</text> <subparagraph id="ida6e8bdc685e84c3391af1e7ab8446be4"> <enum>(A)</enum> <text>any violation of Federal law, including rules and regulations, related to or committed during the development, deployment, or use of artificial intelligence; or</text>
+                </subparagraph>
+                <subparagraph id="idf9138be12ab140e69ec9ce2c0110efc8" commented="no" display-inline="no-display-inline">
+                    <enum>(B)</enum>
+ <text>any failure to appropriately respond to a substantial and specific danger that the development, deployment, or use of artificial intelligence may pose to public safety, public health, or national security.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id65cddd944cab41848aa827d8d22d1f67">
+                <enum>(3)</enum>
+                <header>Artificial intelligence</header>
+ <text>The term <term>artificial intelligence</term> includes any of the following:</text>
+                <subparagraph id="id0881838105334cb9a680f1f65c19998e">
+                    <enum>(A)</enum>
+ <text>An artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets.</text>
+                </subparagraph>
+                <subparagraph id="id498535d8067c4df096d8524f84907871">
+                    <enum>(B)</enum>
+ <text>An artificial system developed in computer software, physical hardware, or other context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action.</text>
+                </subparagraph>
+                <subparagraph id="id9e2ac595eab44f89a7b4894f5f142bbe">
+                    <enum>(C)</enum>
+ <text>An artificial system designed to think or act like a human, including cognitive architectures and neural networks.</text>
+                </subparagraph>
+                <subparagraph id="idddb5bd9250eb48b5a040a0fca70d697e">
+                    <enum>(D)</enum>
+ <text>A set of techniques, including machine learning, that are designed to approximate a cognitive task.</text>
+                </subparagraph>
+                <subparagraph id="id6a387b860659484f9830f03406bf55df" commented="no" display-inline="no-display-inline">
+                    <enum>(E)</enum>
+ <text>An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id2b125d8d7539431f978e6eede0180b39">
+                <enum>(4)</enum>
+                <header>Artificial system</header>
+ <text>The term <term>artificial system</term>—</text> <subparagraph id="id407ca79875fc4fcdad1c3de32639149f"> <enum>(A)</enum> <text>means any data system, software, application, tool, or utility that operates in whole or in part using dynamic or static machine learning algorithms or other forms of artificial intelligence, including in the case—</text>
+                    <clause id="idaacaab3ecc56499794afe4e67df807f2">
+                        <enum>(i)</enum>
+ <text>the data system, software, application, tool, or utility is established primarily for the purpose of researching, developing, or implementing artificial intelligence technology; or</text>
+                    </clause>
+                    <clause id="iddd6b51be3fd6460db1097bd36e10388c">
+                        <enum>(ii)</enum>
+ <text>artificial intelligence capability is integrated into another system or agency business process, operational activity, or technology system; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id93f36992ad8a488890bc2e50db4f7be1">
+                    <enum>(B)</enum>
+ <text>does not include any common commercial product within which artificial intelligence is embedded, such as a word processor or map navigation system.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idac882b9d35714107a4029ffec2697ce1" commented="no">
+                <enum>(5)</enum>
+                <header>Commerce</header>
+ <text>The terms <term>commerce</term> and <term>industry or activity affecting commerce</term> mean any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce, and include <quote>commerce</quote> and any <quote>industry affecting commerce</quote>, as defined in paragraphs (1) and (3) of section 501 of the Labor Management Relations Act, 1947 (29 U.S.C. 142 (1) and (3)).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id281c0cdef9fb425eb2829c593fd11f79">
+                <enum>(6)</enum>
+                <header>Covered individual</header>
+ <text>The term <term>covered individual</term> includes—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idd7aa5a8850ee466985dbaf5a8ec9b681"> <enum>(A)</enum> <text display-inline="yes-display-inline">an employee, including a former employee; and</text>
+                </subparagraph>
+                <subparagraph id="idf8f8323db51346748fd8a62cccd64492" commented="no" display-inline="no-display-inline">
+                    <enum>(B)</enum>
+ <text>an independent contractor, including a former independent contractor.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id5e60aa1a9c664fa4a116efc053a21184">
+                <enum>(7)</enum>
+                <header display-inline="yes-display-inline">Emerging artificial intelligence
+                    technology</header>
+ <text>The term <term>emerging artificial intelligence technology</term>, with respect to an AI security vulnerability, means any artificial system that exhibits a level of performance, complexity, or autonomy that is comparable to or exceeds capabilities that are generally considered state-of-the-art as of the time of the AI security vulnerability.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id8e1b9bb464f44c4883fb723668fc50bb">
+                <enum>(8)</enum>
+                <header display-inline="yes-display-inline">Employer</header>
+ <text>The term <term>employer</term> means any person (including any officer, employee, contractor, subcontractor, agent, company, partnership, or other individual or entity) engaged in commerce or an industry or activity affecting commerce who pays any compensation to a covered individual in exchange for the covered individual providing work to the person.</text>
+            </paragraph>
+        </section>
+        <section id="id521afc6614ae4e7b97977cc72e5baae9">
+            <enum>3.</enum>
+            <header>Anti-retaliation protection for AI whistleblowers</header>
+            <subsection id="id9d595e7fe6564581863d397da7f19db4">
+                <enum>(a)</enum>
+                <header>Prohibition against retaliation</header>
+ <text>No employer may, directly or indirectly, discharge, demote, suspend, threaten, blacklist, harass, or in any other manner discriminate against a covered individual in the terms and conditions of employment or post-employment of the covered individual (or the terms and conditions of work provided by the covered individual as an independent contractor) because of any lawful act done by the covered individual—</text>
+                <paragraph id="idc0059c607ef24526b70f7a486891e8e1">
+                    <enum>(1)</enum>
+ <text>in providing information regarding an AI security vulnerability or AI violation, or any conduct that the covered individual reasonably believes constitutes an AI security vulnerability or AI violation, to—</text>
+                    <subparagraph id="id0ceee9f9e73f45089b1c2e87704cfd0a">
+                        <enum>(A)</enum>
+ <text>the appropriate regulatory official or the Attorney General;</text> </subparagraph> <subparagraph id="id03a4adec6685421b8edf7f5d4868c17f"> <enum>(B)</enum> <text>a regulatory or law enforcement agency; or</text>
+                    </subparagraph>
+                    <subparagraph id="id511f4b4c92da4aa8887b812f9f4ab9a6">
+                        <enum>(C)</enum>
+ <text>any Member of Congress or any committee of Congress;</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idad4ef7dfcfd24e0cbe073f33f0ced32b"> <enum>(2)</enum> <text>in initiating, testifying in, or assisting in any investigation or judicial or administrative action of an appropriate regulatory or law enforcement agency or the Department of Justice, or any investigation of Congress, based upon or related to the information described in paragraph (1); or</text>
+                </paragraph>
+                <paragraph id="id1c7a6b96f5ad4e79af0bc09c01aad127">
+                    <enum>(3)</enum>
+ <text>in providing information regarding an AI security vulnerability or AI violation, or any conduct that the covered individual reasonably believes constitutes an AI security vulnerability or AI violation, to—</text>
+                    <subparagraph id="id4a61c4e70edf41d3b46290ad5bfd1cdc">
+                        <enum>(A)</enum>
+ <text>a person with supervisory authority over the covered individual at the employer of the covered individual; or</text>
+                    </subparagraph>
+                    <subparagraph id="id9ab8deca42434617986b3c7118e172d5">
+                        <enum>(B)</enum>
+ <text>another individual working for the employer described in subparagraph (A) whom the covered individual reasonably believes has the authority to—</text>
+                        <clause id="id246a62f057174298a87007edc73d0df5">
+                            <enum>(i)</enum>
+ <text>investigate, discover, or terminate the misconduct; or</text> </clause> <clause id="id22fcfc22d97a466695e74ac1a6867e9d"> <enum>(ii)</enum> <text>take any other action to address the misconduct.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id54135d761b304080b6f63c552b25fd3f">
+                <enum>(b)</enum>
+                <header>Enforcement</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id092ddcbe70d7416f916bffcced4c5181">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">A covered individual who alleges they are aggrieved by a violation of subsection (a) may seek relief under paragraph (3) by—</text>
+                    <subparagraph id="idf8a97503b01a434d9b628403c31cdc77">
+                        <enum>(A)</enum>
+ <text>filing a complaint with the Secretary of Labor in accordance with the requirements of paragraph (2)(A); or</text>
+                    </subparagraph>
+                    <subparagraph id="id64480ce6a9624c53ab6b97784ef457ee">
+                        <enum>(B)</enum>
+ <text>if the Secretary of Labor has not issued a final decision in accordance with such paragraph within 180 days of the filing of a complaint under subparagraph (A), and there is no showing that such a delay is due to the bad faith of the covered individual, bringing an action against the employer at law or in equity in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id20031a58d2104a79bc469dd1a031bfa5">
+                    <enum>(2)</enum>
+                    <header>Procedure</header>
+                    <subparagraph id="id3f44012687c7417fabaa3173cc90d7c2">
+                        <enum>(A)</enum>
+                        <header>Department of Labor complaints</header>
+                        <clause id="ida640620be6f9449980fd64ee72644473">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Except as provided in clause (ii) and paragraph (3), a complaint filed with the Secretary of Labor under paragraph (1)(A) shall be governed by the rules and procedures set forth in section 42121(b) of title 49, United States Code, including the legal burdens of proof described in such section.</text>
+                        </clause>
+                        <clause id="id569b1449490241a9939b6451005045fd">
+                            <enum>(ii)</enum>
+                            <header>Exceptions</header>
+ <text>With respect to a complaint filed under paragraph (1)(A), notification required under section 42121(b)(1) of title 49, United States Code, shall be made to each person named in the complaint, including the employer.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id4a6d906d832a466cbd480b2c595ff63c">
+                        <enum>(B)</enum>
+                        <header>District court actions</header>
+                        <clause id="id7ed4428d57ec4261b6df009cdeb95e3b">
+                            <enum>(i)</enum>
+                            <header>Jury trial</header>
+ <text>A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.</text>
+                        </clause>
+                        <clause id="id1ac1ceae411448898eec1bb5498ceaa6">
+                            <enum>(ii)</enum>
+                            <header>Statute of limitations</header>
+                            <subclause commented="no" display-inline="no-display-inline" id="idc55e88672a3545759ff431104835d007">
+                                <enum>(I)</enum>
+                                <header display-inline="yes-display-inline">In general</header>
+ <text>An action may not be brought under paragraph (1)(B)—</text> <item id="idad5a5bc415f64e9c92be3e1245a2ec6a"> <enum>(aa)</enum> <text>more than 6 years after the date on which the violation of subsection (a) occurs; or</text>
+                                </item>
+                                <item id="idad2761a4aeed4cd9b5c84b7eddec0ebf">
+                                    <enum>(bb)</enum>
+ <text>more than 3 years after the date on which facts material to the right of action are known, or reasonably should have been known, by the covered individual bringing the action.</text>
+                                </item>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id82d991758b634a2a96a60c714001e6e8">
+                                <enum>(II)</enum>
+                                <header>Required action within 10 years</header>
+ <text>Notwithstanding subclause (I), an action under paragraph (1)(B) may not in any circumstance be brought more than 10 years after the date on which the violation occurs.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id04e7003e226748338c0ff945ae04b9c8">
+                    <enum>(3)</enum>
+                    <header>Relief</header>
+ <text>Relief for a covered individual prevailing with respect to a complaint filed under paragraph (1)(A) or an action under paragraph (1)(B) shall include—</text>
+                    <subparagraph id="idc0a676138f0d4689a5fd610aa2fa57a8">
+                        <enum>(A)</enum>
+ <text>reinstatement with the same seniority status that the covered individual would have had, but for the violation;</text>
+                    </subparagraph>
+                    <subparagraph id="id70fd5b8d8bf14ef08030f414a81da414">
+                        <enum>(B)</enum>
+ <text>2 times the amount of back pay otherwise owed to the covered individual, with interest;</text>
+                    </subparagraph>
+                    <subparagraph id="id28e8c7fd912d4d81a5935509be13aaad">
+                        <enum>(C)</enum>
+ <text>the payment of compensatory damages, which shall include compensation for litigation costs, expert witness fees, and reasonable attorneys’ fees; and</text>
+                    </subparagraph>
+                    <subparagraph id="id3491397fcb3c48b3b02d1062ddf4a2ef">
+                        <enum>(D)</enum>
+ <text>any other appropriate remedy with respect to the violation as determined by the Secretary of Labor in a complaint under subparagraph (A) of paragraph (1) or by the court in an action under subparagraph (B) of such paragraph.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idf490c0d7c4244d23b05f417169a36fb1" commented="no" display-inline="no-display-inline">
+                <enum>(c)</enum>
+                <header>Nonenforceability waivers of rights or remedies</header>
+ <text>The rights and remedies provided for in this section may not be waived or altered by any contract, agreement, policy form, or condition of employment (or condition of work as an independent contractor), including by any agreement requiring a covered individual to engage in arbitration, mediation, or any other alternative dispute resolution process prior to seeking relief under subsection (b).</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
