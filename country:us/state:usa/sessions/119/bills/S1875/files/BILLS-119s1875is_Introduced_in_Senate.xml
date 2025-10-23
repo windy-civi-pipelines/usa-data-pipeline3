@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25307-TDF-DK-Y12">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1875 IS: Streamlining Federal Cybersecurity Regulations Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1875</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250522">May 22, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself and <cosponsor name-id="S378">Mr. Lankford</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSGA00">Committee
+                    on Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish an interagency committee to harmonize regulatory regimes in the
+            United States relating to cybersecurity, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="id182349b7-b46b-44eb-aae3-b983b84281e8" section-type="section-one" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Streamlining Federal Cybersecurity Regulations Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idc276cfa1-3338-401e-8af8-e737c55759ea" changed="not-changed">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id573290d6-07a9-4e76-859d-a0be5a7c34bf" changed="not-changed"> <enum>(1)</enum> <header>Agency</header> <text>The term <term>agency</term> has the meaning given that term in section 3502 of title 44, United States Code.</text>
+            </paragraph>
+            <paragraph id="idc1faf2ab-02f3-495e-a55a-7a187abf9896" changed="not-changed">
+                <enum>(2)</enum>
+                <header>Appropriate congressional committees</header>
+ <text>The term <term>appropriate congressional committees</term> means—</text> <subparagraph id="id6b6e2999-cc7a-4cda-9c9d-f24c01ca9266" changed="not-changed"> <enum>(A)</enum> <text>the Committee on Homeland Security and Governmental Affairs of the Senate;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id1512568b-c48f-4d00-8f24-0408f7c01bde" changed="not-changed">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Committee on Oversight and Government Reform of the House of Representatives;</text>
+                </subparagraph>
+                <subparagraph id="id2d18403f-4167-4d29-96c9-63b594646dd7" changed="not-changed">
+                    <enum>(C)</enum>
+ <text>each committee of Congress with jurisdiction over the activities of a regulatory agency; and</text>
+                </subparagraph>
+                <subparagraph id="id8a573767-149b-4454-8c56-a97679941167" changed="not-changed">
+                    <enum>(D)</enum>
+ <text>each committee of Congress with jurisdiction over the activities of a Sector Risk Management Agency with respect to a sector regulated by a regulatory agency.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id2a193851-4473-4d86-8edb-4eff69cb492f" changed="not-changed">
+                <enum>(3)</enum>
+                <header>Committee</header>
+ <text>The term <term>Committee</term> means the Harmonization Committee established under section 3(a).</text>
+            </paragraph>
+            <paragraph id="ide8ad57e3-4d89-4cb3-81a5-83157dd6215f" changed="not-changed">
+                <enum>(4)</enum>
+                <header>Cybersecurity requirement</header>
+ <text>The term <term>cybersecurity requirement</term> means a regulation or supervisory activity, including an examination or binding guidance, that includes administrative, technical, or physical requirements relating to information security, security of information technology or operational technology, cybersecurity, or cyber risk or resilience.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id48ed24ba-3c5b-43ff-ba41-c5cb35a7edf6" changed="not-changed">
+                <enum>(5)</enum>
+                <header display-inline="yes-display-inline">Harmonization</header>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idef873e49-de9b-40f9-9bb1-b035a8250f3b" changed="not-changed">
+                    <enum>(A)</enum>
+                    <header>Definition</header>
+ <text display-inline="yes-display-inline">The term <term>harmonization</term> means the process of aligning cybersecurity requirements issued by regulatory agencies such that the requirements consist of—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id01a99d5f-dae0-4f21-a3bf-df6681705bc8" changed="not-changed">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a common set of minimum requirements that may apply across sectors and that can be updated periodically to address new or evolving risks relating to information security or cybersecurity; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idb159a0dc-8370-4cae-a1c6-57a5d46ceb4e" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">sector-specific requirements, which may include performance-based requirements, that—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="idf40423ef-3045-4112-af20-54623dbc304f" changed="not-changed">
+                            <enum>(I)</enum>
+ <text>are necessary to address sector-specific risks that are not adequately addressed by the minimum requirements described in clause (i);</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id28c73501-3395-40f1-8b0f-08ed1ffd8777" changed="not-changed">
+                            <enum>(II)</enum>
+ <text>are substantially similar, where appropriate, to other requirements in that sector or a similar sector; and</text>
+                        </subclause>
+                        <subclause id="iddb505a8fa8574a6583660f81e0b56fd0">
+                            <enum>(III)</enum>
+ <text>align with international standards, where appropriate.</text> </subclause> </clause> </subparagraph> <subparagraph id="id7738b318-47b0-4169-982e-9a9ffe8f2207" changed="not-changed"> <enum>(B)</enum> <header>Rule of construction</header> <text>Nothing in this definition shall be construed to exempt regulatory agencies from any otherwise applicable processes or laws relating to promulgating or amending regulations, including subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the <quote>Administrative Procedure Act</quote>).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id3f59fb12e728412da5d5ce0721b14a03">
+                <enum>(6)</enum>
+                <header>Head</header>
+ <text>The term <term>head</term> includes, in the case of an agency directed by multiple individuals, such as a commission, a representative selected by such individuals from among such individuals.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id254429e2-394d-4a58-9ca8-0b57136127e8" changed="not-changed">
+                <enum>(7)</enum>
+                <header>Independent regulatory agency</header>
+ <text>The term <term>independent regulatory agency</term> has the meaning given that term in section 3502 of title 44, United States Code.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id1a9e743b-a42a-4e73-811b-38b9bd105f65" changed="not-changed">
+                <enum>(8)</enum>
+                <header>Reciprocity</header>
+ <text>The term <term>reciprocity</term> means the recognition or acceptance by 1 regulatory agency of an assessment, determination, examination, finding, or conclusion of another regulatory agency for determining that a regulated entity has complied with a cybersecurity requirement.</text>
+            </paragraph>
+            <paragraph id="id1f1e19ca-b88b-42eb-8150-7f7820f29b2b" commented="no" changed="not-changed">
+                <enum>(9)</enum>
+                <header>Regulatory agency</header>
+ <text>The term <term>regulatory agency</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide00ac881-3de5-49ad-bd16-44c3e502a495" changed="not-changed"> <enum>(A)</enum> <text display-inline="yes-display-inline">any independent regulatory agency that has the statutory authority to issue or enforce any mandatory cybersecurity requirement; or</text>
+                </subparagraph>
+                <subparagraph id="id510c21c4-77a0-4ecb-b290-2bcf80efeef5" commented="no" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>any other agency that has the statutory authority to issue or enforce any cybersecurity requirement.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idb91a4248-d7f9-41a8-9bd8-4afdbbf9efdd" changed="not-changed">
+                <enum>(10)</enum>
+                <header>Regulatory framework</header>
+ <text>The term <term>regulatory framework</term> means the framework developed under section 3(e)(1).</text>
+            </paragraph>
+            <paragraph id="id0581585b-fb5d-432e-acfb-98b8e27519d5" changed="not-changed">
+                <enum>(11)</enum>
+                <header>Sector risk management agency</header>
+ <text>The term <term>Sector Risk Management Agency</term> has the meaning given that term in section 2200 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/650">6 U.S.C. 650</external-xref>).</text>
+            </paragraph>
+        </section>
+        <section id="idb1dc3fe9-a87e-480f-9a9e-d97ca4bde22d" changed="not-changed">
+            <enum>3.</enum>
+            <header>Establishment of interagency committee to harmonize regulatory regimes in the
+                United States relating to cybersecurity</header>
+            <subsection id="id33309aaf-7267-4bab-8d0e-935f91d490b9" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Harmonization Committee</header>
+                <paragraph id="id3c923fde-69c4-4396-83ac-86680d5f7e89" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The National Cyber Director shall establish an interagency committee to be known as the Harmonization Committee to enhance the harmonization and reciprocity of cybersecurity requirements that are applicable within the United States, including the formulation of baseline and sector-specific requirements that are risk-based.</text>
+                </paragraph>
+                <paragraph id="idd0cab5fb-484d-41bc-b881-f47f17280856" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Support</header>
+ <text>The National Cyber Director shall provide the Committee with administrative and management support as appropriate.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id88f94e5b-90f6-4366-8feb-95c27577c700" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Members</header>
+                <paragraph id="ida56da63c-6471-46f3-87fc-5516982a1472" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Committee shall be composed of—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ida15a4823-587d-40aa-b1a2-e76f2ce10a75" changed="not-changed"> <enum>(A)</enum> <text display-inline="yes-display-inline">the National Cyber Director;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc2c34972-3895-4eff-b9d1-6225a808c7fc" changed="not-changed">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the head of each regulatory agency, including the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5268d8cd-f935-4018-89e9-677258de40e5" changed="not-changed">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the head of the Office of Information and Regulatory Affairs of the Office of Management and Budget; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id840ef930-9b4f-43dd-8835-5840e87dd3c2" changed="not-changed">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the head of other appropriate agencies, as determined by the chair of the Committee.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph display-inline="no-display-inline" commented="no" id="id82a4d249-655e-4e32-aef0-a32a872e3583" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Publication of list of members</header>
+ <text>The Committee shall maintain, on a publicly available website, a list of the agencies that are represented on the Committee as determined by the chair of the Committee, and shall update the list as members are added or removed.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idca60c886-7e7d-4b60-b1fa-eec0127fe6e9" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Chair</header>
+ <text>The National Cyber Director shall be the chair of the Committee.</text> </subsection> <subsection commented="no" display-inline="no-display-inline" id="id5a925330-fc2f-4217-ad9c-a87fcac0fab7" changed="not-changed"> <enum>(d)</enum> <header>Charter</header> <text>The Committee shall develop, deliver to Congress, and make publicly available a charter, which shall—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id997d337a-a73d-4a1d-9cc4-3af28303232d" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>include the processes and rules of the Committee; and</text> </paragraph> <paragraph display-inline="no-display-inline" commented="no" id="id11fa50ab-0561-4553-93de-c60d276c31e1" changed="not-changed"> <enum>(2)</enum> <text>detail—</text>
+                    <subparagraph display-inline="no-display-inline" commented="no" id="idd7bf1cf4-bcab-4247-a168-cee773c11fc7" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>the objective and scope of the Committee; and</text> </subparagraph> <subparagraph display-inline="no-display-inline" commented="no" id="id3e988135-9ddc-477e-9235-9f60460194cd" changed="not-changed"> <enum>(B)</enum> <text>other items as necessary.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id31f56a41-3c38-4428-a9d5-d0efa4206383" changed="not-changed">
+                <enum>(e)</enum>
+                <header>Regulatory framework for harmonization</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id272ebdfe-8e51-4d3f-90d7-69f08418aee2" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" changed="not-changed" id="id446e02a48e9744e9bcab6964f549dad9">
+                        <enum>(A)</enum>
+                        <header>Development</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Committee shall develop a regulatory framework for achieving harmonization of the cybersecurity requirements of each regulatory agency.</text>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id0d8011be7cfe416db1f2dbcd8fe3bdc1">
+                        <enum>(B)</enum>
+                        <header>Contents</header>
+ <text>The regulatory framework developed under clause (i) shall—</text> <clause changed="not-changed" commented="no" display-inline="no-display-inline" id="id36519d986f0642528107503505570a05"> <enum>(i)</enum> <text display-inline="yes-display-inline">include a common set of baseline cybersecurity requirements across sectors; and</text>
+                        </clause>
+                        <clause changed="not-changed" commented="no" display-inline="no-display-inline" id="id0f998e306e1b43bb994e2915cea55dce">
+                            <enum>(ii)</enum>
+ <text>outline common approaches and language for applying cybersecurity requirements promulgated or amended following passage of this Act.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="ide86e9b1fc375460f94c0b6e9223444ed">
+                        <enum>(C)</enum>
+                        <header>Public comment</header>
+ <text>The process for developing such regulatory framework shall include the opportunity for public comment and consultation with industry experts and other stakeholders.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ida0abadac-8fa5-4a68-8824-d7ba0d79484c" changed="not-changed">
+                        <enum>(D)</enum>
+                        <header>Factors</header>
+ <text>In developing the framework under subparagraph (A), the Committee shall account for existing sector-specific cybersecurity requirements that are identified as unique or critical to a sector.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id83517f63-fdb9-4a0a-80db-111acc3f5082" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Minimum requirements</header>
+ <text>The framework shall contain, at a minimum, processes for—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide0db22ea-7b43-4bda-8bea-da4ce8978694" changed="not-changed"> <enum>(A)</enum> <text display-inline="yes-display-inline">establishing a reciprocal compliance mechanism for minimum requirements relating to information security or cybersecurity for entities regulated by more than 1 regulatory agency;</text>
+                    </subparagraph>
+                    <subparagraph id="id0a6c423f-cf01-49a8-bf7f-5e52ee357ec1" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>identifying cybersecurity requirements that are overly burdensome, inconsistent, or contradictory, as determined by the Committee;</text>
+                    </subparagraph>
+                    <subparagraph id="idaacf3b85-5c9c-4584-a5ce-5527b8741b9a" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>developing recommendations for updating regulations, guidance, and examinations to address overly burdensome, inconsistent, or contradictory cybersecurity requirements identified under subparagraph (B) to achieve harmonization; and</text>
+                    </subparagraph>
+                    <subparagraph id="idb36ee55f35de4a47a4af015c3af90301">
+                        <enum>(D)</enum>
+ <text>drafting baseline requirements and regulatory language for covered agencies to use, as appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="iddeb85c9c-8923-4744-aa9d-56dc5b850f78" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Publication</header>
+ <text>Upon completion of the regulatory framework, the Committee shall publish the regulatory framework in the Federal Register.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id576346c2-51ad-480b-aea5-69cce72e9d65" changed="not-changed">
+                <enum>(f)</enum>
+                <header>Pilot program on implementation of regulatory framework</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idae7bf57e-088e-41bf-a6da-877bbbe3bd67" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the publication of the framework developed under subsection (e), not fewer than 3 regulatory agencies but not more than 5 regulatory agencies, selected by the Committee, shall carry out a pilot program to implement the regulatory framework with respect to not fewer than 3 cybersecurity requirements but not more than 6 cybersecurity requirements, with at least 1 requirement from each regulatory agency.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" changed="not-changed" id="id9ed5f8fb1de547279d79acfa96dc5546">
+                    <enum>(2)</enum>
+                    <header>Duration</header>
+ <text display-inline="yes-display-inline">The duration of the pilot program shall be determined by the Harmonization Committee in coordination with the pilot program participants.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id76007ebb-6541-4c7d-99cb-27e9d321d329" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Participation by regulatory agencies and regulated entities</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide43cbe2e-c09f-47dc-85ae-737718dcf263" changed="not-changed">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">Regulatory agencies</header>
+ <text>Participation in the pilot program by a regulatory agency shall be voluntary and subject to the consent of the regulatory agency following selection by the Committee under paragraph (1).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id83ddba03-ff96-4f27-981d-52092b7c4646" changed="not-changed">
+                        <enum>(B)</enum>
+                        <header>Regulated entities</header>
+ <text>Participation in the pilot program by a regulated entity shall be voluntary.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0ce230da-5f69-4af2-95c5-669b11d95bf2" changed="not-changed">
+                    <enum>(4)</enum>
+                    <header>Selection of cybersecurity requirements</header>
+ <text>Cybersecurity requirements selected for the pilot program under paragraph (1) shall contain substantially similar or substantially related requirements such that not fewer than 2 of the selected cybersecurity requirements govern the same regulated entity with substantially similar or substantially related requirements relating to information security or cybersecurity.</text>
+                </paragraph>
+                <paragraph id="idfcb147e1-cda9-41ed-a300-892c0b23abe8" changed="not-changed">
+                    <enum>(5)</enum>
+                    <header>Waivers</header>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id13d490091f3d4d818cef5db1a7405a31">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Notwithstanding any provision of subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the <quote>Administrative Procedure Act</quote>) and subject to the consent of any participating regulated entity, in implementing the pilot program under paragraph (1), a regulatory agency participating in the pilot program shall have the authority, as the regulatory agency determines appropriate, to both issue waivers and establish alternative procedures for regulated entities participating in the pilot program with respect to the cybersecurity requirements included under the pilot program.</text>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id14a1b57956ee464a9d2190a48dcabb5b">
+                        <enum>(B)</enum>
+                        <header>Compliance</header>
+ <text>A regulated entity that notifies a regulatory agency of the entity’s participation in a pilot program shall be deemed in compliance with the waived requirements to the extent that the entity complies with requirements of the pilot program.</text>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id0ddc96b3aa824e77b1f7a15ea666335d">
+                        <enum>(C)</enum>
+                        <header>Termination</header>
+ <text>Waivers issued and alternative procedures established under this paragraph shall terminate on the date on which the pilot program terminates.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ideae5992508fa4b7eb10d6c19ab9ed8f7" changed="not-changed">
+                    <enum>(6)</enum>
+                    <header>Subsequent pilot program</header>
+ <text>The Committee may only authorize an additional pilot program after the later of—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id99a276dd6ca04377ad958325d92475b9" changed="not-changed">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the date of the conclusion of all of the initial pilot programs under paragraph (1); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4ea1cbd7cfa3465194cf11fa6480d452" changed="not-changed">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the date of submission of all reports required under subsection (i) for each initial pilot program.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id8a5f0663fbf647f3b17886731d11aab3">
+                    <enum>(7)</enum>
+                    <header>Sunset</header>
+ <text>The pilot program shall terminate on the date that is 7 years after the date on which the pilot program began under paragraph (1).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id79f8aa61-cbaf-46c8-825b-50b8fbf23de0" commented="no" changed="not-changed">
+                <enum>(g)</enum>
+                <header>Consultation with the Committee</header>
+                <paragraph commented="no" id="id73b74b7a-46b5-46be-8293-963fa1005d2a" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Notwithstanding any other provision of law—</text>
+                    <subparagraph id="idef188846-9bb3-41fa-a96c-fabfc3e2b590" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>except when an exigent circumstance described in paragraph (3) exists, before promulgating or amending a cybersecurity requirement, a regulatory agency shall consult with the Committee regarding such requirement and the regulatory framework;</text>
+                    </subparagraph>
+                    <subparagraph id="idca381a83-8d3e-4f41-b07e-da3b49a2c870" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>independent regulatory agencies, when promulgating or amending a cybersecurity requirement, shall consult the Committee during the development of the updated cybersecurity requirement or the new cybersecurity requirement to ensure that the requirement is aligned to the greatest extent possible with the regulatory framework; and</text>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="id48f1dc56ac6e49bbb007dec50dc13144">
+                        <enum>(C)</enum>
+ <text>such consultation should be integrated with existing interagency review and input processes administered by the Office of Information and Regulatory Affairs of the Office of Management and Budget.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id7d607a20-70b5-46eb-a041-931d33c346f0" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Consultation report</header>
+ <text>Following a consultation under paragraph (1), the Committee, in coordination with the Office of Management and Budget as necessary, shall provide to the agency a report that shall be advisory in nature and shall—</text>
+                    <subparagraph id="id32e14bce-6ba9-454a-9ce5-5396098f668e" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>include to what degree the proposed cybersecurity requirement or update to the cybersecurity requirement aligns with the regulatory framework, taking into consideration the authorities of the agency; and</text>
+                    </subparagraph>
+                    <subparagraph id="id88285e52-2aac-4d82-9ca8-c3bd33c9cb03" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>provide a list of recommendations to improve the cybersecurity requirement and to align the cybersecurity requirement with the regulatory framework.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id2E529E0DB2CF4223A966591D22583307" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Exigent circumstances</header>
+ <text>In the case of an exigent circumstance where an agency is authorized by law to act expeditiously, the agency shall notify the Committee as soon as possible.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idca70a70c-87cb-4dc9-88f5-bc44832001da" changed="not-changed">
+                <enum>(h)</enum>
+                <header>Consultation with sector risk management agencies</header>
+ <text>The Committee shall consult with appropriate Sector Risk Management Agencies in the development of the regulatory framework and the implementation of the pilot program under subsection (f) and shall consult with members of industry and critical infrastructure, as appropriate, for the development of the regulatory framework and pilot program.</text>
+            </subsection>
+            <subsection id="idcd3d68a8-6eb5-4238-9747-48f8841a02d0" changed="not-changed">
+                <enum>(i)</enum>
+                <header>Reports</header>
+                <paragraph id="id276f16ad-1d0f-4bcc-8249-dfd599c96782" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>Annual report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, and annually thereafter until the date on which the pilot program terminates, the Committee shall submit to the appropriate congressional committees a report including—</text>
+                    <subparagraph id="idc6edc43c-4d66-42d6-b961-b1e4e43bf525" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>information about member participation in Committee activities, including the rationale for any nonparticipation by Committee members;</text>
+                    </subparagraph>
+                    <subparagraph id="id042270eb-8ae0-449b-aec2-7f8f818157df" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>information about the application of the regulatory framework, once developed, on cybersecurity requirements, including consultations or discussions with regulators;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4dba940aaa7b479186bcc5886154a19d" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>a general summary of reports made under subsection (g)(2); and</text> </subparagraph> <subparagraph id="idf18abae45b524871afef6d99a21354a9"> <enum>(D)</enum> <text>an analysis of the efficiency of the regulatory framework.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide33f32a1-654a-4df8-8156-675ce0097b7c" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Pilot program report</header>
+ <text>Not later than 1 year after the date on which a pilot program under subsection (f) begins, the Committee shall submit to the appropriate congressional committees a report detailing—</text>
+                    <subparagraph id="idec7833f0-b36e-4450-a5d4-f6d0aa24605b" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>the cybersecurity requirements selected for the program, including—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idce515678e68043ccbe2954fb711ce76c" changed="not-changed">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the reasons that the regulatory agency and cybersecurity requirement were selected;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida987b460fb3a42ae8464a5c10a062edd" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>a list of the pilot programs considered by the Committee; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0a2daabea55e476eb281186c50543cf9" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">the rationale for selecting the pilot program;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idbe3ef349-81b0-4b2a-a593-12f63df256a5" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>the information learned from the program;</text> </subparagraph> <subparagraph id="id61e61247-1274-4710-98c1-650ae276c68a" changed="not-changed"> <enum>(C)</enum> <text>any obstacles encountered during the program; and</text>
+                    </subparagraph>
+                    <subparagraph id="id448b7e1a-91a7-40bd-b81d-4852536bb1e3" changed="not-changed">
+                        <enum>(D)</enum>
+ <text>an assessment of the applicability of expanding the program to other agencies and cybersecurity requirements.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idad66f09deb9f445e8ac799b262b3e92d">
+            <enum>4.</enum>
+            <header>Coordination with Federal agencies and international bodies</header>
+            <subsection id="id10839c3c6d6c45e1b27ab2fb537bd79b">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall, in consultation with the Committee, issue guidance to Federal agencies, including the Cyber Incident Reporting Council, on coordination with the Committee.</text>
+            </subsection>
+            <subsection id="idb7b28290d9f94a1b945f3638bfea65ce">
+                <enum>(b)</enum>
+                <header>Guidance</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id95e21a1c1579407990448f63e140f7ed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the completion of the initial pilot program and submission of the pilot program report, the Director of the Office of Management and Budget shall, in coordination with the Committee, issue guidance to all agencies to ensure cybersecurity requirements are consistent with the framework developed under subsection (e), incorporating the results and lessons learned from the pilot program.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8e02591842f249d0be9c4c3e60f57119">
+                    <enum>(2)</enum>
+                    <header>Contents</header>
+ <text display-inline="yes-display-inline">The guidance issued under paragraph (1) shall, at a minimum—</text>
+                    <subparagraph id="id9b21535ab6564ff69c420804e5243462">
+                        <enum>(A)</enum>
+ <text>include updates to the regulatory review process, as appropriate, for proposed cybersecurity requirements;</text>
+                    </subparagraph>
+                    <subparagraph id="id4e32b3ca903d4df5a85d3048d67d7138">
+                        <enum>(B)</enum>
+ <text>provide draft regulatory language for covered agencies to use when preparing cybersecurity requirements;</text>
+                    </subparagraph>
+                    <subparagraph id="id3d16136869e44940b8b7a5aadc7671bd">
+                        <enum>(C)</enum>
+ <text>provide guidance and procedures for covered agencies to resolve inconsistencies with the framework; and</text>
+                    </subparagraph>
+                    <subparagraph id="idea25f8b81a6740f99b58f2abbfee93b2">
+                        <enum>(D)</enum>
+ <text>provide a template for covered agencies on how to use the guidance, including recommended procedures for implementation.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id2a0db519ec624fd4b000c482e90ffaf5">
+                <enum>(c)</enum>
+                <header>Reporting</header>
+ <text>All agencies shall report to appropriate congressional committees on the status of implementing the guidance issued under subsection (a).</text>
+            </subsection>
+            <subsection id="idc8342eed89f14c2092ab2f21c24c96e1">
+                <enum>(d)</enum>
+                <header>Assistance</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf362ff7a499149ec8f5f6986ad5273d5">
+                    <enum>(1)</enum>
+                    <header>Foreign entities</header>
+ <text display-inline="yes-display-inline">The Committee, with the concurrence of the Secretary of State, and in coordination with the National Institute of Standards and Technology, may provide expertise or technical assistance on harmonization and reciprocity of cyber requirements to a foreign government, an international organization, or an international entity, as appropriate.</text>
+                </paragraph>
+                <paragraph id="id426780a2afc640dbb954a07102bd122f">
+                    <enum>(2)</enum>
+                    <header>Local entities</header>
+ <text>The Committee may provide expertise or technical assistance on harmonization and reciprocity of cyber requirements to State, local, Tribal, and territorial governments, as appropriate.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id40b4ede8-64ec-4697-bae2-25c5f11e98ed" changed="not-changed">
+            <enum>5.</enum>
+            <header>Rule of construction</header>
+ <text display-inline="no-display-inline">Nothing in this Act shall be construed—</text> <paragraph commented="no" display-inline="no-display-inline" id="ida8981368-e7fb-4440-81c4-46d3e0f7ed55" changed="not-changed"> <enum>(1)</enum> <text display-inline="yes-display-inline">to expand or alter the existing authorities of any agency, including any independent regulatory agency, except for exemptions under section 3(f) to implement the pilot program established under that section;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id7d9d57af-39ec-4614-8cb9-373b35b75cec" changed="not-changed">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">to provide any such agency any new or additional authorities, except for exemptions under section 3(f) to implement the pilot program established under that section; or</text>
+            </paragraph>
+            <paragraph id="id23f3f4a11bbc44f39cf4a51424d4fa2d">
+                <enum>(3)</enum>
+ <text>to affect, augment, or diminish the authority of the Secretary of State or any other officer of the Federal Government.</text>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,1189 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WIL25248-SXL-HD-HSP">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2488 IS: Empowering App-Based Workers Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2488</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250728">July 28, 2025</action-date>
+            <action-desc><sponsor name-id="S353">Mr. Schatz</sponsor> (for himself, <cosponsor name-id="S364">Mr. Murphy</cosponsor>, and <cosponsor name-id="S354">Ms.
+                    Baldwin</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSHR00">Committee on Health,
+                    Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To promote transparency and accountability in covered digital labor platform
+            work, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Empowering App-Based Workers Act</short-title></quote>.</text>
+        </section>
+        <section id="idb521473910bc4545ba6920178c80e1e7">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="idde5a7ba03e374144919397330b7cd03c"> <enum>(1)</enum> <text>Millions of workers in the United States report to work by logging on to digital labor platforms: software applications (commonly known as <quote>apps</quote>) that allocate and manage work.</text>
+            </paragraph>
+            <paragraph id="id7dd5749212c644f887cfd09eeee02ac2">
+                <enum>(2)</enum>
+ <text>Businesses are using digital labor platforms in a wide and growing range of industries and occupations in the United States. While the most well-known businesses using digital labor platforms provide ride-hail and last-mile delivery services, businesses in a variety of sectors, including large- and low-paid sectors like retail, hospitality, warehousing, and food services, increasingly manage labor via digital labor platforms.</text>
+            </paragraph>
+            <paragraph id="id68b44d5c71cf46388963eb7ed8f07fd6">
+                <enum>(3)</enum>
+ <text>Platformed, or app-based, workers of all ages and every race, ethnicity, gender, and immigration status can be found in every State. According to the Bureau of Labor Statistics, app-based workers are disproportionately people of color, comprising approximately 42 percent of the app-based workforce, compared to 29 percent of the overall workforce. A 2021 Pew Research poll of United States workers found that women (17 percent) were more likely than men (15 percent) to report that they had ever done app-based work. The growing workforces of businesses that use digital labor platforms to manage delivery workers are majority women. Platform work is growing in industries like retail, hospitality, warehousing, and food services, in which people of color are overrepresented.</text>
+            </paragraph>
+            <paragraph id="ide2826ff4ebd14a45951a39f3ce34035d">
+                <enum>(4)</enum>
+ <text>Government and academic research has found that app-based workers often receive poverty wages and few to no benefits and are subject to wage theft and wage and employment discrimination. A 2024 University of California at Berkeley study of app-based ride-hail drivers in 5 metropolitan areas found that a majority of drivers earn net pay that is significantly less than the applicable minimum wage. Job quality issues may be related to the frequent misclassification of app-based workers as independent contractors who lack employment-based rights and protections. Indeed, both courts and regulatory agencies have found businesses that use digital labor platforms to have misclassified employees as independent contractors, stolen wages, and withheld benefits.</text>
+            </paragraph>
+            <paragraph id="id8387a6c4d85444f5a99f812435f39112">
+                <enum>(5)</enum>
+ <text>Research also shows that some businesses that use digital labor platforms may be engaging in discriminatory pricing practices, charging variable rates for the same services based on particular characteristics of a consumer, and setting personalized wages for the same work based on characteristics of a worker.</text>
+            </paragraph>
+            <paragraph id="idadc590689d7341c5a3773b28a44c2d4a">
+                <enum>(6)</enum>
+ <text>Businesses use digital labor platforms to determine access by an app-based worker to work assignments, the pay for the assignments, and the prices charged to customers. Such platforms often use electronic monitoring tools and automated decision-making systems or algorithms, fed by a variety of inputs, including data derived from workers and consumers.</text>
+            </paragraph>
+            <paragraph id="iddd0ca58411fe4126a00eee4e355ee92c">
+                <enum>(7)</enum>
+ <text>The use of electronic monitoring tools and automated decision-making systems is not exclusive to businesses that use digital labor platforms. Other kinds of businesses do use them but the heavy reliance by such businesses on these systems to interface with workers and consumers is unique.</text>
+            </paragraph>
+            <paragraph id="idc970a9253f5f4f9d827e0a2b59b634ae">
+                <enum>(8)</enum>
+ <text>But while the electronic monitoring tools and automated decision-making systems of businesses that use digital labor platforms dictate the experience of workers and consumers on digital labor platforms, their presence, purpose, and mechanics are, too often, wholly opaque to workers, consumers, voters, and policymakers. This opacity creates profound information asymmetries between these groups and the corporations that own or operate digital labor platforms.</text>
+            </paragraph>
+            <paragraph id="idf6ce4b6c9f034b88a9320f747e13f7ff">
+                <enum>(9)</enum>
+ <text>The lack of information about the electronic monitoring tools and automated decision-making systems used by businesses that use digital labor platforms prevents workers, consumers, and policymakers from understanding whether and to what extent these systems are generating harms and facilitating the violation of existing laws and regulations.</text>
+            </paragraph>
+            <paragraph id="idbc016fa91c8d497387478109c0279eec">
+                <enum>(10)</enum>
+ <text>Unaccountable pay algorithms can enable various forms of wage theft, such as minimum wage violations, tip-stealing, routine undercounting of worktime, and illegal fees and deductions, as well as discrimination based on protected class. Forms of employer control obscured by algorithmic management can enable independent contractor misclassification and create insurmountable roadblocks to app-based workers’ ability to access minimum wage and overtime pay for all time worked, paid sick leave, unemployment insurance benefits, workers’ compensation, protections from discrimination, and more.</text>
+            </paragraph>
+            <paragraph id="idcd23d45acb0240b8a024aeee3295a089">
+                <enum>(11)</enum>
+ <text>Reliance on electronic monitoring tools and automated decision-making systems that hide control and enable misclassification of employees as independent contractors also has profound implications for social welfare programs and competing businesses. Businesses that misclassify employees as independent contractors neglect to pay their share of employer contributions for programs such as unemployment insurance and social security. In total, a misclassifying business can save up to 30 percent of its payroll costs by mislabeling a worker as an independent contractor, which disadvantages responsible employers.</text>
+            </paragraph>
+            <paragraph id="id42327ca67fa84b12a4c70432ea3176a2">
+                <enum>(12)</enum>
+ <text>The lack of transparency around pricing algorithms allows businesses that use digital labor platforms to raise prices on consumers under the guise of increasing labor and regulatory costs. Businesses that use digital labor platforms may use opaque pricing algorithms to determine the amount they charge to customers for a service, as well as the share of that fee that those businesses keep for themselves compared to the share that goes to the app-based workers who provide the service. The variable and opaque share of the consumer charge that certain digital labor platform providers keep, versus the share they pay an app-based workers (the <quote>take rate</quote>) is concerning.</text>
+            </paragraph>
+            <paragraph id="id5072a6aa20d64be6b8aab70c81ee25de">
+                <enum>(13)</enum>
+ <text>The issue of fluctuating, opaque, and predatory take rates is especially pronounced in the ride-hail industry, a pioneer in the use of digital labor platforms. Initially, ride-hail companies paid app-based workers 90 percent of the consumer charge, decreasing it to 80 percent as they attracted more workers. Early take rates of 10 to 20 percent were styled as <quote>service fees</quote> that drivers paid to access work through the digital labor platform. Like commissions, if the ride-hail companies increased their prices, workers likewise received a raise.</text>
+            </paragraph>
+            <paragraph id="idc4d7c7ed24c048e09cfef1350dd131d8">
+                <enum>(14)</enum>
+ <text>Ride-hail companies later abandoned their commission-based service fee, and now set consumer prices independently of app-based worker pay. Both prices and pay are largely influenced by unaccountable hidden algorithms and automated decision systems. They are also influenced by individualized consumer and worker characteristics that offend notions of equal pay for equal work and fair dealing.</text>
+            </paragraph>
+            <paragraph id="id8d72fcb3b6704acc8fd0102f6e62c5a0">
+                <enum>(15)</enum>
+ <text>App-based workers now report ride-hail companies taking as much as 60 percent of the fare. A PowerSwitch Action analysis of Uber fares in New York City and Chicago between 2019 and 2023 found that driver pay declined even as fares charged to consumers increased because Uber’s take rate also increased.</text>
+            </paragraph>
+            <paragraph id="id1789852537ae41bfa4986ecd2610f66d">
+                <enum>(16)</enum>
+ <text>Rising, unpredictable take rates and lower pay have made ride-hail work an increasingly losing proposition. Workers who provide what has become a growing and crucial transportation service are entitled to transparent, consistent, and fair pay for their work. A 25 percent cap on take rates in the ride-hail industry will limit the most exploitative algorithmic practices and help ensure the health and well-being of more than a million U.S. workers. Since expenses and the cost of living vary from market to market, the take rate cap in this Act establishes a floor, not a ceiling, and does not preempt any state or local efforts to establish take rate standards that exceed that set forth herein.</text>
+            </paragraph>
+            <paragraph id="id1685e5b640274b359252c0e505f30599">
+                <enum>(17)</enum>
+ <text>Although the ride-hail industry has been an early adopter of digital labor platform technologies, the public needs to understand how all businesses that use digital labor platforms utilize electronic monitoring tools and automated decision-making systems so they may understand how this unaccountable technology affects their lives. Without transparency requirements around their use of electronic monitoring tools and automated decision-making systems, businesses that use digital labor platforms can exploit information asymmetries to make false and unverifiable claims about the potential impacts of proposed and existing public policies.</text>
+            </paragraph>
+            <paragraph id="id229c56b070f541a9abb7e9317e1ce97e">
+                <enum>(18)</enum>
+ <text>Policymakers outside the United States have taken steps to ensure that platforms operate with more transparency and accountability. Multinational corporations like Amazon, Uber, and DoorDash will soon be subject to various transparency and reporting requirements in the European Union as countries come into compliance with the European Union Platform Work Directive. The United States must not be a global laggard when it comes to platform regulation; workers, consumers, and the public will suffer for it.</text>
+            </paragraph>
+            <paragraph id="id5efc339f101f43199354ae1b0163ca6a">
+                <enum>(19)</enum>
+ <text>To ensure that app-based work is not an engine of poverty and racial inequality that places downward pressure on job quality across the economy, workers, consumers, policymakers, and regulators must not be left in the dark about the surveillance and labor management technologies that businesses that use digital labor platforms are using.</text>
+            </paragraph>
+            <paragraph id="idcda25f233cc742759104cec78f28d0b2">
+                <enum>(20)</enum>
+ <text>All workers, businesses, and consumers in the United States, stand to benefit from the establishment of clear rules requiring transparency and accountability around the use of electronic monitoring and automated decision-making systems by businesses that use digital labor platforms to manage work.</text>
+            </paragraph>
+        </section>
+        <section id="id33613e45f3144d7dba21c837f0566411">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id6b18a8e821274f30a99be2b751e050c2"> <enum>(1)</enum> <header>Adverse action</header> <text>The term <term>adverse action</term> means an action taken by a covered digital labor platform provider with respect to an app-based worker that a reasonable person would find negatively impacts the app-based worker’s access to or terms, conditions, or privileges of work, including fewer (by volume or frequency) or less favorable work assignments or offers, less or unfavorable hours or shifts, reduced access to bonuses, incentives, or other benefits, temporary, permanent, or indefinite suspension, deactivation or termination, restriction of access to the platform, failure to promote, failure to pay, and reductions in pay.</text>
+            </paragraph>
+            <paragraph id="idddb5f235ff8a49e89e08f353c292d9d4">
+                <enum>(2)</enum>
+                <header>Aggregated app-based worker data</header>
+ <text>The term <term>aggregated app-based worker data</term> means data with respect to multiple app-based workers that is combined or collected together in a summary or other form that prevents the identification of any specific app-based worker.</text>
+            </paragraph>
+            <paragraph id="id9d0dbdc3cf6c4cd4b4b869fc2225201c">
+                <enum>(3)</enum>
+                <header>App-based worker</header>
+ <text>The term <term>app-based worker</term>, with respect to a covered digital labor platform provider, means an individual who performs work or provides services for remuneration on or through the covered digital labor platform of the covered digital labor platform provider, regardless of whether the individual is compensated by the covered digital labor platform provider or another person.</text>
+            </paragraph>
+            <paragraph id="id8a681af029374ae09bd721fa6371eb9f">
+                <enum>(4)</enum>
+                <header>Applicant</header>
+ <text>The term <term>applicant</term>, with respect to a covered digital labor platform, means an individual who has signed up for, applied for, activated, or created an account in order to provide services on or through the covered digital labor platform of a covered digital labor platform provider as an app-based worker but has not yet been approved for or offered work through the covered digital labor platform.</text>
+            </paragraph>
+            <paragraph id="id7b6935ecc5c84a229d536141532387ba">
+                <enum>(5)</enum>
+                <header>Attribute</header>
+ <text>The term <term>attribute</term> includes, as applicable, the tenure, demographics, reviews, acceptance rate, part-time status, average weekly hours, and location of an app-based worker.</text>
+            </paragraph>
+            <paragraph id="iddb7bad5df0394d41a3bdadf77f20d46b">
+                <enum>(6)</enum>
+                <header>Authorized agent</header>
+ <text>The term <term>authorized agent</term> means a person (other than a covered digital labor platform provider or a vendor or affiliated person of the provider) that an app-based worker has authorized to receive disclosures from a covered digital labor platform in accordance with section 7, including a labor organization.</text>
+            </paragraph>
+            <paragraph id="id824e0f047a9a4ccaae75d6f6ad31f3e0">
+                <enum>(7)</enum>
+                <header>Automated decision system</header>
+                <subparagraph id="id41786f7cc77e4e22a0f67800f9400e94">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+ <text>The term <term>automated decision system</term> means any tool, software, system, process, function, program, method, model, or formula using, or designed with, computation to issue an automated decision system output that is used to augment, assist, or replace human judgment, decision making, or policy implementation.</text>
+                </subparagraph>
+                <subparagraph id="id76d4f63c4bac41cebf72646b16e9783c">
+                    <enum>(B)</enum>
+                    <header>Exclusions</header>
+ <text>Notwithstanding subparagraph (A), the term <term>automated decision system</term> does not include any spam email filter, firewall, antivirus software, calculator, database, dataset, or other compilation of data.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id1974193104b04b7d807d2954bd02b41b">
+                <enum>(8)</enum>
+                <header>Automated decision system output</header>
+ <text>The term <term>automated decision system output</term> means any information, data, assumption, prediction, scoring, classification, recommendation, decision, or conclusion generated by an automated decision system.</text>
+            </paragraph>
+            <paragraph id="id0a75936aa96a4ddbb839fd9070b73780">
+                <enum>(9)</enum>
+                <header>Commerce; person</header>
+ <text>The terms <term>commerce</term> and <term>person</term> have the meanings given the terms in section 3 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>).</text>
+            </paragraph>
+            <paragraph id="idf9ae5bc7f6a2436e939305ba72b7bdd7">
+                <enum>(10)</enum>
+                <header>Covered digital labor platform</header>
+                <subparagraph id="idff32cd96018846348ce733fd23bf382a">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+ <text>The term <term>covered digital labor platform</term> means a platform provided, offered, or used by a covered digital labor platform provider that—</text>
+                    <clause id="idbd8de9de19794dc899ab8ec038040d2e">
+                        <enum>(i)</enum>
+ <text>is provided, at least in part, through electronic means such as an online-enabled application, internet site, or mobile application;</text>
+                    </clause>
+                    <clause id="id524419d8c9184bd9ae3227bab475ce75">
+                        <enum>(ii)</enum>
+ <text>provides services performed by an app-based worker at the request of a consumer;</text>
+                    </clause>
+                    <clause id="id17726d6e1b414b3f803b781e90066951">
+                        <enum>(iii)</enum>
+ <text>involves the facilitation of work to be performed by an individual in exchange for payment, regardless of whether such work is performed online or in a certain geographic location; and</text>
+                    </clause>
+                    <clause id="id0a8a7726db894fcfb4a0906231a01ae6">
+                        <enum>(iv)</enum>
+ <text>involves the use of an automated decision-making system or electronic monitoring tool.</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="idbb478ffb74e94caf9d9a3b1e5aee1021">
+                    <enum>(B)</enum>
+                    <header>Exclusions</header>
+                    <clause commented="no" display-inline="no-display-inline" id="idd67eaa0636f64bf8af54df34dbd73d1e">
+                        <enum>(i)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Notwithstanding subparagraph (A), the term <term>covered digital labor platform</term> does not include—</text>
+                        <subclause id="id65b50711d2384defa1ef43100c02e86b">
+                            <enum>(I)</enum>
+ <text>any platform that—</text> <item id="idf0c10f4f30364ff7bb12f1bd9ebdcc2a"> <enum>(aa)</enum> <text>only provides the means by which service providers can reach an end-user, customer, or recipient, without involvement of the platform in the terms or conditions of the work; or</text>
+                            </item>
+                            <item id="idf6172d1700ef41cc81e6494638d72983">
+                                <enum>(bb)</enum>
+ <text>only organizes the activities of volunteers; or</text> </item> </subclause> <subclause id="id464d9431c79245029f56e53ca71b9f2a"> <enum>(II)</enum> <text>any platform that has the primary purpose of exploiting or sharing real property assets for short-term accommodations or that allows an individual who is not a professional to resell goods.</text>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idbfe14d4c3eb64d4fa9c63a32eed88291">
+                        <enum>(ii)</enum>
+                        <header>Burden of proof</header>
+ <text>A person providing, offering, or using a platform that the person believes is a platform described in subclause (I) or (II) shall have the burden of proof to establish that the platform is a platform described in such a subclause for purposes of any enforcement activity taken under section 9.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id4e9082018ba540a68531fd1f33096f97">
+                <enum>(11)</enum>
+                <header>Covered digital labor platform provider</header>
+ <text>The term <term>covered digital labor platform provider</term>—</text> <subparagraph id="idc6669f95703942aab1194c9d394ad012"> <enum>(A)</enum> <text>means a person engaged in commerce or an industry affecting commerce that employs an app-based worker to perform work or provide services for remuneration on or through the covered digital labor platform of the person, or that otherwise engages, arranges, or facilitates the performance of such work or provision of such services, regardless of whether the app-based worker is compensated by such person or another person; and</text>
+                </subparagraph>
+                <subparagraph id="id78b360a555ae40aebb054c79f568b5a1">
+                    <enum>(B)</enum>
+ <text>includes any successor in interest of such person and any person who acts directly or indirectly in the interest of the covered digital labor platform provider in relation to an app-based worker.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id4e1b05335bb5436f8ed5b019f1d24ffc">
+                <enum>(12)</enum>
+                <header>Data</header>
+ <text>The term <term>data</term>, used with respect to an app-based worker, means any information that identifies, relates to, describes, or could reasonably be linked, directly or indirectly, with a particular app-based worker, regardless of how the information is collected, inferred, or obtained, including the following:</text>
+                <subparagraph id="id13c568b0ba8b47b09e536c5680994dbb">
+                    <enum>(A)</enum>
+ <text>Personal identity information and characteristics, such as the app-based worker’s name, address or other contact information, demographic information, government-issued identification number, citizenship and familial status, criminal background, employment history, financial history, health status or history, and information regarding immutable characteristics.</text>
+                </subparagraph>
+                <subparagraph id="id140fa7d0a3d6462c9f553f131a7b9381">
+                    <enum>(B)</enum>
+ <text>Any data related to the work activities of an app-based worker.</text> </subparagraph> <subparagraph id="id0d8146f128164ebe90c2d04c803b4487"> <enum>(C)</enum> <text>Online information with respect to the app-based worker, including any internet protocol address used by, social media activity of, or other digital sources or unique identifiers associated with the app-based worker.</text>
+                </subparagraph>
+                <subparagraph id="idb35d5d99e9c04d4c9291ab108c991095">
+                    <enum>(D)</enum>
+ <text>Individual behavior or preferences, including observable or measurable actions, habits, preferences, interests, or vulnerabilities, including the individual’s political, personal, or professional affiliations, web browsing history, purchase history, financial circumstances, or consumer behaviors.</text>
+                </subparagraph>
+                <subparagraph id="idd216954334054ca4b3473f38fca87e9e">
+                    <enum>(E)</enum>
+ <text>Biometric information, including imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template, such as a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.</text>
+                </subparagraph>
+                <subparagraph id="idbf777e3748cb4ff98964ae350df807f7">
+                    <enum>(F)</enum>
+ <text>Inferences drawn from any of the data described in this paragraph, including internally generated inferences, or worker profiles generated by inferences, by or for the covered digital labor platform provider.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idd311f1e6b9e34295a2d3bbc6b6abc50a">
+                <enum>(13)</enum>
+                <header>Electronic monitoring tool</header>
+ <text>The term <term>electronic monitoring tool</term> means any system, application, or instrument that facilitates the collection of data concerning the activities, communications, actions, biometrics, attributes, or behaviors of an app-based worker by any means other than direct observation by another individual, including through the use of a computer, telephone, wire, radio, camera, electromagnetic, photoelectronic, or photo-optical system.</text>
+            </paragraph>
+            <paragraph id="id77547e32fe6e4aa386956d515d79e7af">
+                <enum>(14)</enum>
+                <header>Employ</header>
+ <text>The term <term>employ</term> has the meaning given such term in section 3 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id53bd380ac2ac4d349b39138316f2028b">
+                <enum>(15)</enum>
+                <header>Labor organization</header>
+ <text>The term <term>labor organization</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id7eaa7f7927af424e96bf185b74a59e70"> <enum>(A)</enum> <text display-inline="yes-display-inline">a labor organization, as such term is defined in section 2 of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/152">29 U.S.C. 152</external-xref>); or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id95f558ed4f114b039d111370752501af">
+                    <enum>(B)</enum>
+ <text>the collective bargaining representative of a craft or class of employees for purposes of the Railway Labor Act (<external-xref legal-doc="usc" parsable-cite="usc/45/151">45 U.S.C. 151 et seq.</external-xref>).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id750bdd2400fb46cea01cd051a9b5d43e">
+                <enum>(16)</enum>
+                <header>Individualized</header>
+ <text>The term <term>individualized</term> means data described in subparagraph (A), (C), (D), (E), or (F) of paragraph (12) that is—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id20babba0639249e9aa9e347c2df34b74">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">specific to a specific app-based worker or group, band, class, or tier of app-based workers; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idd25bc2e11b86478d9325f5dc434e6497">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">inferred about a specific app-based worker or group, band, class, or tier of app-based workers based on other such data.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id6baa07f14b3a41b9bc6f1236dfc7cc81">
+                <enum>(17)</enum>
+                <header>On-demand</header>
+ <text>The term <term>on-demand</term> means a service available to a waiting, time-sensitive consumer after the consumer makes a request or places an order for such service via a covered digital labor platform.</text>
+            </paragraph>
+            <paragraph id="id265e35be09a64fc5ae4849c18e8f6ed8">
+                <enum>(18)</enum>
+                <header>Predispute arbitration agreement</header>
+ <text>The term <term>predispute arbitration agreement</term> means any agreement to arbitrate a dispute that has not yet arisen at the time of the making of the agreement.</text>
+            </paragraph>
+            <paragraph id="id2495a700599241369744ff2d58e759b1">
+                <enum>(19)</enum>
+                <header>Predispute joint-action waiver</header>
+ <text>The term <term>predispute joint-action waiver</term> means an agreement, including as part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.</text>
+            </paragraph>
+            <paragraph id="idb7a8da31c56b4941b97c80a9dee6e9ec">
+                <enum>(20)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Labor.</text> </paragraph> <paragraph id="id387d0528fc634de79c3467099a6d4e23"> <enum>(21)</enum> <header>Take rate</header> <text>The term <term>take rate</term>, with respect to a covered digital labor platform provider that offers a consumer any on-demand transportation services, means the percentage of the total amount such a covered digital labor platform provider charges to a consumer for such a service provided on or through the covered digital labor platform, exclusive of any tip, that is not paid to an app-based worker as remuneration with respect to that service.</text>
+            </paragraph>
+            <paragraph id="id2b2beeb882ca4fce8f807e3627d66cee">
+                <enum>(22)</enum>
+                <header>Time on task</header>
+ <text>The term <term>time on task</term>, with respect to an app-based worker performing on-demand services, means an amount of time that begins when an app-based worker is assigned or accepts a work assignment on a covered digital labor platform for the performance of a service and ends when—</text>
+                <subparagraph id="idb1367918f76d44e49111511109a88b68">
+                    <enum>(A)</enum>
+ <text>the work assignment is completed; or</text> </subparagraph> <subparagraph id="idf828926be9c1450880791d19ea98abad"> <enum>(B)</enum> <text>the work assignment is cancelled.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idf29377bd6d1845ac96df80c5438c756f">
+                <enum>(23)</enum>
+                <header>Time worked</header>
+ <text>The term <term>time worked</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id5d4fb2fcb0a84479ad45eed0ea1d14a7"> <enum>(A)</enum> <text display-inline="yes-display-inline">with respect to an app-based worker providing on-demand services, includes all time that an app-based worker is logged into a covered digital labor platform and available to perform services on or through the covered digital labor platform; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idde02605666534340869835c6e9073cd8">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">with respect to an app-based worker who works shifts or blocks of time that are in any way scheduled in advance of performing the work, includes all time from when the app-based worker reports to work through the completion of assigned tasks or shift work, as further defined and delimited in regulations by the Secretary.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idbab67ffd2c4042a8b70c3a156b7f9294">
+                <enum>(24)</enum>
+                <header>Vendor</header>
+ <text>The term <term>vendor</term> means any entity or other third party engaged by a covered digital labor platform provider (or by any contractor of the covered digital labor platform provider) to provide software, technology, or any related service that is used to collect, store, analyze, or interpret app-based worker data.</text>
+            </paragraph>
+            <paragraph id="id1078c7300a294bbe85f1db5175386f82">
+                <enum>(25)</enum>
+                <header>Work assignment</header>
+ <text>The term <term>work assignment</term> means an assignment or offer on a covered digital labor platform to provide services for a consumer that is assigned to or accepted by an app-based worker for the performance of services with respect to that assignment or offer.</text>
+            </paragraph>
+            <paragraph id="iddfaecaedb6134e31aa565d93e071fadb">
+                <enum>(26)</enum>
+                <header>Work-related decision</header>
+ <text>The term <term>work-related decision</term> means any decision made by a covered digital labor platform provider with respect to—</text>
+                <subparagraph id="id8a25e00fce614a16a0f3958391677bc4">
+                    <enum>(A)</enum>
+ <text>hiring, engaging, or promoting an app-based worker;</text> </subparagraph> <subparagraph id="id6ecb690599f949278de63bdae5777b91"> <enum>(B)</enum> <text>taking an adverse action against an app-based worker; or</text>
+                </subparagraph>
+                <subparagraph id="id40c76446171d47a6b1537e0fc7769180">
+                    <enum>(C)</enum>
+ <text>the terms, privileges, or conditions of the work of an app-based worker, including a decision that affects or could affect the pay, the benefits, other compensation, the schedule of work, the hours of work, an evaluation, a performance rating, the job content, an assignment of work, the access to work, the productivity requirements, or the workplace health and safety of the app-based worker.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="iddf92a41eb3534540905394ed1bd235a3">
+            <enum>4.</enum>
+            <header>Transparency</header>
+            <subsection id="idea7ae68e4c88423f81def01a8675bd51">
+                <enum>(a)</enum>
+                <header>Disclosures to workers</header>
+                <paragraph id="id850443846f5b47bcb99e9742081b41f6">
+                    <enum>(1)</enum>
+                    <header>Notice of electronic monitoring and automated decision systems</header>
+                    <subparagraph id="id6b963d3871184c38a92f397b2bfe7a27">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>A covered digital labor platform provider that uses or intends to use an electronic monitoring tool or automated decision system shall, in accordance with subparagraph (B), provide to each app-based worker and applicant of the covered digital labor platform provider who is, or will be, subject to the electronic monitoring tool or automated decision system a notice that provides—</text>
+                        <clause id="id4dd701f442094011aa50212590a360a5">
+                            <enum>(i)</enum>
+ <text>a description of how any electronic monitoring tool or automated decision system will be used by the covered digital labor platform provider;</text>
+                        </clause>
+                        <clause id="id7317493bd3c64b5090ae09a60208e810">
+                            <enum>(ii)</enum>
+ <text>a description of the data intended to be or actually collected by the electronic monitoring tool or used in an automated decision system;</text>
+                        </clause>
+                        <clause id="ida57d5f71dd9f4c679ce1e16eefc0d5ee">
+                            <enum>(iii)</enum>
+ <text>in the case of the use of an electronic monitoring tool—</text> <subclause id="id5a083676deae400ab447df4d54707bf3"> <enum>(I)</enum> <text>a description of any activity, location, communication, task, or job role that will be electronically monitored by the electronic monitoring tool;</text>
+                            </subclause>
+                            <subclause id="idd2837b2bc6f44438a1881aac28a4e32c">
+                                <enum>(II)</enum>
+ <text>whether, how, and what data collected using the electronic monitoring tool will be used as an input in an automated decision system;</text>
+                            </subclause>
+                            <subclause id="idf1b8a3f03e8e45de9a56d3a66962a646">
+                                <enum>(III)</enum>
+ <text>whether, how, and what data collected using an electronic monitoring tool will be used (whether used with or without an automated decision system) to make, or assist in making, decisions regarding the compensation of an app-based worker or applicant and offers or assignments of work for the app-based worker or applicant; and</text>
+                            </subclause>
+                            <subclause id="ida905f202349f4cd297a48d6bfc59f43a">
+                                <enum>(IV)</enum>
+ <text>a description of where any data collected by the electronic monitoring tool will be stored, the length of time the data will be retained, who may access the data, and how the data may be accessed by a person who is authorized to access the data;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id7670fd47a2e44ccbbda2b17049d451f9">
+                            <enum>(iv)</enum>
+ <text>in the case of the use of an automated decision system—</text> <subclause id="id0fd66148f5d04fa69aae0a029b34dad1"> <enum>(I)</enum> <text>a description of the methods, processes, inputs, attributes, and data that the covered digital labor platform provider uses or intends to use, through the automated decision system, to determine or assist in determining the compensation of the app-based worker or applicant, including pay rates, assignments, bonuses, or other benefits; and</text>
+                            </subclause>
+                            <subclause id="idd5d66f5a4afd4f7aadec9447c7ddd7df">
+                                <enum>(II)</enum>
+ <text>a description of the categories of data and the main parameters of that data for the automated decision system and the relative importance and weights of the main parameters in the automated decision system for purposes of creating inferences or making work-related decisions regarding the app-based worker or applicant, including how data regarding the app-based worker or applicant (including regarding attributes of the worker or applicant) will influence automated decision system outputs or the outcome of any work-related decision and whether (and, if so, how) the automated decision system outputs will be individualized for the app-based worker or applicant;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id2753a6afa8b645ad878d293ed77c9af5">
+                            <enum>(v)</enum>
+ <text>the methods, processes, inputs, attributes, or data by which the covered digital labor platform provider determines the amount charged to a consumer for any good or service provided through the covered digital labor platform and the relative weights of such methods, processes, inputs, attributes, or data in such determination;</text>
+                        </clause>
+                        <clause id="ida6b10de340d943858ad04527947bcba7">
+                            <enum>(vi)</enum>
+ <text>the methods, processes, inputs, attributes, or data by which the covered digital labor platform provider determines how, whether, and when to provide the app-based worker with a work assignment and what work assignment the covered digital labor platform provider will offer or provide to the app-based worker; and</text>
+                        </clause>
+                        <clause id="id04c52b9df7bb4cfc846227cf5917afff">
+                            <enum>(vii)</enum>
+ <text>the specific grounds, conditions, and reasons for which a covered digital labor platform provider may take any adverse action with respect to the app-based worker.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idf7d05b1b76a249f7ab99831666249d52">
+                        <enum>(B)</enum>
+                        <header>Timing</header>
+ <text>A notice under subparagraph (A) shall be provided—</text> <clause id="idcae7ddb7ce554401a80d38883b861054"> <enum>(i)</enum> <text>with respect to any applicant, at a time that is after the applicant has signed up for, applied for, activated, or created an account and before the applicant performs any work or provides any service for remuneration for the covered digital labor platform provider or on or through a covered digital labor platform;</text>
+                        </clause>
+                        <clause id="idff42db884075447c86836ea32b080ad8">
+                            <enum>(ii)</enum>
+ <text>with respect to an app-based worker—</text> <subclause id="id8f7e4e757d16403ab0f0dafba6aef939"> <enum>(I)</enum> <text>for any electronic monitoring tool or automated decision system that is in effect on the day before the date of enactment of this Act, not later than the later of—</text>
+                                <item id="id525a0af58aca440a93de3473eab464b9">
+                                    <enum>(aa)</enum>
+ <text>30 days after the date on which a final rule to carry out this section takes effect; or</text>
+                                </item>
+                                <item id="id831b6194f54844ba9b436cc9cbc7faec">
+                                    <enum>(bb)</enum>
+ <text>180 days after the date of enactment of this Act; or</text>
+                                </item>
+                            </subclause>
+                            <subclause id="idb34443c616e84bd68246de7966f46bad">
+                                <enum>(II)</enum>
+ <text>for any other electronic monitoring tool or automated decision system, as soon as practicable, but not less than 96 hours before the electronic monitoring tool or automated decision system takes effect with respect to that app-base worker;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id1f5858908d5849ed9cf57f0de4d8b543">
+                            <enum>(iii)</enum>
+ <text>annually to each app-based worker who performed work on or through the covered digital labor platform of the covered digital labor platform provider during the year preceding the date the notice is provided;</text>
+                        </clause>
+                        <clause id="id4c39ee9d89224adb937c47cc1457c114">
+                            <enum>(iv)</enum>
+ <text>in the app-based worker’s primary language; and</text> </clause> <clause id="idad2a18f447784a5db5eb764fcecff2c0"> <enum>(v)</enum> <text>to an app-based worker or applicant not later than 5 business days after any request by the app-based worker or applicant.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id074856f373d6452690ac3f2ec436aef2">
+                    <enum>(2)</enum>
+                    <header>Comprehensive and detailed use notice</header>
+                    <subparagraph id="id3298aa2cb71d429288fc5920e16469ae">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>A covered digital labor platform provider that uses an electronic monitoring tool or automated decision system to make or assist in making a work-related decision with respect to an app-based worker that substantially impacts the compensation or work assignments of the app-based worker or the access of the app-based worker to the covered digital labor platform shall, as described in subparagraph (B), provide to the app-based worker a notice that includes—</text>
+                        <clause id="idfc6bc3e7a4db4f72a1a4d5b1d74b36e5">
+                            <enum>(i)</enum>
+ <text>a description of the data and attributes used in the work-related decision with respect to the app-based worker;</text>
+                        </clause>
+                        <clause id="id87fdc47bd8c3418e91142b5f1bbfa492">
+                            <enum>(ii)</enum>
+ <text>in the case of the use of an automated decision system, a description of the inputs for the automated decision system and the weight of each for purposes of the work-related decision, the automated decision system outputs with respect to that work-related decision, and the method by which the worker can obtain the range of possible outputs, including aggregate output statistics; and</text>
+                        </clause>
+                        <clause id="iddd4ab14bb0524cecbe3eac83d809e033">
+                            <enum>(iii)</enum>
+ <text>the metadata used for the work-related decision, including for each variable of the metadata the name, attribute, value, what the variable captures, and examples of the values it captures.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id22c67b8466e54d9195e3da28cf1ff901">
+                        <enum>(B)</enum>
+                        <header>Timing</header>
+ <text>A notice under subparagraph (A) shall be provided to an app-based worker—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id7a19a11fb35c4510b822c3ee9cdbc328">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">not later than 5 business days after the initial request by the app-based worker for the notice; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idf9d9f03aae80457db2dd8661b82b46be">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">if the app-based worker requests subsequent notices on an ongoing basis, not more than 48 hours after the covered digital labor platform provider uses an electronic monitoring tool or automated decision system with respect to the app-based worker as provided in subparagraph (A).</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idd6503d2d30fe4732ae1e262bce85977a">
+                    <enum>(3)</enum>
+                    <header>Additional disclosures</header>
+ <text>Before the first time that an app-based worker performs any work or provides any service for remuneration on or through a covered digital labor platform or, in the case of an app-based worker who has already performed such work or provided such services on or before the date of enactment of this Act, not later than 365 days after the date of enactment of this Act, the covered digital labor platform provider shall notify the app-based worker of—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id60418e86cedd4218bc371c2e8e78d881">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">all required disclosures and the obligations of the covered digital labor platform under this Act; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id200b0f66b7ac4f98bcdc5a9a2f04dc11">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">all other applicable minimum pay and benefits standards that apply to the app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide8b6eb9bb20c4a1a9bbb61353be2cb13">
+                    <enum>(4)</enum>
+                    <header>Itemized receipts</header>
+                    <subparagraph id="iddf6bc5545e6645b49802996a734ed309">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>At the end of each work assignment of an app-based worker, the covered digital labor platform provider shall disclose to the app-based worker each component of the pay of the app-based worker, including, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary—</text>
+                        <clause id="id45026695f90e4ab7927e074ad9e0373a">
+                            <enum>(i)</enum>
+ <text>the total amount paid by the consumer to the covered digital labor platform provider for the work assignment performed by the app-based worker exclusive of any tip provided to the app-based worker as described in clause (ii);</text>
+                        </clause>
+                        <clause id="idcebb3e52e9804c1eb46f65008ba74087">
+                            <enum>(ii)</enum>
+ <text>the amount of any tip paid by the consumer through the covered digital labor platform provider as gratuity for the work of the app-based worker;</text>
+                        </clause>
+                        <clause id="id71c88acb38e346cdaacda123147cbb5c">
+                            <enum>(iii)</enum>
+ <text>the amount paid to the app-based worker by the covered digital labor platform provider excluding the tip described in clause (ii) and any reimbursement by the provider of costs incurred by the app-based worker;</text>
+                        </clause>
+                        <clause id="id03552de2bd464618a919632ab25199d6">
+                            <enum>(iv)</enum>
+ <text>the take rate for the work assignment;</text> </clause> <clause id="id5d6950318cde4113aa6625e6b01a431b"> <enum>(v)</enum> <text>the total distance traveled by the app-based worker for the work assignment in miles;</text>
+                        </clause>
+                        <clause id="ide283f150144f4b45957f8aab4921810b">
+                            <enum>(vi)</enum>
+ <text>whether the work assignment contributed to or was related to a bonus or other incentive for the app-based worker;</text>
+                        </clause>
+                        <clause id="id4d3894f293a54d4f8c0b7af1c95a3c87">
+                            <enum>(vii)</enum>
+ <text>total time worked by the app-based worker for the work assignment; and</text>
+                        </clause>
+                        <clause id="id9e99ac926d5a40a5a1b8682a49a148df">
+                            <enum>(viii)</enum>
+ <text>information on whether that work assignment was offered to any other app-based worker, and if so, the amount of compensation offered to the other app-based worker.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id321b939cd2a1415e99a3faf578b32956">
+                        <enum>(B)</enum>
+                        <header>Update of disclosure</header>
+ <text>A covered digital labor platform provider that provides a disclosure under subparagraph (A) may update the disclosure for a period of not more than 48 hours after the disclosure is provided to the app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb8916f9a18cd4bdbb922c7fb45315319">
+                    <enum>(5)</enum>
+                    <header>Weekly pay statements</header>
+ <text>Not less often than once a week, each covered digital labor platform provider shall disclose to each app-based worker of the covered digital labor platform provider each component of pay of the app-based worker for the week (referred to in this paragraph as the <quote>covered week</quote>), including, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary—</text>
+                    <subparagraph id="idff48b65203724c398618ced16e39f79e">
+                        <enum>(A)</enum>
+ <text>the total amount paid to the app-based worker by the covered digital labor platform provider during the covered week excluding the amount of any tips paid to the app-based worker and any reimbursement by the provider of costs incurred by the app-based worker;</text>
+                    </subparagraph>
+                    <subparagraph id="idd2adb08434904727ab4d54a53eb040d2">
+                        <enum>(B)</enum>
+ <text>the total amount paid to the covered digital labor platform provider for all work assignments by the app-based worker during the covered week by all consumers, excluding any tips paid to the app-based worker;</text>
+                    </subparagraph>
+                    <subparagraph id="idb6ad8ff7582745428edff8eba0106b5f">
+                        <enum>(C)</enum>
+ <text>the weekly average take rate for all consumer payments for all work assignments of the app-based worker;</text>
+                    </subparagraph>
+                    <subparagraph id="id864d215dea0146de98853e386a442d5b">
+                        <enum>(D)</enum>
+ <text>the total amount of tips paid by consumers to the app-based worker for work assignments in the covered week;</text>
+                    </subparagraph>
+                    <subparagraph id="id1a8f546169584121829a4ffe0a5bf586">
+                        <enum>(E)</enum>
+ <text>the total amount of compensation paid by the covered digital labor platform provider to the app-based worker for work assignments in the covered week, including any amount provided as a tip;</text>
+                    </subparagraph>
+                    <subparagraph id="id774ff106bcc64bfeb4221f4edfc254b7">
+                        <enum>(F)</enum>
+ <text>the number of work assignments completed by the app-based worker in the covered week;</text>
+                    </subparagraph>
+                    <subparagraph id="id019345b39af645128285b892027e6982">
+                        <enum>(G)</enum>
+ <text>the total amount of time on task by the app-based worker in the covered week;</text>
+                    </subparagraph>
+                    <subparagraph id="id3db956437ad04f76aeded8352079d3c2">
+                        <enum>(H)</enum>
+ <text>the total time worked by the app-based worker in the covered week;</text>
+                    </subparagraph>
+                    <subparagraph id="idb11921c8cd62488f87ea741835d7dcc6">
+                        <enum>(I)</enum>
+ <text>the hourly wage of the app-based worker, expressed as the ratio of the amount described in subparagraph (A) to the amount of time described in subparagraph (H);</text>
+                    </subparagraph>
+                    <subparagraph id="id6236af7c21d648758669ab4166a8dc58">
+                        <enum>(J)</enum>
+ <text>the total miles traveled for time worked and time on task by the app-based worker in the covered week; and</text>
+                    </subparagraph>
+                    <subparagraph id="idf5b1e26b500c485293ce9a34f56e77ba">
+                        <enum>(K)</enum>
+ <text>for each work assignment offered by the covered digital labor platform provider to the app-based worker that was not completed by the app-based worker in the covered week, the amount of compensation offered.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id630a01b5a8b9484db12f545c5a1cbc6e">
+                    <enum>(6)</enum>
+                    <header>Format</header>
+ <text>Each notice, disclosure, or notification under this subsection shall be provided in the form and manner described in regulation by the Secretary, including that the notice, disclosure, or notification is provided—</text>
+                    <subparagraph id="id41d55ba0335848518cc361a42131e401">
+                        <enum>(A)</enum>
+ <text>in an electronic document that is machine readable;</text> </subparagraph> <subparagraph id="ided3c01603c6749b0906fba99c1cd925e"> <enum>(B)</enum> <text>in an easily accessible form, including on the account of an app-based worker or applicant (regardless of whether the covered digital labor platform provider has deactivated, suspended, or terminated the app-based worker) or posted on the covered digital labor platform, and available to download;</text>
+                    </subparagraph>
+                    <subparagraph id="idd6e8eea0e712417587fbf6f34067d2cf">
+                        <enum>(C)</enum>
+ <text>in a manner that enables the app-based worker or applicant to read, review, save, and reasonably access the notice, disclosure, or notification for not less than 48 months after the date on which the notice, disclosure, or notification was provided;</text>
+                    </subparagraph>
+                    <subparagraph id="id2b840ef2c1314d7baf797220e5e0bb2c">
+                        <enum>(D)</enum>
+ <text>in a manner that ensures the information in the notice, disclosure, or notification is clearly and effectively communicated, including in the language the app-based worker identifies as their primary language; and</text>
+                    </subparagraph>
+                    <subparagraph id="id0f73748b1fe8431883ae71dc9357b5af">
+                        <enum>(E)</enum>
+ <text>as applicable, through a posting on the covered digital labor platform in English and any other language that more than 20 percent of app-based workers of the relevant covered digital labor platform provider identify as their primary language.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idcb0f78e70cbf4cd68deb6a5f234e89d3">
+                <enum>(b)</enum>
+                <header>Disclosures to consumers</header>
+ <text>At the end of each work assignment of an app-based worker, the covered digital labor platform provider shall disclose, through electronic correspondence, to the consumer with respect to the work assignment, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary—</text>
+                <paragraph id="idd36743a90e0a47d58b70818da81faa12">
+                    <enum>(1)</enum>
+ <text>the total amount paid by the consumer for the work assignment, excluding any tip;</text>
+                </paragraph>
+                <paragraph id="idf44eba50e1884fbbbb6452a5c1195edd">
+                    <enum>(2)</enum>
+ <text>the amount added as a tip from the consumer and any reimbursement by the provider of costs incurred by the app-based worker;</text>
+                </paragraph>
+                <paragraph id="id65b05fd9675c4835a16c01d5b2798bc5">
+                    <enum>(3)</enum>
+ <text>the amounts paid to the app-based worker by the covered digital labor platform provider, excluding the amount described in paragraph (2); and</text>
+                </paragraph>
+                <paragraph id="idb70942c7307b4e13a978156270b9679a">
+                    <enum>(4)</enum>
+ <text>the take rate for the work-assignment.</text> </paragraph> </subsection> <subsection id="idc081fcf46df1423caa0f9d0afbf97bd0"> <enum>(c)</enum> <header>Additional disclosures</header> <paragraph id="id8a8eed16187a47b582502cd9327361ea"> <enum>(1)</enum> <header>Reporting to the agency</header> <text>On a quarterly basis and in accordance with any rule prescribed by the Secretary, each covered digital labor platform provider shall electronically disclose to the Secretary—</text>
+                    <subparagraph id="idb83e0942aa644fdc9d07d890d3f0ad77">
+                        <enum>(A)</enum>
+ <text>copies of the notices required under subsection (a)(1);</text> </subparagraph> <subparagraph id="id50b261a6195b406c9646b30fbd2dd67e"> <enum>(B)</enum> <text>aggregated app-based worker data regarding the information required to be provided to all app-based workers of the covered digital platform provider through the disclosures under subsection (a)(5) during the relevant quarter;</text>
+                    </subparagraph>
+                    <subparagraph id="id22a7c0a38eb342e0953c87d0eac90ba6">
+                        <enum>(C)</enum>
+ <text>the aggregated app-based worker data described under subparagraph (B), disaggregated by State and by certain metropolitan statistical areas (as identified by the Office of Management and Budget) selected, through regulations by the Secretary, based on geographic distribution across the regions of the United States, including in the Northeast, South, Midwest, and West;</text>
+                    </subparagraph>
+                    <subparagraph id="id99f003f0cda4406aa6165b5cb10ca04d">
+                        <enum>(D)</enum>
+ <text>the demographic data of app-based workers who completed a work assignment during the relevant quarter, based on self-reporting by app-based workers, as described in section 5(b);</text>
+                    </subparagraph>
+                    <subparagraph id="id5c973a2fc67f4103ad2d386fdb5335fb">
+                        <enum>(E)</enum>
+ <text>hourly wage data for app-based workers disaggregated by worker demographic; and</text>
+                    </subparagraph>
+                    <subparagraph id="id72b642f3b6134aeca5cefe088d217020">
+                        <enum>(F)</enum>
+ <text>any fees charged by the covered digital labor platform provider to an app-based worker in order to perform work, receive compensation for work, or provide services on or through the covered digital labor platform.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idad8f4ad83b9f42209f480040d1913d7f">
+                    <enum>(2)</enum>
+                    <header>Publication</header>
+                    <subparagraph id="id35ee04677f5342ba9b6fd08d3efbb293">
+                        <enum>(A)</enum>
+                        <header>Publication by covered digital labor platform provider</header>
+ <text>Each covered digital labor platform provider shall publish the data disclosed under paragraph (1), in an anonymized manner, on a public internet website of the covered digital labor platform provider in a machine readable and searchable format.</text>
+                    </subparagraph>
+                    <subparagraph id="id7199ec510ddb4cef8659a1da12d307f4">
+                        <enum>(B)</enum>
+                        <header>Publication by secretary</header>
+ <text>Not later than February 15 of each year, the Secretary shall make the data disclosed under paragraph (1) for the preceding calendar year, available to the public, which shall include posting the information, in an anonymized manner, on a public internet website of the Secretary in a searchable and downloadable format.</text>
+                    </subparagraph>
+                    <subparagraph id="idcb87d3c0d729454d89059efe125d4daa">
+                        <enum>(C)</enum>
+                        <header>Regulations</header>
+ <text>The Secretary shall issue regulations detailing and defining requirements with respect to the publications under subparagraphs (A) and (B) to ensure the accessibility and usability of the information in the publications and protect the anonymity of each app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id0b1ba2a4e7404667b8273ebd13695f43">
+            <enum>5.</enum>
+            <header>Accountability</header>
+            <subsection id="id31e67a810f904bb48d2245c933489c2e">
+                <enum>(a)</enum>
+                <header>Take rate cap</header>
+                <paragraph id="idc12056bd7b504a66bef52f4fee90bcd1">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>A covered digital labor platform provider that offers a consumer on-demand transportation services may not charge in excess of a 25 percent take rate for such service.</text>
+                </paragraph>
+                <paragraph id="id8139a43e61d94c1d82517fbf41d32cf0">
+                    <enum>(2)</enum>
+                    <header>Take rate offset limitation</header>
+ <text>A covered digital labor platform provider described in paragraph (1) may not impose a fee on an app-based worker unless the ratio of the amount that is paid by a consumer (exclusive of any tip) with respect to a work assignment and is not provided to an app-based worker as remuneration to the amount that is the total amount paid by the consumer (exclusive of any tip) with respect to such work assignment plus the amount of such fee (or a pro rata amount of such fee if the fee is paid in a lump sum) is not more than 25 percent.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idd8e1c92cf6194ee8aa20320d95b88082">
+                <enum>(b)</enum>
+                <header>Request for voluntary disclosures</header>
+ <text>Notwithstanding subsection (d), a covered digital labor platform provider shall provide every app-based worker of the covered digital labor platform provider an opportunity to disclose, subject to regulations promulgated by the Secretary in consultation with the Equal Employment Opportunity Commission, demographic data in a manner that protects the privacy of the app-based worker.</text>
+            </subsection>
+            <subsection id="id9c76a542d2dc4909a6a1781f64e98675">
+                <enum>(c)</enum>
+                <header>Individualized algorithmic wage setting</header>
+                <paragraph id="idd2295620831e47d6a53bbe5f874f7c32">
+                    <enum>(1)</enum>
+                    <header>Equal pay for equal work</header>
+ <text>A covered digital labor platform provider may not offer an amount of compensation for a work assignment to an app-based worker that is different than the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks unless the covered digital labor platform provider can clearly demonstrate that the difference in offered compensation is—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8303e9cc52fe490f89d10f970031a43a">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">based on cost differentials between the specific workers for performing the tasks involved in the work assignment; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idad80ba89c45a4b40b355ddbf049b5b01">
+                        <enum>(B)</enum>
+ <text>otherwise required by a collective bargaining agreement that applies to the app-based worker or the other app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id665a81d0962b48a6920b30f4a27b27e4">
+                    <enum>(2)</enum>
+                    <header>Surveillance wage setting</header>
+ <text>A covered digital labor platform provider may not use individualized data with respect to an app-based worker as an input in an automated decision system for purposes of informing compensation decisions for work assignments for the app-based worker or use any automated decision system output for such purposes if the output relied on or included such individualized data, unless the covered digital labor platform provider can clearly demonstrate that—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id67995be4c0f4498793cb7e0fc3161e93">
+                        <enum>(A)</enum>
+                        <clause commented="no" display-inline="yes-display-inline" id="id47489dbfd01340ed8fc3284c201faf09">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">any difference between the amount of compensation offered for the work assignment and the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks is, in accordance with paragraph (1)(A), based on cost differentials between the specific workers for performing the tasks involved in the work assignment; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id8aec0d5a7bd5403bb58133716966100e" indent="up1">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">such data is directly related to the tasks involved in the work assignment; or</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id21887835136341aa894f8fbd67e2dfb6">
+                        <enum>(B)</enum>
+ <text>any difference between the amount of compensation offered for the work assignment and the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks is, in accordance with paragraph (1)(B), otherwise required by a collective bargaining agreement that applies to the app-based worker or the other app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id36b97594e1bd48aebca644d3643fbc14">
+                    <enum>(3)</enum>
+                    <header>Exception</header>
+ <text>This subsection shall not apply with respect to an app-based worker of a covered digital labor platform provider if the covered digital labor platform provider plays no role in setting or determining—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id98b876d7771b44b3aef702087b82cec0">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the pay rate of the app-based worker; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbbd09350d76d40f1b8003b8fb89e4257">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the amount charged to a consumer for services provided by the app-based worker.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idc36f3d31f1f046ffb70807797f001b37">
+                <enum>(d)</enum>
+                <header>Data processing limitations</header>
+ <text>A covered digital labor platform provider may not—</text> <paragraph id="idde05b469717e448e9da6537905bfc8c9"> <enum>(1)</enum> <text>use electronic monitoring, an automated decision system, or worker data to infer immigration status, political opinion, religious or philosophical beliefs, disability status, health status or history, emotional or psychological state, sexual or gender orientation, or union sympathy or likelihood of organizing or otherwise asserting rights; or</text>
+                </paragraph>
+                <paragraph id="id7a9f4d6fa8124da8b8b85bf45bf47fcc">
+                    <enum>(2)</enum>
+ <text>collect an app-based worker’s data other than during time worked for the covered digital platform provider.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id4762425a0c7349e381e07a6d0bbf05d5" commented="no">
+                <enum>(e)</enum>
+                <header>Limiting deceptive patterns</header>
+ <text>A covered digital labor platform provider may not use any platform interface that contains unfair, covert, or deceptive information regarding compensation, including on the eligibility for bonuses, or that obscures or delays an app-based worker’s access to such information regarding compensation in a manner that inhibits the worker’s ability to make an informed decision about whether or how to perform work or provide services for remuneration on or through the covered digital labor platform of the covered digital labor platform provider.</text>
+            </subsection>
+        </section>
+        <section id="id8eb853f5ad244f1c8c820b54b52c060a">
+            <enum>6.</enum>
+            <header>Data preservation</header>
+            <subsection id="id0f11638dee514956a075d3d9eb9a61b7">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>A covered digital labor platform provider and each vendor of the covered digital labor platform provider—</text>
+                <paragraph id="iddef85a2388a5468ab07c44747f4b047f">
+                    <enum>(1)</enum>
+ <text>shall retain for 4 years contemporaneous records of any data regarding an app-based worker that is collected using an electronic monitoring tool or used as an automated decision system input;</text>
+                </paragraph>
+                <paragraph id="id4affb651bd6b4471b30c0195ae880c98">
+                    <enum>(2)</enum>
+ <text>may not sell, transfer, or disclose app-based worker data collected via an electronic monitoring tool or used as an automated decision system input to any other entity unless the sale, transfer, or disclosure is—</text>
+                    <subparagraph id="idb21efb3fa985431ba5828e0db26fc8b3">
+                        <enum>(A)</enum>
+ <text>pursuant to a request from an authorized agent of an app-based worker of the covered digital labor platform provider regarding the data of the app-based worker; or</text>
+                    </subparagraph>
+                    <subparagraph id="id02916245637f462fb2e1fed234836067">
+                        <enum>(B)</enum>
+ <text>is otherwise required under State or Federal law and the covered digital labor platform provides notice to the app-based worker; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id54048d479a5f4bde8d498a856051a758">
+                    <enum>(3)</enum>
+ <text>shall collect, process, store, and retain all data regarding an app-based worker in a manner that protects the privacy of the app-based worker (including protection from unauthorized access, destruction, use, modification, or disclosure) and in accordance with any regulation promulgated by the Secretary.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ide0d56099b0fd4711befabeec1ecd4948">
+                <enum>(b)</enum>
+                <header>Disclosure</header>
+ <text>Except as otherwise provided under section 4(a)(2)(B) with respect to a comprehensive and detailed use notice, a covered digital labor platform provider or vendor of the covered digital labor platform provider shall provide any data retained in accordance with this subsection with respect to an app-based worker or an individual who was an app-based worker to the app-based worker, individual, or authorized agent of the app-based worker not more than 5 business days after the covered digital labor platform provider or vendor receives the request from the app-based worker, individual, or authorized agent.</text>
+            </subsection>
+        </section>
+        <section id="id18a9be71ee5f4577be304d060f34836c">
+            <enum>7.</enum>
+            <header>Authorized agent authority</header>
+            <subsection id="id760c16a822314e9fbcdeff1e111b725b">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Pursuant to regulations issued by the Secretary, an app-based worker may, in writing, authorize a person to be the authorized agent of the app-based worker for purposes of receiving any required disclosure or notice from a covered digital labor platform provider under paragraphs (1), (2), (4), and (5) of section 4(a) or section 6(b) as if the authorized agent was the app-based worker.</text>
+            </subsection>
+            <subsection id="id4c9ee8aa873340a29eb502474211a540">
+                <enum>(b)</enum>
+                <header>Treatment of an authorized agent</header>
+                <paragraph id="idffed15c0d27744469086cad2de60950d">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>With respect to an app-based worker who authorizes an authorized agent under subsection (a), the covered digital labor platform provider of the app-based worker shall provide an additional copy of each notice or disclosure described in such subsection to the authorized agent at the time such notice or disclosure is due to the app-based worker and upon request by the authorized agent.</text>
+                </paragraph>
+                <paragraph id="id5ac93cb9abb3458e8d839b1c13975fe3">
+                    <enum>(2)</enum>
+                    <header>Information requests</header>
+ <text>A covered digital labor platform provider shall—</text> <subparagraph id="id15bc1a54152a42ebaca367edb357ff68"> <enum>(A)</enum> <text>provide a designated email address, which is prominently displayed on its website, to which an authorized agent can submit a request for a notice or disclosure described in subsection (a); and</text>
+                    </subparagraph>
+                    <subparagraph id="id42e71f8568cc4251b1b1b3412bff73ce">
+                        <enum>(B)</enum>
+ <text>provide the notice or disclosure—</text> <clause commented="no" display-inline="no-display-inline" id="idfba5fa803cf048189345268c35557701"> <enum>(i)</enum> <text display-inline="yes-display-inline">not later than 10 business days after an initial request is submitted; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id7d797776b83f45e3b287ad7daee79dca">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">thereafter, if applicable, at the same time any such disclosure or notice would otherwise be due to the app-based worker.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="ida462ce975867489bbab615f875164749">
+                <enum>(c)</enum>
+                <header>Privacy requirements for an authorized agent</header>
+ <text>An authorized agent authorized under subsection (a) may not use any personal information regarding an app-based worker, or any other information collected from or about the app-based worker, for any purposes other than the purposes specified in the written authorization of the app-based worker.</text>
+            </subsection>
+            <subsection id="id6005647f21724ba5bf76d4b874018aad">
+                <enum>(d)</enum>
+                <header>Notification of subpoena</header>
+                <paragraph id="id8a2dfefffe5e4bb59235a8228628c40f">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>An authorized agent authorized under subsection (a) may not disclose any information received from a covered digital labor platform with respect to an app-based worker to any government entity unless required to do so by a subpoena or other court order compelling production of such information.</text>
+                </paragraph>
+                <paragraph id="id85b42a14b2ab4dad87517ed62a78d6c3">
+                    <enum>(2)</enum>
+                    <header>Disclosure</header>
+ <text>An authorized agent that is required to produce information to a government entity as described in paragraph (1) shall notify the app-based worker who authorized the agent to receive such information.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id6192e491f8154d559d06bd0bbb6aebd6">
+            <enum>8.</enum>
+            <header>Whistleblower protections</header>
+            <subsection id="idb851a88b086d44c98f91c6b561b4158d">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>A covered digital labor platform provider may not discriminate or retaliate (including through intimidation, threats, coercion, deactivation, diminishment of compensation or access to the covered digital labor platform or work assignments, or harassment) against any app-based worker—</text>
+                <paragraph id="id7722c8be2f85407fbaeffe49e56778aa">
+                    <enum>(1)</enum>
+ <text>for exercising, or attempting to exercise, any right provided under this Act; or</text>
+                </paragraph>
+                <paragraph id="idd5947dd867ff4d2b8af52eda2189413d">
+                    <enum>(2)</enum>
+ <text>because the app-based worker (or another individual acting at the request of the app-based worker or an authorized agent of the app-based worker) has—</text>
+                    <subparagraph id="id80f8216588644eeb85fb0303784a3767">
+                        <enum>(A)</enum>
+ <text>filed a written or oral complaint to the covered digital labor platform provider, or a Federal, State, or local government entity of a violation of section 4, 5, or 6;</text>
+                    </subparagraph>
+                    <subparagraph id="idd43dc01b89d641368978ba1c2f18d118">
+                        <enum>(B)</enum>
+ <text>instituted, caused to be instituted, or otherwise participated in any inquiry or proceeding under or related to this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="id82c5b43251464049990378a23b537302">
+                        <enum>(C)</enum>
+ <text>given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this Act; or</text>
+                    </subparagraph>
+                    <subparagraph id="id106b35dfa8304fd1bfc9d5d74dc573e2">
+                        <enum>(D)</enum>
+ <text>testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this Act.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="ida75228751aaf4a07915c1a510b7c7326">
+                <enum>(b)</enum>
+                <header>Rebuttable presumption</header>
+ <text>If a covered digital labor platform provider takes an adverse action against an app-based worker within 90 days of the app-based worker engaging, or attempting to engage in, activities protected by subsection (a), there shall be a rebuttable presumption that the adverse action is in violation of such subsection.</text>
+            </subsection>
+        </section>
+        <section id="id5b8e5a6dd54c46a28e425590c9f14441">
+            <enum>9.</enum>
+            <header>Enforcement</header>
+            <subsection id="id6444a50078334c1b860d5adb10aafe79">
+                <enum>(a)</enum>
+                <header>Enforcement by the Secretary</header>
+ <text>To ensure compliance with the provisions of this Act, or any regulation or order issued under this Act, the Secretary, may take the following actions:</text>
+                <paragraph id="idacbfc283d45f4d00bfff5003f54fe68b">
+                    <enum>(1)</enum>
+                    <header>Investigate</header>
+ <text>The Secretary may—</text> <subparagraph id="id83315ad8c87b45cea97432b81fe80913"> <enum>(A)</enum> <text>review and analyze disclosures submitted under section 4(c)(1) by a covered digital labor platform provider and issue public reports regarding compensation and hours by industry;</text>
+                    </subparagraph>
+                    <subparagraph id="id00a01d9c648141a19732905ada09985e">
+                        <enum>(B)</enum>
+ <text>collect any additional data regarding the compensation, hours, and other conditions and practices in any industry for which covered digital labor platform providers are subject to this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="id24cf88efa1b045bc93f42ba7415a5ab1">
+                        <enum>(C)</enum>
+ <text>inspect any place or record (and make such transcriptions thereof), question any app-based worker, and investigate any facts, conditions, practices, or matters as the Secretary may deem necessary or appropriate to determine whether a covered digital labor platform provider has violated any provision of this Act, or which may aid in the enforcement of the provisions of this Act; and</text>
+                    </subparagraph>
+                    <subparagraph id="ide268fc4c19724a26827a10c1e0a1c63f">
+                        <enum>(D)</enum>
+ <text>make requests for information, as authorized under paragraph (2), on a joint basis with another Federal agency, a State attorney general, or a State agency.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id4dbacfcf82364a56bd8d438d8a3da41d">
+                    <enum>(2)</enum>
+                    <header>Reporting</header>
+ <text>The Secretary may require, by general or special orders and in addition to the disclosures required in section 4(c)(1), a covered digital labor platform provider to file with the Secretary, in such form as the Secretary may prescribe, annual or special reports or answers in writing to specific questions, furnishing to the Secretary such information or records as the Secretary may require as to the organization, business, conduct, practices, management, and relation to other corporations, partnerships, and individuals, of the covered digital labor platform provider.</text>
+                </paragraph>
+                <paragraph id="id92491efb51814819984327c1f1fe9c53">
+                    <enum>(3)</enum>
+                    <header>Enforcement</header>
+ <text>The Secretary shall receive, investigate, and attempt to resolve, any complaints from app-based workers of violations of sections 4, 5, 6, and 8 in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 6 and 7 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/206">29 U.S.C. 206</external-xref>, 207).</text>
+                </paragraph>
+                <paragraph id="iddfb1a614588d433787e3ef28381d9ba5">
+                    <enum>(4)</enum>
+                    <header>Public education</header>
+ <text>The Secretary shall engage in public education, including on its website and its outreach to stakeholders, to inform app-based workers of the rights pursuant to this Act.</text>
+                </paragraph>
+                <paragraph id="id9963eaf0d3bd43d98517b5a316e5febf">
+                    <enum>(5)</enum>
+                    <header>Litigation</header>
+ <text>The Solicitor of Labor may appear for and represent the Secretary in any litigation brought under this subsection.</text>
+                </paragraph>
+                <paragraph id="id5eb4f3f6b186444ea4533a93afe81ae2">
+                    <enum>(6)</enum>
+                    <header>Referral for criminal proceedings</header>
+ <text>If the Secretary, in the course of the performance of any action or duty under this Act, obtains evidence that any covered digital labor platform provider has engaged in conduct that may constitute a violation of Federal criminal law, the Secretary shall refer the matter to the Attorney General for prosecution under any applicable law. Nothing in this paragraph shall affect any other authority of the Secretary to disclose information.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id531be4d191224e04b8811cfa1f1618d0">
+                <enum>(b)</enum>
+                <header>Private right of action</header>
+                <paragraph id="idfec75d4dc9bd41a9830c07235580097f">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <subparagraph id="ida98ee6dadadd457c8ffb8dcd4cdd87cc">
+                        <enum>(A)</enum>
+                        <header>Affected app-based worker</header>
+ <text>Notwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), an app-based worker may commence a civil action against a covered digital labor platform provider or, as applicable, a vendor of the covered digital labor platform provider for an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 in any Federal court of competent jurisdiction.</text>
+                    </subparagraph>
+                    <subparagraph id="id86cf02d178f24967a57a8f0d91e27d43">
+                        <enum>(B)</enum>
+                        <header>Consumer</header>
+ <text>Notwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), a consumer may commence a civil action against any covered digital labor platform provider for an alleged violation of section 4(b) in any Federal court of competent jurisdiction.</text>
+                    </subparagraph>
+                    <subparagraph id="ida4edf70d451246b6871d0aaf0ca23158">
+                        <enum>(C)</enum>
+                        <header>Authorized agent</header>
+ <text>Notwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), an authorized agent of an app-based worker may commence a civil action against a covered digital labor platform provider for an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 in any Federal court of competent jurisdiction as if the authorized agent were the app-based worker.</text>
+                    </subparagraph>
+                    <subparagraph id="idf09761116d9e469db53133e7219871c0">
+                        <enum>(D)</enum>
+                        <header>Labor organization</header>
+ <text>Notwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), a labor organization or a worker center that is adversely affected by an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 or that represents an app-based worker who is adversely affected by such an alleged violation may commence a civil action against the covered digital labor platform provider or, as applicable, a vendor of the covered digital labor provider that violates such section in any Federal court of competent jurisdiction.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id2ffdb9f768da4d9d8e32ed045e8f6faa">
+                    <enum>(2)</enum>
+                    <header>Relief</header>
+                    <subparagraph id="id35c5e46b8eff4e249baf63ed01056310">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>In a civil action brought under paragraph (1) in which the plaintiff prevails, the court shall award—</text>
+                        <clause id="id50e54c6446c94580af80300ae7231677">
+                            <enum>(i)</enum>
+ <text>statutory damages in accordance with the applicable provisions of subparagraph (B);</text>
+                        </clause>
+                        <clause id="id83d11dedbbaa49f4839bde6cf2e358a2">
+                            <enum>(ii)</enum>
+ <text>any actual damages sustained plus an equal amount as liquidated damages;</text>
+                        </clause>
+                        <clause id="ida03779cfd2b34d5cac6304ed2a40238a">
+                            <enum>(iii)</enum>
+ <text>reasonable attorney’s fees and litigation costs;</text> </clause> <clause id="idf0682c8cba054323a180044d8d231c06"> <enum>(iv)</enum> <text>appropriate equitable relief; and</text>
+                        </clause>
+                        <clause id="id6a97a976a8d34871bcb622583add8028">
+                            <enum>(v)</enum>
+ <text>appropriate injunctive relief.</text> </clause> </subparagraph> <subparagraph id="id86d1f19563d54534bb35085e4bd85feb"> <enum>(B)</enum> <header>Statutory damages</header> <text>Subject to subparagraph (D), statutory damages under this subparagraph shall be the following:</text>
+                        <clause id="idbe0552a6a7f04feb847260358b56c70d">
+                            <enum>(i)</enum>
+                            <header>Failure to make proper disclosures</header>
+                            <subclause id="id973334ee9d7b4cf8b41847670dc3dd86">
+                                <enum>(I)</enum>
+                                <header>Timeliness of notices</header>
+ <text>For any violation of paragraph (1), (2), or (3) of section 4(a)—</text>
+                                <item id="id21ecb28aac5248819467dd98dc4159b2">
+                                    <enum>(aa)</enum>
+ <text>an amount that is not less than $20,000 per failure to provide a notice required under such paragraph; or</text>
+                                </item>
+                                <item id="id4ae75766041e49f7b727b5b6b9a4c223">
+                                    <enum>(bb)</enum>
+ <text>an amount that is not less than $5,000 per failure to provide a notice required under such paragraph in, as determined through regulation by the Secretary, a timely manner.</text>
+                                </item>
+                            </subclause>
+                            <subclause id="idacf635be9eca4d539846cd807ddf877b">
+                                <enum>(II)</enum>
+                                <header>Format of notices</header>
+ <text>For any violation of section 4(a)(6), an amount that is not less than $1,000 per violation.</text>
+                            </subclause>
+                            <subclause id="id204b5104b00641e98a777389181fd734">
+                                <enum>(III)</enum>
+                                <header>Receipts, pay statements, and individualized algorithmic
+                                    wage setting</header>
+ <text>For any violation of paragraph (4) or (5) of section 4(a) or section 5(c), an amount that is not less than $5,000 per violation.</text>
+                            </subclause>
+                            <subclause id="idee0ddaf93979406abdca027a4e0a6f5e">
+                                <enum>(IV)</enum>
+                                <header>Consumer notice</header>
+ <text>For any violation of section 4(b), an amount that is not less than $2,000 per violation.</text>
+                            </subclause>
+                            <subclause id="idd53302681e364289b61f69832ca7d6eb">
+                                <enum>(V)</enum>
+                                <header>Quarterly reporting and publication</header>
+ <text>For any violation of paragraph (1) or paragraph (2)(A) section 4(c), an amount that is not less than $20,000 per violation.</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id6e8e438fbac2490d8b1887315170622f">
+                            <enum>(ii)</enum>
+                            <header>Violations of take rate caps</header>
+ <text>For any violation of paragraph (1) or (2) of section 5(a) with respect to an app-based worker, an amount that is the greater of—</text>
+                            <subclause id="idd01e733379d043fabf534f0d460b5abc">
+                                <enum>(I)</enum>
+ <text>an amount that is 4 times the difference between the maximum permissible take rate under such section and the amount actually paid to the app-based worker; or</text>
+                            </subclause>
+                            <subclause id="idf0f156b3c35440c4a82f9ac6e8ea3467">
+                                <enum>(II)</enum>
+ <text>$20,000 per violation.</text> </subclause> </clause> <clause id="id8ad549a413d441cebf261d55a1ee502b"> <enum>(iii)</enum> <header>Data preservation violations</header> <text>For any violation of section 6, an amount that is not less than $20,000 per violation.</text>
+                        </clause>
+                        <clause id="ida9655ed5619c4fdea7269437cb0cfe57">
+                            <enum>(iv)</enum>
+                            <header>Whistleblower violations</header>
+ <text>For any violation of section 8, an amount that is not less than $25,000 per violation.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id2cda127caae4460a99206ef8755f049e">
+                        <enum>(C)</enum>
+                        <header>Temporary whistleblower relief</header>
+ <text>In addition to relief for a prevailing party under subparagraph (A), a court may award punitive damages and temporary injunctive relief while a case is pending, including reinstatement. All relief is available to a prevailing whistleblower plaintiff regardless of whether the plaintiff is authorized to work in the United States.</text>
+                    </subparagraph>
+                    <subparagraph id="idfac2c9e7942d476ba746f6970f64bcb4">
+                        <enum>(D)</enum>
+                        <header>Adjustment of statutory damages</header>
+ <text>The Secretary, not later than September 1 of each calendar year, shall adjust the dollar amounts referred to in subparagraph (B) by the percent increase, if any, in the consumer price index for all urban consumers (United States city average), or a successor index, as determined by the Bureau of Labor Statistics, or a successor agency, for the most recent 12-month period for which data is available.</text>
+                    </subparagraph>
+                    <subparagraph id="id28d5a777eb6f4916b97934dbbd15d331">
+                        <enum>(E)</enum>
+                        <header>Joint and several liability</header>
+ <text>In a civil action brought under this subsection against a covered digital labor platform provider and a vendor of the covered digital labor platform provider for a violation of section 6 in which the plaintiff prevails, the covered digital labor platform provider and the vendor shall be jointly and severally liable for the violation.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idce133accab5e455699bf3020cea37b38">
+                <enum>(c)</enum>
+                <header>Civil monetary penalties</header>
+                <paragraph id="id94b98179e66d41aea519d10dcd81c3d1">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Subject to paragraph (2), the Secretary may impose a penalty on any covered digital labor platform provider that violates any provision of this Act in an amount that is—</text>
+                    <subparagraph id="id44f980e0905b472bb14094ab87597560">
+                        <enum>(A)</enum>
+ <text>not less than $25,000 for any violation;</text> </subparagraph> <subparagraph id="id3681a77ceed143068e8579ca5a48b3fe"> <enum>(B)</enum> <text>not less than $50,000 for any violation that occurs not more than 2 years after another such violation; or</text>
+                    </subparagraph>
+                    <subparagraph id="id29cd10be017748259e9605560d0f20b7">
+                        <enum>(C)</enum>
+ <text>not less than $100,000 for any willful violation.</text> </subparagraph> </paragraph> <paragraph id="id9ddba51bf7ab4735ad5b7f9dd50998cd"> <enum>(2)</enum> <header>Amount determination</header> <text>In determining the amount of any penalty under this subsection, the Secretary may consider the appropriateness of such penalty to the size of the business charged, the gravity of the violation, and whether the amount is sufficient to deter future violations.</text>
+                </paragraph>
+                <paragraph id="id3f433e2f4c9e4f4a805cef79216dd875">
+                    <enum>(3)</enum>
+                    <header>Use of amounts</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id9b72aafb65da40958a67e079ca58282f">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">Establishment of fund</header>
+ <text>There is established in the Treasury of the United States a fund to be known as the Covered Digital Labor Platform Investigation Fund (referred to in this paragraph as the <quote>Fund</quote>).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id84e41b9496aa49d8bb71b4dfdc384937">
+                        <enum>(B)</enum>
+                        <header>Deposit</header>
+ <text>Any amount collected as a penalty under this subsection shall be deposited into the Fund.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id489a457fa8fe4bdc9e84a2bf472bef81">
+                        <enum>(C)</enum>
+                        <header>Use of funds</header>
+ <text>Amounts in the Fund shall be available to the Secretary, without fiscal year limitation and without further appropriation for purposes of reimbursement of any costs of investigating violations of this Act, determining whether any such violations occurred, and collecting penalties under this section.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idae0b4eae2500478886add02b48bf88db">
+            <enum>10.</enum>
+            <header>Rule of construction</header>
+ <text display-inline="no-display-inline">For purposes of this Act, the use of an electronic monitoring tool or automated decision system by a covered digital labor platform provider includes the use of such an electronic monitoring tool or automated decision system by a vendor or other third party acting on behalf of the covered digital labor platform provider.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id7d57e5d65c984c64b19d65738e9f52d8">
+            <enum>11.</enum>
+            <header>Regulations</header>
+ <text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary shall issue regulations that—</text>
+            <paragraph id="id1d9b8c194537457cb66141907833c6c9">
+                <enum>(1)</enum>
+ <text>define and delimit any undefined term used in this Act, including by providing, as determined necessary by the Secretary, examples of the application of the term to different app-based occupations;</text>
+            </paragraph>
+            <paragraph id="id5efc85499fd9493bb2238cdb964e2f32">
+                <enum>(2)</enum>
+ <text>further clarify, define, or delimit any term that is defined in this Act (including the terms substantially impacts, aggregated app-based worker data, data, take rate, time on task, and time worked), including by providing, as determined necessary by the Secretary, examples of the application of the term to different app-based occupations; and</text>
+            </paragraph>
+            <paragraph id="idfba629e70c4e4247afd5ff34aca27f0e" commented="no" display-inline="no-display-inline">
+                <enum>(3)</enum>
+ <text>provide for industry- or occupation-specific rules, as determined necessary by the Secretary.</text>
+            </paragraph>
+        </section>
+        <section id="idecc7e94b770440d0921ca42755f32625" commented="no">
+            <enum>12.</enum>
+            <header>Limitation of judicial review of regulations</header>
+            <subsection id="id406e9cb949864f7ba3efa3292c6e3c5d" commented="no">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Congress delegates to the Secretary the authority, in issuing any regulation under or with respect to this Act, to interpret the provisions of this Act. A court engaged in judicial review of those provisions, including judicial review under section 706 of title 5, United States Code, shall only determine whether the agency’s interpretation is based on a reasonable or permissible construction of this Act.</text>
+            </subsection>
+            <subsection id="id32da030a90ad43ef8c23525f1219ecde">
+                <enum>(b)</enum>
+                <header>Standards for judicial review related to regulations</header>
+ <text>For any action brought for declaratory or injunctive relief to challenge, whether facially or as-applied, the constitutionality or lawfulness of any rule or regulation promulgated under this Act—</text>
+                <paragraph id="id18e7fca34e6d481ca8567ffaf5d52ec0">
+                    <enum>(1)</enum>
+ <text>such an action may be brought not more than 3 years after the date that the rule or regulation was promulgated; and</text>
+                </paragraph>
+                <paragraph id="id0ac958b742d443ea82a9271a6efcd711">
+                    <enum>(2)</enum>
+ <text>such an action shall be filed in the United States District Court for the District of Columbia.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id8a4de8ac1ef1448fbf5da3115929783d">
+            <enum>13.</enum>
+            <header>Relation to other laws</header>
+            <subsection id="idc7a8e085dada44a09658a81367c0b242">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph id="id4d3da9a243334d1d95f5b12169d19151">
+                    <enum>(1)</enum>
+                    <header>Preservation of State powers</header>
+ <text>This Act shall not be construed as preempting, altering, limiting, or affecting the power or authority of a State to enact, adopt, or enforce any State law that provides the same or greater protections to app-based workers or consumers as the requirements under this Act.</text>
+                </paragraph>
+                <paragraph id="idf775f4d609c346e9b3792e2a9d17f99a">
+                    <enum>(2)</enum>
+                    <header>No safe harbor</header>
+ <text>This Act shall not be construed to permit noncompliance with any Federal, State, or local law that establishes requirements regarding minimum wages or maximum work hours or nondiscrimination in the workplace.</text>
+                </paragraph>
+                <paragraph id="idd2c1409af2bb465f848b8d3d97d901a5">
+                    <enum>(3)</enum>
+                    <header>Arbitration agreements</header>
+ <text>Notwithstanding <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/9/1">chapter 1</external-xref> of title 9, United States Code (commonly known as the <quote>Federal Arbitration Act</quote>), or any other provision of law, a predispute arbitration agreement or predispute joint-action waiver between an app-based worker and a covered digital labor platform provider shall not be valid or enforceable.</text>
+                </paragraph>
+                <paragraph id="idb8704df76b684130ad8b13b8d90d78c8">
+                    <enum>(4)</enum>
+                    <header>Non-disclosure agreements</header>
+ <text>Any confidentiality agreement or other contract provision that prohibits the disclosure of information by a party to the contract between an app-based worker and a covered digital labor platform provider shall not be valid or enforceable.</text>
+                </paragraph>
+                <paragraph id="id33c578496ca74057a62bc8e4cbfd2042">
+                    <enum>(5)</enum>
+                    <header>No waiver</header>
+ <text>The rights and remedies in this Act may not be waived by any agreement, policy, form, or condition of work.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id60d0788786a24c1e950571a7c016b77f">
+                <enum>(b)</enum>
+                <header>Fair Labor Standards Act</header>
+                <paragraph id="id5d3c61662a374415b0c3f4beb72018fc">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>This Act shall not be construed as exempting a covered digital labor platform provider from applicable requirements under the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/201">29 U.S.C. 201 et seq.</external-xref>) or regulations issued pursuant to such Act.</text>
+                </paragraph>
+                <paragraph id="idc65556fbdcd740f68fe8b087e54c9aca">
+                    <enum>(2)</enum>
+                    <header>Recordkeeping</header>
+ <text>This Act shall not be construed to alter, limit, or affect the power to investigate and gather data regarding the wages, hours, and other conditions and employment practices under the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/201">29 U.S.C. 201 et seq.</external-xref>), to excuse noncompliance with any recordkeeping requirements under such Act, or to limit authorized collaboration with State or local agencies or the power to issue homework regulations as established under such Act.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id153aa6deab1c43a0a04cd68925a0a116">
+            <enum>14.</enum>
+            <header>Flexibility</header>
+ <text display-inline="no-display-inline">This Act shall not be construed to require, or to provide justification for, a covered digital labor platform provider altering or amending any policy, procedure, or system in a manner that has the effect of decreasing, limiting, or impeding the scheduling flexibility or access to work of an app-based worker.</text>
+        </section>
+        <section id="ida8f5e01b7dee4f098aec9ecd3384668f">
+            <enum>15.</enum>
+            <header>Severability</header>
+ <text display-inline="no-display-inline">If any provision of this Act, or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of the provisions of this Act and the application of such provisions to any other person or circumstance shall not be affected.</text>
+        </section>
+    </legis-body>
+</bill>
+

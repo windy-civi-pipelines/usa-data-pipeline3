@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT25337-RTF-JF-5S8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2003 IS: Strengthening Benefit Plans Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2003</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250610">June 10, 2025</action-date>
+            <action-desc><sponsor name-id="S365">Mr. Scott of South Carolina</sponsor> (for himself,
+                    <cosponsor name-id="S373">Mr. Cassidy</cosponsor>, <cosponsor name-id="S384">Mr.
+                    Tillis</cosponsor>, and <cosponsor name-id="S411">Mr. Marshall</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to permit certain excess plan
+            assets to be used for benefits for active employees, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening Benefit Plans Act of 2025</short-title></quote>.</text>
+        </section>
+        <title id="id0632c449734c418799baf403137f6339" style="OLC">
+            <enum>I</enum>
+            <header>Supporting active employees with current benefit plan expenses</header>
+            <section id="idc9adc76902734864bc3ee5add92a19da">
+                <enum>101.</enum>
+                <header>Transfer of excess health assets for funding active employee
+                    benefits</header>
+                <subsection id="id32059d3f0cd44ccbb4d62ba64e1ea4fb">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/420">Section 420</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idFABBD70550E44E92BE4F39EAEBC80C44">
+                        <subsection commented="no" display-inline="no-display-inline" id="idc9a4d399b0d44d9d8a72717e6f2ea6c7">
+                            <enum>(h)</enum>
+                            <header>Transfer of excess health assets for funding active employee
+                                benefits</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id026e626ae7754bd1b8ff7cf2f11da6b2">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>In the case of a pension plan with excess health assets for a fiscal year—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id055f30831ced444ab5c85fb93bfcf392">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">an amount equal to such excess health assets may be transferred in accordance with paragraph (3) from a health benefits account established under section 401(h),</text>
+                                </subparagraph>
+                                <subparagraph id="id1654138bdc5a4963a48d07d515c9ec10">
+                                    <enum>(B)</enum>
+ <text>a trust which is part of such plan shall not be treated as failing to meet the requirements of subsection (a) or (h) of section 401 solely by reason of such transfer (or any other action authorized under this subsection),</text>
+                                </subparagraph>
+                                <subparagraph id="iddc82ab65675a4457a31447085f224e0d">
+                                    <enum>(C)</enum>
+ <text>no amount shall be includible in the gross income of the employer maintaining the plan solely by reason of such transfer,</text>
+                                </subparagraph>
+                                <subparagraph id="id1a327d36310a44b597c02b22ff28a3ee">
+                                    <enum>(D)</enum>
+ <text>such transfer shall not be treated—</text> <clause id="id7ac83019d68b4aab9d9be894a0bf5adc"> <enum>(i)</enum> <text>as an employer reversion for purposes of section 4980, or</text>
+                                    </clause>
+                                    <clause id="id40937a12c9cb49c2b9dce9815f721c9d">
+                                        <enum>(ii)</enum>
+ <text>as a prohibited transaction for purposes of section 4975, and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idf111dd19891a4d2b8dad4bcf32a77d97">
+                                    <enum>(E)</enum>
+ <text>the limitations of paragraph (4) shall apply to the employer.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id1f2838cc84a94ea098a53a50272b1f16">
+                                <enum>(2)</enum>
+                                <header>Excess health assets</header>
+ <text>For purposes of this subsection—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide4bbff4843a34c2c8a7c7cc67453788f"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term <term>excess health assets</term> means the amount by which the applicable assets with respect to a retiree health plan exceed an amount equal to 125 percent of the total liability of the employer for benefits for all participants under the retiree health plan, determined in accordance with applicable accounting standards.</text>
+                                </subparagraph>
+                                <subparagraph id="ide062d6a128204ed7a0388d06778b1ffd">
+                                    <enum>(B)</enum>
+                                    <header>Limitation</header>
+ <text>In determining excess health assets, there shall not be taken into account—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="ide18b316df3504d55bccc0fdae44ae31a">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">amounts attributable to contributions (other than transfers under any other subsection of this section, or contributions made pursuant to a legally binding commitment entered into before January 1, 2024) made after December 31, 2023, to any health benefits account established under section 401(h) with respect to the retiree health plan, or</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id6bba94b9af5d4e6f9f2b1017d7bad2e4">
+                                        <enum>(ii)</enum>
+ <text>any reduction in the liability of the employer described in subparagraph (A) due to a reduction in benefits pursuant to an amendment to the retiree health plan adopted after December 31, 2023.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id87c60d6e3e8d435ebd90bc5020006aec">
+                                    <enum>(C)</enum>
+                                    <header>Terminating plans</header>
+ <text>In the case of a terminating pension plan which includes a health benefits account under section 401(h), all assets in such health benefits account shall be treated as excess health assets.</text>
+                                </subparagraph>
+                                <subparagraph id="id564e55e9c8cd4a75b7a17d8842c9bd6d">
+                                    <enum>(D)</enum>
+                                    <header>Applicable assets</header>
+ <text>For purposes of subparagraph (A), the term <term>applicable assets</term> means all assets with respect to a retiree health benefits plan of an employer—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="idfefb2fa96f4544aab2db5105716f018a">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in a health benefits account established under section 401(h), or </text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id8c101cc3458140a18b3c1a1bca21ee1c">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">held by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)).</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id2e7b2e1b4e1843e38143ea6f20fc4c6e">
+                                <enum>(3)</enum>
+                                <header>Transfers permitted</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id7e5ca638c35f42eaad77aed74295ae0c">
+                                    <enum>(A)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>A transfer under this paragraph is a transfer—</text> <clause commented="no" display-inline="no-display-inline" id="id51650bcd4aaf47b19a4e296e7c85a656"> <enum>(i)</enum> <text display-inline="yes-display-inline">of excess health assets, in the fiscal year immediately succeeding the fiscal year with respect to which such excess health assets are determined—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id684fd72d0811485593e865d83f71f171">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to the pension plan under which a health benefits account pursuant to section 401(h) was established, or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id59f65116eac34f5cb6bd2534ab561dc2">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">as provided in subparagraph (B)(ii), to a voluntary employees' beneficiary association (as defined in section 501(c)(9)),</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="id7d19c13567a849b0a2f17a160e3c1d05">
+                                        <enum>(ii)</enum>
+ <text>which does not contravene any other provision of law,</text>
+                                    </clause>
+                                    <clause id="id6c528c5463c2408289afbe9e66aa8319">
+                                        <enum>(iii)</enum>
+ <text>with respect to which the use requirements of subparagraphs (B) and (C) and the minimum cost and benefit requirements of paragraph (4)(B) are met, and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="ide5699734b10347dbbe28346962c6dfce">
+                                        <enum>(iv)</enum>
+ <text>with respect to which the vesting requirements of subsection (c)(2) are met (determined by treating such transfer as a qualified transfer).</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id042a354c2c0a46f3ba618cebf2408b61">
+                                    <enum>(B)</enum>
+                                    <header>Use for active benefits</header>
+                                    <clause commented="no" display-inline="no-display-inline" id="idb443a30967124c9e81dc58abd73e6c7b">
+                                        <enum>(i)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in clause (ii), a transfer of excess health assets for purposes of this subsection shall be used only to fund the pension plan.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id46e329cd4f954177b3e7900adf9bc90f">
+                                        <enum>(ii)</enum>
+                                        <header>Transfer to voluntary employees' beneficiary
+                                            association</header>
+ <text display-inline="yes-display-inline">A transfer described in subparagraph (A)(i)(II) may be made only—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id1385c1ff54a84f90959c8b36a522c1e2">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">in the case of a defined benefit plan, to the extent a transfer to such plan as provided in subparagraph (A)(i)(I) would cause the plan to have a funding excess or increase the funding excess of the plan or, if the transfer is made in connection with the termination of the defined benefit plan, to the extent a transfer to such plan would exceed the amount necessary to satisfy the pension liabilities of the terminating plan, or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="idfc6cce24544744afbc45ab530541c12d">
+                                            <enum>(II)</enum>
+ <text>in the case of a pension plan which is not a defined benefit plan.</text>
+                                        </subclause>
+                                        <continuation-text continuation-text-level="clause">Any
+                                            transfer under the preceding sentence to a voluntary
+                                            employees' benefit association (as defined in section
+                                            501(c)(9)) shall be used only to pay any benefits
+                                            permitted to be paid by such association to any members
+                                            of such association (other than key employees not taken
+                                            into account under subsection
+                                            (e)(1)(E)).</continuation-text>
+                                    </clause>
+                                    <clause id="id62488671020b4598886caf69e421ed9c">
+                                        <enum>(iii)</enum>
+                                        <header>Funding excess</header>
+ <text>For purposes of clause (ii), the term <term>funding excess</term> with respect to a plan year means the excess, if any, of—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id11fa0375a3654806bed0479e3186c39f">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the fair market value of the assets of the defined benefit plan (other than applicable assets, as defined in paragraph (2)(D)), over</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id7b1594fea77d4aac8144850996abbe12">
+                                            <enum>(II)</enum>
+ <text>110 percent of the present value of all pension benefits earned or accrued under the plan, as determined for purposes of determining the adjusted funding target attainment percentage pursuant to section 436(j).</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id3b3554a1662f4951a22bc26d8b648784">
+                                    <enum>(C)</enum>
+                                    <header>Only 1 transfer per year</header>
+ <text>No more than 1 transfer with respect to any plan may be made under subparagraph (A) during a taxable year. For purposes of the preceding sentence, any transfer portions of which are described in both subclauses (I) and (II) of subparagraph (A)(i) shall be treated as 1 transfer.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id6deb7abaae354b70a7ab2c33089c75f5">
+                                <enum>(4)</enum>
+                                <header>Limitations on employer</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id77f69d616a574ae5a9b3800181e9a2d2">
+                                    <enum>(A)</enum>
+                                    <header display-inline="yes-display-inline">Deduction
+                                        limitations</header>
+ <text>For purposes of this title, no deduction shall be allowed—</text>
+                                    <clause id="ide433973cd1d543fd86207cdcf90aa90e">
+                                        <enum>(i)</enum>
+ <text>for the transfer of any amount under paragraph (3)(A),</text>
+                                    </clause>
+                                    <clause id="ide6aca01b9fb2430180709ea6e66d76c8">
+                                        <enum>(ii)</enum>
+ <text>for benefits paid out of the assets (and income) so transferred, or</text>
+                                    </clause>
+                                    <clause id="id3c01118d776d449a847130f823f5d94b">
+                                        <enum>(iii)</enum>
+ <text>for any amounts to which clause (ii) does not apply and which are paid for benefits described in paragraph (3)(B)(ii) for the taxable year to the extent such amounts are not greater than the excess (if any) of—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id28947932504342e589773d82fca15d6c">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the amount determined under clause (i) (and income allocable thereto), over</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id42709881256b4d3988be45c4747c19a1">
+                                            <enum>(II)</enum>
+ <text>the amount determined under clause (ii).</text> </subclause> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd630d63f968a4763810f8884fb08978a"> <enum>(B)</enum> <header>Minimum cost and benefit requirements</header> <text>Each plan or arrangement under which benefits funded as described in paragraph (3)(B)(ii) are provided shall provide that—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id9b4fea9062e94689ae752683062c7466">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the applicable employer cost for each of the 5 taxable years beginning with the year of the transfer under paragraph (3)(A) shall not be materially less than the higher of the applicable employer costs for the year of the 2 taxable years immediately preceding the taxable year of such transfer, or</text>
+                                    </clause>
+                                    <clause id="ide51d5874b3324e51920728386f470be2">
+                                        <enum>(ii)</enum>
+ <text>benefits provided under the plan or arrangement shall not be materially reduced during the 5 year period described in clause (i).</text>
+                                    </clause>
+                                    <continuation-text continuation-text-level="subparagraph">For
+                                        purposes of clause (i), the term <term>applicable employer
+                                            cost</term> shall be determined under rules similar to
+                                        the rules of subparagraphs (B) and (C) of subsection (c)(3),
+                                        as applicable to the benefit being provided under such plan
+                                        or arrangement.</continuation-text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id9512b10084e24a59a3a1020d095d88bf">
+                                <enum>(5)</enum>
+                                <header>Coordination with sections 430 and 433</header>
+ <text>In the case of any assets transferred to a pension plan pursuant to paragraph (3), such assets shall, for purposes of this section and sections 430 and 433, be treated as assets in the plan.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idc373b15a9e96472cb9877ba11e2ff9c3">
+                    <enum>(b)</enum>
+                    <header>Conforming amendments</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ide295bb87a1604a71848261924f226831">
+                        <enum>(1)</enum>
+ <text>Subsection (h) of <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following: <quote>Nothing in this subsection or this section shall prevent a plan from transferring amounts from an account established under this subsection pursuant to the provisions of section 420(h).</quote>.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id3c1fe567a506433687373ad81a70ef5a">
+                        <enum>(2)</enum>
+ <text>Subparagraph (B) of section 420(c)(1) of such Code is amended by adding at the end the following new clause:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id74CAD032EFFB454E8C6500CE5753FD89">
+                            <clause commented="no" display-inline="no-display-inline" id="id270839a0bd524736b3ea9f460c0ba7cf">
+                                <enum>(iii)</enum>
+                                <header>Coordination with transfers of excess health assets</header>
+ <text>Clauses (i) and (ii) shall not apply to the amount of any excess health assets transferred from a health benefits account to the plan pursuant to subsection (h)(3)(A).</text>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="ideb14a832e2cc458fa768c86454b9202f">
+                        <enum>(3)</enum>
+ <text>Subsection (e) of section 420 of such Code is amended by adding at the end the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id382B0C23998347EDA8D86F91C99E1C43">
+                            <paragraph commented="no" display-inline="no-display-inline" id="idffdd3060c04e4163889f6630e7205323">
+                                <enum>(8)</enum>
+                                <header>Coordination with transfers of excess health assets</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idbd7c1b450a1c4081a1c86b7b6dc980cd">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">A qualified transfer or portion thereof shall not be subject to the limitations of subsections (b)(3), (c)(1), (f)(2)(C), or (f)(2)(E) to the extent an amount equal to such transfer (or portion) is transferred during the same taxable year under subsection (h).</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id42b7e4260e754dc3912cada8686487b4">
+                                    <enum>(B)</enum>
+                                    <header>Minimum cost and benefit requirements</header>
+ <text display-inline="yes-display-inline">The requirements of subsection (h)(4)(B) shall apply in lieu of subsections (c)(3) and (f)(2)(D) in the case of a transfer or portion thereof to which subparagraph (A) applies.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id5860e23aba324244a7f9ee1d6ff2760d">
+                        <enum>(4)</enum>
+ <text>Subsection (l) of section 430 of such Code is amended by adding at the end the following: <quote>Notwithstanding the preceding sentence, any assets transferred to the plan pursuant to section 420(h) shall be treated as assets in the plan.</quote>.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id1aa1dd4507384ab5b3b33b9c876e964d">
+                        <enum>(5)</enum>
+ <text>Section 4 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1003">29 U.S.C. 1003</external-xref>) is amended by adding at the end the following new subsection:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idf5d299fcb24e462c96086d3977a8715b">
+                            <subsection id="iddb24794ffbbf4516885a5744c360bf1b">
+                                <enum>(d)</enum>
+                                <header>Transfers of excess health assets</header>
+ <text>A pension plan shall not be treated as failing to meet the requirements of this subchapter solely by reason of any transfer made as permitted by <external-xref legal-doc="usc" parsable-cite="usc/26/420">section 420(h)</external-xref> of the Internal Revenue Code of 1986.</text>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7ece438b4c4641428b0e4058f6254ab5">
+                        <enum>(6)</enum>
+ <text>Section 303(l) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1083">29 U.S.C. 1083(l)</external-xref>) is amended by adding at the end the following: <quote>Notwithstanding the preceding sentence, any assets transferred to the plan pursuant to section 420(h) of such Code shall be treated as assets in the plan.</quote>.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2e9f79051038471c8b9928205f022c6b">
+                        <enum>(7)</enum>
+ <text display-inline="yes-display-inline">Section 408(b)(13) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/1108">29 U.S.C. 1108(b)(13)</external-xref>) is amended by striking the period at the end and inserting <quote>, or any transfer of excess health assets permitted under section 420(h) of such Code (as in effect on the date of the enactment of the <short-title>Strengthening Benefit Plans Act of 2025</short-title>).</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id7f66a3626bf44bf4bc4921334f009822">
+                    <enum>(c)</enum>
+                    <header>Notice requirements</header>
+ <text>Section 101(e) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1021">29 U.S.C. 1021(e)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idD319DD570A954ABA85DE094F1141A815">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id1f43f004ae3f4c5c9fcdcdbd90ab5562">
+                            <enum>(4)</enum>
+                            <header>Transfers of excess health assets</header>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc9944805f2e64bb2822f7f996f527fdf">
+                                <enum>(A)</enum>
+                                <header>Notice to participants</header>
+ <text>Not later than 60 days before the date of a transfer by an employee pension benefit plan of excess health assets pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/420">section 420(h)(1)</external-xref> of the Internal Revenue Code of 1986, the administrator of the plan shall provide notice (in such manner as the Secretary may prescribe) of such transfer to each participant and beneficiary eligible to receive benefits paid from the health benefits account under section 401(h) of such Code from which the transfer is to be made. Such notice shall include information with respect to the amount of excess health assets to be transferred, the plan or voluntary employees’ beneficiary association to which the transfer is to be made, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idea9c415b32234c6bae06620eb229a4aa">
+                                <enum>(B)</enum>
+                                <header>Notice to Secretaries, etc</header>
+ <text display-inline="yes-display-inline">Rules similar to the rules of paragraph (2) shall apply for purposes of this paragraph.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idaaacc095744a40bb8ea243b3b362b2ae">
+                    <enum>(d)</enum>
+                    <header>Effective date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2024.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="ida35e7ee7c32646c6bfadd14e5b4545fe" style="OLC">
+            <enum>II</enum>
+            <header>Supporting active employees with retirement contributions</header>
+            <section id="id7f0cdfe5cd6c427abf352f531663ebc0">
+                <enum>201.</enum>
+                <header>Transfer of surplus defined benefit plan assets to defined contribution
+                    plan</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idcbf5349d3092453187f5ba2621596659">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/401">Section 401</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (p) as subsection (q) and by inserting after subsection (o) the following new subsection:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idDBE8FAF677B34EBEAE0821B2EE0E36CD">
+                        <subsection commented="no" display-inline="no-display-inline" id="id2b9b125ae90c4d6e9cac10c04851e4c7">
+                            <enum>(p)</enum>
+                            <header>Transfer of surplus defined benefit plan assets to defined
+                                contribution plan</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id3c22ac46a1924627a7f19db1f44ae702">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="ide01b2f39b73b45f4a9f7cf2a993ba92a">
+                                    <enum>(A)</enum>
+                                    <header>Transfer permitted</header>
+ <text display-inline="yes-display-inline">If an employer maintaining a defined benefit plan establishes or maintains a defined contribution plan which would be a qualified replacement plan (as defined in section 4980(d)(2)) with respect to the defined benefit plan but for the fact that the defined benefit plan is not terminated, subject to the requirements of paragraphs (3) and (4), any surplus assets of the defined benefit plan may be transferred to the defined contribution plan.</text>
+                                </subparagraph>
+                                <subparagraph id="id1cd75e39494f41f093c74c4b9e5fa7eb">
+                                    <enum>(B)</enum>
+                                    <header>Treatment of amount transferred</header>
+ <text>In the case of the transfer of any amount under subparagraph (A)—</text>
+                                    <clause id="id18ba8b8687ca4826913aee17aecdac39">
+                                        <enum>(i)</enum>
+ <text>such amount shall not be includible in the gross income of the employer,</text>
+                                    </clause>
+                                    <clause id="ide425264128f64023953a033ba495598d">
+                                        <enum>(ii)</enum>
+ <text>no deduction shall be allowable with respect to such transfer, and</text>
+                                    </clause>
+                                    <clause id="id15223cbe1b0e4592a344e23d6f1fb0c1">
+                                        <enum>(iii)</enum>
+ <text>such transfer shall not be treated as an employer reversion for purposes of section 4980.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id986b4f511c70444ca9891e60029c26ab">
+                                <enum>(2)</enum>
+                                <header>Surplus assets</header>
+ <text>For purposes of this subsection, the term <term>surplus assets</term> means the excess of assets of the defined benefit plan over an amount equal to 110 percent of the value of plan liabilities used to determine premiums imposed under title IV of the Employee Retirement Income Security Act of 1974 for the plan year of the transfer.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="ida55f6e1de47145a8bcd3623d062c2a07">
+                                <enum>(3)</enum>
+                                <header>Vesting of benefits</header>
+ <text>The requirements of this paragraph are met if all benefits under the defined benefit plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).</text>
+                            </paragraph>
+                            <paragraph id="idb8adac78bbc54c52ac46e359fdae6e1d">
+                                <enum>(4)</enum>
+                                <header>No reduction in benefits</header>
+ <text>The requirements of this paragraph are met if, during the period beginning with the year of the transfer and ending 4 plan years after the last plan year during which the replacement plan is funded by the transfer, no benefits under the replacement plan are reduced.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id51cb90c320934c77ab745910edee6469">
+                    <enum>(b)</enum>
+                    <header>Conforming amendments</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idB5FFA34D9E8A49298A45C5E45DE0AE11">
+                        <enum>(1)</enum>
+ <text>Section 4 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1003">29 U.S.C. 1003</external-xref>), as amended by section 101, is further amended by adding at the end the following new subsection:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id1FB90B5F439B428581786CECF9378EE2">
+                            <subsection id="id7F352332DE174DF998D9BF4814598454">
+                                <enum>(e)</enum>
+                                <header>Transfers of surplus defined benefit plan assets</header>
+ <text>A pension plan shall not be treated as failing to meet the requirements of this subchapter solely by reason of any transfer made as permitted by <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(p)</external-xref> of the Internal Revenue Code of 1986.</text>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idDAE104B02D7249779F98DDA16F4A46C2">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Section 408(b)(13) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/1108">29 U.S.C. 1108(b)(13)</external-xref>), as amended by section 101, is further amended by inserting <quote>or of surplus defined benefit plan assets permitted under section 401(p) of such Code (as so in effect)</quote> before the period at the end.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id431E112D2F71485CB0A2E0DB24BE8001">
+                    <enum>(c)</enum>
+                    <header>Notice requirements</header>
+ <text>Section 101(e) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1021">29 U.S.C. 1021(e)</external-xref>), as amended by section 101, is further amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id90CF7F0EB14042AE855BF28628CEB904">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id3B11421D569E4F5A9C1A199C4D03B24B">
+                            <enum>(5)</enum>
+                            <header>Transfers of surplus defined benefit plan assets</header>
+ <text>Rules similar to the rules of paragraph (4) shall apply in the case of any transfer by an employee pension benefit plan of surplus defined benefit plan assets pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(p)</external-xref> of the Internal Revenue Code of 1986.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="idb050ff0ff74e4451beb69e57d31e76b4">
+                    <enum>(d)</enum>
+                    <header>Effective date</header>
+ <text>The amendments made by this section shall apply to plan years beginning after December 31, 2025.</text>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BOM25381-3D1-C8-329">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1764 IS: Ending Administrative Garnishment Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1764</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250514">May 14, 2025</action-date>
+            <action-desc><sponsor name-id="S370">Mr. Booker</sponsor> (for himself and <cosponsor name-id="S366">Ms. Warren</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To suspend and reform the authority under the Higher Education Act of 1965
+            for the Secretary of Education to carry out an administrative wage garnishment
+            program.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause" id="HD65EEE5358BB4DCAB11ACE9F06BA3FF8">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ending Administrative Garnishment Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id403E21B93EA743B1958F338914B2A5E4">
+            <enum>2.</enum>
+            <header>Suspension of wage garnishment</header>
+ <text display-inline="no-display-inline">Section 488A of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1095a">20 U.S.C. 1095a</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id4868DD8ECFE2474FB9B50EBDE962C2E8">
+                <subsection id="id449DC121D5D3483F8ED328D770FA50C0">
+                    <enum>(f)</enum>
+                    <header>Suspension of authority</header>
+                    <paragraph id="id3C5416E371A44B4082739E9C7A40C100">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Beginning on the date of enactment of the <short-title>Ending Administrative Garnishment Act of 2025</short-title>, the authority provided under subsection (a) to garnish the disposable pay of an individual shall be suspended until the date the Secretary submits to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives the certification described in paragraph (2).</text>
+                    </paragraph>
+                    <paragraph id="id48975abe475c4a39a8ff63915215a8b8">
+                        <enum>(2)</enum>
+                        <header>Certification</header>
+ <text>Not earlier than 1 year after the date of enactment of the <short-title>Ending Administrative Garnishment Act of 2025</short-title>, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives a certification that either—</text>
+                        <subparagraph id="idcf27963fb1ba4f83963e7b21e98cbb1c">
+                            <enum>(A)</enum>
+ <text>the Secretary has implemented a process through which—</text> <clause id="id67489f1807ee4a079db15947771cc97f"> <enum>(i)</enum> <text>individuals who have had their disposable pay improperly garnished in violation of this section, or of any other instruction by the Secretary, are able to have their refund processed and returned to them not later than one calendar week after the date of such violation;</text>
+                            </clause>
+                            <clause id="id0628518aa58d434eb7e9578661e1b2c8">
+                                <enum>(ii)</enum>
+ <text>the Secretary can independently cease or suspend the administrative wage garnishment program authorized under this section at any time, at the sole discretion of the Secretary, including suspension of the garnishment of any individual student loan borrower or a cohort of borrowers; and</text>
+                            </clause>
+                            <clause id="id56e0c16aed8c422d88977e8051fee4db">
+                                <enum>(iii)</enum>
+ <text>the Secretary obtains a quarterly verification from each employer through which garnishment is carried out under this section that all information necessary to implement garnishment under this section with respect to an individual employee is accurate, including an estimate of the amount scheduled to be garnished in the subsequent quarter, and the name, address, phone number, and email address for both the employee and the employer; or</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idb8ddfada7aba473993e16812daf055f1">
+                            <enum>(B)</enum>
+ <text>the Secretary is unable to implement the process described in subparagraph (A) and has determined that the garnishment of the disposable pay shall not apply to individuals as authorized under subsection (a).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id0d211506c6694c43b551c5a90c201233">
+                        <enum>(3)</enum>
+                        <header>Data collection</header>
+                        <subparagraph id="idF0129BF5EEBC444A993964958F14D3FB">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>If the Secretary submits a certification under paragraph (2) that the Secretary has implemented the process described in paragraph (2)(A), the Secretary, upon submission of such certification, shall establish a centralized database containing—</text>
+                            <clause id="id8f83001583ca472abdbcb55bbf296dac">
+                                <enum>(i)</enum>
+ <text>the addresses, occupations, employers, and other collectible demographic data of individuals whose disposable pay was subject to garnishment under this section on the day before the date of enactment of the <short-title>Ending Administrative Garnishment Act of 2025</short-title>; and</text>
+                            </clause>
+                            <clause id="idcee9d09a56d34b6aa8f26a5f1a411a47">
+                                <enum>(ii)</enum>
+ <text>the addresses, occupations, employers, and other collectible demographic data of individuals whose disposable pay is subject to garnishment under subsection (a).</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id3cf6cee97b98495baa658e56837a8bf7">
+                            <enum>(B)</enum>
+                            <header>Report</header>
+ <text>Not later than 90 days after the date the Secretary establishes the database under subparagraph (A), and not less often than annually thereafter, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives summarizing the information contained in the database and evaluating the exercise of the Secretary’s authority under subsection (a).</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id9e08bcbd66664acdace3cd7b13fa0e1f">
+                    <enum>(g)</enum>
+                    <header>Right of action against employer</header>
+ <text>The employer shall be liable for, and the Secretary, the guaranty agency, or an individual, as appropriate, may sue the employer in a State or Federal court of competent jurisdiction to recover, any amount that such employer improperly withholds from wages due an employee following receipt by such employer of notice of suspension or revocation of the withholding order, and actual damages, plus attorneys’ fees, costs, and, in the court’s discretion, punitive damages.</text>
+                </subsection>
+                <subsection id="idfe7eecd5d71647bba7d9b92567c8476f">
+                    <enum>(h)</enum>
+                    <header>Department action after improper garnishment</header>
+ <text>Not later than 10 days after the date the Secretary receives an individual’s disposable pay that has been improperly garnished, the Secretary shall pay the borrower twice the actual amount of wages garnished. Notwithstanding section 432(a)(2), an injunction against the Secretary may be issued to enforce this subsection.</text>
+                </subsection>
+                <subsection commented="no" id="id8a05475372924ca0b8b04ebbeb09abe6">
+                    <enum>(i)</enum>
+                    <header>Limits on use</header>
+ <text>The Secretary may not garnish the disposable pay of an individual under this section with respect to a loan that has been outstanding for more than 10 years.</text>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GOE25737-CRD-R7-5SL">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2865 IS: Improving Access to Advance Care Planning Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2865</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250918" legis-day="20250916">September 18 (legislative day,
+                September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S327">Mr. Warner</sponsor> (for himself and <cosponsor name-id="S252">Ms. Collins</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to waive cost-sharing for
+            advance care planning services, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H603D7E4B041F4D92A5FBD4218638342F">
+        <section section-type="section-one" id="H290454F300DE450AAC1572E095D30344">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Access to Advance Care Planning Act</short-title></quote>.</text>
+        </section>
+        <section id="id61466039b9e448f39303e1237f77a01d">
+            <enum>2.</enum>
+            <header>Medicare coverage of advance care planning services</header>
+            <subsection id="id071d01f2d9d4432286f129843fe2fded" commented="no">
+                <enum>(a)</enum>
+                <header>Advance care planning services defined</header>
+ <text>Section 1861 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>) is amended by adding at the end the following new subsection:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="iddf09d0e6c09c4955ba0e67d77b682731">
+                    <subsection id="id069546eaa3bb43a2818b4752ff8fe04d">
+                        <enum>(nnn)</enum>
+                        <header>Advance care planning services</header>
+                        <paragraph id="idf8bd1e477af64ff793fe807956a0ec0c">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The term <term>advance care planning services</term> means services provided by an eligible practitioner (as defined in paragraph (2)) to an individual, a family member of such individual, a caregiver of such individual, or such individual’s representative, to discuss—</text>
+                            <subparagraph id="ide07d67e4e873472bbe5a1fa5c9cc1b9e">
+                                <enum>(A)</enum>
+ <text>the health care preferences of such individual;</text> </subparagraph> <subparagraph id="idc3b6cf18cc384c6c80e35a46ce613f9a"> <enum>(B)</enum> <text>future health care decisions that may need to be made by, or on behalf of, such individual; and</text>
+                            </subparagraph>
+                            <subparagraph id="idde6a7d22439a4a2faedf4161c7d4d3d2">
+                                <enum>(C)</enum>
+ <text>advance directives or other standard forms, which may be completed by, or on behalf of, such individual.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id587655391c7c452daaa5ba1a3d6756f9">
+                            <enum>(2)</enum>
+                            <header>Eligible practitioner</header>
+ <text>For purposes of paragraph (1), the term <term>eligible practitioner</term> means—</text>
+                            <subparagraph id="id8e0eeda9b74a477ea23f23cc5744d6ad">
+                                <enum>(A)</enum>
+ <text>a physician (as defined in subsection (r));</text> </subparagraph> <subparagraph id="id85fe2138d17748508106ce719a4910e1"> <enum>(B)</enum> <text>a physician assistant (as defined in subsection (aa)(5));</text>
+                            </subparagraph>
+                            <subparagraph id="idaf50c96c723e4811afe05dc885bde4f3">
+                                <enum>(C)</enum>
+ <text>a nurse practitioner (as defined in subsection (aa)(5));</text>
+                            </subparagraph>
+                            <subparagraph id="id2180839deec945e3b60e155324957372">
+                                <enum>(D)</enum>
+ <text>a clinical nurse specialist (as defined in subsection (aa)(5));</text>
+                            </subparagraph>
+                            <subparagraph id="idc31c03ae352449b1afad35854ab730b3">
+                                <enum>(E)</enum>
+ <text>a clinical social worker (as defined in subsection (hh)(1)) who possesses—</text>
+                                <clause id="id8c40b605bb8844fd876d9c9dca98b51b">
+                                    <enum>(i)</enum>
+ <text>a relevant care planning certification; or</text> </clause> <clause id="idce8b65269f714c7081c7c9d99e33e266"> <enum>(ii)</enum> <text>experience providing care planning conversations or similar services, as defined by the Secretary; or</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="idb2bc67b1771249ffa04782b25b5864f6">
+                                <enum>(F)</enum>
+ <text>any other practitioner determined appropriate by the Secretary.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id79d1c68b55704e61882b7618a5353fe4">
+                <enum>(b)</enum>
+                <header>Encouraging advance care planning</header>
+                <paragraph id="id0098b5eb159c4122892db23d7ef7c522">
+                    <enum>(1)</enum>
+                    <header>Payment</header>
+ <text>Section 1848(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(b)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id9f11cfe353664f81887e1cd3627e24fa">
+                        <paragraph id="ideae101cb3ef44d2e8bba1ab83f6af9ec">
+                            <enum>(13)</enum>
+                            <header>Encouraging advance care planning services</header>
+                            <subparagraph id="idf63561e0383c40bd9772b4b63f9cd706">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>In order to encourage advance care planning services, the Secretary shall, subject to subparagraph (B), make payments (as the Secretary determines to be appropriate) under this section for advance care planning services (as defined in section 1861(nnn)) furnished on or after the date of enactment of this paragraph.</text>
+                            </subparagraph>
+                            <subparagraph id="id05795d7120d845398421db1ded4ffb0b">
+                                <enum>(B)</enum>
+                                <header>Policies related to payment</header>
+ <text>In carrying out this paragraph, with respect to advance care planning services, the Secretary—</text>
+                                <clause id="id5da54bfaec8e46f1843ba4dbfc027e66">
+                                    <enum>(i)</enum>
+ <text>shall make payment to only 1 applicable provider for such services furnished to an individual during a period;</text>
+                                </clause>
+                                <clause id="id4b12e0f58c234b1f9ed8374ff2bd6bf9">
+                                    <enum>(ii)</enum>
+ <text>shall not make a payment under subparagraph (A) if such payment would be duplicative of a payment that is otherwise made under this title for such services; and</text>
+                                </clause>
+                                <clause id="id294df14417304d78a61256a76f8ae5b0">
+                                    <enum>(iii)</enum>
+ <text>shall not require that an annual wellness visit (as defined in section 1861(hhh)) or an initial preventive physical examination (as defined in section 1861(ww)) be furnished as a condition of payment for such services.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="idb20efb88eb0f4ec984b385a24362ab62">
+                    <enum>(2)</enum>
+                    <header>Removing cost-sharing responsibilities for advance care planning
+                        services under part B of the Medicare program</header>
+ <text>Section 1833 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l</external-xref>) is amended—</text>
+                    <subparagraph id="id40a2bad82c654fe08683d81465852f04">
+                        <enum>(A)</enum>
+ <text>in subsection (a)(1)—</text> <clause id="idd2d32bf8d43441cf8b1cc36ab7e73635"> <enum>(i)</enum> <text>in subparagraph (GG), by striking <quote>and</quote> at the end; and</text>
+                        </clause>
+                        <clause id="idca24f2d795bb4696a6b13b1083de230e">
+                            <enum>(ii)</enum>
+ <text>in subparagraph (HH), by striking the semicolon at the end and inserting the following: <quote>, and (II) with respect to advance care planning services (as described in section 1848(b)(13)) furnished on or after January 1, 2027, the amount paid shall be an amount equal to 100 percent of the lesser of the actual charge for such services or the amount determined under such section;</quote> and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idfe74720272e24146aa85a94c6fb7b16b">
+                        <enum>(B)</enum>
+ <text>in subsection (b), in the first sentence—</text> <clause id="idcb2b774c92184a3c8cb30fd689da6570"> <enum>(i)</enum> <text>by striking <quote>, and (13)</quote> and inserting <quote>(13)</quote>; and</text>
+                        </clause>
+                        <clause id="id7f80417696374dd08f234af6c7f69470">
+                            <enum>(ii)</enum>
+ <text>by striking <quote>section 1861(n).</quote> and inserting the following: <quote>section 1861(n), and (14) such deductible shall not apply with respect to advance care planning services (as described in section 1848(b)(13)) furnished on or after January 1, 2027</quote>.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id43331fc5b4494261b045a62b129117b5">
+                <enum>(c)</enum>
+                <header>Improvements To advance care planning through telehealth</header>
+ <text>Section 1834(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)</external-xref>) is amended—</text>
+                <paragraph id="idd957db440a2c4ffa8304e637cc1e8afa">
+                    <enum>(1)</enum>
+ <text>in paragraph (4)(C)—</text> <subparagraph id="idcfc3c7d1b3584d22b05a3a35b4422e9e"> <enum>(A)</enum> <text>in clause (i), in the matter preceding subclause (I), by striking <quote>and (7)</quote> and inserting <quote>(7), and (10)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="id99114636ffd142b5a2a56c177b8e582e">
+                        <enum>(B)</enum>
+ <text>in clause (ii)(X), by inserting <quote>or paragraph (10)</quote> before the period at the end; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id9509f37b9dce459c833f56f5c3368697">
+                    <enum>(2)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="iddefc41d87a744f5db7e9a1faaa7f9261"> <paragraph id="id67e1d80697594922a3a7e5bfa1010ea4"> <enum>(10)</enum> <header>Treatment of advance care planning services</header> <text>The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after the date of enactment of this paragraph for purposes of furnishing advance care planning services (as defined in section 1861(nnn)).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id532a3299ae5f4ecf9a29e78c23e9701a">
+                <enum>(d)</enum>
+                <header>Aligning definitions</header>
+ <text>Section 1861 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>) is amended—</text> <paragraph id="id0886d70f34024958b6c0e70a5e3bb55c"> <enum>(1)</enum> <text>in subsection (ww)—</text>
+                    <subparagraph id="id14bcb5cdc66f497ba106c2effd000734">
+                        <enum>(A)</enum>
+ <text>in paragraph (1), by striking <quote>end-of-life planning (as defined in paragraph (3))</quote> and inserting <quote>advance care planning (as defined in subsection (nnn))</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="idbbafafc61be84c05a02fc7d8ffacf77e">
+                        <enum>(B)</enum>
+ <text>by striking paragraph (3); and</text> </subparagraph> </paragraph> <paragraph id="id58903f467bc541c6b4768f8318bef6f1"> <enum>(2)</enum> <text>in subsection (hhh)(2)—</text>
+                    <subparagraph id="id3208beb6648b4034a3b364a1125fc16f">
+                        <enum>(A)</enum>
+ <text>by redesignating subparagraph (I) as subparagraph (J);</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idf8956f612df145ba86dc7949f5b5239b"> <enum>(B)</enum> <text display-inline="yes-display-inline">by redesignating subparagraph (I) as subparagraph (J); and</text>
+                    </subparagraph>
+                    <subparagraph id="idbcbfd47bbf7240a98c0f64f332e40296">
+                        <enum>(C)</enum>
+ <text>by inserting after subparagraph (H) the following new subparagraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id1eb3fb2884fa4d4195a86621d183de98">
+                            <subparagraph id="idc197c508fbad45cc8dfd041f3e012df9" indent="up1">
+                                <enum>(I)</enum>
+ <text>Advance care planning services (as defined in subsection (nnn)).</text>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id3cd4a9328dfc4001b22258cff9e4f556">
+            <enum>3.</enum>
+            <header>HHS provider outreach</header>
+            <subsection id="idb71db82ca9ff42328a5082e95c0c0f23">
+                <enum>(a)</enum>
+                <header>Outreach</header>
+ <text>The Secretary of Health and Human Services (in this section referred to as the <quote>Secretary</quote>) shall conduct outreach to physicians and appropriate non-physician practitioners participating under the Medicare program under title XVIII of the Social Security Act with respect to Medicare payment for advance care planning services furnished to individuals to discuss their health care preferences, identified by Healthcare Common Procedure Coding System (HCPCS) codes 99497 and 99498 (or any successor to such codes). Such outreach shall include a new, comprehensive, one-time education initiative to inform such physicians and practitioners of the addition of such services as a covered benefit under the Medicare program, including the requirements for beneficiary eligibility for such services.</text>
+            </subsection>
+            <subsection id="id88122f49957d48f7aced3c34a4fdb636">
+                <enum>(b)</enum>
+                <header>Report</header>
+ <text>Not later than 1 year after the date of completion of the outreach described in subsection (a), the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the outreach conducted under subsection (a). Such report shall include a description of the methods used for such outreach.</text>
+            </subsection>
+        </section>
+        <section id="idb92251b7ef9e47ab8e4a73a30cc59ea1">
+            <enum>4.</enum>
+            <header>MedPAC report on the furnishing of advance care planning services and the use of
+                advance care planning codes under the Medicare program</header>
+            <subsection id="id52fdb75a78f241978360bfe24d47fbc2">
+                <enum>(a)</enum>
+                <header>Study</header>
+ <text>The Medicare Payment Advisory Commission (in this section referred to as the <quote>Commission</quote>) shall conduct a study on advance care planning under the Medicare program under title XVIII of the Social Security Act. Such study shall include an analysis of—</text>
+                <paragraph id="id5769ae974ccc4afa995d929f3fb23085">
+                    <enum>(1)</enum>
+ <text>the furnishing of advance care planning services to Medicare beneficiaries, including—</text>
+                    <subparagraph id="id3b3b1e6aca4f421893cf91c58b8c59b3">
+                        <enum>(A)</enum>
+ <text>which providers are trained to provide such services;</text> </subparagraph> <subparagraph id="idb8c635ef134d49418217daee50fc34ce"> <enum>(B)</enum> <text>which providers are eligible to provide such services under the Medicare program;</text>
+                    </subparagraph>
+                    <subparagraph id="ide1323a67622e49df802270a6c321e1b1">
+                        <enum>(C)</enum>
+ <text>the length and frequency of the visits for furnishing such services; and</text>
+                    </subparagraph>
+                    <subparagraph id="ida5b0f3721cf049d0ab7bb6745a38a33e">
+                        <enum>(D)</enum>
+ <text>any barriers related to providers furnishing, or beneficiaries being furnished, such services;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id4b407374648f47ed804adcf411c85df1">
+                    <enum>(2)</enum>
+ <text>the use of advance care planning Current Procedural Terminology (CPT) codes to bill for the furnishing of advance care planning services to Medicare beneficiaries, including—</text>
+                    <subparagraph id="id60f79540e488467cb565e2bb838db4e2">
+                        <enum>(A)</enum>
+ <text>circumstances under which codes other than advance care planning CPT codes are used to bill for such services under the Medicare program and why providers do not use advance care planning CPT codes; and</text>
+                    </subparagraph>
+                    <subparagraph id="id2ae6f64505dd4eecbb5af0831804f782">
+                        <enum>(B)</enum>
+ <text>any barriers to providers using advance care planning CPT codes to bill for such services under the Medicare program; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id0bc3368569fe4adc86fe7be5e12b32a7">
+                    <enum>(3)</enum>
+ <text>such other items determined appropriate by the Commission.</text> </paragraph> </subsection> <subsection id="idbb3aad87baad47c09f3f3d1122e7e611" commented="no"> <enum>(b)</enum> <header>Report</header> <text>Not later than June 30, 2027, the Commission shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the study conducted under subsection (a), together with recommendations for such legislation and administrative action as the Commission determines appropriate.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

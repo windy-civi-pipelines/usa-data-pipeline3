@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RYA25117-S56-5M-PF1">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1781 IS: Livestock Indemnity Program Enhancement Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1781</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S355">Mr. Cruz</sponsor> (for himself and <cosponsor name-id="S287">Mr. Cornyn</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAF00">Committee on
+                    Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Agricultural Act of 2014 to establish additional payments for
+            unborn livestock under the livestock indemnity payment program.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HEE156B9B0C8F476BA168B12E29333055">
+        <section section-type="section-one" id="H18CD4BBCBFBE45B58526B67745AB2FF8">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Livestock Indemnity Program Enhancement Act of 2025</short-title></quote> or the <quote><short-title>LIP Enhancement Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" id="H55E78F7FC6A2493984C2CF5DFE7110DD">
+            <enum>2.</enum>
+            <header>Additional payment for unborn livestock</header>
+ <text display-inline="no-display-inline">Section 1501(b) of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9081">7 U.S.C. 9081(b)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="H59A1A7A9FDAD48628BB756264C0640FF">
+                <paragraph id="H458834FC49A84D4FA626426AD6CE1786">
+                    <enum>(5)</enum>
+                    <header>Additional payment for unborn livestock</header>
+                    <subparagraph id="H209F272DD2124C7A8335552C50C14599">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>In the case of unborn livestock death losses incurred on or after January 1, 2024, the Secretary shall make an additional payment to eligible producers on farms that have incurred such losses in excess of the normal mortality due to a condition specified in paragraph (1).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="HCF5243867BC345158109F13F5E892669">
+                        <enum>(B)</enum>
+                        <header>Payment rate</header>
+ <text>Additional payments under subparagraph (A) shall be made at a rate—</text>
+                        <clause id="HD86144CC19074CCCB31B0E17BDDC278A">
+                            <enum>(i)</enum>
+ <text>determined by the Secretary; and</text> </clause> <clause id="H5B1F06AC2F3642F2949939418987B489"> <enum>(ii)</enum> <text>less than or equal to 85 percent of the payment rate established with respect to the lowest weight class of the livestock, as determined by the Secretary, acting through the Administrator of the Farm Service Agency.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H286737E7BD9E49D59413249403C7DFB4">
+                        <enum>(C)</enum>
+                        <header>Payment amount</header>
+ <text>The amount of a payment to an eligible producer that has incurred unborn livestock death losses shall be equal to the payment rate determined under subparagraph (B) multiplied, in the case of livestock described in—</text>
+                        <clause id="H11971344AE2545AAAFC5B29FBF0CF2AE">
+                            <enum>(i)</enum>
+ <text>subparagraph (A), (B), or (F) of subsection (a)(4), by 1;</text> </clause> <clause id="H37249702B82646B7AD31DA425125FF44"> <enum>(ii)</enum> <text>subparagraph (D) of such subsection, by 2;</text>
+                        </clause>
+                        <clause id="H28E9AFB15F0243228533E0BED074CBB4">
+                            <enum>(iii)</enum>
+ <text>subparagraph (E) of such subsection, by 12; and</text> </clause> <clause id="HAC9699702CDD462A90708EDBA4D9AC2D"> <enum>(iv)</enum> <text display-inline="yes-display-inline">subparagraph (G) of such subsection, by the average number of birthed animals (for one gestation cycle) for the species of each such livestock, as determined by the Secretary.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H29C58C17EF7A41CD91DA9C29D6764D32">
+                        <enum>(D)</enum>
+                        <header>Unborn livestock death losses defined</header>
+ <text>In this paragraph, the term <term>unborn livestock death losses</term> means losses of any livestock described in subparagraph (A), (B), (D), (E), (F), or (G) of subsection (a)(4) that was gestating on the date of the death of the livestock.</text>
+                    </subparagraph>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

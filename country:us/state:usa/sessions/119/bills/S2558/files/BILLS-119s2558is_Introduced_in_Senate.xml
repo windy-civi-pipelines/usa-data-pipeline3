@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HLA25656-205-3X-9GY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2558 IS: The National Quantum Cybersecurity Migration Strategy Act of 2025.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2558</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250730">July 30, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself and <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSGA00">Committee
+                    on Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Subcommittee on the Economic and Security Implications of
+            Quantum Information Science to assess possible migration by Federal agencies to
+            post-quantum cryptography, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The National Quantum Cybersecurity Migration Strategy Act of 2025.</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id3a95fa624b8940d7937f69fa08485c48">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id8237150cada64f8cb376c678f459bbd4"> <enum>(1)</enum> <header>Cryptography</header> <text>The term <quote>cryptography</quote> has the meaning given such term in the National Institute of Standards and Technology Special Publication 1800–21B (relating to mobile device security) and the National Institute of Standards and Technology Special Publication 800–59 (relating to guidelines for identifying an information system as a national security system).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idb34f9725654448b2a811fc12fedea16d">
+                <enum>(2)</enum>
+                <header>Classical computer</header>
+ <text>The term <quote>classical computer</quote> means a device that accepts digital data and manipulates the data based on a program or sequence of instructions for how such data is to be processed, and that encodes information in binary.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idef1c2aaa6f2543fd9461b0bc4cfc354b">
+                <enum>(3)</enum>
+                <header>Quantum computer</header>
+ <text>The term <quote>quantum computer</quote> means a computer that uses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id0775396f12e7473da0471c632a1b0d34">
+                <enum>(4)</enum>
+                <header>Post-Quantum Cryptography</header>
+ <text>The term <quote>post-quantum cryptography</quote> means cryptographic algorithms or methods that are not specifically vulnerable to attacks by either a quantum computer or classical computer.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id2f3fde98e8634f2b94299ba3592947a4">
+                <enum>(5)</enum>
+                <header>Critical Infrastructure</header>
+ <text>The term <quote>critical infrastructure</quote> has the meaning given that term in section 1016(e) of the Critical Infrastructures Protection Act of 2001 (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">42 U.S.C. 5195c(e)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id18bb8b86e32440188d68fdee92086c5e">
+                <enum>(6)</enum>
+                <header>High-impact system</header>
+ <text>The term <quote>high-impact system</quote> means a Federal information system that holds sensitive information, the loss of which would be categorized as high impact under Federal Information Processing Standards Publication 199 (relating to standards for security categorization of Federal information and information systems), as in effect on the day before the date of the enactment of this Act.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idffb5f2cc350c485384cf7e6334965371">
+                <enum>(7)</enum>
+                <header>Sector risk management agency</header>
+ <text>The term <quote>sector risk management agency</quote> has the meaning given the term in section 2200 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/650">6 U.S.C. 650</external-xref>).</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idc00f1c3de5b9451b8e3158d351732273">
+            <enum>3.</enum>
+            <header display-inline="yes-display-inline">Strategy for Federal agency migration to
+                post-quantum cryptography</header>
+            <subsection id="idb8c37e4a2fcf4aa6a487f38149277683">
+                <enum>(a)</enum>
+                <header>Duties of Subcommittee on the Economic and Security Implications of Quantum
+                    Information Science</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Subcommittee on the Economic and Security Implications of Quantum Information Science, as established by section 105 of the National Quantum Initiative Act (<external-xref legal-doc="usc" parsable-cite="usc/15/8814a">15 U.S.C. 8814a</external-xref>), in coordination with the Director of the National Institute of Standards and Technology and in consultation with the Quantum Economic Development Consortium, shall develop a National Quantum Cybersecurity Migration Strategy that includes the following:</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc4ac1b0082fe48198c562745e0ac55e8">
+                    <enum>(1)</enum>
+ <text>A definition of a cryptographically relevant quantum computer.</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="ida3873dbbc4184f26bd31ef10a9f1614f"> <enum>(2)</enum> <text display-inline="yes-display-inline">Recommended standards for Federal agencies to apply to determine whether a quantum computer meets such definition, including—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc7604dae25904d7ebc7a9481ddc4aebc">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the characteristics of such computers; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide45cab5d9d96402c9af35aed705ec70b">
+                        <enum>(B)</enum>
+ <text>the particular point at which such computers are capable of attacking real world cryptographic systems that classical computers are unable to attack.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide2c0f62c17d742c6889743b2bc50d176">
+                    <enum>(3)</enum>
+ <text>An assessment of the urgency for migration to post-quantum cryptography for each Federal agency relative to—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide05e3eb2500548b79b63dafb025546ce">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the critical functions of each agency; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id26f39e3605404fa2b37c540a89d82719">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the risk each agency faces should a cryptographically relevant quantum computer attack a system operated by the agency.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb34a7fcc0f514d68912ebc0576a9715f">
+                    <enum>(4)</enum>
+ <text>Performance measures for migration to post-quantum cryptography to be used by each Federal agency for each of the following 4 stages of migration:</text>
+                    <subparagraph id="id4ac26c6f9aa64860989c6bf31f79c496">
+                        <enum>(A)</enum>
+ <text>Preparation for migration to post-quantum cryptography.</text> </subparagraph> <subparagraph id="id65b7767082334ea8b2c35f7ecc49a9bf"> <enum>(B)</enum> <text>Establishment of a baseline understanding of the data inventory.</text>
+                    </subparagraph>
+                    <subparagraph id="idd00a23e4d47144949fd9c4ae791ec907">
+                        <enum>(C)</enum>
+ <text>Planning and execution of post-quantum cryptographic solutions, including ensuring that data at rest and in motion is subject to appropriate protections.</text>
+                    </subparagraph>
+                    <subparagraph id="id0d29221f167a4277a02b4957c853ddbe">
+                        <enum>(D)</enum>
+ <text>Monitoring and evaluation of migration success and assessment of cryptographic security.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4799377d93954e96b7489a39e91a5fee">
+                    <enum>(5)</enum>
+ <text>A plan for evaluating and monitoring entities that are at high risk of quantum cryptographic attacks, including entities determined to be providers of critical infrastructure.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6c3ea2277bce4354969d2d810c1c6465">
+                <enum>(b)</enum>
+                <header>Post-Quantum pilot program</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Subcommittee on the Economic and Security Implications of Quantum Information Science shall establish a post-quantum pilot program that requires each sector risk management agency to upgrade not less than one high-impact system to post-quantum cryptography not later than January 1, 2027.</text>
+            </subsection>
+            <subsection id="id2a633890df7c43a09a66c9ecb55422b4">
+                <enum>(c)</enum>
+                <header>Duties of the Office of Electronic Government</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Administrator of the Office of Electronic Government, in coordination with the Subcommittee on the Economic and Security Implications of Quantum Information Science, shall—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id79ffcf9e36b343d59d6b5aad534caecf">
+                    <enum>(1)</enum>
+ <text>survey the heads of Federal agencies for information relating to the cost of migration to post-quantum cryptography by the Federal agencies, including estimates for the personnel, equipment, and time needed to fully implement post-quantum cryptography, in alignment with the National Quantum Cybersecurity Migration Strategy developed pursuant to subsection (a);</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idca9381a60b4f4223a40e6b5f311ed851">
+                    <enum>(2)</enum>
+ <text>verify that the information provided under paragraph (1) is realistic and fiscally sound;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id9ca778b2af87412189d93feb77301394">
+                    <enum>(3)</enum>
+ <text>identify the funding and resources necessary for Federal agencies to carry out the migration to post-quantum cryptography; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf54e47cbe7bf43a38ad9a0f31e5bf3f0">
+                    <enum>(4)</enum>
+ <text>advise on how Federal agencies should encourage the adoption of post-quantum cryptography by the private sector.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2e8299af09d74ea9ba4bc875d6732234">
+                <enum>(d)</enum>
+                <header>Report to Congress</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Management and Budget and the Subcommittee on the Economic and Security Implications of Quantum Information Science shall jointly submit to Congress a report detailing their findings with respect to the post-quantum migration assessments required under subsection (a)(3), the pilot program established pursuant to subsection (b), and the survey on associated costs of executing the migration required by subsection (c)(1).</text>
+            </subsection>
+            <subsection id="id4833b591da0641c6a9ddcf7d32ac2d19">
+                <enum>(e)</enum>
+                <header>Assessment by Comptroller General</header>
+ <text>Not later than 1 year after the development of the National Quantum Cybersecurity Migration Strategy under subsection (a), and annually thereafter, the Comptroller General of the United States shall submit to Congress an assessment, using the performance measures described in subsection (a)(4), of the progress made by each Federal agency in migrating to post-quantum cryptography.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25586-RKC-K5-M4N">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2002 IS: Requiring Excise for Migrant Income Transfers Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2002</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250610">June 10, 2025</action-date>
+            <action-desc><sponsor name-id="S420">Mr. Schmitt</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to establish a tax on remittance
+            transfers.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Requiring Excise for Migrant Income Transfers Act</short-title></quote> or the <quote><short-title>REMIT Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id69dfda7127cb494aad6f0857dfac0571" section-type="subsequent-section">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">Excise tax on remittance transfers</header>
+            <subsection id="ID09B951A9D25F4F4AA57E91A6D85E388C">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/36">Chapter 36</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after subchapter B the following new subchapter:</text>
+                <quoted-block id="IDD03A3772F9D745A9A14BE69BB9859C99" display-inline="no-display-inline" style="OLC">
+                    <subchapter id="ID8709D9EBE9D54D20AEBFE58454BF6EDC">
+                        <enum>C</enum>
+                        <header>Remittance transfers</header>
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">Sec. 4475. Imposition of tax. </toc-entry>
+                        </toc>
+                        <section id="IDD0A5FCB5EEFF4E71958B61448411F171">
+                            <enum>4475.</enum>
+                            <header>Imposition of tax</header>
+                            <subsection id="IDE3031347EDE2470C84F671A5E189C8B7">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>There is hereby imposed on any remittance transfer a tax equal to 15 percent of the amount of such transfer.</text>
+                            </subsection>
+                            <subsection id="IDED299D146D59432789F912EED9900D84">
+                                <enum>(b)</enum>
+                                <header>Payment of tax</header>
+                                <paragraph id="IDF36FF5FEC1DF46758557FBEE7BAF3BC0">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>The tax imposed by this section with respect to any remittance transfer shall be paid by the sender with respect to such transfer.</text>
+                                </paragraph>
+                                <paragraph id="IDD135FC18FF89443F8D5B7A037FA978C6">
+                                    <enum>(2)</enum>
+                                    <header>Collection</header>
+ <text>The remittance transfer provider with respect to any remittance transfer shall collect the amount of the tax imposed under subsection (a) with respect to such transfer from the sender and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary.</text>
+                                </paragraph>
+                                <paragraph id="IDFBB7626CE156477B96C4BDDCD9DFBE01">
+                                    <enum>(3)</enum>
+                                    <header>Secondary liability</header>
+ <text>Where any tax imposed by subsection (a) is not paid at the time the transfer is made, then to the extent that such tax is not collected, such tax shall be paid by the remittance transfer provider.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="IDBFDE3174E8BD44149D60808C5D54C5CB">
+                                <enum>(c)</enum>
+                                <header>Exception for remittance transfers sent by citizens and
+                                    nationals of the united states through certain
+                                    providers</header>
+                                <paragraph id="ID6B70C12CC8CF4331A1D09EC4FB660284">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>Subsection (a) shall not apply to any remittance transfer with respect to which the remittance transfer provider is a qualified remittance transfer provider and the sender is a verified United States sender.</text>
+                                </paragraph>
+                                <paragraph id="ID9407920BD9384B88A1F5090682BDA00E">
+                                    <enum>(2)</enum>
+                                    <header>Qualified remittance transfer provider</header>
+ <text>For purposes of this subsection, the term <term>qualified remittance transfer provider</term> means any remittance transfer provider which enters into a written agreement with the Secretary pursuant to which such provider agrees to verify the status of senders as citizens or nationals of the United States in such manner, and in accordance with such procedures, as the Secretary may specify.</text>
+                                </paragraph>
+                                <paragraph id="ID5FCAA092BC35418AB12CFC123F22A298">
+                                    <enum>(3)</enum>
+                                    <header>Verified united states sender</header>
+ <text>For purposes of this subsection, the term <term>verified United States sender</term> means any sender who is verified by a qualified remittance transfer provider as being a citizen or national of the United States pursuant to an agreement described in paragraph (2).</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ID96F7829175634842971BF2E0200E9839">
+                                <enum>(d)</enum>
+                                <header>Definitions</header>
+ <text>For purposes of this section, the terms <term>remittance transfer</term>, <term>remittance transfer provider</term>, <term>designated recipient</term>, and <term>sender</term> shall each have the respective meanings given such terms by section 920(g) of the <act-name parsable-cite="EFTA">Electronic Fund Transfer Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/15/1693o-1">15 U.S.C. 1693o-1</external-xref>; relating to <quote>Remittance Transfers</quote>).</text>
+                            </subsection>
+                            <subsection id="ID27B62B945A09441BB800A6882D173EBF">
+                                <enum>(e)</enum>
+                                <header>Application of anti-Conduit rules</header>
+ <text>For purposes of section 7701(l) with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction.</text>
+                            </subsection>
+                        </section>
+                    </subchapter>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="IDD3A417FAAA3349EE944D84793EB85A38">
+                <enum>(b)</enum>
+                <header>Refundable income tax credit allowed to citizens and nationals of the united
+                    states for excise tax on remittance transfers</header>
+ <text>Subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after section 36B the following new section:</text>
+                <quoted-block id="ID1FC64988E47E46B08664EA110BBDB733" display-inline="no-display-inline" style="OLC">
+                    <section id="ID71F24DC03A654BD2BFE5D9AC5F2CF1FF">
+                        <enum>36C.</enum>
+                        <header>Credit for excise tax on remittance transfers of citizens and
+                            nationals of the united states</header>
+                        <subsection id="IDA5D16EA61D0446678D9F071318270D71">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text>In the case of any individual, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year an amount equal to the aggregate amount of taxes paid by such individual under section 4475 during such taxable year.</text>
+                        </subsection>
+                        <subsection id="IDD71554FDE2524002BC77B313DF46872F">
+                            <enum>(b)</enum>
+                            <header>Social security number requirement</header>
+                            <paragraph id="ID6D3942838CEE482489B7F7FEFAFBDB6E">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>No credit shall be allowed under this section unless the taxpayer includes on the return of tax for the taxable year—</text>
+                                <subparagraph id="ID20F0E5996EAE469897055722575A42B2">
+                                    <enum>(A)</enum>
+ <text>the individual's social security number, and</text> </subparagraph> <subparagraph id="IDDF2A1CB6F0AD4A49A0E1FADD3F811A3D"> <enum>(B)</enum> <text>if the individual is married, the social security number of such individuals's spouse.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="IDB4CADAB277804881814730C214586E45">
+                                <enum>(2)</enum>
+                                <header>Social security number</header>
+ <text>For purposes of this subsection, the term <term>social security number</term> has the meaning given such term in section 24(h)(7).</text>
+                            </paragraph>
+                            <paragraph id="IDA429D4D238DE482FB0172F19E3C76B3B">
+                                <enum>(3)</enum>
+                                <header>Married individuals</header>
+ <text>Rules similar to the rules of section 32(d) shall apply to this section.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="ID3C57F86BDDC2493BAF4683A0B51F5ADC">
+                            <enum>(c)</enum>
+                            <header>Substantiation requirements</header>
+ <text>No credit shall be allowed under this section unless the taxpayer demonstrates to the satisfaction of the Secretary that the tax under section 4475 with respect to which such credit is determined—</text>
+                            <paragraph id="IDC10F22E7DAB44149887D2475AD126099">
+                                <enum>(1)</enum>
+ <text>was paid by the taxpayer, and</text> </paragraph> <paragraph id="IDECBC25E43BEF4D1EA32C1730D67A6641"> <enum>(2)</enum> <text>is with respect to a remittance transfer with respect to which the taxpayer provided to the remittance transfer provider the certification and information referred to in section 6050BB(a)(2).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="IDD022EEF6303640F9B272711720D0B4B4">
+                            <enum>(d)</enum>
+                            <header>Definitions</header>
+ <text>Any term used in this section which is also used in section 4475 shall have the meaning given such term in section 4475.</text>
+                        </subsection>
+                        <subsection id="ID0E030A35AEC24CF5B1FA6AC5B6B0CD00">
+                            <enum>(e)</enum>
+                            <header>Application of anti-Conduit rules</header>
+ <text>For rules providing for the application of the anti-conduit rules of section 7701(l) to remittance transfers, see section 4475(e).</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="ID8B56FDB60AA443C289EBC2AA6E393E39">
+                <enum>(c)</enum>
+                <header>Reporting by remittance transfer providers</header>
+                <paragraph id="IDCB18D89C75FD402CA7C4ABCDE19F31BB">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Subpart B of part III of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/61">chapter 61</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+                    <quoted-block id="ID5A7D357BDE754492830B7277906B1FCA" display-inline="no-display-inline" style="OLC">
+                        <section id="IDC4012C5E30FE4D7BB79CD30ECACA2577">
+                            <enum>6050AA.<?LEXA-Enum 6050AA.?></enum>
+                            <header>Returns relating to remittance transfers</header>
+                            <subsection id="ID2A0AFC9461694381960FAE2FE9930F8F">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>Each remittance transfer provider shall make a return at such time as the Secretary may provide setting forth—</text>
+                                <paragraph id="IDA6CB41B5664042C6837D58DD3751A97B">
+                                    <enum>(1)</enum>
+ <text>in the case of a qualified remittance transfer provider with respect to remittance transfers to which section 4475(a) does not apply by reason of section 4475(c), the aggregate number and value of such transfers,</text>
+                                </paragraph>
+                                <paragraph id="ID7860102E96024707A947116B075BD83F">
+                                    <enum>(2)</enum>
+ <text>in the case of any remittance transfer not described in paragraph (1) and with respect to which the sender certifies to the remittance transfer provider an intent to claim the credit under section 36C and provides the information described in paragraph (1)—</text>
+                                    <subparagraph id="IDEA42966ABF7243A1A6D24691A7D5E039">
+                                        <enum>(A)</enum>
+ <text>the name, address, and social security number of the sender,</text>
+                                    </subparagraph>
+                                    <subparagraph id="ID7838D1EB6F564995BFCF58920EE0C414">
+                                        <enum>(B)</enum>
+ <text>the amount of tax paid by the sender under section 4475(b)(1), and</text>
+                                    </subparagraph>
+                                    <subparagraph id="ID3293013981624C8E89CEF0643041015C">
+                                        <enum>(C)</enum>
+ <text>the amount of tax remitted by the remittance transfer provider under section 4475(b)(2), and</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="ID2E9DF57CB78B44EE9174005D709A9316">
+                                    <enum>(3)</enum>
+ <text>in the case of any remittance transfer not included under paragraph (1) or (2)—</text>
+                                    <subparagraph id="ID39DD2215DFEF4C23BC098B0F488A478D">
+                                        <enum>(A)</enum>
+ <text>the aggregate amount of tax paid under section 4475(b)(1) with respect to such transfers, and</text>
+                                    </subparagraph>
+                                    <subparagraph id="ID33018A23D9EA46B797D4390DDBEBEF5B">
+                                        <enum>(B)</enum>
+ <text>the aggregate amount of tax remitted under section 4475(b)(2) with respect to such transfers.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="IDC76E6E850B404857A06EEC20B8197BCE">
+                                <enum>(b)</enum>
+                                <header>Statement To be furnished to named persons</header>
+ <text>Every person required to make a return under subsection (a) shall furnish, at such time as the Secretary may provide, to each person whose name is required to be set forth in such return a written statement showing—</text>
+                                <paragraph id="ID7EF70DAC4F89474EA74DB4F4CB9EDFE6">
+                                    <enum>(1)</enum>
+ <text>the name and address of the information contact of the required reporting person, and</text>
+                                </paragraph>
+                                <paragraph id="ID38C6CDE20059496FBA7259DD1D0203AB">
+                                    <enum>(2)</enum>
+ <text>the information described in subsection (a)(2) which relates to such person.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ID1AF5536DB78E4C7A8DDD98A158431027">
+                                <enum>(c)</enum>
+                                <header>Definitions</header>
+ <text>Any term used in this section which is also used in section 4475 shall have the meaning given such term in such section.</text>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="ID1FB0D29854D043648A79397FD557268B">
+                    <enum>(2)</enum>
+                    <header>Penalties</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6724">Section 6724(d)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph id="ID50D8AC64A3D24574BEF43D8010C30156"> <enum>(A)</enum> <text>in paragraph (1)(B), by striking <quote>or</quote> at the end of clause (xxvii), by striking <quote>and</quote> at the end of clause (xxviii) and inserting <quote>or</quote>, and by adding at the end the following new clause:</text>
+                        <quoted-block id="ID7529CCD610BA43DBA84D6670EDB3F9BF" display-inline="no-display-inline" style="OLC">
+                            <clause id="ID09299972009D4C26A2CF34CEDC893511">
+                                <enum>(xxix)</enum>
+ <text>section 6050BB(a) (relating to returns relating to remittance transfers),</text>
+                            </clause>
+                            <after-quoted-block>, and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="ID78DEF111B7A7493E920EF92FB04FF018">
+                        <enum>(B)</enum>
+ <text>in paragraph (2), by striking <quote>or</quote> at the end of subparagraph (KK), by striking the period at the end of subparagraph (LL) and inserting <quote>, or</quote>, and by inserting after subparagraph (LL) the following new subparagraph:</text>
+                        <quoted-block id="ID3CBB05438D8044FDBDC62A33CCD8CC1D" display-inline="no-display-inline" style="OLC">
+                            <subitem indent="up4" id="ID98EA4F3A5A8843DCAC12FD1C636B9F81">
+                                <enum>(MM)</enum>
+ <text>section 6050BB(b) (relating to statements relating to remittance transfers).</text>
+                            </subitem>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="ID797AAB7597244EEBA752D3563BE612F6">
+                <enum>(d)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="IDCA7DAE8D1A184DCB8CAEB0E32B295C81">
+                    <enum>(1)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6211">Section 6211(b)(4)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+                </paragraph>
+                <paragraph id="IDBF56582C1374463BAD9334FFE9338F76">
+                    <enum>(2)</enum>
+ <text>Section 6213(g)(2) of such Code is amended by striking <quote>and</quote> at the end of subparagraph (U), by striking the period at the end of subparagraph (V) and inserting <quote>, and</quote>, and by inserting after subparagraph (V) the following new subparagraph:</text>
+                    <quoted-block id="ID208BA1BC3D7B41D4A402C59ACE71FA30" display-inline="no-display-inline" style="OLC">
+                        <subitem indent="up4" id="ID0B922B25EF10439396B7872901609914">
+                            <enum>(W)<?LEXA-Enum (W)?></enum>
+ <text>an omission of a correct social security number under section 36C(b) to be included on a return.</text>
+                        </subitem>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="IDA890F7B85394414890F1E6E53E3A5C1F">
+                    <enum>(3)</enum>
+ <text>Section 1324(b)(2) of title 31, United States Code, is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+                </paragraph>
+                <paragraph id="ID3FBA732F09E04B3F8179701BE3B83E06">
+                    <enum>(4)</enum>
+ <text>The table of sections for subpart C of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following new item:</text>
+                    <quoted-block id="IDA269908D36FA405DAAE7E23C3EED1323" display-inline="no-display-inline" style="OLC">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">Sec. 36C. Credit for excise tax on remittance
+                                transfers of citizens and nationals of the United States.
+                            </toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="IDC7634273430248749B2028D9E01C357F">
+                    <enum>(5)</enum>
+ <text>The table of sections for subpart B of part III of subchapter A of chapter 61 of such Code is amended by adding at the end the following new item:</text>
+                    <quoted-block id="ID63C61392CC794A64BF97CB614E07C6AA" display-inline="no-display-inline" style="OLC">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="section">Sec. 6050AA. Returns relating to remittance
+                                transfers.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="IDF8D44877CCBD4612BA3E0800C6CC532D">
+                    <enum>(6)</enum>
+ <text>The table of subchapters for chapter 36 of such Code is amended by inserting after the item relating to subchapter B the following new item:</text>
+                    <quoted-block id="ID42D0FC85B64345D28584735BD9AC7B2B" display-inline="no-display-inline" style="OLC">
+                        <toc regeneration="no-regeneration">
+                            <toc-entry level="subchapter">Subchapter c—Remittance transfers
+                            </toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="ID6BB51A714A3D4F9698155087A484A5B5">
+                <enum>(e)</enum>
+                <header>Effective date</header>
+                <paragraph id="ID8A493158A83443EE91881D7A13467E38">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Except as otherwise provided in this subsection, the amendments made by this section shall apply to transfers made after December 31, 2025.</text>
+                </paragraph>
+                <paragraph id="ID72A369B087B94CC29817D6EA2BAB6931">
+                    <enum>(2)</enum>
+                    <header>Tax credit</header>
+ <text>The amendments made by subsection (b), and paragraphs (1) through (4) of subsection (d), shall apply to taxable years ending after December 31, 2025.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

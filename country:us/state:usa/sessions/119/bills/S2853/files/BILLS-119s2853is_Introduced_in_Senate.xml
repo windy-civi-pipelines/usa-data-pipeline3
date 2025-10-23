@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BAG25H50-F1H-R6-PPK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2853 IS: VA Extenders Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2853</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250917" legis-day="20250916">September 17 (legislative day,
+                September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S347">Mr. Moran</sponsor> (for himself and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSVA00">Committee
+                    on Veterans' Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 38, United States Code, to extend certain authorities and
+            requirements relating to health care and benefits furnished by the Department of
+            Veterans Affairs, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id03c47301c18d495db0439351d15ca01a">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>VA Extenders Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6ed0db3617da49298f473120e6d6201d">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="title" idref="iddd1f1fbd67ce417b80470d7a4e324ac3">TITLE I—Health care matters</toc-entry> <toc-entry level="section" idref="idfb8777ad8d0644f78c62d76435bcecb0">Sec. 101. Extension of authority for collection of copayments for hospital care and nursing home care.</toc-entry> <toc-entry level="section" idref="id48bf9d355de346d38f1765bffef1fac9">Sec. 102. Extension of requirement to provide nursing home care to certain veterans with service-connected disabilities.</toc-entry> <toc-entry level="section" idref="idde83b9cc90d14f579e1690ab3642abcd">Sec. 103. Extension of Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program.</toc-entry> <toc-entry level="section" idref="idb899a89750c743fc928fa76d9175a383">Sec. 104. Extension of funding for expansion of Rural Access Network for Growth Enhancement Program.</toc-entry> <toc-entry level="title" idref="idb5bb0b15c5424e729e355f39105682b5">TITLE II—Benefits</toc-entry> <toc-entry level="section" idref="id9470cc3ee9ee403690f15a82d620b703">Sec. 201. Extension of requirement for quarterly briefings on administration of authorities relating to determinations regarding presumptions of service connection based on toxic exposure.</toc-entry> <toc-entry level="section" idref="id63b6511abcf3470b96cfa6bfe9fc01b3">Sec. 202. Extension of requirement relating to restoration of entitlement to educational assistance in cases of closure or disapproval of educational institutions.</toc-entry> <toc-entry level="section" idref="id1e2e2c5c744443018d8dbd22a260ca00">Sec. 203. Extension of temporary clarification of licensure requirements for contractor medical professionals to perform medical disability examinations for the Department of Veterans Affairs under pilot program for use of contract physicians for disability examinations.</toc-entry> <toc-entry level="section" idref="id740de7b6e6104c3ba9e3ab63778a44b1">Sec. 204. Extension of authority to maintain regional office in Republic of Philippines.</toc-entry> <toc-entry level="title" idref="id55cad05051124beb935ade96f9112fc7">TITLE III—Housing</toc-entry> <toc-entry level="section" idref="id733dbcc3551e400b897240c4d9bcc021">Sec. 301. Extension of authorization of appropriations for homeless women veterans and homeless veterans with children reintegration grant program.</toc-entry> <toc-entry level="section" idref="id423738a6acf14150b679ae489ce58b90">Sec. 302. Extension of authority for treatment and rehabilitation for seriously mentally ill and homeless veterans.</toc-entry> <toc-entry level="section" idref="idbe9c91acc3b4422b88bebe6e410bd5b6">Sec. 303. Extension of funding for financial assistance for supportive services for very low-income veteran families in permanent housing.</toc-entry> <toc-entry level="section" idref="id4f2f21ec31ad4c7c836dc3a766601795">Sec. 304. Extension of funding for grant program for homeless veterans with special needs.</toc-entry> <toc-entry level="section" idref="id826e54102f7040278a4297115a081a5c">Sec. 305. Extension of authority to provide assistance for specially adapted housing for disabled veterans residing temporarily in housing owned by a family member.</toc-entry> <toc-entry level="section" idref="ida459f189f3e34eda9f05cc69b77d5874">Sec. 306. Extension of authority for specially adapted housing assistive technology grant program.</toc-entry> <toc-entry level="section" idref="idd9eb0d94ef1d4567ad4f74fa47b2179f">Sec. 307. Improvements to Partial Claim Program of the Department of Veterans Affairs.</toc-entry> <toc-entry level="section" idref="idd67693d39c9f4439ad2d73184006c46e">Sec. 308. Government Accountability Office reports on Partial Claim Program of the Department of Veterans Affairs and other matters.</toc-entry> <toc-entry level="title" idref="idb79642b25d834e34a6b704276fcbd033">TITLE IV—Other matters</toc-entry> <toc-entry level="section" idref="id5883b29783314ca0875065fe09b1bfcd">Sec. 401. Extension of subpoena authority of Inspector General of Department of Veterans Affairs.</toc-entry> <toc-entry level="section" idref="id62f2960c5dd74317b914467dfe69b396">Sec. 402. Extension of requirement for annual report on use of authority to provide equitable relief.</toc-entry> <toc-entry level="section" idref="id7e700cae60464416abda98e948f72a2b">Sec. 403. Extension of authority for Secretary of Veterans Affairs to transport individuals to and from facilities of Department of Veterans Affairs.</toc-entry> <toc-entry level="section" idref="idf9ad07dd326d421aa6a5efa17388e0ec">Sec. 404. Extension of authority relating to vendee loan program.</toc-entry> <toc-entry level="section" idref="id1a3b796724614f528f5f268c87cf555c">Sec. 405. Extension of authority for transfer of real property.</toc-entry> </toc> </subsection> </section> <title id="iddd1f1fbd67ce417b80470d7a4e324ac3" style="OLC"> <enum>I</enum> <header>Health care matters</header> <section id="idfb8777ad8d0644f78c62d76435bcecb0"> <enum>101.</enum> <header>Extension of authority for collection of copayments for hospital care and nursing home care</header> <text display-inline="no-display-inline">Section 1710(f)(2)(B) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section id="id48bf9d355de346d38f1765bffef1fac9">
+                <enum>102.</enum>
+                <header>Extension of requirement to provide nursing home care to certain veterans
+                    with service-connected disabilities</header>
+ <text display-inline="no-display-inline">Section 1710A(d) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section id="idde83b9cc90d14f579e1690ab3642abcd">
+                <enum>103.</enum>
+                <header>Extension of Staff Sergeant Parker Gordon Fox Suicide Prevention Grant
+                    Program</header>
+ <text display-inline="no-display-inline">Section 201(j) of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019 (<external-xref legal-doc="public-law" parsable-cite="pl/116/171">Public Law 116–171</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/38/1720F">38 U.S.C. 1720F</external-xref> note) is amended by striking <quote>the date that is three years after the date on which the first grant is awarded under this section</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idb899a89750c743fc928fa76d9175a383">
+                <enum>104.</enum>
+                <header>Extension of funding for expansion of Rural Access Network for Growth
+                    Enhancement Program</header>
+ <text display-inline="no-display-inline">Section 2(d) of the Sgt. Ketchum Rural Veterans Mental Health Act of 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/117/21">Public Law 117–21</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/38/1712A">38 U.S.C. 1712A</external-xref> note) is amended by striking <quote>2025</quote> and inserting <quote>2026</quote>.</text>
+            </section>
+        </title>
+        <title id="idb5bb0b15c5424e729e355f39105682b5" style="OLC">
+            <enum>II</enum>
+            <header>Benefits</header>
+            <section id="id9470cc3ee9ee403690f15a82d620b703">
+                <enum>201.</enum>
+                <header>Extension of requirement for quarterly briefings on administration of
+                    authorities relating to determinations regarding presumptions of service
+                    connection based on toxic exposure</header>
+ <text display-inline="no-display-inline">Section 202(b)(2) of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (<external-xref legal-doc="public-law" parsable-cite="pl/117/168">Public Law 117–168</external-xref>) is amended by striking <quote>On a quarterly basis during the two-year period beginning on the date of the enactment of this Act,</quote> and inserting <quote>On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on December 31, 2026</quote>.</text>
+            </section>
+            <section id="id63b6511abcf3470b96cfa6bfe9fc01b3">
+                <enum>202.</enum>
+                <header>Extension of requirement relating to restoration of entitlement to
+                    educational assistance in cases of closure or disapproval of educational
+                    institutions</header>
+ <text display-inline="no-display-inline">Section 3699(c)(2)(C) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id1e2e2c5c744443018d8dbd22a260ca00">
+                <enum>203.</enum>
+                <header>Extension of temporary clarification of licensure requirements for
+                    contractor medical professionals to perform medical disability examinations for
+                    the Department of Veterans Affairs under pilot program for use of contract
+                    physicians for disability examinations</header>
+ <text display-inline="no-display-inline">Section 2002(a)(4) of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (<external-xref legal-doc="public-law" parsable-cite="pl/116/315">Public Law 116–315</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/38/5101">38 U.S.C. 5101</external-xref> note) is amended by striking <quote>five years</quote> and inserting <quote>six years</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id740de7b6e6104c3ba9e3ab63778a44b1">
+                <enum>204.</enum>
+                <header>Extension of authority to maintain regional office in Republic of
+                    Philippines</header>
+ <text display-inline="no-display-inline">Section 315(b) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+        </title>
+        <title style="OLC" id="id55cad05051124beb935ade96f9112fc7">
+            <enum>III</enum>
+            <header>Housing</header>
+            <section commented="no" display-inline="no-display-inline" id="id733dbcc3551e400b897240c4d9bcc021">
+                <enum>301.</enum>
+                <header>Extension of authorization of appropriations for homeless women veterans and
+                    homeless veterans with children reintegration grant program</header>
+ <text display-inline="no-display-inline">Section 2021A(f)(1) of title 38, United States Code, is amended by striking <quote>2025</quote> and inserting <quote>2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id423738a6acf14150b679ae489ce58b90">
+                <enum>302.</enum>
+                <header>Extension of authority for treatment and rehabilitation for seriously
+                    mentally ill and homeless veterans</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id4f5857211a7a4b429783eb1f29720922">
+                    <enum>(a)</enum>
+                    <header>General treatment</header>
+ <text display-inline="yes-display-inline">Section 2031(b) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+                </subsection>
+                <subsection id="id926ad96aa6ad492195714b5674c330d3" commented="no">
+                    <enum>(b)</enum>
+                    <header>Additional services at certain locations</header>
+ <text>Section 2033(d) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idbe9c91acc3b4422b88bebe6e410bd5b6">
+                <enum>303.</enum>
+                <header>Extension of funding for financial assistance for supportive services for
+                    very low-income veteran families in permanent housing</header>
+ <text display-inline="no-display-inline">Section 2044(e)(8) of title 38, United States Code, is amended by striking <quote>2025</quote> and inserting <quote>2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id4f2f21ec31ad4c7c836dc3a766601795">
+                <enum>304.</enum>
+                <header>Extension of funding for grant program for homeless veterans with special
+                    needs</header>
+ <text display-inline="no-display-inline">Section 2061(d)(1) of title 38, United States Code, is amended by striking <quote>2025</quote> and inserting <quote>2026</quote>.</text>
+            </section>
+            <section id="id826e54102f7040278a4297115a081a5c">
+                <enum>305.</enum>
+                <header>Extension of authority to provide assistance for specially adapted housing
+                    for disabled veterans residing temporarily in housing owned by a family
+                    member</header>
+ <text display-inline="no-display-inline">Section 2102A(e) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="ida459f189f3e34eda9f05cc69b77d5874">
+                <enum>306.</enum>
+                <header>Extension of authority for specially adapted housing assistive technology
+                    grant program</header>
+ <text display-inline="no-display-inline">Section 2108(g) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section id="idd9eb0d94ef1d4567ad4f74fa47b2179f" section-type="subsequent-section">
+                <enum>307.</enum>
+                <header>Improvements to Partial Claim Program of the Department of Veterans
+                    Affairs</header>
+                <subsection id="id11b83e5eaa1443de8828feab5f1894d2">
+                    <enum>(a)</enum>
+                    <header>Clarification of relationship to other powers of Secretary</header>
+ <text>Section 3720(h) of title 38, United States Code, is amended by striking <quote>of subsection (a)</quote> and all that follows through the period at the end and inserting <quote>of subsection (a) in conjunction with the purchase of a loan under section 3732(a)(2) of this title unless the Secretary determines the purchase would be made consistent with section 3732(d) of this title.</quote>.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id0befb286fb774dbc95a3b06ea54736c0">
+                    <enum>(b)</enum>
+                    <header>Administration of Partial Claim Program</header>
+ <text>Section 3737 of such title is amended—</text> <paragraph id="idfb10e06b8d2a4500af0c426d2a16fa30"> <enum>(1)</enum> <text>in subsection (b)(2), by striking <quote>first lien guaranteed loan for such property</quote> and inserting <quote>amount of indebtedness under the guaranteed loan that the Secretary does not purchase</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id8c416f7754784c86a486b5c5d313a44c">
+                        <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idf24f8ec47c624a5d9df14fd63fbade16"> <enum>(A)</enum> <text display-inline="yes-display-inline">in paragraph (2)(B)(ii), by striking <quote>120 days</quote> and inserting <quote>180 days</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idcde2234958ad4d6f924a79d55d0a9719">
+                            <enum>(B)</enum>
+ <text>by amending paragraph (3) to read as follows:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="ideeff8ca4eec541b189f496a07558cf86"> <paragraph id="id1f0d5b6fbcf24468b6957c07957c8aac" indent="up1"> <enum>(3)</enum> <text>An amount paid to the holder of a loan as a partial claim—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6bc595c3b4524744a3dabd00e7793a8e">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">shall not alter the guaranty calculation specified by section 3703 of this title;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id69d5cb62c9b44fd0a879927e011229a5">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">shall be included, for the purpose of a liquidation sale, in the same manner as any other advance allowed by the Secretary; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id9557e98372a646e2a329316c1c216ea6">
+                                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">shall not be claimed under the guaranty or increase the Secretary’s cost of acquisition of the property securing the defaulted loan.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id26a6794df7734c7dbda5ef5f1cdf6ca1">
+                    <enum>(c)</enum>
+                    <header>Requirements of loan holder</header>
+ <text>Section (d)(1) of such section is amending by inserting <quote>and servicing the loan</quote> after <quote>documents</quote>.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id792f7a8e773a44989549512f761e572b">
+                    <enum>(d)</enum>
+                    <header>Default and foreclosure</header>
+ <text>Subsection (e) of such section is amended—</text> <paragraph id="id3a7f88433a604feaaeb7d4004ef38973"> <enum>(1)</enum> <text>in paragraph (1)—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="iddd101c0be54d414c847e1968bf1202aa">
+                            <enum>(A)</enum>
+ <text>in subparagraph (A), by striking <quote>an individual who</quote> and all that follows through the period at the end and inserting the following: <quote>a borrower who defaults on a partial claim shall be liable to the Secretary for any loss suffered by the Secretary with respect to such default, and such loss may be recovered in the same manner as any other debt due the United States. The Secretary shall not restore housing loan entitlement under section 3702(b) of this title until such loss is repaid in full.</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id1b56ffbb20f84309bc808f6df9bc965e">
+                            <enum>(B)</enum>
+ <text>by amending subparagraph (B) to read as follows:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id6c015525ad9a4aab9f3818a4ff9d333a"> <subparagraph id="ida9ce6f9107e940aa9f167ef6b134e5b1" indent="up2"> <enum>(B)</enum> <text>The Secretary may charge administrative costs, fees, and interest, as appropriate, with respect to any default under a partial claim in a manner similar to the interest and administrative costs charged under section 5315 of this title.</text>
+                                </subparagraph>
+                                <after-quoted-block>; and </after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ide7e4b2d95f8f46e4b12f5295de692718">
+                        <enum>(2)</enum>
+ <text>by amending paragraph (2) to read as follows:</text> <quoted-block id="idC07DDEDFB6DB4D87A444571AEC8AE7CC" style="USC" act-name=""> <paragraph indent="up1" id="id1C3D45DDC71B4EBF93A054F6A66FEF84"> <enum>(2)</enum> <text>Notwithstanding section 2410 of title 28, a non-judicial sale of real property to satisfy a loan guaranteed under this chapter shall discharge the property from a partial claim interest held by the Secretary, provided that the holder of the guaranteed loan conducts the non-judicial sale and distributes the sale proceeds, if any, in accordance with the State or local law where such property is situated.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="ide1f9aeb945da40ccbd87b10cd79870b8">
+                    <enum>(e)</enum>
+                    <header>Guidance in advance of regulations</header>
+ <text>Subsection (h) of such section is amended to read as follows:</text> <quoted-block id="id08F6B0C6F1214B8192390599345F7B96" style="USC" act-name=""> <subsection id="id9A19298079184EF495AF5842B3467E1F"> <enum>(h)</enum> <header>Guidance in advance of regulations</header> <text>Notwithstanding any other provision of law, the Secretary may, before prescribing regulations, issue administrative guidance with respect to the Partial Claim Program under this section and the loss mitigation options prescribed under section 3732(d) of this title, including any additional terms, conditions, and requirements the Secretary determines necessary.</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idd67693d39c9f4439ad2d73184006c46e">
+                <enum>308.</enum>
+                <header>Government Accountability Office reports on Partial Claim Program of the
+                    Department of Veterans Affairs and other matters</header>
+                <subsection id="idbb19c27760e14db5a990eb3ea2493ca5" commented="no" display-inline="no-display-inline">
+                    <enum>(a)</enum>
+                    <header>Annual reports</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ida63457b032194928adab43eacf275731">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, and every year thereafter until the Partial Claim Program terminates, the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idb909085c4b3f4019a29f721eda405627">
+                        <enum>(2)</enum>
+                        <header>Elements</header>
+ <text>Each report required by paragraph (1) shall include, for the period covered by the report and disaggregated by quarter, the following:</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idc3ed0a9542fb4cff98c8beb4a96c5063">
+                            <enum>(A)</enum>
+ <text>Key data on the performance of the Partial Claim Program, including—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id751fadb428014e8da5d844f350efb56b">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the number of partial claims filed and approved; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idb93b1cd087ab4b2f8fe634f7e108bfe3">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the redefault and foreclosure rates of loans for which a partial claim was made.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id7228e7961c8a46e59fffd1506f8c9b07">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">A comparison of the data described in subparagraph (A) with data on the performance of other loss mitigation options provided by the Department of Veterans Affairs.</text>
+                        </subparagraph>
+                        <subparagraph id="H1B9390DB00AE4008A9ACB76F41202491">
+                            <enum>(C)</enum>
+ <text>The number of housing loans insured, guaranteed, or made by the Secretary of Veterans Affairs under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/37">chapter 37</external-xref> of title 38, United States Code.</text>
+                        </subparagraph>
+                        <subparagraph id="H2DB9D22DA93140CA93284ECEDBB75176">
+                            <enum>(D)</enum>
+ <text>The number of applications for housing loan benefits under such chapter denied.</text>
+                        </subparagraph>
+                        <subparagraph id="HC98A15826E0F4C0891FA61581070951F">
+                            <enum>(E)</enum>
+ <text display-inline="yes-display-inline">The number of housing loans insured, guaranteed, or made by the Secretary under such chapter refinanced under section 3710(a)(8) or 3712 of title 38, United States Code.</text>
+                        </subparagraph>
+                        <subparagraph id="H1BAB510213F340EBA40948EEEA9DA185">
+                            <enum>(F)</enum>
+ <text display-inline="yes-display-inline">The number of veterans who owe a payment on a mortgage associated with a loan insured, guaranteed, or made by the Secretary under such chapter that is at least—</text>
+                            <clause id="H5DFAF77C13B74545B3A392BF7859043F">
+                                <enum>(i)</enum>
+ <text>60 days late; and</text> </clause> <clause id="H627DDDE248DF4E8A987008A68603EE54"> <enum>(ii)</enum> <text>90 days late.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id3898ce967b3b4ecca05ea3ccf9dd9901">
+                    <enum>(b)</enum>
+                    <header>Assessment</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id68d90e4f91034cb1b9707ccc90a589b6">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than one year before the Partial Claim Program terminates, the Comptroller General shall—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id41f59e8329b84b7fb488460e8c67a9db">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">conduct an assessment of the benefits and challenges of the Partial Claim Program; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idc452091430f942c3b7b40b9bf5f465f1">
+                            <enum>(B)</enum>
+ <text>submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the findings of the Comptroller General with respect to that assessment.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id903d8825d636428eae216827c7121c04">
+                        <enum>(2)</enum>
+                        <header>Considerations</header>
+ <text>In conducting the assessment required by paragraph (1), the Comptroller General shall consider the following:</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id9123c836070e480fb88eb2e492185aed">
+                            <enum>(A)</enum>
+ <text>The characteristics of borrowers for whom a partial claim was made compared to the characteristics of borrowers provided other loss mitigation options by the Department of Veterans Affairs.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id34dc4e4f72924a3c855eca580e458ee8">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">The performance of loans guaranteed under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/37">chapter 37</external-xref> of title 38, United States Code, following various loss mitigation actions.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id45cb606a3bc04d5e9ed4e3a324ee4637">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">The information the Department considered in determining whether a borrower would benefit from a partial claim compared to other loss mitigation options.</text>
+                        </subparagraph>
+                        <subparagraph id="id092bd61c8e4e44c482289c57bfbbc060">
+                            <enum>(D)</enum>
+ <text>The costs to taxpayers of the Partial Claim Program compared to the costs of other loss mitigation options provided by the Department.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id8c35c67614584dec8d12b16e0c8f1d99">
+                            <enum>(E)</enum>
+ <text>Any similarities and differences in the Department's administration and use of the Partial Claim Program compared to the Department's administration and use of the COVID–19 Veterans Assistance Partial Claim Payment program established under subpart F of part 36 of title 38, Code of Regulations.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id62a853211a374042983a13497dfb4db5">
+                            <enum>(F)</enum>
+ <text display-inline="yes-display-inline">The information the Department learned from the COVID–19 Veterans Assistance Partial Claim Payment program and the extent to which those lessons learned were applied to the Partial Claim Program.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id1c7f4a8ab5054abdb65306b84cfc53f6">
+                            <enum>(G)</enum>
+ <text>The types of information the Department collected to monitor the performance and effectiveness of the Partial Claim Program and how the Department used that information to make any needed adjustments to the program.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id28bb2b525f4b492b92bbd0315282374e">
+                            <enum>(H)</enum>
+ <text>How the use by the Department of partial claims compares to the use of partial claims by other Federal housing agencies, including, for each partial claim program—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id9ba10bd4797d453cbbde8580d13c0568">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the volume of loans for which partial claims have been made;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="ida148a1cce8b949c780c4378aa0ac6ee4">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the results for borrowers (including redefault and foreclosure rates); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id3fa7e61f769a449b87b9dabeaae36f14">
+                                <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">the costs to taxpayers.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id60bce047a6f6462cbd6886a385030934" commented="no" display-inline="no-display-inline">
+                    <enum>(c)</enum>
+                    <header>Partial Claim Program defined</header>
+ <text>In this section, the term <term>Partial Claim Program</term> means the Partial Claim Program of the Department of Veterans Affairs carried out under section 3737 of title 38, United States Code.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="idb79642b25d834e34a6b704276fcbd033" style="OLC">
+            <enum>IV</enum>
+            <header>Other matters</header>
+            <section id="id5883b29783314ca0875065fe09b1bfcd">
+                <enum>401.</enum>
+                <header>Extension of subpoena authority of Inspector General of Department of
+                    Veterans Affairs</header>
+ <text display-inline="no-display-inline">Section 312(d)(7)(A) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id62f2960c5dd74317b914467dfe69b396">
+                <enum>402.</enum>
+                <header>Extension of requirement for annual report on use of authority to provide
+                    equitable relief</header>
+ <text display-inline="no-display-inline">Section 503(c) of title 38, United States Code, is amended by striking <quote>December 31, 2025</quote> and inserting <quote>December 31, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id7e700cae60464416abda98e948f72a2b">
+                <enum>403.</enum>
+                <header>Extension of authority for Secretary of Veterans Affairs to transport
+                    individuals to and from facilities of Department of Veterans Affairs</header>
+ <text display-inline="no-display-inline">Section 111A(a)(2) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idf9ad07dd326d421aa6a5efa17388e0ec">
+                <enum>404.</enum>
+                <header>Extension of authority relating to vendee loan program</header>
+ <text display-inline="no-display-inline">Section 3733(a)(8) of title 38, United States Code, is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idcbd12748ce194083af3def4dd35d47db">
+                    <enum>(1)</enum>
+ <text>in the matter preceding subparagraph (A), by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idfa1a066e3670488390db93bbc8855f60">
+                    <enum>(2)</enum>
+ <text>in subparagraph (C), by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+                </paragraph>
+            </section>
+            <section id="id1a3b796724614f528f5f268c87cf555c" commented="no" display-inline="no-display-inline" section-type="subsequent-section">
+                <enum>405.</enum>
+                <header>Extension of authority for transfer of real property</header>
+ <text display-inline="no-display-inline">Section 8118(a)(5) of title 38, United States Code, is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2026</quote>.</text>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

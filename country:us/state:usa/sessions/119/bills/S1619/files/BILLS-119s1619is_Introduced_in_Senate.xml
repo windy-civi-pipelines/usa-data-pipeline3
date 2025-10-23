@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ALL25402-PY4-31-LSM">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1619 IS: Post-Disaster Assistance Online Accountability Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1619</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250506">May 6, 2025</action-date>
+            <action-desc><sponsor name-id="S378">Mr. Lankford</sponsor> (for himself and <cosponsor name-id="S388">Ms. Hassan</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSGA00">Committee on
+                    Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for an online repository for certain reporting requirements for
+            recipients of Federal disaster assistance, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HD3D0C2EB42E1423F8A0488B0B3178382">
+        <section section-type="section-one" id="HB91902BBEC134B6DBF0B0C3DFED3A5E4">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Post-Disaster Assistance Online Accountability Act</short-title></quote>.</text>
+        </section>
+        <section id="H50678F9A5268481082B49DAF5B6D31F1">
+            <enum>2.</enum>
+            <header>Subpage for transparency of disaster assistance</header>
+            <subsection id="H5F2636B24D4B4B098B3FF8D691C0CEE5">
+                <enum>(a)</enum>
+                <header>Establishment of repository for reporting requirements</header>
+ <text display-inline="yes-display-inline">The Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury and the head of each covered Federal agency, shall establish a subpage within the website established under section 2 of the Federal Funding Accountability and Transparency Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note) to publish the information required to be made available to the public under this section.</text>
+            </subsection>
+            <subsection commented="no" id="H9FD2B032327A4D63B59285B6114DAE54">
+                <enum>(b)</enum>
+                <header>Submission of information by Federal agencies</header>
+ <text display-inline="yes-display-inline">Not later than 30 days after the end of a calendar quarter, the head of each covered Federal agency that made disaster assistance available to an eligible recipient during such quarter shall, in coordination with the Director of the Office of Management and Budget, make available to the public on the subpage established under subsection (a) the information described in subsection (c), and ensure that any data asset of the covered Federal agency is machine readable.</text>
+            </subsection>
+            <subsection id="H851E3AB55F2549A3A3079517D8A66F79">
+                <enum>(c)</enum>
+                <header>Information required</header>
+ <text>The information described in this subsection is, with respect to disaster assistance provided by a covered Federal agency—</text>
+                <paragraph id="HED60A86AB77148D4878208A9AB688355">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the total amount of disaster assistance provided by the covered Federal agency during such quarter;</text>
+                </paragraph>
+                <paragraph id="H93970DD4EED5418788815D69B7FFCA45">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the amount of disaster assistance provided by the covered Federal agency that was expended or obligated to projects or activities; and</text>
+                </paragraph>
+                <paragraph id="H9C1EB4E5A0FB4317A72DFFA051CC3752">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">a detailed list of all projects or activities for which disaster assistance dispersed by the agency was expended, obligated, or used, including—</text>
+                    <subparagraph id="H08191E91D2234166B5D7DF00DE29C61C">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the name of the project or activity;</text>
+                    </subparagraph>
+                    <subparagraph id="HB8D8345791F149E7BA01D571B163D5AF">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a description of the project or activity;</text>
+                    </subparagraph>
+                    <subparagraph id="H2F9D42587B86417683377ACBFF60D8E0">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">an evaluation of the completion status of the project or activity;</text>
+                    </subparagraph>
+                    <subparagraph id="H1117A1FAF63947E69CC248153C909F46">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">any award identification number assigned to the project;</text>
+                    </subparagraph>
+                    <subparagraph id="HF7593B25D19B46E68D715721A47B2EF6">
+                        <enum>(E)</enum>
+ <text display-inline="yes-display-inline">the Catalog for Disaster Assistance number assigned by the Federal Emergency Management Agency;</text>
+                    </subparagraph>
+                    <subparagraph id="HE2D152ACEF474EEA8A85FB40BD0D5FCB">
+                        <enum>(F)</enum>
+ <text display-inline="yes-display-inline">the location of the project, including ZIP Codes; and</text>
+                    </subparagraph>
+                    <subparagraph id="HC41447E366E6466398D03C8629C5C76C">
+                        <enum>(G)</enum>
+ <text display-inline="yes-display-inline">any reporting requirement information being collected by a covered Federal agency with respect to that covered Federal agency’s disaster assistance.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H87515F065ACD4655BCD7797997B5C899">
+                <enum>(d)</enum>
+                <header>Guidance</header>
+ <text>The head of each covered Federal agency, in coordination with the Director of the Office of Management and Budget and the Secretary of the Treasury, shall issue such guidance as is necessary to meet the requirements of this Act.</text>
+            </subsection>
+            <subsection id="H5D201D39C93341D48160B6E29B14B8C5">
+                <enum>(e)</enum>
+                <header>Agreement with private entity</header>
+ <text display-inline="yes-display-inline">The Director of the Office of Management and Budget, if necessary for purposes of transparency, may enter into an agreement with a private entity, including a nonprofit organization, to develop the subpage required under this section.</text>
+            </subsection>
+        </section>
+        <section id="H4D647D2E147B4257A01711C25201A06A">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act, the following definitions apply:</text>
+            <paragraph id="H141A34E4F18C43379F91577FF4D164F6">
+                <enum>(1)</enum>
+                <header>Covered Federal agency</header>
+ <text>The term <term>covered Federal agency</term> means—</text> <subparagraph id="HF5B0D753E7304E1B84B9779D12D802A0"> <enum>(A)</enum> <text display-inline="yes-display-inline">any agency providing assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="H1773DDD87BEA4612B0A29A0F5E0E1B5F">
+                    <enum>(B)</enum>
+ <text>the Small Business Administration; and</text> </subparagraph> <subparagraph id="H03BC9F821E9E457EBA636E6C14ED99C7"> <enum>(C)</enum> <text display-inline="yes-display-inline">the Department of Housing and Urban Development.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H030341DA03A04EF19AFB9236B1A0459B">
+                <enum>(2)</enum>
+                <header>Disaster assistance</header>
+ <text display-inline="yes-display-inline">The term <term>disaster assistance</term> means any funds that are made available by the Federal Government in response to a specified natural disaster, including—</text>
+                <subparagraph id="H6A0B6F9279A54040AB1A8E2F9233D0C4">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">any assistance provided by the Administrator of the Small Business Administration as a result of a disaster declared under section 7(b) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(b)</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="H6CBEE1596A50483C986623FC33BD579D">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any assistance provided by the Secretary of Housing and Urban Development for activities authorized under title I of the Housing and Community Development Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/5301">42 U.S.C. 5301 et seq.</external-xref>) related to disaster relief, long-term recovery, restoration of infrastructure and housing, and economic revitalization in the most impacted and distressed areas resulting from a major disaster declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="H4A3D8B7E86FA4FBC94FE4FE3479DC869" commented="no">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">flood insurance coverage provided under the National Flood Insurance Program pursuant to the National Flood Insurance Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/4001">42 U.S.C. 4001 et seq.</external-xref>); and</text>
+                </subparagraph>
+                <subparagraph id="H4A2AC1E552B14C9AAB6A1586329AE7B5">
+                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">any assistance provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5121">42 U.S.C. 5121 et seq.</external-xref>).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HDBB4FA3D5C3049D98DBFC37B3D184514">
+                <enum>(3)</enum>
+                <header>Eligible recipient</header>
+ <text>The term <term>eligible recipient</term>—</text> <subparagraph id="H1521CD8D9F494AE5BCB5ACD1D8C43CD9"> <enum>(A)</enum> <text>means any entity that receives disaster assistance directly from the Federal Government (including disaster assistance received through a grant, loan, or contract), other than an individual; and</text>
+                </subparagraph>
+                <subparagraph id="H0C75C1AD53E64A408C2D64D056FB8F40">
+                    <enum>(B)</enum>
+ <text>includes a State that receives disaster assistance.</text> </subparagraph> </paragraph> <paragraph id="HE9433B87428646D5AADCD16FF8323A1F"> <enum>(4)</enum> <header>Specified natural disaster</header> <text>The term <term>specified natural disaster</term> means—</text>
+                <subparagraph id="H4900A7EA692C40B995522A8980F205C9">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a fire on public or private forest land or grassland described in section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5187">42 U.S.C. 5187</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="H48299149F02447E8A22E491245A2012E">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a major disaster declared by the President under section 401 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="HA7514986340B40E9AE02390365CF5A21">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">an emergency declared by the President under section 501 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5191">42 U.S.C. 5191</external-xref>); and</text>
+                </subparagraph>
+                <subparagraph commented="no" id="H927AE46CB7E74A80BC0EC6FCA9F600D8">
+                    <enum>(D)</enum>
+ <text>any other natural disaster for which a disaster declaration is made by the Federal Government.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

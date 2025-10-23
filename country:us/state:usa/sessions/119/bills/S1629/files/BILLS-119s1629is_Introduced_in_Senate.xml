@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25328-T4P-XL-HSS">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1629 IS: Same Care, Lower Cost Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1629</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250506">May 6, 2025</action-date>
+            <action-desc><sponsor name-id="S389">Mr. Kennedy</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to align Medicare
+            fee-for-service payment rates across ambulatory settings.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Same Care, Lower Cost Act</short-title></quote>.</text>
+        </section>
+        <section id="HC042E2A96CEC4D4BAB4E614CA58848D3">
+            <enum>2.</enum>
+            <header>Aligning Medicare fee-for-service payment rates across ambulatory
+                settings</header>
+            <subsection id="H68199C1783054830B4D4585D8500CF6E">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1834 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m</external-xref>) is amended by adding at the end the following new subsection:</text>
+                <quoted-block style="OLC" id="H27FEC69EDD0842C0852DAA430F117D02" display-inline="no-display-inline">
+                    <subsection id="HF5041DA5155549D38D482C8EF2E94790">
+                        <enum>(aa)</enum>
+                        <header>Site neutral payments for certain services furnished in ambulatory
+                            settings</header>
+                        <paragraph id="H3DFC4865B8424583A8EBA6471774F785">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">For items and services furnished in a specified ambulatory setting during 2027 or a subsequent year and included in an ambulatory payment classifications identified pursuant to paragraph (2) for such year, payment under this part shall be made at the applicable site neutral payment rate under this part (as determined by the Secretary) if the requirements for such payment are otherwise met.</text>
+                        </paragraph>
+                        <paragraph id="H41ABC31C6B674F62A10AD4E48C43DDA4">
+                            <enum>(2)</enum>
+                            <header>Identification of services to which site neutral payments
+                                apply</header>
+ <text display-inline="yes-display-inline">For 2027 and subsequent years:</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id2c4e0f81f7b94396acdc03c59a97bad3">
+                                <enum>(A)</enum>
+                                <header>Identification</header>
+                                <clause commented="no" display-inline="no-display-inline" id="id5bcd6018d58941e69939ede48ff8cdd9">
+                                    <enum>(i)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>The Secretary shall identify not fewer than 66 ambulatory payment classifications for site neutral payments which are appropriately furnished in either a hospital outpatient department, ambulatory surgical center, or other setting determined appropriate by the Secretary.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id5a381badcb224d81b6b6460baa453118">
+                                    <enum>(ii)</enum>
+                                    <header>Additional APCs</header>
+ <text>The Secretary may add additional ambulatory payment classifications to those identified under clause (i) as the Secretary determines clinically appropriate</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idb5f6ccfc071f4c7f93401ce6fd3d86df">
+                                <enum>(B)</enum>
+                                <header>Exception</header>
+ <text display-inline="yes-display-inline">The Secretary shall reclassify the ambulatory payment classifications for emergency department visits, critical care visits, and trauma care visits at a hospital outpatient department as Comprehensive APCs, in which all the items and services on the same claim are packaged into a single payment unit. Any item or service that is provided with such a visit so reclassified shall not be treated as an item or service identified under subparagraph (A), and shall not be subject to the provisions of paragraph (1). The Secretary may, pursuant to rulemaking, specify exceptions to any reclassification under the first sentence of this subparagraph.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idd49d9ff2253e4dedaa1dba98eb15fb01">
+                            <enum>(3)</enum>
+                            <header>Consideration of MedPAC recommendations</header>
+ <text display-inline="yes-display-inline">In carrying out this subsection (including the identification of services under paragraph (2)), the Secretary shall take into consideration the recommendations of the Medicare Payment Advisory Commission in Chapter 8 (entitled <quote>Aligning fee-for-service payment rates across ambulatory settings</quote>) of its <quote>Medicare and the Health Care Delivery System</quote> report submitted to Congress in June 2023.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idbb15379137894ff5b88aab79f66366ea">
+                            <enum>(4)</enum>
+                            <header>Definition of specified ambulatory setting</header>
+ <text display-inline="yes-display-inline">In this subsection, the term <term>specified ambulatory setting</term> means a hospital outpatient department, ambulatory surgical center, or other setting determined appropriate by the Secretary.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H0B5BFD70CCF646BD85D8363B097CF645">
+                <enum>(b)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H3695710CA98648ADA4E74AA77C41C633">
+                    <enum>(1)</enum>
+                    <header>Payment system for ambulatory surgical center services</header>
+ <text display-inline="yes-display-inline">Section 1833(i)(2)(D)(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l(i)(2)(D)(i)</external-xref>) is amended by striking <quote>for payment</quote> and inserting <quote>for, subject to section 1834(aa), payment</quote>.</text>
+                </paragraph>
+                <paragraph id="H55C27AE042E94E70B0D1CECF136DDF22">
+                    <enum>(2)</enum>
+                    <header>HOPD fee schedule</header>
+ <text display-inline="yes-display-inline">Section 1833(t) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l(t)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id742abd89f7cd484eb3653e0212b90043">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in paragraph (1)(A), by striking <quote>the amount of payment</quote> and inserting <quote>subject to section 1834(aa), the amount of payment</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="idef392b8be96c43e9a08be4b33177f464" commented="no">
+                        <enum>(B)</enum>
+ <text>in paragraph (9)(B), by adding at the end the following: <quote>In determining adjustments under this subparagraph for 2027 or a subsequent year, the Secretary shall not take into account under this subparagraph or paragraph (2)(E) any changes in expenditures as a result of the application of section 1834(aa).</quote></text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HC63A4DE451CC4A4786F72064C04B11A2">
+                    <enum>(3)</enum>
+                    <header>Physician fee schedule</header>
+ <text display-inline="yes-display-inline">Section 1848(a)(1)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">42 U.S.C. 1395w–4(a)(1)(B)</external-xref>) is amended by inserting <quote>and section 1834(aa)</quote> after <quote>succeeding provisions of this subsection</quote>.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

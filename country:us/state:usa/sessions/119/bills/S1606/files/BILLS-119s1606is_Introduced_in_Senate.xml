@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25542-FJ4-2S-GK5">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1606 IS: Overtime Wages Tax Relief Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1606</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250506">May 6, 2025</action-date>
+            <action-desc><sponsor name-id="S411">Mr. Marshall</sponsor> (for himself, <cosponsor name-id="S412">Mr. Tuberville</cosponsor>, <cosponsor name-id="S423">Mr.
+                    Ricketts</cosponsor>, and <cosponsor name-id="S437">Mr. Justice</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to establish a deduction for
+            certain overtime payments.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HD1164C70CF834D95A0BB1007913E024D">
+        <section section-type="section-one" id="HE1DC72F0264E4E2DB967B7553510EB87">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Overtime Wages Tax Relief Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="HAE84E6560D85491CAE5A6BD5B1FE3A06">
+            <enum>2.</enum>
+            <header>Deduction for overtime compensation</header>
+            <subsection commented="no" display-inline="no-display-inline" id="H16292A19FB3C4EFDBDBD9ECCEADF6BB1">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="HD635B2BF9B594E40BF03723271D51120">
+                    <enum>(1)</enum>
+                    <header>Deduction allowed</header>
+ <text display-inline="yes-display-inline">Part VII of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating section 224 as section 225 and by inserting after section 223 the following new section:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H5AF9CF5DD45D45609CADAEAD6C99DB34">
+                        <section commented="no" display-inline="no-display-inline" id="H1A70292E054542BCA1C0201259DA1CA3">
+                            <enum>224.</enum>
+                            <header>Overtime compensation</header>
+                            <subsection id="HA9BDEE09430541519624948AA3BF153E">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">There shall be allowed as a deduction an amount equal to so much of any overtime compensation received by an individual as does not exceed $10,000 ($20,000 in the case of a joint return) for the taxable year.</text>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id64232987ade54769a5b26b16967984d3">
+                                <enum>(b)</enum>
+                                <header>Limitation</header>
+ <text>The amount of the deduction allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds $100,000 ($200,000 in the case of a joint return). For purposes of the preceding sentence, the term <term>modified adjusted gross income</term> means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.</text>
+                            </subsection>
+                            <subsection id="id27B7898B4A5C48BF9F704996B465D1CC">
+                                <enum>(c)</enum>
+                                <header>Overtime compensation</header>
+ <text>For purposes of this section, the term <term>overtime compensation</term> means compensation that is paid to a taxpayer—</text>
+                                <paragraph id="id5A91AC5A02E340DBB000B529C8C431AE">
+                                    <enum>(1)</enum>
+ <text>at a rate of not less than one and one-half times the regular rate at which the taxpayer is employed, and</text>
+                                </paragraph>
+                                <paragraph id="idAB5F9C05113D4F148C8243D6E5136A46">
+                                    <enum>(2)</enum>
+ <text>for work for a single employer that is in excess of a maximum number of hours of such work for a specified period of time as required pursuant to—</text>
+                                    <subparagraph id="idC18BBC51310647DDAEC64D188A9B6CB5">
+                                        <enum>(A)</enum>
+ <text>section 7 of the Fair Labor Standards Act of 1938, or</text>
+                                    </subparagraph>
+                                    <subparagraph id="idC718A0C3DFFE41539499F44AE4D26194">
+                                        <enum>(B)</enum>
+ <text>an agreement that—</text> <clause commented="no" display-inline="no-display-inline" id="id7f55231c7b404913922779a244d2d21e"> <enum>(i)</enum> <text display-inline="yes-display-inline">is a collective bargaining agreement or an agreement or understanding arrived at between the employer and the employee before performance of the work, and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id5f882306b70d436bad8f1ed962f4a317">
+                                            <enum>(ii)</enum>
+ <text>provides that such maximum number of hours for a specified period of time is not less than 40 hours for a 7-day work period. </text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id46ba401d846449a48eaf8b3c4963063b">
+                                <enum>(d)</enum>
+                                <header>Regulations</header>
+ <text display-inline="yes-display-inline">The Secretary shall provide such regulations or other guidance as may be necessary to carry out this section.</text>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H148560D5FEB342A7B56E0B519493C9DF">
+                    <enum>(2)</enum>
+                    <header>Conforming amendment</header>
+ <text>The table of sections for part VII of subchapter B of chapter 1 of such Code is amended by redesignating the item relating to section 224 as relating to section 225 and by inserting after the item relating to section 223 the following new item:</text>
+                    <quoted-block style="OLC" id="H179D987E43314C34AC6A89774482F22E">
+                        <toc container-level="quoted-block-container" quoted-block="no-quoted-block" lowest-level="section" idref="H5AF9CF5DD45D45609CADAEAD6C99DB34" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded">
+                            <toc-entry idref="H1A70292E054542BCA1C0201259DA1CA3" level="section">Sec. 224. Overtime payments.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="H6CD06F9D7DFE4413ACC2515ACA0489EA">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Deduction allowed to
+                    non-Itemizers</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/63">Section 63(b)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (3), by striking the period at the end of paragraph (4) and inserting <quote>and</quote>, and by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="HBAC23068D2D44F9984872C7FA6635271">
+                    <paragraph commented="no" display-inline="no-display-inline"
+                        id="H7EEE15FD5E85490196CAFA41C53FD6DE">
+                        <enum>(5)</enum>
+ <text>the deduction provided in section 224.</text> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="HD2537E8DD26C452388B84695E2860EEA"> <enum>(c)</enum> <header>Non-Application of certain limitations for itemizers</header> <paragraph commented="no" display-inline="no-display-inline" id="HABF7060F46E246BCB40B52C28F3858CE"> <enum>(1)</enum> <header display-inline="yes-display-inline">Deduction not treated as a miscellaneous itemized deduction</header> <text><external-xref legal-doc="usc" parsable-cite="usc/26/67">Section 67(b)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (11), by striking the period at the end of paragraph (12) and inserting <quote>, and</quote>, and by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HCE13B8B394C64628BFADAED8AD6B8646">
+                        <paragraph commented="no" display-inline="no-display-inline" id="HCCE38BE3DAB046BE824E2B613B2A34EB">
+                            <enum>(13)</enum>
+ <text>the deduction under section 224 (relating to overtime compensation).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H7EA4EBB9F819439091B818FFE3EDBBA4">
+                    <enum>(2)</enum>
+                    <header>Deduction not taken into account under overall limitation</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/68">Section 68(c)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (2), by striking the period at the end of paragraph (3) and inserting <quote>, and</quote>, and by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H6FDD206297324C39A32F6B21F24FE0BD">
+                        <paragraph commented="no" display-inline="no-display-inline" id="H55EDC7BA4D174F89BD1AB65BC03BFFD6">
+                            <enum>(4)</enum>
+ <text display-inline="yes-display-inline">the deduction under section 224 (relating to overtime compensation).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="idb46b793b6f61460db80fbba6cdf2cee5">
+                <enum>(d)</enum>
+                <header>Reporting</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6051">Section 6051(a)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting <quote>, and</quote>, and by inserting after paragraph (17) the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id90fd83656fe0407d8f7b8426c53c2f0d">
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcc701f72cbd5479685c63c08c1f9b57f">
+                        <enum>(18)</enum>
+ <text>the total amount of overtime compensation as defined in section 224(b).</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HCADCDE6C279E4E5D9B9E72CED870D3ED">
+                <enum>(e)</enum>
+                <header>Withholding</header>
+ <text>The Secretary of the Treasury (or the Secretary's delegate) shall modify the tables and procedures prescribed under <external-xref legal-doc="usc" parsable-cite="usc/26/3402">section 3402(a)</external-xref> of the Internal Revenue Code of 1986 to take into account the deduction allowed under section 224 of such Code (as added by this Act).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="HA2CA3FA9063D4425B3517E6B68FD05A7">
+                <enum>(f)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
