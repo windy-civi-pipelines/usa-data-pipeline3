@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-PAT25296-3T8-KJ-6CF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2619 IS: More Opportunities for Rural Economies from DOT Grants Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2619</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S385">Ms. Cortez Masto</sponsor> (for herself, <cosponsor name-id="S375">Mr. Daines</cosponsor>, and <cosponsor name-id="S427">Mr.
+                    Schiff</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSCM00">Committee on Commerce,
+                    Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve the process for awarding grants under certain programs of the
+            Department of Transportation to certain counties in which the majority of land is owned
+            or managed by the Federal Government and to other units of local government and Tribal
+            governments in those counties, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>More Opportunities for Rural Economies from DOT Grants Act</short-title></quote> or the <quote><short-title>MORE DOT Grants Act</short-title></quote>.</text>
+        </section>
+        <section id="idC3F81103AB8B499B90D2167BDD57B249">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id767DC3C3F5C84F0988520558889882AD"> <enum>(1)</enum> <header>High-Density Public Land County</header> <text>The term <term>High-Density Public Land County</term> means a county (or equivalent jurisdiction) of a State or territory of the United States—</text>
+                <subparagraph id="idFCF616312463467A9C7F12A063B96D6C">
+                    <enum>(A)</enum>
+ <text>that has a population of not more than 100,000 people, according to the most recent annual estimates of population by the Bureau of the Census; and</text>
+                </subparagraph>
+                <subparagraph id="id92C855B8B6B7471082F03CEDD2E33715">
+                    <enum>(B)</enum>
+ <text>in which more than 50 percent of the land is owned or managed by the Federal Government.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idDC97B1DA574E41289D514D69ED23DEE0">
+                <enum>(2)</enum>
+                <header>Qualifying grant program</header>
+ <text>The term <term>qualifying grant program</term> means—</text> <subparagraph id="idA8E8B3E45A2040408EF17002D1E3C861"> <enum>(A)</enum> <text>the Local and Regional Project Assistance Program established under section 6702 of title 49, United States Code (commonly known as the <quote>Better Utilizing Investments to Leverage Development (BUILD) grant program</quote> and formerly known as the <quote>Rebuilding American Infrastructure with Sustainability and Equity (RAISE) grant program</quote> and the <quote>Transportation Investment Generating Economic Recovery (TIGER) discretionary grant program</quote>);</text>
+                </subparagraph>
+                <subparagraph id="idADD0EB41C8754880A2F989FBFEED2BB8">
+                    <enum>(B)</enum>
+ <text>the national infrastructure project assistance program (commonly known as the <quote>Mega Grant program</quote>) established by section 6701 of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="idC6DD8EDAF72444B6873AF371BFE9BF9C">
+                    <enum>(C)</enum>
+ <text>the nationally significant multimodal freight and highway projects program (commonly known as the <quote>Infrastructure for Rebuilding America (INFRA) grant program</quote>) established by section 117 of title 23, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="idCC9BFA13268F466E9E9CEFA1E9124165">
+                    <enum>(D)</enum>
+ <text>the rural surface transportation grant program established under section 173 of title 23, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id95CF64D67EEC44A1B9264B81350B9248">
+                    <enum>(E)</enum>
+ <text>the Reconnecting Communities Pilot Program established under section 11509 of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/23/101">23 U.S.C. 101</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="id27FA824A422C42F18409807DE504FF07">
+                    <enum>(F)</enum>
+ <text>the Strengthening Mobility and Revolutionizing Transportation (SMART) Grant Program established under section 25005 of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/23/502">23 U.S.C. 502</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>);</text>
+                </subparagraph>
+                <subparagraph id="id77FCC72D277F422EBBC0D0252C2D3402">
+                    <enum>(G)</enum>
+ <text>the Grants for Buses and Bus Facilities competitive grant program established under section 5339(b) of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id7C06987734134696B076DA5D94E52AD0">
+                    <enum>(H)</enum>
+ <text>the public transportation Low or No Emission Vehicle Program established under section 5339(c) of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id4D0E27E0DEF14929A9B53BC27746E75B">
+                    <enum>(I)</enum>
+ <text>the public transportation innovation grant program established under section 5312 of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id4136DB3BA60744BB8870575D4EAF91A6">
+                    <enum>(J)</enum>
+ <text>the public transportation safety program established under section 5329 of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id054DAE9037E443A7A6B552BEAF95265E">
+                    <enum>(K)</enum>
+ <text>the Federal lands access program under section 204 of title 23, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id63EDDA4EB3F54B0C9E81FFBF6AA26474">
+                    <enum>(L)</enum>
+ <text>the airport improvement program established under subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/471">chapter 471</external-xref> of title 49, United States Code;</text>
+                </subparagraph>
+                <subparagraph id="id34AD69AF1C124C87901C19793593741E">
+                    <enum>(M)</enum>
+ <text>the consolidated rail infrastructure and safety improvements program under section 22907 of title 49, United States Code; and</text>
+                </subparagraph>
+                <subparagraph id="id0442868B3F1440D7800F8BE1512D7C67">
+                    <enum>(N)</enum>
+ <text>any other discretionary grant program of the Department of Transportation under which grants are awarded to—</text>
+                    <clause id="idD8B5B9EF574B4A809CC9175C6EA94C2A">
+                        <enum>(i)</enum>
+ <text>counties;</text> </clause> <clause id="idDEDF2EEE596249F2B5B809C02ED1B1AC"> <enum>(ii)</enum> <text>other units of local government; or</text>
+                    </clause>
+                    <clause commented="no" id="id4CB56F44EFA94A88AF81734C5B56B96B">
+                        <enum>(iii)</enum>
+ <text>Tribal governments.</text> </clause> </subparagraph> </paragraph> <paragraph id="id5618BA09709847628B76FD3015C26A6B"> <enum>(3)</enum> <header>Secretary</header> <text>The term <term>Secretary</term> means the Secretary of Transportation.</text>
+            </paragraph>
+            <paragraph commented="no" id="idA7D22167709E4C5C8691665577664221">
+                <enum>(4)</enum>
+                <header>Tribal government</header>
+ <text>The term <term>Tribal government</term> means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/25/5131">25 U.S.C. 5131</external-xref>).</text>
+            </paragraph>
+        </section>
+        <section id="id8D1F63AFAC214262A0EC78FFC4431DD5">
+            <enum>3.</enum>
+            <header>Grants</header>
+            <subsection id="id2788B37EF9FB4E78B024570EEBF89773">
+                <enum>(a)</enum>
+                <header>Reduction in local matching requirements</header>
+ <text>Notwithstanding any other provision of law, with respect to a High-Density Public Land County and any unit of local government or Tribal government within a High-Density Public Land County, any requirement for local matching funds under a qualifying grant program shall be reduced by 50 percent.</text>
+            </subsection>
+            <subsection id="id1EED0A709723485CB7D10A596E92973B">
+                <enum>(b)</enum>
+                <header>Technical assistance</header>
+ <text>On request of a High-Density Public Land County or any unit of local government or Tribal government within a High-Density Public Land County, the Secretary shall provide additional technical assistance to the High-Density Public Land County, unit of local government, or Tribal government before and during the annual application period for each qualifying grant program.</text>
+            </subsection>
+            <subsection id="id7CAEB5A0A1634D34A827EE0BF6113387">
+                <enum>(c)</enum>
+                <header>Priority</header>
+                <paragraph id="id70302105027242188EFBDC4C8272ECBF">
+                    <enum>(1)</enum>
+                    <header>Application approval</header>
+ <text>In approving applications for a qualifying grant program, the Secretary shall give priority to an application from a High-Density Public Land County, unit of local government within a High-Density Public Land County, or Tribal government within a High-Density Public Land County that has not received support under the qualifying grant program during the 10-year period preceding the date of the application.</text>
+                </paragraph>
+                <paragraph id="id3C19BC198C1F49D0816FC8E18C8BCAB7">
+                    <enum>(2)</enum>
+                    <header>Technical assistance and other support</header>
+ <text>In carrying out subsections (b) and (e), the Secretary may give priority to a Tribal government within a High-Density Public Land County.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id629E13A4E58D4D4B9F7B37DBD1D8CAB6">
+                <enum>(d)</enum>
+                <header>Special consideration</header>
+ <text>In approving applications for a qualifying grant program, the Secretary—</text>
+                <paragraph id="id0216C6C892AD46C1A5F1B9078CE9BBAB">
+                    <enum>(1)</enum>
+ <text>shall give special consideration to an application from a High-Density Public Land County or unit of local government within a High-Density Public Land County with respect to any rural set-aside designated for the applicable qualifying grant program by an Act of Congress; and</text>
+                </paragraph>
+                <paragraph id="id55DFEEDAD4E94128867E2EE92EB7A655">
+                    <enum>(2)</enum>
+ <text>may give special consideration to an application from a Tribal government within a High-Density Public Land County with respect to a rural set-aside described in paragraph (1).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id4963B6573020443B9111AD43218C4808">
+                <enum>(e)</enum>
+                <header>Other support</header>
+ <text>The Secretary may provide additional support, as the Secretary determines to be appropriate, for a High-Density Public Land County or a unit of local government or Tribal government within a High-Density Public Land County, including by considering and, if appropriate, offering flexibility with respect to any requirement of, or barrier to applying for or receiving assistance under, a qualifying grant program if the requirement or barrier relates to—</text>
+                <paragraph id="id0c4e5926c77d4c96ae73dc8235328086">
+                    <enum>(1)</enum>
+ <text>scoring criteria relating to numerical size and impact, such as the number of jobs created or the number of people served, which disadvantage small and isolated communities;</text>
+                </paragraph>
+                <paragraph id="ide93244cd237442ffae38f88e964a54b6">
+                    <enum>(2)</enum>
+ <text>any requirement that an applicant for a qualifying grant program partner with other institutions, such as community colleges or foundations, which may not operate in the jurisdiction of the High-Density Public Land County, unit of local government, or Tribal government seeking assistance under the qualifying grant program;</text>
+                </paragraph>
+                <paragraph id="ida7059ecf08fe4d0a88b6274e359ad29c">
+                    <enum>(3)</enum>
+ <text>any financial or cash-on-hand requirement that a High-Density Public Land County or a unit of local government or Tribal government within a High-Density Public Land County cannot meet for reasons other than any financial constraints to which the High-Density Public Land County, unit of local government, or Tribal government is subject; or</text>
+                </paragraph>
+                <paragraph id="id47ab2e0f7773455594e38cc52d9d6206">
+                    <enum>(4)</enum>
+ <text>an overly complicated or overly technical application for a qualifying grant program that deters High-Density Public Land Counties or units of local government or Tribal governments within High-Density Public Land Counties from applying for the qualifying grant program.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

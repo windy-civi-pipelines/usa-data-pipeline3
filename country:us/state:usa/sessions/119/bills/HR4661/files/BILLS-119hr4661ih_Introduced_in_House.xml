@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD9576A5533E7416E988077E2139760BC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4661 IH: Autonomous Mobility Ensuring Regulation, Innovation, Commerce, and Advancement Driving Reliability in Vehicle Efficiency and Safety Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4661</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250723">July 23, 2025</action-date><action-desc><sponsor name-id="F000480">Mr. Fong</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to clarify the preemption of State laws requiring a human occupant in an automated driving systems-equipped commercial motor vehicle, and for other purposes.</official-title></form><legis-body id="HF3EF45E48A7746E983A60D7C0313D9DC" style="OLC"> 
+<section id="HAC46BA8C5F1740F8B57D348F0023B298" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Autonomous Mobility Ensuring Regulation, Innovation, Commerce, and Advancement Driving Reliability in Vehicle Efficiency and Safety Act</short-title></quote> or the <quote><short-title>AMERICA DRIVES Act</short-title></quote>.</text> </section> <section id="HB55BB1A772E34EC6BC22623139F19C32"><enum>2.</enum><header>Preemption of State laws requiring a human occupant in an automated driving systems-equipped commercial motor vehicle</header> <subsection id="HA6D8CF21C5804C6C993068197190B848"> <enum>(a)</enum> <header>ADS-Equipped commercial motor vehicle operation</header> <paragraph id="H05D8EBDEFE514E2DB3477CCEA541C3B9"> <enum>(1)</enum> <header>In general</header> <text>Subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/311">chapter 311</external-xref> of title 49, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/49/31139">section 31139</external-xref> the following:</text>
+          <quoted-block id="H7CC171296A3D4695B94C8B85B6BF0843" style="USC">
+            <section id="HA0315FC1A70D4144939B63D08426E984">
+              <enum>31140.</enum>
+              <header>ADS-equipped commercial motor vehicle operation</header>
+              <subsection id="H5BC43B4F91D04A15A7D0D00E8B285B18">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">A commercial motor vehicle equipped with a Level 4 or Level 5 ADS may be operated in interstate commerce without—</text>
+                <paragraph id="HB9AD59ECCFA1447B8756CF4FBB86AC87">
+                  <enum>(1)</enum>
+ <text>a human driver on board such vehicle; or</text> </paragraph> <paragraph id="HCBE9A0AA5FD34B3D8C71FD29E1409999"> <enum>(2)</enum> <text>a remote human driver.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="HF4ED83CBBB5D4E6BA64A392241F866AD">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+ <text display-inline="yes-display-inline">The Secretary of Transportation shall issue regulations as necessary to implement this section.</text>
+              </subsection>
+              <subsection id="H8B39D917EEB14AFAA329D3188E01C66D">
+                <enum>(c)</enum>
+                <header>Statutory construction</header>
+ <text display-inline="yes-display-inline">Nothing in this subsection shall be construed to require a commercial motor vehicle to be equipped with an ADS.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H9F7DD4BB829B4A6AA3C84AF8381889D9">
+          <enum>(2)</enum>
+          <header>Clerical amendment</header>
+ <text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/311">chapter 311</external-xref> of title 49, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/49/31139">section 31139</external-xref> the following:</text>
+          <quoted-block style="USC" id="H5CCB239CEAAD471581152117C54F4825"
+            display-inline="no-display-inline">
+            <toc regeneration="no-regeneration">
+              <toc-entry level="section">31140. ADS-equipped commercial motor vehicle
+                operation.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection> 
+<subsection id="H5013B4E83E704C36828363B06CF4C0B6"><enum>(b)</enum><header>Definitions</header><text>Section 31132 of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block id="H2FE8521B15A9464780EF06AE899263C0" style="OLC"> <paragraph id="HC0F2D1F1CED94E9DAC7748A92E72EBBA"><enum>(12)</enum><text><quote>ADS-equipped vehicle</quote> means a motor vehicle equipped with an automated driving system.</text></paragraph> 
+<paragraph id="HBC1D5319C1A44EC2899598ACAE5814BA"><enum>(13)</enum><text><quote>Automated driving system</quote> or <quote>ADS</quote> means—</text> <subparagraph id="H55FF4EB758DD4F8FAFDBE129376581B7"><enum>(A)</enum><text>hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such hardware or software is limited to a specific operational design domain;</text></subparagraph> 
+<subparagraph id="HAC36811DA3EA4550B695EFD92CFB3B14"><enum>(B)</enum><text>includes only systems that meet the definition of automation levels 3, 4, or 5 under SAE International’s J3016 recommended practice titled <quote>Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles</quote>, or subsequent editions of J3016 adopted by the Secretary; and</text></subparagraph> <subparagraph id="H4AB00FB5D91B4A9F899E7390C35642C8"><enum>(C)</enum><text>does not include systems that provide only assistance to a human driver.</text></subparagraph></paragraph> 
+<paragraph id="HC5944456B9B4488CB4C516EAB90FDD36"><enum>(14)</enum><text><quote>Level 4</quote> has the meaning of that term as provided in the April 2021 edition of SAE International’s J3016 recommended practice titled <quote>Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles</quote>, or subsequent editions of J3016 adopted by the Secretary and refers to an ADS that is capable of providing full driving automation under defined conditions with no need for human intervention.</text></paragraph> <paragraph id="H885F6E7289884E31B59B06A349583D26"><enum>(15)</enum><text><quote>Level 5</quote> has the meaning of that term as provided in the April 2021 edition of SAE International’s J3016 recommended practice titled <quote>Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles</quote>, or subsequent editions of J3016 adopted by the Secretary and refers to an ADS that is capable of providing full driving automation under all conditions with no need for human intervention.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+<section id="H2A591DDA4D6F4297952179C7BF4B485C"><enum>3.</enum><header>Reducing regulatory obstacles to safe integration of automated driving systems-equipped commercial motor vehicles</header> 
+<subsection id="HD4A129D52A6645F2B3B7B4E4AA2B56DD">
+        <enum>(a)</enum>
+        <header>Streamlining regulations</header>
+ <text>Not later than September 30, 2027, the Secretary of Transportation shall address the applicability of sections 350 through 399 of title 49, Code of Federal Regulations to ADS-equipped commercial motor vehicles based on the advance notice of proposed rulemaking published on May 28, 2019 (84 Fed. Reg. 24449) that—</text>
+        <paragraph id="H79516AAF13AD440F82697C3AEE7A618E">
+          <enum>(1)</enum>
+ <text>amends such sections to provide for the integration of automated driving systems into commercial vehicle operations, including updating any such sections that reasonably apply only to a human driver to clarify such regulations do not apply to an ADS or to an ADS-equipped vehicles operating with an ADS engaged and without a human driver on board, including hours of service, drug testing, electronic logging devices, commercial driver’s license, and physical qualification requirements; and</text>
+        </paragraph>
+        <paragraph id="HBA9479C481254F6E8A32D3EF29E36931">
+          <enum>(2)</enum>
+ <text>define the terms remote driver and remote assistance as follows:</text> <subparagraph id="H57D60D29953C44E1A13CDF27C894FDEC"> <enum>(A)</enum> <text>The term <quote>remote driver</quote> means a driver who is not seated in a position to manually exercise in-vehicle braking, accelerating, steering, and transmission gear selection input devices (if any), but is able to operate the vehicle.</text>
+          </subparagraph>
+          <subparagraph id="HFEB878DD67D94E1C833FD850B3D9C336">
+            <enum>(B)</enum>
+ <text>The term <quote>remote assistance</quote> means event-driven provision, by a remotely located human, of information or advice to an AD2202S-equipped vehicle in driverless operation in order to facilitate trip continuation when the automated driving system encounters a situation where remote assistance could provide clarity.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection> 
+<subsection id="H319A5D5541F94E67BCCE9FF1069A44E1"><enum>(b)</enum><header>Ensuring regulatory parity for commercial motor vehicles</header><text>The Secretary may not issue a regulation that unduly burdens motor carriers operating ADS-equipped vehicles or discriminates against an ADS-equipped vehicle relative to other commercial motor vehicles.</text></subsection> <subsection id="H47974D38986B47A98450DD31DDC47689"><enum>(c)</enum><header>Ensuring regulatory flexibility for safety technologies</header><text>Section 31113 of title 49, United States Code, is amended—</text> 
+<paragraph id="H6DDEB9AD0C8842E49D8637946A615767"><enum>(1)</enum><text>by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; and</text></paragraph> <paragraph id="H9A48DABAAAA24C52BCAF43F0D50BE2BB"><enum>(2)</enum><text>by inserting the following after subsection (b):</text> 
+<quoted-block id="H049CFD4097D94CB7B4333E8802B4A55B" style="OLC"> 
+<subsection id="H4E695767140144F1887BD6FA1FEFB516"><enum>(c)</enum><header>Exclusion of automated driving technologies and equipment</header><text>Width calculated under this section does not include automated driving system technologies or equipment.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HD9AB1913A45E4B65BDEB1FA2BF35CE56"><enum>(d)</enum><header>Definitions</header><text>The terms defined in section 31132 of title 49, United States Code, apply to this section.</text></subsection></section> 
+<section id="HCDF765C418BB4D2EAA8101A1700EE3A6"><enum>4.</enum><header>Regulatory interpretations</header><text display-inline="no-display-inline">Sections 392.22 and 393.95(f) of title 49, Code of Federal Regulations, and any related regulations shall be applied as if to include cab-mounted warning beacons as a permissible warning device, as proposed by the Exemption Application published on March 3, 2023 (88 Fed. Reg. 14665, Docket No. FMCSA–2023–0071).</text></section> 
+</legis-body></bill>
+

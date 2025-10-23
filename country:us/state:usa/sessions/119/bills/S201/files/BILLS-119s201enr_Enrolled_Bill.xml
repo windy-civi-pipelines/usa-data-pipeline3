@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Enrolled-Bill" dms-id="A1" public-private="public" star-print="no-star-print" bill-type="olc" stage-count="1" public-print="no">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title> S201 ENR: ACES Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+    <congress>One Hundred Nineteenth Congress of the United States of America</congress>
+    <session display="yes">1st Session</session>
+    <enrolled-dateline display="yes">Begun and held at the City of Washington on Friday, the third day of January, two thousand and twenty five</enrolled-dateline>
+    <legis-num display="yes">S. 201</legis-num>
+    <current-chamber display="no">IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <legis-type display="yes">AN ACT</legis-type>
+    <official-title display="yes">To provide for a study by the National Academies of Sciences, Engineering, and Medicine on the prevalence and mortality of cancer among individuals who served as active duty aircrew in the Armed Forces, and for other purposes.</official-title>
+  </form>
+  <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause">
+    <section id="idbbc5cfc18bd742ee913134f5da033bbb" section-type="section-one" commented="no" display-inline="no-display-inline">
+      <enum>1.</enum>
+      <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ACES Act of 2025</short-title></quote>.</text> </section> <section id="id5a45d78da4a54c9890468f4ed5eef968" commented="no" display-inline="no-display-inline" section-type="subsequent-section"> <enum>2.</enum> <header display-inline="yes-display-inline">National Academies study on prevalence and mortality of cancer among individuals who served as active duty aircrew in the Armed Forces</header> <subsection id="id7973ff04048541679d7fc6dd74cfecd4" commented="no" display-inline="no-display-inline"> <enum>(a)</enum> <header display-inline="yes-display-inline">Agreement</header> <paragraph id="idd592c1b0b6454369be47137857cfb660" commented="no" display-inline="no-display-inline"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text display-inline="yes-display-inline">Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the <quote>National Academies</quote>), under which the National Academies shall conduct a study on the prevalence and mortality of cancers among covered individuals.</text>
+        </paragraph>
+        <paragraph id="id18fb158c42ea43279920425cc59a1387" commented="no" display-inline="no-display-inline">
+          <enum>(2)</enum>
+          <header display-inline="yes-display-inline">Deadline</header>
+          <subparagraph id="id388551bba47f43f987ceb0db4a7e30a4" commented="no" display-inline="no-display-inline">
+            <enum>(A)</enum>
+            <header display-inline="yes-display-inline">Date</header>
+ <text display-inline="yes-display-inline">The Secretary shall finalize the agreement under paragraph (1) by not later than 60 days after the date on which the Secretary enters negotiations with the National Academies with respect to such agreement.</text> </subparagraph> <subparagraph id="idbafe22db1fa3410c8de93996eeb5a334" commented="no" display-inline="no-display-inline"> <enum>(B)</enum> <header display-inline="yes-display-inline">Report; briefings</header> <text display-inline="yes-display-inline">If the Secretary fails to satisfy the requirement under subparagraph (A), the Secretary shall—</text>
+            <clause id="idae724b4f10934a10ba91eb5f5a4317ae" commented="no" display-inline="no-display-inline">
+              <enum>(i)</enum>
+ <text display-inline="yes-display-inline">submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that includes—</text> <subclause id="idbd86bb5cce094704b1602e1e6c753d63" commented="no" display-inline="no-display-inline"> <enum>(I)</enum> <text display-inline="yes-display-inline">an explanation of the reasons the Secretary failed to satisfy such requirement; and</text>
+              </subclause>
+              <subclause id="id9e9def5f2c034427a340ed9ec523ae69" commented="no" display-inline="no-display-inline">
+                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">an estimate of the date on which the Secretary will finalize the agreement under paragraph (1); and</text> </subclause> </clause> <clause id="id3142a07299824bacae595d72a1f99a7d" commented="no" display-inline="no-display-inline"> <enum>(ii)</enum> <text display-inline="yes-display-inline">not less frequently than once every 60 days after the date on which the Secretary failed to satisfy such requirement, provide to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a briefing on the progress of the Secretary toward finalizing such agreement.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id2e3eec8ffbc94347bc9492bb34e6063d" commented="no" display-inline="no-display-inline">
+        <enum>(b)</enum>
+        <header display-inline="yes-display-inline">Study</header>
+ <text display-inline="yes-display-inline">The study required under subsection (a) shall—</text> <paragraph id="id0162d356476a43598600b10bc98bfb3e" commented="no" display-inline="no-display-inline"> <enum>(1)</enum> <text display-inline="yes-display-inline">identify exposures associated with military occupations of covered individuals, including relating to chemicals, compounds, agents, and other phenomena;</text>
+        </paragraph>
+        <paragraph id="id2b94381d8a0043f9a8d72ccb6fa9c0f0" commented="no" display-inline="no-display-inline">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">review the literature to determine associations between exposures referred to in paragraph (1) and the incidence or prevalence of overall cancer morbidity, overall cancer mortality, and increased incidence or prevalence of—</text> <subparagraph id="idc658f6fb25bd449d96a4e9c321ff7150" commented="no" display-inline="no-display-inline"> <enum>(A)</enum> <text display-inline="yes-display-inline">brain cancer;</text>
+          </subparagraph>
+          <subparagraph id="idec48e7a367984fb0b928f8e648a10bb6" commented="no" display-inline="no-display-inline">
+            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">colon and rectal cancers;</text> </subparagraph> <subparagraph id="idba34c0bf823344c195d0cb8a1f8664fc" commented="no" display-inline="no-display-inline"> <enum>(C)</enum> <text display-inline="yes-display-inline">kidney cancer;</text>
+          </subparagraph>
+          <subparagraph id="id349ec69c7e34463698d8a283f65670b0" commented="no" display-inline="no-display-inline">
+            <enum>(D)</enum>
+ <text display-inline="yes-display-inline">lung cancer;</text> </subparagraph> <subparagraph id="id0c72a7c8ccf94b14a410b40617dcd3ed" commented="no" display-inline="no-display-inline"> <enum>(E)</enum> <text display-inline="yes-display-inline">melanoma skin cancer;</text>
+          </subparagraph>
+          <subparagraph id="id093c712d67834a31956dfa9d4b0c32fe" commented="no" display-inline="no-display-inline">
+            <enum>(F)</enum>
+ <text display-inline="yes-display-inline">non-Hodgkin lymphoma;</text> </subparagraph> <subparagraph id="id33d7ba1460624422acb357480aa324b5" commented="no" display-inline="no-display-inline"> <enum>(G)</enum> <text display-inline="yes-display-inline">pancreatic cancer;</text>
+          </subparagraph>
+          <subparagraph id="idc8e9143f43a74c1cb8305f279884e766" commented="no" display-inline="no-display-inline">
+            <enum>(H)</enum>
+ <text display-inline="yes-display-inline">prostate cancer;</text> </subparagraph> <subparagraph id="id28d8b40c86ed4b678dedeb62504dbef3" commented="no" display-inline="no-display-inline"> <enum>(I)</enum> <text display-inline="yes-display-inline">testicular cancer;</text>
+          </subparagraph>
+          <subparagraph id="id49bfd41f9e5440179a1185884b76fa96" commented="no" display-inline="no-display-inline">
+            <enum>(J)</enum>
+ <text display-inline="yes-display-inline">thyroid cancer;</text> </subparagraph> <subparagraph id="id98593e6fedb04922a01d5b9494935cb2" commented="no" display-inline="no-display-inline"> <enum>(K)</enum> <text display-inline="yes-display-inline">urinary bladder cancer; and</text>
+          </subparagraph>
+          <subparagraph id="id3a48c753a5ad4953a72411e6e1a78b8e" commented="no" display-inline="no-display-inline">
+            <enum>(L)</enum>
+ <text display-inline="yes-display-inline">other cancers as determined appropriate by the Secretary of Veterans Affairs, in consultation with the National Academies; and</text> </subparagraph> </paragraph> <paragraph id="idbf994806423c499e862c79cca789711e" commented="no" display-inline="no-display-inline"> <enum>(3)</enum> <text display-inline="yes-display-inline">determine, to the extent possible, the prevalence of and mortality from the cancers specified in paragraph (2) among covered individuals by using available sources of data, which may include—</text>
+          <subparagraph id="id1633a7bc14964bb399dd2a271f4267ad" commented="no" display-inline="no-display-inline">
+            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">health care and other administrative databases of the Department of Veterans Affairs, the Department of Defense, and the individual Services, respectively;</text> </subparagraph> <subparagraph id="id50cfd124f9844168b64ebc498341c2c2" commented="no" display-inline="no-display-inline"> <enum>(B)</enum> <text display-inline="yes-display-inline">the national death index maintained by the National Center for Health Statistics of the Centers for Disease Control and Prevention; and</text>
+          </subparagraph>
+          <subparagraph id="idffc3c1f909aa4c1982164e37778a4023" commented="no" display-inline="no-display-inline">
+            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the study conducted under section 750 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>; 134 Stat. 3716).</text> </subparagraph> </paragraph> </subsection> <subsection id="id2eef04b5ec2443d99276cc44aafd76b8" commented="no" display-inline="no-display-inline"> <enum>(c)</enum> <header display-inline="yes-display-inline">Report</header> <text display-inline="yes-display-inline">At the conclusion of the study required under subsection (a), the National Academies shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a report containing the results of the study described in subsection (b).</text>
+      </subsection>
+      <subsection id="id608e8c039eff465582f4e0c60f0a358d" commented="no" display-inline="no-display-inline">
+        <enum>(d)</enum>
+        <header display-inline="yes-display-inline">Covered individual defined</header>
+ <text display-inline="yes-display-inline">In this section, the term <term>covered individual</term> means an individual who served on active duty in the Army, Navy, Air Force, or Marine Corps as an aircrew member of a fixed-wing aircraft, including as a pilot, navigator, weapons systems operator, aircraft system operator, or any other crew member who regularly flew in a fixed-wing aircraft.</text> </subsection> </section> </legis-body> <attestation> <attestation-group> <attestor display="no" /> <role>Speaker of the House of Representatives</role> </attestation-group> <attestation-group> <attestor display="no" /> <role>Vice President of the United States and President of the Senate</role> </attestation-group> </attestation> </bill>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MIR25895-274-7X-MGT">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2656 IS: Protecting Small Business Competitions Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-08-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2656</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250801">August 1, 2025</action-date>
+            <action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself, <cosponsor name-id="S383">Mr. Sullivan</cosponsor>, <cosponsor name-id="S288">Ms.
+                    Murkowski</cosponsor>, and <cosponsor name-id="S370">Mr. Booker</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSSB00">Committee on Small Business and
+                    Entrepreneurship</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Small Business Act to codify the Rule of Two, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H3454FD8CCFDC48BB81005A4E17A59321">
+        <section section-type="section-one" id="H70565E88D9E040C49C960A043575EA13">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Small Business Competitions Act of 2025</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HA9A61263C4174CAC89A970D8E47E9476">
+            <enum>2.</enum>
+            <header>Codification of the Rule of Two</header>
+ <text display-inline="no-display-inline">Section 15(j) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/644">15 U.S.C. 644(j)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="H781B48E6BF2B4003BF585A3CBAB29940">
+                <paragraph id="H81F5C5CD462346F0A815469C5BC0C285" indent="up1">
+                    <enum>(4)</enum>
+                    <header>Rule of Two</header>
+ <text display-inline="yes-display-inline">Each contract, task order, or delivery order for the purchase of goods or services that has an anticipated value greater than the simplified acquisition threshold shall be reserved for small business concerns when the contracting officer reasonably expects—</text>
+                    <subparagraph id="H2E98FAE309914D4B9E330F095942B031">
+                        <enum>(A)</enum>
+ <text>to obtain offers from 2 or more responsible small business concerns; and</text>
+                    </subparagraph>
+                    <subparagraph id="H7F5357DF1749432B88399C364DADB71C">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to award the contract, task order, or delivery order at a fair market price.</text>
+                    </subparagraph>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

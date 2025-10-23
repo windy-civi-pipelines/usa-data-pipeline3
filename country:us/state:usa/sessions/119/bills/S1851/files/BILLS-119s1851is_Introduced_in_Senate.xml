@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25180-6V3-9N-SPK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1851 IS: Healthcare Cybersecurity Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1851</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S402">Ms. Rosen</sponsor> (for herself and <cosponsor name-id="S391">Mr. Young</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSGA00">Committee on
+                    Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To enhance the cybersecurity of the Healthcare and Public Health
+            Sector.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="id4d9d9e7f-7899-4500-8777-69e82f3bd01d" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Healthcare Cybersecurity Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id1f482aba-23d3-4a5e-b838-ca700de02d49" changed="not-changed">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act—</text> <paragraph id="id603f45c6-5bf7-4e62-9dff-c6b2479711ca" changed="not-changed"> <enum>(1)</enum> <text>the term <term>Agency</term> means the Cybersecurity and Infrastructure Security Agency;</text>
+            </paragraph>
+            <paragraph id="id805af3cc-ba2a-4b3f-afc4-1dbe56accc37" changed="not-changed">
+                <enum>(2)</enum>
+ <text>the term <term>covered asset</term> means a Healthcare and Public Health Sector asset, including technologies, services, and utilities;</text>
+            </paragraph>
+            <paragraph id="idfd9141e6-c905-44fb-8c42-9090ac15c7fd" changed="not-changed">
+                <enum>(3)</enum>
+ <text>the term <term>Cybersecurity State Coordinator</term> means a Cybersecurity State Coordinator appointed under section 2217(a) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/665c">6 U.S.C. 665c(a)</external-xref>);</text>
+            </paragraph>
+            <paragraph id="id60086c81-0d5c-4b11-ba1a-92dce8ac985d" changed="not-changed">
+                <enum>(4)</enum>
+ <text>the term <term>Department</term> means the Department of Health and Human Services;</text>
+            </paragraph>
+            <paragraph id="id23f1b5e7-7e86-4e80-9527-699139ae76a9" changed="not-changed">
+                <enum>(5)</enum>
+ <text>the term <term>Director</term> means the Director of the Agency;</text> </paragraph> <paragraph id="id6e8f6948-ef7d-4941-b2a5-e641945faa2b" changed="not-changed"> <enum>(6)</enum> <text>the term <term>Healthcare and Public Health Sector</term> means the Healthcare and Public Health sector, as identified in the National Security Memorandum on Critical Infrastructure and Resilience (NSM–22), issued April 30, 2024;</text>
+            </paragraph>
+            <paragraph id="id510f6f94-c6ca-4707-8d49-08ec5ed0e6f5" changed="not-changed">
+                <enum>(7)</enum>
+ <text>the term <term>Information Sharing and Analysis Organizations</term> has the meaning given the term in section 2200 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/650">6 U.S.C. 650</external-xref>);</text>
+            </paragraph>
+            <paragraph id="id9f38490d-1bd6-4cfa-a462-620187735698" changed="not-changed">
+                <enum>(8)</enum>
+ <text>the term <term>Plan</term> means the Healthcare and Public Health Sector-specific Risk Management Plan; and</text>
+            </paragraph>
+            <paragraph id="idc449f10d-8ec4-4360-a49c-d0a2600d81fe" changed="not-changed">
+                <enum>(9)</enum>
+ <text>the term <term>Secretary</term> means the Secretary of Health and Human Services.</text>
+            </paragraph>
+        </section>
+        <section id="id6cdceee1-cbf9-4704-ac9a-c2fc657c94d2" changed="not-changed">
+            <enum>3.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="idea67962d-3492-4444-a12d-ee2e286a0d09" changed="not-changed"> <enum>(1)</enum> <text>Covered assets are increasingly the targets of malicious cyberattacks, which result not only in data breaches but also increased healthcare delivery costs and can ultimately affect patient health outcomes.</text>
+            </paragraph>
+            <paragraph id="idefeed56a-b6d0-418c-acba-234d90ea0831" changed="not-changed">
+                <enum>(2)</enum>
+ <text>Data reported to the Department shows that large cyber breaches of the information systems of healthcare facilities rose 93 percent between 2018 and 2022.</text>
+            </paragraph>
+            <paragraph id="idb8833637c63f42889e6a01f618f147fc" changed="not-changed">
+                <enum>(3)</enum>
+ <text>According to the <quote>Annual Report to Congress on Breaches of Unsecured Protected Health Information for Calendar Year 2022</quote> issued by the Office for Civil Rights of the Department, breaches of unsecured protected health information have increased 107 percent since 2018, and, in 2022 alone, the Department received 626 reported breaches affecting not fewer than 500 individuals at covered entities or business associates (as defined in section 160.103 of title 45, Code of Federal Regulations) that occurred or ended in 2022, with nearly 42,000,000 individuals affected.</text>
+            </paragraph>
+        </section>
+        <section id="idd74d47b3-42df-4c58-9cf3-a58ad8883f0d" changed="not-changed">
+            <enum>4.</enum>
+            <header>Agency coordination with the Department</header>
+            <subsection id="id3327d202-b521-4023-b202-52bd9045bf8d" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>The Agency shall coordinate with the Department to improve cybersecurity in the Healthcare and Public Health Sector.</text>
+            </subsection>
+            <subsection id="id25443993-57c6-43f5-939a-56287b5b1a5a" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Agency liaison to the Department</header>
+                <paragraph id="idb599fc6f-4c9b-47c3-8622-dd95fbbb9f1d" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>Appointment</header>
+ <text>The Director shall, in coordination with the Secretary, appoint an individual, who shall be an employee of the Agency or a detailee assigned to the Administration for Strategic Preparedness and Response Office of the Department by the Director, to serve as a liaison of the Agency to the Department, who shall—</text>
+                    <subparagraph id="id896e5617-9454-4224-b223-17f2895d7657" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>have appropriate cybersecurity qualifications and expertise; and</text>
+                    </subparagraph>
+                    <subparagraph id="ided15f5b9-4026-4a5e-93c7-80fdf70b9f78" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>report directly to the Director.</text> </subparagraph> </paragraph> <paragraph id="id3e6e0349-8191-4158-8917-c9f7424b0654" changed="not-changed"> <enum>(2)</enum> <header>Responsibilities and duties</header> <text>The liaison appointed under paragraph (1) shall—</text>
+                    <subparagraph id="id6af20ab7-4e2e-4252-aa8c-8a5926fb1585" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>serve as a primary contact of the Department to coordinate cybersecurity issues with the Agency;</text>
+                    </subparagraph>
+                    <subparagraph id="ida16ad725-0b9a-484c-8a7e-3c6328236cc9" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>support the implementation and execution of the Plan and assist in the development of updates to the Plan;</text>
+                    </subparagraph>
+                    <subparagraph id="id9cf8a634-4f8f-43c0-b7e7-32613d9aad16" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>facilitate the sharing of cyber threat information between the Department and the Agency to improve understanding of cybersecurity risks and situational awareness of cybersecurity incidents;</text>
+                    </subparagraph>
+                    <subparagraph id="id59a20d15-5d93-4266-a89e-88461c957a47" changed="not-changed">
+                        <enum>(D)</enum>
+ <text>assist in implementing the training described in section 5;</text> </subparagraph> <subparagraph id="id4660fa9d-eb92-476b-a48e-43fdbd281e62" changed="not-changed"> <enum>(E)</enum> <text>facilitate coordination between the Agency and the Department during cybersecurity incidents within the Healthcare and Public Health Sector; and</text>
+                    </subparagraph>
+                    <subparagraph id="id06c52f95-6fa4-4b11-a424-444189f237cc" changed="not-changed">
+                        <enum>(F)</enum>
+ <text>perform such other duties as determined necessary by the Secretary to achieve the goal of improving the cybersecurity of the Healthcare and Public Health Sector.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id7ea868e8-b74c-4557-9f7e-458e8838a0fb" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Report</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3327d8924a544939a6b7b2a31dce0304" changed="not-changed">
+                        <enum>(A)</enum>
+                        <header>Requirement</header>
+ <text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act, the Secretary, in coordination with the Director, shall submit a report that describes the activities undertaken to improve cybersecurity coordination between the Agency and the Department to—</text>
+                        <clause id="id83daca62-b3e6-49c3-9e71-662d01014443" changed="not-changed">
+                            <enum>(i)</enum>
+ <text>the Committee on Health, Education, Labor, and Pensions, the Committee on Finance, and the Committee on Homeland Security and Governmental Affairs of the Senate; and</text>
+                        </clause>
+                        <clause id="ide085b315-a7c6-4584-8500-74bdbcf21a15" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Homeland Security of the House of Representatives.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2282fb80636b4c728f4137e04644ab1b" changed="not-changed">
+                        <enum>(B)</enum>
+                        <header>Contents</header>
+ <text>The report submitted under subparagraph (A) shall include—</text> <clause commented="no" display-inline="no-display-inline" id="id93d75ab4f0334d709e0b8a47194fa136" changed="not-changed"> <enum>(i)</enum> <text display-inline="yes-display-inline">a summary of the activities of the liaison appointed under paragraph (1);</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id009a49a2822d4eb481fb78daae22403f" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>a description of any challenges to the effectiveness of the liaison appointed under paragraph (1) completing the required duties of the liaison; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ide6b8fe090bcf4a1c84d39502657bcc9a" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text>a study of the feasibility of an agreement to improve cybersecurity in the public sector of healthcare.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idb9aec2f9-7d77-44e2-8b74-74066b5b6c7c" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Resources</header>
+                <paragraph id="id07f64cba-133f-4637-8675-3674d7ebf4c8" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Agency shall coordinate with and make resources available to Information Sharing and Analysis Organizations, information sharing and analysis centers, the sector coordinating councils, and non-Federal entities that are receiving information shared through programs managed by the Department.</text>
+                </paragraph>
+                <paragraph id="id5c2f8c16-b1f9-49b6-b419-fe4effcba4b9" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Scope</header>
+ <text>The coordination under paragraph (1) shall include—</text> <subparagraph id="ida8dc2804-1ed1-4b89-82f8-e2ea4db4ea3c" changed="not-changed"> <enum>(A)</enum> <text>developing products specific to the needs of Healthcare and Public Health Sector entities; and</text>
+                    </subparagraph>
+                    <subparagraph id="idded31fca-5af0-475c-bb72-1becd870c7f2" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>sharing information relating to cyber threat indicators and appropriate defensive measures.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id84a4cdb4-0302-423c-a0b8-71a0566292d0" changed="not-changed">
+            <enum>5.</enum>
+            <header>Training for healthcare owners and operators</header>
+ <text display-inline="no-display-inline">The Agency shall make available training to the owners and operators of covered assets on—</text>
+            <paragraph id="idb36c193d-6edc-4800-b94e-519af5da2a5f" changed="not-changed">
+                <enum>(1)</enum>
+ <text>cybersecurity risks to the Healthcare and Public Health Sector and covered assets; and</text>
+            </paragraph>
+            <paragraph id="id89e9546f-1f31-40ee-a732-8ee29cdf9b6b" changed="not-changed">
+                <enum>(2)</enum>
+ <text>ways to mitigate the risks to information systems in the Healthcare and Public Health Sector.</text>
+            </paragraph>
+        </section>
+        <section id="id77487b6d-11e2-4040-bf5c-b4832a9de625" changed="not-changed">
+            <enum>6.</enum>
+            <header>Sector-specific risk management plan</header>
+            <subsection id="id20eec806-4a1b-44cc-b2f9-d4312b5718e5" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary, in coordination with the Director, shall update the Plan, which shall include the following elements:</text>
+                <paragraph id="id5d41c934-f479-4f0a-b81b-8ded0a7a6bc5" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>An analysis of how identified cybersecurity risks specifically impact covered assets, including the impact on rural and small- and medium-sized covered assets.</text>
+                </paragraph>
+                <paragraph id="id58fbffe3-f886-4637-bb2b-6a96cafbb3d1" changed="not-changed">
+                    <enum>(2)</enum>
+ <text>An evaluation of the challenges the owners and operators of covered assets face in—</text>
+                    <subparagraph id="id95f47e90-0eee-4f9a-b157-edd6b815f4b5" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>securing—</text> <clause id="id7b2d1925-7a89-4051-b713-10283d14f053" changed="not-changed"> <enum>(i)</enum> <text>updated information systems owned, leased, or relied upon by covered assets;</text>
+                        </clause>
+                        <clause id="id2f69587c-224e-4e05-8368-7894028c32ee" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>medical devices or equipment owned, leased, or relied upon by covered assets, which shall include an analysis of the threat landscape and cybersecurity vulnerabilities of such medical devices or equipment; and</text>
+                        </clause>
+                        <clause id="id5428ac08-1a7d-409c-9ae6-11c9747c17ec" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text>sensitive patient health information and electronic health records;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idfd5a664e-32fb-4260-b517-e0abcf97e810" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>implementing cybersecurity protocols; and</text> </subparagraph> <subparagraph id="id3df57fab-ab6b-44b5-b2d4-7ca422ee74a1" changed="not-changed"> <enum>(C)</enum> <text>responding to data breaches or cybersecurity attacks, including the impact on patient access to care, quality of patient care, timeliness of health care delivery, and health outcomes.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id9381a5f3-2814-411a-ac17-c657050a9e0f" changed="not-changed">
+                    <enum>(3)</enum>
+ <text>An evaluation of the best practices for utilization of resources from the Agency to support covered assets before, during, and after data breaches or cybersecurity attacks, such as by Cyber Security Advisors and Cybersecurity State Coordinators of the Agency or other similar resources.</text>
+                </paragraph>
+                <paragraph id="idcb42483d-423e-4a14-b14b-716a136fb0cb" changed="not-changed">
+                    <enum>(4)</enum>
+ <text>An assessment of relevant Healthcare and Public Health Sector cybersecurity workforce shortages, including—</text>
+                    <subparagraph id="id87a5ff62-fda0-4f1b-a087-b96ac714794a" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>training, recruitment, and retention issues; and</text> </subparagraph> <subparagraph id="idc4d92f38-ed0e-4d05-991e-8d439915a569" changed="not-changed"> <enum>(B)</enum> <text>recommendations for how to address these shortages and issues, particularly at rural and small- and medium-sized covered assets.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id0ddcc9e5-fa46-4427-b1d8-479fb9eb3da7" changed="not-changed">
+                    <enum>(5)</enum>
+ <text>An evaluation of the most accessible and timely ways for the Agency and the Department to communicate and deploy cybersecurity recommendations and tools to the owners and operators of covered assets.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id5f217ed0-d320-4332-a489-2427b76d7f8f" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Congressional briefing</header>
+ <text>Not later than 120 days after the date of enactment of this Act, the Secretary, in consultation with the Director, shall provide a briefing on the updating of the Plan under subsection (a) to—</text>
+                <paragraph id="id88edbbfe-15f8-49b1-913b-ebc5cdb704b6" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>the Committee on Health, Education, Labor, and Pensions, the Committee on Finance, and the Committee on Homeland Security and Governmental Affairs of the Senate; and</text>
+                </paragraph>
+                <paragraph id="id8bc9875e-1144-4d7e-94d9-da9887d4eef7" changed="not-changed">
+                    <enum>(2)</enum>
+ <text>the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Homeland Security of the House of Representatives.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="ide6a9f332-1654-4ffd-a2df-6bf241e948cc" changed="not-changed">
+            <enum>7.</enum>
+            <header>Identifying high-risk covered assets</header>
+            <subsection id="idc5fa9cf6-ba17-40d3-9825-b1f0ab3d3eb6" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary, in consultation with the Director and health sector owners and operators, as appropriate, may establish objective criteria for determining whether a covered asset may be designated as a high-risk covered asset, provided that such criteria shall align with the methodology promulgated by the Director for identifying functions relating to critical infrastructure, as defined in section 1016(e) of the Critical Infrastructures Protection Act of 2001 (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">42 U.S.C. 5195c(e)</external-xref>), and associated risk assessments.</text>
+            </subsection>
+            <subsection id="id28cf793b-8b36-4512-9c11-b8aa71d4e5b6" changed="not-changed">
+                <enum>(b)</enum>
+                <header>List of high-Risk covered assets</header>
+                <paragraph id="id06f94ee4-099b-466d-abc5-7f078f811518" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Secretary may develop a list of, and notify, the owners and operators of each covered asset determined to be a high-risk covered asset using the methodology promulgated by the Director pursuant to subsection (a).</text>
+                </paragraph>
+                <paragraph id="id3bfd1056-d13c-4157-9d20-4932fa60de1c" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Biannual updating</header>
+ <text>The Secretary may—</text> <subparagraph id="idbb8cd83c-d5bb-4cca-b0a2-84f9b50155a8" changed="not-changed"> <enum>(A)</enum> <text>biannually review and update the list of high-risk covered assets developed under paragraph (1); and</text>
+                    </subparagraph>
+                    <subparagraph id="ida6cc4bc8-ba51-47a8-89cd-8bff23c85420" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>notify the owners and operators of each covered asset added to or removed from the list as part of a review and update of the list under subparagraph (A).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide432d610-a324-4e9a-b5c8-e936451a8f43" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Notice to Congress</header>
+ <text>The Secretary shall notify Congress when an initial list of high-risk covered assets is developed under paragraph (1) and each time the list is updated under paragraph (2).</text>
+                </paragraph>
+                <paragraph id="id5f205d93-e332-46d9-b476-c6f64817427d" changed="not-changed">
+                    <enum>(4)</enum>
+                    <header>Use</header>
+ <text>The list developed and updated under this subsection may be used by the Department to prioritize resource allocation to high-risk covered assets to bolster cyber resilience.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id5a43aaa0-a804-4ab3-8292-d36ad8a93b0c" changed="not-changed">
+            <enum>8.</enum>
+            <header>Reports</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idc9f4aa178a294447b4c1030c0362b658" changed="not-changed">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Report on assistance provided to
+                    entities of Healthcare and Public Health Sector</header>
+ <text display-inline="yes-display-inline">Not later than 120 days after the date of enactment of this Act, the Agency shall submit to Congress a report on the organization-wide level of support and activities that the Agency has provided to the healthcare and public health sector to proactively prepare the sector to face cyber threats and respond to cyber attacks when such threats or attacks occur.</text>
+            </subsection>
+            <subsection id="idcb8ad717ca7d4386adbf6810b9ab5f9d" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Report on critical infrastructure resources</header>
+ <text>Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on Federal resources available, as of the date of enactment of this Act, for the Healthcare and Public Health Sector relating to critical infrastructure, as defined in section 1016(e) of the Critical Infrastructures Protection Act of 2001 (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">42 U.S.C. 5195c(e)</external-xref>), including resources available from recent and ongoing collaboration with the Director and the Secretary.</text>
+            </subsection>
+        </section>
+        <section id="id54f5be9722d1464aa3f4734feb757783" changed="not-changed">
+            <enum>9.</enum>
+            <header>Rules of construction</header>
+            <subsection id="idca1034e780474e2c830469dfa6205c25" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Agency actions</header>
+ <text>Nothing in this Act shall be construed to authorize the Secretary or Director to take an action that is not authorized by this Act or existing law.</text>
+            </subsection>
+            <subsection id="id84d43207a1f041108cda4870eeb5430e" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Protection of rights</header>
+ <text>Nothing in this Act shall be construed to permit the violation of the rights of any individual protected by the Constitution of the United States, including through censorship of speech protected by the Constitution of the United States or unauthorized surveillance.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id7b5992745cd245f4a2676858f23d1ee6" changed="not-changed">
+                <enum>(c)</enum>
+                <header>No additional funds</header>
+ <text>No additional funds are authorized to be appropriated for the purpose of carrying out this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

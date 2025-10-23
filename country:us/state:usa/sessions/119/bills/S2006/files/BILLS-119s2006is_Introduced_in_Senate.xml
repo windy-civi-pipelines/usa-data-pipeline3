@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25B06-HRC-V1-W7Y">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2006 IS: Fit to Serve Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2006</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250610">June 10, 2025</action-date>
+            <action-desc><sponsor name-id="S366">Ms. Warren</sponsor> (for herself, <cosponsor name-id="S386">Ms. Duckworth</cosponsor>, <cosponsor name-id="S331">Mrs.
+                    Gillibrand</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>,
+                    <cosponsor name-id="S369">Mr. Markey</cosponsor>, <cosponsor name-id="S247">Mr.
+                    Wyden</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S418">Mr.
+                    Fetterman</cosponsor>, <cosponsor name-id="S390">Mr. Van Hollen</cosponsor>,
+                    <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S426">Mr.
+                    Kim</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S353">Mr. Schatz</cosponsor>, and <cosponsor name-id="S394">Ms.
+                    Smith</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSAS00">Committee on Armed
+                    Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 10, United States Code, to prohibit discrimination in the
+            Armed Forces on the basis of gender identity, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H8A7F971C1D374783B5A64F944CEF9C62">
+        <section section-type="section-one" id="H3CC509DB5C334EFC85AC3161EA75D901">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fit to Serve Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" commented="no" display-inline="no-display-inline" id="ida76be09233754d9fa85b8ab8a6987118">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">Prohibition on discrimination in the Armed
+                Forces on the basis of gender identity</header>
+ <text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/49">Chapter 49</external-xref> of title 10, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/10/974">section 974</external-xref> the following new section:</text>
+            <quoted-block style="USC" display-inline="no-display-inline" id="H707837761DC645ACB40B5D5DE86B0E92">
+                <section id="HF301E7659DBC4B0CB9D0ACB3441A407C">
+                    <enum>975.</enum>
+                    <header>Prohibition on discrimination on the basis of gender identity</header>
+                    <subsection id="H835BB0E8CEA24100BBF1692B8470544A">
+                        <enum>(a)</enum>
+                        <header>Prohibition</header>
+ <text display-inline="yes-display-inline">The Secretary concerned may not, on the basis of gender identity (including a diagnosis or potential diagnosis of gender dysphoria)—</text>
+                        <paragraph id="HA5BE07C1B14D47C49E114CD85622E6E0">
+                            <enum>(1)</enum>
+ <text>prescribe a qualification for service as a member of the Armed Forces;</text>
+                        </paragraph>
+                        <paragraph id="HA604890ADD0F447EB9022A25A161AD77">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">involuntarily separate a member of the Armed Forces;</text>
+                        </paragraph>
+                        <paragraph id="HFFB413DBF46F4999A423DC33D61EDAF2">
+                            <enum>(3)</enum>
+ <text>deny medically necessary health care coverage to a member of the Armed Forces;</text>
+                        </paragraph>
+                        <paragraph id="HA4C2FC6D1270498F95FD53E1C8122914">
+                            <enum>(4)</enum>
+ <text>require an individual to serve as a member of the Armed Forces in the sex assigned at birth to the member;</text>
+                        </paragraph>
+                        <paragraph id="H0C1AC318C7D1474880AD1FBCAA3E5944">
+                            <enum>(5)</enum>
+ <text>deny accession, reenlistment, or continuation of service as a member of the Armed Forces; or</text>
+                        </paragraph>
+                        <paragraph id="HD7576C7C379A4B36A07CA0A1B9D65E13">
+                            <enum>(6)</enum>
+ <text display-inline="yes-display-inline">otherwise discriminate against a member of the Armed Forces.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H51CDEEDCEF714BFFAA726B1BF247A8A8">
+                        <enum>(b)</enum>
+                        <header>Gender identity defined</header>
+ <text display-inline="yes-display-inline">In this section, the term <term>gender identity</term> means the gender-related identity, appearance, mannerisms, or other gender-related characteristics of an individual, regardless of the individual’s designated sex at birth.</text>
+                    </subsection>
+                </section>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

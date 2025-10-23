@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25711-7K9-91-DT4">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2317 IS: Federal Advisory Committee Database Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2317</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250717">July 17, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself and <cosponsor name-id="S373">Mr. Cassidy</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSGA00">Committee on
+                    Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 5, United States Code, to address the responsibilities of the
+            Administrator of General Services with respect to Federal advisory committees, and for
+            other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause" changed="not-changed">
+        <section section-type="section-one" id="id69e639e8-9009-4907-92a4-f302d6b0aa90" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Advisory Committee Database Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idd73eba38-638d-4ba1-b3a2-baf031985c85" changed="not-changed">
+            <enum>2.</enum>
+            <header>Federal advisory committees</header>
+ <text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/10">Chapter 10</external-xref> of title 5, United States Code, is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="iddc395e32-edf4-49a6-95f3-53a6a297aaf3" changed="not-changed">
+                <enum>(1)</enum>
+ <text>in section 1006—</text> <subparagraph id="id0dd86ad7-5a21-4cc1-aac4-e9a7975b62d4" changed="not-changed"> <enum>(A)</enum> <text>in subsection (a)—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="idb7b0b701-f8ab-40dd-9c29-b8a5cb4eb856" changed="not-changed">
+                        <enum>(i)</enum>
+ <text>by striking <quote>The Administrator</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" id="id4e18cb08-f751-4434-8130-6eb696bf18b7" act-name="" changed="not-changed">
+                            <paragraph id="idf635df3c-5fe7-4801-b82a-32eb2e5dc7b4" changed="not-changed">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The Administrator</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="id4e92484f-ed2d-47f3-b578-5a8842758327" changed="not-changed"> <enum>(ii)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" id="idb2de258c-0cba-4292-8a97-6700bf7b6e1d" act-name="" changed="not-changed">
+                            <paragraph id="id60f4cbad-b9fc-4c0c-ac36-a357498cc189" changed="not-changed">
+                                <enum>(2)</enum>
+                                <header>Collection of information</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idf47d16d5-9d2d-4e1a-8f65-9a413edfc2d7" changed="not-changed">
+                                    <enum>(A)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>The Committee Management Secretariat established and maintained under paragraph (1) shall continually collect from the head of each agency such information as is necessary for the Administrator to carry out the responsibilities of the Administrator under this section, which shall include, at a minimum, the following with respect to each advisory committee within the jurisdiction of that agency:</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id5c1a3667-089b-40f4-9b1f-8d5ec811d556" changed="not-changed">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">The name of the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id945b6200-6816-4d5f-9fa7-c45c8cfc0934" changed="not-changed">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">The authority under which the advisory committee is established. </text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id773c9b15-0b34-4599-a407-8aae2a42bae4" changed="not-changed">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">A copy of the charter of the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id6e7a8776-6a89-4547-8aac-3e2c82cbb5bb" changed="not-changed">
+                                        <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">The interest areas of the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id906972eb-93ba-4ec3-9320-8a99a367622d" changed="not-changed">
+                                        <enum>(v)</enum>
+ <text display-inline="yes-display-inline">The means by which the advisory committee complies with the requirements of section 1004(b)(2) (commonly referred to as a <quote>Membership Balance Plan</quote>).</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id279ede30-034e-4775-bca0-7765233515a7" changed="not-changed">
+                                        <enum>(vi)</enum>
+ <text display-inline="yes-display-inline">The current (as of the date on which the information is collected) membership of the advisory committee, which shall include, at a minimum, the following with respect to each member of the advisory committee:</text>
+                                        <subclause id="id594a397c-e34c-41ff-97a5-cb6517eac370" changed="not-changed">
+                                            <enum>(I)</enum>
+ <text>The name of the member.</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="id1fc3804d-13bb-4da7-a21a-3b3607432c15" changed="not-changed"> <enum>(II)</enum> <text display-inline="yes-display-inline">The ethics designation of the member, such as whether the member is an employee, a special Government employee (as defined in section 202 of title 18), or a representative member.</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id79390fd6-4458-488a-9afc-538bce4d8458" changed="not-changed">
+                                            <enum>(III)</enum>
+ <text>The entity or individual who appointed the member to the advisory committee, which shall include an identification of the authority for that appointment.</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id54d99c27-a265-441e-a2be-82593d688492" changed="not-changed">
+                                            <enum>(IV)</enum>
+ <text>The term of the appointment of the member to the advisory committee, as appropriate.</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id061066aa-5cf3-4190-b4b0-15eaf5ba187a" changed="not-changed">
+                                        <enum>(vii)</enum>
+ <text display-inline="yes-display-inline">The Advisory Committee Management Officer designated under section 1007(b) with respect to the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idfc541baa-b67d-4495-b59b-6a94608713ce" changed="not-changed">
+                                        <enum>(viii)</enum>
+ <text>The officer or employee designated under section 1009(e) with respect to the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id773a1416-9f8a-4b5a-b1a6-d6feb20741c3" changed="not-changed">
+                                        <enum>(ix)</enum>
+ <text display-inline="yes-display-inline">The termination date of the advisory committee, if applicable.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idaa1aedb9-f123-4583-9fde-977947f7a48a" changed="not-changed">
+                                        <enum>(x)</enum>
+ <text display-inline="yes-display-inline">With respect to a particular fiscal year, the total operational and staff costs of the advisory committee for that fiscal year, and with respect to the forthcoming fiscal year, the estimated total operational and staff costs of the advisory committee for that forthcoming fiscal year.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id8000e610-bb04-4207-a043-a9b3da8b5372" changed="not-changed">
+                                        <enum>(xi)</enum>
+ <text display-inline="yes-display-inline">The frequency with which the advisory committee (excluding any subcommittee or other subgroup of the advisory committee) has met and the dates on which those meetings have taken place.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id835fe1c7-9ee1-481d-ab08-46e435487e07" changed="not-changed">
+                                        <enum>(xii)</enum>
+ <text display-inline="yes-display-inline">A summary of the business conducted at each meeting of the advisory committee.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idecb3e5c0-9b3a-4211-85e8-9ea97a0a15b0" changed="not-changed">
+                                        <enum>(xiii)</enum>
+ <text display-inline="yes-display-inline">The recommendations issued by the advisory committee, which shall include—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id60967591-6e09-4a73-bba1-6076ee9cdf5a" changed="not-changed">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the number of those recommendations; and</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id478c803f-00df-47ca-963b-234e18c7cb07" changed="not-changed">
+                                            <enum>(II)</enum>
+ <text>if feasible, information regarding whether those recommendations were partially or fully implemented.</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id5629b2f9-76dc-4dec-b0e3-ba4f582e5bd6" changed="not-changed">
+                                    <enum>(B)</enum>
+                                    <header>Publication</header>
+ <text display-inline="yes-display-inline">The Committee Management Secretariat established and maintained under paragraph (1) shall, with respect to the information collected under subparagraph (A) of this paragraph—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id20513c44-9f18-481b-a4f6-ec48f103afb8" changed="not-changed">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">annually publish that information on a public website of the General Services Administration, which shall allow for that information to be downloaded in a format that is machine-readable, as defined in section 3502 of title 44; and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id1aa5fbf1-f534-445f-a034-cfb9e896b02f" changed="not-changed">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">on the website described in clause (i) of this subparagraph, maintain access to that information from previous years, as applicable with respect to relevant records schedules.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id3bc5892f-f39f-4a4b-b731-085c8b00432b" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>in subsection (b)—</text> <clause commented="no" display-inline="no-display-inline" id="id52abff65-c43d-4d94-86d6-7b3b46ea189a" changed="not-changed"> <enum>(i)</enum> <text display-inline="yes-display-inline">in paragraph (1)—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="idb70bf0ac-d57b-47de-b8ed-834785e2638c" changed="not-changed">
+                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding subparagraph (A), by inserting <quote>, in consultation with the head of each agency,</quote> after <quote>the Administrator</quote>;</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id9d9072ee-c505-44ae-b38a-fcee314bf71b" changed="not-changed">
+                            <enum>(II)</enum>
+ <text>by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id4b7292f0-551b-41b8-b2ce-168c2fc07520" changed="not-changed">
+                            <enum>(III)</enum>
+ <text>by inserting after subparagraph (B) the following:</text> <quoted-block style="OLC" id="id8ff3e86a-4c67-40fa-9132-a25c5f284cb2" act-name="" changed="not-changed"> <subparagraph id="idae9cc032-73d3-4235-b571-c2c8a9e62821" changed="not-changed"> <enum>(C)</enum> <text>whether the committee, for the period covered by the review, complied with the requirements of subsection (a)(2);</text>
+                                </subparagraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id6b46a613-9497-4995-8e93-37f98e9bd2c0" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text>by amending paragraph (3) to read as follows:</text> <quoted-block style="OLC" id="id24c8adaa-0aae-4dff-859c-bbc5a414fdda" act-name="" changed="not-changed"> <paragraph id="id598f5b89-358f-41bf-98aa-c4ee7dcc7e92" changed="not-changed"> <enum>(3)</enum> <header>Biennial report and recommendations</header> <text>The Administrator shall biennially submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report containing the results of the 2 most recent reviews conducted under this subsection, which shall include recommendations to the President and to either the agency head or Congress with respect to action the Administrator believes should be taken.</text>
+                            </paragraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id3106da3c-c8f6-46bf-900a-5be3fbf49be1" changed="not-changed">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">in subsection (c)—</text> <clause commented="no" display-inline="no-display-inline" id="idbf83460a-cb29-41a4-bf8c-e8e390a5c701" changed="not-changed"> <enum>(i)</enum> <text display-inline="yes-display-inline">in the first sentence—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="idc48e9c22-1586-47a2-bb83-dd981750910a" changed="not-changed">
+                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>administrative guidelines and management controls</quote> and inserting <quote>regulations, administrative guidelines, and management controls</quote>; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="idd337131f-47c5-496f-a841-38d03c910dc2" changed="not-changed">
+                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">by inserting after <quote>their performance</quote> the following: <quote>, which shall include guidance regarding how the agency and the advisory committees of the agency should prepare the information that is required to be submitted under subsection (a)(2) to ensure standardization and consistency in the reporting of that information</quote>; and</text>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idba3785dc-378b-4cec-aa37-6689ee6bc759" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text>by adding at the end the following: <quote>The Administrator may update the regulations, administrative guidelines, and management controls prescribed under this subsection, as determined necessary by the Administrator.</quote>; and</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id9ff4a5f1-da73-4bdc-8ef3-196afd579432" changed="not-changed">
+                <enum>(2)</enum>
+ <text>in section 1007—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id21291edc-7c6f-4c40-b284-11963361e5bb" changed="not-changed"> <enum>(A)</enum> <text>by amending subsection (a) to read as follows:</text>
+                    <quoted-block style="OLC" id="id63b7e9ca-284c-4216-9466-793e6a2ebc67" act-name="" changed="not-changed">
+                        <subsection id="id48082832-1736-4248-935f-47c99fb8aec9" changed="not-changed">
+                            <enum>(a)</enum>
+                            <header>Administrative guidelines and management controls</header>
+ <text>Each agency head shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="id7e62756d-0f97-4e33-af3d-46932d27dcbb" changed="not-changed"> <enum>(1)</enum> <text>establish uniform administrative guidelines and management controls for advisory committees established by that agency, which shall be consistent with directives of the Administrator under sections 1006 and 1009 of this title;</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id63b2637b-7525-47f1-aef6-e124ea1f2d28" changed="not-changed">
+                                <enum>(2)</enum>
+ <text>maintain systematic information on the nature, functions, and operations of each advisory committee established by that agency;</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id94d7ecaf-6d05-479a-9e71-366986977e74" changed="not-changed">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">ensure timely and accurate reporting to the Administrator regarding the activities of each advisory committee established by that agency, including with respect to the information required to be submitted under section 1006(a)(2); </text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id9b0a3e46-f231-473b-a414-c17895b47037" changed="not-changed">
+                                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">in coordination with each officer or employee of the Federal Government designated under section 1009(e), establish relevant and appropriate performance measures and outcomes for each advisory committee established by that agency; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idfca38df6-4732-457b-bb10-df0f503eaf28" changed="not-changed">
+                                <enum>(5)</enum>
+ <text>ensure that each advisory committee established by that agency, and the staff of each such advisory committee (including each officer or employee of the Federal Government designated under section 1009(e)), complies with the requirements of this chapter and the rules, orders, and regulations promulgated under this chapter.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ida6eeeb60-ed3e-405f-84f1-60408927a8d1" changed="not-changed">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in subsection (b)—</text> <clause commented="no" display-inline="no-display-inline" id="ida466b194cec34f928fa060a31f7a4c61" changed="not-changed"> <enum>(i)</enum> <text display-inline="yes-display-inline">in paragraph (2)—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="ide50b5793-43e9-4e17-8744-8ebce6b97bf5" changed="not-changed">
+                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">by inserting <quote>recommendations,</quote> after <quote>records,</quote>; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id59269334-3a1b-4cba-ac0c-05c9e30a2f23" changed="not-changed">
+                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>and</quote> at the end;</text>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id6b76b610-65a6-4364-8423-b2043d523998" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in paragraph (3)—</text> <subclause commented="no" display-inline="no-display-inline" id="id9c2a633e-21ce-48af-b294-ec9da81380ae" changed="not-changed"> <enum>(I)</enum> <text>by striking <quote>such reports, records, and other papers</quote> and inserting <quote>the reports, records, recommendations, and other papers described in paragraph (2)</quote>; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="idda42c54c-f55d-4d6f-9347-2753a20444ac" changed="not-changed">
+                            <enum>(II)</enum>
+ <text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                        </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id53285d1b-8010-4270-bf89-c6eebf26261b" changed="not-changed">
+                        <enum>(iii)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id3e8edecf-b849-4023-8f96-02f72026253b" changed="not-changed"> <paragraph id="id991ed1e8-2e81-462a-8439-2e4ad5de5029" changed="not-changed"> <enum>(4)</enum> <text>serve as the primary liaison between the agency and the Administrator.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="id62BB2CE5FDFB4BD28EC9BE48A08E283F" changed="not-changed">
+            <enum>3.</enum>
+            <header>No additional funds</header>
+ <text display-inline="no-display-inline">No additional funds are authorized to be appropriated for the purpose of carrying out this Act or the amendments made by this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

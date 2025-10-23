@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25634-4XF-5G-XTC">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2714 IS: Children Harmed by AI Technology Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2714</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250904">September 4, 2025</action-date>
+            <action-desc><sponsor name-id="S438">Mr. Husted</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require artificial intelligence chatbots to implement age verification
+            measures and establish certain protections for minor users, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Children Harmed by AI Technology Act</short-title></quote> or the <quote><short-title>CHAT Act</short-title></quote>.</text>
+        </section>
+        <section id="id12875741e5e0413facaffffd8981c2d8">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id932e74d3e7474fd9925312bc8e8195c4"> <enum>(1)</enum> <header>Commission</header> <text>The term <term>Commission</term> means the Federal Trade Commission.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id8bf9a932c6644ff0bc5f90b35f5b736b">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">Companion AI chatbot</header>
+ <text>The term <term>companion AI chatbot</term> means any software-based artificial intelligence system or program that exists for the primary purpose of simulating interpersonal or emotional interaction, friendship, companionship, or therapeutic communication with a user.</text>
+            </paragraph>
+            <paragraph id="idbaa0a5b83a9d4d06aa1e97821bbc16ee">
+                <enum>(3)</enum>
+                <header>Covered entity</header>
+ <text>The term <term>covered entity</term> means any person that owns, operates, or otherwise makes available a companion AI chatbot to individuals in the United States.</text>
+            </paragraph>
+            <paragraph id="iddbdd27c22ced4d619d0d29ed06ddf80a">
+                <enum>(4)</enum>
+                <header>Minor</header>
+ <text>The term <term>minor</term> means any individual that has not attained 18 years of age.</text>
+            </paragraph>
+            <paragraph id="id4a436f7ad7414744a8e4a2fb5e4215e1">
+                <enum>(5)</enum>
+                <header>Popup</header>
+ <text>The term <term>popup</term> means a visible notification on the screen of a user that can be resolved if interacted with by the user.</text>
+            </paragraph>
+            <paragraph id="idb0db553d84684cd7badbfd85d76ea88e" commented="no" display-inline="no-display-inline">
+                <enum>(6)</enum>
+                <header>Sexually explicit communication</header>
+ <text>The term <term>sexually explicit communication</term> includes any content, conversation, or material that describes, depicts, or encourages sexually explicit conduct, as defined in paragraph (2)(B) of section 2256 of title 18, United States Code.</text>
+            </paragraph>
+            <paragraph id="id37eb5e208b564dffaaf2a938563f4b94">
+                <enum>(7)</enum>
+                <header>Suicidal ideation</header>
+ <text>The term <term>suicidal ideation</term> means, with respect to an interaction between a minor and a companion AI chatbot, any dialogue in which such minor expresses thoughts of self-harm or suicide.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id644a27b4c56d40728cf0ac47025aac5d">
+            <enum>3.</enum>
+            <header>Covered entity obligations</header>
+            <subsection id="ida32865adba09445eb628e7de6c085620">
+                <enum>(a)</enum>
+                <header>Creation of user accounts</header>
+ <text>A covered entity shall require each individual accessing a companion AI chatbot to make a user account in order to use or otherwise interact with such chatbot.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idc80abf08836a48209837538d471d2031">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Age verification</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7d289325d9414d879a58421dd8a838e4">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Age verification of existing
+                        accounts</header>
+ <text>With respect to each user account of a companion AI chatbot that exists as of the date described in section 7, a covered entity shall—</text>
+                    <subparagraph id="id6f3776bebf3449b18d74a37d9f5f1922">
+                        <enum>(A)</enum>
+ <text>on such date, freeze any such account;</text> </subparagraph> <subparagraph id="id73eb0ac3539741d1a42d3c6bad384425"> <enum>(B)</enum> <text>in order to restore the functionality of such account, require that the user provide age information that is verifiable using a commercially available method or process that is reasonably designed to ensure accuracy; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id27157d6a29ea4c4e9b9159985559f441">
+                        <enum>(C)</enum>
+ <text>using such age information, classify each user as a minor or an adult.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id31db4ccc42ed44baa8a1a932b7a69c9c">
+                    <enum>(2)</enum>
+                    <header>Age verification of new accounts</header>
+ <text>At the time an individual creates a new user account to use or interact with a companion AI chatbot, a covered entity shall—</text>
+                    <subparagraph id="id937de647b48148518c6695a7b696a2d5">
+                        <enum>(A)</enum>
+ <text>request age information from the individual; and</text> </subparagraph> <subparagraph id="id83f1c63766614717be47b97ec4d34735"> <enum>(B)</enum> <text>verify the individual’s age using a commercially available method or process that is reasonably designed to ensure accuracy.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idaa54b04baa034fb2be2cce3653072447">
+                <enum>(c)</enum>
+                <header>Minor account protections</header>
+ <text>If the age verification process described in subsection (b) determines that a user is a minor, a covered entity shall—</text>
+                <paragraph id="id980d4f53171c45cfa7930adef07fb2d2">
+                    <enum>(1)</enum>
+ <text>require the account of such user to be affiliated with a parental account, which such covered entity has verified using a commercially available method or process that is reasonably designed to ensure accuracy;</text>
+                </paragraph>
+                <paragraph id="idb89b7cf7752f4df9b251d3854e2c3253">
+                    <enum>(2)</enum>
+ <text>obtain verifiable parental consent from the holder of the account before allowing a minor to access and use the companion AI chatbot;</text>
+                </paragraph>
+                <paragraph id="id4cd61d0f744d4b31b53b843c1fadb93d">
+                    <enum>(3)</enum>
+ <text>immediately inform the holder of the parental account of any interaction involving suicidal ideation; and</text>
+                </paragraph>
+                <paragraph id="id7cb2c543115a4c4d8e8fbf5c8df51fbe">
+                    <enum>(4)</enum>
+ <text>block the minor's access to any companion AI chatbot that engages in sexually explicit communication.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id52752eeec0774abc9eb14415b3901798">
+                <enum>(d)</enum>
+                <header>Confidentiality of age verification data</header>
+ <text>A covered entity shall protect the confidentiality of age information provided by a user for age verification by limiting the collection, processing, use, and storage of such information to what is strictly necessary to verify a user’s age, obtain verifiable parental consent, or maintain compliance records.</text>
+            </subsection>
+            <subsection id="id583338af7e024fa1954add85b2055aeb">
+                <enum>(e)</enum>
+                <header>Monitoring for suicidal ideation</header>
+ <text>A covered entity shall monitor companion AI chatbot interactions for suicidal ideation and, in response to any such interaction, provide to the user and the parental account affiliated with such user appropriate resources by presenting contact information for the National Suicide Prevention Lifeline.</text>
+            </subsection>
+            <subsection id="idbdf9ae25a4924822bd3a29e7fe05f301">
+                <enum>(f)</enum>
+                <header>Notification of artificial chatbot</header>
+ <text>At the beginning of any interaction between a user and a companion AI chatbot, and not less frequently than every 60 minutes during such interaction thereafter, a covered entity shall display to such user a clear popup that notifies the user that they are not engaging in dialogue with a human counterpart.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="iddeefa16c781447dfa952c69ab21a3723">
+            <enum>4.</enum>
+            <header>Compliance</header>
+            <subsection id="id4f75c511877a409898ad86339fa7c2c3">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Commission shall issue guidance to assist covered entities in complying with the requirements of this Act.</text>
+            </subsection>
+            <subsection id="idedb4cb8f59b346a3b67bec5e94240008">
+                <enum>(b)</enum>
+                <header>Limitation</header>
+ <text>In any enforcement action brought pursuant to this Act, the Commission shall allege a specific violation of a provision of this Act. The Commission may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any guidance issued by the Commission with respect to this Act, unless the practices are alleged to violate a provision of this Act. A person may use such guidance as evidence of compliance with this Act.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idff910a2e9e854feb8c121b63fde4429b">
+            <enum>5.</enum>
+            <header>Enforcement</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id0a7689a5b5474690876a73c5300fdc30">
+                <enum>(a)</enum>
+                <header>Enforcement by the Commission</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idaeb210edd8e34cfaacc86e3bd2c3a0f8">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Unfair or deceptive acts or
+                        practices</header>
+ <text>A violation of this Act or a regulation promulgated under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id827453fd9d024a2ab63426926594be76">
+                    <enum>(2)</enum>
+                    <header>Powers of the Commission</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id883693a19374474795382e2fa2f50408">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this Act.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide7ddf3457b464952a896f6c75c7a8b15">
+                        <enum>(B)</enum>
+                        <header>Privileges and immunities</header>
+ <text>Any person who violates this Act or a regulation promulgated under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7462fd0b766a4282aa483a7dc31be272">
+                        <enum>(C)</enum>
+                        <header>Authority preserved</header>
+ <text display-inline="yes-display-inline">Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id521546a176af40f8a715b3a1002ede75">
+                <enum>(b)</enum>
+                <header>Enforcement by States</header>
+                <paragraph id="id0a98fb6d206542b1b8a269189e1bce9c">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <subparagraph id="id4635e2bb5dc04afba37b39363f9aaaac">
+                        <enum>(A)</enum>
+                        <header>Civil actions</header>
+ <text>In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates this Act, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—</text>
+                        <clause id="id16a55131e8f24b13b86620b456be7b68">
+                            <enum>(i)</enum>
+ <text>enjoin that practice;</text> </clause> <clause id="id8d5c69032c744c939275b29c7ebdb841"> <enum>(ii)</enum> <text>enforce compliance with the requirements of this Act;</text>
+                        </clause>
+                        <clause id="id1778c9b68379446c8212637babd560e8">
+                            <enum>(iii)</enum>
+ <text>obtain damages, restitution, or other compensation on behalf of residents of the State; or</text>
+                        </clause>
+                        <clause id="idebb6f7099195446580f5e19d47acde4b">
+                            <enum>(iv)</enum>
+ <text>obtain such other relief as the court may consider to be appropriate.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idc97ed187d2f04130af8099586fc1f6d8">
+                        <enum>(B)</enum>
+                        <header>Notice</header>
+                        <clause id="id879a6af03bef4c8096ae6f6a44e52ff7">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Before filing an action under subparagraph (A), the attorney general of the State involved shall provide to the Commission—</text>
+                            <subclause id="idc61cff66dc6d43dbab8674f66cd256b9">
+                                <enum>(I)</enum>
+ <text>a written notice of that action; and</text> </subclause> <subclause id="id69af92556d574fe596eeb137d7c6d03d"> <enum>(II)</enum> <text>a copy of the complaint for that action.</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id65cfa0b8171e4c5ca4c83b634d29c69d">
+                            <enum>(ii)</enum>
+                            <header>Exemption</header>
+                            <subclause id="id6aa8e167e0484e688b49d69430549c5b">
+                                <enum>(I)</enum>
+                                <header>In general</header>
+ <text>Clause (i) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection if the attorney general determines that it is not feasible to provide the notice described in that clause before the filing of the action.</text>
+                            </subclause>
+                            <subclause id="idcd21d06e8e3543ae895036b3b422ff60">
+                                <enum>(II)</enum>
+                                <header>Notification</header>
+ <text>In an action described in subclause (I), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idace50c61ec9a4646b2026b74f35d58a7">
+                    <enum>(2)</enum>
+                    <header>Intervention</header>
+                    <subparagraph id="id72d8876246bf4574a666099fbc8deac6">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>On receiving notice under paragraph (1)(B), the Commission shall have the right to intervene in the action that is the subject of the notice.</text>
+                    </subparagraph>
+                    <subparagraph id="id05d9fd54888248b685ced19627e05078">
+                        <enum>(B)</enum>
+                        <header>Effect of intervention</header>
+ <text>If the Commission intervenes in an action under paragraph (1), it shall have the right—</text>
+                        <clause id="idb22ae3cda6164e01b0070ca2b2d79cc0">
+                            <enum>(i)</enum>
+ <text>to remove the action to the appropriate district court of the United States;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idee75004debc5471fae7a0ceb1190d8f3">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">to be heard with respect to any matter that arises in that action; and</text>
+                        </clause>
+                        <clause id="idb1e372e4051f44148ba31a08ad149040">
+                            <enum>(iii)</enum>
+ <text>to file a petition for appeal.</text> </clause> </subparagraph> </paragraph> <paragraph id="id298253481c864430b51cee3c5e772d22"> <enum>(3)</enum> <header>Construction</header> <text>For purposes of bringing any civil action under paragraph (1), nothing in this Act shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—</text>
+                    <subparagraph id="id09cbea43586c4785817f3734cd698013">
+                        <enum>(A)</enum>
+ <text>conduct investigations;</text> </subparagraph> <subparagraph id="ide03af94451c7436496f3313c9c4f1fe7"> <enum>(B)</enum> <text>administer oaths or affirmations; or</text>
+                    </subparagraph>
+                    <subparagraph id="id38ba109318f540a7a371ac691bd6bfb9">
+                        <enum>(C)</enum>
+ <text>compel the attendance of witnesses or the production of documentary and other evidence.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide8900fffae734af691f60c4b1f03d46f">
+                    <enum>(4)</enum>
+                    <header>Actions by the Commission</header>
+ <text>In any case in which an action is instituted by or on behalf of the Commission for a violation of this Act, no State may, during the pendency of that action, institute an action under paragraph (1) against any defendant named in the complaint in that action for such violation.</text>
+                </paragraph>
+                <paragraph id="ided54ca21d0c94fc29c7c80f2f23692ef">
+                    <enum>(5)</enum>
+                    <header>Venue; service of process</header>
+                    <subparagraph id="idcab13423ffef4cf3afa5e3cb1de4a958">
+                        <enum>(A)</enum>
+                        <header>Venue</header>
+ <text>Any action brought under paragraph (1) may be brought in—</text> <clause commented="no" display-inline="no-display-inline" id="idf08f12cf06a44dda98c8ea3e14c987bd"> <enum>(i)</enum> <text display-inline="yes-display-inline">the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id3793f6e385124535b89f91f0fd4877b9">
+                            <enum>(ii)</enum>
+ <text>a State court of competent jurisdiction.</text> </clause> </subparagraph> <subparagraph id="id5ac15ca9075b4d14b45762f9e6088ec3"> <enum>(B)</enum> <header>Service of process</header> <text>In an action brought under paragraph (1), process may be served in any district in which the defendant—</text>
+                        <clause id="id19fc0f3014804de0b2fb609dc099492e">
+                            <enum>(i)</enum>
+ <text>is an inhabitant; or</text> </clause> <clause id="id951d3ab78852446c8e03cedeb0567220"> <enum>(ii)</enum> <text>may be found.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idf930f08d849a4343aafc89a571834f83">
+            <enum>6.</enum>
+            <header>Safe Harbor</header>
+ <text display-inline="no-display-inline">A covered entity is deemed not liable for a violation of this Act if the covered entity demonstrates it has—</text>
+            <paragraph id="id9c2bef44c9c343d6bed43f99990c4f60">
+                <enum>(1)</enum>
+ <text>relied in good faith on age information provided by a user of the companion AI chatbot for purposes of verifying the age of such user;</text>
+            </paragraph>
+            <paragraph id="id686c7f07d6ce4bc7a99b5d87c8705b2b">
+                <enum>(2)</enum>
+ <text>complied with the guidance described in section 4; and</text> </paragraph> <paragraph id="id418672c78bf248f88d2b53eeed6e779b"> <enum>(3)</enum> <text>reasonably conformed to widely accepted industry standards or best practices, or to standards or best practices identified by the Commission, for age verification and applied those standards or best practices consistently and in good faith.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id75bda2acf1fd4ba79be93f3cd457861d">
+            <enum>7.</enum>
+            <header>Effective Date</header>
+ <text display-inline="no-display-inline">This Act shall take effect on the date that is 1 year after the date of enactment of this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

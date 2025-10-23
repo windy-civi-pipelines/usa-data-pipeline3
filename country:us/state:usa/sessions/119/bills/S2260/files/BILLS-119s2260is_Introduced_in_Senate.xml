@@ -1,0 +1,1502 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25460-2RR-JD-91S">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2260 IS: Border Water Quality Restoration and Protection Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2260</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250710">July 10, 2025</action-date>
+            <action-desc><sponsor name-id="S413">Mr. Padilla</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for the water quality restoration of the Tijuana River and the
+            New River, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection id="id208F737191FA4C1E9299B2209E2646FE">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Border Water Quality Restoration and Protection Act</short-title></quote>.</text>
+            </subsection>
+            <subsection id="idDCC8F41089D04DB59DD0D525C172FB6D">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="id6D9DECDCF0C947F0BFDA7EBEDA9AB503">Sec. 2. Definitions.</toc-entry> <toc-entry level="title" idref="id592BF0D3271747E6AF8A2E229EF1DCD6">TITLE I—Tijuana River Public Health and Water Quality Restoration</toc-entry> <toc-entry level="section" idref="idc1ce7ff844414badaee77a43df43f12e">Sec. 101. Findings; purposes.</toc-entry> <toc-entry level="section" idref="id1d1aed17b97346f7ac644d2f1f7458e2">Sec. 102. Definitions.</toc-entry> <toc-entry level="section" idref="idacaab84639f04061b4a63239a82e5ed6">Sec. 103. Tijuana River Public Health and Water Quality Restoration Program.</toc-entry> <toc-entry level="section" idref="id395f064e0433486abe5e34870c5e746d">Sec. 104. Water quality action plan.</toc-entry> <toc-entry level="section" idref="idd1914988a670419989d03b287b68106a">Sec. 105. Grants, interagency and other agreements, and assistance.</toc-entry> <toc-entry level="section" idref="id4e5b5597f4fc4fcd9085fdb67358901b">Sec. 106. Annual budget plan.</toc-entry> <toc-entry level="section" idref="idfb4088c3dbe34e2ea488878dbcdcfcdf">Sec. 107. Reports.</toc-entry> <toc-entry level="title" idref="id8193527BB6BD4063A24BC128D849E244">TITLE II—New River Public Health and Water Quality Restoration</toc-entry> <toc-entry level="section" idref="id3A49A94B9ADC43F4A1F9F181C974F016">Sec. 201. Findings; purposes.</toc-entry> <toc-entry level="section" idref="id017E0D144A6448F4947C1E95A76D8448">Sec. 202. Definitions.</toc-entry> <toc-entry level="section" idref="id7CFCC77D88D244EF913862233ADE80E3">Sec. 203. California New River Public Health and Water Quality Restoration Program.</toc-entry> <toc-entry level="section" idref="idF8218240BFC248BA82FC0F303011CAA4">Sec. 204. Water quality action plan.</toc-entry> <toc-entry level="section" idref="idC0D110AF0281437EB777ACBC2343AC6F">Sec. 205. Grants, interagency and other agreements, and assistance.</toc-entry> <toc-entry level="section" idref="id39705DB7C0FB4A91A38BB4DE75A6E540">Sec. 206. Annual budget plan.</toc-entry> <toc-entry level="section" idref="idA37130E8F28D4FD2959975A308A2C054">Sec. 207. Reports.</toc-entry> <toc-entry level="title" idref="id17C9A554B23C4500A6472F75C659B364">TITLE III—Border Water Infrastructure Improvement</toc-entry> <toc-entry level="section" idref="idd5d7422ea72845998ba539e4e32058bc">Sec. 301. United States-Mexico border water infrastructure program.</toc-entry> <toc-entry level="title" idref="idF8AA09D7127C42A7A4F9BE9F09AA001E">TITLE IV—Miscellaneous</toc-entry> <toc-entry level="section" idref="idD190680D114D45B594CD1E3C59A9CCE9">Sec. 401. Role of the Commissioner and international agreements.</toc-entry> </toc> </subsection> </section> <section id="id6D9DECDCF0C947F0BFDA7EBEDA9AB503"> <enum>2.</enum> <header>Definitions</header> <text display-inline="no-display-inline">In this Act:</text>
+            <paragraph id="id9D1810E180AC4924BCEFF5DAA83BC3A1">
+                <enum>(1)</enum>
+                <header>Administrator</header>
+ <text display-inline="yes-display-inline">The term <term>Administrator</term> means the Administrator of the Environmental Protection Agency.</text>
+            </paragraph>
+            <paragraph id="id24F71B58836B475FA3B5974EEAD8DD2C">
+                <enum>(2)</enum>
+                <header>Commissioner</header>
+ <text>The term <term>Commissioner</term> means the Commissioner of the United States Section of the International Boundary and Water Commission.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id0e63c58cf1894dae8e6d3896fdf6e76b">
+                <enum>(3)</enum>
+                <header>Indian Tribe</header>
+ <text>The term <term>Indian Tribe</term> has the meaning given the term <term>Indian tribe</term> in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/25/5130">25 U.S.C. 5130</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id476689af2dee49b9b6122c994cdeb352">
+                <enum>(4)</enum>
+                <header>Mexican</header>
+ <text>The term <term>Mexican</term>, with respect to entities from Mexico, means, as applicable, the Federal, State, and local governments of Mexico.</text>
+            </paragraph>
+            <paragraph id="id5A8BE95E7A3A433CAC068ED75683CFE7">
+                <enum>(5)</enum>
+                <header>New River</header>
+ <text>The term <term>New River</term> means the river that starts in Mexicali, Mexico, flows north into the United States through Calexico, passes through the Imperial Valley, and drains into the Salton Sea.</text>
+            </paragraph>
+            <paragraph id="idA2A0791D6AE74EE2985B39057623C18D">
+                <enum>(6)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of State.</text> </paragraph> <paragraph id="id84242332372d4f2faa7989bb55cf605d"> <enum>(7)</enum> <header>Tijuana River</header> <text>The term <term>Tijuana River</term> means the river that rises in the Sierra de Juarez in Mexico, flows through the City of Tijuana and then north into the United States, passes through the Tijuana River estuary, and drains into the Pacific Ocean.</text>
+            </paragraph>
+            <paragraph id="id75D58C8C4E324C2A8566AAFEF3292A84">
+                <enum>(8)</enum>
+                <header>Water reuse</header>
+ <text>The term <term>water reuse</term> has the meaning given the term in the document of the Environmental Protection Agency entitled <quote>National Water Reuse Action Plan Collaborative Implementation (Version 1)</quote> and dated February 2020.</text>
+            </paragraph>
+        </section>
+        <title id="id592BF0D3271747E6AF8A2E229EF1DCD6" style="OLC">
+            <enum>I</enum>
+            <header>Tijuana River Public Health and Water Quality Restoration</header>
+            <section id="idc1ce7ff844414badaee77a43df43f12e">
+                <enum>101.</enum>
+                <header>Findings; purposes</header>
+                <subsection id="id52A6ABC50C814E5195AD7BF56419E3B5">
+                    <enum>(a)</enum>
+                    <header>Findings</header>
+ <text display-inline="yes-display-inline">Congress finds that—</text> <paragraph id="id54aa85a8e4e443eaa136a044e3f4fb0d"> <enum>(1)</enum> <text>the Tijuana River flows across the United States-Mexico border, through the southern United States, and into the Pacific Ocean;</text>
+                    </paragraph>
+                    <paragraph id="id9A3EAADE5B5641A383CF2F84CC010658">
+                        <enum>(2)</enum>
+ <text><fraction>3/4</fraction> of the 1,750 square mile watershed of the Tijuana River lies in Mexico, and the remaining <fraction>1/4</fraction> includes the Tijuana River National Estuarine Research Reserve in the United States;</text>
+                    </paragraph>
+                    <paragraph id="id0873EDCD36B145E893ADAACDFCD44C01">
+                        <enum>(3)</enum>
+ <text>the Tijuana River National Estuarine Research Reserve is a partnership of Federal and State agencies, including the National Oceanic and Atmospheric Administration, California State Parks, and the United States Fish and Wildlife Service;</text>
+                    </paragraph>
+                    <paragraph id="id2be55212c8684ad4b0746f958d9c21f5">
+                        <enum>(4)</enum>
+ <text>the Tijuana River is a significant estuary and watershed, providing—</text>
+                        <subparagraph id="idE5FB066AEB334EE8AC5C4AC19E198037">
+                            <enum>(A)</enum>
+ <text>economic and health benefits to the citizens of the United States and Mexico; and</text>
+                        </subparagraph>
+                        <subparagraph id="id2760E432BF794EE68BF436FA700EA9CE">
+                            <enum>(B)</enum>
+ <text>environmental benefits as critical habitat to shore birds;</text> </subparagraph> </paragraph> <paragraph id="idf427297989fe4a1ca5208b2d6488307b"> <enum>(5)</enum> <text>the economy of communities in southern California, including smaller communities, such as the City of Imperial Beach, and larger municipalities, such as the City of San Diego, may be significantly affected—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id6b5dca700cea4921928666c36a894f72">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">if the natural beauty and recreational opportunities of the Tijuana River are degraded; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id9cd0bc392c47418b84564de17aa21118">
+                            <enum>(B)</enum>
+ <text>due to public health and environmental impacts;</text> </subparagraph> </paragraph> <paragraph id="id84f4049052cf4b93bd618e2b82e30547"> <enum>(6)</enum> <text>the Tijuana River watershed is in the midst of an environmental crisis, as stormwater flows from the upper watershed, originating in Tijuana, Mexico, carrying pollutants such as bacteria, trash, and sediment that severely affect water quality;</text>
+                    </paragraph>
+                    <paragraph id="id7CE73666E0954E44B7CFD85E8C63C01A">
+                        <enum>(7)</enum>
+ <text>coastal communities in and near the Tijuana River watershed are also affected, during certain tidal events, by a combination of treated wastewater and chlorinated-only wastewater discharged from the San Antonio de los Buenos wastewater treatment plant located 5 miles south of the United States-Mexico border in Tijuana;</text>
+                    </paragraph>
+                    <paragraph id="id20D059C4D99C49E89D482C74B664379E">
+                        <enum>(8)</enum>
+ <text>as reported by the Government Accountability Office in February 2020, transboundary flows of untreated sewage, combined with unmanaged stormwater, bring bacteria and other contaminants into the Tijuana River Valley watershed and beaches in the United States;</text>
+                    </paragraph>
+                    <paragraph id="id098a372eba124630981d38e98c5da1f2">
+                        <enum>(9)</enum>
+ <text>sediment flows into the Tijuana River National Wildlife Refuge and blocks the flow of ocean water and creates an imbalance in water salinity, necessary for marsh plants, fish, and birds;</text>
+                    </paragraph>
+                    <paragraph id="idd3e57778cc174e9eb6728a17b74fc039">
+                        <enum>(10)</enum>
+ <text>before the date of enactment of this Act, the City of Imperial Beach has experienced more than 1,000 consecutive days of beach closures due to the ongoing influx of sewage, industrial discharges, and trash from the Tijuana River due to risk to human health;</text>
+                    </paragraph>
+                    <paragraph id="id6386dc6e6b9747a0a731f004aec0dc6d">
+                        <enum>(11)</enum>
+ <text>flows of untreated sewage, chemicals, and pollution from Mexico jeopardize the health of Border Patrol agents and limit the ability of those agents to operate in areas affected by these flows;</text>
+                    </paragraph>
+                    <paragraph id="idD541C3C1B9904CD38FA133439CCA9193">
+                        <enum>(12)</enum>
+ <text>a March 2020 report of the Environmental Financial Advisory Board of the Environmental Protection Agency—</text>
+                        <subparagraph id="idA151E4FC9C9A489C8925504B2AD2A91E">
+                            <enum>(A)</enum>
+ <text>found that—</text> <clause id="id2D77D93E7CA14D14A5DF41D408B81AC1"> <enum>(i)</enum> <text><quote>stormwater knows no jurisdictional boundaries … and is a principal cause of water quality issues nationwide</quote>; and</text>
+                            </clause>
+                            <clause id="id1433CCF1210545388FA49727AAAA5BE8">
+                                <enum>(ii)</enum>
+ <text>adequate funding to manage stormwater pollution lags behind the investments made in wastewater management and the delivery of safe drinking water by decades; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id5E0D6F58283C4486AD04109101748179">
+                            <enum>(B)</enum>
+ <text>concluded that Federal investment will be required to address—</text>
+                            <clause id="idAB7E389C721D40C9ABCE2C19E1B47493">
+                                <enum>(i)</enum>
+ <text>the lack of State and local funding; and</text> </clause> <clause id="idBB1F154920A846E9B6203DF75450FCB9"> <enum>(ii)</enum> <text>multi-jurisdictional stormwater management needs;</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id566C7B2F9AA54B18A4D66281F10D5DC2">
+                        <enum>(13)</enum>
+ <text>during the 10-year period before the date of enactment of this Act, Federal, State, and local governments and others have identified the benefits of using natural and green infrastructure to control and manage stormwater runoff, including wetlands, coastal dunes, and retention structures;</text>
+                    </paragraph>
+                    <paragraph id="idf0cdec8836bd4fe7a7c5e7134d403f13">
+                        <enum>(14)</enum>
+ <text>during the 20-year period before the date of enactment of this Act, the United States and Mexico, through the International Boundary and Water Commission, have agreed to resolve the pollution problems in the Tijuana River;</text>
+                    </paragraph>
+                    <paragraph id="id343834EC2E1A41759751080EB57C8175">
+                        <enum>(15)</enum>
+ <text>the International Boundary and Water Commission has negotiated 9 Minutes to resolve water quality problems in the Tijuana River, among other subjects;</text>
+                    </paragraph>
+                    <paragraph id="id9A5E3F7D063B487BB72F75F906750401">
+                        <enum>(16)</enum>
+ <text>1 of the most recent Minutes authorized the construction of the South Bay International Wastewater Treatment Plant in San Ysidro to treat, on average, 25,000,000 gallons of sewage from Tijuana per day, which has reduced the sewage coming into the United States;</text>
+                    </paragraph>
+                    <paragraph id="id45fed454e7e9438f9676e5fea0787af1">
+                        <enum>(17)</enum>
+ <text>the sewer system of Tijuana is—</text> <subparagraph id="id52DD7A06712146468B51E4EC959D1757"> <enum>(A)</enum> <text>aging and deteriorating; and</text>
+                        </subparagraph>
+                        <subparagraph id="id6139CCDA50704E1B8EF6B944F7F52361">
+                            <enum>(B)</enum>
+ <text>insufficient to meet the needs of a quickly growing population;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id406a739e36b04e24b513b512d0f45520">
+                        <enum>(18)</enum>
+ <text>in August 2023, Tropical Storm Hilary—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ided948ffc3d814c1fa9e29f94d05ddebc"> <enum>(A)</enum> <text display-inline="yes-display-inline">caused more than 2,000,000,000 gallons of contaminated water to flow across the border; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ide5de8bedb6b84c41b3ab0270c4c306bd">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">exacerbated vulnerabilities at the South Bay International Wastewater Treatment Plant;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id1b39b768cb454a6bbe1e54376cc09591">
+                        <enum>(19)</enum>
+ <text>on January 22, 2024, a record-breaking storm caused the Tijuana River to reach the highest flow ever recorded for that river at 14,500,000 gallons per day;</text>
+                    </paragraph>
+                    <paragraph id="idBA3EC0AD71994672BA65539A721D007A">
+                        <enum>(20)</enum>
+ <text>from January to December of 2024, an estimated 36,154,000,000 gallons of wastewater, treated water, and stormwater flowed from Mexico to the United States;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4b743ecb85e54aa8b3c4790ca6b864a5">
+                        <enum>(21)</enum>
+ <text display-inline="yes-display-inline">on June 17, 2024, a pump station failure resulted in approximately 302,000 gallons of untreated spilling onto the public right-of-way;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcce7184c83bd41cdab2c9fc880bd105e">
+                        <enum>(22)</enum>
+ <text display-inline="yes-display-inline">during the 2-year period before the date of enactment of this Act, transboundary flows occurred on 317 days, on average, each year;</text>
+                    </paragraph>
+                    <paragraph id="idBFC2F281C8394B9793F0B1A8EEC53737">
+                        <enum>(23)</enum>
+ <text>those transboundary flows contain treated wastewater, raw sewage, and urban runoff, with most of those flows associated with wet weather and stormwater;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id40743f255b354c9fb0e120fee17e27d2">
+                        <enum>(24)</enum>
+ <text>during the 2-year period before the date of enactment of this Act, unprecedented dry weather flows reached approximately 13,795,000,000 gallons;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idbc865dc886a04fa4aa8dfef739476ab5">
+                        <enum>(25)</enum>
+ <text>abnormal dry weather flows and sediment have caused pump failures, oppressive odors, and public health concerns;</text>
+                    </paragraph>
+                    <paragraph id="id4f882fbd24184a0c972acc2f90c7add7">
+                        <enum>(26)</enum>
+ <text>the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1251">33 U.S.C. 1251 et seq.</external-xref>) has established a stormwater permit program under the National Pollutant Discharge Elimination System, under which municipalities have the responsibility to manage and treat stormwater;</text>
+                    </paragraph>
+                    <paragraph id="idc791d57278ee4042b018bfb6c20c8e94">
+                        <enum>(27)</enum>
+ <text>because of the international border and different treatment systems and standards, discharges in Mexico to the Tijuana River are not treated to the same standards as the standards to which discharges would be treated in the United States;</text>
+                    </paragraph>
+                    <paragraph id="id4b111a8d8b35427199efb7b58d5d9b67">
+                        <enum>(28)</enum>
+ <text>the International Boundary and Water Commission negotiated Minute 320 to find solutions for water quality, trash, and sediment in the Tijuana River;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2fede18ff3ff44229bef7e74e3e74313">
+                        <enum>(29)</enum>
+ <text>the International Boundary and Water Commission negotiated Minute 328 to implement sanitation infrastructure projects in Tijuana, Baja California, and San Diego, California, that will be financed with a total joint investment of $474,000,000;</text>
+                    </paragraph>
+                    <paragraph id="id855923ac0e6b41ba9207107056d90ea8">
+                        <enum>(30)</enum>
+ <text>the United States has invested at least $300,000,000 for secondary wastewater treatment in the Tijuana River Valley by the International Boundary and Water Commission and the Environmental Protection Agency through the United States-Mexico-Canada Agreement and Minute 328;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id0aad9d88844d4e3288ca140fa7690e76">
+                        <enum>(31)</enum>
+ <text>the Environmental Protection Agency and the International Boundary and Water Commission selected Alternative 2, as described in the final programmatic environmental impact statement of the Environmental Protection Agency and the International Boundary and Water Commission entitled <quote>USMCA Mitigation of Contaminated Transboundary Flows Project</quote> and dated November 2, 2022, and selected in the record of decision of the Environmental Protection Agency and the International Boundary and Water Commission entitled <quote>Joint Record of Decision for the Final Programmatic Environmental Impact Statement for United States-Mexico-Canada Agreement Mitigation of Contaminated Transboundary Flows Project</quote> and signed on June 9, 2023;</text>
+                    </paragraph>
+                    <paragraph id="idAB396B56CCB94D46957AB923EAEAE3B4">
+                        <enum>(32)</enum>
+ <text>the United States has also helped fund water and wastewater infrastructure along the border through the Border Water Infrastructure Program and the North American Development Bank; and</text>
+                    </paragraph>
+                    <paragraph id="idBA42A931FC8C40C9822D705BE2CC9CF6">
+                        <enum>(33)</enum>
+ <text>however, as the Government Accountability Office found in the report described in paragraph (8)—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id41079a2da694468d94d41672af625944">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the longstanding environmental and health problems associated with transboundary stormwater flows continue; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb384b1ba8c784682923e7035437916a3">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">while the International Boundary and Water Commission has taken the first steps to conduct long-term capital planning to resolve existing problems by proposing and analyzing alternatives, analyzing costs, identifying solutions, or establishing time frames, significant additional investment from the resources of Federal, State, Tribal, local, and Mexican entities is needed to improve the water quality of the Tijuana River watershed.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id853AF68404AF4AD28F812E5338059122">
+                    <enum>(b)</enum>
+                    <header>Purposes</header>
+ <text>The purposes of this title are—</text> <paragraph id="id76E14CF7082E4814B8BB24D5226004FC"> <enum>(1)</enum> <text>to establish a Geographic Program to plan and implement water quality restoration and protection activities;</text>
+                    </paragraph>
+                    <paragraph id="idDA510EFED0384AA3B39BE300C6AADA6C">
+                        <enum>(2)</enum>
+ <text>to ensure the coordination of restoration and protection activities among Mexican, Federal, State, local, and regional entities and conservation partners relating to water quality and stormwater management in the Mexican Tijuana River watershed and the American Tijuana River watershed; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idE29EF137A8A94F46A33392F2374708F0">
+                        <enum>(3)</enum>
+ <text>to provide funding for water quality restoration and protection activities in the Mexican Tijuana River watershed and the American Tijuana River watershed.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id1d1aed17b97346f7ac644d2f1f7458e2">
+                <enum>102.</enum>
+                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this title:</text> <paragraph id="id5c3abec71a8143c9bdbbf76af34080af"> <enum>(1)</enum> <header>American Tijuana River watershed</header> <text>The term <term>American Tijuana River watershed</term> means the portion of the Tijuana River watershed that lies in the United States.</text>
+                </paragraph>
+                <paragraph id="id91978b78c5af458d98f82ee28b87eb6e">
+                    <enum>(2)</enum>
+                    <header>Mexican Tijuana River watershed</header>
+ <text>The term <term>Mexican Tijuana River watershed</term> means the portion of the Tijuana River watershed that lies in Mexico.</text>
+                </paragraph>
+                <paragraph id="id501c03ebe19544f4a7b79b798af107c4">
+                    <enum>(3)</enum>
+                    <header>Program</header>
+ <text>The term <term>program</term> means the Tijuana River Public Health and Water Quality Restoration Program established under section 103(a)(1).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf857c7d044644a7184afd25b70a7d315">
+                    <enum>(4)</enum>
+                    <header>Program Director</header>
+ <text>The term <term>Program Director</term> means the Program Director of the program designated under section 103(a)(2).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4de9618d728f4844bda5a9e27ba76582">
+                    <enum>(5)</enum>
+                    <header>Water quality restoration and protection</header>
+ <text>The term <term>water quality restoration and protection</term>, with respect to the Tijuana River watershed, means—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id892FD411F3DE4E92988144CD36427424">
+                        <enum>(A)</enum>
+ <text>the enhancement of water quality and stormwater management; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id00EF38F2AB144B05951510E216BC8F99"> <enum>(B)</enum> <text>the use of natural and green infrastructure to enhance the ability of the watershed to capture pollutants and reduce runoff to prevent flooding.</text>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section id="idacaab84639f04061b4a63239a82e5ed6">
+                <enum>103.</enum>
+                <header>Tijuana River Public Health and Water Quality Restoration Program</header>
+                <subsection id="H50B8FAEE918B488A806D837A2F833EE3">
+                    <enum>(a)</enum>
+                    <header>Establishment</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id00f01c2127894ea4bdd98c3d526abaa9">
+                        <enum>(1)</enum>
+                        <header>Program</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, subject to the availability of appropriations provided specifically for this purpose, the Administrator shall establish a Geographic Program, to be known as the <quote>Tijuana River Public Health and Water Quality Restoration Program</quote>.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2bbd103937dc40d38dc6d82cecfa28bd">
+                        <enum>(2)</enum>
+                        <header>Program director</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Administrator shall designate a Program Director of the program, who shall—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idabc807501324424491f7d4b56bf93598">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">have leadership and project management experience; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id0245fa13ef9d4654a32b25caef98bf0b">
+                            <enum>(B)</enum>
+ <text>be qualified—</text> <clause id="id348C5637B1EB4CCE960D1243DDAFA468"> <enum>(i)</enum> <text display-inline="yes-display-inline">to direct the integration of multiple project planning efforts and programs from different agencies and jurisdictions;</text>
+                            </clause>
+                            <clause id="id7207CC2E0F4E4086821DD5B9C64F7A4A">
+                                <enum>(ii)</enum>
+ <text>to align numerous, and possibly competing, priorities to accomplish visible and measurable outcomes under the action plan under section 104(a)(1);</text>
+                            </clause>
+                            <clause id="id49257A52ADC94277BC6F800C618FD5DC">
+                                <enum>(iii)</enum>
+ <text>to manage efforts and associated functions needed to run the management conference described in subsection (b)(2);</text>
+                            </clause>
+                            <clause id="id2ED7C61A9E40495DAD9C8CEBACA46B19">
+                                <enum>(iv)</enum>
+ <text>to facilitate engagement with the International Boundary and Water Commission and related Federal agencies;</text>
+                            </clause>
+                            <clause id="id89F3B68A949943578CA6D7753E334C72">
+                                <enum>(v)</enum>
+ <text>to solicit feedback from relevant Federal, State, Tribal, local, public, nonprofit, and other relevant stakeholders on the creation and implementation of the action plan under section 104(a)(1); and</text>
+                            </clause>
+                            <clause id="id9EA58DB8C6814ADEB0861A5545E9A72F">
+                                <enum>(vi)</enum>
+ <text>to consult with Indian Tribes within the American Tijuana River watershed region.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="H5207F51943DE4605AE54A6AC3FA98682">
+                    <enum>(b)</enum>
+                    <header>Duties</header>
+ <text>In carrying out the program—</text> <paragraph id="HF62132F1496F48988D0E8A4A0BA7D512"> <enum>(1)</enum> <text>the Administrator shall—</text>
+                        <subparagraph id="H50C332E0936C403A810840A95B1C9558">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">develop the action plan under section 104(a)(1) to address pollution prevention, environmental and ecological restoration, climate change, resilience, and mitigation, and related efforts, in the American Tijuana River watershed region;</text>
+                        </subparagraph>
+                        <subparagraph id="HDCB7EB976C86404FA867085CC2CA740F">
+                            <enum>(B)</enum>
+ <text>carry out projects, plans, and initiatives for the Tijuana River and work in consultation with applicable management entities, including representatives of the Federal Government, State and local governments, Tribal governments, and regional and nonprofit organizations, to carry out public health and water quality restoration and protection activities relating to the Tijuana River;</text>
+                        </subparagraph>
+                        <subparagraph id="HD4103E9C345E40A2B90D90C652DD2E4D">
+                            <enum>(C)</enum>
+ <text>carry out activities that—</text> <clause id="H0922CAE4760C47F58D54CB64D2A789E3"> <enum>(i)</enum> <text>develop, using monitoring, data collection, and assessment, a shared set of science-based water quality restoration and protection activities identified in accordance with subparagraph (B);</text>
+                            </clause>
+                            <clause id="HDE445391F50A46CF83B1C3B310CC9E40">
+                                <enum>(ii)</enum>
+ <text>support the implementation of a shared set of science-based water quality restoration and protection activities identified in accordance with subparagraph (B), including water reuse projects, water recycling projects, and natural and green infrastructure projects;</text>
+                            </clause>
+                            <clause id="HB6F2F0485BD44AAFA609A594524E0973">
+                                <enum>(iii)</enum>
+ <text>target cost-effective projects with measurable results; and</text>
+                            </clause>
+                            <clause id="HDA5CE3B460444532BFFFBD382E506E34">
+                                <enum>(iv)</enum>
+ <text>maximize public health and water quality conservation outcomes;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="HBAF688E1D6D64C9D968551020BA5B2BF">
+                            <enum>(D)</enum>
+ <text>coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the public health and water quality restoration and protection of the Tijuana River;</text>
+                        </subparagraph>
+                        <subparagraph id="H8FBBC0340CC041C098551D8506E78709">
+                            <enum>(E)</enum>
+ <text>coordinate a funding strategy among available funding sources in the region; and</text>
+                        </subparagraph>
+                        <subparagraph id="H609747A19EC14630B0789F0E73EE13A3">
+                            <enum>(F)</enum>
+ <text>provide grants, agreements, and technical assistance in accordance with section 105; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="HF9ECA099BE204F06A56E694D06796AF4">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">not later than 120 days after the date on which the Program Director is designated under subsection (a)(2), the Program Director shall convene a management conference for the Tijuana River pursuant to section 320 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1330">33 U.S.C. 1330</external-xref>).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id2783f4ba3a1e4d639f4fa89b717897ba">
+                    <enum>(c)</enum>
+                    <header>Coordination</header>
+ <text>In establishing the program, the Administrator shall consult, as appropriate, with—</text>
+                    <paragraph id="H19298A4A7E6145B19E7C4CF0FB227348">
+                        <enum>(1)</enum>
+ <text>the heads of Federal agencies, including—</text> <subparagraph id="H87C0F492D3624EA8BAF003771F3312D4"> <enum>(A)</enum> <text>the Secretary;</text>
+                        </subparagraph>
+                        <subparagraph id="H64C0656B5B8F4E32BAB42C98AE0A70E3">
+                            <enum>(B)</enum>
+ <text>the Commissioner;</text> </subparagraph> <subparagraph id="H82C48434FB634D1EB42E8C97105357F7"> <enum>(C)</enum> <text>the Secretary of Agriculture;</text>
+                        </subparagraph>
+                        <subparagraph id="HA7C63F76455541359286D3C2E13AD3B8">
+                            <enum>(D)</enum>
+ <text>the Secretary of Homeland Security;</text> </subparagraph> <subparagraph id="H4CAAEFB50C2045EA9D26AD8E0FD49EA5"> <enum>(E)</enum> <text>the Administrator of General Services;</text>
+                        </subparagraph>
+                        <subparagraph id="HA67AB9AD0BBD420B90942206568F3B13">
+                            <enum>(F)</enum>
+ <text>the Commissioner of U.S. Customs and Border Protection;</text> </subparagraph> <subparagraph id="H00F40F257EFF4C23B137DCA3F70F041F"> <enum>(G)</enum> <text>the Secretary of the Interior;</text>
+                        </subparagraph>
+                        <subparagraph id="HD33C1B6EB2374B17BF5CACB5BDF376DD">
+                            <enum>(H)</enum>
+ <text>the Secretary of the Army, acting through the Chief of Engineers;</text>
+                        </subparagraph>
+                        <subparagraph id="HAC2F3B849DD048DEBB64A51436B2A8FF">
+                            <enum>(I)</enum>
+ <text>the Administrator of the National Oceanic and Atmospheric Administration;</text>
+                        </subparagraph>
+                        <subparagraph id="HFA6BBFBFB279466EBFEAA983C0738640">
+                            <enum>(J)</enum>
+ <text>the Director of the United States Fish and Wildlife Service; and</text>
+                        </subparagraph>
+                        <subparagraph id="H0840F7E5D73D49D89DB4BC0AF23DF96C">
+                            <enum>(K)</enum>
+ <text>the head of any other applicable agency, as determined by the Administrator;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H8D9DDBD028734A368046FC41651E6B57">
+                        <enum>(2)</enum>
+ <text>a representative of Naval Base Coronado;</text> </paragraph> <paragraph id="HBF82EA1AECCD42CAA253D61F8F62CD13"> <enum>(3)</enum> <text>a representative of the Commander, Navy Region Southwest;</text>
+                    </paragraph>
+                    <paragraph id="H7D48B79FB49B4F50839A69C69592ECFD">
+                        <enum>(4)</enum>
+ <text>a representative of the Coast Guard;</text> </paragraph> <paragraph id="HC73CF9F5A0B14B0EA049FB96F336B763"> <enum>(5)</enum> <text>a representative of the United States Geological Survey;</text>
+                    </paragraph>
+                    <paragraph id="HF227E6E8119D4C7FA54E1AFD06D7F8E6">
+                        <enum>(6)</enum>
+ <text>a representative of the Bureau of Indian Affairs;</text> </paragraph> <paragraph id="HEE6C0AD22C7C46D1ABD47BFCA94AA054"> <enum>(7)</enum> <text>a representative from each Indian Tribe located within the American Tijuana River watershed;</text>
+                    </paragraph>
+                    <paragraph id="H990AF4F8E95D4E2FB3F0153FEBD792E2">
+                        <enum>(8)</enum>
+ <text>the heads of State of California agencies and local agencies, including—</text>
+                        <subparagraph id="H2DF75482460C4EF49E65A9FAD4D66DB5">
+                            <enum>(A)</enum>
+ <text>the Governor of California;</text> </subparagraph> <subparagraph id="HEA7308E4F6884CF9B81121B30A4BF818"> <enum>(B)</enum> <text>the California Environmental Protection Agency;</text>
+                        </subparagraph>
+                        <subparagraph id="H523E55B772BF4464BE402F88CE878F53">
+                            <enum>(C)</enum>
+ <text>the California State Water Resources Control Board;</text> </subparagraph> <subparagraph id="H35111BBA9D044C8AA9033E7C8D755870"> <enum>(D)</enum> <text>the California Department of Water Resources;</text>
+                        </subparagraph>
+                        <subparagraph id="H7170B121354B49D4944C462A62E81979">
+                            <enum>(E)</enum>
+ <text>the San Diego Regional Water Quality Control Board; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idb220ccb4dbf148d29432d2fb55070ecc"> <enum>(F)</enum> <text>the County of San Diego;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H1DD7961E4BC54F48AD48A9C45DE2DD35">
+                        <enum>(9)</enum>
+ <text>2 representatives of affected units of local government in the State of California, chosen on a rotating 3-year cycle by the Governor of California, including representatives from the City of Imperial Beach, the City of San Diego, the City of Chula Vista, the City of Coronado, and the Port of San Diego;</text>
+                    </paragraph>
+                    <paragraph id="H62C06422BC684709B061F0DD7630217C">
+                        <enum>(10)</enum>
+ <text>2 representatives of relevant nonprofit groups, chosen on a rotating 3-year cycle by the Governor of California;</text>
+                    </paragraph>
+                    <paragraph id="HB01D39A88E1B4029937671DD11FCF97F">
+                        <enum>(11)</enum>
+ <text>other public agencies and organizations with authority for the planning and implementation of conservation strategies relating to the Tijuana River in the United States and Mexico, as determined by the Administrator; and</text>
+                    </paragraph>
+                    <paragraph id="H61166EFD3D45406EA94E5868E1518A85">
+                        <enum>(12)</enum>
+ <text>representatives of the North American Development Bank.</text> </paragraph> </subsection> <subsection id="idac9781c41f11448c9d86f7cfa80b09aa"> <enum>(d)</enum> <header>Cooperative agreements and memoranda of understanding</header> <paragraph id="idE683A942BE5646E58AE096E85603A8CA"> <enum>(1)</enum> <header>In general</header> <text>To achieve the purposes of this title and to ensure effective coordination of Federal and non-Federal water quality restoration and protection activities, the Administrator shall use amounts made available for the United States-Mexico border water infrastructure program under section 301 and payments received pursuant to paragraph (4)(A) to enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to—</text>
+                        <subparagraph id="idd74a383d20c24bcc9c91a7d59b6e746f">
+                            <enum>(A)</enum>
+ <text>the heads of other Federal agencies, States, State agencies, units of local government, Tribal governments, regional governmental bodies, and private entities; and</text>
+                        </subparagraph>
+                        <subparagraph id="id80fda4dd3397443293d93fdd2f28e83e">
+                            <enum>(B)</enum>
+ <text>in cooperation with the Secretary, the Government of Mexico.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id650AE4C9A6E0400EA3B19B7E6DA05DA3">
+                        <enum>(2)</enum>
+                        <header>Use of agreements</header>
+ <text>The Administrator may enter into the cooperative agreements and memoranda of understanding described in paragraph (1) to carry out the activities described in this section, including studies, plans, construction, and completion of projects to improve the water quality of, environment of, and public health around the Tijuana River.</text>
+                    </paragraph>
+                    <paragraph id="id51D4CC5C6ECF45559169D57B76B87A95">
+                        <enum>(3)</enum>
+                        <header>Term</header>
+ <text>The cooperative agreements and memoranda of understanding described in paragraph (1) shall be limited to a specified period of time, as determined by the Administrator.</text>
+                    </paragraph>
+                    <paragraph id="id4F34522855AA493DB331C026B19FABA9">
+                        <enum>(4)</enum>
+                        <header>Financial arrangements</header>
+                        <subparagraph id="id41DF005244564D8486DB97139764FE73">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>If the Administrator enters into a cooperative agreement or memorandum of understanding described in paragraph (1), the Administrator may require the other party to the agreement or memorandum to provide payment to the Administrator.</text>
+                        </subparagraph>
+                        <subparagraph id="idBA278413CB4E4733A9E2BBB24C7C8451">
+                            <enum>(B)</enum>
+                            <header>Deposit</header>
+ <text>Any amounts received as a payment under subparagraph (A) shall be deposited into the State and Tribal Assistance Grants account of the Environmental Protection Agency and shall remain available, without further appropriation, to carry out the purposes of this title.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id6C892EDD40A6485EBD3ADA66E63F5CED">
+                        <enum>(5)</enum>
+                        <header>Personnel; services; technical assistance</header>
+ <text>The Administrator may provide or accept personnel, services, and technical assistance pursuant to a cooperative agreement or memorandum of understanding described in paragraph (1), with or without reimbursement, for the purposes of carrying out the agreement or memorandum.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id395f064e0433486abe5e34870c5e746d">
+                <enum>104.</enum>
+                <header>Water quality action plan</header>
+                <subsection id="id2c5bf222059b49a7a1e0dc738ceeb7ad">
+                    <enum>(a)</enum>
+                    <header>Development</header>
+                    <paragraph id="id4F97E755256740A5AF3F03E5C98AD009">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator, in consultation with the entities described in section 103(c), shall develop an action plan in accordance with the Statement of Intent between the United States and Mexico relating to the implementation of priority sanitation projects in the San Diego, CA.-Tijuana, BC region, signed on July 1, 2022, for the purpose of improving and protecting the water quality of the Tijuana River watershed.</text>
+                    </paragraph>
+                    <paragraph id="idFF6A04C09D6E49FAADB3049171EE6DCA">
+                        <enum>(2)</enum>
+                        <header>Requirements</header>
+ <text>The action plan under paragraph (1) shall—</text> <subparagraph id="id815D3D9570284636989024A6903C1EA0"> <enum>(A)</enum> <text>build on and incorporate any existing efforts and plans to improve and protect the water quality of the Tijuana River watershed, including ongoing and completed efforts and plans;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id7feb7ba761bd41c78cd4c08e2b509645">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">incorporate projects identified in Alternative 2, as described in the final programmatic environmental impact statement of the Environmental Protection Agency and the International Boundary and Water Commission entitled <quote>USMCA Mitigation of Contaminated Transboundary Flows Project</quote> and dated November 2, 2022, and selected in the record of decision of the Environmental Protection Agency and the International Boundary and Water Commission entitled <quote>Joint Record of Decision for the Final Programmatic Environmental Impact Statement for United States-Mexico-Canada Agreement Mitigation of Contaminated Transboundary Flows Project</quote> and signed on June 9, 2023; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8DA5206607E64EB58E087143147D2A87">
+                            <enum>(C)</enum>
+ <text>include—</text> <clause id="id0B445CBCA61742D897E5772337D53AE1"> <enum>(i)</enum> <text>such features as are needed to improve and protect the quality of wastewater, stormwater runoff, and other untreated flows;</text>
+                            </clause>
+                            <clause id="idEFA3455300714FE9A1C45095F8D8C035">
+                                <enum>(ii)</enum>
+ <text>criteria for selecting—</text> <subclause id="id0DAA3140034B4530B43ECCDF11E1A205"> <enum>(I)</enum> <text>water quality restoration and protection projects; and</text>
+                                </subclause>
+                                <subclause id="idCA358D8C677544EC9C30B5EED1058BC8">
+                                    <enum>(II)</enum>
+ <text>projects on the priority list under subsection (c)(1);</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id86380D47B4C9400183458319115A42F1">
+                                <enum>(iii)</enum>
+ <text>the amounts necessary for the operations and maintenance of infrastructure existing on and constructed after the date of enactment of this Act; and</text>
+                            </clause>
+                            <clause id="idC11379BB51F046F682915A6FA1790F8B">
+                                <enum>(iv)</enum>
+ <text>potential sources of funding to help pay the costs described in clause (iii).</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idE04E0360887D44C2B25115548ADD5DB6">
+                        <enum>(3)</enum>
+                        <header>Operations and maintenance funding</header>
+                        <subparagraph id="idAD8E1D3736B44DA1ADC5D839E9FBD603">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>In developing the action plan under paragraph (1), the Administrator, working with the entities described in section 103(c), shall assess and identify potential alternative sources and approaches for financing infrastructure projects, including financing the operations and maintenance of those infrastructure projects.</text>
+                        </subparagraph>
+                        <subparagraph id="id98A91C90656043CAABAC3F11136D1D5B">
+                            <enum>(B)</enum>
+                            <header>Requirement</header>
+ <text>In carrying out subparagraph (A), the Administrator shall assess the approaches identified in the report of the Environmental Financial Advisory Board entitled <quote>Evaluating Stormwater Infrastructure Funding and Financing</quote> and dated March 2020.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id757bf8af0fff475f918d908f7c90e58d">
+                    <enum>(b)</enum>
+                    <header>Issuance; updates</header>
+ <text>The Administrator shall—</text> <paragraph id="idFEE16FADDEC14079803219F9FE98862B"> <enum>(1)</enum> <text>not later than 1 year after the date of enactment of this Act, issue the action plan under subsection (a)(1); and</text>
+                    </paragraph>
+                    <paragraph id="id6A970A1CEE214AA5B74552EEB38A4491">
+                        <enum>(2)</enum>
+ <text>every 5 years after the date on which the action plan is issued under paragraph (1), update the action plan.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id1105e19623f24d26bf8015282e4fad23">
+                    <enum>(c)</enum>
+                    <header>Priority list</header>
+                    <paragraph id="id1B126D4C4BE64F80A6D230C505027055">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The action plan under subsection (a)(1) shall include a priority list of potential or proposed water quality restoration and protection projects for the Tijuana River watershed that—</text>
+                        <subparagraph id="id54d68000efcb4a78ab246f7456298921">
+                            <enum>(A)</enum>
+ <text>provides for the management of wastewater or stormwater or the removal of debris, sediment, chemicals, bacteria, and other contaminants from the water flowing north into the United States;</text>
+                        </subparagraph>
+                        <subparagraph id="id12a3251a562a496c820cb0d7dff2c1e5">
+                            <enum>(B)</enum>
+ <text>estimates the costs and identifies the entities that will fund the construction, operation, and maintenance of each project on the priority list;</text>
+                        </subparagraph>
+                        <subparagraph id="ide5a7877438414a07bb581bb9268e045f">
+                            <enum>(C)</enum>
+ <text>is developed in coordination with the entities described in section 103(c);</text>
+                        </subparagraph>
+                        <subparagraph id="id9d9dd8b7351c407e89c4d0184adff91e">
+                            <enum>(D)</enum>
+ <text>assists agencies to coordinate funding; and</text> </subparagraph> <subparagraph id="id79071a2dc7824a5bac9aee96cea9372f"> <enum>(E)</enum> <text>identifies projects—</text>
+                            <clause id="idBFCA3EE45D9B4A9CA32731ACE567A7DF">
+                                <enum>(i)</enum>
+ <text>in the Mexican Tijuana River watershed;</text> </clause> <clause id="idC44FE13735544D84A6A62FBFF927CB7C"> <enum>(ii)</enum> <text>in the American Tijuana River watershed; and</text>
+                            </clause>
+                            <clause id="id43F15C850BBE49C18E742BCB9F5E02E2">
+                                <enum>(iii)</enum>
+ <text>that address transboundary flows that affect coastal communities in and near the Tijuana River watershed.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id78d94698125d45a198dce45fbb194132">
+                        <enum>(2)</enum>
+                        <header>Development</header>
+ <text>In developing the priority list under paragraph (1), the Administrator shall—</text>
+                        <subparagraph id="id01ee7a33b11947409813eebb521a06e5">
+                            <enum>(A)</enum>
+ <text>use the best available science, including any relevant findings and recommendations of a watershed assessment conducted by Federal, State, Tribal, and local agencies;</text>
+                        </subparagraph>
+                        <subparagraph id="id50776B861C6E41C4AF4FD85B8EFBD5B8">
+                            <enum>(B)</enum>
+ <text>carry out and fund science development, monitoring, or modeling as needed to inform project development and assessment;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id5143b2b3a0804d388b4e597e003dd33e">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">include—</text> <clause commented="no" display-inline="no-display-inline" id="id807e82fe2b4b4584ae45cb4201d48402"> <enum>(i)</enum> <text display-inline="yes-display-inline">the projects described in subsection (a)(2)(B); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id7813821195264c6783f18083f959532a">
+                                <enum>(ii)</enum>
+ <text>such other projects that the Administrator determines appropriate based on the availability of peer-reviewed or otherwise published scientific research; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id5da627772b524c2eab296d0f9c55ef6f">
+                            <enum>(D)</enum>
+ <text>include, in order of priority, potential or proposed water quality or stormwater projects for the restoration and protection of the Tijuana River that—</text>
+                            <clause id="id6c3aa84db9414d7ab6d2119e6fd8c811">
+                                <enum>(i)</enum>
+ <text>would help—</text> <subclause id="idB83D1C92BC1F4E829E5DA15991F81292"> <enum>(I)</enum> <text>to achieve and maintain the water quality standards for—</text>
+                                    <item id="id2d3c059fdfd34a27818dde2bf40eeae0">
+                                        <enum>(aa)</enum>
+ <text>public health;</text> </item> <item id="ide3d52cf61e0c48ae889a9e25e1ae1bc7"> <enum>(bb)</enum> <text>recreational opportunities;</text>
+                                    </item>
+                                    <item id="id7b62476348614b14b8f556b2559e1ee3">
+                                        <enum>(cc)</enum>
+ <text>scenic resources; and</text> </item> <item id="id3964a10131994bcb8936b237db60a632"> <enum>(dd)</enum> <text>wildlife and habitat; and</text>
+                                    </item>
+                                </subclause>
+                                <subclause id="id09508D36544D48B0AEAF6F830335B615">
+                                    <enum>(II)</enum>
+ <text>to address water needs in the Tijuana River watershed, including through water reuse and water recycling; and</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" id="id8354994cad2f4e40a5131c64f14d9a89">
+                                <enum>(ii)</enum>
+ <text>would identify responsible agencies and funding sources through coordinated efforts by the entities described in section 103(c).</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idd1914988a670419989d03b287b68106a">
+                <enum>105.</enum>
+                <header>Grants, interagency and other agreements, and assistance</header>
+                <subsection id="id0457333c03c4487c8b0b08a50fd4006b">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>In order to carry out the purposes of the program as described in section 101(b) and implement priority projects identified under section 104(c), the Administrator may—</text>
+                    <paragraph id="id9B56F3F06FD447DE92DF02FF9538C53D">
+                        <enum>(1)</enum>
+ <text>provide grants and technical assistance to the Commissioner, State and local governments, Tribal governments, the North American Development Bank, entities described in section 103(c)(11), nonprofit organizations, and institutions of higher education, in both the United States and Mexico; and</text>
+                    </paragraph>
+                    <paragraph id="id3FB67C77BF374AD7926E432D18D9BB26">
+                        <enum>(2)</enum>
+ <text>enter into interagency agreements with other Federal agencies.</text> </paragraph> </subsection> <subsection id="id9539724728dd4afe9d4fbe38493c350e"> <enum>(b)</enum> <header>Criteria</header> <text>The Administrator, in consultation with the entities described in section 103(c), shall develop criteria for providing grants and technical assistance and entering into interagency agreements under subsection (a) to ensure that activities carried out under an interagency agreement or using those grants or technical assistance—</text>
+                    <paragraph id="idFCB948FEE4544B0499F5603B105FAA00">
+                        <enum>(1)</enum>
+ <text>accomplish 1 or more of the purposes identified in section 101(b); and</text>
+                    </paragraph>
+                    <paragraph id="id030F23A15A694C338B1E7A5E0E167F8A">
+                        <enum>(2)</enum>
+ <text>advance the implementation of priority projects identified under section 104(c).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id6d57ab48dd734012bc417bc3edd35785">
+                    <enum>(c)</enum>
+                    <header>Cost sharing</header>
+ <text>The Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.</text>
+                </subsection>
+                <subsection id="id07a41259bcc04e43aa171a3dd14eec9a">
+                    <enum>(d)</enum>
+                    <header>Administration</header>
+                    <paragraph id="id5990f4ceb67b494e8a80748a919758ff">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator may enter into an agreement to manage the implementation of this section with the North American Development Bank or a similar organization that offers grant management services.</text>
+                    </paragraph>
+                    <paragraph id="id68a80240dba440049a7af747633988b6">
+                        <enum>(2)</enum>
+                        <header>Funding</header>
+ <text>If the Administrator enters into an agreement under paragraph (1), the organization selected shall—</text>
+                        <subparagraph id="id4177a26865604dd792b10aca38cc72e4">
+                            <enum>(A)</enum>
+ <text>for each fiscal year, receive amounts to carry out this section in an advance payment of the entire amount on the date of enactment of an appropriations Act making appropriations to the Administrator for a fiscal year, or as soon as practicable thereafter; and</text>
+                        </subparagraph>
+                        <subparagraph id="ided96c4e8824840f996a8ace6b0cc8c85">
+                            <enum>(B)</enum>
+ <text>otherwise administer the implementation of this section to support partnerships between the public and private sectors in accordance with this title.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id8879AF4E013246D48CDDB5EB72355B13">
+                    <enum>(e)</enum>
+                    <header>Construction, operation, and maintenance</header>
+ <text>The Commissioner may construct, operate, and maintain any project carried out using funds made available to carry out this section.</text>
+                </subsection>
+                <subsection id="HB5FC22EA1FC441168538BA0B4309DC8F">
+                    <enum>(f)</enum>
+                    <header>Authorization of appropriations</header>
+                    <paragraph id="H833E26907E544012AD7A24D3C14EE26B">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated to the Administrator to carry out this section $50,000,000 for each of fiscal years 2026 through 2036, to remain available until expended.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="H6D92866125DB4586AAF1CA72CA0D2CA8">
+                        <enum>(2)</enum>
+                        <header>Set aside</header>
+ <text display-inline="yes-display-inline">Of amounts made available to carry out this section, the Administrator may use not more than 5 percent for grants under this section for salaries, expenses, and administration.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idACF780A5AD8D4F36843E3665F8CA8DF6">
+                        <enum>(3)</enum>
+                        <header>Transfer</header>
+ <text>The Administrator may transfer amounts made available under this subsection to the Commissioner as the Administrator determines necessary to carry out this section.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id4e5b5597f4fc4fcd9085fdb67358901b">
+                <enum>106.</enum>
+                <header>Annual budget plan</header>
+ <text display-inline="no-display-inline">The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit estimated expenditures and proposed appropriations for projects under this title, including administrative needs and expenses, for the current year, the budget year, and 5 outyears (as those terms are defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/900">2 U.S.C. 900(c)</external-xref>)), including for projects included in the priority list under section 104(c), for each Federal agency described in section 103(c)(1).</text>
+            </section>
+            <section id="idfb4088c3dbe34e2ea488878dbcdcfcdf">
+                <enum>107.</enum>
+                <header>Reports</header>
+ <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Administrator shall submit to Congress a report on the implementation of this title, including—</text>
+                <paragraph id="idDC2CFBA4515743609BCEA6E6DAB9A00C">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">a description of—</text> <subparagraph id="id5764C1A5D3E1420CA17B63020C4D2108"> <enum>(A)</enum> <text display-inline="yes-display-inline">each project that has received funding pursuant to this title; and</text>
+                    </subparagraph>
+                    <subparagraph id="id5613DD23D63B4ACDBCB408EB8095F69A">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the status of all projects that have received funding pursuant to this title that are in progress on the date of submission of the report; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6E220ADAA1B746D5AB22B3C790ACF533">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">an assessment of the effectiveness of the operation and maintenance of each project that has been carried out pursuant to this title.</text>
+                </paragraph>
+            </section>
+        </title>
+        <title id="id8193527BB6BD4063A24BC128D849E244" style="OLC">
+            <enum>II</enum>
+            <header>New River Public Health and Water Quality Restoration</header>
+            <section section-type="subsequent-section" id="id3A49A94B9ADC43F4A1F9F181C974F016">
+                <enum>201.</enum>
+                <header>Findings; purposes</header>
+                <subsection id="id99BE398D6B384388BD3AF6E1A127337E">
+                    <enum>(a)</enum>
+                    <header>Findings</header>
+ <text display-inline="yes-display-inline">Congress finds that—</text> <paragraph id="idB507D0D5F45546C68664F9585EE9C120"> <enum>(1)</enum> <text>the New River was born out of—</text>
+                        <subparagraph id="id09ED117F39924F17AB0220CF05154393">
+                            <enum>(A)</enum>
+ <text>occasional flows of the Colorado River into the Salton Sink; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8207906A3BD545548761139F4267363C">
+                            <enum>(B)</enum>
+ <text>the erosion of the New River channel, which formed the deep river canyon between 1905 and 1907;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id473F7180AD6A4B6FADF6592466017D8C">
+                        <enum>(2)</enum>
+ <text>the New River—</text> <subparagraph id="id874F95D82EDF463C9A71A124F582916C"> <enum>(A)</enum> <text>starts in Mexicali, Mexico;</text>
+                        </subparagraph>
+                        <subparagraph id="idF739D2527C454D69AA17B7746D7712B7">
+                            <enum>(B)</enum>
+ <text>flows north into the United States through Calexico;</text> </subparagraph> <subparagraph id="idF96E1DE4A5A847CCA87F228D81D2F9D6"> <enum>(C)</enum> <text>passes through the Imperial Valley; and</text>
+                        </subparagraph>
+                        <subparagraph id="id95E285E264184251A758F77ABEB7C460">
+                            <enum>(D)</enum>
+ <text>drains into the Salton Sea approximately 66 miles north of the international boundary;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idF5754192C7954237A2E5E700DCA8D34C">
+                        <enum>(3)</enum>
+ <text>the sub-watershed of the New River covers approximately 750 square miles, of which 63 percent is in Mexico and 37 percent is in the United States;</text>
+                    </paragraph>
+                    <paragraph id="idA9211D985FE94DFFB88A8E6426DFEEF5">
+                        <enum>(4)</enum>
+ <text>the New River has been widely recognized for significant water pollution problems, primarily because of agricultural runoff, raw sewage, pesticides, and discharges of wastes from domestic, agricultural, and industrial sources in Mexico and the Imperial Valley;</text>
+                    </paragraph>
+                    <paragraph id="idDA50F1DAE404454BB88CDBDD92357E05">
+                        <enum>(5)</enum>
+ <text>by the 1980s, the New River acquired the reputation of being 1 of the most polluted rivers in the United States, with many pollutants in the New River posing serious human health hazards to local populations, particularly in Calexico and Mexicali;</text>
+                    </paragraph>
+                    <paragraph id="idD871059127C648DEA7BCCE6D6245C0F4">
+                        <enum>(6)</enum>
+ <text>in 1992, Minute 288 of the International Boundary and Water Commission—</text>
+                        <subparagraph id="id6A517861DBED4DBBA2CE7C269262770C">
+                            <enum>(A)</enum>
+ <text>established a sanitation strategy for the water quality problems of the New River at the international border; and</text>
+                        </subparagraph>
+                        <subparagraph id="id30C70D1F92C34CDBAACEFDF8E6B2C50C">
+                            <enum>(B)</enum>
+ <text>divided sanitation projects into 2 immediate repair projects, the Mexicali I and Mexicali II, that—</text>
+                            <clause id="id593296CC966943409266C0AB38914F93">
+                                <enum>(i)</enum>
+ <text>totaled approximately $50,000,000; and</text> </clause> <clause id="id20B83C3492C945CDBBC206C91C0D083F"> <enum>(ii)</enum> <text>were funded by both the United States and Mexico through the North American Development Bank;</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id33B90509C6824D71AB9A34A8CFF8FC03">
+                        <enum>(7)</enum>
+ <text>in 1995, the Environmental Protection Agency provided funds to the California Regional Water Quality Control Board to monitor and document the water quality at the international boundary on a monthly basis;</text>
+                    </paragraph>
+                    <paragraph id="idAEAC69A0E80D47D0B1F2F66CDAE2E0B1">
+                        <enum>(8)</enum>
+ <text>in the late 1990s—</text> <subparagraph id="idB2CAC6512F044375BF284A7A6954F458"> <enum>(A)</enum> <text>the United States and Mexico spent $100,000,000 (of which 45 percent was paid by Mexico and 55 percent was paid by the United States) to build the Las Arenitas and Zaragoza wastewater treatment plants; and</text>
+                        </subparagraph>
+                        <subparagraph id="id9A21719DE8C844CBA5B8D0B749FB10AE">
+                            <enum>(B)</enum>
+ <text>after the construction of those plants, untreated water from the New River was passed through 4 microbial treatment cells at the Las Arenitas wastewater treatment plant, which was then chlorinated and fed into a reforestation project along the desiccated Rio Hardy, which stretches to the Sea of Cortez;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id4BD870083E2E4330B9255198023E664A">
+                        <enum>(9)</enum>
+ <text>a 10-year effort by community groups, lawyers, regulatory agencies, and politicians addressed the problem of water quality in the New River at the source by—</text>
+                        <subparagraph id="id7C8FFBE256444AFC8F0F661E20998BD5">
+                            <enum>(A)</enum>
+ <text>federally funding a new sewage treatment plant in Mexicali; and</text>
+                        </subparagraph>
+                        <subparagraph id="id2F93AC6E10D941B2A6096222E4F4D985">
+                            <enum>(B)</enum>
+ <text>developing a site plan for the portion of the New River in the United States;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idB31BAA6FA543486792835F6BF004E4F4">
+                        <enum>(10)</enum>
+ <text>in 2009, the State of California required the California-Mexico Border Relations Council—</text>
+                        <subparagraph id="idA1E42B830EC74AC490BB09B4A2272E67">
+                            <enum>(A)</enum>
+ <text>to create a water quality plan to study, monitor, remediate, and enhance the water quality of the New River to protect human health; and</text>
+                        </subparagraph>
+                        <subparagraph id="idE941957E853644CF85881CD0DE2A247C">
+                            <enum>(B)</enum>
+ <text>to develop a river parkway suitable for public use;</text> </subparagraph> </paragraph> <paragraph id="idADCF0F873C1542DA9944E22AE22B257D"> <enum>(11)</enum> <text>in 2012, the California-Mexico Border Relations Council approved the strategic plan for the New River Improvement Project that was prepared by the New River Improvement Project Technical Advisory Committee;</text>
+                    </paragraph>
+                    <paragraph id="id64C5DA3865B940D69619041E13603DFA">
+                        <enum>(12)</enum>
+ <text>in 2016, the New River Improvement Project Technical Advisory Committee revised the recommended infrastructure of the New River Improvement Project, and the State of California appropriated $1,400,000 to provide grants or contracts to carry out the necessary planning, design, environmental review, and permitting work;</text>
+                    </paragraph>
+                    <paragraph id="id0CCFE6DB712045588EBEF70674A8F71D">
+                        <enum>(13)</enum>
+ <text>the revised New River Improvement Project includes the installation of a large trash screen, a conveyance system, aeration devices, a new pump station, and managed wetlands; and</text>
+                    </paragraph>
+                    <paragraph id="id69B72384B0654DEA8DE23A9564AA89F5">
+                        <enum>(14)</enum>
+ <text>the existing and ongoing voluntary conservation efforts at the New River necessitate improved efficiency and cost effectiveness, increased private sector investments, and coordination of Federal and non-Federal resources.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idC6A90D8AF23C44BBB8520E131AD41B5C">
+                    <enum>(b)</enum>
+                    <header>Purposes</header>
+ <text>The purposes of this title include—</text> <paragraph id="id0FC55E948D044F71B74042EFE9751341"> <enum>(1)</enum> <text>coordinating water quality restoration and protection activities relating to the New River among Mexican, Federal, State, local, and regional entities and conservation partners; and</text>
+                    </paragraph>
+                    <paragraph id="id42307BB92F2A499AB721B4BF00986341">
+                        <enum>(2)</enum>
+ <text>carrying out coordinated restoration and protection activities relating to the New River and providing technical assistance for those activities—</text>
+                        <subparagraph id="id143c4294b2b249e6abaa540f8b6cd6d4">
+                            <enum>(A)</enum>
+ <text>to sustain and enhance fish and wildlife habitat restoration and protection activities;</text>
+                        </subparagraph>
+                        <subparagraph id="idecc776f9f5c3423eaf9e02e7670e7d95">
+                            <enum>(B)</enum>
+ <text>to improve and maintain water quality to support fish and wildlife, as well as the habitats of fish and wildlife;</text>
+                        </subparagraph>
+                        <subparagraph id="id3f935ab5d3644939a7b1b8cfa73083df">
+                            <enum>(C)</enum>
+ <text>to sustain and enhance water management for volume and flood damage mitigation improvements to benefit fish and wildlife habitat;</text>
+                        </subparagraph>
+                        <subparagraph id="id9ec5328bfa20452a935e2ba076201794">
+                            <enum>(D)</enum>
+ <text>to improve opportunities for public access to, and recreation in and along, the New River consistent with the ecological needs of fish and wildlife habitat;</text>
+                        </subparagraph>
+                        <subparagraph id="idfccf5a0aa7174b029835879e7acedd9c">
+                            <enum>(E)</enum>
+ <text>to maximize the resilience of natural systems and habitats under changing watershed conditions;</text>
+                        </subparagraph>
+                        <subparagraph id="id395387c9695b49b09b22ec38e9470ce5">
+                            <enum>(F)</enum>
+ <text>to engage the public through outreach, education, and citizen involvement to increase capacity and support for coordinated water quality restoration and protection activities relating to the New River;</text>
+                        </subparagraph>
+                        <subparagraph id="ide292a9bef6dc4700bf871bfa5b66cbb2">
+                            <enum>(G)</enum>
+ <text>to increase scientific capacity to support the planning, monitoring, and research activities necessary to carry out coordinated water quality restoration and protection activities relating to the New River; and</text>
+                        </subparagraph>
+                        <subparagraph id="id7d20a1c77e0c4aedb3be1290fe943eda">
+                            <enum>(H)</enum>
+ <text>to provide technical assistance to carry out water quality restoration and protection activities relating to the New River.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id017E0D144A6448F4947C1E95A76D8448">
+                <enum>202.</enum>
+                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this title:</text> <paragraph id="idAF60AA3BEC9D49EBB2FB64672A1D4DE9"> <enum>(1)</enum> <header>Program</header> <text>The term <term>program</term> means the California New River Public Health and Water Quality Restoration Program established under section 203(a).</text>
+                </paragraph>
+                <paragraph id="idAA55562500CF47A7B3616C1B1FD08596">
+                    <enum>(2)</enum>
+                    <header>Water quality restoration and protection</header>
+ <text>The term <term>water quality restoration and protection</term>, with respect to the New River watershed, means—</text>
+                    <subparagraph id="id9cf7fe2cdd1442b1853bc7edbe6266b5">
+                        <enum>(A)</enum>
+ <text>the enhancement of water quality and stormwater management; and</text> </subparagraph> <subparagraph id="idf8ae57c9162d46fa8f36a4791bbe78da"> <enum>(B)</enum> <text>the use of natural and green infrastructure to enhance the ability of the watershed to capture pollutants and reduce runoff to prevent flooding.</text>
+                    </subparagraph>
+                </paragraph>
+            </section>
+            <section id="id7CFCC77D88D244EF913862233ADE80E3">
+                <enum>203.</enum>
+                <header>California New River Public Health and Water Quality Restoration
+                    Program</header>
+                <subsection id="id5138725AF78747E0BB46229B3682A96C">
+                    <enum>(a)</enum>
+                    <header>Establishment</header>
+ <text>Not later than 180 days after the date of enactment of this Act, subject to the availability of appropriations provided specifically for this purpose, the Administrator shall establish a Geographic Program, to be known as the <quote>California New River Public Health and Water Quality Restoration Program</quote>.</text>
+                </subsection>
+                <subsection id="idF5993A157281458C99CCD2FF568EF54D">
+                    <enum>(b)</enum>
+                    <header>Duties</header>
+ <text>In carrying out the program, the Administrator shall—</text> <paragraph id="id7FED19DD6DF842268C3DD911FB7300BA"> <enum>(1)</enum> <text>carry out projects, plans, and initiatives for the New River that are supported by the California-Mexico Border Relations Council, and work in consultation with applicable management entities, including representatives of the Calexico New River Committee, the California-Mexico Border Relations Council, the New River Improvement Project Technical Advisory Committee, the Federal Government, State and local governments, and regional and nonprofit organizations, to carry out water quality restoration and protection activities relating to the New River;</text>
+                    </paragraph>
+                    <paragraph id="id50A0FF063EC2498E9993969A4A7D8FD3">
+                        <enum>(2)</enum>
+ <text>carry out activities that—</text> <subparagraph id="idC2C014C19C374047BB9E414D3A2BDB98"> <enum>(A)</enum> <text>develop, using monitoring, data collection, and assessment, a shared set of science-based water quality restoration and protection activities identified in accordance with paragraph (1);</text>
+                        </subparagraph>
+                        <subparagraph id="id0CD61925CCE04764B0DB817B7683C66E">
+                            <enum>(B)</enum>
+ <text>support the implementation of a shared set of science-based water quality restoration and protection activities identified in accordance with paragraph (1), including water reuse projects, water recycling projects, and natural and green infrastructure projects;</text>
+                        </subparagraph>
+                        <subparagraph id="id55A5C01DABFD43369F043D99B6CCF51E">
+                            <enum>(C)</enum>
+ <text>target cost-effective projects with measurable results; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id765C77617617414E84437F2B1F28A762"> <enum>(D)</enum> <text>maximize public health and water quality conservation outcomes; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id663A6946136D4E9E9CFFDBB92E69D75D">
+                        <enum>(3)</enum>
+ <text>provide grants, agreements, and technical assistance in accordance with section 205.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id913851CB56164EA0A8D4B5BC7AE0E86E">
+                    <enum>(c)</enum>
+                    <header>Coordination</header>
+ <text>In establishing the program, the Administrator shall consult, as appropriate, with—</text>
+                    <paragraph id="id1268A330A28448B482A891ECC6C22ED2">
+                        <enum>(1)</enum>
+ <text>the heads of Federal agencies, including—</text> <subparagraph id="idEF60B43FDD14464EA9EC37B85EF2BC52"> <enum>(A)</enum> <text>the Secretary of the Interior;</text>
+                        </subparagraph>
+                        <subparagraph id="idE97E9498FFA74DA48A0217CED9F3A9CE">
+                            <enum>(B)</enum>
+ <text>the Secretary of Agriculture;</text> </subparagraph> <subparagraph id="idECE3F8CA73114F758C844B6BB538EB25"> <enum>(C)</enum> <text>the Secretary of Homeland Security;</text>
+                        </subparagraph>
+                        <subparagraph id="id98FF01BB241546ADB270E66D5A29C0E4">
+                            <enum>(D)</enum>
+ <text>the Administrator of General Services;</text> </subparagraph> <subparagraph id="id26F0CE29E18D4FFBB14DA81D5D4FE61C"> <enum>(E)</enum> <text>the Commissioner of U.S. Customs and Border Protection;</text>
+                        </subparagraph>
+                        <subparagraph id="id34BE0E65ACE9471BA0273C8A8FF75640">
+                            <enum>(F)</enum>
+ <text>the Commissioner;</text> </subparagraph> <subparagraph id="idcc641f32240d49ac996ba1df62889464"> <enum>(G)</enum> <text>the Secretary of the Army, acting through the Chief of Engineers;</text>
+                        </subparagraph>
+                        <subparagraph id="ida22c3d5c1f4c46b2927feac2b879cc43">
+                            <enum>(H)</enum>
+ <text>the Administrator of the National Oceanic and Atmospheric Administration;</text>
+                        </subparagraph>
+                        <subparagraph id="id27557080bc1344409346391c3b127cb7">
+                            <enum>(I)</enum>
+ <text>the Director of the United States Fish and Wildlife Service; and</text> </subparagraph> <subparagraph id="idC392E3804CB74628945F1C6E25547A12"> <enum>(J)</enum> <text>the head of any other applicable agency, as determined by the Administrator;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id21B8FD6FF30E48EF900993020AB637D2">
+                        <enum>(2)</enum>
+ <text>the Governor of California;</text> </paragraph> <paragraph id="idE078285723A14D75B135FEDADCBA4633"> <enum>(3)</enum> <text>the California Environmental Protection Agency;</text>
+                    </paragraph>
+                    <paragraph id="id4E66107FCD06492C908E3047CEA106BF">
+                        <enum>(4)</enum>
+ <text>the California State Water Resources Control Board;</text> </paragraph> <paragraph id="idB59808C7B12B4FFE92FF0E74DE2321CD"> <enum>(5)</enum> <text>the California Department of Water Resources;</text>
+                    </paragraph>
+                    <paragraph id="idA5ED3D899F544DB49F8702797D016082">
+                        <enum>(6)</enum>
+ <text>the Colorado River Basin Regional Water Quality Control Board;</text> </paragraph> <paragraph id="idA7B9021D27FD4DE2815404F68A069F55"> <enum>(7)</enum> <text>the Imperial Irrigation District;</text>
+                    </paragraph>
+                    <paragraph id="idD10A35C93F9E4F4BAD30A0992FB1C941">
+                        <enum>(8)</enum>
+ <text>the Salton Sea Authority;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id1b3daca336b44b80890479264a4701da"> <enum>(9)</enum> <text>the County of Imperial;</text>
+                    </paragraph>
+                    <paragraph id="id6F46A7A8308445978178086F18B7A85B">
+                        <enum>(10)</enum>
+ <text>other public agencies and organizations with authority for the planning and implementation of conservation strategies relating to the New River in the United States and Mexico, as determined by the Administrator; and</text>
+                    </paragraph>
+                    <paragraph id="id1E21EBDB217E462AAB840740885427EC">
+                        <enum>(11)</enum>
+ <text>representatives of the North American Development Bank.</text> </paragraph> </subsection> <subsection id="id98413F396E1F437780BA85F06B11EBE6"> <enum>(d)</enum> <header>Cooperative agreements and memoranda of understanding</header> <paragraph id="idCD000C222D96458BB0D42BBBA6B1745E"> <enum>(1)</enum> <header>In general</header> <text>To achieve the purposes of this title, the Administrator may enter into cooperative agreements and memoranda of understanding with—</text>
+                        <subparagraph id="id8FAF8C277750444C9DD81517ACCB6F8F">
+                            <enum>(A)</enum>
+ <text>the heads of other Federal agencies, States, State agencies, units of local government, regional governmental bodies, and private entities; and</text>
+                        </subparagraph>
+                        <subparagraph id="id7EAB2DBE565341C0ACF700871DC98459">
+                            <enum>(B)</enum>
+ <text>in cooperation with the Secretary, the Government of Mexico.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="ide1fabc16388c4275af900a2448e16383">
+                        <enum>(2)</enum>
+                        <header>Use of agreements</header>
+ <text>The Administrator may enter into the cooperative agreements and memoranda of understanding described in paragraph (1)—</text>
+                        <subparagraph id="id0fddd2dc111b4585b1fe0e4d8a6b7164">
+                            <enum>(A)</enum>
+ <text>to carry out the activities described in this section, including studies, plans, construction, and completion of projects to improve the water quality of, environment of, and public health around the New River; and</text>
+                        </subparagraph>
+                        <subparagraph id="idB097DBD1E6B44738B2B26F4BE8485D2C">
+                            <enum>(B)</enum>
+ <text>to carry out a pilot project under which the Administrator shall, for projects selected by the Administrator that would otherwise not be successful in improving the water quality of, environment of, and public health of people residing in areas surrounding the New River—</text>
+                            <clause id="idA8C344DA1B544FA497741D3ACDFDC8A0">
+                                <enum>(i)</enum>
+ <text>identify the parties responsible for the projects; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id23F17D5EA29E4E64AE580CEA3B0336AF"> <enum>(ii)</enum> <text>provide funds to those parties for the operations and maintenance of the projects.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id8615EC58608E4F18A895EEA9329390A3">
+                        <enum>(3)</enum>
+                        <header>Term</header>
+ <text>The cooperative agreements and memoranda of understanding described in paragraph (1) shall be limited to a specified period of time, as determined by the Administrator.</text>
+                    </paragraph>
+                    <paragraph id="id7AD6AA64FC5C4E3A9717FCF7F6487592">
+                        <enum>(4)</enum>
+                        <header>Financial arrangements</header>
+                        <subparagraph id="id9A1D0E77AC954DE4A53D1EDEEB43BB9D">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>If the Administrator enters into a cooperative agreement or memorandum of understanding described in paragraph (1), the Administrator may require the other party to the agreement or memorandum to provide payment to the Administrator.</text>
+                        </subparagraph>
+                        <subparagraph id="idA699FA7F0C904CDAAD09BE061BCD6E2C">
+                            <enum>(B)</enum>
+                            <header>Deposit</header>
+ <text>Any amounts received as a payment under subparagraph (A) shall be deposited into the State and Tribal Assistance Grants account of the Environmental Protection Agency and shall remain available, without further appropriation, to carry out the purposes of this title.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idBFFD1C35B41A4CC5AAB5D9C1A1F82D22">
+                        <enum>(5)</enum>
+                        <header>Personnel; services; technical assistance</header>
+ <text>The Administrator may provide or accept personnel, services, and technical assistance pursuant to a cooperative agreement or memorandum of understanding described in paragraph (1), with or without reimbursement, for the purposes of carrying out the agreement or memorandum.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idF8218240BFC248BA82FC0F303011CAA4">
+                <enum>204.</enum>
+                <header>Water quality action plan</header>
+                <subsection id="id53BCD32205C744EEB2DC77170BDCDE90">
+                    <enum>(a)</enum>
+                    <header>Development</header>
+                    <paragraph id="idED0F700FA3164771B7774DE224A44FA4">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator, in consultation with the entities described in section 203(c), shall develop an action plan for the purpose of improving and protecting the water quality of the New River watershed.</text>
+                    </paragraph>
+                    <paragraph id="id91DBBCEF35394FE7973F13FD4022121F">
+                        <enum>(2)</enum>
+                        <header>Requirements</header>
+ <text>The action plan under paragraph (1) shall—</text> <subparagraph id="id908906F98DF040BC9E7FB95F8F1EB3EF"> <enum>(A)</enum> <text>build on and incorporate any existing efforts and plans to improve and protect the water quality of the New River, whether ongoing or completed; and</text>
+                        </subparagraph>
+                        <subparagraph id="id5556F1BFCB4D4B5FBBD80EDDFF9233DD">
+                            <enum>(B)</enum>
+ <text>include—</text> <clause id="idC75C18B16888409CB946E482EBACA368"> <enum>(i)</enum> <text>such features as are needed to improve and protect the quality of wastewater, stormwater runoff, and other untreated flows;</text>
+                            </clause>
+                            <clause id="idD57E7AF0C00F4BC080EE55AF3F8A0E9D">
+                                <enum>(ii)</enum>
+ <text>criteria for selecting—</text> <subclause id="idF761EFA5E84C41ACA4E2FF8E0B1E9470"> <enum>(I)</enum> <text>water quality restoration and protection projects; and</text>
+                                </subclause>
+                                <subclause id="id6FD59FD9C12A44568768EDCDFD70A9BA">
+                                    <enum>(II)</enum>
+ <text>projects on the priority list under subsection (c)(1);</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id9EEBC1C4836240D3A6450C47B074D454">
+                                <enum>(iii)</enum>
+ <text>the amounts necessary for the operations and maintenance of infrastructure existing on and constructed after the date of enactment of this Act; and</text>
+                            </clause>
+                            <clause id="id9E661787CCAF4ED6BDD5F99B9ACE97EA">
+                                <enum>(iv)</enum>
+ <text>potential sources of funding to help pay the costs described in clause (iii).</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id7D0925FD05504A59AF456986CF235AC0">
+                        <enum>(3)</enum>
+                        <header>Operations and maintenance funding</header>
+                        <subparagraph id="id04066D11F06A4433B654BA2E13A2E3EB">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>In developing the action plan under paragraph (1), the Administrator, working with the entities described in section 203(c), shall assess and identify potential alternative sources and approaches for financing infrastructure projects, including financing the operations and maintenance of those infrastructure projects.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idCFB88A17D63B4B73AAE492A446C99390">
+                            <enum>(B)</enum>
+                            <header>Requirement</header>
+ <text>In carrying out subparagraph (A), the Administrator shall assess the approaches identified in the report of the Environmental Financial Advisory Board entitled <quote>Evaluating Stormwater Infrastructure Funding and Financing</quote> and dated March 2020.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id53032AC453F3461F9E095CA7877E612D">
+                    <enum>(b)</enum>
+                    <header>Issuance; updates</header>
+ <text>The Administrator shall—</text> <paragraph id="id88FEE9B2FA674ADA900956D22F2732DC"> <enum>(1)</enum> <text>not later than 1 year after the date of enactment of this Act, issue the action plan under subsection (a)(1); and</text>
+                    </paragraph>
+                    <paragraph id="idEEAA1B76411D4FB4A44120C0EF86FCEB">
+                        <enum>(2)</enum>
+ <text>every 5 years after the date on which the action plan is issued under paragraph (1), update the action plan.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id72048A3A18FD46A3BF0C6EA3780225C8">
+                    <enum>(c)</enum>
+                    <header>Priority list</header>
+                    <paragraph id="idC5BF51D3B16348B6AC72ED508DF22595">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The action plan under subsection (a)(1) shall include a priority list of potential or proposed water quality restoration and protection projects for the New River watershed that—</text>
+                        <subparagraph id="idB94BC363C17540EBA1460B9D14F87E0B">
+                            <enum>(A)</enum>
+ <text>provides for the management of wastewater or stormwater or the removal of debris, sediment, chemicals, bacteria, and other contaminants from the water flowing north into the United States;</text>
+                        </subparagraph>
+                        <subparagraph id="id181B7089F4CD45EABAB8AE80D4BFA6CF">
+                            <enum>(B)</enum>
+ <text>estimates the costs and identifies the entities that will fund the construction, operation, and maintenance of each project on the priority list;</text>
+                        </subparagraph>
+                        <subparagraph id="idCA6652591CC742679E5082BCDD3588D4">
+                            <enum>(C)</enum>
+ <text>is developed in coordination with the entities described in section 203(c);</text>
+                        </subparagraph>
+                        <subparagraph id="id0568AC2BCFFD4CCA8BF80E895D3F020C">
+                            <enum>(D)</enum>
+ <text>assists agencies to coordinate funding; and</text> </subparagraph> <subparagraph id="id2F04E1C4012748EBA6FD864D0E685F30"> <enum>(E)</enum> <text>identifies projects—</text>
+                            <clause id="id5D7866A96EC145E09DC8A224EBA9ACC5">
+                                <enum>(i)</enum>
+ <text>in the New River watershed; and</text> </clause> <clause id="id1B77490028F04B91AFAB7FC514AFFCEA"> <enum>(ii)</enum> <text>that address transboundary flows that affect coastal communities in and near the New River watershed.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id408BD7C6DC1C493D9712560B4495392B">
+                        <enum>(2)</enum>
+                        <header>Development</header>
+ <text>In developing the priority list under paragraph (1), the Administrator shall—</text>
+                        <subparagraph id="idFC94E3E2A0F749268D6C801899E009F4">
+                            <enum>(A)</enum>
+ <text>use the best available science, including any relevant findings and recommendations of a watershed assessment conducted by Federal, State, and local agencies;</text>
+                        </subparagraph>
+                        <subparagraph id="ide7749d42c4004488b9f295a9032face8">
+                            <enum>(B)</enum>
+ <text>carry out and fund science development, monitoring, or modeling as needed to inform project development and assessment; and</text>
+                        </subparagraph>
+                        <subparagraph id="id692D9D8B14004BC7AF648AB5214FC589">
+                            <enum>(C)</enum>
+ <text>include, in order of priority, potential or proposed water quality or stormwater projects for the restoration and protection of the New River that—</text>
+                            <clause id="idD0182927696548088925C9D22F8BEDC3">
+                                <enum>(i)</enum>
+ <text>would help—</text> <subclause id="id4FFECA56EBCB439A901A0A64DD991868"> <enum>(I)</enum> <text>to achieve and maintain the water quality standards for—</text>
+                                    <item id="idFD48FB1B242543B4A7B1FB2055628F2F">
+                                        <enum>(aa)</enum>
+ <text>public health;</text> </item> <item id="id834CD849ADB848AA9C508A8DEA388ACB"> <enum>(bb)</enum> <text>recreational opportunities;</text>
+                                    </item>
+                                    <item id="id51E0FAA3C95C4C6A87B9ECA08ED415E6">
+                                        <enum>(cc)</enum>
+ <text>scenic resources; and</text> </item> <item id="id1B708B8EEF174F408FDDA29E615F341F"> <enum>(dd)</enum> <text>wildlife and habitat; and</text>
+                                    </item>
+                                </subclause>
+                                <subclause id="idB514E1F9CCEC483F8715D2E9A81D6D71">
+                                    <enum>(II)</enum>
+ <text>to address water needs in the New River watershed, including through water reuse and water recycling; and</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idAB9015C4456344D2A088A09408C648E6">
+                                <enum>(ii)</enum>
+ <text>would identify responsible agencies and funding sources through coordinated efforts by the entities described in section 203(c).</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idC0D110AF0281437EB777ACBC2343AC6F">
+                <enum>205.</enum>
+                <header>Grants, interagency and other agreements, and assistance</header>
+                <subsection id="id93DF90E73A3E418396AF3C6E23245A65">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>In order to carry out the purposes of the program as described in section 201(b) and implement priority projects identified under section 204(c), the Administrator may—</text>
+                    <paragraph id="id53B04EBAFAB3464FB28B0F352E137C54">
+                        <enum>(1)</enum>
+ <text>provide grants and technical assistance to the Commissioner, State and local governments, Tribal governments, the North American Development Bank, entities described in section 203(c)(9), nonprofit organizations, and institutions of higher education, in both the United States and Mexico; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6A678999F03A450982015160E24EC6A6">
+                        <enum>(2)</enum>
+ <text>enter into interagency agreements with other Federal agencies.</text> </paragraph> </subsection> <subsection id="id643A33CFF07A47B8B78A002B1AFE4F63"> <enum>(b)</enum> <header>Criteria</header> <text>The Administrator, in consultation with the entities described in section 203(c), shall develop criteria for providing grants and technical assistance and entering into interagency agreements under subsection (a) to ensure that activities carried out under an interagency agreement or using those grants or technical assistance—</text>
+                    <paragraph id="id2A7BE3C7201C4F1F9BF63256B39AD251">
+                        <enum>(1)</enum>
+ <text>accomplish 1 or more of the purposes identified in section 201(b); and</text>
+                    </paragraph>
+                    <paragraph id="id1442147AFC8D427F8DADC20CA7221E6B">
+                        <enum>(2)</enum>
+ <text>advance the implementation of priority projects identified under section 204(c).</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idF78ADAFA81284B4C8DADD8EFA2E28873">
+                    <enum>(c)</enum>
+                    <header>Cost sharing</header>
+ <text>The Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.</text>
+                </subsection>
+                <subsection id="id8AF63293B97843C6B20842E576CD850A">
+                    <enum>(d)</enum>
+                    <header>Administration</header>
+                    <paragraph id="idA1FC6359C2694D44A525A4ECAD109088">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator may enter into an agreement to manage the implementation of this section with the North American Development Bank or a similar organization that offers grant management services.</text>
+                    </paragraph>
+                    <paragraph id="id1959092DD13246D0A7C405D49AC1C2D6">
+                        <enum>(2)</enum>
+                        <header>Funding</header>
+ <text>If the Administrator enters into an agreement under paragraph (1), the organization selected shall—</text>
+                        <subparagraph id="id80AB06B9905E44CC8C207C3BA5B75453">
+                            <enum>(A)</enum>
+ <text>for each fiscal year, receive amounts to carry out this section in an advance payment of the entire amount on the date of enactment of an appropriations Act making appropriations to the Administrator for a fiscal year, or as soon as practicable thereafter; and</text>
+                        </subparagraph>
+                        <subparagraph id="id4E0B61EED53D4BBDB440AA805E6688B5">
+                            <enum>(B)</enum>
+ <text>otherwise administer the implementation of this section to support partnerships between the public and private sectors in accordance with this title.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id648AD3A8D1EE454CA190674A22F32550">
+                    <enum>(e)</enum>
+                    <header>Construction, operation, and maintenance</header>
+ <text>The Commissioner may construct, operate, and maintain any project carried out using funds made available to carry out this section.</text>
+                </subsection>
+                <subsection id="id3845c6ff5bf444e4bd8f428cf7c19614">
+                    <enum>(f)</enum>
+                    <header>Authorization of appropriations</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idbf5fcfaf8c024d3384a14804efa9d92e">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated to the Administrator to carry out this section $50,000,000 for each of fiscal years 2026 through 2036, to remain available until expended.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idB3F04918D3694C749C9071D231BF6E04">
+                        <enum>(2)</enum>
+                        <header>Set aside</header>
+ <text display-inline="yes-display-inline">Of amounts made available to carry out this section, the Administrator may use not more than 5 percent for grants under this section for salaries, expenses, and administration.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6d22eeb3b2fd4917b9e41aef3797d312">
+                        <enum>(3)</enum>
+                        <header>Transfer</header>
+ <text>The Administrator may transfer amounts made available under this subsection to the Commissioner as the Administrator determines necessary to carry out this section.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id39705DB7C0FB4A91A38BB4DE75A6E540">
+                <enum>206.</enum>
+                <header>Annual budget plan</header>
+ <text display-inline="no-display-inline">The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit estimated expenditures and proposed appropriations for projects under this title, including administrative needs and expenses, for the current year, budget year, and 5 outyears (as those terms are defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/900">2 U.S.C. 900(c)</external-xref>)), including for projects included in the priority list under section 204(c), for each Federal agency described in section 203(c)(1).</text>
+            </section>
+            <section id="idA37130E8F28D4FD2959975A308A2C054">
+                <enum>207.</enum>
+                <header>Reports</header>
+ <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Administrator shall submit to Congress a report on the implementation of this title, including—</text>
+                <paragraph id="id6E50FF67CB284DC1A211E0AFCAAB76A3">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">a description of—</text> <subparagraph id="id26FAEB3AFD20459FAD8E5ED36E511A85"> <enum>(A)</enum> <text display-inline="yes-display-inline">each project that has received funding pursuant to this title; and</text>
+                    </subparagraph>
+                    <subparagraph id="id52B362A774C34D41BBEE4D45837CE7B6">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the status of all projects that have received funding pursuant to this title that are in progress on the date of submission of the report; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id62615B3A85A54A47AB011DE0813194AF">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">an assessment of the effectiveness of the operation and maintenance of each project that has been carried out pursuant to this title.</text>
+                </paragraph>
+            </section>
+        </title>
+        <title id="id17C9A554B23C4500A6472F75C659B364" style="OLC">
+            <enum>III</enum>
+            <header>Border Water Infrastructure Improvement</header>
+            <section id="idd5d7422ea72845998ba539e4e32058bc">
+                <enum>301.</enum>
+                <header>United States-Mexico border water infrastructure program</header>
+                <subsection id="idc0cbbd3258b74b51ae35e4235b425297">
+                    <enum>(a)</enum>
+                    <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id2e22361013c44a3796961e3ffd6909da"> <enum>(1)</enum> <header>Eligible entity</header> <text>The term <term>eligible entity</term> means the United States Section of the International Boundary and Water Commission, a State, a local government, an Indian Tribe, or a water or wastewater district with jurisdiction over any area in the United States or Mexico that is located within 100 kilometers of the United States-Mexico border.</text>
+                    </paragraph>
+                    <paragraph id="ide828ec5574b545f1aa638d3269c59873">
+                        <enum>(2)</enum>
+                        <header>Eligible project</header>
+                        <subparagraph id="id341ab9b1143d459786fb536914948399">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>The term <term>eligible project</term> means a project for the construction of infrastructure for drinking water treatment or distribution, wastewater management, or stormwater management, including natural and green infrastructure and infrastructure for water reuse and water recycling, that—</text>
+                            <clause id="iddcb0de3fee6144ff95a78b66168b9451">
+                                <enum>(i)</enum>
+ <text>addresses an existing human health or ecological issue;</text> </clause> <clause id="id8bd569b8a3c54fbeb0fb793a1d9af049"> <enum>(ii)</enum> <text>has an effect in the United States;</text>
+                            </clause>
+                            <clause id="id471d2c3d27c042cb96283ca91bef94fd">
+                                <enum>(iii)</enum>
+ <text>with respect to wastewater management infrastructure the water discharged from which will flow, directly or indirectly, into the United States, is designed to meet, to the maximum extent practicable, all relevant water quality standards of the country in which the project is located, including, for projects located in the United States, any applicable standards established under the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1251">33 U.S.C. 1251 et seq.</external-xref>);</text>
+                            </clause>
+                            <clause id="idc9f6f3dd3ab94780ae50226695402b3b">
+                                <enum>(iv)</enum>
+ <text>is proposed by an eligible entity with legal authority—</text> <subclause id="id5D88ED51C8DC4E0DA2C83D44F92C6F00"> <enum>(I)</enum> <text>to develop the project;</text>
+                                </subclause>
+                                <subclause id="id8F98061EC0B2442BB6A0430224F7DE85">
+                                    <enum>(II)</enum>
+ <text>to provide the proposed drinking water or wastewater services; and</text>
+                                </subclause>
+                                <subclause id="id3D2C8B2A251943B59601EE3ED94A8C6C">
+                                    <enum>(III)</enum>
+ <text>to obtain necessary financing, including operations and maintenance funding;</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id4507783fc98f4e16ab326de3353508e0">
+                                <enum>(v)</enum>
+ <text>will comply with relevant State and local environmental and other laws (including regulations), including with respect to—</text>
+                                <subclause id="id13FFA5AA4F9C4E478014BA408036A49D">
+                                    <enum>(I)</enum>
+ <text>obtaining any necessary operating permits and licenses; and</text>
+                                </subclause>
+                                <subclause id="id4F3175CFE90143C19A99506E3FC54C20">
+                                    <enum>(II)</enum>
+ <text>complying with any other regulatory requirements related to land acquisition and rights-of-way; and</text>
+                                </subclause>
+                            </clause>
+                            <clause id="idc362fcc27cdb41f39fed273b58412271">
+                                <enum>(vi)</enum>
+ <text>has the support of appropriate Mexican Federal and State agencies, including the Comision Nacional del Agua (commonly known as <quote>CONAGUA</quote> or the Mexican National Water Commission) and any appropriate State or municipal water utility, if the project is located in Mexico.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id8eeca43212f04170bb5fbbcd45e98327">
+                            <enum>(B)</enum>
+                            <header>Exclusions</header>
+ <text>The term <term>eligible project</term> does not include a project—</text>
+                            <clause id="id3c0adf6385474e4b99cf4dc3c4bca4e5">
+                                <enum>(i)</enum>
+ <text>for new water supply;</text> </clause> <clause id="id74a2d9876d824ce6ab55a7bc295008d8"> <enum>(ii)</enum> <text>that threatens an ecosystem located in the United States, or that is located in both the United States and Mexico, if the project causes a reduction in the flow of water; or</text>
+                            </clause>
+                            <clause id="id76dd1e990bf5417aa01f3a015bbbce18">
+                                <enum>(iii)</enum>
+ <text>to provide drinking water, wastewater, or stormwater services to enable new development.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idEF37FF3DEDB64DA895D377F3E3B2626B">
+                        <enum>(3)</enum>
+                        <header>Program</header>
+ <text>The term <term>program</term> means the program established under subsection (b).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id9c679775fe46458487f860be1f0271d5">
+                    <enum>(b)</enum>
+                    <header>Establishment</header>
+ <text>The Administrator shall carry out a program to provide financial assistance, technical assistance, or a combination of financial and technical assistance to eligible entities for activities related to eligible projects, including feasibility studies, planning studies, environmental assessments, financial analyses, community participation efforts, and architectural, engineering, planning, design, construction, and operations and maintenance activities.</text>
+                </subsection>
+                <subsection id="id4bb5b1823bd24319ab032fa0d033df36">
+                    <enum>(c)</enum>
+                    <header>Consultation</header>
+ <text>In carrying out the program, the Administrator shall consult with the North American Development Bank.</text>
+                </subsection>
+                <subsection id="id8427E277728B4428B4105F522BEB5BD9">
+                    <enum>(d)</enum>
+                    <header>Coordination</header>
+ <text>In carrying out the program, the Administrator shall coordinate with Federal, State, local, and Tribal entities in the border region, including the Department of Homeland Security, the International Boundary and Water Commission, and relevant State agencies.</text>
+                </subsection>
+                <subsection id="ida0b5612f96364227893122ee1593d8b7">
+                    <enum>(e)</enum>
+                    <header>Project selection</header>
+                    <paragraph id="id141f5bcdb9604819994ebe95b37f4cf8">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>In selecting projects for which to provide assistance under the program, the Administrator shall select projects in accordance with—</text>
+                        <subparagraph id="id2CDE685A5B754E4FB9D48B331F377D23">
+                            <enum>(A)</enum>
+ <text>paragraph (2); and</text> </subparagraph> <subparagraph id="id4D3DD91CDF564AC3B3907C38FD636367"> <enum>(B)</enum> <text>any other criteria determined appropriate by the Administrator.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id78403cc04aba4553bf7cfc47e6a3ce0c">
+                        <enum>(2)</enum>
+                        <header>Prioritization</header>
+ <text>In carrying out paragraph (1), the Administrator shall prioritize projects that—</text>
+                        <subparagraph id="id21599861C14F4733A25AB4DF9177089A">
+                            <enum>(A)</enum>
+ <text>are identified in an action plan under section 104(a)(1) or 204(a)(1); or</text>
+                        </subparagraph>
+                        <subparagraph id="id2cab7a0dffd8405790885f4504e07ff7">
+                            <enum>(B)</enum>
+                            <clause commented="no" display-inline="yes-display-inline" id="idA1043393DD024EE28E65E964FE108D20">
+                                <enum>(i)</enum>
+ <text>are likely to have the greatest positive effects relating to the environment and public health;</text>
+                            </clause>
+                            <clause indent="up1" id="id97A5C0A00B6A467B9415E61A28627174">
+                                <enum>(ii)</enum>
+ <text>will result in benefits on the United States side of the United States-Mexico border;</text>
+                            </clause>
+                            <clause indent="up1" id="id42C4CFCF503244FC9DE0F1DD753E34E4">
+                                <enum>(iii)</enum>
+ <text>address the most urgent public health and environmental needs, as determined by the heads of the Regional offices for Regions 6 and 9 of the Environmental Protection Agency; and</text>
+                            </clause>
+                            <clause indent="up1" id="id6AE2792AFB3347B38BFC3044D13C4BE3">
+                                <enum>(iv)</enum>
+ <text>maximize sustainable practices, such as water reuse and water recycling, natural and green infrastructure, water efficiency, and conservation.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id2f70ef39d43e48af81ca85813c228de6">
+                    <enum>(f)</enum>
+                    <header>Terms and conditions</header>
+ <text>The Administrator may establish such terms and conditions on assistance provided under the program as the Administrator determines appropriate.</text>
+                </subsection>
+                <subsection id="id77637CC27C4349A684459DD89030F115">
+                    <enum>(g)</enum>
+                    <header>Cost share</header>
+ <text>The Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="idF8AA09D7127C42A7A4F9BE9F09AA001E" style="OLC">
+            <enum>IV</enum>
+            <header>Miscellaneous</header>
+            <section section-type="subsequent-section" id="idD190680D114D45B594CD1E3C59A9CCE9">
+                <enum>401.</enum>
+                <header>Role of the Commissioner and international agreements</header>
+                <subsection id="id61F07B9CF54648B18418934E74F74DD5">
+                    <enum>(a)</enum>
+                    <header>Wastewater and stormwater authority</header>
+ <text>The Commissioner may study, design, construct, operate, and maintain projects to manage, improve, and protect the quality of wastewater, stormwater runoff, and other untreated flows in the Tijuana River watershed and the New River watershed.</text>
+                </subsection>
+                <subsection id="id75542D4E24C3437DA556C7201689EB4E">
+                    <enum>(b)</enum>
+                    <header>Tijuana and New River projects within the United States</header>
+ <text>The Secretary, acting through the Commissioner, shall—</text> <paragraph id="id19D16D851BC14EBAB1AA9BD152F11DB5"> <enum>(1)</enum> <text>construct, operate, and maintain projects that—</text>
+                        <subparagraph id="idBD63AAEE7AD7438CB7E51F55525BB724">
+                            <enum>(A)</enum>
+ <text>are on a priority list developed under section 104(c) or 204(c);</text>
+                        </subparagraph>
+                        <subparagraph id="id040B461C64D94D4CBC89424282EE76BD">
+                            <enum>(B)</enum>
+ <text>are within the United States; and</text> </subparagraph> <subparagraph id="id0D2180111EE1471783BA64C5CA697EC5"> <enum>(C)</enum> <text>improve the water quality of the Tijuana River watershed or the New River watershed, as applicable; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id90072AB80D6B4C4091A41E409DEB2475">
+                        <enum>(2)</enum>
+ <text>use available funds, including funds received under this Act, to construct, operate, and maintain the projects described in paragraph (1).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id555337521F9C497681B242727E3CDC06">
+                    <enum>(c)</enum>
+                    <header>Agreements with Mexico</header>
+ <text>The Secretary, acting through the Commissioner, may execute an agreement with the appropriate official or officials of the Government of Mexico for—</text>
+                    <paragraph id="id7E1B2044EB5541B4A74AD17A0E563269">
+                        <enum>(1)</enum>
+ <text>the joint study and design of stormwater control and water quality projects; and</text>
+                    </paragraph>
+                    <paragraph id="id6B3B8CA68EC7457DADD1B07F21373DF4">
+                        <enum>(2)</enum>
+ <text>on approval of the necessary plans and specifications of the projects described in paragraph (1), the construction, operation, and maintenance of those projects by the United States and Mexico, in accordance with the treaty relating to the utilization of the waters of the Colorado and Tijuana Rivers, and of the Rio Grande (Rio Bravo) from Fort Quitman, Texas, to the Gulf of Mexico, and supplementary protocol, signed at Washington February 3, 1944 (59 Stat. 1219), between the United States and Mexico.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id80AE86EB82F0410E81DCB4C6158EE8D7">
+                    <enum>(d)</enum>
+                    <header>Funding</header>
+ <text>A project located wholly or partially within Mexico shall be eligible for funding under a program established under title I, II, or III if the project is—</text>
+                    <paragraph id="idA13A8ABBCD724F6AB03474188464BAC9">
+                        <enum>(1)</enum>
+ <text>identified under and consistent with an action plan under section 104(a)(1) or 204(a)(1); and</text>
+                    </paragraph>
+                    <paragraph id="id7AE3651825C74E47BEC40D11D5E894B7">
+                        <enum>(2)</enum>
+ <text>approved by the Administrator.</text> </paragraph> </subsection> <subsection id="id3466192DCD4A40978FC7B3916EF98923"> <enum>(e)</enum> <header>Savings provision</header> <text>Nothing in this section limits the authority of the International Boundary and Water Commission under this Act or any other provision of law.</text>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

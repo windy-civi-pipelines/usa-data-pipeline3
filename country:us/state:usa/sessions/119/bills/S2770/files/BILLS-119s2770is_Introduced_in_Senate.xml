@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GOE25691-4VM-V9-8SF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2770 IS: Share the Savings with Seniors Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2770</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250911">September 11, 2025</action-date>
+            <action-desc><sponsor name-id="S287">Mr. Cornyn</sponsor> (for himself, <cosponsor name-id="S402">Ms. Rosen</cosponsor>, <cosponsor name-id="S384">Mr.
+                    Tillis</cosponsor>, and <cosponsor name-id="S422">Mr. Welch</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to ensure appropriate
+            cost-sharing for chronic care drugs under Medicare part D.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Share the Savings with Seniors Act</short-title></quote>.</text>
+        </section>
+        <section id="id3590f723f2374494b18d59ea0b6832b3">
+            <enum>2.</enum>
+            <header>Appropriate cost-sharing for chronic care drugs under Medicare part D</header>
+            <subsection id="id58a36f356aa948d999d4501736e59f3e">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Section 1860D–2 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-102">42 U.S.C. 1395w–102</external-xref>) is amended—</text>
+                <paragraph id="id3b1d4bbce39f4a94a0a83a79129a3ced">
+                    <enum>(1)</enum>
+ <text>in subsection (b)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idf7ec5a0a6abb40f6b5664daef198ed27"> <enum>(A)</enum> <text>in paragraph (1)(A), in the matter preceding clause (i), by striking <quote>and (9)</quote> and inserting <quote>, (9), and (10)</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="id616ee07d0973441aac4f725c50e6f6e0">
+                        <enum>(B)</enum>
+ <text>in paragraph (2)(A), in the matter preceding clause (i), by striking <quote>and (9)</quote> and inserting <quote>, (9), and (10)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="idb1a88ceec2b2445888eb07478d7fea41">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id9e98e41081ce4dccaf6db5ef17ff24d5"> <paragraph id="id302edc4ff86f4e7c9744b8a581c6b33a"> <enum>(10)</enum> <header>Cost-sharing for chronic care drugs</header> <subparagraph id="id151b9cd0e789457dac56c65df9fc5d6c"> <enum>(A)</enum> <header>In general</header> <text>For plan years beginning on or after January 1, 2027, in the case of a chronic care drug, the following shall apply:</text>
+                                    <clause commented="no" id="id27b854dab5df4abebc2fbb19afcd110e">
+                                        <enum>(i)</enum>
+ <text>For costs below the annual deductible specified in paragraph (1), cost-sharing for such drug shall not exceed the net price of such drug.</text>
+                                    </clause>
+                                    <clause id="idad9f53275f2a4ac687123d60be51e5d4">
+                                        <enum>(ii)</enum>
+ <text>Subject to subparagraph (B), for costs above the annual deductible specified in paragraph (1) and below the out-of-pocket threshold specified in paragraph (4), any coinsurance amount for such drug shall be based on a percentage of the net price of such drug. </text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id16edc8daa3d048b2a74a30208fd53728">
+                                    <enum>(B)</enum>
+                                    <header>Exception</header>
+ <text>The requirement under subparagraph (A)(ii) shall not apply to a chronic care drug under a prescription drug plan if the cost-sharing amount for such drug under such plan is based on a copayment that is not tied to a percentage of a drug price (such as the negotiated price, list price, or wholesale acquisition cost), a drug benchmark price (such as the average wholesale price), or a drug cost.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id89d7ff79d2474b9b8431a8e93e2376b9">
+                                    <enum>(C)</enum>
+                                    <header>Definitions</header>
+ <text>In this paragraph:</text> <clause id="idbfb099b3eff840ada8836fa5a5524c39"> <enum>(i)</enum> <header>Chronic care drug</header> <text>The term <term>chronic care drug</term> means a covered part D drug that is included under any of the following United States Pharmacopeia Convention (USP) categories and classes of drugs, as included in the most recent version of the USP Medicare Model Guidelines:</text>
+                                        <subclause id="id904f79c708a64b26ac187449b69611f7">
+                                            <enum>(I)</enum>
+ <text>Blood glucose regulators, other than insulins.</text>
+                                        </subclause>
+                                        <subclause id="id65fe68e091e348f8959744cf88ac6d3e">
+                                            <enum>(II)</enum>
+ <text>Anti-inflammatories, inhaled corticosteroids.</text>
+                                        </subclause>
+                                        <subclause id="idf4fbfe0fe6944d81aa51d9069be8860f">
+                                            <enum>(III)</enum>
+ <text>Bronchodilators, anticholinergic.</text> </subclause> <subclause id="id3f741ee615d64dc4bdce074cdcc2c1f2"> <enum>(IV)</enum> <text>Bronchodilators, sympathomimetic.</text>
+                                        </subclause>
+                                        <subclause id="id52143f2a95be4f5999295d264ac74a45">
+                                            <enum>(V)</enum>
+ <text>Respiratory tract agents, other.</text> </subclause> <subclause id="id2de5b4322ddb420aa15881da9ec2d521"> <enum>(VI)</enum> <text>Anticoagulants.</text>
+                                        </subclause>
+                                        <subclause id="id1085f5a257f34fb4823f9d08f486f195">
+                                            <enum>(VII)</enum>
+ <text>Cardiovascular agents, other.</text> </subclause> <subclause id="idb70484b986744f07ba32d60608318c15"> <enum>(VIII)</enum> <text>Any category or class identified by the Secretary or USP as a successor to the categories and classes described in subclauses (I) through (VII) based on the most recent USP Medicare Model Guidelines at the time of such identification.</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="idd360e975eeb041b9905907e23a0ab6e3">
+                                        <enum>(ii)</enum>
+                                        <header>Net price</header>
+ <text>The term <term>net price</term> means the negotiated price of the drug net of all price concessions originating from manufacturers that are received or expected to be received by the plan or pharmacy benefit manager on behalf of the plan for such product and that are not already reflected in the negotiated price.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id4413443af2154b6f97f75e296029d462">
+                    <enum>(2)</enum>
+ <text>in subsection (c), by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idc1f6e2a38b7e4a2ca305ce9982418bff">
+                        <paragraph id="idf75f73693c3b468e9daecc4938cf06e3">
+                            <enum>(7)</enum>
+                            <header>Cost-sharing for covered chronic care drugs</header>
+ <text>The coverage is provided in accordance with subsection (b)(10).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id3675ac21acdf4f1a931e9e284424d4f6">
+                <enum>(b)</enum>
+                <header>Conforming amendments to cost-Sharing for low-Income individuals</header>
+ <text>Section 1860D–14(a)(1)(D)(iii) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-114">42 U.S.C. 1395w–114(a)(1)(D)(iii)</external-xref>) is amended by adding at the end the following new sentence: <quote>For plan year 2027 and subsequent plan years, the copayment amount applicable under the first sentence of this subclause for a chronic drug (as defined in section 1860D–2(b)(10)(B)) furnished to the individual may not exceed the applicable cost-sharing for such drug under the prescription drug plan or MA–PD plan in which the individual is enrolled.</quote>.</text>
+            </subsection>
+            <subsection id="id9ed1816c4c124bbeb18f93d8efbe83f0">
+                <enum>(c)</enum>
+                <header>Regulations</header>
+ <text>Notwithstanding any other provision of law, the Secretary of Health and Human Services shall initially implement the amendments made by this section through interim final regulations.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

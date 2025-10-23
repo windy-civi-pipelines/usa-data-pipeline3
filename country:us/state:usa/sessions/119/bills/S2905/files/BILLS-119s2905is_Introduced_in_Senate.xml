@@ -1,0 +1,1758 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-PAT25482-079-T3-NJY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2905 IS: Pipeline Accountability Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2905</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250918" legis-day="20250916">September 18 (legislative day,
+                September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself, <cosponsor name-id="S386">Ms. Duckworth</cosponsor>, and <cosponsor name-id="S247">Mr.
+                    Wyden</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSCM00">Committee on Commerce,
+                    Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 49, United States Code, to require the establishment of an
+            Office of Public Engagement in the Pipeline and Hazardous Materials Safety
+            Administration, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idf21c1ea157854689a1eeae65d45b4f17">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Pipeline Accountability Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6bdcbf6eb32949359e4e016dd32003de">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text display-inline="yes-display-inline">The table of contents for this Act is as follows:</text>
+                <toc>
+                    <toc-entry level="section" idref="S1">Sec. 1. Short title; table of
+                        contents.</toc-entry>
+                    <toc-entry level="section" idref="id82edc961369240f2addf0d58e2ff3fd8">Sec. 2.
+                        Definitions.</toc-entry>
+                    <toc-entry level="title" idref="id2a53e4a2904849e8a3ae338a18aa2e04">TITLE
+                        I—Safety and environmental protections</toc-entry>
+                    <toc-entry level="section" idref="id52b065c648b6428db761e4f1dfad910a">Sec. 101.
+                        Factors for consideration in prescribing standards.</toc-entry>
+                    <toc-entry level="section" idref="idd8f82a56c53749cda7c464dbc9dfdd63">Sec. 102.
+                        Cost-benefit analyses.</toc-entry>
+                    <toc-entry level="section" idref="id9bf52278c70f4f8cb5752efdc8258dff">Sec. 103.
+                        Technical safety standards committees.</toc-entry>
+                    <toc-entry level="section" idref="id55003ac952f54cb0bb68b22ff30fee58">Sec. 104.
+                        Application of regulations to existing pipelines.</toc-entry>
+                    <toc-entry level="section" idref="idd819d255cd794a158a9049322643ab10">Sec. 105.
+                        Rupture-mitigation valves on pipelines in high consequence
+                        areas.</toc-entry>
+                    <toc-entry level="section" idref="ida5c39efe5cdd4fcebeee23c9a0968de7">Sec. 106.
+                        Safety of carbon dioxide pipelines.</toc-entry>
+                    <toc-entry level="section" idref="idf4dbb4c6ee204b89afaa2d367cea4143">Sec. 107.
+                        Blending in natural gas systems.</toc-entry>
+                    <toc-entry level="section" idref="id66d7b8437fd04f829f4a50eb9eec2553">Sec. 108.
+                        Extension and modification of Natural Gas Distribution Infrastructure Safety
+                        and Modernization Grant Program.</toc-entry>
+                    <toc-entry level="section" idref="id773e98377452469d852dcf240e30173f">Sec. 109.
+                        Rulemaking on underground natural gas storage.</toc-entry>
+                    <toc-entry level="title" idref="idfe02ae95f3834ddebf2132d058038d06">TITLE
+                        II—Public engagement and transparency</toc-entry>
+                    <toc-entry level="section" idref="id067eccf8d6184e47b70e351dbd0803a1">Sec. 201.
+                        Office of Public Engagement.</toc-entry>
+                    <toc-entry level="section" idref="idc35a558015fc4374936e1d76613fd34a">Sec. 202.
+                        Public hearings on proposed rules.</toc-entry>
+                    <toc-entry level="section" idref="idad7f6b6eadd14bf6a2e8105ba192b692">Sec. 203.
+                        Disclosure of safety data.</toc-entry>
+                    <toc-entry level="section" idref="id3e5f06f9aa734ea09581533cff23b44a">Sec. 204.
+                        Reporting of blended products.</toc-entry>
+                    <toc-entry level="section" idref="ide9617d37b39843c0bdbbb713b833c439">Sec. 205.
+                        Incident reporting for gas pipelines.</toc-entry>
+                    <toc-entry level="title" idref="iddbc464c987f54981a6920d10b9a8bc07">TITLE
+                        III—Accountability</toc-entry>
+                    <toc-entry level="section" idref="id33091ab88eb64da9aebc2aafc4d43ced">Sec. 301.
+                        Prohibition against releases.</toc-entry>
+                    <toc-entry level="section" idref="ida4444317ab4d4f1cbe7e05f1362e1a66">Sec. 302.
+                        Actions by private persons.</toc-entry>
+                    <toc-entry level="section" idref="id4fcd84a9f0854d25b9776b9bb51d9b57">Sec. 303.
+                        Penalties.</toc-entry>
+                </toc>
+            </subsection>
+        </section>
+        <section id="id82edc961369240f2addf0d58e2ff3fd8">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" id="idf2c9476c31ed4590ad51f228e9cb3ae0"> <enum>(1)</enum> <header>Administration</header> <text>The term <term>Administration</term> means the Pipeline and Hazardous Materials Safety Administration.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idfdd0e040998e49df944f109d22ce1b62">
+                <enum>(2)</enum>
+                <header>Appropriate committees of Congress</header>
+ <text>The term <term>appropriate committees of Congress</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idbf91d6983a964862a0257dd1523fd374"> <enum>(A)</enum> <text display-inline="yes-display-inline">the Committee on Commerce, Science, and Transportation of the Senate;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idc3338018dfd845e690c9c198157523f1">
+                    <enum>(B)</enum>
+ <text>the Committee on Transportation and Infrastructure of the House of Representatives; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id7d5bee4fc40e4f84b551fb981813a028">
+                    <enum>(C)</enum>
+ <text>the Committee on Energy and Commerce of the House of Representatives.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idc31d65b3c98b4e218f83bae822931594">
+                <enum>(3)</enum>
+                <header>Environment</header>
+ <text>The term <term>environment</term> includes—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id5b45529defe94df8af2f477cad71e027"> <enum>(A)</enum> <text display-inline="yes-display-inline">water, air, and land; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idbd1015d2b15741298d3a48ac40a77839">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the interrelationship that exists among and between water, air, and land and all present and future generations of living beings.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc975fdeb0d034ee491da009c74f1be3c">
+                <enum>(4)</enum>
+                <header>Environmental</header>
+ <text display-inline="yes-display-inline">The term <term>environmental</term> means relating to or concerning the environment.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id3cc7cc73d6894680961523b3601edbbf">
+                <enum>(5)</enum>
+                <header>Incident</header>
+ <text>The term <term>incident</term> has the meaning given the term in section 191.3 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id08a8d290d5da4635b8587675fa7bdff4">
+                <enum>(6)</enum>
+                <header>Natural gas</header>
+ <text>The term <term>natural gas</term> has the meaning given the term in section 2 of the Natural Gas Act (<external-xref legal-doc="usc" parsable-cite="usc/15/717a">15 U.S.C. 717a</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id850b769d468f467b9d06f8faa99e4200">
+                <enum>(7)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Transportation, acting through the Administrator of the Administration.</text>
+            </paragraph>
+        </section>
+        <title id="id2a53e4a2904849e8a3ae338a18aa2e04" style="OLC">
+            <enum>I</enum>
+            <header>Safety and environmental protections</header>
+            <section commented="no" display-inline="no-display-inline" id="id52b065c648b6428db761e4f1dfad910a">
+                <enum>101.</enum>
+                <header>Factors for consideration in prescribing standards</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id0dbd37d4154c4a0d859fa7ae689d0c05">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 60102(b)(2) of title 49, United States Code, is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id1a78fa5a0f354b32b0b397e4ba011afe">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (F), by striking <quote>and</quote> at the end;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7ca3c28af7054a25b5f2f71195cdd442">
+                        <enum>(2)</enum>
+ <text>in subparagraph (G), by striking the period at the end and inserting a semicolon; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idfd7b17ae068f4e5488b91510627cb281">
+                        <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id23E674D6F3A64B97B2F8610AE3BC18F0"> <subparagraph id="id040249c6d1b74f91991474c37f643be0"> <enum>(H)</enum> <text>the need to mitigate negative impacts to the global climate and avoid unnecessarily prolonging the life span of fossil fuel infrastructure; and</text>
+                            </subparagraph>
+                            <subparagraph id="id519f4e08b1224a839d461c1d7a8ea69f">
+                                <enum>(I)</enum>
+ <text>transition plans toward non-emitting alternatives.</text> </subparagraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="id5b387599db744c97bb42fc7fed5bee94"> <enum>(b)</enum> <header>Definition</header> <paragraph commented="no" display-inline="no-display-inline" id="ida5d6b17ded3349629bc3529ec21224d5"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text>Section 60101(a) of title 49, United States Code, is amended—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb30d0e2d990c44809b1fbcc634c02807">
+                            <enum>(A)</enum>
+ <text>in paragraph (25), by striking <quote>and</quote> at the end;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id69de93d966cf4c9caa8fd4c730dd33ee">
+                            <enum>(B)</enum>
+ <text>in paragraph (22)(B)(iii), by inserting <quote>and</quote> after the semicolon at the end;</text>
+                        </subparagraph>
+                        <subparagraph id="id5295D9B0DDDE4310A7EC404C153390A0">
+                            <enum>(C)</enum>
+ <text>by redesignating paragraphs (17) through (26) as paragraphs (18), (19), (20), (24), (25), (26), (21), (22), (23), and (27), respectively, and moving the paragraphs so as to appear in numerical order; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8D2A07034F704999B64B96B638355280">
+                            <enum>(D)</enum>
+ <text>by inserting after paragraph (16) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id5CAA21534FD149ADA6D9FE14A0287C42"> <paragraph id="id86F6A251578E484EB548F91FF98C47D7"> <enum>(17)</enum> <text><term>non-emitting alternative</term> means a technological or efficiency-related energy solution that does not entail the use of fossil fuels that are directly or indirectly related to the greenhouse effect, including electrification, renewable energy sources, networked geothermal systems, storage, efficiency, and behavior change;</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id2EA7F6B98EDC4CD4BEC61313FF086BE4">
+                        <enum>(2)</enum>
+                        <header>Conforming amendments</header>
+                        <subparagraph id="idA72CD283797F433F8EF45DDA56B79A0F">
+                            <enum>(A)</enum>
+ <text>Section 70012(c) of title 46, United States Code, is amended by striking <quote>section 60101(a)(18)</quote> and inserting <quote>section 60101(a)</quote>.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idE6BD19B17D624650BADD5E1823792631">
+                            <enum>(B)</enum>
+ <text>Section 60102(q)(1) of title 49, United States Code, is amended, in the matter preceding subparagraph (A), by striking <quote>subsection (a)(21)</quote> and inserting <quote>subsection (a)(25)</quote>.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idd8f82a56c53749cda7c464dbc9dfdd63">
+                <enum>102.</enum>
+                <header>Cost-benefit analyses</header>
+ <text display-inline="no-display-inline">Section 60102(b) of title 49, United States Code (as amended by section 101), is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb786bebf8ca042539eca3eedcb082b7b">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in paragraph (2)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id3ed17917abe4454ea7e34b7ad5e3f52f"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking subparagraphs (D) and (E); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6e60acfa67c74f438e5d6e023acbf0b5">
+                        <enum>(B)</enum>
+ <text>by redesignating subparagraphs (F) through (I) as subparagraphs (D) through (G), respectively; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id38d0a8e459b741599944e5694112d695">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">by striking paragraphs (3) through (7).</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id9bf52278c70f4f8cb5752efdc8258dff">
+                <enum>103.</enum>
+                <header>Technical safety standards committees</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id7ef08fc2b45c4f0eb0118f61fbad003e">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 60115 of title 49, United States Code, is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2bf943c1053a4cfabf130df7cfe9da42">
+                        <enum>(1)</enum>
+ <text>in subsection (a), by striking the third sentence;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id81cab8b46b9744848b65d78cebc9a681"> <enum>(2)</enum> <text>in subsection (b)(4)—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id731a12e4f54146f989f13b532df0231d">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (C)—</text> <clause commented="no" display-inline="no-display-inline" id="id732e12bd43b047689de5f336b52cc7f9"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking the second and third sentences and inserting the following:</text>
+                                <quoted-block style="OLC" display-inline="no-display-inline" id="id6D5A7A5D4AD14BAAAA94A510656D31CF">
+                                    <clause commented="no" display-inline="no-display-inline" id="id82ac3a6e532f4798b491911a71089a1b" indent="up3">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">None of the individuals selected for a committee under paragraph (3)(C) may have a financial interest in the pipeline, petroleum, ethanol, or gas industries, including through direct ownership, consulting fees, wages, or research funding provided directly to the individual, but not including any compensation for a pipeline easement on the property of the individual.</text>
+                                    </clause>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="iddf0607c2554b461495b1a2e54610dd86">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>(C) Two</quote> and inserting the following:</text>
+                                <quoted-block style="OLC" display-inline="no-display-inline" id="id0A936A4B22AD4E279222DEF8CDEAD132">
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id7f1f4ad9ba244273b04b6c7551d617b6" indent="up2">
+                                        <enum>(C)</enum>
+                                        <clause commented="no" display-inline="yes-display-inline" id="id84f3825c293847b89874bbf727755bf7">
+                                            <enum>(i)</enum>
+ <text>Two</text> </clause> </subparagraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idbc1b68587bcc4820bac874a8fcecdceb"> <enum>(B)</enum> <text display-inline="yes-display-inline">by striking subparagraph (D) and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idB74C477409AC464E80BE92ACB7174D29">
+                                <clause commented="no" display-inline="no-display-inline" id="idef5d5293e5ff476dae6b7d676672e02c" indent="up3">
+                                    <enum>(iii)</enum>
+ <text>All individuals under consideration for selection for a committee under paragraph (3)(C) shall submit to the Secretary such financial records for the previous year as the Secretary determines necessary to evaluate compliance with clause (ii). All individuals selected for a committee under paragraph (3)(C) shall submit to the Secretary, prior to appointment and annually thereafter for so long as the individual is a member of the committee, such financial records for the previous year as the Secretary determines necessary to evaluate compliance with clause (ii).</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" indent="up3" id="idfaa66c8f52e441fd87f2c7f9932fa0fe">
+                                    <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">The Secretary shall provide reasonable compensation for members of each committee that are appointed under paragraph (3)(C). Such compensation shall not make a member of a committee an officer or employee of the Federal Government in determining eligibility for membership on the applicable committee.</text>
+                                </clause>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idd925f9cd936442b2ba2e2f669527966b">
+                        <enum>(3)</enum>
+ <text>in subsection (c)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id7b8cf7fb179e4bdc8c27b3e24f0f2773"> <enum>(A)</enum> <text>in paragraph (1)—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id920c319546d847dc852fedf0644a62fd">
+                                <enum>(i)</enum>
+ <text>in subparagraph (A), by striking <quote>Committee each standard proposed under this chapter for transporting gas and for gas pipeline facilities including the risk assessment information and other analyses supporting each proposed standard;</quote> and inserting the following: “Committee—</text>
+                                <quoted-block style="OLC" display-inline="no-display-inline" id="id815E9FBF70B747DEA47D91D6B45CF478">
+                                    <clause commented="no" display-inline="no-display-inline" id="id9260df33db7d4818b4139acc07708f59" indent="up1">
+                                        <enum>(i)</enum>
+ <text>each standard proposed under this chapter for—</text> <subclause commented="no" display-inline="no-display-inline" id="id9f63f3e827814341a8ed13d9c41611af"> <enum>(I)</enum> <text>transporting gas; or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id5addd9e87c9344a3831cfac2a4b03b16">
+                                            <enum>(II)</enum>
+ <text>gas pipeline facilities; and</text> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" indent="up1" id="id52a31bceb4464a5b89b5d9e54b33034b"> <enum>(ii)</enum> <text>analyses supporting each proposed standard described in clause (i);</text>
+                                    </clause>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="ideb1b4a691e4748d083b063e3a308499a">
+                                <enum>(ii)</enum>
+ <text>in subparagraph (B), by striking <quote>Committee each standard proposed under this chapter for transporting hazardous liquid and for hazardous liquid pipeline facilities including the risk assessment information and other analyses supporting each proposed standard.</quote> and inserting the following: “Committee—</text>
+                                <quoted-block style="OLC" display-inline="no-display-inline" id="idBB84AED0A62843E288DB35DE87BF10E8">
+                                    <clause commented="no" display-inline="no-display-inline" id="id936322213ebc429e931af97aa2d6291b" indent="up1">
+                                        <enum>(i)</enum>
+ <text>each standard proposed under this chapter for—</text> <subclause commented="no" display-inline="no-display-inline" id="ida8bbdfb3126746af8b3062930ca02d23"> <enum>(I)</enum> <text>transporting hazardous liquid; or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id56cbcfd675b040289e402fa509783b5d">
+                                            <enum>(II)</enum>
+ <text>hazardous liquid pipeline facilities; and</text> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" indent="up1" id="idc39e479371f74fe198e394d5a45245ea"> <enum>(ii)</enum> <text>analyses supporting each proposed standard described in clause (i).</text>
+                                    </clause>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="iddf8e6e46ce0444fa989593fa33273d35">
+                            <enum>(B)</enum>
+ <text>in paragraph (2), in the first sentence—</text> <clause commented="no" display-inline="no-display-inline" id="id872cbf9e50304f6986b960297dd323a4"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>cost-effectiveness,</quote>; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id107c0deb16bf4db8ac8385fbe0bbbc92">
+                                <enum>(ii)</enum>
+ <text>by inserting <quote>, and the strength of the proposed standard to promote safety and protect the environment (as defined in section 2 of the <short-title>Pipeline Accountability Act of 2025</short-title>),</quote> before <quote>and include</quote>.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="iddf7fb0f1f9d44b87a28ecc54212cc0e0">
+                    <enum>(b)</enum>
+                    <header>Authorization of appropriations</header>
+ <text>There are authorized to be appropriated such sums as are necessary to carry out this section and the amendments made by this section.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id55003ac952f54cb0bb68b22ff30fee58">
+                <enum>104.</enum>
+                <header>Application of regulations to existing pipelines</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id9f7a0a77ba774edebc0c1b7c6d63d65a">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 60104(b) of title 49, United States Code, is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id02450440e5c645a78d9637790cf1d2e2">
+                        <enum>(1)</enum>
+ <text>in the subsection heading, by striking <quote><header-in-text level="subsection" style="USC">Nonapplication</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="USC">Application</header-in-text></quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id27d3e63b4f7b481ba577be83eb0592bb">
+                        <enum>(2)</enum>
+ <text>by striking <quote>does not apply</quote> and inserting <quote>shall be applied</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="id9363de5243554d87b9a8da35023b8a0f">
+                        <enum>(3)</enum>
+ <text>by adding at the end the following: <quote>The authority of the Secretary to apply any standard promulgated pursuant to this chapter (including any standard promulgated prior to the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>) shall not be limited by virtue of a pipeline preexisting the issuance of that standard.</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id15a89d46c088411a9af0be0bcb0cb49e">
+                    <enum>(b)</enum>
+                    <header>Conforming amendment</header>
+ <text>Section 60109(c) of title 49, United States Code, is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="idaf1bdc5838b148daa013bcc76ea6e48b"> <enum>(1)</enum> <text>by striking paragraph (11); and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id99d4394dbaa1441fbadafbfdb5ece05b">
+                        <enum>(2)</enum>
+ <text>by redesignating paragraph (12) as paragraph (11).</text> </paragraph> </subsection> </section> <section commented="no" display-inline="no-display-inline" id="idd819d255cd794a158a9049322643ab10"> <enum>105.</enum> <header>Rupture-mitigation valves on pipelines in high consequence areas</header> <text display-inline="no-display-inline">Section 60109(c) of title 49, United States Code (as amended by section 104(b)(2)), is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idBA310EB07B4C4D7682258F40B2B5A4E7">
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4e32fac32be747a59797e51d6e119bc5">
+                        <enum>(12)</enum>
+                        <header>Rupture-mitigation valves on pipelines in high consequence
+                            areas</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idd5198f455eb8439989fb10fc58cd7d13">
+                            <enum>(A)</enum>
+                            <header display-inline="yes-display-inline">Definitions</header>
+                            <clause commented="no" display-inline="no-display-inline" id="id13d3dfd8d70049eba03f12363ca1d909">
+                                <enum>(i)</enum>
+                                <header display-inline="yes-display-inline">Class 3 or 4
+                                    location</header>
+ <text>The term <term>Class 3 or 4 location</term>, with respect to a gas pipeline facility, means, as applicable—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id4e3a246dab184d388510d50fc3911403">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">a Class 3 location (as defined in section 192.5(b) of title 49, Code of Federal Regulations (or a successor regulation)); or</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id57d9dd25c0f646c69aba25f48c781835">
+                                    <enum>(II)</enum>
+ <text>a Class 4 location (as defined in that section).</text> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" id="idc83f5e51a1c8495ca778a275f28af157"> <enum>(ii)</enum> <header>Covered location</header> <text>The term <term>covered location</term> means—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id6cf0f4d515d2416f81e989a0dc463dd6">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">a high consequence area; and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id84daebfbb7844d239d3a73ee37888c8a">
+                                    <enum>(II)</enum>
+ <text>a location where a rupture could affect—</text> <item commented="no" display-inline="no-display-inline" id="ida4831fe4db674d1389f231121343bff0"> <enum>(aa)</enum> <text display-inline="yes-display-inline">a high consequence area; or</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id89c52882072a4b539d21cc4fd845fc1c">
+                                        <enum>(bb)</enum>
+ <text>a Class 3 or 4 location.</text> </item> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" id="id406566ca920f4a50a570491ce8c2f258"> <enum>(iii)</enum> <header>Covered pipeline</header> <text>The term <term>covered pipeline</term> means an existing or newly constructed pipeline, 6 inches or greater in diameter, that is—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id2515d4dac1ea4e39ac9130a11a014e18">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">a gas transmission pipeline;</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id2073fc2536e64cbe93cb5e29d5c3272c">
+                                    <enum>(II)</enum>
+ <text>a type A onshore gathering pipeline (as described in section 192.8(c) of title 49, Code of Federal Regulations (or a successor regulation));</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="idcd8d85cd63a246579203e60655f7ec1c">
+                                    <enum>(III)</enum>
+ <text>a hazardous liquid pipeline; or</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="id19e536a7825940728fa2ef19c80c4c6a"> <enum>(IV)</enum> <text>a carbon dioxide pipeline.</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="iddbbbf47cf09b4b4abf79e1de0c5f5ea0">
+                                <enum>(iv)</enum>
+                                <header display-inline="yes-display-inline">High consequence
+                                    area</header>
+ <text>The term <term>high consequence area</term> means—</text> <subclause commented="no" display-inline="no-display-inline" id="idb85bc5d77920441eac45cb4f4f807cee"> <enum>(I)</enum> <text>with respect to a gas pipeline facility, a high consequence area (as defined in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation)); and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id0c97d68ffe7d45b38348efa9644697c3">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">with respect to a hazardous liquid pipeline facility or relevant carbon dioxide pipeline facility, a high consequence area (as defined in section 195.450 of title 49, Code of Federal Regulations (or a successor regulation)).</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id7c0b571b3b574fafb7e2e17b42dcd0e2">
+                            <enum>(B)</enum>
+                            <header>Isolation of pipeline segments</header>
+ <text>Beginning on the date that is 5 years after the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, an operator of a covered pipeline any portion of which is in a covered location shall, as soon as practicable, but not later than 30 minutes after rupture identification, fully isolate any ruptured pipeline segment that is in a covered location, in order to minimize the volume of product released from the pipeline and mitigate the consequences of the rupture.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ide8ac395d764445489fd564f433e4d6f0">
+                            <enum>(C)</enum>
+                            <header>Demonstration of compliance</header>
+                            <clause commented="no" display-inline="no-display-inline" id="id9f12284e9e174d2793d8aa3eed8d05cb">
+                                <enum>(i)</enum>
+                                <header>Existing pipelines in covered locations</header>
+ <text display-inline="yes-display-inline">Not later than 5 years after the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, each operator of a covered pipeline any portion of which is in a covered location as of that date of enactment shall demonstrate the ability of the operator to comply with the requirements of subparagraph (B).</text>
+                            </clause>
+                            <clause id="id0ef51dae10574ad192c95d4721e19392">
+                                <enum>(ii)</enum>
+                                <header>Subsequent determinations</header>
+ <text>Beginning on the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, not later than 5 years after an existing covered pipeline is determined to be in a covered location, the operator of that covered pipeline shall demonstrate the ability of the operator to isolate the applicable segment of the covered pipeline not later than 30 minutes after rupture identification, in accordance with subparagraph (B), unless the operator has received a waiver in accordance with subparagraph (D) with respect to the applicable segment that is in effect on the expiration of that 5-year period. </text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id02885dbe27c84173828cd94acfab4e84">
+                            <enum>(D)</enum>
+                            <header>Waiver on request</header>
+ <text display-inline="yes-display-inline">The Secretary may approve a waiver of the requirements of subparagraphs (B) and (C) on the request of an operator of a covered pipeline if the request—</text>
+                            <clause id="id6bc9484f268f4540a05acaf78411451b">
+                                <enum>(i)</enum>
+                                <subclause commented="no" display-inline="yes-display-inline" id="idef7347fcf7184127a190eaad4ddee2df">
+                                    <enum>(I)</enum>
+ <text>demonstrates, in the determination of the Secretary, that meeting the 30-minute standard described in subparagraph (B) is operationally, technologically, or economically infeasible; and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id193037592ec44be8a746f976592507ac" indent="up1">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">describes the methodology used to reach, and the results of studies supporting, that conclusion;</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id0cc8450e6cc54b7185844ec26f7aa008">
+                                <enum>(ii)</enum>
+                                <subclause commented="no" display-inline="yes-display-inline" id="id37ce732e55384d2c84d2fc94302f15eb">
+                                    <enum>(I)</enum>
+ <text>includes the estimated—</text> <item commented="no" display-inline="no-display-inline" id="id03b67480bf474e32b3e1e5187bd96bbd" indent="up1"> <enum>(aa)</enum> <text display-inline="yes-display-inline">isolation time; and</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" indent="up1" id="id572513997bc7432dbe03fe3de0fa4c4c">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">consequences of a worst-case scenario failure on the impacted high consequence area or Class 3 or 4 location; and</text>
+                                    </item>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" indent="up1" id="idf9849e58683f43a68906600fcf058744">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">demonstrates that the operator has involved the local emergency services in developing those estimates;</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id7fb2e1ac936242209341c9b1f2ee368b">
+                                <enum>(iii)</enum>
+ <text>demonstrates that the public within the impacted area and the immediately surrounding areas has been informed of the consequences of a rupture and consulted with respect to a waiver, including by providing the estimated isolation time; and</text>
+                            </clause>
+                            <clause id="id46f081d3114f40cea8ab90117080aefa">
+                                <enum>(iv)</enum>
+ <text>for a pipeline segment for which a rupture could affect a high consequence area that is an unusually sensitive area (as defined in section 195.6 of title 49, Code of Federal Regulations (or a successor regulation)), demonstrates that relevant environmental and public safety groups have been informed of, and consulted with respect to, the consequences of a rupture and the request for a waiver. </text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="ide4e24da02a544a5ab28b9b22c7f0358a">
+                            <enum>(E)</enum>
+                            <header>Expiration, renewal, and required review</header>
+                            <clause commented="no" display-inline="no-display-inline" id="idf2a36f34e8fd4768be1b3e9d7a9df419">
+                                <enum>(i)</enum>
+                                <header>Expiration</header>
+ <text display-inline="yes-display-inline">A waiver granted by the Secretary under subparagraph (D) shall expire 5 years after the date on which the waiver was granted.</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idd2f38054ad3e45428d8e7dc9c33677a8">
+                                <enum>(ii)</enum>
+                                <header>Renewal</header>
+ <text>A waiver granted by the Secretary under subparagraph (D) may be renewed on the submission by the operator of a new request in accordance with that subparagraph, subject to such revision as the Secretary determines to be appropriate based on a review of the request.</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="iddd2c6b68cb114f889d2c615d6f9281d3">
+                                <enum>(iii)</enum>
+                                <header>Required review</header>
+                                <subclause commented="no" display-inline="no-display-inline" id="id5a0cec8b3b1d48a59e7dcd3e31f70536">
+                                    <enum>(I)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the occurrence of an event described in subclause (II), an operator receiving a waiver under subparagraph (D) shall—</text>
+                                    <item commented="no" display-inline="no-display-inline" id="id80a2a3da7837477894e816eda2d87ea1">
+                                        <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">review the waiver; and</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id4d3c715e23204e39815552e25698e902">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">submit to the Secretary a new request for a waiver in accordance with that subparagraph, including such revisions as the operator determines appropriate based on a review of the applicable event described in that subclause.</text>
+                                    </item>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id3d66627f753c4430a498465a42deed9b">
+                                    <enum>(II)</enum>
+                                    <header>Events described</header>
+ <text display-inline="yes-display-inline">An event referred to in subclause (I) is any of the following:</text>
+                                    <item id="idf22a784907b44c1781c2714a2d7e3151">
+                                        <enum>(aa)</enum>
+ <text>A significant incident anywhere on the network of pipelines of the operator.</text>
+                                    </item>
+                                    <item id="id5cb2301cfcef4d0c9f8d838a8083eb45">
+                                        <enum>(bb)</enum>
+ <text>A change in the operational status of the applicable pipeline segment that may impact the safe operation of the pipeline facility or the consequences of a rupture.</text>
+                                    </item>
+                                    <item id="id8bbe87920a6b4fc386cf9afbc338435f">
+                                        <enum>(cc)</enum>
+ <text>A change in the built or natural environment that may impact the safe operation of the pipeline facility or the consequences of a rupture.</text>
+                                    </item>
+                                    <item id="id1d9475aecd49423c8629ae51a72e05f8">
+                                        <enum>(dd)</enum>
+ <text>A change in the organizational structure of the operator, including a change in staffing levels or locations, that would affect the ability of the operator to isolate the applicable pipeline segment within the required time.</text>
+                                    </item>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="iddb832ccde5de4ded8e87f263bf504605">
+                                    <enum>(III)</enum>
+                                    <header>Review by the Secretary</header>
+ <text display-inline="yes-display-inline">On receipt of a request under subclause (I)(bb), the Secretary shall—</text>
+                                    <item commented="no" display-inline="no-display-inline" id="id33a3e89510e64f589e43bd7627c0d36e">
+                                        <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">review the request; and</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="idd0c8a323da8145f187511c57f3eae2a2">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">as the Secretary determines to be appropriate—</text>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id8437f1d954844d87ba54bc64e2e85af9">
+                                            <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">grant a new waiver under subparagraph (D) with such revisions as the Secretary determines to be appropriate;</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="idd28195e842824a30bccdf213d8b9b728">
+                                            <enum>(BB)</enum>
+ <text>revoke the existing waiver and require compliance with subparagraphs (B) and (C); or</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id21b02fe4c0854411954ca9958cac9da3">
+                                            <enum>(CC)</enum>
+ <text>require the submission of a revised request by a date determined by the Secretary, addressing such matters as the Secretary determines to be appropriate.</text>
+                                        </subitem>
+                                    </item>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id30570ec640e24e9185c56d1738abf47f">
+                                    <enum>(IV)</enum>
+                                    <header>Expiration due to inaction</header>
+ <text display-inline="yes-display-inline">If an operator has not submitted to the Secretary a request in accordance with item (bb) of subclause (I) by the date described in that subclause, the existing waiver shall expire as of that date.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id14127270b56f40889a23c7e11317a6b5">
+                            <enum>(F)</enum>
+                            <header>Rulemaking</header>
+ <text>Not later than 2 years after the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, the Secretary shall promulgate new, or revise existing, regulations to carry out this paragraph.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ida5c39efe5cdd4fcebeee23c9a0968de7">
+                <enum>106.</enum>
+                <header>Safety of carbon dioxide pipelines</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id76b8a13e24a041109acf2e8ab848ec34">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id164AA819BF5743D3AB5B5615BCEAF6B4"> <enum>(1)</enum> <header display-inline="yes-display-inline">High consequence area</header> <text>The term <term>high consequence area</term> has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id0977E5EAD9514B3EA2209AB8C274A4CC">
+                        <enum>(2)</enum>
+                        <header>Potential impact area</header>
+ <text>The term <term>potential impact area</term> means the area in which the potential failure of a pipeline transporting carbon dioxide may be expected to have significant impact on persons, property, or the environment.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idaf3c5d4698dd4dd19243f2bb294bab3b">
+                        <enum>(3)</enum>
+                        <header>Report</header>
+ <text>The term <term>report</term> means the report of the Accident Investigation Division of the Office of Pipeline Safety of the Administration entitled <quote>Failure Investigation Report—Denbury Gulf Coast Pipelines LLC—Pipeline Rupture/Natural Force Damage</quote> and dated May 26, 2022.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id892e3368c9ae4b06ba597141f5b4e70f">
+                    <enum>(b)</enum>
+                    <header>Completion of rulemaking</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7bec4a1859f64e4a89256006d7a22aac">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act, the Secretary shall—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idd187ed92123544648179d9505cf3e809">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">complete the rulemaking proceeding relating to the notice of proposed rulemaking issued on January 10, 2025, entitled <quote>Pipeline Safety: Safety of Carbon Dioxide and Hazardous Liquid Pipelines</quote> (Docket No. PHMSA–2022–0125; RIN 2137–AF60); and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idfa48a627e1de4fa0a3fd647b0db3b526">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">issue a final rule pursuant to that rulemaking proceeding, subject to the conditions that—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="iddec5f738a4454010a144850e65ec6f94">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in completing the rulemaking proceeding and issuing the final rule, the Secretary shall take into consideration the measures described in paragraph (2); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id28487a6d22d74bd5839dc9a6eba5729a">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any substantive differences between the final rule and the proposed rule, as published by the Administration on January 10, 2025—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id205d0eeaedb6407db9f51230934899f0">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">effectuate a measure described in paragraph (2); and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id483feedd4d954a0e9672332e3196f442">
+                                    <enum>(II)</enum>
+ <text>are responsive to the findings and recommendations in the report.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id5f075103979e409099ce491dad8eea17">
+                        <enum>(2)</enum>
+                        <header>Measures for consideration</header>
+ <text>In carrying out paragraph (1), the Secretary shall consider, and may effectuate, the following measures:</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id524c7055f45b4b069b12cf6bbe560266">
+                            <enum>(A)</enum>
+ <text>The establishment of minimum safety standards for all phases of carbon dioxide pipeline transportation.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idd36cdee73c7b4ea28937c8ad73ee7952">
+                            <enum>(B)</enum>
+ <text>The development of appropriate standards for the determination of—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="idf97c3e92089b49ab9ac325cdf43f2aeb">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a potential impact area, which may include the use of plume dispersion models and consideration of the impacts of local weather and topography;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id5137054cc8f646f2a728e084432fc1ad">
+                                <enum>(ii)</enum>
+ <text>the area in which a rupture may cause a sufficient concentration of carbon dioxide to create a risk of fatality;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idad65d9ad58554254976152717f5dde34">
+                                <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">high consequence areas;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id983956cb251947bdba710f936dcfaf98">
+                                <enum>(iv)</enum>
+ <text>pipeline segments that could affect high consequence areas; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id2fe1ab25976c41be84d61196aa7015f5">
+                                <enum>(v)</enum>
+ <text>the acceptable level of contaminants in the pipeline.</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id5ddcb8a3ddad4ba9a17e0fee2bc51dbf"> <enum>(C)</enum> <text>The development and required use of an effective, appropriate, and unique odorant, or other effective and appropriate means of leak detection, as determined through research and development.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id817fe53783a5448488f0d65b12521fd8">
+                            <enum>(D)</enum>
+ <text>The establishment of measures to ensure effective fracture propagation protection, including requirements relating to—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id5c50004da278464e9a16dcf13b68c407">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">material toughness; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="iddd561fe9d25141ceb34b1f49fa39c2d7"> <enum>(ii)</enum> <text display-inline="yes-display-inline">the use of fracture arrestors.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id3736c598cbaa470089bff34835037041">
+                            <enum>(E)</enum>
+ <text>The establishment of detailed safety standards for the conversion of existing pipelines for use in transporting carbon dioxide.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id74c137aaa8a849ec913eabf518696071">
+                            <enum>(F)</enum>
+ <text>The establishment of guidelines for emergency response plans and emergency responder training for carbon dioxide pipeline leaks, ensuring that the relevant portions of emergency response plans are available to relevant emergency responders.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id90014dd62e2042eeb0875b5b94256895">
+                        <enum>(3)</enum>
+                        <header>Other considerations</header>
+ <text>In carrying out paragraph (1), including with respect to the matters described in paragraph (2), the Secretary shall consider—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id2fe8637975664e9f8e54fb7fe08dc4a3">
+                            <enum>(A)</enum>
+ <text>which measures will ensure the maximum protection of—</text> <clause commented="no" display-inline="no-display-inline" id="id25307739c4d740efa84be5a5b59657e3"> <enum>(i)</enum> <text display-inline="yes-display-inline">public health;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id0e41bccff3c44a5ca3bd5468a6238dd0">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">pipeline integrity; and</text>
+                            </clause>
+                            <clause id="id4e9f94a141d14aaf82b1e47d51ae3194" commented="no" display-inline="no-display-inline">
+                                <enum>(iii)</enum>
+ <text>the environment and public safety, consistent with section 60102 of title 49, United States Code; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id7eca8d0a842444afbd1467f0efdf7d9d">
+                            <enum>(B)</enum>
+ <text>whether the measures are responsive to the findings and recommendations in the report.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id7dc476b4ce68430a8b763b601471713a">
+                    <enum>(c)</enum>
+                    <header>Other regulations</header>
+ <text>Not later than 2 years after the date of enactment of this Act, the Secretary shall promulgate regulations—</text>
+                    <paragraph id="id580befcb6a4f42edad166eb530fc4ef6">
+                        <enum>(1)</enum>
+ <text>requiring operators of carbon dioxide pipelines—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idd223f36a64e54a2b884dd1f35e2c5725"> <enum>(A)</enum> <text display-inline="yes-display-inline">to identify and assess geohazards during initial pipeline siting;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id4def969be73d46ecb5a46b122e4022bd">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to monitor for changes in hazardous conditions that could impact pipeline safety; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idadbcc58444c241b7bca89161e0c24e91">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">to take preventive and mitigative measures as appropriate;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="iddb1d3747f7004125b673e81e718cf62f">
+                        <enum>(2)</enum>
+ <text>establishing reporting requirements relating to—</text> <subparagraph commented="no" display-inline="no-display-inline" id="iddda37e3a46d84dbea23d79220ca73634"> <enum>(A)</enum> <text display-inline="yes-display-inline">the location of carbon dioxide pipelines and related facilities;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idfa33721423c74da9a688a4e634956e36">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the phase and material being transported through those pipelines, including the type and quantity of contaminants; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idecbd1aed2aa14a208f16d87186951a22">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">how those pipelines and contents are inspected;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idc4353d62c46d42fbaa735063711ebb05">
+                        <enum>(3)</enum>
+ <text>establishing standards and notification requirements for cases in which the material being transported by a carbon dioxide pipeline is not pure carbon dioxide;</text>
+                    </paragraph>
+                    <paragraph id="id467c8b1f5ba2403c843bd1d4ae847b74">
+                        <enum>(4)</enum>
+ <text>requiring operators of carbon dioxide pipelines to notify and coordinate with relevant Federal, State, local, and Tribal officials and responders when there is an incident or accident; and</text>
+                    </paragraph>
+                    <paragraph id="id993e6fcb81e8443fb3ab83382e8c7e45">
+                        <enum>(5)</enum>
+ <text>requiring operators of carbon dioxide pipelines to notify individuals within the relevant potential impact area of the hazards posed by carbon dioxide pipelines and measures to take in the event of a pipeline rupture.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idc8dacdb725ca4cb7bd920b41a8b413d6">
+                    <enum>(d)</enum>
+                    <header>Training and other resources</header>
+ <text>The Secretary shall provide training and other resources to relevant local emergency responders that is tailored specifically to carbon dioxide pipeline ruptures, including information on the potential impact area, any relevant odorants, the health implications of exposure to high concentrations of carbon dioxide, and the impact of high concentrations of carbon dioxide on vehicle functioning.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idf4dbb4c6ee204b89afaa2d367cea4143">
+                <enum>107.</enum>
+                <header>Blending in natural gas systems</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idcbb54e90a5884985a4ae3aa3aa6ada14">
+                    <enum>(a)</enum>
+                    <header>Study</header>
+ <text>The Comptroller General of the United States shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="id1607dfe04d644cc2a82911a3406cd4e4"> <enum>(1)</enum> <text display-inline="yes-display-inline">conduct a study of the short- and long-term safety, health, environmental, and climate change impacts and risks of blending hydrogen into existing natural gas systems; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idc2429301ad1a4ab68297c230ca13ebfb">
+                        <enum>(2)</enum>
+ <text>not later than 3 years after the date of enactment of this Act, submit to the Secretary and the appropriate committees of Congress a report describing the results of the study, including—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id7bca6032881b4c07a42d28eac32cfeee">
+                            <enum>(A)</enum>
+ <text>a description of any remaining knowledge gaps relating to safely moving hydrogen-methane blends through existing natural gas systems;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id52163932a1fc454881e401ef883bee05">
+                            <enum>(B)</enum>
+ <text>a description of the safety risks of hydrogen-methane blends in existing natural gas systems, including—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="idb820a3ae92bc4e399f61c883c5c6d585">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">leak rates of hydrogen-methane blends and associated environmental impacts;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idc7a3ab90646f42bf86c50cff0069680e">
+                                <enum>(ii)</enum>
+ <text>the performance of hydrogen-methane blends in existing residential, commercial, and industrial infrastructure; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id4904bba556d5434d9ad671eca0988902">
+                                <enum>(iii)</enum>
+ <text>underground migration of leaked hydrogen-methane blends;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idc4c21218ec9b4768bbef4b3941e86191">
+                            <enum>(C)</enum>
+ <text>a lifecycle analysis of hydrogen, including environmental and climate impacts and risks of blending hydrogen into existing natural gas systems, as compared to—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id222dfc1d2c8c4dbbb029cf050064d864">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the status quo; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="idc15d9f1f822b444ebe0c9e18a4524b02"> <enum>(ii)</enum> <text display-inline="yes-display-inline">other pathways for greenhouse gas emissions reduction; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb974cdfd8c444fa7a50fa28937735896">
+                            <enum>(D)</enum>
+ <text>recommendations to the Secretary for how to avoid or minimize risks determined under paragraph (1).</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id834c8b676f9a473c9dd151d323c0ecd8">
+                    <enum>(b)</enum>
+                    <header>Considerations</header>
+ <text>In conducting the study under subsection (a)(1), the Comptroller General of the United States shall take into consideration, at a minimum, the findings of the study on hydrogen blending commissioned by the California Public Utilities Commission and carried out by the University of California, Riverside, entitled <quote>Hydrogen Blending Impacts Study</quote> and dated July 18, 2022.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idb6387b8a05fb4130bb53ab169db1849f">
+                    <enum>(c)</enum>
+                    <header>Prohibition</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idaffeb54177434d89ab9e04d376b35746">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">No pipeline operator may transport any quantity of hydrogen, other than trace amounts present as a contaminant, through a natural gas distribution pipeline system under the jurisdiction of the Secretary unless and until Congress expressly provides, by statute, for the safe regulation of blending hydrogen into natural gas distribution pipeline systems.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id8c670be08e8c47b6aa3d9c9ca0002181">
+                        <enum>(2)</enum>
+                        <header>Application</header>
+ <text>The prohibition described in paragraph (1) shall not apply to natural gas distribution pipelines that—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ida179f6d4221840179d2541c944cbf6cb">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">have been specifically designed to transport hydrogen above trace levels; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idfbc0b8b7bcdb4943beb85057348f3c89">
+                            <enum>(B)</enum>
+ <text>have been transporting hydrogen above trace levels for at least 10 years as of the date of enactment of this Act.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id66d7b8437fd04f829f4a50eb9eec2553">
+                <enum>108.</enum>
+                <header>Extension and modification of Natural Gas Distribution Infrastructure Safety
+                    and Modernization Grant Program</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id2722b41abb63480c9ae904fca0b16175">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Modification</header>
+ <text display-inline="yes-display-inline">The matter under the heading <quote><header-in-text level="appropriations-small" style="appropriations">natural gas distribution infrastructure safety and modernization grant program</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-intermediate" style="appropriations">Pipeline and Hazardous Materials Safety Administration</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-major" style="appropriations">Department of Transportation</header-in-text></quote> in title VIII of division J of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>; 135 Stat. 1443) is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id5aee40ce817242d5ae30bfdb9807434f">
+                        <enum>(1)</enum>
+ <text>in the matter preceding the first proviso, by inserting <quote>(referred to under this heading in this Act as the <term>Secretary</term>)</quote> after <quote>Secretary of Transportation</quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7defb4165fcc4aa48c268e3daf180f65">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in the second proviso, by striking <quote>to repair, rehabilitate, or replace its natural gas distribution pipeline system or portions thereof or to acquire equipment to (1) reduce incidents and fatalities and (2) avoid economic losses</quote> and inserting <quote>to repair, rehabilitate, replace, or retire its natural gas distribution pipeline system or portions thereof or to acquire equipment to (1) reduce incidents and fatalities, (2) avoid economic losses, and (3) encourage non-emitting alternatives</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id8f9e34425b5141f8bad21b1c10f9751c">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">by inserting after the second proviso the following: <quote><italic>Provided further</italic>, That for purposes of the preceding proviso, the term <term>non-emitting alternative</term> means a technological or efficiency-related energy solution that does not entail the use of fossil fuels that are directly or indirectly related to the greenhouse effect, including electrification, renewable energy sources, networked geothermal systems, storage, efficiency, and behavior change: <italic>Provided further</italic>, That the promotion or encouragement of non-emitting alternatives (as defined in the preceding proviso) may include workforce training programs: <italic>Provided further</italic>, That in making grants from funds made available under this heading in this Act, the Secretary shall give additional consideration to an applicant if all workers employed or contracted by the applicant are paid wages at rates not less than those prevailing on projects of a similar character in the locality as determined by the Secretary of Labor in accordance with subchapter IV of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/31">chapter 31</external-xref> of title 40, United States Code, and to workforce training programs that comply with apprenticeship requirements similar to the apprenticeship requirements described in <external-xref legal-doc="usc" parsable-cite="usc/26/45">section 45(b)(8)</external-xref> of the Internal Revenue Code of 1986, as determined or established by the Secretary for purposes of making those grants:</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id3d82931355344d06a2252997bfe034a3">
+                    <enum>(b)</enum>
+                    <header>Requirement</header>
+ <text>Of the amounts made available by subsection (c) each fiscal year, not less than 20 percent shall be used for non-emitting alternatives (as defined in the third proviso under the heading <quote><header-in-text level="appropriations-small" style="appropriations">natural gas distribution infrastructure safety and modernization grant program</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-intermediate" style="appropriations">Pipeline and Hazardous Materials Safety Administration</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-major" style="appropriations">Department of Transportation</header-in-text></quote> in title VIII of division J of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>; 135 Stat. 1443)).</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idf16ff044971049d4b64c81c8cb615f23">
+                    <enum>(c)</enum>
+                    <header>Authorization of additional funding</header>
+ <text>There are authorized to be appropriated to carry out the Natural Gas Distribution Infrastructure Safety and Modernization Grant Program described under the heading <quote><header-in-text level="appropriations-small" style="appropriations">natural gas distribution infrastructure safety and modernization grant program</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-intermediate" style="appropriations">Pipeline and Hazardous Materials Safety Administration</header-in-text></quote> under the heading <quote><header-in-text level="appropriations-major" style="appropriations">Department of Transportation</header-in-text></quote> in title VIII of division J of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>; 135 Stat. 1443)—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id450a31fbdc7349b2b2d3392a62a1b40d">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">$200,000,000 for fiscal year 2027, to remain available until September 30, 2036;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7BFA7BFAD5FD491F9DBC5932A2DA7B47">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">$200,000,000 for fiscal year 2028, to remain available until September 30, 2037;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id0A75C5A50B9B4B328F5B8388B8B64A79">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">$200,000,000 for fiscal year 2029, to remain available until September 30, 2038;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id31BD09A8190443F7B2505BC656979FCD">
+                        <enum>(4)</enum>
+ <text display-inline="yes-display-inline">$200,000,000 for fiscal year 2030, to remain available until September 30, 2039; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2E532540403F48EF82AB628A23F91057">
+                        <enum>(5)</enum>
+ <text display-inline="yes-display-inline">$200,000,000 for fiscal year 2031, to remain available until September 30, 2040.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id773e98377452469d852dcf240e30173f">
+                <enum>109.</enum>
+                <header>Rulemaking on underground natural gas storage</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id5190461950df456eaa27a703a5e56981">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, the Secretary shall promulgate new, or revise existing, regulations to address underground natural gas storage.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idce287db4761440f088554679f245134d">
+                    <enum>(b)</enum>
+                    <header>Requirement</header>
+ <text>In carrying out subsection (a), the Secretary shall review and consider relevant technical and scientific information on the safety of underground natural gas storage, including the most recently updated version of each of the following:</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id48706484b913459287d2fea1d1bd4e36">
+                        <enum>(1)</enum>
+ <text>The standard of the American Petroleum Institute entitled <quote>Design and Operation of Solution-mined Salt Caverns used for Natural Gas Storage</quote> and numbered API Recommended Practice 1170.</text>
+                    </paragraph>
+                    <paragraph id="id8d2d4d1ce4cc411385f2181ec545bd84">
+                        <enum>(2)</enum>
+ <text>The standard of the American Petroleum Institute entitled <quote>Functional Integrity of Natural Gas Storage in Depleted Hydrocarbon Reservoirs and Aquifer Reservoirs</quote> and numbered API Recommended Practice 1171.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id165dac2b35a8415ab80d920fd42b4956">
+                    <enum>(c)</enum>
+                    <header>Topics</header>
+ <text>In carrying out subsection (a), the Secretary shall review and consider updates to existing regulations relating to risk management, emergency response, and ensuring that underground natural gas storage wells do not pose undue risks from single points of failure.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="idfe02ae95f3834ddebf2132d058038d06" style="OLC">
+            <enum>II</enum>
+            <header>Public engagement and transparency</header>
+            <section id="id067eccf8d6184e47b70e351dbd0803a1">
+                <enum>201.</enum>
+                <header>Office of Public Engagement</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id92b46455fa0e4ecf97580b30f4f90c8c">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 108 of title 49, United States Code, is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7be38613da034d62b750009cdeb987c3">
+                        <enum>(1)</enum>
+ <text>in subsection (a), by inserting <quote>(referred to in this section as the <term>Administration</term>)</quote> after <quote>Safety Administration</quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ide4b76e98a316428a888c2c3a67daab22">
+                        <enum>(2)</enum>
+ <text>in subsection (c), in the first sentence, by inserting <quote>(referred to in this section as the <term>Administrator</term>),</quote> after <quote>shall be the Administrator</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id039e0a557ea747f1bd24b57d8aea8a9b">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id5426E8A1F3954C6299229F38DE83AD67">
+                            <subsection commented="no" display-inline="no-display-inline" id="idfa29fbf32e7c40d5b524e6e5681c0173">
+                                <enum>(h)</enum>
+                                <header>Office of Public Engagement</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id6ade036d827e49298622aefb51cc870b">
+                                    <enum>(1)</enum>
+                                    <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this subsection:</text> <subparagraph commented="no" display-inline="no-display-inline" id="id75ffc3340f464bb5ab4bad7259b7ff65"> <enum>(A)</enum> <header>Appropriate committees of Congress</header> <text>The term <term>appropriate committees of Congress</term> has the meaning given the term in section 2 of the <short-title>Pipeline Accountability Act of 2025</short-title>.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id584f04fca659467296df5fd13a94053f">
+                                        <enum>(B)</enum>
+                                        <header>Covered facility</header>
+ <text>The term <term>covered facility</term> means—</text> <clause commented="no" display-inline="no-display-inline" id="idb53093e8a0594659b96da8f2f445f462"> <enum>(i)</enum> <text display-inline="yes-display-inline">a covered pipeline (as defined in section 60109(c)(12)(A));</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id72ea4134e6254c1f842e75b415a5c20a">
+                                            <enum>(ii)</enum>
+ <text>a liquefied natural gas pipeline facility (as defined in section 60101(a)); and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id227d11f731d24577a81b630369d3db90">
+                                            <enum>(iii)</enum>
+ <text>an underground natural gas storage facility (as defined in section 60101(a)).</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id7ba834757f7c441f81fbee2acb09de02">
+                                        <enum>(C)</enum>
+                                        <header>Director</header>
+ <text>The term <term>Director</term> means the Director of the Office appointed under paragraph (3).</text>
+                                    </subparagraph>
+                                    <subparagraph id="idb71d2ff3a18e43b7aa4e2982936a74f5">
+                                        <enum>(D)</enum>
+                                        <header>Environmental justice community</header>
+ <text>The term <term>environmental justice community</term> means a community with significant representation of communities of color, low-income communities, or Tribal and Indigenous communities, that experiences, or is at risk of experiencing, higher or more adverse human health or environmental effects.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id689A87DD15D1451AAFA97C59F77906FF">
+                                        <enum>(E)</enum>
+                                        <header>Incident</header>
+ <text>The term <term>incident</term> has the meaning given the term in section 191.3 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id1661d6d9d23146cdbab79599db146cd9">
+                                        <enum>(F)</enum>
+                                        <header>Low-income community</header>
+ <text display-inline="yes-display-inline">The term <term>low-income community</term> means a census block group in which 30 percent or more of the population are individuals with an annual household income equal to, or less than, the greatest of—</text>
+                                        <clause id="id06284fcde35545c9ab3b0b96e3337af7">
+                                            <enum>(i)</enum>
+ <text>an amount equal to 80 percent of the median income of the area in which the household is located, as reported by the Department of Housing and Urban Development;</text>
+                                        </clause>
+                                        <clause id="id11ef0a81890a4f71967093a80927aea7">
+                                            <enum>(ii)</enum>
+ <text>200 percent of the Federal poverty line; and</text>
+                                        </clause>
+                                        <clause id="idb2606bac3d874414870282ec1c6afa51">
+                                            <enum>(iii)</enum>
+ <text>a level of income higher than the levels described in clauses (i) and (ii), as determined by the Secretary.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id9bf2e5f4ce754345b6e6f54045215eef">
+                                        <enum>(G)</enum>
+                                        <header>Office</header>
+ <text>The term <term>Office</term> means the Office of Public Engagement of the Administration established under paragraph (2).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id9ecc04583bf24c1e9ea79afe35292e50">
+                                    <enum>(2)</enum>
+                                    <header>Establishment</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idf5883977871f48a9993ae59c764bc1cc">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this subsection, the Administrator shall establish within the Administration an office, to be known as the <quote>Office of Public Engagement</quote>.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idb42f63d003eb4f8d80bf0ebb3e5fbc2b">
+                                        <enum>(B)</enum>
+                                        <header>Process</header>
+ <text display-inline="yes-display-inline">Before establishing the Office under subparagraph (A), the Administrator shall—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="idd20f69a2459d4af2a207025aa6e450fc">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">seek and incorporate public input regarding the responsibilities of the Office, including through in-person public meetings, prioritizing input from individuals without financial interests in the pipeline, petroleum, ethanol, or gas industries, including environmental justice communities and experts in community engagement; and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id56ea444efb3a420c94cfc0d0d9f9c804">
+                                            <enum>(ii)</enum>
+ <text>submit to the appropriate committees of Congress a summary of the input received pursuant to clause (i) and an explanation of how that input will be integrated into the establishment of the Office.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="ideee9eccbc64940158d0e6ccca4cb50a8">
+                                        <enum>(C)</enum>
+                                        <header>Compensation</header>
+ <text display-inline="yes-display-inline">The Administrator may provide reasonable compensation for those providing input pursuant to subparagraph (B) in order to facilitate the participation of environmental justice communities.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id0b4dddf54e6e464ba21cd5ea3b59e780">
+                                    <enum>(3)</enum>
+                                    <header>Director</header>
+ <text>The Office shall be headed by a Director, who shall—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6d7b34f0dd9549cda132fc3836c397b0">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">be appointed by the Administrator;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="ida8172750750d46b9a6e4eb29791bdcb7">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">report to the Associate Administrator for Pipeline Safety; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id40cac5e46b994ca395520e882ac5f17c">
+                                        <enum>(C)</enum>
+ <text>be responsible for the discharge of the functions and duties of the Office.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id99fbe1ba62e64455ad703fe3b098a5c8">
+                                    <enum>(4)</enum>
+                                    <header>Employees</header>
+ <text>The Director may appoint, and assign the duties of, employees of the Office.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id995f6cffd5a0411f8357aa099b6fbb16">
+                                    <enum>(5)</enum>
+                                    <header>Duties and functions of the Office</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id079ec065452042dea7c6cb3f8fbef92d">
+                                        <enum>(A)</enum>
+                                        <header>Coordination of assistance</header>
+ <text>The Director shall coordinate the provision of assistance, including financial assistance, technical assistance, and educational assistance to the public, with respect to the authorities exercised by the Administration, including by proactive and targeted community outreach that incorporates—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="idd3b86c1d703049c98b1d346bf82b7ed3">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">accessible communications;</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="ida38bbf17567b485f95afc89fb96ce742">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the provision of in-person and online communications; and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id0a0f494e85914606baeeb5998eae2783">
+                                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">translations to languages spoken by impacted populations.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idd688a5d84ab5410ebe1d2a467fda5e13">
+                                        <enum>(B)</enum>
+                                        <header display-inline="yes-display-inline">Public
+                                            engagement</header>
+ <text display-inline="yes-display-inline">The Director shall coordinate active and ongoing engagement with the public with respect to the authority and activities of the Administration, including by—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id3cd4e3781d4b488ba3a87aecb6e60d9c">
+                                            <enum>(i)</enum>
+ <text>conducting—</text> <subclause commented="no" display-inline="no-display-inline" id="idcb2001fea3dc4b668cc79f33748468be"> <enum>(I)</enum> <text display-inline="yes-display-inline">proactive outreach, which may include public postings, signage at relevant physical locations, newspaper publications, utility bill inserts, mailings, phone calls, canvassing, and door hangers, to communities, especially environmental justice communities, using varied media; and</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id7913c09b9f454d588ce5b587ba7eac54">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">meetings, set at times and places to maximize the number of community members who can conveniently attend, with appropriate services, including, if the Director determines it would have a meaningful impact on participation by members of affected environmental justice communities—</text>
+                                                <item commented="no" display-inline="no-display-inline" id="idd8049c2c9cbe4fc39a1652802daa59c1">
+                                                  <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">translation and interpreting services;</text> </item> <item commented="no" display-inline="no-display-inline" id="idaf6a3e95ed7d421f89c9e1186185dc90"> <enum>(bb)</enum> <text display-inline="yes-display-inline">virtual attendance; and</text>
+                                                </item>
+                                                <item commented="no" display-inline="no-display-inline" id="ida926e39a11ae4aa2a91e9a8ecb8638af">
+                                                  <enum>(cc)</enum>
+ <text display-inline="yes-display-inline">reasonable funding for transportation to and from meetings, food, and caregiving;</text>
+                                                </item>
+                                            </subclause>
+                                        </clause>
+                                        <clause id="id62b3c5fc65ff4b40ae8df47f4c702c18">
+                                            <enum>(ii)</enum>
+ <text>establishing an independent, neutral, accessible, confidential, and standardized process to receive, review, process, and follow up on inquiries, complaints, and allegations with respect to the activities of the Administration and entities regulated by the Administration, including with respect to cracks and leaks in pipeline infrastructure identified by workers and community members;</text>
+                                        </clause>
+                                        <clause id="id254215f2c3784f96bbba2e6a319ffd06">
+                                            <enum>(iii)</enum>
+ <text>assisting individuals in responding to and resolving inquiries, complaints, and allegations described in clause (ii);</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id04b5c33bc9df4648a0c3b01dc39b0394">
+                                            <enum>(iv)</enum>
+ <text>making publicly available, and proactively disseminating, information on the manner in which members of the public may file inquiries, complaints, and allegations;</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id9dcc176d804e4a4b8259e84e6f7ef147">
+                                            <enum>(v)</enum>
+ <text>coordinating with the Federal Energy Regulatory Commission, State agencies, and, as necessary, other agencies to direct public inquiries that are not within the jurisdiction of the Administration to the relevant agency;</text>
+                                        </clause>
+                                        <clause id="idc5dce9da74a74179acbc312d71677e36">
+                                            <enum>(vi)</enum>
+ <text>preparing, and making publicly available in accessible formats, educational materials about the Administration, the responsibilities of the Administration, and how those responsibilities interact with entities under the jurisdiction of the Administration and other Federal, State, local, or Tribal government agencies;</text>
+                                        </clause>
+                                        <clause id="idcf486cddb57b4d12add4de4bb90e3d54">
+                                            <enum>(vii)</enum>
+ <text>assisting local first responders, local officials, and community members—</text>
+                                            <subclause commented="no" display-inline="no-display-inline" id="idb66ea6fe0f8340b5bf4bfc6067d09909">
+                                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to develop their own emergency management plans; and</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="ide64379c5d832447f8146959dc5563dfa">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">to prepare to respond to all potential adverse scenarios relating to covered facility malfunctions, including to evacuate on short notice if necessary; and</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause id="id1e31121f8fcf4d5b83e217b7c08af288">
+                                            <enum>(viii)</enum>
+ <text>making publicly available, and proactively disseminating, information on local evacuation plans to the surrounding community.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id441bd89158814a5f9f205591f58f0e92">
+                                        <enum>(C)</enum>
+                                        <header>Post-incident support</header>
+ <text display-inline="yes-display-inline">The Director shall facilitate, including by directing impacted individuals to the appropriate agency and coordinating with relevant counterparts at other agencies, appropriate remediation, environmental testing, and assistance with compensation in the case of leaks, incidents, accidents, or other relevant events.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id021d36f6d54c47a7bcb936fc361d8834">
+                    <enum>(b)</enum>
+                    <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to the Secretary to carry out section 108(h) of title 49, United States Code, $12,000,000 for each of fiscal years 2025 through 2028.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idc35a558015fc4374936e1d76613fd34a">
+                <enum>202.</enum>
+                <header>Public hearings on proposed rules</header>
+ <text display-inline="no-display-inline">Section 60104 of title 49, United States Code, is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id143ba846da8045378941063da37c4f5a">
+                    <enum>(1)</enum>
+ <text>in subsection (a)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id540df2470e714a6daae4d4a7abbdcf1e"> <enum>(A)</enum> <text>by striking <quote>The Secretary of Transportation</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idd028f0c989cb479d92e303410e72efe2">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id2d6b5884305d4e5e9df4a8a97a3c2eb4">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id89c81462b97344d2bf346c8d8b86a6b9"> <enum>(B)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id3442e173364a4abcba7681d9f1a48005">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id6cfd6e31c3ea457dbbc304580832f056">
+                                <enum>(2)</enum>
+                                <header>Public hearings</header>
+ <text>In proposing rules under this chapter, including revisions to those rules, the Secretary shall hold at least 1 public hearing to address each proposed rule or revision.</text>
+                            </paragraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb0d21576e1c748b29aa08f46273dca5b">
+                    <enum>(2)</enum>
+ <text>in each of subsections (d)(1) and (e), by striking <quote>Secretary of Transportation</quote> each place it appears and inserting <quote>Secretary</quote>.</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idad7f6b6eadd14bf6a2e8105ba192b692">
+                <enum>203.</enum>
+                <header>Disclosure of safety data</header>
+ <text display-inline="no-display-inline">Section 60132 of title 49, United States Code, is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6bd704ef9e404576a45cd655fec106ce">
+                    <enum>(1)</enum>
+ <text>in subsection (b), by striking <quote>subsection (a)</quote> and inserting <quote>subparagraph (A)</quote>;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7892588ff4af4c9d9779ff03c657ec5c">
+                    <enum>(2)</enum>
+ <text>by redesignating subsection (b) as subparagraph (C) and indenting appropriately;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id314d92b59f764ec4868cbeaf3c9aafbe">
+                    <enum>(3)</enum>
+ <text>in subsection (a)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id2c1f4090fc1f4baca02a769b672cf049"> <enum>(A)</enum> <text>in paragraph (4), in the second sentence, by striking <quote>The Secretary</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idA2B495B1D960427EB119F4E284D70EB5">
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idaf7ddef373f34dde85bd356c475a2de8">
+                                <enum>(B)</enum>
+                                <header>Notice requirement</header>
+ <text>With respect to data requested from operators under subparagraph (A)(vi), the Secretary</text>
+                            </subparagraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd49d763a16d247e59926cb2a6dfbb1aa">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by redesignating paragraphs (1) through (4) as clauses (i), (ii), (v), and (vi), respectively, and indenting appropriately;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbc3a33ae356d4e0aa26a15df8976013d">
+                        <enum>(C)</enum>
+ <text>by inserting after clause (ii) (as so redesignated) the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id82A1D63B7AFB43F9AF556B8E0D0B05F8">
+                            <clause commented="no" display-inline="no-display-inline" id="idefb4fbb118ce4dd782a6ff2aa3922bc9">
+                                <enum>(iii)</enum>
+ <text>Information on the matters described in paragraph (2)(E).</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id67674919639243adbd91652af80b91e2">
+                                <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">The location and type of any valves installed on the pipeline.</text>
+                            </clause>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7e72e62a13fa4463b33f193f8218947e">
+                        <enum>(D)</enum>
+ <text>in the matter preceding clause (i) (as so redesignated)—</text> <clause commented="no" display-inline="no-display-inline" id="id8fa56fe5d49f4978ba7e7b54165129a1"> <enum>(i)</enum> <text>by striking <quote>and gathering lines</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id50f9d61d788847ce928f3ca215f6871a">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>of Transportation</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="iddbb3a8bad8f246eabee7e1127cd9a2a3">
+                            <enum>(iii)</enum>
+ <text>by striking the subsection designation and heading and all that follows through <quote>this section, the</quote> and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id881B6E72FF2242B381029EACA7A7756F">
+                                <subsection commented="no" display-inline="no-display-inline" id="idcc595acd8e3b48058d5e59b0242bbaab">
+                                    <enum>(a)</enum>
+                                    <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="ida2a5dbc627cf451f9e43a1abb1d03cee"> <enum>(1)</enum> <header>Class location</header> <text>The term <term>class location</term> means a class location described in section 192.5 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="id79ce8b11fb634106bfe3cddbb90ab37e">
+                                        <enum>(2)</enum>
+                                        <header>Covered facility</header>
+ <text>The term <term>covered facility</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id00c390249b004af78e5f321b74a44514"> <enum>(A)</enum> <text display-inline="yes-display-inline">a covered pipeline (as defined in section 60109(c)(12)(A));</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id691d5d6b3e9f4272a5a398e5775ad1e8">
+                                            <enum>(B)</enum>
+ <text>a liquefied natural gas pipeline facility; and</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id12b171598c72414ab0ef7297dccf02f2">
+                                            <enum>(C)</enum>
+ <text>an underground natural gas storage facility.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="id1F11A1689D344F0697C460516DF2BE49">
+                                        <enum>(3)</enum>
+                                        <header display-inline="yes-display-inline">High consequence
+                                            area</header>
+ <text>The term <term>high consequence area</term> means—</text>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id374A9CD216D94A09968705074D9ADD53">
+                                            <enum>(A)</enum>
+ <text>with respect to a gas pipeline facility, a high consequence area (as defined in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation)); and</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id0814B313F1204A318840D500E16613E1">
+                                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">with respect to a hazardous liquid pipeline facility or relevant carbon dioxide pipeline facility, a high consequence area (as defined in section 195.450 of title 49, Code of Federal Regulations (or a successor regulation)).</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="id080a0e02215c4101af09692305301cd8">
+                                        <enum>(4)</enum>
+                                        <header>Maximum allowable operating pressure</header>
+ <text>The term <term>maximum allowable operating pressure</term> has the meaning given the term in section 192.3 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="ide13fb3277ab14eaeb34c31728ab2441c">
+                                        <enum>(5)</enum>
+                                        <header>Maximum operating pressure</header>
+ <text display-inline="yes-display-inline">The term <term>maximum operating pressure</term> has the meaning given the term in section 195.2 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="idd759c20562d74c0784c77ec8f60aebc7">
+                                        <enum>(6)</enum>
+                                        <header>Moderate consequence area</header>
+ <text>The term <term>moderate consequence area</term> has the meaning given the term in section 192.3 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="id6d1400cf55314dbda14ffcc889c45fde">
+                                        <enum>(7)</enum>
+                                        <header>Potential impact area</header>
+ <text>The term <term>potential impact area</term> means the area in which the potential failure of a pipeline may be expected to have a significant impact on persons, property, or the environment (as defined in section 2 of the <short-title>Pipeline Accountability Act of 2025</short-title>).</text>
+                                    </paragraph>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="iddbe56e3491ac4c449119d50ec6f0b9d6">
+                                        <enum>(8)</enum>
+                                        <header>Potential impact radius</header>
+ <text>The term <term>potential impact radius</term> has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation).</text>
+                                    </paragraph>
+                                </subsection>
+                                <subsection commented="no" display-inline="no-display-inline" id="id620709b4c7184fc6827e43d7e6df707e">
+                                    <enum>(b)</enum>
+                                    <header display-inline="yes-display-inline">Information To be
+                                        provided</header>
+                                    <paragraph commented="no" display-inline="no-display-inline" id="idae54ee5fabc149d88bc3b922aace9bae">
+                                        <enum>(1)</enum>
+                                        <header display-inline="yes-display-inline">Information to
+                                            be provided to the Secretary</header>
+                                        <subparagraph commented="no" display-inline="no-display-inline" id="id263d77a4dde947059cd178239cca2587">
+                                            <enum>(A)</enum>
+                                            <header>In general</header>
+ <text display-inline="yes-display-inline">The</text> </subparagraph> </paragraph> </subsection> <after-quoted-block>;</after-quoted-block> </quoted-block> </clause> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id44f498b339984c84bd93b8e761da5c4a"> <enum>(4)</enum> <text display-inline="yes-display-inline">in subsection (b) (as so designated), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id102BB3A4A0FA47C7943BCF6901DB1B39">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id898f688d2d1c441cb51cc91295b4a4a7">
+                            <enum>(2)</enum>
+                            <header>Information to be provided to the public</header>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id49ce2a9887df4f74acf9234339806b52">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, each operator of a covered facility shall provide to the public, free of charge, on a publicly accessible website, in a simple and consolidated form—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id4d0333741ce2429fbd2444b761c7495e">
+                                    <enum>(i)</enum>
+ <text>information about the substances being transported by pipelines managed by the operator, including any blended products, any relevant odorants, and any contaminants;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id0577d8a32f834f23aa99c8232680ae22">
+                                    <enum>(ii)</enum>
+ <text>the plans that have been made for the decommissioning of—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idb79f3255e25f4a1688c5437c52fbfc9d">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">each abandoned pipeline of the operator; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id1bb113ffd2164c3c9b14f039fe5a26a3">
+                                        <enum>(II)</enum>
+ <text>each removed or remediated pipeline of the operator;</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id4c70d99036c24f30b4b7996b068220b0">
+                                    <enum>(iii)</enum>
+ <text>contact information for the operator and the Pipeline and Hazardous Materials Safety Administration;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idcc319ec5fe2742e0a033da3cc31620dd">
+                                    <enum>(iv)</enum>
+ <text>relevant portions of operator emergency response plans needed by the public to prepare State, local, commercial, nonprofit, and personal emergency response plans;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id91f7f7a7dcf54aa1a11c3e37f5566e8a">
+                                    <enum>(v)</enum>
+ <text>information about how far buildings are required to be set back from a pipeline; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id722ba06a8e8e4353a8fd6315cf42c90a">
+                                    <enum>(vi)</enum>
+ <text>for carbon dioxide pipelines—</text> <subclause commented="no" display-inline="no-display-inline" id="id048c269cc10446abb2ff6a412222f153"> <enum>(I)</enum> <text display-inline="yes-display-inline">the results of any dispersion modeling performed; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id2cb6a844e44741429e930ecf58ebb8e1">
+                                        <enum>(II)</enum>
+ <text>any estimates of the zone in which carbon dioxide concentrations could be fatal in the event of a pipeline rupture.</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ide440d5a6086b47ef8fb73cd748c078f3">
+                                <enum>(B)</enum>
+                                <header>Updates</header>
+ <text>The information provided under subparagraph (A) shall be updated as necessary, but not less frequently than once each year.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id7a844010987e404c94d64e273018ce9b">
+                                <enum>(C)</enum>
+                                <header>Annual notification</header>
+                                <clause commented="no" display-inline="no-display-inline" id="id7b8b459b596c4a15b17bb693c6cdff15">
+                                    <enum>(i)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Each operator of a covered facility shall, not less frequently than annually, provide to the recipients described in clause (ii) a notification that includes all information described in subparagraph (A) with respect to the covered facility.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id3fc461ed9284474980c2c2c84f6e0e87">
+                                    <enum>(ii)</enum>
+                                    <header>Recipients described</header>
+ <text>The recipients referred to in clause (i) are—</text> <subclause commented="no" display-inline="no-display-inline" id="idaaadcccd52644e75a291482506b4b2fb"> <enum>(I)</enum> <text display-inline="yes-display-inline">the Secretary;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idd17df455f4a24e14abb8fb108524b545">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the owners of all occupied residences and operational commercial structures that, in the determination of the Secretary, could be impacted by a rupture or explosion of the applicable covered facility;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idebd30b8bef564945ab68618d104e929e">
+                                        <enum>(III)</enum>
+ <text display-inline="yes-display-inline">any tenants of those structures; and </text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idf2f84a4450cd4ed58e3f5855fa8b984f">
+                                        <enum>(IV)</enum>
+ <text display-inline="yes-display-inline">relevant first responders.</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id7ac8ecd2c56a4f3591d611fbde520067">
+                                    <enum>(iii)</enum>
+                                    <header>Requirement</header>
+ <text>A notification under clause (i) shall include—</text> <subclause commented="no" display-inline="no-display-inline" id="idf60898cc329448dabcac822180e72cd7"> <enum>(I)</enum> <text display-inline="yes-display-inline">a description of the changes from the previous notification provided under that clause, if applicable;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id1938a3f4de124f8094256315cac2d7a5">
+                                        <enum>(II)</enum>
+ <text>a statement of the relevant—</text> <item commented="no" display-inline="no-display-inline" id="id63d54cc1c6784dbfbe8d3de336a9239d"> <enum>(aa)</enum> <text display-inline="yes-display-inline">legal duties of the operator; and </text>
+                                        </item>
+                                        <item commented="no" display-inline="no-display-inline" id="id354b2d1a6d5d45c78ad3fe3f8bd400ee">
+                                            <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">legal rights of, as applicable—</text>
+                                            <subitem commented="no" display-inline="no-display-inline" id="id49d30a3cd7e1413d9a97d9e516fe7072">
+                                                <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">the owners and residents of the occupied residences; or</text>
+                                            </subitem>
+                                            <subitem commented="no" display-inline="no-display-inline" id="id0cde2cc58f4547c7b5842a8ffc7b74fb">
+                                                <enum>(BB)</enum>
+ <text display-inline="yes-display-inline">the owners, tenants, and manager of the operational commercial structure; and</text>
+                                            </subitem>
+                                        </item>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id6ebf2594141944a4b5a002c6de622729">
+                                        <enum>(III)</enum>
+ <text>a statement informing the recipient of the additional information that the recipient may request under subparagraph (D).</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id02926a8ffac64e4a880037253834b61e">
+                                <enum>(D)</enum>
+                                <header>Additional information</header>
+ <text>On the request of any person, an operator of a pipeline facility shall provide to that person—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id631b03bb96c54070920a8edc0c325fc9">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the information described in subparagraph (A) with respect to all pipeline facilities of the operator; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id1a6013172d9345caa08f3817b14e75b2">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">pipeline safety information, including— </text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="ide7b1f894b80042de8685fea72509fca0">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">information on the matters described in subparagraph (E) with respect to each pipeline facility operated by the operator;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id990a9203d07d49ddb70cbd563a89bd06">
+                                        <enum>(II)</enum>
+ <text>educational material relating to the matters described in that subparagraph to better inform the public about the information disclosed under subclause (I), provided in a simple and consolidated form; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idb81feda455c14c4fbf00f95768c8a0f5">
+                                        <enum>(III)</enum>
+ <text display-inline="yes-display-inline">a description of how the information described in subclause (I) was acquired or determined, including any formulas used and any tests carried out.</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idd7c7652563c64c6e99a69a8ee42e3204">
+                                <enum>(E)</enum>
+                                <header>Matters described</header>
+ <text>The matters referred to in subparagraph (D)(ii)(I) and paragraph (1)(A)(iii) include—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="ide63a7fcaaf4d410387b4330bc8e6c314">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">high consequence areas;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id9dbbe316726641b4871936601ea3eb13">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">moderate consequence areas;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idb7012881794a4f13ac22ca92fde16a13">
+                                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">potential impact radii and potential impact areas;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id4ac731cd7ef041dc9c6c9082a678b016">
+                                    <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">class locations;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idfcbc74064896479099843c1eaa1e80e1">
+                                    <enum>(v)</enum>
+ <text display-inline="yes-display-inline">pipe size;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id16954880e78c4dac8d5922c34424c513"> <enum>(vi)</enum> <text>the date of pipeline construction;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id8265fc5cd2614d9f816688e9bea145e2">
+                                    <enum>(vii)</enum>
+ <text>the history of incidents, accidents, and repairs on the pipeline;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id8c85aa9baf86490d9aa0f7e3d6b8c49c">
+                                    <enum>(viii)</enum>
+ <text display-inline="yes-display-inline">geohazards that may impact pipeline safety;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id405153cb9a84426aad715dd1ae9a7640">
+                                    <enum>(ix)</enum>
+ <text display-inline="yes-display-inline">pressure information, including—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id4bd6d5b188e34a88bd982424d388cea4">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">maximum operating pressure; and </text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id1612785690c247e683f6938dec43277a">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">maximum allowable operating pressure;</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id27bca4a0077f4f86ac42a5a4e1804eac">
+                                    <enum>(x)</enum>
+ <text display-inline="yes-display-inline">with respect to gathering lines, the types of gathering lines, including Type A, Type B, Type C, and Type R pipelines;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id80fddc3a03584729832861ebfc472219">
+                                    <enum>(xi)</enum>
+ <text>the health, safety, and environment management programs of the operator; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idd92e2cc90ee44243a551477079d294ae">
+                                    <enum>(xii)</enum>
+ <text>any other matter that—</text> <subclause commented="no" display-inline="no-display-inline" id="id9b5fb026f2b34c44a145fbe05ff2baa5"> <enum>(I)</enum> <text display-inline="yes-display-inline">relates to the safety and reliability of a pipeline facility under the jurisdiction of the Secretary; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id83c76be161214eafabe9006ad5abc2ce">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">in the determination of the Secretary, is in the public interest to be disclosed.</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id41c67a8a32564a8691d67e77288c09e3">
+                                <enum>(F)</enum>
+                                <header>Deadline</header>
+ <text>Not later than 90 days after receiving a request under subparagraph (D), an operator of a pipeline facility shall provide the information required to be disclosed under that subparagraph to the person making the request.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id4388756d6ab24e97927d3b3caa9b1898">
+                            <enum>(3)</enum>
+                            <header>Rulemaking</header>
+ <text>Not later than 2 years after the date of enactment of the <short-title>Pipeline Accountability Act of 2025</short-title>, the Secretary shall promulgate regulations to carry out this subsection, including providing for standardized formats for operators to release information to the public.</text>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4f833cde6e1a4e018ccbaa9a50eccb3e">
+                    <enum>(5)</enum>
+ <text>in subsection (d)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id52b135e2d4214d2b82c63dfcf9547a12"> <enum>(A)</enum> <text>in the subsection heading, by striking <quote><header-in-text level="subsection" style="USC">high-consequence</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="USC">high consequence</header-in-text></quote>;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id039d1e794c1b4f3ba700a35f51cfd034">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in paragraph (1)—</text> <clause commented="no" display-inline="no-display-inline" id="id48f285785899452f9eea64d56275bfc0"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>high-consequence areas (as described in section 60109(a))</quote> and inserting <quote>high consequence areas</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0dae40f22a304d10b7940fa4a71d1aaf">
+                            <enum>(ii)</enum>
+ <text>by striking <quote>and</quote> at the end;</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id3d4c37b6400f4d09acda045c76249afd"> <enum>(C)</enum> <text>in paragraph (2), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7f7911bc7c6d43bc9860f35c25e78b33">
+                        <enum>(D)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idF48DCEA21DB9460E9B00A5827088BB0E"> <paragraph commented="no" display-inline="no-display-inline" id="idb4717886fec546b398efe7aaf00cde88"> <enum>(3)</enum> <text>make the map available to the public on an internet website, in a machine-readable format, as part of the National Pipeline Mapping System Public Map Viewer or at an alternative location.</text>
+                            </paragraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8f70413040244519a699baf198395086">
+                    <enum>(6)</enum>
+ <text>in subsection (f), by striking <quote>subsection (a)</quote> and inserting <quote>subsection (b)(1)</quote>.</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id3e5f06f9aa734ea09581533cff23b44a">
+                <enum>204.</enum>
+                <header>Reporting of blended products</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id40b2c9ea5e15449aa9853802c3ea86ca">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>All operators of natural gas pipelines shall report to the Secretary blended, non-predominant products that exceed, at any point in time, 1 percent by volume of the product transported by the pipeline.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id34adeb39ffd64f6b894f3000d833c5b8">
+                    <enum>(b)</enum>
+                    <header display-inline="yes-display-inline">Rulemaking</header>
+ <text display-inline="yes-display-inline">The Secretary may promulgate new, or revise existing, regulations to implement the requirements of subsection (a).</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ide9617d37b39843c0bdbbb713b833c439">
+                <enum>205.</enum>
+                <header>Incident reporting for gas pipelines</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idc17fd8928967425f9aab5ac2633d80f8">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Definition of gas</header>
+ <text display-inline="yes-display-inline">In this section, the term <term>gas</term> has the meaning given the term in section 60101(a) of title 49, United States Code.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id8579a78a2c6a4a94a26461caa912c5f3">
+                    <enum>(b)</enum>
+                    <header>Rulemaking</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary shall promulgate new, or revise existing, regulations to require operators of gas pipelines—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4a097fefa6f445f38d2817d9e747c3f0">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">to meet incident reporting standards that require those operators to report all gas releases of 50,000 cubic feet or more, regardless of any intent of the operator or any other person with respect to the release; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4570e48106984f81a03fd3b1699802f2">
+                        <enum>(2)</enum>
+ <text>to report—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide3cc1bd116424149920f3ff7f8d3f4e3"> <enum>(A)</enum> <text display-inline="yes-display-inline">all incidents resulting in fire or explosion;</text>
+                        </subparagraph>
+                        <subparagraph id="id947b05be7fe04e98b451da33317e2ce1">
+                            <enum>(B)</enum>
+ <text>all incidents resulting in property damage of $50,000 or more in value; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb5e93929f68741b6b5c1ddf30bede153">
+                            <enum>(C)</enum>
+ <text>all incidents resulting in bodily harm to any person resulting in—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id3a60b03792e5457a8e99d4808a46516e">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">loss of consciousness;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id624fdae8260c4b3db9d54555b82d2016">
+                                <enum>(ii)</enum>
+ <text>necessity to carry a person from the scene;</text> </clause> <clause id="id4168e922601a4df7a089462ef744a965"> <enum>(iii)</enum> <text>necessity for medical treatment; or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id421f91cb4d1e4dadaeaa3aae51cf441a">
+                                <enum>(iv)</enum>
+ <text>disability that prevents the discharge of normal duties or the pursuit of normal duties beyond the day of the incident.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="iddbc464c987f54981a6920d10b9a8bc07" style="OLC">
+            <enum>III</enum>
+            <header>Accountability</header>
+            <section commented="no" display-inline="no-display-inline" id="id33091ab88eb64da9aebc2aafc4d43ced">
+                <enum>301.</enum>
+                <header>Prohibition against releases</header>
+ <text display-inline="no-display-inline">Section 60118(a) of title 49, United States Code, is amended—</text>
+                <paragraph id="idc9b83fb8826a4bb1b8aa97d9ca4b6451">
+                    <enum>(1)</enum>
+ <text>in paragraph (4), by striking the period at the end and inserting <quote>; and</quote>;</text>
+                </paragraph>
+                <paragraph id="id0513ce12bef8413a80c22aaca6d9d220">
+                    <enum>(2)</enum>
+ <text>by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and indenting appropriately;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3b4cde08f09d4a3a83f15e6f645a06eb">
+                    <enum>(3)</enum>
+ <text>in the matter preceding subparagraph (A) (as so redesignated), by striking <quote>facility shall—</quote> and inserting the following: “facility—</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idC7D6AC8F9942424EB643370A146A2F30">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id57acdeefadfe43c0849e2f41c7a7cf26">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">shall—</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id904c633d53304826b458d617618528ba"> <enum>(4)</enum> <text>by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idA5CC4FF9FE4D4328B1D2F4E5710CF37F">
+                        <paragraph commented="no" display-inline="no-display-inline" id="idedab0ca85a654b548036d9f30e0358c7">
+                            <enum>(2)</enum>
+ <text>shall not release gas or hazardous liquid from a pipeline facility in a quantity that would require the reporting of an incident or accident under a regulation prescribed under this chapter.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="ida4444317ab4d4f1cbe7e05f1362e1a66">
+                <enum>302.</enum>
+                <header>Actions by private persons</header>
+ <text display-inline="no-display-inline">Section 60121 of title 49, United States Code, is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc876c6cf2ad040538b3463030ae6355b">
+                    <enum>(1)</enum>
+ <text>in subsection (a)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id8d1e9c7be2b045bcbd5f6b70c42d4f57"> <enum>(A)</enum> <text>by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;</text>
+                    </subparagraph>
+                    <subparagraph id="id68781cb2e4f5467188cc0877326be52a">
+                        <enum>(B)</enum>
+ <text>in paragraph (1), by striking <quote>(1) A person</quote> and all that follows through <quote>However, the person</quote> in the second sentence and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id398DF22F39C54C3E9FBF47974678FAB8">
+                            <paragraph commented="no" display-inline="no-display-inline" id="idb158f7202d4540c4b90af1691493163b">
+                                <enum>(1)</enum>
+                                <header>Civil action</header>
+ <text>A person may bring a civil action in an appropriate district court of the United States for all appropriate relief, including civil penalties and injunctive relief, against—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="idbc530701664247faa75131a9fea23d58">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">another person (including the United States Government and other governmental authorities to the extent permitted under the 11th Amendment to the Constitution of the United States) for a violation of this chapter or a regulation prescribed or order issued under this chapter; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id22922c42f49046fe8263740ec7297f95">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this chapter that is nondiscretionary.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idd5d5ca3d8e8b4fc39abb1a4d666c44e3">
+                                <enum>(2)</enum>
+                                <header>Requirements and limitations</header>
+ <text display-inline="yes-display-inline">With respect to a civil action described in paragraph (1), a person</text>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb5d2f8c00e40492fbedbea0635473f95">
+                        <enum>(C)</enum>
+ <text>in paragraph (2) (as so designated), by indenting subparagraphs (A) through (C) appropriately;</text>
+                    </subparagraph>
+                    <subparagraph id="id18dbfb1e988d4fc6ac4fb23063ce34c8">
+                        <enum>(D)</enum>
+ <text>in paragraph (3) (as so redesignated), by striking the paragraph designation and all that follows through <quote>The Secretary shall</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id921837D28E974EAF998E1246B470128F">
+                            <paragraph id="id231e0c7fee674998a76f88777f9e8556">
+                                <enum>(3)</enum>
+                                <header>Notice</header>
+ <text>The Secretary shall</text> </paragraph> <after-quoted-block>;</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id11ff9324e3764613b14df081b2b31253"> <enum>(E)</enum> <text>in paragraph (4) (as so redesignated), by striking the paragraph designation and all that follows through <quote>The Secretary, with</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idD8AA85AD30E641BCAC4F64E9063825BA">
+                            <paragraph commented="no" display-inline="no-display-inline" id="idfb1cba110d144e42b854d2f7208109fb">
+                                <enum>(4)</enum>
+                                <header>Intervention</header>
+ <text>The Secretary, with</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idcc2150474bd24f6eb70205469f2da173"> <enum>(F)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idAF0A1134DC91438A8E8925EE0FA6F38E">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id2e83f1ab29314d6486337c99fa45afd6">
+                                <enum>(5)</enum>
+                                <header>Jurisdiction</header>
+ <text>The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idc6ef623e116447fa9e3940b2fd8676fd">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to enforce a pipeline safety standard or limitation established under this chapter;</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idfff7a97d8ded4c4393e3a3eceb75461b">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to enforce a regulation prescribed or order issued under this chapter;</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="ide6a35c523c6448d9949331d60f49bf4e">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">to order the Secretary to perform any act or duty under this chapter; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id7b514a0610d04c44add087316ad136d9">
+                                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">to impose any appropriate civil penalties under section 60122.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida087299f2e7846e78d29db9a1b5c9cdd">
+                    <enum>(2)</enum>
+ <text>in subsection (b)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idd0ac8adaa01d4361bfa064c6c02691af"> <enum>(A)</enum> <text>by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2a1de4e726794fe3b78a0b025b89612d">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding subparagraph (A) (as so redesignated), in the first sentence, by striking <quote>The court</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id56913D6D8095484294A0107893E2B442">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id5e42350c37564d2e8819e3ae5fcf5ba5">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The court</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id21154ecc68c941f3899efcc390f5045e"> <enum>(C)</enum> <text display-inline="yes-display-inline">in paragraph (1) (as so designated), in the matter preceding subparagraph (A) (as so redesignated), by striking, <quote>The court may award costs to</quote> in the second sentence and all that follows through <quote>In this subsection</quote> in the third sentence and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idB4C7F2B50D594731A19B0D9284555D8A">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id19261e72f58246a4a53da1179c56c7d8">
+                                <enum>(2)</enum>
+                                <header>Reasonable attorney’s fee</header>
+ <text>For purposes of paragraph (1)</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id7330511720574d26ae490ad7881e30f6"> <enum>(3)</enum> <text>by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id6A59E359D5E34CEC8D38068B9B3A5496">
+                        <subsection commented="no" display-inline="no-display-inline" id="id46baed9e3f594cb4ae023baaca1bd854">
+                            <enum>(e)</enum>
+                            <header>Venue; intervention by the
+                                <enum-in-header>S</enum-in-header>ecretary</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id59f0dfd3830249a48a62896e05f35b3b">
+                                <enum>(1)</enum>
+                                <header>Venue</header>
+ <text display-inline="yes-display-inline">Any action under this section may be brought in—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id0084fa436edb461ba91be54cc633eef7">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the district court of the United States for the judicial district in which the violation occurred; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id8a1089882ece41e1a4f8f0ab64a49ab0">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the United States District Court for the District of Columbia.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idc240375563b748fea237b7afd9c62581">
+                                <enum>(2)</enum>
+                                <header>Intervention by the
+                                    <enum-in-header>S</enum-in-header>ecretary</header>
+ <text>If the Secretary is not a party to an action described in paragraph (1), the Secretary may intervene in that action as a matter of right.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="idba2f732eb2d84cc5ae26bff0f50b8b23">
+                            <enum>(f)</enum>
+                            <header>Nonrestriction of other rights</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id4628f76794d1442fb281aa802703f8a0">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as otherwise limited by section 60104(c), nothing in this section restricts any right that any person (or class of persons) may have under any statute or the common law—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id78cf195098654464979a616602f4b2c0">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to seek enforcement of any standard or limitation; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idee920d38c1b84123b4a8a6f391aaf0f6">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to seek any other relief (including relief against the Secretary or a State agency).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id7f4adb940e8847ae801a4624188aed02">
+                                <enum>(2)</enum>
+                                <header>State, local, and interstate authority</header>
+ <text display-inline="yes-display-inline">Except as otherwise limited by section 60104(c), nothing in this section shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—</text>
+                                <subparagraph id="iddce016a464c649b1b3b2714e8369cbc5">
+                                    <enum>(A)</enum>
+ <text>bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court; or</text>
+                                </subparagraph>
+                                <subparagraph id="id8243fab3cb9d4152bcfd670843d19092">
+                                    <enum>(B)</enum>
+ <text>bringing any administrative enforcement action or obtaining any administrative remedy or sanction in any State or local administrative agency, department, or instrumentality under any State or local law relating to pipeline safety against—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id735961c49b934572b87535d0b7a3dde7">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the United States;</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id55a57bbd7972472db07e1e3b756916f2">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any department, agency, or instrumentality of the United States; or</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idee41726ab7224a0babb6a43cccdc8f6a">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">any officer, agent, or employee of the United States.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id4fcd84a9f0854d25b9776b9bb51d9b57">
+                <enum>303.</enum>
+                <header>Penalties</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id4b079d6e525a438dbfaf3d9dc4630119">
+                    <enum>(a)</enum>
+                    <header>Maximum civil penalty for a related series of violations</header>
+ <text>Section 60122(a)(1) of title 49, United States Code, is amended by striking the third sentence.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id48566dc78ecd44ec978d57ecb7b9da14">
+                    <enum>(b)</enum>
+                    <header>Rulemaking</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary shall revise subpart B of part 190 of title 49, Code of Federal Regulations, in accordance with the amendment made by subsection (a).</text>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

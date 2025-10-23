@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MDM25H91-3XF-2F-MKV">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2553 IS: Protect Our Communities from DUIs Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2553</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250730">July 30, 2025</action-date>
+            <action-desc><sponsor name-id="S407">Mr. Hagerty</sponsor> (for himself, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S378">Mr.
+                    Lankford</cosponsor>, <cosponsor name-id="S417">Mr. Budd</cosponsor>, <cosponsor name-id="S372">Mrs. Capito</cosponsor>, <cosponsor name-id="S416">Mrs.
+                    Britt</cosponsor>, <cosponsor name-id="S374">Mr. Cotton</cosponsor>, and
+                    <cosponsor name-id="S357">Mrs. Fischer</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Immigration and Nationality Act to classify aliens who have
+            been convicted of, or who have committed, an offense for driving while intoxicated or
+            impaired as inadmissible and deportable.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" changed="not-changed" id="H3DE5D976528641E690E2E8E4CEDE7147">
+        <section section-type="section-one" id="HC651D50C965E4850BAF0AE7D4585DE31" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Our Communities from DUIs Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HF50C162E2CC24C65BC084EEB718721BC" changed="not-changed">
+            <enum>2.</enum>
+            <header>Inadmissibility and deportability related to driving while intoxicated or
+                impaired</header>
+            <subsection id="H9B035212AC62427680D6352EB941862F" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Inadmissibility</header>
+ <text display-inline="yes-display-inline">Section 212(a)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)(2)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HF8D6F026093647E7A06E8832F80D0DAE" changed="not-changed">
+                    <subparagraph id="HB0293404CFF44455B030E3B5C08C5A93" changed="not-changed">
+                        <enum>(J)</enum>
+                        <header>Driving while intoxicated or impaired</header>
+ <text display-inline="yes-display-inline">Any alien who has been convicted of, who admits having committed, or who admits committing, acts constituting the essential elements of an offense for driving while intoxicated or impaired (as such terms are defined by the law of the jurisdiction in which the conviction, offense, or acts constituting the essential elements of the offense occurred), including an offense for driving while under the influence of, or impaired by, alcohol or drugs, is inadmissible, regardless of whether such conviction or offense is classified as a misdemeanor or felony under Federal, State, tribal, or local law.</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HCF1C8E547A554079ADF82E690F96D28E" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Deportability</header>
+ <text display-inline="yes-display-inline">Section 237(a)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1227">8 U.S.C. 1227(a)(2)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H390B46D116A54838AB03D7AAB1658301" changed="not-changed">
+                    <subparagraph id="H07BA2F3243A649EB8EF5CD5ECE233817" changed="not-changed">
+                        <enum>(G)</enum>
+                        <header>Driving while intoxicated or impaired</header>
+ <text display-inline="yes-display-inline">Any alien who has been convicted of an offense for driving while intoxicated or impaired (as such terms are defined by the law of the jurisdiction in which the conviction occurred), including a conviction for driving while under the influence of, or impaired by, alcohol or drugs, is deportable, regardless of whether such conviction is classified as a misdemeanor or felony under Federal, State, tribal, or local law.</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

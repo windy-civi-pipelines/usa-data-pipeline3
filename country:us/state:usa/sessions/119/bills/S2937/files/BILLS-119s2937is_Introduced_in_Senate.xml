@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OLL25B47-F6Y-J7-VNM">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2937 IS: Aligning Incentives for Leadership, Excellence, and Advancement in Development Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2937</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250929">September 29, 2025</action-date>
+            <action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> (for himself and <cosponsor name-id="S399">Mr. Hawley</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSJU00">Committee on
+                    the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish legal standards for advanced artificial intelligence
+            products.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id17bd12a15b534606bcfcb79b34462a03">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Aligning Incentives for Leadership, Excellence, and Advancement in Development Act</short-title></quote> or the <quote><short-title>AI LEAD Act</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf18db79115414fe6891b9212a73ea35d">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="id4a8e79b818114812b25662e91b08c93b">Sec. 2. Findings.</toc-entry> <toc-entry level="section" idref="ida65d51a25dc545c1988046c5b10362f7">Sec. 3. Definitions.</toc-entry> <toc-entry level="title" idref="idd4070bcacbe3488e9ecac8606538b783">TITLE I—Aligning incentives for safety, innovation and United States competitiveness</toc-entry> <toc-entry level="section" idref="idfc35706054da481ca4aacd035c0b4923">Sec. 101. Developer liability for harm to business or consumer.</toc-entry> <toc-entry level="section" idref="idb38c71962eb44fa289c5b6959929b95d">Sec. 102. Deployer liability for harm to business or consumer.</toc-entry> <toc-entry level="title" idref="id3a9bfe2049a5407dbe34010881274fb5">TITLE II—Unconscionable liability limitations</toc-entry> <toc-entry level="section" idref="id2661e9e91e74417cb24fa83107200e34">Sec. 201. Unconscionable liability limitations.</toc-entry> <toc-entry level="title" idref="idd4010faacd014dfda3678ffa161a9023">TITLE III—Enforcement</toc-entry> <toc-entry level="section" idref="id4ff8829ba7234000be82d0fe2d14f175">Sec. 301. Federal cause of action.</toc-entry> <toc-entry level="section" idref="ide4177ffe79b24b93a35a5a417570f9ee">Sec. 302. Special rule for deployers.</toc-entry> <toc-entry level="section" idref="idfa35ca113da74f97b7f08da1630fb663">Sec. 303. Period of limitations.</toc-entry> <toc-entry level="section" idref="id284454cbfc844fe18348b85880b3df0a">Sec. 304. Preemption.</toc-entry> <toc-entry level="section" idref="id4ef81f45967f471e99558c1915294fec">Sec. 305. Severability.</toc-entry> <toc-entry level="title" idref="id895a5ab450e746db8d9b346673432fcd">TITLE IV—Registration of foreign artificial intelligence system providers</toc-entry> <toc-entry level="section" idref="id9a37eda036a2451794f3eb42209d1c95">Sec. 401. Foreign agent registration requirement.</toc-entry> <toc-entry level="section" idref="id48bb29e0daed4743b1eefdeb53b4fa0c">Sec. 402. Enforcement.</toc-entry> <toc-entry level="section" idref="id80a003eb51e74c7ea4e1206173d2324f">Sec. 403. Public registry.</toc-entry> <toc-entry level="title" idref="id3ff0157f7259441fb69674f2823cb2e9">TITLE V—Effective date</toc-entry> <toc-entry level="section" idref="id62f9c889892d4e31b7c5c0201de4328c">Sec. 501. Effective date.</toc-entry> </toc> </subsection> </section> <section commented="no" display-inline="no-display-inline" id="id4a8e79b818114812b25662e91b08c93b"> <enum>2.</enum> <header>Findings</header> <text display-inline="no-display-inline">Congress finds the following:</text>
+            <paragraph id="idfd60f608fe4543858b845db761211420">
+                <enum>(1)</enum>
+ <text>Artificial intelligence systems are products that shift decision-making power and responsibility away from humans to software-based systems, often without direct human oversight.</text>
+            </paragraph>
+            <paragraph id="idc7f66b36db59480ea063d82ca38f3c10">
+                <enum>(2)</enum>
+ <text>These products, while holding great promise, have caused and will cause harm to businesses and individuals. For example, multiple teenagers have tragically died after being exploited by an artificial intelligence chatbot.</text>
+            </paragraph>
+            <paragraph id="idfd3700b1178b432b895e93bf8d1608ca">
+                <enum>(3)</enum>
+ <text>Unpredictable allocations of liability jeopardize public safety and the financial well-being of both individuals and entire industries, particularly the small businesses of the United States, and adversely affect the Federal Government and taxpayers.</text>
+            </paragraph>
+            <paragraph id="id4803155a8eea4c8584b1fb0240f76315">
+                <enum>(4)</enum>
+ <text>Product liability law can help to address harms caused by artificial intelligence systems that affect interstate commerce by incentivizing safety, providing certainty to artificial intelligence developers and deployers to continue to innovate, and ensuring the competitiveness of the United States.</text>
+            </paragraph>
+            <paragraph id="idbb7df8101f754017872f4c220c4afc4a">
+                <enum>(5)</enum>
+ <text>A Federal products liability framework for artificial intelligence systems will remove barriers to interstate commerce and protect individuals’ due process rights.</text>
+            </paragraph>
+            <paragraph id="id8a6108c64bf240389ea37bae8bc6751d">
+                <enum>(6)</enum>
+ <text>This Act establishes Federal legislative guidelines for products liability without implicating expressive speech to ensure more predictable legal outcomes for individuals and industries and promotes business innovation.</text>
+            </paragraph>
+        </section>
+        <section id="ida65d51a25dc545c1988046c5b10362f7">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id9b3eaea2b28249e4a87c737dbed966eb"> <enum>(1)</enum> <header>Artificial intelligence system</header> <subparagraph commented="no" display-inline="no-display-inline" id="id414bc4975eca46b596dbab1fdaf94c50"> <enum>(A)</enum> <header display-inline="yes-display-inline">In general</header> <text>The term <term>artificial intelligence system</term> means any software, data system, application, tool, or utility—</text>
+                    <clause id="id2f1216fbd52a46f3be95210dcf033ff9">
+                        <enum>(i)</enum>
+ <text>that is capable of making or facilitating predictions, recommendations, actions, or decisions for a given set of human-or machine-defined objectives; and</text>
+                    </clause>
+                    <clause id="id2c69f0831bee48978db2743de0d6bf67">
+                        <enum>(ii)</enum>
+ <text>that uses machine learning algorithms, statistical or symbolic models, or other algorithmic or computational methods (whether dynamic or static) that affect or facilitate actions or decision-making in real or virtual environments.</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ide3ab41f69b9e4e2cb38669b6c0e49172">
+                    <enum>(B)</enum>
+                    <header>Inclusion</header>
+ <text>An artificial intelligence system may be integrated into, or operate in conjunction with, other hardware or software.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id1fadbca9a2ad48b0b6fe523516debb7c">
+                <enum>(2)</enum>
+                <header>Claimant</header>
+ <text>The term <term>claimant</term> means any person, including a class of persons, who brings a liability action.</text>
+            </paragraph>
+            <paragraph id="id759a2178d5fc429e9f0fa16053946160">
+                <enum>(3)</enum>
+                <header>Covered product</header>
+ <text>The term <term>covered product</term> means an artificial intelligence system.</text>
+            </paragraph>
+            <paragraph id="idccc1452227904e3e993f2b76d57d13c3">
+                <enum>(4)</enum>
+                <header>Deployer</header>
+ <text>The term <term>deployer</term> means a person, including a developer, who uses or operates a covered product for—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idd8072674c2d448b68d3d0e60bf6c5412">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the person's own personal or commercial use; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5a3a8268456246bc818bdb3a26bd4239">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">use by a third party.</text> </subparagraph> </paragraph> <paragraph id="id1453ec2334cf4eaeaeaf35304b916b19"> <enum>(5)</enum> <header>Design</header> <text>The term <term>design</term>, with respect to a covered product—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id3d12e7e051de4810a705ed74b573593e">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">means the intended or known material characteristics of the covered product; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idfed1e2b4070b47769eeb528deb3c0042">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">includes—</text> <clause commented="no" display-inline="no-display-inline" id="id2d91c5e4676e47dca96516aa56d3c6ce"> <enum>(i)</enum> <text display-inline="yes-display-inline">any intended or known formulation of the covered product and the usual result of the intended development or other processes used to produce the covered product, including unexpected skills or behaviors that appear in the covered product;</text>
+                    </clause>
+                    <clause id="id34f29b52622647cba91b4cb5adfd4d07">
+                        <enum>(ii)</enum>
+ <text>the selection of any data used for training a covered product through fitting its learnable parameters; and</text>
+                    </clause>
+                    <clause id="id622442e1a5484be2b3c0fd6111668e27">
+                        <enum>(iii)</enum>
+ <text>training, testing, auditing, and fine-tuning the covered product.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id44aa5abc050f4f59861d19279b8284c0">
+                <enum>(6)</enum>
+                <header>Developer</header>
+ <text>The term <term>developer</term> means a person who designs, codes, produces, owns, or substantially modifies a covered product for—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id98910e2fb2ed42b49c6dd0f3961122b2">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the person's own personal or commercial use; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id7a0001f659ff48ddb3ed8540a1420fb3">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">use by a third party.</text> </subparagraph> </paragraph> <paragraph id="idb90c204c2f6049c5a466e64c888e00e1"> <enum>(7)</enum> <header>Express warranty</header> <text>The term <term>express warranty</term> means any material, positive statement, affirmation of fact, promise, or description relating to a covered product, including any sample or model of a covered product.</text>
+            </paragraph>
+            <paragraph id="id9b165bf480724e458be64f2143403d25">
+                <enum>(8)</enum>
+                <header>Harm</header>
+ <text>The term <term>harm</term> means, with respect to the effect of the use of a covered product—</text>
+                <subparagraph id="idb3152b9cedcd48d089830edcc65a62e7">
+                    <enum>(A)</enum>
+ <text>damage to property other than the covered product itself;</text> </subparagraph> <subparagraph id="ideface367fda34a7688e9c11ac4b34113"> <enum>(B)</enum> <text>personal physical injury, illness, or death;</text>
+                </subparagraph>
+                <subparagraph id="id1242cbeebb0243b6b8e4b87d9fa32439">
+                    <enum>(C)</enum>
+ <text>financial or reputational injury;</text> </subparagraph> <subparagraph id="id60c4ed08f1c247a6a2faed6ccf01707f"> <enum>(D)</enum> <text>mental or psychological anguish, emotional distress, or distortion of a person’s behavior that would be highly offensive to a reasonable person; or</text>
+                </subparagraph>
+                <subparagraph id="id431898e5ec21406f8762112a881f1f26">
+                    <enum>(E)</enum>
+ <text>any loss of consortium or services or other loss deriving from any type of harm described in subparagraph (A), (B), (C), or (D).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id3c0ea68e567046b78930a1dccc76e35d">
+                <enum>(9)</enum>
+                <header>Liability action</header>
+ <text>The term <term>liability action</term> means a civil action brought under section 301 based on any theory for harm caused by a covered product or covered product use.</text>
+            </paragraph>
+            <paragraph id="id8bb8c16cf0db4eb0af447c92c09a2f3b">
+                <enum>(10)</enum>
+                <header>Person</header>
+ <text>The <term>person</term> means any individual, corporation, company, association, firm, partnership, society, joint stock company, or other entity, including any government entity or unincorporated association of persons.</text>
+            </paragraph>
+            <paragraph id="id75cf8c334f074c65b4d8c6d3ca46a424">
+                <enum>(11)</enum>
+                <header>Substantial modification</header>
+ <text>The term <term>substantial modification</term>, with respect to a covered product—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id910cc5be4a6b47d2b56cb275e6a73110">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">means any deliberate change made to the covered product by a deployer that—</text>
+                    <clause id="id2230cbabad4d4a7da9c053a66e4692c4">
+                        <enum>(i)</enum>
+ <text>was not authorized or reasonably anticipated by the developer when the covered product left the control of the developer; and</text>
+                    </clause>
+                    <clause id="id638cec9ab29f4d4d8381c9cd562a560c">
+                        <enum>(ii)</enum>
+ <text>changes the purpose, use, function, design, or intended use or manner of use of the covered product from that for which the covered product was originally designed, tested, or intended; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id183b113c0c0048fa959f01f18f13a1b8">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">does not include a modification that solely reduces or mitigates a new or additional risk.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id76944c3ef6384a92b7835930df3dc9c6">
+                <enum>(12)</enum>
+                <header>Under a legal disability</header>
+ <text>The term <term>under a legal disability</term>, with respect to a person, means the person lacks the capacity to understand, make, or communicate decisions regarding the person's legal rights—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ide6166591751649ffb6708350b6a26c04">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">because of a mental illness or intellectual disability; or</text>
+                </subparagraph>
+                <subparagraph id="ide8c5c08f4109460897674734f7d25048" commented="no" display-inline="no-display-inline">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">because the person is under the age of 18.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <title id="idd4070bcacbe3488e9ecac8606538b783">
+            <enum>I</enum>
+            <header>Aligning incentives for safety, innovation and United States
+                competitiveness</header>
+            <section id="idfc35706054da481ca4aacd035c0b4923">
+                <enum>101.</enum>
+                <header>Developer liability for harm to business or consumer</header>
+                <subsection id="id62281e85f25e40a1a9cd2125d5011bed">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>In any liability action, the developer shall be liable to a claimant if the claimant establishes by a preponderance of the evidence—</text>
+                    <paragraph id="id67b6a033ce86441195f1cf974d3de65e">
+                        <enum>(1)</enum>
+ <text>that—</text> <subparagraph id="idefc324a0edfe4c92998a7d81c2023db0"> <enum>(A)</enum> <text>the developer failed to exercise reasonable care with respect to the design of the covered product; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8583768d67b948518235151b7b2d3aa2">
+                            <enum>(B)</enum>
+ <text>the failure to exercise reasonable care was a proximate cause of harm to the claimant;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id9e396f0da6da4668a11e40338222a183">
+                        <enum>(2)</enum>
+ <text>that—</text> <subparagraph id="id4c6839842bce4bdfa9bcfa2d6643cb43"> <enum>(A)</enum> <text>the developer failed to exercise reasonable care with respect to providing adequate instructions or warnings applicable to the covered product that allegedly caused the harm that is the subject of the complaint; and</text>
+                        </subparagraph>
+                        <subparagraph id="id20b807646f0c440fbceb65fd67eb17cf">
+                            <enum>(B)</enum>
+ <text>the failure to exercise reasonable care with respect to providing adequate instructions or warnings was a proximate cause of harm to the claimant;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idac32ecb9bf804f15a98c8b65229d431b">
+                        <enum>(3)</enum>
+ <text>that—</text> <subparagraph id="id823290fabd784229a806aa430e9ddc50"> <enum>(A)</enum> <text>the developer made an express warranty applicable to the covered product that allegedly caused the harm that is the subject of the complaint;</text>
+                        </subparagraph>
+                        <subparagraph id="id8a7383fb39ad46dab2d92904f3b84f3f">
+                            <enum>(B)</enum>
+ <text>the covered product failed to conform to the warranty; and</text> </subparagraph> <subparagraph id="id4555fe0e53e94feb9afb3465f6e54c04"> <enum>(C)</enum> <text>the failure of the covered product to conform to the warranty was a proximate cause of harm to the claimant; or</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id3f78c4de8d464a1988c28ce40b779ca1">
+                        <enum>(4)</enum>
+ <text>that—</text> <subparagraph id="ide9f4ac2447244921a58e078b030ab2c4"> <enum>(A)</enum> <text>the covered product was, at the time of sale or distribution, in a defective condition unreasonably dangerous when used or misused in a reasonably foreseeable manner; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8c4ee49a3d05423cb67641c1ef98e915">
+                            <enum>(B)</enum>
+ <text>the defective condition was a proximate cause of the harm to the claimant.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id0c95052fa4f740fd9ea94a849736528d">
+                    <enum>(b)</enum>
+                    <header>Defective design</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7a950730369547689db4611197af9d65">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>In any liability action against a developer alleging that a covered product is unreasonably dangerous because of a defective design, as described in subsection (a)(1), the claimant shall be required to prove that, at the time of sale or distribution of the covered product by the developer, the foreseeable risks of harm posed by the covered product could have been reduced or avoided by the adoption of a reasonable alternative design by the developer, and the omission of the alternative design renders the covered product not reasonably safe.</text>
+                    </paragraph>
+                    <paragraph id="id9398d5a0f2134745a5d82511c43e43e1">
+                        <enum>(2)</enum>
+                        <header>Manifestly unreasonable design</header>
+ <text>Notwithstanding paragraph (1), in a liability action described in that paragraph, if the design of a covered product is found to be manifestly unreasonable, a claimant shall not be required to prove the existence of a reasonable alternative design.</text>
+                    </paragraph>
+                    <paragraph id="id0f537d5e5def4edc9cb6ffd1bca02317">
+                        <enum>(3)</enum>
+                        <header>Circumstantial evidence supporting inference of covered product
+                            defect</header>
+ <text>In a liability action described in subsection (a)(1), it may be inferred that the harm sustained by the claimant was caused by a covered product defect existing at the time of sale or distribution, without proof of a specific defect, when the incident that harmed the claimant—</text>
+                        <subparagraph id="id19ccd1d440b14802b7ee8b8130014bf2">
+                            <enum>(A)</enum>
+ <text>was of a kind that ordinarily occurs as a result of covered product defect; and</text>
+                        </subparagraph>
+                        <subparagraph id="id1bdd10b4985c4890bea785c881d03004">
+                            <enum>(B)</enum>
+ <text>was not, in the particular case, solely the result of causes other than covered product defect existing at the time of sale or distribution.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id48bc0b8c76ff43baa64cee739166261d">
+                        <enum>(4)</enum>
+                        <header>Noncompliance and compliance with required covered product safety
+                            statutes or regulations</header>
+                        <subparagraph id="id02d3620f64144377a9799bc14ad0010d">
+                            <enum>(A)</enum>
+                            <header>Noncompliance</header>
+ <text>For purposes of a liability action described in subsection (a)(1), if a covered product does not comply with an applicable covered product safety statute or administrative regulation, the covered product shall be deemed defective with respect to the risks sought to be reduced by the statute or regulation.</text>
+                        </subparagraph>
+                        <subparagraph id="ida8a9444c5d474cc4bdecbf358344d4b6">
+                            <enum>(B)</enum>
+                            <header>Compliance</header>
+ <text>For purposes of a liability action described in subsection (a)(1), the court may consider a covered product’s compliance with an applicable covered product safety statute or administrative regulation in determining whether the covered product is defective with respect to the risks sought to be reduced by the statute or regulation, but such compliance does not preclude as a matter of law a finding of covered product defect.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id287e69c328e34908b117a621aaf87d1d">
+                    <enum>(c)</enum>
+                    <header>Failure to warn</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id2ff602fac234424eb2caa492cc7745c2">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>For purposes of a liability action described in subsection (a)(2), a covered product shall be considered defective because of inadequate instructions or warnings if—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id2b4aee93a6574f179c26cf7d5a55cf59">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the foreseeable risks of harm posed by the covered product could have been reduced or avoided by the provision of reasonable instructions or warnings by the developer; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id9fe0aa8227d24a54b9a80e91f0f238f5">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the omission of the instructions or warnings renders the covered product not reasonably safe.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id9eb9595bb84a402089619362db95abdb">
+                        <enum>(2)</enum>
+                        <header>Adequate instruction or warning</header>
+ <text>For purposes of paragraph (1), an adequate instruction or warning is one that a reasonably prudent person in the same or similar circumstances would have provided with respect to a reasonably foreseeable risk and that communicates sufficient information on the reasonably foreseeable risks and safe use of the covered product, taking into account the characteristics of, and the ordinary knowledge common to, an ordinary user of the covered product.</text>
+                    </paragraph>
+                    <paragraph id="id331b2fb0c098446d805136bb9b792d73">
+                        <enum>(3)</enum>
+                        <header>Knowledge</header>
+ <text>In a liability action described in subsection (a)(2), the claimant shall be required to prove that, at the time the covered product left the developer’s control, the developer knew of or, in light of then-existing scientific and technical knowledge, reasonably should have foreseen, the risk that caused the claimant’s harm.</text>
+                    </paragraph>
+                    <paragraph id="id5ed8d2dc41ad48c6bc69ba3731c4046f">
+                        <enum>(4)</enum>
+                        <header>Open and obvious</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ida39af2c0d0da4545a529d71cc4d9fbce">
+                            <enum>(A)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>In a liability action described in subsection (a)(2), a developer shall not be liable for failure to instruct or warn about a foreseeable risk that is open and obvious to the user of the covered product, taking into account the characteristics of, and the ordinary knowledge common to, an ordinary user of the covered product.</text>
+                        </subparagraph>
+                        <subparagraph id="id9a0fe231269f4ef798a4cd07101ee503" commented="no">
+                            <enum>(B)</enum>
+                            <header>Minors</header>
+ <text>For purposes of subparagraph (A), a risk shall be presumed to not be open and obvious to a user of a covered product who is under 18 years old.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id47c0e8debe2d48f787590b96dbcb5205">
+                        <enum>(5)</enum>
+                        <header>Noncompliance and compliance with required covered product safety
+                            statutes or regulations</header>
+                        <subparagraph id="idcc69a9dab1554aacb66e76de543980be">
+                            <enum>(A)</enum>
+                            <header>Noncompliance</header>
+ <text>In a liability action described in subsection (a)(2), if a covered product does not comply with an applicable covered product safety statute or administrative regulation, the covered product shall be deemed defective due to inadequate instructions or warnings with respect to the risks sought to be reduced by the statute or regulation.</text>
+                        </subparagraph>
+                        <subparagraph id="id69e103085fcd48e090e98650444396c5">
+                            <enum>(B)</enum>
+                            <header>Compliance</header>
+ <text>In a liability action described in subsection (a)(2), the court may consider a covered product’s compliance with an applicable covered product safety statute or administrative regulation in determining whether the covered product is defective due to inadequate instructions or warnings with respect to the risks sought to be reduced by the statute or regulation, but such compliance does not preclude as a matter of law a finding of covered product defect.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id8f9366d4f7e64244814a055bc8e700f8">
+                    <enum>(d)</enum>
+                    <header>Strict liability of developer for unreasonably dangerous or defective
+                        covered products</header>
+                    <paragraph id="idadd75157f1cb43c88acaa011e1d2b554">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>In a liability action described in subsection (a)(4), the developer of a covered product shall be strictly liable for harm caused by the defective condition of the covered product, notwithstanding—</text>
+                        <subparagraph id="id9b5fe85ebe8746dda4a2a13baea5a001">
+                            <enum>(A)</enum>
+ <text>that the developer exercised all possible care in the design or distribution of the covered product; or</text>
+                        </subparagraph>
+                        <subparagraph id="id15bacc79e31549e8b76c98411d2febf3">
+                            <enum>(B)</enum>
+ <text>that the claimant did not purchase the covered product directly from the developer or otherwise enter into a contractual relationship with the developer.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idb05a8b69562a4508bdd076b5084a1b2b">
+                        <enum>(2)</enum>
+                        <header>Substantial modification</header>
+ <text>A developer shall not be liable under subsection (a)(4) for harm solely caused by a substantial modification.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idb38c71962eb44fa289c5b6959929b95d">
+                <enum>102.</enum>
+                <header>Deployer liability for harm to business or consumer</header>
+                <subsection id="id1116eb25ef0344d287e585015cbf72f4">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>A deployer shall be deemed to be liable as a developer under section 101 for harm caused by a covered product if—</text>
+                    <paragraph id="idb85a55f9928a473895c6ac9b56dc85ce">
+                        <enum>(1)</enum>
+ <text>the deployer makes a substantial modification to the covered product; or</text>
+                    </paragraph>
+                    <paragraph id="idad35d38bfb0e43ebb58b602b746c0f79">
+                        <enum>(2)</enum>
+ <text>the deployer intentionally misuses the covered product contrary to its intended use and that misuse is the proximate cause of harm to the claimant.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="ida04b35a665614521b0326b63248a66b2">
+                    <enum>(b)</enum>
+                    <header>Use intended by developer is not modification or misuse</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idd1597f4a6db24892b036d9be0d85662c">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>For purposes of subsection (a), a use of a covered product that is intended by the developer of the covered product does not constitute a substantial modification to or misuse of the covered product.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idffd01edf2aeb411fa8c5c33e256f7680">
+                        <enum>(2)</enum>
+                        <header>Inference of intended use</header>
+ <text display-inline="yes-display-inline">For purposes of paragraph (1), if a developer does not specify an intended use for a covered product, intended use shall be inferred by the targeted market and manner of distribution.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id43d21a3bb578497b9b771065159a28c6">
+                    <enum>(c)</enum>
+                    <header>Licensing</header>
+ <text>Subject to section 302, any deployer licensing a covered product shall not be liable to a claimant for a violation of section 101 solely by reason of ownership or use of the covered product.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="id3a9bfe2049a5407dbe34010881274fb5" style="OLC">
+            <enum>II</enum>
+            <header>Unconscionable liability limitations</header>
+            <section id="id2661e9e91e74417cb24fa83107200e34" commented="no">
+                <enum>201.</enum>
+                <header>Unconscionable liability limitations</header>
+                <subsection id="idcfbd7e865e0541ceb2961f7173b49ab4" commented="no">
+                    <enum>(a)</enum>
+                    <header>Contract with deployer</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idaff2849bc3354134a5835c55229fc488">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">Prohibition</header>
+ <text>A developer may not include language in a contract with a deployer that waives any right, proscribes any forum or procedure, or unreasonably limits liability under this Act or applicable State law related to harm caused by the covered product under section 101.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcd3cf5750e9b4ee79921b8841acc3e8c">
+                        <enum>(2)</enum>
+                        <header>Unenforceable</header>
+ <text display-inline="yes-display-inline">Language in a contract that violates paragraph (1) shall be unenforceable.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id46789fa5f3524fc69aab392f2709c52b" commented="no">
+                    <enum>(b)</enum>
+                    <header>Terms and conditions</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idd14876b0dd484d59bc3c37ea656043d0">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">Prohibition</header>
+ <text>A developer or a deployer may not include language in terms and conditions relevant to a covered product that waives any right, proscribes any forum or procedure, or unreasonably limits liability under this Act or applicable State law related to harm caused by the covered product under section 101 or 102.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id648460ed483e4f37bd2758fcb78f0762">
+                        <enum>(2)</enum>
+                        <header>Unenforceable</header>
+ <text display-inline="yes-display-inline">Language in terms and conditions that violates paragraph (1) shall be unenforceable.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="idd4010faacd014dfda3678ffa161a9023" style="OLC">
+            <enum>III</enum>
+            <header>Enforcement</header>
+            <section id="id4ff8829ba7234000be82d0fe2d14f175">
+                <enum>301.</enum>
+                <header>Federal cause of action</header>
+ <text display-inline="no-display-inline">The Attorney General, any attorney general of a State, an individual or the legal representative of such an individual, or a class of individuals may bring a civil action in a district court of the United States against a developer or deployer for a violation of section 101, 102, or 201 to obtain—</text>
+                <paragraph id="idb101eeb6c861476bb03c294df3222092">
+                    <enum>(1)</enum>
+ <text>injunctive relief;</text> </paragraph> <paragraph id="idef0ed07cdf564559bee6f940d4222e07"> <enum>(2)</enum> <text>in a case brought by the Attorney General, civil penalties;</text>
+                </paragraph>
+                <paragraph id="id68dfbd0a0ff44689885e06ea8dd33f41">
+                    <enum>(3)</enum>
+ <text>damages, restitution, or other compensation on behalf of individuals;</text>
+                </paragraph>
+                <paragraph id="id32fae19f74c34899bbead5a9e696781d">
+                    <enum>(4)</enum>
+ <text>reasonable attorney fees and other litigation costs reasonably incurred; or</text>
+                </paragraph>
+                <paragraph id="idf7bf3e1b0e304349b0574b25fb58c74c">
+                    <enum>(5)</enum>
+ <text>in a case brought by the Attorney General or a State attorney general, such other relief as the Attorney General or State attorney general may consider to be appropriate.</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="ide4177ffe79b24b93a35a5a417570f9ee">
+                <enum>302.</enum>
+                <header>Special rule for deployers</header>
+                <subsection id="id169db569509742478113727c7988b172">
+                    <enum>(a)</enum>
+                    <header>Standing in for the developer</header>
+ <text>If the developer is not a party to a liability action because the developer is not subject to the court's jurisdiction, is insolvent, or cannot otherwise be made to answer for the harm, the deployer may be held liable to the same extent that the developer would have been liable under section 101.</text>
+                </subsection>
+                <subsection id="idb3766ab135764efcafcdf4c65e2edf71">
+                    <enum>(b)</enum>
+                    <header>Dismissal of deployer</header>
+ <text>A court shall dismiss the deployer from a liability action, upon motion, if—</text>
+                    <paragraph id="id4e46bfa1f1ee40209486654a9d935ccb">
+                        <enum>(1)</enum>
+ <text>the developer—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id20553cbb76a344a78134475b4bf6205c"> <enum>(A)</enum> <text display-inline="yes-display-inline">is a party to the action; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id11014c1b0e4746b08cdc444ed24bb557">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">is subject to the court’s jurisdiction;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id2fa743b6e0a444bfbc78e7d1e9095e48">
+                        <enum>(2)</enum>
+ <text>the developer is not insolvent or otherwise unable to satisfy any likely judgment; and</text>
+                    </paragraph>
+                    <paragraph id="idb89519c05f134823abe0a4e28d9f27d0">
+                        <enum>(3)</enum>
+ <text>the deployer is not otherwise liable under section 102.</text> </paragraph> </subsection> <subsection id="id02ad1e048a014198a75cfa7c367b62c1"> <enum>(c)</enum> <header>Joint fault</header> <paragraph commented="no" display-inline="no-display-inline" id="id8ff7f39550b8418fa7405d164f17f1af"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text>If both the developer and the deployer contributed to the harm under sections 101 and 102, each person may be held jointly and severally liable for the portion of harm caused by that person's conduct.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id789ef07cd4364375a9fb15fec54f088c">
+                        <enum>(2)</enum>
+                        <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">Nothing in this subsection shall limit the right of a claimant to maintain a liability action against the developer, the deployer, or both, if the claimant can establish that each person contributed to the harm under sections 101 and 102.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id1c3e34cbda844f638cdf6d3768c666b0">
+                    <enum>(d)</enum>
+                    <header>Indemnification and attorney fees</header>
+                    <paragraph id="ida474d1fc105e43bb9ab074f131e97031">
+                        <enum>(1)</enum>
+                        <header>Right to seek indemnification</header>
+ <text>A deployer that is held liable for harm caused by the developer under subsection (a) may pursue indemnification, including the recovery of attorney fees and litigation costs, from the developer.</text>
+                    </paragraph>
+                    <paragraph id="idcdc94da455e149659b06ed7a7e54da5c">
+                        <enum>(2)</enum>
+                        <header>Limitation</header>
+ <text>If the deployer is determined to be at fault for a portion of the harm under subsection (c), indemnification under paragraph (1) of this subsection shall be limited to the portion of damages, fees, or costs attributable to the conduct of the developer.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id63198c21e55f4c5e83130eef03c5312d">
+                    <enum>(e)</enum>
+                    <header>Preservation of claimant’s rights</header>
+ <text>Nothing in this subsection shall limit the right of the claimant to maintain a liability action against the developer, the deployer, or both persons, if the claimant can establish that each person contributed to the harm under sections 101 and 102.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="idfa35ca113da74f97b7f08da1630fb663">
+                <enum>303.</enum>
+                <header>Period of limitations</header>
+                <subsection id="id28439c293deb43178770ee93d803a43e">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Except as provided in subsection (b), a liability action may be filed not later than 4 years after the date on which the claimant discovered or, in the exercise of reasonable care, should have discovered—</text>
+                    <paragraph id="idfa7c157ac9674a3cb346d830e27e1c16">
+                        <enum>(1)</enum>
+ <text>the harm that is the subject of the action; and</text> </paragraph> <paragraph id="id058e1f6077e24450b5b03d23639c0b2e"> <enum>(2)</enum> <text>the cause of the harm.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id088cc11fc73b4b28baad34b84616ecd2">
+                    <enum>(b)</enum>
+                    <header>Legal disability</header>
+ <text>In the case of a person who is under a legal disability, the period of limitations under subsection (a) for a liability action brought by that person shall be tolled until the person ceases to be under a legal disability.</text>
+                </subsection>
+                <subsection id="id35ce1f92d17249b7af04cb72518c638f">
+                    <enum>(c)</enum>
+                    <header>Tolling</header>
+ <text>The period of limitations under subsection (a) shall be tolled from the date of the filing of a complaint against a developer or deployer to the date that a court enters a final judgment in the case.</text>
+                </subsection>
+            </section>
+            <section id="id284454cbfc844fe18348b85880b3df0a">
+                <enum>304.</enum>
+                <header>Preemption</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idbe0c2bd14ea24c009c5f55b9cceb34cb">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">This Act supersedes State law only where State law conflicts with the provisions of this Act.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idb2519f6364eb44a18a4edc91319a4e0d">
+                    <enum>(b)</enum>
+                    <header>Minimum protections</header>
+ <text display-inline="yes-display-inline">Nothing in this Act shall prevent a State from enacting or enforcing protections that align with the principles of harm prevention, accountability, and transparency for a covered product that are stronger than such protections under this Act.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id4ef81f45967f471e99558c1915294fec">
+                <enum>305.</enum>
+                <header>Severability</header>
+ <text display-inline="no-display-inline">If any provision of this Act, or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and amendments made by this Act shall not be affected.</text>
+            </section>
+        </title>
+        <title id="id895a5ab450e746db8d9b346673432fcd" style="OLC">
+            <enum>IV</enum>
+            <header>Registration of foreign artificial intelligence system developers</header>
+            <section id="id9a37eda036a2451794f3eb42209d1c95">
+                <enum>401.</enum>
+                <header>Foreign agent registration requirement</header>
+                <subsection id="id3dbf11b7a8544ee3b95af0dd3d4a49c7">
+                    <enum>(a)</enum>
+                    <header>Designation required</header>
+ <text>Before making a covered product available in the United States, a foreign developer shall designate an agent for service of process.</text>
+                </subsection>
+                <subsection id="id9c173922098c45c08ab2a618a5af0fe9">
+                    <enum>(b)</enum>
+                    <header>Requirements</header>
+ <text>The designation of an agent under subsection (a) shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="id1c7c3b65656546fe80f685d133031c39"> <enum>(1)</enum> <text display-inline="yes-display-inline">be in writing and submitted to the Attorney General;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id22d42bcd7fec48e9b75a95f2fd893f9d">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">include a written acceptance by the agent; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id06d91b2b55ef4b61aa643894bfc58dd3">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">specify the full legal name and address of both the foreign developer and the agent.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id0ad9bffa3b524959bc7f5416d5f5862f">
+                    <enum>(c)</enum>
+                    <header>Agent qualifications</header>
+ <text>A designated agent under subsection (a) shall be a permanent resident of the United States.</text>
+                </subsection>
+                <subsection id="id6130639ba8ba45f7b11d2a7c1cb3bab2">
+                    <enum>(d)</enum>
+                    <header>Updates</header>
+ <text>A foreign developer of a covered product shall notify the Attorney General of any change to the designated agent under subsection (a) or the contact information thereof not later than 15 days after the change.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id48bb29e0daed4743b1eefdeb53b4fa0c">
+                <enum>402.</enum>
+                <header>Enforcement</header>
+                <subsection id="idd9fe5a2c31ce487eaf0edcba9a4eb26a">
+                    <enum>(a)</enum>
+                    <header>Prohibition</header>
+ <text>A foreign developer of a covered product that fails to designate an agent in accordance with section 401 may not deploy any covered product in the United States.</text>
+                </subsection>
+                <subsection id="idcdb1caf79d4145eb97672d9222af3379">
+                    <enum>(b)</enum>
+                    <header>Enforcement</header>
+ <text>The Attorney General may seek injunctive relief to prevent a violation of subsection (a).</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" id="id80a003eb51e74c7ea4e1206173d2324f">
+                <enum>403.</enum>
+                <header>Public registry</header>
+ <text display-inline="no-display-inline">The Attorney General shall maintain a publicly accessible registry of designated agents of foreign developers of covered products.</text>
+            </section>
+        </title>
+        <title id="id3ff0157f7259441fb69674f2823cb2e9" style="OLC">
+            <enum>V</enum>
+            <header>Effective date</header>
+            <section id="id62f9c889892d4e31b7c5c0201de4328c">
+                <enum>501.</enum>
+                <header>Effective date</header>
+ <text display-inline="no-display-inline">This Act shall apply with respect to any liability action commenced on or after the date of enactment of this Act without regard to whether the harm that is the subject of the liability action or the conduct that caused the harm occurred before that date of enactment.</text>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+
