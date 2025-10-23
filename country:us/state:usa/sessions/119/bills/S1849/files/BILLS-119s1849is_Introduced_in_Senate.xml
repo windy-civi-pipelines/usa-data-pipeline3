@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25570-WVV-D5-WJF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1849 IS: Zeroing Out Money for Buying Influence after Elections (ZOMBIE) Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1849</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S330">Mr. Bennet</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSRA00">Committee on Rules and Administration</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Federal Election Campaign Act of 1971 to require each
+            authorized committee or leadership PAC of a former candidate for election for Federal
+            office to disburse all of the remaining funds of the committee or PAC after the
+            election, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HA54E7E7F63664AFCA01C647A5FE04BAC">
+        <section section-type="section-one" id="H0281C8661BF14C849F982A9E5D2F53F3">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Zeroing Out Money for Buying Influence after Elections (ZOMBIE) Act</short-title></quote>.</text>
+        </section>
+        <section id="H9AD25E36350C4B1B8459E4251A66B7CD">
+            <enum>2.</enum>
+            <header>Requiring authorized committees of candidates to disburse unexpended
+                funds</header>
+            <subsection id="HED3BCE1D61D444A39B9162D2D19E957D">
+                <enum>(a)</enum>
+                <header>Requiring disbursement</header>
+ <text display-inline="yes-display-inline">Title III of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30101">52 U.S.C. 30101 et seq.</external-xref>) is amended by inserting after section 303 the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HB9181B5FF94F4D378B537DC94028CEBC">
+                    <section id="HC6FBC5696EEC445581F037BABE52CF27">
+                        <enum>303A.</enum>
+                        <header>Disbursement of remaining unexpended funds</header>
+                        <subsection id="H0572D2EC1F67490AA0475A057EC27A7B">
+                            <enum>(a)</enum>
+                            <header>Requiring disbursement</header>
+                            <paragraph id="H5D259ECB370C4594809142B89BB5E017">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Each authorized committee or leadership PAC of a candidate shall, in accordance with subsection (b), disburse all funds of the authorized committee or leadership PAC before the earliest of—</text>
+                                <subparagraph id="id0D47ECAC44374CCAAA018EF569811070">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the last day of the applicable disbursement period; </text>
+                                </subparagraph>
+                                <subparagraph id="id29A6BB5A002841AF92B82BAE67A422D3">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the date on which the candidate first makes a lobbying contact or is employed or retained to make a lobbying contact that would require registration under section 4 of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1603">2 U.S.C. 1603</external-xref>); or </text>
+                                </subparagraph>
+                                <subparagraph id="id2318BDAC826A490EB383CAAECB713E04">
+                                    <enum>(C)</enum>
+ <text>the date on which the candidate becomes an agent of a foreign principal that would require registration under section 2 of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/612">22 U.S.C. 612</external-xref>). </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HC2CC855B8FC5450A807EB72011DC6764">
+                                <enum>(2)</enum>
+                                <header>Exception for candidates in next election</header>
+ <text display-inline="yes-display-inline">Paragraph (1) does not apply to the authorized committee or leadership PAC of a candidate who, prior to the first day of the applicable disbursement period, provides the appropriate State election official with the information and fees (if any) required under State law for the individual to qualify as a candidate for the next election for the office sought by the candidate or the next election for another Federal office.</text>
+                            </paragraph>
+                            <paragraph id="HE76FE2FF610649BB8D2E9511316754B2">
+                                <enum>(3)</enum>
+                                <header>Applicable disbursement period</header>
+ <text>In this subsection, the <term>applicable disbursement period</term> is, with respect to a candidate seeking election for an office, the 6-month period which begins on the day after the latest date on which an individual may provide the appropriate State election official with the information and fees (if any) required under State law for the individual to qualify as a candidate for the next election for such office. In the case of a candidate for Senate, the office sought shall be the Senate office in the class that ends with the term of the office for which such candidate is seeking.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H451C579A59D44C87B2A24704B7A62EA3">
+                            <enum>(b)</enum>
+                            <header>Rules for disbursement of funds</header>
+ <text>Any funds to which subsection (a) applies that are disbursed on or after the first day of the applicable disbursement period shall be disbursed as follows:</text>
+                            <paragraph id="HE604EA3BE6D2408A84FF329FEACC959D">
+                                <enum>(1)</enum>
+                                <header>Payment of obligations</header>
+ <text display-inline="yes-display-inline">An authorized committee or leadership PAC shall first pay obligations incurred in connection with the operation of the committee.</text>
+                            </paragraph>
+                            <paragraph id="H66AA4BA28E994F688DA3C71D9A537B35">
+                                <enum>(2)</enum>
+                                <header>Other permitted disbursements</header>
+ <text>Notwithstanding section 313(a), if, after disbursing all of the funds necessary to pay obligations under paragraph (1), funds of a committee or PAC remain unexpended, the committee or PAC may only disburse such remaining funds for the following purposes:</text>
+                                <subparagraph id="H4135C4019EC04E0CADD6D8AD0C7CEEF0">
+                                    <enum>(A)</enum>
+ <text>To return to any person a contribution the person made to the committee or PAC.</text>
+                                </subparagraph>
+                                <subparagraph id="HDA30F06ACAFD4889A6EA26D753768586">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (3)(A), to make a contribution to an organization described in <external-xref legal-doc="usc" parsable-cite="usc/26/170">section 170(c)</external-xref> of the Internal Revenue Code of 1986.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" id="idA85AC7E115474F80AF307EBDD51A1D7B">
+                                <enum>(3)</enum>
+                                <header>Prohibitions</header>
+ <text>In disbursing funds pursuant to the requirements of this section, an authorized committee or leadership PAC may not disburse funds during the applicable disbursement period to any of the following:</text>
+                                <subparagraph commented="no" id="idA2FA0BD6DECA4DC2B28BDE30A1920926">
+                                    <enum>(A)</enum>
+ <text>Any organization described in section 170(c) (other than an organization described in paragraph (1) thereof) if—</text>
+                                    <clause commented="no" id="idB7839A6B42084B8090635659BEFBECD2">
+                                        <enum>(i)</enum>
+ <text>the organization was established by the candidate; </text>
+                                    </clause>
+                                    <clause commented="no" id="id0D3145ADCF8142179DC36DBD99A1C2DA">
+                                        <enum>(ii)</enum>
+ <text>the organization bears the candidate's name; or</text> </clause> <clause commented="no" id="idCA1E05948A0748B8B91C543BE42025BF"> <enum>(iii)</enum> <text>the candidate or a relative of the candidate—</text>
+                                        <subclause id="idB227A74D80DE452CA3A72F5FF46F27D8">
+                                            <enum>(I)</enum>
+ <text>is employed by such organization;</text> </subclause> <subclause id="id72DF8EB415224B4090F07D83D4B4740E"> <enum>(II)</enum> <text>is an officer of such organization; or</text>
+                                        </subclause>
+                                        <subclause id="id88A860D99DBC4229829ECF9FC8B43E16">
+                                            <enum>(III)</enum>
+ <text>performs services (whether paid or unpaid) on behalf of such organization. </text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="idFF3CEC34970A4B9786A8268457B9E99A">
+                                    <enum>(B)</enum>
+ <text>Any relative of the candidate unless the funds are disbursed to pay an obligation of the committee as described in paragraph (1) which is reported by the committee or PAC as a disbursement under section 304(b)(5) or which would be so reported if the amount of the disbursement were in excess of $200.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H257059D753C245B2AD11CC2E93BD4C11">
+                            <enum>(c)</enum>
+                            <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="idDCA79FF010F648DEA98DA6275F4EE2E9"> <enum>(1)</enum> <header>Leadership PAC</header> <text>The term <term>leadership PAC</term> has the meaning given such term in section 304(i)(8)(B).</text>
+                            </paragraph>
+                            <paragraph id="HCAD47D08BB224AD38ADDFA37F619105D">
+                                <enum>(2)</enum>
+                                <header>Relative</header>
+ <text display-inline="yes-display-inline">The term <term>relative</term> means, with respect to a candidate, an individual who is related to the candidate as father, mother, son, daughter, brother, sister, uncle, aunt, first cousin, nephew, niece, husband, wife, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HE29EB21DC3954CCCAACE0C66C816F402">
+                <enum>(b)</enum>
+                <header>Conforming amendment relating to permitted uses of contributions</header>
+ <text>Section 313(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/30114">52 U.S.C. 30114(a)</external-xref>) is amended by striking <quote>A contribution</quote> and inserting <quote>Subject to section 303A, a contribution</quote>.</text>
+            </subsection>
+            <subsection id="H85AA66840F2840A9A1032867F2CD3D5C">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply with respect to the regularly scheduled general election for Federal office held in November 2026 and each succeeding election for Federal office.</text>
+            </subsection>
+        </section>
+        <section id="idD7BBD2A06F9C429B961B465511307CEF">
+            <enum>3.</enum>
+            <header>Requiring former candidates serving as registered lobbyists to certify
+                compliance with disbursement requirements</header>
+            <subsection id="idC1C8E0BAE82046609C456B7F0532F4F4">
+                <enum>(a)</enum>
+                <header>Certification of compliance</header>
+ <text display-inline="yes-display-inline">Section 4(b) of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1603">2 U.S.C. 1603(b)</external-xref>) is amended—</text>
+                <paragraph id="idE70FD9819C46459FAE81BDF808F0F18A">
+                    <enum>(1)</enum>
+ <text>in paragraph (6), by striking <quote>and</quote> at the end;</text> </paragraph> <paragraph id="id77857DECC2224538B2F98B19D205A3D2"> <enum>(2)</enum> <text>in paragraph (7), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                </paragraph>
+                <paragraph id="id9A2E0278F93B4F48B7C8AE88C31FE356">
+                    <enum>(3)</enum>
+ <text>by inserting after paragraph (7) the following:</text> <quoted-block style="traditional" display-inline="no-display-inline" id="id55E056C6F3BE4231A5FCDA2CBB6889DA"> <paragraph id="id76CB561DF8D2407E980C1D7262BEF577"> <enum>(8)</enum> <text display-inline="yes-display-inline">in the case of an individual who was a candidate for election for Federal office, a certification (under penalty of perjury) that each authorized committee and leadership PAC (as defined in section 304(i)(8)(B) of the Federal Election Campaign Act of 1971) of the individual is in compliance with section 303A of the Federal Election Campaign Act of 1971 (relating to the disbursement of funds of the committee or leadership PAC which remain unexpended after the date of the election).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id5A4ADADC132A46B8B24E90B31D8759AA">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendment made by subsection (a) shall apply with respect to registration statements filed under section 4(a) of the Lobbying Disclosure Act on or after the date of the regularly scheduled general election for Federal office held in November 2026.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id183D8F32424D4785AE4A7EC68BE40255">
+            <enum>4.</enum>
+            <header>Requiring former candidates serving as foreign agents to certify compliance with
+                disbursement requirements</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id21D7313561294142B33E628E3C2DBAAC">
+                <enum>(a)</enum>
+                <header>Certification of compliance</header>
+ <text>Section 2(a) of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/612">22 U.S.C. 612(a)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idE1389434CD374356A030B4B0270F8F0D">
+                    <paragraph commented="no" display-inline="no-display-inline" id="idC26381029D9047E680E050116319858F">
+                        <enum>(12)</enum>
+ <text>In the case of an individual who was a candidate for election for Federal office, a certification (under penalty of perjury) that each authorized committee and leadership PAC (as defined in section 304(i)(8)(B) of the Federal Election Campaign Act of 1971) of the individual is in compliance with section 303A of the Federal Election Campaign Act of 1971 (relating to the disbursement of funds of the committee or leadership PAC which remain unexpended after the date of the election).</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idB2B59C04A5184F40A3D8E46629150CA4">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendment made by subsection (a) shall apply with respect to registration statements filed under section 2 of the Foreign Agents Registration Act of 1938, as amended on or after the date of the regularly scheduled general election for Federal office held in November 2026.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

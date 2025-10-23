@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"
+    slc-id="S1-MCG25890-911-0T-Y5C">
+    <form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2515</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250729">July 29, 2025</action-date>
+            <action-desc><sponsor name-id="S406">Mr. Kelly</sponsor> (for himself, <cosponsor
+                    name-id="S436">Ms. Slotkin</cosponsor>, <cosponsor name-id="S426">Mr.
+                    Kim</cosponsor>, and <cosponsor name-id="S366">Ms. Warren</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSRA00">Committee on Rules and
+                    Administration</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Federal Election Campaign Act of 1971 to limit the authority of
+            corporations to establish and operate separate segregated funds utilized for political
+            purposes, including the establishment or operation of a political committee, to
+            nonprofit corporations, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause"
+        id="H33247DBE173B4D31B8A0CC22751220D7">
+        <section section-type="section-one" id="H6320130C692D49FBBCCFD92552103654">
+            <enum>1.</enum>
+            <header>Short title</header>
+            <text display-inline="no-display-inline">This Act may be cited as the
+                        <quote><short-title>Ban Corporate PACs Act</short-title></quote>.</text>
+        </section>
+        <section id="H72B43CEA1FC743FA94FDB45872D86271">
+            <enum>2.</enum>
+            <header>Limiting authority of corporations to establish or operate separate segregated
+                funds for political purposes to nonprofit corporations</header>
+            <subsection id="HD9DA0196BC71433AA4058F025838477D">
+                <enum>(a)</enum>
+                <header>Limitation</header>
+                <paragraph id="HC1C1094822F34DBF91E75C8772397DD0">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>Section 316(b)(2)(C) of the Federal Election Campaign Act of 1971 (52
+                        U.S.C. 30118(b)(2)(C)) is amended by striking <quote>a corporation</quote>
+                        and inserting <quote>a nonprofit corporation</quote>.</text>
+                </paragraph>
+                <paragraph id="H4D4C5BC622814830BA2A89C119CC9F11">
+                    <enum>(2)</enum>
+                    <header>Definition</header>
+                    <text>Section 316(b) of such Act (52 U.S.C. 30118(b)) is amended by adding at
+                        the end the following new paragraph:</text>
+                    <quoted-block style="traditional" display-inline="no-display-inline"
+                        id="H75FCFC258DB447109F44007D80C095CA">
+                        <paragraph id="HDFE86F1D69B94A56B477F4C0AF252621" indent="up1">
+                            <enum>(8)</enum>
+                            <text>For purposes of this section, the term <term>nonprofit
+                                    corporation</term> means a corporation described in section
+                                501(c) of the Internal Revenue Code of 1986 and exempt from taxation
+                                under section 501(a) of such Code, other than a corporation which is
+                                ineligible to be exempt from taxation under section 501(a) of such
+                                Code if it establishes a separate segregated fund under this
+                                subsection.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HB7C386E5E0CA4CA8A6FA5610E015446F">
+                <enum>(b)</enum>
+                <header>Permitting solicitation of contributions only from executive and
+                    administrative personnel</header>
+                <text>Section 316(b) of such Act (52 U.S.C. 30118(b)) is amended—</text>
+                <paragraph id="HFD57520F78F543649A749F9A7F33AB57">
+                    <enum>(1)</enum>
+                    <text>in paragraph (4)(A)(i), by striking <quote>its stockholders and their
+                            families and</quote>;</text>
+                </paragraph>
+                <paragraph id="H090C7B351A224C639D9F3E94FE7E8E20">
+                    <enum>(2)</enum>
+                    <text>in paragraph (4)(B)—</text>
+                    <subparagraph id="HB27E07BD257D45188FEEC7D2E7B5DBB3">
+                        <enum>(A)</enum>
+                        <text>by striking <quote>a corporation</quote> the first place it appears
+                            and inserting <quote>a nonprofit corporation</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="HE0059C379D9E46E5B8DEF09C4584F3D0">
+                        <enum>(B)</enum>
+                        <text>by striking <quote>any stockholder, executive or administrative
+                                personnel,</quote> and inserting <quote>any executive or
+                                administrative personnel</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HD41F3D3A72234339983551CF7DD64D36">
+                        <enum>(C)</enum>
+                        <text>by striking <quote>stockholders, executive or administrative
+                                personnel,</quote> and inserting <quote>executive or administrative
+                                personnel</quote>;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H6190A656C7314862B32F053481CFD7DA">
+                    <enum>(3)</enum>
+                    <text>in paragraph (4)(D)—</text>
+                    <subparagraph id="HED82983C53E4492190C7A3CD1715C3EC">
+                        <enum>(A)</enum>
+                        <text>by striking <quote>stockholders and</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="H350898D5DF734B6BBF558CE63CBF8BB0">
+                        <enum>(B)</enum>
+                        <text>by striking <quote>such stockholders or personnel</quote> and
+                            inserting <quote>such personnel</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HEC00D8BABFF4452B97D976104571B32C">
+                        <enum>(C)</enum>
+                        <text>by striking <quote>such stockholders and personnel</quote> and
+                            inserting <quote>such personnel</quote>; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H7EF0B9FBFAFA48CCA4AD76371538D47A">
+                    <enum>(4)</enum>
+                    <text>in paragraph (5), by striking <quote>stockholders and</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H4BA360F537684FCF8F38EC91E36D352F">
+                <enum>(c)</enum>
+                <header>Treatment of government contractors</header>
+                <text display-inline="yes-display-inline">Section 317(b) of such Act (52 U.S.C.
+                    30119(b)) is amended—</text>
+                <paragraph id="H238028098CAF452597B680FF89130AD4">
+                    <enum>(1)</enum>
+                    <text>by striking <quote>any corporation</quote> and inserting <quote>any
+                            nonprofit corporation</quote>; and</text>
+                </paragraph>
+                <paragraph id="H3B356E481DF145B0872652DCBBE6FB15">
+                    <enum>(2)</enum>
+                    <text>by striking <quote>a corporation</quote> and inserting <quote>a nonprofit
+                            corporation</quote>.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H1DAA3B05231A4E0EA7E01E2279EF8484">
+            <enum>3.</enum>
+            <header>Effective date; transition for existing funds and committees</header>
+            <subsection id="H0E03BB3700584D6899F6A8D9D96A8ADA">
+                <enum>(a)</enum>
+                <header>Effective date</header>
+                <text display-inline="yes-display-inline">The amendments made by this Act shall take
+                    effect on the date of the enactment of this Act.</text>
+            </subsection>
+            <subsection id="HEC1D360A3568402D87698D65D4D62302">
+                <enum>(b)</enum>
+                <header>Transition for existing funds and committees</header>
+                <text>In the case of a separate segregate fund established and operating under
+                    section 316(b)(2)(C) of the Federal Election Campaign Act of 1971 (52 U.S.C.
+                    30118(b)(2)(C)) as of the date of the enactment of this Act which is not a fund
+                    of a nonprofit corporation as defined in section 316(b)(8) of such Act (as added
+                    by section 2(a)(2)), the fund shall terminate and disburse its entire balance
+                    not later than 1 year after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>

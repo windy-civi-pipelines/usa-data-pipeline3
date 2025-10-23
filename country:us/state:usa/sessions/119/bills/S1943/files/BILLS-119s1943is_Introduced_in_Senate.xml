@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25380-XSW-K0-HGW">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1943 IS: Protecting Seniors' Data Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1943</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250604">June 4, 2025</action-date>
+            <action-desc><sponsor name-id="S316">Mr. Whitehouse</sponsor> (for himself, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, and <cosponsor name-id="S366">Ms.
+                    Warren</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require performance and security audits of the computer systems of the
+            Social Security Administration, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Seniors' Data Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id09a9567552504d82840fe1c0146199c6">
+            <enum>2.</enum>
+            <header>Comptroller General study</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id1ade31c897034992b7ea4d2a0228a3f0">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Not later than 60 days after the date of enactment of this Act, the Comptroller General of the United States shall commence a comprehensive audit of the Social Security Administration computer systems and networks accessed by the United States DOGE Service, the U.S. DOGE Service Temporary Organization, or any employees or volunteers affiliated with those agencies, or, if applicable, associated agency DOGE teams, to identify security vulnerabilities or bugs in software installed, created, or modified by such individuals or entities, and whether such individuals or entities violated Federal privacy laws, including section 552a of title 5, United States Code (commonly referred to as the <quote>Privacy Act of 1974</quote>), section 6103 of the Internal Revenue Code, subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code (commonly referred to as the <quote>Federal Information Security Management Act</quote>), or section 1106 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1306">42 U.S.C. 1306</external-xref>).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="ide8635bcbf1c043f59ace58b9845c9153">
+                <enum>(b)</enum>
+                <header>Audit report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, and the Commissioner of the Social Security Administration a report or reports describing the results of the comprehensive systems audits performed under subsection (a), including recommendations for legislation and administrative action as the Comptroller General determines appropriate.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id9b22ea73fe3d4bf297de15acaeac8887">
+                <enum>(c)</enum>
+                <header>Agency action</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after receipt of an audit report by the Commissioner of the Social Security Administration under subsection (b), the Commissioner shall—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id353d64392afe440c9f6447ed989a7e63">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">fix any vulnerabilities or bugs identified in the report; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idae936863a04240edb7718cdad249e671">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">submit to the <committee-name committee-id="SSFI00">Committee on Finance of the Senate</committee-name> and the <committee-name committee-id="">Committee on Ways and Means of the House of Representatives</committee-name> a report on the status of those vulnerabilities or bugs.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

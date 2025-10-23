@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H516D724914D8470D800A971961477510" public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4352 IH: Houses Over Middle-Class Exploitation Schemes Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session>
+        <legis-num display="yes">H. R. 4352</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20250710">July 10, 2025</action-date>
+            <action-desc><sponsor name-id="S001223">Mrs. Sykes</sponsor> (for herself and <cosponsor name-id="L000602">Ms. Lee of Pennsylvania</cosponsor>) introduced the following
+                bill; which was referred to the <committee-name committee-id="HWM00">Committee on
+                    Ways and Means</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To amend the Internal Revenue Code of 1986 to deny interest
+            and depreciation deductions for taxpayers owning 50 or more single family
+            properties.</official-title>
+    </form>
+    <legis-body id="H7F2A037D1E1B48D3A751E5539FFB80AC" style="OLC">
+        <section id="H8B96474403C14391A15051998DB3E664" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Houses Over Middle-Class Exploitation Schemes Act</short-title></quote> or the <quote><short-title>HOMES Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H98050DFDADE74959884692DB3287917D">
+            <enum>2.</enum>
+            <header>Disallowance of interest deduction for disqualified single family property
+                owners</header>
+            <subsection commented="no" display-inline="no-display-inline" id="HABCF77584C394D17B58DBE710A0A4EB3">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/163">Section 163</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (n) as subsection (o) and by inserting after subsection (m) the following new subsection:</text>
+                <quoted-block id="H75B3C3994EC8462DBA32CB8E76890B48" display-inline="no-display-inline" style="OLC">
+                    <subsection commented="no" display-inline="no-display-inline" id="HE4354382744349F39A2799D3505EBF88">
+                        <enum>(n)</enum>
+                        <header>Interest paid by certain disqualified single family property
+                            owners</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="HBB49541E166D4814A4013A5C4FC86C4A">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of a disqualified single family property owner, no deduction shall be allowed under this chapter for any interest paid or accrued in connection with any single family residential rental property owned (directly or indirectly) by such disqualified single family property owner.</text>
+                        </paragraph>
+                        <paragraph display-inline="no-display-inline" commented="no" id="H69CBA49CF75C432D995F057580DCBBE5">
+                            <enum>(2)</enum>
+                            <header>Exception</header>
+                            <subparagraph display-inline="no-display-inline" commented="no" id="HB46E2730E0B64085866A66277E4992A6">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>Paragraph (1) shall not apply with respect to interest paid or accrued in the taxable year in which such single family residential rental property is sold.</text>
+                            </subparagraph>
+                            <subparagraph display-inline="no-display-inline" commented="no" id="HC7E8307ABE8B4948A8020C9E38959495">
+                                <enum>(B)</enum>
+                                <header>Exception</header>
+ <text>Subparagraph (A) shall not apply unless the sale described in such subparagraph is—</text>
+                                <clause display-inline="no-display-inline" commented="no" id="H1FDBF32BA9494BD6BD58E4F6D3C3DA8E">
+                                    <enum>(i)</enum>
+ <text>a sale to an individual for use as the principle residence of the individual (within the meaning of section 121), or</text>
+                                </clause>
+                                <clause display-inline="no-display-inline" commented="no" id="H38782138F92A4407BC31E2603B56C7D1">
+                                    <enum>(ii)</enum>
+ <text>a sale to any qualified nonprofit organization.</text> </clause> </subparagraph> <subparagraph display-inline="no-display-inline" commented="no" id="H10884BD0F68F454BA9D257B2FF5F305C"> <enum>(C)</enum> <header>Qualified nonprofit organization</header> <clause display-inline="no-display-inline" commented="no" id="HEE9F3224A1454EA58FFC93170DF84BB4"> <enum>(i)</enum> <header>In general</header> <text>For purposes of this paragraph, the term <term>qualified nonprofit organization</term> means any organization which—</text>
+                                    <subclause display-inline="no-display-inline" commented="no" id="H1617A276B4FA4E8F9DD310E24602D927">
+                                        <enum>(I)</enum>
+ <text>is not organized for profit, and</text> </subclause> <subclause display-inline="no-display-inline" commented="no" id="H36D34A868F53443696D7AE5E18F810AF"> <enum>(II)</enum> <text>has as a principal purpose the creation, development, or preservation of affordable housing.</text>
+                                    </subclause>
+                                </clause>
+                                <clause display-inline="no-display-inline" commented="no" id="HD8F3D9790116466587CDBFCFC3D6355F">
+                                    <enum>(ii)</enum>
+                                    <header>Certain organizations included</header>
+ <text>The term <term>qualified nonprofit organization</term> shall include—</text>
+                                    <subclause id="H0CE682D2A46E43CC9604F3D73226A20C">
+                                        <enum>(I)</enum>
+ <text>any community development corporation (as defined in section 204(b) of the Department of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (12 U.S.C. 1715z–11a(b))),</text>
+                                    </subclause>
+                                    <subclause id="HF26F3CECF8CE4CE3ABE53EC12A49232A">
+                                        <enum>(II)</enum>
+ <text>any community housing development organization (as defined in section 104 of the Cranston-Gonzales National Affordable Housing Act (<external-xref legal-doc="usc" parsable-cite="usc/42/12704">42 U.S.C. 12704</external-xref>)),</text>
+                                    </subclause>
+                                    <subclause id="H1C63670666064E3898808CBD1D7C8514">
+                                        <enum>(III)</enum>
+ <text>any community-based development organization qualified under section 570.204 of title 24, Code of Federal Regulations, as in effect on the date of the enactment of this subsection,</text>
+                                    </subclause>
+                                    <subclause id="H74DB187976E648E5A78C4CD9352B5122">
+                                        <enum>(IV)</enum>
+ <text>any land bank, </text> </subclause> <subclause id="HB6704E36A7724EE1932389A6971632E2"> <enum>(V)</enum> <text>any resident-owned cooperative or community land trust, and</text>
+                                    </subclause>
+                                    <subclause id="HAEAC7F7D96804A84887CFA57CCCADE76">
+                                        <enum>(VI)</enum>
+ <text>any subsidiary of a public housing agency (as defined in section 3(b)(6) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437a">42 U.S.C. 1437a(b)(6)</external-xref>)).</text>
+                                    </subclause>
+                                </clause>
+                                <clause id="H81998E407F1146AFB46FCDF94B3C8AAE">
+                                    <enum>(iii)</enum>
+                                    <header>Land bank</header>
+ <text>For purposes of this subparagraph, the term <term>land bank</term> means a government entity, agency, or program, or a special purpose nonprofit entity formed by one or more units of government in accordance with State or local land bank enabling law, that has been designated by one or more State or local governments to acquire, steward, and dispose of vacant, abandoned, or other problem properties in accordance with locally-determined priorities and goals. </text>
+                                </clause>
+                                <clause id="H50475D8D282D48C4912F46A640B11D2A">
+                                    <enum>(iv)</enum>
+                                    <header>Community land trust</header>
+ <text>For purposes of this subparagraph, the term <term>community land trust</term> means a nonprofit organization or State or local government or instrumentality that—</text>
+                                    <subclause id="HA7EA1DA01F744D62A35C1D35C2602D31">
+                                        <enum>(I)</enum>
+ <text>use a ground lease or deed covenant with an affordability period of at least 30 years or more to—</text>
+                                        <item id="H127F1A0A588F4CDB948E3D6E491A1FDC">
+                                            <enum>(aa)</enum>
+ <text>make rental and homeownership units affordable to households; and</text>
+                                        </item>
+                                        <item id="H6AC2AA1C33944FA09309CCFC9D7DE97B">
+                                            <enum>(bb)</enum>
+ <text>stipulate a preemptive option to purchase the affordable rentals or homeownership units so that the affordability of the units is preserved for successive income-eligible households; and</text>
+                                        </item>
+                                    </subclause>
+                                    <subclause id="HF427EE0B37994939B2073A8EE0F3FD6A">
+                                        <enum>(II)</enum>
+ <text>monitors properties to ensure affordability is preserved. </text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="H4D149B8EBF1A46319C6E377052571095">
+                            <enum>(3)</enum>
+                            <header>Disqualified single family property owner</header>
+ <text>For purposes of this subsection—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H3252890CBDA64F5784648D4CB248A444"> <enum>(A)</enum> <header>In general</header> <text>The term <term>disqualified single family property owner</term> means, with respect to any taxable year, any taxpayer who owns (directly or indirectly) 50 or more single family residential rental properties. </text>
+                            </subparagraph>
+                            <subparagraph display-inline="no-display-inline" commented="no" id="H8C35D2FA20AD47328AA5A8C0AF4FF1DD">
+                                <enum>(B)</enum>
+                                <header>Aggregation rules</header>
+ <text>All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one taxpayer for purposes of this section.</text>
+                            </subparagraph>
+                            <subparagraph id="H82F9C5706726416D8D192F7A14EE73CA">
+                                <enum>(C)</enum>
+                                <header>Modifications</header>
+                                <clause id="HDFFA7445D0854309A89069EEC5D8FA2F">
+                                    <enum>(i)</enum>
+                                    <header>In general</header>
+ <text>For purposes of applying subparagraph (B)—</text> <subclause id="HE67AEC0F1FAA49F1AF00DFD0F688BC5A"> <enum>(I)</enum> <text>section 52(a) shall be applied by substituting <quote>component members</quote> for <quote>members</quote>, and</text>
+                                    </subclause>
+                                    <subclause id="H6310FA4EE6BF4733A651E8E8047D55EC">
+                                        <enum>(II)</enum>
+ <text>for purposes of applying section 52(b), the term <quote>trade or business</quote> shall include any activity treated as a trade or business under paragraph (5) or (6) of section 469(c) (determined without regard to the phrase <quote>To the extent provided in regulations</quote> in such paragraph (6)).</text>
+                                    </subclause>
+                                </clause>
+                                <clause id="HF6DDACD192A24B1B9E3A8BE569CE0941">
+                                    <enum>(ii)</enum>
+                                    <header>Component member</header>
+ <text>For purposes of this paragraph, the term <term>component member</term> has the meaning given such term by section 1563(b), except that the determination shall be made without regard to section 1563(b)(2).</text>
+                                </clause>
+                                <clause id="HB71BF3F3757944A7ABC578418A7AFE9A">
+                                    <enum>(iii)</enum>
+                                    <header>No inference</header>
+ <text>The modifications made by clause (i) shall not be construed to create any inference with respect to the proper application of section 52 with respect to any other provision of this title.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H32F75FCEEFEB4CF0808AB08CC0C1B415" commented="no" display-inline="no-display-inline">
+                            <enum>(4)</enum>
+                            <header>Single family residential rental property</header>
+ <text>For purposes of this subsection—</text> <subparagraph commented="no" display-inline="no-display-inline" id="HD6190327A413492D8FC5083E3E4BE288"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term <term>single family residential rental property</term> means—</text>
+                                <clause id="H04EEE5CEA12B4FFA8E15097205E2BE37">
+                                    <enum>(i)</enum>
+ <text>any residential rental property (as defined in section 168(e)(2)(A)(i)) which contains 4 or fewer dwelling units (as defined in section 168(e)(2)(A)(ii)(I)), and</text>
+                                </clause>
+                                <clause id="HBA93614B01744088A634EC98E006D027">
+                                    <enum>(ii)</enum>
+ <text>improvements to real property directly related to such dwelling units located on the site of such dwelling units.</text>
+                                </clause>
+                                <continuation-text continuation-text-level="subparagraph">For
+                                    purposes of clause (i), each townhouse or rowhouse shall be
+                                    treated as a separate building.</continuation-text>
+                            </subparagraph>
+                            <subparagraph id="H66F9C4D0DED7411DB2C0EFBADD93F6A2">
+                                <enum>(B)</enum>
+                                <header>Exception for certain properties</header>
+ <text>Such term shall not include any residential rental property (as so defined)—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="H25DFD7CCCA894346A85E5A79E7FE2042">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">with respect to which a credit is allowed under section 42 for such taxable year or any property, or</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="H564DCF130148435CAE9B515BFE171A11">
+                                    <enum>(ii)</enum>
+ <text>which—</text> <subclause commented="no" display-inline="no-display-inline" id="H72045C82C5E64814A8E18FDEB8907EF6"> <enum>(I)</enum> <text display-inline="yes-display-inline">was constructed by the taxpayer, or</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="H1B34B4A9C14B4928B7E2967DB904451C">
+                                        <enum>(II)</enum>
+ <text>acquired by the taxpayer after its construction but before the first date on which any dwelling unit in such property was occupied by a resident.</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H4182F1AEB88A4D3584D486B12226FDA4">
+                            <enum>(5)</enum>
+                            <header>Regulations</header>
+ <text>The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations to prevent the avoidance of the purposes of this subsection.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H17AABC13E4C4463799DAEB7B44A4490F">
+                <enum>(b)</enum>
+                <header>Application to capitalized amounts</header>
+                <paragraph id="HEB2878ECB7084C7AAD8F547F65F32E8E">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/263A">Section 263A(f)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HFB5D8556392C4DF5A8668F221546B1CA">
+                        <subparagraph id="H8D7F617DB660499094AEC6C9AD25475A">
+                            <enum>(D)</enum>
+                            <header>Exception for certain interest of disqualified single family
+                                property owners</header>
+ <text>Subparagraph (A) shall not apply to any interest for which a deduction would be disallowed under section 163(n).</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="HE92898DA954242A88C8B2AD5DB3663CA">
+                    <enum>(2)</enum>
+                    <header>Carrying charges</header>
+ <text>Section 266 of such Code is amended—</text> <subparagraph id="HF1693F767BF64113800C654C58523EDB"> <enum>(A)</enum> <text>by striking <quote>No deduction</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="HD10468898301430D8F325629A8336977">
+                            <subsection id="H035CAE6644CD40599A1266A5615F6F49">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>No deduction</text> </subsection> <after-quoted-block>, and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph id="HA4E0CE0A737C42418CC493F2EB16EA81"> <enum>(B)</enum> <text>by adding at the end the following new subsection:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="HE419256C09FF4523A7DBE1C000B8F48E">
+                            <subsection id="H352C139E297345AEB97039A6AC8F0AD5">
+                                <enum>(b)</enum>
+                                <header>Special rule for certain interest of disqualified single
+                                    family property owners</header>
+ <text>No election may be made under this section to treat as chargeable to capital account any interest for which a deduction would be disallowed under section 163(n).</text>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="H020D30F953FF41828B7C02B660FD475C">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply to indebtedness incurred in taxable years beginning after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H3A50C810B00E44D293E5730EBFBA9EA9">
+            <enum>3.</enum>
+            <header>Disallowance of depreciation in connection with property used by disqualified
+                single family property owners</header>
+            <subsection commented="no" display-inline="no-display-inline" id="H71569D6F257A4881923C192230875F8A">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/167">Section 167</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (i) as subsection (j) and by inserting after subsection (h) the following new subsection:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H83554211D112449EA623D6BE8DE843E2">
+                    <subsection commented="no" display-inline="no-display-inline" id="H0F62A0D80ADB452F878EACB85ADCCA7B">
+                        <enum>(i)</enum>
+                        <header>Deduction disallowed for disqualified single family property
+                            owners</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="H4395AC890CDA49799A19DC348C09B7D5">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of a disqualified single family property owner, no deduction shall be allowed under this section for any single family residential rental property owned by such disqualified single family property owner.</text>
+                        </paragraph>
+                        <paragraph display-inline="no-display-inline" commented="no" id="H95602EF3F2354ABDBF6BD23C7C1500A5">
+                            <enum>(2)</enum>
+                            <header>Exception</header>
+                            <subparagraph display-inline="no-display-inline" commented="no" id="H9E3838F4E4AE4463998B15A06E3F63A7">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>Paragraph (1) shall not apply with respect to depreciation deduction which is allowable—</text>
+                                <clause display-inline="no-display-inline" commented="no" id="H17FC8922A47A4BEE817705445ED04F7C">
+                                    <enum>(i)</enum>
+ <text>in connection with a single family residential rental property, and</text>
+                                </clause>
+                                <clause display-inline="no-display-inline" commented="no" id="H9427092D8680443EA4DBB0822534B14C">
+                                    <enum>(ii)</enum>
+ <text>in the taxable year in which such single family residential rental property is sold.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph display-inline="no-display-inline" commented="no" id="H4BA62590D8854CCAAF8B78EAFACF57F1">
+                                <enum>(B)</enum>
+                                <header>Exception</header>
+ <text>Subparagraph (A) shall not apply unless the sale described in clause (ii) thereof is—</text>
+                                <clause display-inline="no-display-inline" commented="no" id="H625F7294CCAA42828357961D662AF70E">
+                                    <enum>(i)</enum>
+ <text>a sale to an individual for use as the principle residence of the individual (within the meaning of section 121), or</text>
+                                </clause>
+                                <clause display-inline="no-display-inline" commented="no" id="H51789E2E30354954B508A169E9A629BE">
+                                    <enum>(ii)</enum>
+ <text>a sale to any qualified nonprofit organization (as defined in section 163(n)(2)(C)).</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="H7AAD5BBD3F174667BBEE297DFC34F1C2">
+                            <enum>(3)</enum>
+                            <header>Definitions</header>
+ <text>For purposes of this subsection, the terms <term>disqualified single family property owner</term> and <term>single family residential rental property</term> have the respective meanings given such terms under section 163(n).</text>
+                        </paragraph>
+                        <paragraph id="H46A03A9F2A784F25834229271A744B3D" commented="no" display-inline="no-display-inline">
+                            <enum>(4)</enum>
+                            <header display-inline="yes-display-inline">Regulations</header>
+ <text display-inline="yes-display-inline">The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations to prevent the avoidance of the purposes of this subsection. </text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H8A4DD24C6A754044AFF71BE012BC5E7C" commented="no" display-inline="no-display-inline">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to property placed in service in taxable years beginning after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

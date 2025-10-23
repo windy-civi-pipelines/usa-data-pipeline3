@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ARP25257-R5F-SR-8S6">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1848 IS: Opportunities for Fairness in Farming Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1848</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S346">Mr. Lee</sponsor> (for himself, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S366">Ms.
+                    Warren</cosponsor>, and <cosponsor name-id="S348">Mr. Paul</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+                    Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit certain practices relating to certain commodity promotion
+            programs, to require greater transparency by those programs, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HCD049396FDCD4C46B9B488BBE7701E80">
+        <section section-type="section-one" id="H479748A5F57A499EB293237EDC542D11">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Opportunities for Fairness in Farming Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H5B80EC856EF74633B5CED829AC2CA5E4">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds that—</text> <paragraph id="HD183E54DF7754ED7AD4D1170185131B2"> <enum>(1)</enum> <text>the generic programs to promote and provide research and information for an agricultural commodity (commonly known as <quote>checkoff programs</quote>) are intended to increase demand for all of that agricultural commodity and benefit all assessed producers of that agricultural commodity;</text>
+            </paragraph>
+            <paragraph id="H7EE6AE97EFD144AA93A023E90BE5B935">
+                <enum>(2)</enum>
+ <text>although the laws establishing checkoff programs broadly prohibit the use of funds in any manner for the purpose of influencing legislation or government action, checkoff programs have repeatedly been shown to use funds to influence policy directly or by partnering with organizations that lobby;</text>
+            </paragraph>
+            <paragraph id="H247B7559BD614B008694AAF0406848EA">
+                <enum>(3)</enum>
+ <text>the unlawful use of checkoff programs funds benefits some agricultural producers while harming many others;</text>
+            </paragraph>
+            <paragraph id="H639B6C90F34948218BB27A3D8BCE44DC">
+                <enum>(4)</enum>
+ <text>to more effectively prevent Boards from using funds for unlawful purposes, strict separation of engagement between the Boards and policy entities is necessary;</text>
+            </paragraph>
+            <paragraph id="H3B8A97FFF3DA4C6F903F9B0C2AC804E7">
+                <enum>(5)</enum>
+ <text>conflicts of interest in the checkoff programs allow special interests to use checkoff program funds for the benefit of some assessed agricultural producers at the expense of many others;</text>
+            </paragraph>
+            <paragraph id="H9C86BA56AEE9465A8069BF399F86F98B">
+                <enum>(6)</enum>
+ <text>prohibiting conflicts of interest in checkoff programs is necessary to ensure the proper and lawful operation of the checkoff programs;</text>
+            </paragraph>
+            <paragraph id="H7CCC8A2976064F838E03DFD5492A865F">
+                <enum>(7)</enum>
+ <text>checkoff programs are designed to promote agricultural commodities, not to damage other types of agricultural commodities through anticompetitive conduct or otherwise;</text>
+            </paragraph>
+            <paragraph id="H8FF3AD58679847C9B093774A6A2567D0">
+                <enum>(8)</enum>
+ <text>prohibiting anticompetitive and similar conduct is necessary to ensure proper and lawful operation of checkoff programs;</text>
+            </paragraph>
+            <paragraph id="H9AE6F6F4C2FA4443ABCFE9D4860F3880">
+                <enum>(9)</enum>
+ <text>lack of transparency in checkoff programs enables abuses to occur and conceals abuses from being discovered; and</text>
+            </paragraph>
+            <paragraph id="H2B24476A7B124EC0A5AB7993A286080E">
+                <enum>(10)</enum>
+ <text>requiring transparency in the expenditure of checkoff program funds is necessary to prevent and uncover abuses in checkoff programs.</text>
+            </paragraph>
+        </section>
+        <section id="H841FEF35D04C437BAACB9007EDAC787A">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="H1EFCCE07B3524ACFB4C210723624C837"> <enum>(1)</enum> <header>Board</header> <text>The term <term>Board</term> means a Federal or State board, committee, council, or similar entity established to carry out a checkoff program or an order issued by the Secretary under a checkoff program.</text>
+            </paragraph>
+            <paragraph id="H7409F70B94D049C3A9B1BD34FD790B27">
+                <enum>(2)</enum>
+                <header>Checkoff program</header>
+ <text display-inline="yes-display-inline">The term <term>checkoff program</term> means a program to promote and provide research and information for a particular agricultural commodity without reference to specific producers or brands, including a program carried out under any of the following:</text>
+                <subparagraph id="H78E94363A48F4CF99C298C60AEBCA2CD">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">The Cotton Research and Promotion Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2101">7 U.S.C. 2101 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HFEB76E1B5D194319B46790AB8AF4E0DE">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">The Potato Research and Promotion Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2611">7 U.S.C. 2611 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HAD6939C4F10C4E798E7B506A5834DDF5">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">The Egg Research and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2701">7 U.S.C. 2701 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HE378EB7727BE45DE8FD5B267F735E1AE">
+                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">The Beef Research and Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2901">7 U.S.C. 2901 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HCB4D964136704338B69623883EC066AC">
+                    <enum>(E)</enum>
+ <text display-inline="yes-display-inline">The Wheat and Wheat Foods Research and Nutrition Education Act (<external-xref legal-doc="usc" parsable-cite="usc/7/3401">7 U.S.C. 3401 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph commented="no" id="H9611878A98454B3ABA8FF74F454A58C2">
+                    <enum>(F)</enum>
+ <text>The Floral Research and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/4301">7 U.S.C. 4301 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H554822CD86E044E6841D2D915256FB8A">
+                    <enum>(G)</enum>
+ <text display-inline="yes-display-inline">Subtitle B of the Dairy Production Stabilization Act of 1983 (<external-xref legal-doc="usc" parsable-cite="usc/7/4501">7 U.S.C. 4501 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph commented="no" id="HB5AAE4A88E084A29B4453978096776A6">
+                    <enum>(H)</enum>
+ <text display-inline="yes-display-inline">The Honey Research, Promotion, and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/4601">7 U.S.C. 4601 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HF4294A36E1AC4A728BBA87D6680A5E82">
+                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">The Pork Promotion, Research, and Consumer Information Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/7/4801">7 U.S.C. 4801 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HDF713B22B066445189F2E8D818648C06">
+                    <enum>(J)</enum>
+ <text display-inline="yes-display-inline">The Watermelon Research and Promotion Act (<external-xref legal-doc="usc" parsable-cite="usc/7/4901">7 U.S.C. 4901 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HC8DB1E19C1174637B563DA44C744CED1">
+                    <enum>(K)</enum>
+ <text display-inline="yes-display-inline">The Pecan Promotion and Research Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6001">7 U.S.C. 6001 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H11D3B150146748FE91B70011A5FD6A70">
+                    <enum>(L)</enum>
+ <text display-inline="yes-display-inline">The Mushroom Promotion, Research, and Consumer Information Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6101">7 U.S.C. 6101 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H71C8A119F79B4E2394638A6131B8F833">
+                    <enum>(M)</enum>
+ <text display-inline="yes-display-inline">The Lime Research, Promotion, and Consumer Information Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6201">7 U.S.C. 6201 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H8E1109EA905D449CBE2CB6519261FB3C">
+                    <enum>(N)</enum>
+ <text display-inline="yes-display-inline">The Soybean Promotion, Research, and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/6301">7 U.S.C. 6301 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H4160BA2EB4C347E189ECB6E4E93EBD11">
+                    <enum>(O)</enum>
+ <text display-inline="yes-display-inline">The Fluid Milk Promotion Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6401">7 U.S.C. 6401 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HDAA25AA613484886A52B9D3470147385">
+                    <enum>(P)</enum>
+ <text display-inline="yes-display-inline">The Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/7/6801">7 U.S.C. 6801 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H6754EEC1F65343328ECF2FDDA66BD8EB">
+                    <enum>(Q)</enum>
+ <text display-inline="yes-display-inline">The Sheep Promotion, Research, and Information Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/7/7101">7 U.S.C. 7101 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H6C3818B22DD346CF82348E8B0B5708A6">
+                    <enum>(R)</enum>
+ <text>Section 501 of the Federal Agriculture Improvement and Reform Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/7/7401">7 U.S.C. 7401</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H81A935911F4C47718470535AB53401D4">
+                    <enum>(S)</enum>
+ <text display-inline="yes-display-inline">The Commodity Promotion, Research, and Information Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/7/7411">7 U.S.C. 7411 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H73BBE2A1FAA8470384C5497E9127DEE8">
+                    <enum>(T)</enum>
+ <text>The Canola and Rapeseed Research, Promotion, and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7441">7 U.S.C. 7441 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="HB2688674012B4518A96A317769858163">
+                    <enum>(U)</enum>
+ <text>The National Kiwifruit Research, Promotion, and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7461">7 U.S.C. 7461 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H5D6BB87B13114E99BFEAA591E8A80D8A">
+                    <enum>(V)</enum>
+ <text display-inline="yes-display-inline">The Popcorn Promotion, Research, and Consumer Information Act (<external-xref legal-doc="usc" parsable-cite="usc/7/7481">7 U.S.C. 7481 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H41FCBD7F54F044FE895C3562EB29B09C">
+                    <enum>(W)</enum>
+ <text display-inline="yes-display-inline">The Hass Avocado Promotion, Research, and Information Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/7/7801">7 U.S.C. 7801 et seq.</external-xref>).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="HC4FF5E8785C84723AA6071775BAF7A17">
+                <enum>(3)</enum>
+                <header>Conflict of interest</header>
+ <text>The term <term>conflict of interest</term> means a direct or indirect financial interest in a person or entity that performs a service for, or enters into a contract or agreement with, a Board for anything of economic value.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H3F163B80BE21475F905FC7AA6060262B">
+                <enum>(4)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Agriculture.</text> </paragraph> </section> <section id="HA1C5ED15F16D4B0FB7A34839320A0598"> <enum>4.</enum> <header>Requirements of checkoff programs</header> <subsection id="H8067B821008F427DA3400CA86A6C0CA9"> <enum>(a)</enum> <header>Prohibitions</header> <paragraph id="HFAEC790E2A2E40F1A253E6BBEC4605B4"> <enum>(1)</enum> <header>In general</header> <text>Except as provided in paragraph (4), for any checkoff program with an annual assessment revenue equal to more than $20,000,000, a Board shall not enter into any contract or agreement to carry out activities under the checkoff program with a party that engages in activities for the purpose of influencing any government policy or action that relates to agriculture.</text>
+                </paragraph>
+                <paragraph id="HDF5B880DC2CB4FB18CF643BE881903EF">
+                    <enum>(2)</enum>
+                    <header>Conflicts of interest</header>
+ <text>A Board shall not engage in, and shall prohibit the employees and agents of the Board, acting in their official capacity, from engaging in, any act that may involve a conflict of interest.</text>
+                </paragraph>
+                <paragraph id="H7B07E8627E244BE2B6A5449164A9E3E8">
+                    <enum>(3)</enum>
+                    <header>Other prohibitions</header>
+ <text>A Board shall not engage in, and shall prohibit the employees and agents of the Board, acting in their official capacity, from engaging in—</text>
+                    <subparagraph id="HD26C5A1DBD114A29B6BDADD0828EDE9F">
+                        <enum>(A)</enum>
+ <text>any anticompetitive activity;</text> </subparagraph> <subparagraph id="HCB2DF6F53EB541458A98345584FCC949"> <enum>(B)</enum> <text>any unfair or deceptive act or practice; or</text>
+                    </subparagraph>
+                    <subparagraph id="H6A895BD76F2C4C39B8E7DD385BB02BE5">
+                        <enum>(C)</enum>
+ <text>any act that may be disparaging to, or in any way negatively portray, another agricultural commodity or product.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H85DAD6BD2A39417A993DCE922AAA264E">
+                    <enum>(4)</enum>
+                    <header>Exception for certain contracts with institutions of higher
+                        education</header>
+ <text display-inline="yes-display-inline">Paragraph (1) shall not apply to a contract or agreement entered into between a Board and an institution of higher education for the purpose of research, extension, and education.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HD1A5F635BF9D49B59D3ABA62930E7BCC">
+                <enum>(b)</enum>
+                <header>Authority To enter into contracts</header>
+ <text>Notwithstanding any other provision of law, on approval of the Secretary, a Board may enter directly into contracts and agreements to carry out generic promotion, research, or other activities authorized by law.</text>
+            </subsection>
+            <subsection id="HF48A51AE0523419CBC98D3F35A22579D">
+                <enum>(c)</enum>
+                <header>Production of records</header>
+                <paragraph id="H82CE8F1F4AC246BD9D91F03B244A9A82">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Each contract or agreement of a checkoff program shall provide that the entity that enters into the contract or agreement shall produce to the applicable Board, on a quarterly basis, accurate records that account for all funds received under the contract or agreement, including any goods or services provided or costs incurred in connection with the contract or agreement.</text>
+                </paragraph>
+                <paragraph id="H9C196F7F260F4028868DD619FD1B9111">
+                    <enum>(2)</enum>
+                    <header>Maintenance and publication of records</header>
+ <text>Each Board shall—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ida24d029aaf134b99a09b0741f01d2fca"> <enum>(A)</enum> <text display-inline="yes-display-inline">maintain any records received under paragraph (1); and</text>
+                    </subparagraph>
+                    <subparagraph id="idab9c1396404f445281bee1ed0eec4daa">
+                        <enum>(B)</enum>
+ <text>publish and make available for public inspection those records by not later than 30 days after the date of receipt.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="HA7AE25C8DFC946DBAA9E03E91E5EF49D">
+                <enum>(d)</enum>
+                <header>Publication of budgets and disbursements</header>
+                <paragraph id="H0B18F3BD326944018B589EFBF2300BF9">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>A Board shall publish and make available for public inspection all budgets and disbursements of funds entrusted to the Board that are approved by the Secretary, immediately on approval by the Secretary.</text>
+                </paragraph>
+                <paragraph id="HDFBEA9EE974F477885D4AE2E6154463E">
+                    <enum>(2)</enum>
+                    <header>Required disclosures</header>
+ <text>In carrying out paragraph (1), a Board shall disclose—</text> <subparagraph id="HA13D42EC35B7474CB245FF259B07793F"> <enum>(A)</enum> <text>the amount of the disbursement;</text>
+                    </subparagraph>
+                    <subparagraph id="H6CCA6513E3214F33AB0D60A4EDD4DB6F">
+                        <enum>(B)</enum>
+ <text>the purpose of the disbursement, including the activities to be funded by the disbursement;</text>
+                    </subparagraph>
+                    <subparagraph id="H779A45ED99A149F58D6748106C79E89A">
+                        <enum>(C)</enum>
+ <text>the identity of the recipient of the disbursement; and</text> </subparagraph> <subparagraph id="H7C58FAAD48964EB2B542D57AD7EB9961"> <enum>(D)</enum> <text>the identity of any other parties that may receive the disbursed funds, including any contracts or subcontractors of the recipient of the disbursement.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="HF6CFE73BD2164345B96367398174C476">
+                <enum>(e)</enum>
+                <header>Audits</header>
+                <paragraph id="H86C55D5712CD440CBEE23AF3B42F3B7D">
+                    <enum>(1)</enum>
+                    <header>Periodic audits by Inspector General</header>
+                    <subparagraph id="HC13328D9FF654EBF960DEBEB18A6FEB2">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Not later than 2 years after the date of enactment of this Act, and not less frequently than once every 5 years thereafter, the Inspector General of the Department of Agriculture shall conduct an audit to determine the compliance of each checkoff program with this section during the period of time covered by the audit.</text>
+                    </subparagraph>
+                    <subparagraph id="H7FECC24B29684DCCA1D9375AA23FE6FC">
+                        <enum>(B)</enum>
+                        <header>Review of records</header>
+ <text>An audit conducted under subparagraph (A) shall include a review of any records produced to a Board under subsection (c)(1).</text>
+                    </subparagraph>
+                    <subparagraph id="HC9C526F8EB6045C9AF3BC8CDBC2A721A">
+                        <enum>(C)</enum>
+                        <header>Submission of reports</header>
+ <text>On completion of each audit under subparagraph (A), the Inspector General of the Department of Agriculture shall—</text>
+                        <clause id="H0B5E286F90404ABC95406FA9DB031D5E">
+                            <enum>(i)</enum>
+ <text>prepare a report describing the audit; and</text> </clause> <clause id="H4DE219D745764E249B750CC7C741FB8F"> <enum>(ii)</enum> <text>submit the report described in clause (i) to—</text>
+                            <subclause id="HA88BC4696C924D6DA04C292A49752A81">
+                                <enum>(I)</enum>
+ <text>the appropriate committees of Congress, including the Subcommittee on Competition Policy, Antitrust, and Consumer Rights of the Committee on the Judiciary of the Senate; and</text>
+                            </subclause>
+                            <subclause id="HACD44E867CE6474A8D91A22E0325AD7A">
+                                <enum>(II)</enum>
+ <text>the Comptroller General of the United States.</text> </subclause> </clause> </subparagraph> </paragraph> <paragraph id="H78A2BDBC781A4AC881E5999EA899BCD2"> <enum>(2)</enum> <header>Audit by Comptroller General</header> <subparagraph id="HF5903612A3CA4ED4929C540E3FCF810E"> <enum>(A)</enum> <header>In general</header> <text>Not earlier than 3 years, and not later than 5 years, after the date of enactment of this Act, the Comptroller General of the United States shall—</text>
+                        <clause id="HFC43594E91624651834770E3C6C6A145">
+                            <enum>(i)</enum>
+ <text>conduct an audit to assess—</text> <subclause id="HE271007E4DA948CA84DF10A01704590C"> <enum>(I)</enum> <text>the status of actions taken for each checkoff program to ensure compliance with this section; and</text>
+                            </subclause>
+                            <subclause id="HCC38531F2A6D4940AB23E98AD81DBE78">
+                                <enum>(II)</enum>
+ <text>the extent to which actions described in subclause (I) have improved the integrity of a checkoff program; and</text>
+                            </subclause>
+                        </clause>
+                        <clause id="HDE2E2DD11B5A47DD9C1EEAB5C2549650">
+                            <enum>(ii)</enum>
+ <text>prepare a report describing the audit conducted under clause (i), including any recommendations for—</text>
+                            <subclause id="H34E73A5F303443F995247811A8235DF9">
+                                <enum>(I)</enum>
+ <text>strengthening the effect of actions described in clause (i)(I); and</text>
+                            </subclause>
+                            <subclause id="HFB3745A6751E47B4BA2BA16138866D28">
+                                <enum>(II)</enum>
+ <text>improving Federal legislation relating to checkoff programs.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H5F3031159EC84BDDA45554AC7C8D8893">
+                        <enum>(B)</enum>
+                        <header>Consideration of Inspector General reports</header>
+ <text>The Comptroller General of the United States shall consider reports described in paragraph (1)(C) in preparing any recommendations in the report under subparagraph (A)(ii).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H21C628AC4B7A4AC5A8AB60F501586865">
+            <enum>5.</enum>
+            <header>Severability</header>
+ <text display-inline="no-display-inline">If any provision of this Act or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this Act, and the application of the provision to any other person or circumstance, shall not be affected.</text>
+        </section>
+    </legis-body>
+</bill>
+

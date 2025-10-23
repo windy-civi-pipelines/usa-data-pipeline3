@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H66C9A7F0081D4AF3867555AB1127367F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 3779 IH: STOCK Act 2.0</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3779</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250605">June 5, 2025</action-date><action-desc><sponsor name-id="M001241">Mr. Min</sponsor> (for himself, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="A000381">Ms. Ansari</cosponsor>, <cosponsor name-id="L000593">Mr. Levin</cosponsor>, <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>, <cosponsor name-id="D000530">Mr. Deluzio</cosponsor>, <cosponsor name-id="R000617">Mrs. Ramirez</cosponsor>, <cosponsor name-id="K000375">Mr. Keating</cosponsor>, <cosponsor name-id="H001066">Mr. Horsford</cosponsor>, and <cosponsor name-id="S001211">Mr. Stanton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committees on <committee-name committee-id="HHA00">House Administration</committee-name>, <committee-name committee-id="HJU00">the Judiciary</committee-name>, and <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, and the STOCK Act to require certain senior officials to report payments received from the Federal Government, to improve the filing and disclosure of financial disclosures by Members of Congress, congressional staff, very senior employees, and others, and to ban stock trading for certain senior Government officials, and for other purposes.</official-title></form><legis-body id="HCC9E85D1C4D8473F8C3C84BA2674E812" style="OLC"> 
+<section id="HDE946449AFF1474F84BE414EC1DA742C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>STOCK Act 2.0</short-title></quote>.</text></section> <section id="H05AB0620A11440DB95387EB1460A7DA7"> <enum>2.</enum> <header>Reporting of applications for, or receipt of, payments from Federal government</header> <subsection id="HF96F7AC0499B4313BB7C8C5AF15E2B7F"> <enum>(a)</enum> <header>In general</header> <text>Section 13103 of title 5, United States Code, is amended by adding at the end the following:</text>
+        <quoted-block id="HFB1131AC198E4389B8EA2A42237EA633" style="OLC">
+          <subsection id="H603267B45D454F5FB38E2CD3C6956585">
+            <enum>(i)</enum>
+            <header>Reporting of applications for, or receipt of, payments from Federal
+              government</header>
+            <paragraph id="HF0EE8101435843A882E3911A07CB8737">
+              <enum>(1)</enum>
+              <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph id="HE700E887C24B4370B6281F8A629EBC2E"> <enum>(A)</enum> <header>Covered payment</header> <clause id="H2E63AB65DBAA45ABA59E80BE594A97F8"> <enum>(i)</enum> <header>In general</header> <text>The term <term>covered payment</term> means a payment of money or any other item of value made, or promised to be made, by the Federal Government.</text>
+                </clause>
+                <clause id="H05A9BEDE826F444987BBC6B2307407AB">
+                  <enum>(ii)</enum>
+                  <header>Inclusions</header>
+ <text>The term <term>covered payment</term> includes—</text> <subclause id="H874C1CE2E6424F56B563BED852E85784"> <enum>(I)</enum> <text>a loan agreement, contract, or grant made, or promised to be made, by the Federal Government; and</text>
+                  </subclause>
+                  <subclause id="HBD8EEDC66A54403789210BD32EEBD6E3">
+                    <enum>(II)</enum>
+ <text>such other types of payment of money or items of value as the Secretary of the Treasury, in consultation with the Director of the Office of Government Ethics, may establish, by regulation.</text>
+                  </subclause>
+                </clause>
+                <clause id="H8255D8C9ACBA4336A195E42AFE173DEA">
+                  <enum>(iii)</enum>
+                  <header>Exclusions</header>
+ <text>The term <term>covered payment</term> does not include—</text> <subclause id="H2965625259E0488B90926FCE3102D056"> <enum>(I)</enum> <text>any salary or compensation for service performed as, or reimbursement of personal outlay by, an officer or employee of the Federal Government; or</text>
+                  </subclause>
+                  <subclause id="HC5ACE948BF104920BAA0E66A1B71C130">
+                    <enum>(II)</enum>
+ <text>any tax refund (including a refundable tax credit).</text> </subclause> </clause> </subparagraph> <subparagraph id="HA9E48E84FD874BE89DA8E480EA1BECD5"> <enum>(B)</enum> <header>Covered person</header> <text>The term <term>covered person</term> means—</text>
+                <clause id="HA35501F59F6544CCA82B6D759798B199">
+                  <enum>(i)</enum>
+ <text>an individual described in any of paragraphs (1) through (10) of section 13105(l); or</text>
+                </clause>
+                <clause id="H255A61C7B3F54663B51A5542656EA084">
+                  <enum>(ii)</enum>
+ <text>a spouse or dependent child of an individual described in clause (i).</text> </clause> </subparagraph> <subparagraph id="H49EE1119F28043E2945FCAF7FD31C4FC"> <enum>(C)</enum> <header>Dependent child</header> <text>The term <term>dependent child</term> means, with respect to any individual described in subparagraph (B)(i), any individual who is—</text>
+                <clause id="HFE86946442904FC487D9F2C91F62D26E">
+                  <enum>(i)</enum>
+ <text>under the age of 19; and</text> </clause> <clause id="H149B391BBA3B4AE496202FB9B19C2EC7"> <enum>(ii)</enum> <text>a dependent of the individual described in subparagraph (B)(i) within the meaning of <external-xref legal-doc="usc" parsable-cite="usc/26/152">section 152</external-xref> of the Internal Revenue Code of 1986.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H02ED22DDC9024402BECF8B86ACC21C75">
+              <enum>(2)</enum>
+              <header>Reporting requirement</header>
+ <text>Not later than 30 days after the date of receipt of a notice of any application for, or receipt of, a covered payment by a covered person (including any business owned and controlled by the covered person), but in no case later than 45 days after the date on which the covered payment is made or promised to be made, the covered person shall submit to the applicable supervising ethics office a report describing the covered payment.</text>
+            </paragraph>
+            <paragraph id="HBBF1DA0A1CB44CC7A9232D18360F5A34">
+              <enum>(3)</enum>
+              <header>Fine for failure to report</header>
+ <text>Notwithstanding section 13106(d), a covered person shall be assessed a fine, pursuant to regulations issued by the applicable supervising ethics office, of $5,000 in each case in which the covered person fails to file a report required under this subsection.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="H04360F99ABB04650A79DC20FFC8EC178">
+        <enum>(b)</enum>
+        <header>Report contents</header>
+ <text>Section 13104 of title 5, United States Code, is amended by adding at the end the following:</text>
+        <quoted-block id="H6DB34FBDBB304D81848F8FFA51BA37F2" style="OLC">
+          <subsection id="HE96C271FDFB0471E82339CD0910C3182">
+            <enum>(j)</enum>
+            <header>Payments from Federal government</header>
+ <text>Each report filed pursuant to subsection (i) of section 13103 shall include—</text>
+            <paragraph id="H500A7615F9F441998BCA92450CB8D89D">
+              <enum>(1)</enum>
+ <text>an identification of each type of payment or item of value applied for, or received, from the Federal Government;</text>
+            </paragraph>
+            <paragraph id="H2E87D1C2577345209231E8A65DEDB52D">
+              <enum>(2)</enum>
+              <subparagraph id="H293B6841A8C94C1CB32A1F346E0A2D9A"
+                display-inline="yes-display-inline">
+                <enum>(A)</enum>
+ <text>the name of each recipient of each payment or item of value identified under paragraph (1); and</text>
+              </subparagraph>
+              <subparagraph id="HA96F53B714CE4B80982DE8A2EE8285DE">
+                <enum>(B)</enum>
+ <text>the relationship of each recipient named under subparagraph (A) to the person filing the report;</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H2E5AB24379A948DB985FF5B1A29F1545">
+              <enum>(3)</enum>
+ <text>a description of the date on which, as applicable—</text> <subparagraph id="H0FBCEB1E431B4CE78EDFED558C069330"> <enum>(A)</enum> <text>an application for a payment or other item of value was submitted to the Federal Government; and</text>
+              </subparagraph>
+              <subparagraph id="H911F5416175F456D86834E5A6E91C324">
+                <enum>(B)</enum>
+ <text>the payment or item of value was received from the Federal Government; and</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H224FF64EDA6F4ECB9A73A952CE58C91B">
+              <enum>(4)</enum>
+ <text>a description of the amount of each applicable payment or item of value.</text> </paragraph> </subsection> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="HC17996A363D3403ABA9C2B6FC0B4D8EF"> <enum>(c)</enum> <header>Technical and conforming amendments</header> <paragraph id="H13F2B7FB7B2D4F93ABB6F4A10BD93C19"> <enum>(1)</enum> <header>Persons required to file</header> <text>Section 13103(f) of title 5, United States Code, is amended—</text>
+          <subparagraph id="H93A08A8C4C074BD18214857CE9EA060A">
+            <enum>(A)</enum>
+ <text>in paragraph (9), by striking <quote>as defined in section 13101 of this title</quote>;</text>
+          </subparagraph>
+          <subparagraph id="HE235CF1AA2D94048B084BBB39CB97F8B">
+            <enum>(B)</enum>
+ <text>in paragraph (10), by striking <quote>as defined in section 13101 of this title</quote>;</text>
+          </subparagraph>
+          <subparagraph id="HAA567637A3E04115B45967CBB60B5CCE">
+            <enum>(C)</enum>
+ <text>in paragraph (11), by striking <quote>as defined in section 13101 of this title</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="HAEDE85C362B54809887E6FCF80738767">
+            <enum>(D)</enum>
+ <text>in paragraph (12), by striking <quote>as defined in section 13101 of this title</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H0F88F4B80A204C9593715B396A1B29D3">
+          <enum>(2)</enum>
+          <header>Contents of reports</header>
+ <text>Section 13104(a) of title 5, United States Code, is amended in the matter preceding paragraph (1), by striking <quote>section 13103(d) and (e)</quote> and inserting <quote>subsection (d) or (e) of section 13103</quote>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H9B3BC05537914DDB9EDDB138C0E5EB4F">
+        <enum>(d)</enum>
+        <header>Effective date</header>
+ <text>The amendments made by this section shall apply to relevant applications submitted to, and payments made or promised to be made by, the Federal Government on or after the date that is 90 days after the date of enactment of this Act.</text>
+      </subsection>
+    </section> 
+<section id="HA35412CE6DA946848AD7ED562AFE93B5">
+      <enum>3.</enum>
+      <header>Inclusion of Federal reserve officials</header>
+      <subsection id="H1EB7E379DA4A4C819C3F4F2ACC331CFA">
+        <enum>(a)</enum>
+        <header>In general</header>
+ <text>Notwithstanding any other provision of law, each provision of law described in subsection (b) shall apply to a president, vice president, or director of a Federal Reserve bank.</text>
+      </subsection>
+      <subsection id="H3911EF3DE1D645448266F6BC1880CB4A">
+        <enum>(b)</enum>
+        <header>Description of provisions of law</header>
+ <text>The provisions of law referred to in subsection (a) are—</text> <paragraph id="H6545DBE302854DFB95FC19B60DCAE790"> <enum>(1)</enum> <text>subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code;</text>
+        </paragraph>
+        <paragraph id="HA586C4C7BCD4411F9A40722716070FA0">
+          <enum>(2)</enum>
+ <text>the STOCK Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/105">Public Law 112–105</external-xref>; 126 Stat. 291); and</text> </paragraph> <paragraph id="HA442F6F992B648E2850295E43D43B165"> <enum>(3)</enum> <text>subsections (h) and (i) of section 21A of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78u-1">15 U.S.C. 78u–1</external-xref>).</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H6DD6909713AA46AE8C3D539FBD16FA62">
+        <enum>(c)</enum>
+        <header>Supervising ethics office</header>
+ <text>For purposes of this section and the provisions of law described in subsection (b), the supervising ethics office for a president of a Federal Reserve bank, vice president of a Federal Reserve bank, or director of a Federal Reserve bank shall be the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection.</text>
+      </subsection>
+    </section> 
+<section id="H7C845345DEBF49BDBC81E8F84771ACBD"><enum>4.</enum><header>Penalty for noncompliance</header> 
+<subsection id="HDF7AC6F3D95B4C2C91BC11736135237A"><enum>(a)</enum><header>In general</header><text>Section 13106(a)(2)(B)(ii) of title 5, United States Code, is amended by striking <quote>fined under title 18</quote> and inserting <quote>fined $1,000 in each case in which the individual fails to file a transaction report required under this Act</quote>.</text></subsection> <subsection id="H4CA6567BCD0D43D988CD872327952E45"><enum>(b)</enum><header>Rules, regulations, guidance, and documents</header><text>Not later than 1 year after the date of enactment of this Act, each supervising ethics office (as defined in section 13101 of title 5, United States Code) (including the Administrative Office of the United States Courts, as applicable) shall amend the rules, regulations, guidance, documents, papers, and other records of the supervising ethics office in accordance with the amendment made by this section.</text></subsection></section> 
+<section id="H4B177566C7964B32992C45E32CBDB659"><enum>5.</enum><header>Banning conflicted interests</header> 
+<subsection id="H2222710624F042AEBFBAD89EC13F1D1D"><enum>(a)</enum><header>In general</header> 
+<paragraph id="H4BEF2D96CD494672982B94BD39171EEA"><enum>(1)</enum><header>Banning conflicted interests</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">Chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block style="USC" id="H60A0A94BDA8A4F85AC274F987D43652B" display-inline="no-display-inline"> <subchapter id="H87FA876680A046A79A6BAED44C09DE7C"><enum>IV</enum><header>BANNING CONFLICTED INTERESTS</header> <section id="H913A6C22363E47A0A8F55EF026B7DB9E"><enum>13161.</enum><header>Definitions</header><text display-inline="no-display-inline">In this subchapter:</text> 
+<paragraph id="HB9A94465D81F46ADA6E540B6C45E9F41"><enum>(1)</enum><header>Commodity</header><text>The term <term>commodity</term> has the meaning given the term in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>).</text></paragraph> <paragraph id="HEE5C8FFF4FDC4D728098FEC011A1FDD1"><enum>(2)</enum><header>Covered financial interest</header> <subparagraph id="H4C3A1C5F6B2C4652B47D4302045D6872"><enum>(A)</enum><header>In general</header><text>The term <term>covered financial interest</term> means—</text> 
+<clause id="HEFCAB50B731149F4968B64E3DD1C2C37"><enum>(i)</enum><text>any investment in—</text> <subclause id="H768FD611013A4E62B4FDCA3EC620717C"><enum>(I)</enum><text>a security (as defined in section 3(a) of Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>));</text></subclause> 
+<subclause id="HB6E5494D99084107AF6B231FE1DD7BFE"><enum>(II)</enum><text>a future;</text></subclause> <subclause id="H41E59E135D794BABB3A0D03BBD9D9AA5"><enum>(III)</enum><text>a commodity (as defined in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>)); or</text></subclause> 
+<subclause id="H4D8CD273827A405682E29F0B55359B48"><enum>(IV)</enum><text>cryptocurrency, such as a coin or token—</text> <item id="H8D95F30155E14561A399740F95EB35E3"><enum>(aa)</enum><text>received in connection with an initial coin offering; or</text></item> 
+<item id="H083CD66516E54EDC92ABA2ACA120B8BA"><enum>(bb)</enum><text>issued or distributed using distributed ledger or blockchain technology; and</text></item></subclause></clause> <clause id="HFAD8129DAE0E43ECBFC48E91C9215B84"><enum>(ii)</enum><text>any economic interest comparable to an interest described in clause (i) that is acquired through synthetic means, such as the use of a derivative, including an option, warrant, or other similar means.</text></clause></subparagraph> 
+<subparagraph id="HC40A0820A82042E6AD3708E4DCC49218"><enum>(B)</enum><header>Exclusions</header><text>The term <term>covered financial interest</term> does not include—</text> <clause id="HAAC5223BB6C448BC9B0C106D165624CC"><enum>(i)</enum><text>an investment fund registered as an investment company under section 3 of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-3">15 U.S.C. 80a–3</external-xref>) that is diversified as defined in section 2640.102 of title 5, Code of Federal Regulations;</text></clause> 
+<clause id="H475AFD6CFD494CDF863AD588245F15BF"><enum>(ii)</enum><text>compensation from the primary occupation of the spouse of an individual described in subparagraphs (A) through (G) of paragraph (3), or any security that is issued or paid by an operating business that is the primary employer of such a spouse that is issued or paid to such a spouse; or</text></clause> <clause id="H7D1EE0F7CFAA4FACAB104196160C01FF"><enum>(iii)</enum><text>a United States Treasury bill, note, or bond.</text></clause></subparagraph></paragraph> 
+<paragraph id="HA0378738BC904E1A8891579F275E0A48"><enum>(3)</enum><header>Covered individual</header><text>The term <term>covered individual</term> means—</text> <subparagraph id="H1BE89FB51A614371A75AFF3127C1C5B6"><enum>(A)</enum><text>a Member of Congress (as defined in section 13101);</text></subparagraph> 
+<subparagraph id="H9FD50A2B4C0E4AD9B11CABF644E1F100"><enum>(B)</enum><text>the President;</text></subparagraph> <subparagraph id="H835BCE93224140E69379C9575210F565"><enum>(C)</enum><text>the Vice President;</text></subparagraph> 
+<subparagraph id="HD04EF26474D24BF287007CE4485A4820"><enum>(D)</enum><text display-inline="yes-display-inline">a special Government employee (as that term is defined in section 202 of title 18, United States Code);</text></subparagraph> <subparagraph id="HC6BDE7C59BDC49C6BA1292B490370BE0"><enum>(E)</enum><text>the Chief Justice of the United States;</text></subparagraph> 
+<subparagraph id="H539F38AFA8AA4E39A4EE82804B8373E8"><enum>(F)</enum><text>an Associate Justice of the Supreme Court of the United States;</text></subparagraph> <subparagraph id="H6C067BC33B904999AA04E1D141AC08F5"><enum>(G)</enum><text>a member of the Board of Governors of the Federal Reserve System;</text></subparagraph> 
+<subparagraph id="H5C50F35950EA4159BA8EC4D1719218AE"><enum>(H)</enum><text>a president or vice president of a Federal Reserve bank; or</text></subparagraph> <subparagraph id="H2EC999BD4DF04EFB9BCE2CEFD3213529"><enum>(I)</enum><text>the spouse or dependent child of an individual described in subparagraphs (A) through (G).</text></subparagraph></paragraph> 
+<paragraph id="H12296D1D71D249D687F4C3106705DFF5"><enum>(4)</enum><header>Dependent child</header><text>The term <term>dependent child</term> means any individual who is—</text> <subparagraph id="H99A1330DFE784F84918727093EAFAC6B"><enum>(A)</enum><text>under the age of 19; and</text></subparagraph> 
+<subparagraph id="HDD9A8A79520749AE879CD4888922E742"><enum>(B)</enum><text>a dependent of an individual described in subparagraphs (A) through (G) of paragraph (3) within the meaning of <external-xref legal-doc="usc" parsable-cite="usc/26/152">section 152</external-xref> of the Internal Revenue Code of 1986.</text></subparagraph></paragraph> <paragraph id="H4B36A681CF244A88B2B85C9976F2A9F5"><enum>(5)</enum><header>Future</header><text>The term <term>future</term> means—</text> 
+<subparagraph id="HA568B27437994740A53E148951656F32"><enum>(A)</enum><text>a security future (as defined in section 3(a) of Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)); and</text></subparagraph> <subparagraph id="HFC681CF553EF4419BB86215AA8859D3F"><enum>(B)</enum><text>any other contract for the sale of a commodity for future delivery.</text></subparagraph></paragraph> 
+<paragraph id="HD9914F11157D4F8E8E6EF87D1A2134AC"><enum>(6)</enum><header>Supervising ethics office</header><text>The term <term>supervising ethics office</term>, with respect to a covered individual, has the meaning given the term in section 13101 with respect to that covered individual.</text></paragraph></section> <section id="H3AFF5137E2544B5AB4E60D946F50959E"><enum>13162.</enum><header>Prohibitions</header> <subsection id="H0F7BA56D71524690AFAA98F280FB0C12"><enum>(a)</enum><header>Transactions</header><text>Except as provided in section 13163, no covered individual may—</text> 
+<paragraph id="HAAF58F39607C452EAC307F3CF1B3C9F1"><enum>(1)</enum><text>hold, purchase, sell, or conduct any type of transaction with respect to a covered financial interest; or</text></paragraph> <paragraph id="H90700F55E3E04CD48667D8EB2213E694"><enum>(2)</enum><text>enter into a transaction that creates a net short position in any security.</text></paragraph></subsection> 
+<subsection id="H1AF6CE879E9A4FC8A215E8B5ABAD23E0"><enum>(b)</enum><header>Positions</header><text>A covered individual may not serve as an officer or member of any board of any for-profit association, corporation, or other entity.</text></subsection> <subsection id="H861A23BAC9094D25B804A99BDE52A309"> <enum>(c)</enum> <header>Cooling-Off period</header> <text>Any individual subject to the restrictions contained in subsection (a) who, within 120 days after such individual ceases to be a covered individual, engages in any of the actions under such subsection, shall be in violation of this subchapter.</text>
+                </subsection></section> 
+<section id="H5C5CAEF175A242C2A507B02DA62A23E9"><enum>13163.</enum><header>Divestiture</header> 
+<subsection id="HC7E98E93979549279D5A24E1933BD998">
+                  <enum>(a)</enum>
+                  <header>Covered financial interests acquired prior to Federal service or enactment
+                    of stock act 2.0</header>
+ <text>With respect to any covered financial interest held by a covered individual, the covered individual shall sell the covered financial interest during the applicable 120-day period beginning on the later of—</text>
+                  <paragraph id="HFEFC19FE2B9A493AB87D5E604675FBA2">
+                    <enum>(1)</enum>
+ <text>the date on which an individual becomes a covered individual; or</text> </paragraph> <paragraph id="HCD4B4BDD383A4722AA943D62555B6344"> <enum>(2)</enum> <text>the date of enactment of STOCK Act 2.0.</text>
+                  </paragraph>
+                </subsection> 
+<subsection id="HD5314C89634549E9A2AB1EDEEE8FE3EC"><enum>(b)</enum><header>Covered financial interests acquired through inheritance after the applicable period</header> 
+<paragraph id="H20E03F13C8B144FB91E62BDB6B066B8E"><enum>(1)</enum><header>In general</header><text>A covered individual who inherits a covered financial interest after the conclusion of the applicable 120-day period described in subsection (a) shall sell the covered financial interest during the 120-day period beginning on the date on which the covered financial interest is inherited.</text></paragraph> <paragraph id="HB4FFBFB83FB24B919F9424A15E383D62"><enum>(2)</enum><header>Extensions</header><text>A covered individual may request, and the supervising ethics office may grant, 1 or more reasonable extensions of the period described under paragraph (1), subject to the conditions that—</text> 
+<subparagraph id="H549F8FDE4CD1492BB8B38C8839831AF0"><enum>(A)</enum><text>the total period of time covered by all extensions granted for the covered financial interest shall not exceed 150 days; and</text></subparagraph> <subparagraph id="HAD2180797CC24AD1851E6AACC9F14590"><enum>(B)</enum><text>the period covered by a single extension shall be not longer than 45 days.</text></subparagraph></paragraph></subsection></section> 
+<section id="H2722D8DA771B4B0FB37DCCE57793D1D6"><enum>13164.</enum><header>Certificate of compliance</header><text display-inline="no-display-inline">Each covered individual shall submit to the supervising ethics office a written certification that such covered individual has achieved compliance with the requirements of this subchapter.</text></section> <section id="HC5701DF4C4414FE8A2E9EBFFB23DFF3C"><enum>13165.</enum><header>Publication</header><text display-inline="no-display-inline">Each supervising ethics office shall make publicly available on a website of such office the following:</text> 
+<paragraph id="H140CFD961939455D83918C66B460C900"><enum>(1)</enum><text>Within 30 days of receipt, each request for an extension under section 13163(b)(2).</text></paragraph> <paragraph id="H25BC08D071C54A7DB9B848C96303B284"><enum>(2)</enum><text>The outcome of the decision to grant or deny each such request within 30 days of such decision.</text></paragraph></section> 
+<section id="H9D04E50CF35544CB8230EE4E9EB14F62"><enum>13166.</enum><header>Enforcement</header><text display-inline="no-display-inline">A covered individual who fails to comply with this subchapter shall be assessed a fine by the supervising ethics office of not less than 10 percent of the value of the covered financial interest that was purchased, sold, or held, or the security in which a net short position was created, in violation of this title, as applicable.</text></section> <section id="HC59D9D09B3394AEFBFD8D540712458C4"><enum>13167.</enum><header>Applicability</header><text display-inline="no-display-inline">This subchapter shall apply to any covered financial interest held in any trust with respect to which the covered individual is a beneficial owner, regardless of whether the trust is a qualified blind trust.</text></section></subchapter><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HABC9F654070746EDB370F1686D2E59CE"><enum>(2)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text> <quoted-block style="USC" id="HFC8AF966DA2C44C9BC2FD42513A91EC1" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry idref="H87FA876680A046A79A6BAED44C09DE7C" level="subchapter">Subchapter IV—BANNING CONFLICTED INTERESTS</toc-entry> <toc-entry idref="H913A6C22363E47A0A8F55EF026B7DB9E" level="section">13161. Definitions.</toc-entry> <toc-entry idref="H3AFF5137E2544B5AB4E60D946F50959E" level="section">13162. Prohibitions.</toc-entry> <toc-entry idref="H5C5CAEF175A242C2A507B02DA62A23E9" level="section">13163. Divestiture.</toc-entry> <toc-entry idref="H2722D8DA771B4B0FB37DCCE57793D1D6" level="section">13164. Certificate of compliance.</toc-entry> <toc-entry idref="HC5701DF4C4414FE8A2E9EBFFB23DFF3C" level="section">13165. Publication.</toc-entry> <toc-entry idref="H9D04E50CF35544CB8230EE4E9EB14F62" level="section">13166. Enforcement.</toc-entry> <toc-entry idref="HC59D9D09B3394AEFBFD8D540712458C4" level="section">13167. Applicability.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HECB4C7541F78412DB4357326A44C6A83"><enum>(b)</enum><header>Certificate of divestiture</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/1043">Section 1043(b)(2)(B)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text> 
+<quoted-block id="H05052D3E02984A84AB59E0F00911D2FD" style="OLC"> 
+<subparagraph id="H1EBEA21C077A4C6CAD4F136ACAD47BF8"><enum>(B)</enum><text>that has been issued by—</text> <clause id="H974C9D8D861F4729AC3711221217A9FF"><enum>(i)</enum><text>the President or the Director of the Office of Government Ethics, in the case of executive branch officers or employees or the spouse or dependent child of a member of the Board of Governors of the Federal Reserve System,</text></clause> 
+<clause id="HB5F128C571B14412A7A6FA4E80AF0F58"><enum>(ii)</enum><text>the Director of the Office of Government Ethics, in the case of the President, Vice President, or the spouse or dependent child of the President or Vice President,</text></clause> <clause id="H1058C5CC33044A0DB0B17174FB5FFC8E"><enum>(iii)</enum><text>the Judicial Conference of the United States (or its designee), in the case of judicial officers or the spouse or dependent child of the Chief Justice or the Associate Justice,</text></clause> 
+<clause id="H60A3C7BEC37B4A0FB584CE7861144DC2"><enum>(iv)</enum><text>the applicable congressional ethics committee, in the case of Members of Congress or the spouse or dependent child of a Member of Congress, or</text></clause> <clause id="HA45F0E073F544C78AE03EE4E3086FA69"><enum>(v)</enum><text>the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, in the case of a president of a Federal Reserve bank, vice president of a Federal Reserve bank, or the spouse or dependent child of the president or vice president of a Federal Reserve Bank, and</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HB7B7E9DAC2734475A9912430DA4ED8CB"><enum>(c)</enum><header>Conforming amendments</header> 
+<paragraph id="H55FA468E176347FE81B4A818CAD8CBF9"><enum>(1)</enum><header>Authority and functions</header><text>Section 13122(f)(2)(B) of title 5, United States Code, is amended—</text> <subparagraph id="H844D045EB08C4C38A2FB759534FBD4C6"><enum>(A)</enum><text>by striking <quote>Subject to clause (iv) of this subparagraph, before</quote> each place it appears and inserting <quote>Before</quote>; and</text></subparagraph> 
+<subparagraph id="HCB61B0AE9B1E4538A4C6DA2AD18F6227"><enum>(B)</enum><text>by striking clause (iv).</text></subparagraph></paragraph> <paragraph id="H441FC468431D45BF9C374C640DADE5A3"><enum>(2)</enum><header>Lobbying disclosure act of 1995</header><text>Section 3(4)(D) of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1602">2 U.S.C. 1602(4)(D)</external-xref>) is amended by striking <quote>legislative branch employee serving in a position described under section 13101(13) of title 5, United States Code</quote> and inserting <quote>officer or employee of Congress (as defined in section 13101 of title 5, United States Code)</quote>.</text></paragraph> 
+<paragraph id="HB90B6B899D4B4B40BE43DBEE1A7666A3"><enum>(3)</enum><header>Stock act</header><text>Section 2 of the STOCK Act (<external-xref legal-doc="usc" parsable-cite="usc/5/13101">5 U.S.C. 13101</external-xref> note) is amended—</text> <subparagraph id="H6DD05FF368224F9A8BCFA092163FE98B"><enum>(A)</enum><text>in paragraph (2)(B), by striking <quote>(11)</quote>;</text></subparagraph> 
+<subparagraph id="H501F2F0063D8400EB3B1790FFE52C54F"><enum>(B)</enum><text>in paragraph (4), by striking <quote>(10)</quote>;</text></subparagraph> <subparagraph id="H680B62B82E4F4EEF94CC063DA43EC347"><enum>(C)</enum><text>in paragraph (5), by striking <quote>(9)</quote>; and</text></subparagraph> 
+<subparagraph id="H18A0253E4F7145D195E2AC3452D10B6E"><enum>(D)</enum><text>in paragraph (6), by striking <quote>(18)</quote>.</text></subparagraph></paragraph> <paragraph id="H30EE2A5A46C8479E84F3CF96B1ED3CB4"><enum>(4)</enum><header>Securities exchange act of 1934</header><text>Section 21A of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78u-1">15 U.S.C. 78u–1</external-xref>) is amended—</text> 
+<subparagraph id="H76969A4629B34AE6857DB3AD1F4DD7CD"><enum>(A)</enum><text>in subsection (g)(2)(B)(ii), by striking <quote>(11)</quote>; and</text></subparagraph> <subparagraph id="H8B035029F5EF447EB345984933F5D264"><enum>(B)</enum><text>in subsection (h)(2)—</text> 
+<clause id="H51E1F6D088CC4730801732A0E6341FE5"><enum>(i)</enum><text>in subparagraph (B), by striking <quote>(9)</quote>; and</text></clause> <clause id="HF5D8E87EFAAF4888944DB757C6F91971"><enum>(ii)</enum><text>in subparagraph (C), by striking <quote>(10)</quote>.</text></clause></subparagraph></paragraph></subsection></section> 
+<section id="HE74EEF97EBB2440F8FA3633795ACBB71"><enum>6.</enum><header>Electronic filing and online public availability of financial disclosure forms</header> 
+<subsection id="H19EBEDBA3DB041C6A2F5B04BC0B4C0A7"><enum>(a)</enum><header>Members of congress and congressional staff</header><text>Section 8(b)(1) of the STOCK Act (<external-xref legal-doc="usc" parsable-cite="usc/5/13107">5 U.S.C. 13107</external-xref> note) is amended—</text> <paragraph id="H3268D5E2AC1D4ACF818B346CCFAC0B92"><enum>(1)</enum><text>in the matter preceding subparagraph (A), by inserting <quote>, pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, through databases maintained on the official websites of the Senate and House of Representatives</quote> after <quote>enable</quote>;</text></paragraph> 
+<paragraph id="HB37BD424E0A04D8386E375E2161FB281"><enum>(2)</enum><text>in subparagraph (A), by striking <quote>reports received by them pursuant to section 13105(h)(1)(A) of title 5, United States Code, and</quote> and inserting <quote>each report received under section 13105(h)(1)(A) of title 5, United States Code; and</quote>; and</text></paragraph> <paragraph id="HA9C24042120340918F4D05141281435D"><enum>(3)</enum><text>by striking subparagraph (B) and the undesignated matter following that subparagraph and inserting the following:</text> 
+<quoted-block id="H6B77AE86A1334D98B843F4E4330E6D9C" style="OLC"> 
+<subparagraph id="H3FCABE6A412C4149BDDBD2ABCF6D9490"><enum>(B)</enum><text>public access—</text> <clause id="HEF91B70572CD47D89EE7074B7F65365C"><enum>(i)</enum><text>to each—</text> 
+<subclause id="H25141FED493E4C8FAEAF00E88E08EA3D"><enum>(I)</enum><text>financial disclosure report filed by a Member of Congress or a candidate for Congress;</text></subclause> <subclause id="H67AC2C653A7645CB918E64690E6B8014"><enum>(II)</enum><text>transaction disclosure report filed by a Member of Congress or a candidate for Congress pursuant to section 13105(l) of title 5, United States Code; and</text></subclause> 
+<subclause id="HAC7576D1420142E89D46460DA0A6ED30"><enum>(III)</enum><text>notice of extension, amendment, or blind trust, with respect to a report described in subclause (I) or (II), pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code; and</text></subclause></clause> <clause id="HB56F2BE817754AA1BF718294CE94EE80"><enum>(ii)</enum><text>in a manner that—</text> 
+<subclause id="H3C821B651788434BB5B4D00700606D3F"><enum>(I)</enum><text>allows the public to search, sort, and download data contained in the reports described in subclause (I) or (II) of clause (i) by criteria required to be reported, including by filer name, asset, transaction type, ticker symbol, notification date, amount of transaction, and date of transaction;</text></subclause> <subclause id="H026F85C3CF5E42D4B66354E2A23A3601"><enum>(II)</enum><text>allows access through an application programming interface; and</text></subclause> 
+<subclause id="HD26607A1E62F4E91A1FD25834C94AA0D"><enum>(III)</enum><text>is fully compliant with—</text> <item id="H4E04A4E613EF4CBE95991067ADFD2AE0"><enum>(aa)</enum><text>section 508 of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/794d">29 U.S.C. 794d</external-xref>); and</text></item> 
+<item id="HBC5B033B75BD4E6CA8C4922C2AFCBFE0"><enum>(bb)</enum><text>the most recent Web Content Accessibility Guidelines (or successor guidelines).</text></item></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H0B946711BFFC44B5911D8CD83267AB7B"><enum>(b)</enum><header>Very senior executive branch employees</header><text>Section 11(b)(1) of the STOCK Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/105">Public Law 112–105</external-xref>; 126 Stat. 299) is amended—</text> 
+<paragraph id="HCC2347C3AC9C42CC963554AB629E71AA"><enum>(1)</enum><text>in the matter preceding subparagraph (A), by inserting <quote>, pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, through databases maintained on the official website of the Office of Government Ethics</quote> after <quote>enable</quote>; and</text></paragraph> <paragraph id="HFB79D61D33484C26A6279668354E9935"><enum>(2)</enum><text>by striking subparagraph (B) and the undesignated matter following that subparagraph and inserting the following:</text> 
+<quoted-block id="H82B7ABDE4B254796B014BCF5FA11B59D" style="OLC"> 
+<subparagraph id="H428E5BEC5B3149E38EDDC3768ABAA39F"><enum>(B)</enum><text>public access—</text> <clause id="H7E37E9078A7941169283BE61AF719DA8"><enum>(i)</enum><text>to each—</text> 
+<subclause id="HCD5115ADD1A345BBBC1418DDDF8568B8"><enum>(I)</enum><text>financial disclosure report filed by the President, Vice President, or an officer occupying a position listed in section 5312 or 5313 of title 5, United States Code, having been nominated by the President and confirmed by the Senate to that position;</text></subclause> <subclause id="HA85FDB759DDA4319A0138EE2EC7D4584"><enum>(II)</enum><text>transaction disclosure report filed by an individual described in subclause (I) pursuant to section 13105(l) of title 5, United States Code; and</text></subclause> 
+<subclause id="H2E330F5AAF814669858290CF5C5FA417"><enum>(III)</enum><text>notice of extension, amendment, or blind trust, with respect to a report described in subclause (I) or (II), pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code; and</text></subclause></clause> <clause id="H244BE31657CA44858BAF2E455050A608"><enum>(ii)</enum><text>in a manner that—</text> 
+<subclause id="H5B31E7EEEB95462C8E2FFC18E17E5907"><enum>(I)</enum><text>allows the public to search, sort, and download data contained in the reports described in subclause (I) or (II) of clause (i) by criteria required to be reported, including by filer name, asset, transaction type, ticker symbol, notification date, amount of transaction, and date of transaction;</text></subclause> <subclause id="H931C81F777934752AD695119B3C8ABCE"><enum>(II)</enum><text>allows access through an application programming interface; and</text></subclause> 
+<subclause id="H10695A5BE25541F78EBE0937523C68A2"><enum>(III)</enum><text>is fully compliant with—</text> <item id="H9B423A4312A04479A678E761D3E64165"><enum>(aa)</enum><text>section 508 of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/794d">29 U.S.C. 794d</external-xref>); and</text></item> 
+<item id="HC429017B91514E569FE1FB6ADE41E50E"><enum>(bb)</enum><text>the most recent Web Content Accessibility Guidelines (or successor guidelines).</text></item></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HE608250AAAAB4A9EB07440D09D9FAAB3"><enum>(c)</enum><header>Judicial officers</header><text>Section 9 of the STOCK Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/105">Public Law 112–105</external-xref>; 126 Stat. 297) is amended by adding at the end the following:</text> 
+<quoted-block id="HDCCEC710992D427FB8FCDC9C226164ED" style="OLC"> 
+<subsection id="H0FE9BC22EECB4129B215126985B3EB8E"><enum>(c)</enum><header>Judicial officers</header> 
+<paragraph id="H6006EB9F3E7E4CB6B5CDF0C2BF5DF604"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (6), not later than 1 year after the date of enactment of this subsection, the Administrative Office of the United States Courts shall develop a system to enable, pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, through a database maintained on the official website of the Administrative Office of the United States Courts—</text> <subparagraph id="H0B873D263439416592223B69F36C6923"><enum>(A)</enum><text>electronic filing of reports received from judicial officers pursuant to that chapter; and</text></subparagraph> 
+<subparagraph id="HCB1B52CEC3804DD6B52C0D20C5DCC111"><enum>(B)</enum><text>public access—</text> <clause id="H71B5F5021C86421D906988B61CDFE762"><enum>(i)</enum><text>to each—</text> 
+<subclause id="H689335FF171349B1999B570B5C47EEDA"><enum>(I)</enum><text>financial disclosure report filed by a judicial officer;</text></subclause> <subclause id="HEE72A8C0A57340058EA480CA6DB0A47B"><enum>(II)</enum><text>transaction disclosure report filed by a judicial officer pursuant to section 13105(l) of title 5, United States Code; and</text></subclause> 
+<subclause id="H4B031A7D913245B89A1BE35F6CDA2344"><enum>(III)</enum><text>notice of extension, amendment, or blind trust, with respect to a report described in subclause (I) or (II), pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code; and</text></subclause></clause> <clause id="H8D57C13B55AD4613B9E38169B3261628"><enum>(ii)</enum><text>in a manner that—</text> 
+<subclause id="H5F68BAC00850424888F5E8A63618124F"><enum>(I)</enum><text>allows the public to search, sort, and download data contained in a report described in clause (i) by criteria required to be reported, including by filer name, asset, transaction type, ticker symbol, notification date, amount of transaction, and date of transaction;</text></subclause> <subclause id="H51FD84306A6441C4A950E65D79C7178A"><enum>(II)</enum><text>allows access through an application programming interface; and</text></subclause> 
+<subclause id="H3B875C417864441B948F7CF5A7B81BF9"><enum>(III)</enum><text>is fully compliant with—</text> <item id="H36932604213042688E3C269F5FB94369"><enum>(aa)</enum><text>section 508 of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/794d">29 U.S.C. 794d</external-xref>); and</text></item> 
+<item id="H3E116F738F644C57AA6CF2855D42F1E8"><enum>(bb)</enum><text>the most recent Web Content Accessibility Guidelines (or successor guidelines).</text></item></subclause></clause></subparagraph></paragraph> <paragraph id="HCB36A79DD8534FCF9417D6386DCA4D0E"><enum>(2)</enum><header>Login</header><text>For purposes of filings under paragraph (1)(B), section 13107(b)(2) of title 5, United States Code, shall not apply.</text></paragraph> 
+<paragraph id="HC61AD6B188F84F738352D42191356366"><enum>(3)</enum><header>Public availability</header><text>The electronic availability of filings under paragraph (1)(B) on the official website of the Administrative Office of the United States Courts shall be deemed to meet the public availability requirement under section 13107(b)(1) of title 5, United States Code.</text></paragraph> <paragraph id="H550BE4476EEF4072A53DCF74758A87DC"><enum>(4)</enum><header>Filers covered</header><text>Each judicial officer who is required under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, to file a financial disclosure report with a supervising ethics office shall be able to file that report electronically using the applicable system developed under this subsection.</text></paragraph> 
+<paragraph id="HDE840FA897FB4D009AA9A14919DBB7F2"><enum>(5)</enum><header>Extensions</header><text>Each notice of an extension for a financial disclosure covered by this subsection shall be made available electronically under paragraph (1)(B), together with any related disclosure.</text></paragraph> <paragraph id="H74CB922099714078B916BDA04BD239D0"><enum>(6)</enum><header>Additional time</header><text>The requirements of this subsection may be implemented after the date described in paragraph (1) if the Administrative Office of the United States Courts identifies in writing to the relevant congressional committees the additional time needed for that implementation.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HD831E7E4C0014015B40938546AE131D2">
+        <enum>(d)</enum>
+        <header>Officers of Federal reserve banks</header>
+ <text>Section 9 of the STOCK Act (<external-xref legal-doc="public-law" parsable-cite="pl/112/105">Public Law 112–105</external-xref>; 126 Stat. 297) (as amended by subsection (c)) is amended by adding at the end the following:</text>
+        <quoted-block id="H7389E1ED9CB543D4B5048F34AC4AB12E" style="OLC">
+          <subsection id="HBA918CFEDC8A447480298507430A6AF0">
+            <enum>(d)</enum>
+            <header>Officers of Federal reserve banks</header>
+            <paragraph id="HBCDF4E7C2E8846F191EB05679FCAB4E1">
+              <enum>(1)</enum>
+              <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph id="HE178185FF44042F68B4ADC84AAC7FFAA"> <enum>(A)</enum> <header>Covered person</header> <text>The term <term>covered person</term> means—</text>
+                <clause id="H02CEE6DF28F445D6887D5FB9C0EA0119">
+                  <enum>(i)</enum>
+ <text>a president of a Federal Reserve bank;</text> </clause> <clause id="H23BF7520ADF4430188A7438EE3F1EBE3"> <enum>(ii)</enum> <text>a vice president of a Federal Reserve bank;</text>
+                </clause>
+                <clause id="HD48621F0BF1C4D029270EC7A65E4039E">
+                  <enum>(iii)</enum>
+ <text>a director of a Federal Reserve bank; or</text> </clause> <clause id="H4043C27DD7514DEDB5BEEF1551FC77E2"> <enum>(iv)</enum> <text>the spouse or dependent child of an individual described in clause (i), (ii), or (iii).</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HC4CFE9756666405FA1C5E779CABDA986">
+                <enum>(B)</enum>
+                <header>Dependent child</header>
+ <text>The term <term>dependent child</term> means any individual who is—</text> <clause id="H9EF628A6C34B4E76AFC4837AFA6B4D3A"> <enum>(i)</enum> <text>under the age of 19; and</text>
+                </clause>
+                <clause id="HFC54C1A2164C4617A2F3EAF8A32629A6">
+                  <enum>(ii)</enum>
+ <text>a dependent of an individual described in clause (i), (ii), or (iii) of subparagraph (A) within the meaning of <external-xref legal-doc="usc" parsable-cite="usc/26/152">section 152</external-xref> of the Internal Revenue Code of 1986.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H668F163EF62048CB967B853CB9136F81">
+                <enum>(C)</enum>
+                <header>Supervising ethics office</header>
+ <text>The term <term>supervising ethics office</term> means the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H2FCEA9C0F6344972BBE1B74CE683D85F">
+              <enum>(2)</enum>
+              <header>Electronic filing and online public availability of financial disclosure
+                forms</header>
+              <subparagraph id="H17F711D8CABE4914AB023388ED5C0933">
+                <enum>(A)</enum>
+                <header>In general</header>
+ <text>Subject to subparagraph (F), not later than 1 year after the date of enactment of this subsection, the supervising ethics office shall develop a system to enable, pursuant to <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, through a database maintained on the official website of the supervising ethics office—</text>
+                <clause id="H6C3446914DC940A5AD68CCAD9DB7FB86">
+                  <enum>(i)</enum>
+ <text>electronic filing of reports received from covered persons pursuant to that chapter; and</text>
+                </clause>
+                <clause id="HB7724B1E665142D0BE1395D877219B00">
+                  <enum>(ii)</enum>
+ <text>public access—</text> <subclause id="H5B444927BAEF40ACB8E350D42CF5D2C8"> <enum>(I)</enum> <text>to each—</text>
+                    <item id="HFC5B1B1C2ACA4E648A74F7B689F5AB7A">
+                      <enum>(aa)</enum>
+ <text>financial disclosure report filed by a covered person;</text> </item> <item id="HE89C2E2EA71A42F592ADE5D830501EAB"> <enum>(bb)</enum> <text>transaction disclosure report filed by a covered person pursuant to section 13105(l) of title 5, United States Code; and</text>
+                    </item>
+                    <item id="H84F622442C244A06B2A26464F90E5DFE">
+                      <enum>(cc)</enum>
+ <text>notice of extension, amendment, or blind trust, with respect to a report described in item (aa) or (bb), pursuant to that chapter; and</text>
+                    </item>
+                  </subclause>
+                  <subclause id="H8272B128F14D46DCBB843BC91B5E7E34">
+                    <enum>(II)</enum>
+ <text>in a manner that—</text> <item id="H7CCCEEEF8CC44C16A3C96F95E0AD6EF2"> <enum>(aa)</enum> <text>allows the public to search, sort, and download data contained in a report described in subclause (I) by criteria required to be reported, including by filer name, asset, transaction type, ticker symbol, notification date, amount of transaction, and date of transaction;</text>
+                    </item>
+                    <item id="H4D474CDFE1084104ABDAF164C14BFB89">
+                      <enum>(bb)</enum>
+ <text>allows access through an application programming interface; and</text> </item> <item id="H962FE1B44DF9416CA26CB89044780389"> <enum>(cc)</enum> <text>is fully compliant with—</text>
+                      <subitem id="HBEF87AB996234CBFBF4E9D67AEDCC0D5">
+                        <enum>(AA)</enum>
+ <text>section 508 of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/794d">29 U.S.C. 794d</external-xref>); and</text>
+                      </subitem>
+                      <subitem id="HA4E8B7489AFC46DEA4D05762B92F9B7B">
+                        <enum>(BB)</enum>
+ <text>the most recent Web Content Accessibility Guidelines (or successor guidelines).</text>
+                      </subitem>
+                    </item>
+                  </subclause>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H5CE32B1E2B7F4DD185522A1E0D0AE954">
+                <enum>(B)</enum>
+                <header>Login</header>
+ <text>For purposes of filings under subparagraph (A)(ii), section 13107(b)(2) of title 5, United States Code, shall not apply.</text>
+              </subparagraph>
+              <subparagraph id="H3B8E4E918F9143E785D36469A34E918A">
+                <enum>(C)</enum>
+                <header>Public availability</header>
+ <text>The electronic availability of filings under subparagraph (A)(ii) on the official website of a supervising ethics office shall be deemed to meet the public availability requirement under section 13107(b)(1) of title 5, United States Code.</text>
+              </subparagraph>
+              <subparagraph id="H3D87E401063B466D97EBD030E65FBB49">
+                <enum>(D)</enum>
+                <header>Filers covered</header>
+ <text>Each covered person who is required under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, to file a financial disclosure report with a supervising ethics office shall be able to file that report electronically using the applicable system developed under this paragraph.</text>
+              </subparagraph>
+              <subparagraph id="H9BBDCEBF9B07473A9A6C2DBA5ABC6EDB">
+                <enum>(E)</enum>
+                <header>Extensions</header>
+ <text>Each notice of an extension for a financial disclosure covered by this paragraph shall be made available electronically under subparagraph (A)(ii), together with any related disclosure.</text>
+              </subparagraph>
+              <subparagraph id="HDE5CB3362F3846AFAC9B0044D5863AE8">
+                <enum>(F)</enum>
+                <header>Additional time</header>
+ <text>The requirements of this paragraph may be implemented after the date described in subparagraph (A) if a supervising ethics office identifies in writing to the relevant congressional committees the additional time needed for that implementation.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection> 
+<subsection id="H2F16B7CC24CC4E36B200DC2E3615BEBE"><enum>(e)</enum><header>Applicability</header><text>The amendments made by this section shall apply on and after the date that is 18 months after the date of enactment of this Act.</text></subsection></section> </legis-body></bill>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BAG25755-CMX-S1-LGL">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1638 IS: Protection Against Foreign Adversarial Artificial Intelligence Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1638</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> (for himself and <cosponsor name-id="S402">Ms. Rosen</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSCM00">Committee on
+                    Commerce, Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To protect the United States from artificial intelligence applications based
+            in or affiliated with countries of concern, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protection Against Foreign Adversarial Artificial Intelligence Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idc95974366b2d4cc6b26bbc2c59d890a3">
+            <enum>2.</enum>
+            <header>Prohibition on use of DeepSeek to carry out a Federal contract</header>
+            <subsection id="idee44735d35a34576b3e8594dd2c227bb">
+                <enum>(a)</enum>
+                <header>Prohibition</header>
+ <text>Except as provided in subsection (b), no Federal contractor with an active Federal contract may use the DeepSeek application or any successor application or service developed or provided by High Flyer or any entity owned by High Flyer, for the fulfillment, assistance, execution, or otherwise support to complete, or support in part, a contract with a Federal agency.</text>
+            </subsection>
+            <subsection id="id0cee82aba3c44dd0bb1f4e6666a5a71c">
+                <enum>(b)</enum>
+                <header>Waiver</header>
+ <text>The Secretary of Commerce may, in consultation with the Secretary of Defense, waive the prohibition in subsection (a) on a case-by-case basis if using the application or service is required for the completion of a national security-related objective of a certain contract or for research purposes.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id117d466d42cd4a58b3c51bf1bf2a2890">
+            <enum>3.</enum>
+            <header>Report on threats to national security posed by artificial intelligence
+                platforms based in or affiliated with countries of concern</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id362845279c9247f98c1d8c59f251ba28">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Definition of country of
+                    concern</header>
+ <text>In this section, the term <term>country of concern</term> has the meaning given the term <quote>covered nation</quote> in section 4872(f) of title 10, United States Code.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id59c3ef79220c4dec9cea6aed5729f064">
+                <enum>(b)</enum>
+                <header>Report required</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Secretary of Commerce shall, in consultation with the Secretary of Defense, submit to the Committee on Armed Services of the Senate and of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives a detailed report on the threats to national security posed by artificial intelligence platforms, including large language models and generative artificial intelligence, based in or affiliated with countries of concern.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idd2b519c24bf8425581be087f8b0dadf4">
+                <enum>(c)</enum>
+                <header>Contents</header>
+ <text display-inline="yes-display-inline">The report submitted pursuant to subsection (b) shall include the following:</text>
+                <paragraph id="id892a044332954630a44b6100ea10e1a3">
+                    <enum>(1)</enum>
+ <text>An analysis of censorship laws and capacities by governments described in subsection (a) that could access or influence of artificial intelligence applications.</text>
+                </paragraph>
+                <paragraph id="id293275285be348fd8ffd702138fe60e6">
+                    <enum>(2)</enum>
+ <text>An analysis of the potential and current use of artificial intelligence platforms to further state-sponsored propaganda.</text>
+                </paragraph>
+                <paragraph id="id4653dfd1e386440e821333de88d85589">
+                    <enum>(3)</enum>
+ <text>The national security impact of circumvention of United States export controls on graphics processing units contributed to the development of artificial intelligence models of countries of concern.</text>
+                </paragraph>
+                <paragraph id="id80405242cc054a1e9d4064442cc0b089">
+                    <enum>(4)</enum>
+ <text>An analysis of the privacy and data security threats toward United States data entered or otherwise submitted to an artificial intelligence application, including—</text>
+                    <subparagraph id="id38f35d1d06bb4f6fa359e27f8266c549">
+                        <enum>(A)</enum>
+ <text>how and where United States users’ data is stored, including whether such data is stored within on-premise servers or a cloud infrastructure;</text>
+                    </subparagraph>
+                    <subparagraph id="id0c10d46480594450b93c0220c6139d13">
+                        <enum>(B)</enum>
+ <text>whether United States users’ data can be accessed and used by a government or political entity of a country of concern, including the Chinese Communist Party;</text>
+                    </subparagraph>
+                    <subparagraph id="id4aa2b39f679d49e59270bbad7775d5d0">
+                        <enum>(C)</enum>
+ <text>the extent to which data collected from the United States contributes to the development of artificial intelligence applications described in subsection (b);</text>
+                    </subparagraph>
+                    <subparagraph id="idb9d5c2c167b84f679ad27b89cfa4c529">
+                        <enum>(D)</enum>
+ <text>the threat that such access could be an economic espionage risk to intellectual property, trade secrets, proprietary information, or sensitive or confidential information to obtain an unlawful advantage; and</text>
+                    </subparagraph>
+                    <subparagraph id="id02825d5ade2247e2802578434dbd5cb1">
+                        <enum>(E)</enum>
+ <text>the threat that such access could be a risk to information, including policy decisions, relating to an office or program under the Federal Government.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idc282549c95694454be7d77a1d5872822">
+                    <enum>(5)</enum>
+ <text>Any other information considered relevant by the Secretary.</text> </paragraph> <paragraph id="id3d257ca73a9c4510b28cd3f99a852caf"> <enum>(6)</enum> <text>Recommendations for administrative and legislative action to address data security and privacy risks posed to the United States by artificial intelligence applications affiliated with governments of countries of concern.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idc3b58dcb2239487f80f732560b737e33">
+                <enum>(d)</enum>
+                <header>Form</header>
+ <text>The report submitted pursuant to subsection (b) shall be submitted in unclassified form, but may include a classified annex.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25611-SXY-FN-TMC">
+    <form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1546</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250501">May 1, 2025</action-date>
+            <action-desc><sponsor name-id="S384">Mr. Tillis</sponsor> (for himself and <cosponsor name-id="S337">Mr. Coons</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSJU00">Committee on
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 35, United States Code, to address matters relating to patent
+            subject matter eligibility, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+            <text display-inline="no-display-inline">This Act may be cited as the
+                        <quote><short-title>Patent Eligibility Restoration Act of
+                    2025</short-title></quote>.</text>
+        </section>
+        <section id="id090e93d97e0a46a6939c4d0a6b9c41a7">
+            <enum>2.</enum>
+            <header>Findings</header>
+            <text display-inline="no-display-inline">Congress finds the following:</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id71b811a5958c448d894dff5149e72824">
+                <enum>(1)</enum>
+                <text>As of the day before the date of enactment of this Act, patent eligibility
+                    jurisprudence interpreting section 101 of title 35, United States Code, requires
+                    significant modification and clarification.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idde9b5db1854d43e889e9d0642472782f">
+                <enum>(2)</enum>
+                <text>For many years after the original enactment of section 101 of title 35, United
+                    States Code, the Supreme Court of the United States and other courts created
+                    judicial exceptions to the wording of that section, thereby rendering an
+                    increasing number of inventions ineligible for patent protection.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="ida2022e734eb54de9a8626f2d1cbb1f57">
+                <enum>(3)</enum>
+                <text>Efforts by judges of district courts and courts of appeals of the United
+                    States to apply the exceptions described in paragraph (2) to specific
+                    circumstances have led to extensive confusion and a lack of consistency—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id7b7240aaef2a49cbb74900f6bb4435b2">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">throughout the judicial branch of the
+                        Federal Government and Federal agencies; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id6c95c4a99407475fa09113b0c37161c4">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">among patent practitioners.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc8b40112ec22403694faa674e93d7e36">
+                <enum>(4)</enum>
+                <text>Many judges of the United States Court of Appeals for the Federal Circuit and
+                    of various district courts of the United States have explicitly expressed the
+                    need for more guidance with respect to the meaning of section 101 of title 35,
+                    United States Code, and many patent owners, and persons that engage with patent
+                    owners, complain that the interpretation of that section is extremely confusing
+                    and difficult to discern and apply with any confidence.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id59a176700e6846018fdc44e02317498a">
+                <enum>(5)</enum>
+                <text>Under this Act, and the amendments made by this Act, the state of the law
+                    shall be as follows:</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id60a3ee665ea44940aea30eb800ec890a">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">All judicial exceptions to patent
+                        eligibility are eliminated.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id8136a51334af45249b1a3409f1f38bec">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">Any invention or discovery that can be
+                        claimed as a useful process, machine, manufacture, or composition of matter,
+                        or any useful improvement thereof, is eligible for patent protection, except
+                        as explicitly provided in section 101 of title 35, United States Code, as
+                        amended by this Act, as described in subparagraphs (D) and (E) of this
+                        paragraph.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id00e8f10485d149349687dee2cdd17663">
+                    <enum>(C)</enum>
+                    <text>Sections 102, 103, and 112 of title 35, United States Code, will continue
+                        to prescribe the requirements for obtaining a patent, but no such
+                        requirement will be used in determining patent eligibility.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id898d0549b6444ccbae85eb62aa7c4fe1">
+                    <enum>(D)</enum>
+                    <text>The following inventions shall not be eligible for patent
+                        protection:</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id6dbb54c95dc5402da0fff27a175fbee2">
+                        <enum>(i)</enum>
+                        <text>A mathematical formula that is not part of an invention that is in a
+                            category described in subparagraph (B).</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id9f7cf4ee8c06462fb111063192eabe42">
+                        <enum>(ii)</enum>
+                        <text>A mental process performed solely in the mind of a human being.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id7e2124adbdee47c99d574f0f4e0f3f6e">
+                        <enum>(iii)</enum>
+                        <text>An unmodified human gene, as that gene exists in the human
+                            body.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idaa20de41119f41158e852bfe3edf2354">
+                        <enum>(iv)</enum>
+                        <text>An unmodified human gene that is isolated from the human body, but
+                            otherwise the same as that gene exists in the human body.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idb235089d901045f2843925383bbe1fff">
+                        <enum>(v)</enum>
+                        <text display-inline="yes-display-inline">An unmodified natural material, as
+                            that material exists in nature.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="ida24bd4781f09487c87d10ccacd8d8d5b">
+                        <enum>(vi)</enum>
+                        <text>A process that is substantially economic, financial, business, social,
+                            cultural, or artistic.</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id3065d9219e444f2194ba9cd61a2cac37">
+                    <enum>(E)</enum>
+                    <text>Under the exception described in subparagraph (D)(vi)—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="ide448d23146e7450fabf8adcd7cc67ddd">
+                        <enum>(i)</enum>
+                        <text display-inline="yes-display-inline">process claims drawn solely to the
+                            steps undertaken by human beings in methods of doing business,
+                            performing dance moves, offering marriage proposals, and the like shall
+                            not be eligible for patent coverage, and adding a non-essential
+                            reference to a computer by merely stating, for example, <quote>do it on
+                                a computer</quote> shall not establish such eligibility; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="iddaa7ca3302494c40a2d3100f1fdd55bf">
+                        <enum>(ii)</enum>
+                        <text>any process that cannot be practically performed without the use of a
+                            machine (including a computer) or manufacture shall be eligible for
+                            patent coverage.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="id1C1702CB0A764920AE91B4BCB8525839">
+            <enum>3.</enum>
+            <header>Patent eligibility</header>
+            <subsection id="idF06C4BB1AD2A4227B602871C4DAEE7BF">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>Chapter 10 of title 35, United States Code, is amended—</text>
+                <paragraph id="id3E3315E8482941FDB3EB205D924BC2C5">
+                    <enum>(1)</enum>
+                    <text>in section 100—</text>
+                    <subparagraph id="idDBCE0AA452B24382B9816F35E5DF2BBD">
+                        <enum>(A)</enum>
+                        <text>in subsection (b), by striking <quote>includes a new use of a known
+                                process</quote> and inserting <quote>includes a use, application, or
+                                method of manufacture of a known or naturally-occurring
+                                process</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="id01F4AB00296041728E86368D842198AA">
+                        <enum>(B)</enum>
+                        <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" id="id55142D6F062E4274AFB278C57B66F244" act-name="">
+                            <subsection id="idF3101F88D54D45FF8C8E4B8A944565EC">
+                                <enum>(k)</enum>
+                                <text>The term <term>useful</term> means, with respect to an
+                                    invention or discovery, that the invention or discovery has a
+                                    specific and practical utility from the perspective of a person
+                                    of ordinary skill in the art to which the invention or discovery
+                                    pertains.</text>
+                            </subsection>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id9EF4525A6DF9467A8FDDC8870FB8E41E">
+                    <enum>(2)</enum>
+                    <text>by amending section 101 to read as follows:</text>
+                    <quoted-block style="USC" id="id3344ACF9FCE54F8E9556AD8EA5C41877" act-name="">
+                        <section section-type="section-one" id="id9B928E784B274AAE8778441545663BF7">
+                            <enum>101.</enum>
+                            <header>Patent eligibility</header>
+                            <subsection id="id59CDD7078BB34B559F8D2034B354EBE6">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+                                <text>Whoever invents or discovers any useful process, machine,
+                                    manufacture, or composition of matter, or any useful improvement
+                                    thereof, may obtain a patent therefor, subject only to the
+                                    exclusions in subsection (b) and to the further conditions and
+                                    requirements of this title.</text>
+                            </subsection>
+                            <subsection id="idAB025B3BE0DC445CB02B65D53C8504BC">
+                                <enum>(b)</enum>
+                                <header>Eligibility exclusions</header>
+                                <paragraph id="idF9EAEE206E394E67ADE67CF8196BDD33">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+                                    <text>Subject to paragraph (2), a person may not obtain a patent
+                                        for any of the following, if claimed as such:</text>
+                                    <subparagraph id="idA76CC55BFBA04A6B8E1DD34503A992E4">
+                                        <enum>(A)</enum>
+                                        <text>A mathematical formula that is not part of a claimed
+                                            invention in a category described in subsection
+                                            (a).</text>
+                                    </subparagraph>
+                                    <subparagraph id="id6C1C4770571F47C382DA833BDCD67E57">
+                                        <enum>(B)</enum>
+                                        <text>A process that is substantially economic, financial,
+                                            business, social, cultural, or artistic, even though at
+                                            least 1 step in the process refers to a machine or
+                                            manufacture.</text>
+                                    </subparagraph>
+                                    <subparagraph id="idDDD9588D3C9F47C995D3913250BCECCF">
+                                        <enum>(C)</enum>
+                                        <text>A process that— </text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id21b0fb1fbbc84c78bf1068b02fc2395f">
+                                            <enum>(i)</enum>
+                                            <text display-inline="yes-display-inline">is a mental
+                                                process performed solely in the human mind;
+                                                or</text>
+                                        </clause>
+                                        <clause id="id6C40532A6D3A4D659170EBD0D8326899">
+                                            <enum>(ii)</enum>
+                                            <text>occurs in nature wholly independent of, and prior
+                                                to, any human activity.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="idCEF9FB13CA4B41AA805CF04C9A363D37">
+                                        <enum>(D)</enum>
+                                        <text>An unmodified human gene, as that gene exists in the
+                                            human body.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id93C806989A734258A51AAAD38D409B27">
+                                        <enum>(E)</enum>
+                                        <text>An unmodified natural material, as that material
+                                            exists in nature.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id13DB33BDE0724F36AF9790E7645B7238">
+                                    <enum>(2)</enum>
+                                    <header>Conditions</header>
+                                    <text>For the purposes of— </text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id3f2eb075c96e4b33baa7766217114efb">
+                                        <enum>(A)</enum>
+                                        <text>subparagraphs (A) and (B) of paragraph (1), the
+                                            claimed invention shall not be excluded from eligibility
+                                            for a patent if the invention cannot practically be
+                                            performed without the use of a machine or
+                                            manufacture;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id03aa815794c64359bbc9da4ceb0e9211">
+                                        <enum>(B)</enum>
+                                        <text display-inline="yes-display-inline">paragraph (1)(D),
+                                            a human gene shall not be considered to be unmodified if
+                                            that human gene is—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id4a0ce1e4ddd7498e97eab1c0091521a4">
+                                            <enum>(i)</enum>
+                                            <text display-inline="yes-display-inline">purified,
+                                                enriched, or otherwise altered by human activity;
+                                                or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="ida2d7ebb1603349e7b719ab236efbf4f4">
+                                            <enum>(ii)</enum>
+                                            <text>otherwise employed in a useful invention or
+                                                discovery; and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id0d68feb869cc49bd89a6eff9299d796e">
+                                        <enum>(C)</enum>
+                                        <text>paragraph (1)(E), a natural material shall not be
+                                            considered to be unmodified if that natural material
+                                            is—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="ide2adbd5b184e44ca80a964a81154e667">
+                                            <enum>(i)</enum>
+                                            <text display-inline="yes-display-inline">isolated,
+                                                purified, enriched, or otherwise altered by human
+                                                activity; or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id530e9491323a403eb530515ea44e4e55">
+                                            <enum>(ii)</enum>
+                                            <text>otherwise employed in a useful invention or
+                                                discovery.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idD98AABBF8FF744138553DE8D10F305EB">
+                                <enum>(c)</enum>
+                                <header>Eligibility</header>
+                                <paragraph id="id581ED7B679734D56827E7F3C5CDB9DBF">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+                                    <text>In determining whether, under this section, a claimed
+                                        invention is eligible for a patent, eligibility shall be
+                                        determined—</text>
+                                    <subparagraph id="idDC7C5F736E6D493E96BEA5426A168B02">
+                                        <enum>(A)</enum>
+                                        <text>by considering the claimed invention as a whole and
+                                            without discounting or disregarding any claim element;
+                                            and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id2CEA6BC4E0874837AF205311D63BA617">
+                                        <enum>(B)</enum>
+                                        <text>without regard to—</text>
+                                        <clause id="id19E173C0EFF24BBB8EF320DB0A15DAA2">
+                                            <enum>(i)</enum>
+                                            <text>the manner in which the claimed invention was
+                                                made;</text>
+                                        </clause>
+                                        <clause id="id3AEFF0BB875C4CC78D5484886CE12092">
+                                            <enum>(ii)</enum>
+                                            <text>whether a claim element is known, conventional,
+                                                routine, or naturally occurring;</text>
+                                        </clause>
+                                        <clause id="id5984788669EB43229D4063EC6DE39194">
+                                            <enum>(iii)</enum>
+                                            <text>the state of the applicable art, as of the date on
+                                                which the claimed invention is invented; or</text>
+                                        </clause>
+                                        <clause id="idD9E5736C95094260AA36966698128BE4">
+                                            <enum>(iv)</enum>
+                                            <text>any other consideration in section 102, 103, or
+                                                112.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idBEF29B46F39C4AF6B6ECEF9326B0317A">
+                                    <enum>(2)</enum>
+                                    <header>Infringement action</header>
+                                    <subparagraph id="idBA4AFB966DF8409E9A16D809CED741D5">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+                                        <text>In an action brought for infringement under this
+                                            title, the court, at any time, may determine whether an
+                                            invention or discovery that is a subject of the action
+                                            is eligible for a patent under this section, including
+                                            on motion of a party when there are no genuine issues of
+                                            material fact.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id18F0F1BCF05343768C6BB667625DD14E">
+                                        <enum>(B)</enum>
+                                        <header>Limited discovery</header>
+                                        <text>With respect to a determination described in
+                                            subparagraph (A), the court may consider limited
+                                            discovery relevant only to the eligibility described in
+                                            that subparagraph before ruling on a motion described in
+                                            that subparagraph.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id7D6407B9CDFE4895970BF1B89E35883E">
+                <enum>(b)</enum>
+                <header>Technical and conforming amendment</header>
+                <text>The table of sections for chapter 10 of title 35, United States Code, is
+                    amended by striking the item relating to section 101 and inserting the
+                    following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idC0A4FE4666EC45AB90579E06B6BAB371">
+                    <toc>
+                        <toc-entry bold="off" level="section">101. Patent eligibility.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id25230194dd764d4c99c9ba77da652433">
+            <enum>4.</enum>
+            <header>Rules of construction</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="ide4d5a3ef167743689d62827c40fe7976">
+                <enum>(a)</enum>
+                <header>Obviousness-Type double patenting</header>
+                <text>Nothing in this Act, or any amendment made by this Act, may be construed to
+                    affect or alter the judicially-created doctrine of obviousness-type double
+                    patenting.</text>
+            </subsection>
+            <subsection id="id385b25a28207417bba3c79048710ae68">
+                <enum>(b)</enum>
+                <header>Insignificant extra-Solution activity</header>
+                <text>With respect to the exclusions to patent eligibility described in
+                    subparagraphs (A) and (B) of section 101(b)(1) of title 35, United States Code,
+                    as added by section 3 of this Act, the inclusion of pre- or post-solution
+                    activity by a computer (or other machine or manufacture) in claim language shall
+                    not be sufficient to confer patent eligibility on the claim if that computer (or
+                    other machine or manufacture) is not necessary to practically perform the
+                    invention.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>

@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT25780-YN4-PV-7RW">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2338 IS: Strengthening Local Food Security Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2338</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250717">July 17, 2025</action-date>
+            <action-desc><sponsor name-id="S259">Mr. Reed</sponsor> (for himself and <cosponsor name-id="S437">Mr. Justice</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAF00">Committee on
+                    Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Agricultural Marketing Act of 1946 to establish the
+            Strengthening Local Food Security Program, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening Local Food Security Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idC5431B867F724F80868F8CBEC261DDF6">
+            <enum>2.</enum>
+            <header>Strengthening Local Food Security Program</header>
+ <text display-inline="no-display-inline">Subtitle A of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1621">7 U.S.C. 1621 et seq.</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idB64209BFA67F400F8A18FB5148176637">
+                <section id="id4CFE0C9FE0CC439CB7343A4EE6C9433D">
+                    <enum>210B.</enum>
+                    <header>Strengthening Local Food Security Program</header>
+                    <subsection id="id186D9B7E91E14E99B622C8EF160A3BD3">
+                        <enum>(a)</enum>
+                        <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id08c2336e67184c50b0e803c4445d6579"> <enum>(1)</enum> <header>Collaborator</header> <text>The term <term>collaborator</term>, with respect to a project carried out under the Program, means an individual or entity (including a private entity, a for-profit entity, and a nonprofit entity) that—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id6618eb1cf3354821a5a3795d0c6bbac0">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">is unaffiliated with the eligible unit of government carrying out the project;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id58f25a069a1f46c9b1928032ba13c469">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">cooperates with respect to—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id4179adf62505434c9bbb456765d30995">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the application relating to the project under subsection (e); and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idcca3e7a89fc64d6da3bcd2d99c38305e">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the conduct of the project; and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id916f7509e5204b2793ab8ee9a088532a">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">is not immediately connected to the management of the project.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id4f3089ca160d4393b740719b17042c9a">
+                            <enum>(2)</enum>
+                            <header>Covered producer</header>
+ <text>The term <quote>covered producer</quote> means, as determined by the Secretary—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id19dca4f1858349a9ab2b7870ac506f06">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a small or mid-sized fisher, farmer, or rancher;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id657cec7c8a794e788cdb301b257e4ac2">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a beginning fisher, farmer, or rancher;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id95c6041270e044e49a67b3967a66fa5a">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">a veteran fisher, farmer, or rancher; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc06db2207548475e9d3cff86387f48bc">
+                                <enum>(D)</enum>
+ <text display-inline="yes-display-inline">an underserved fisher, farmer, or rancher.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id632a40f46834488796dfe647c82b1f83">
+                            <enum>(3)</enum>
+                            <header>Eligible unit of government</header>
+ <text>The term <term>eligible unit of government</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="iddd8129f1eb5c42c0bd1ff846888e7e1a"> <enum>(A)</enum> <text display-inline="yes-display-inline">a State agency, commission, or department that is responsible for agriculture, procurement, food distribution, emergency response, or other similar activities within the State;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id368577eb86c84ddda84d652321bcc5aa">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the District of Columbia;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idd9cf697e7dcd4adea001f3acbe6fd585">
+                                <enum>(C)</enum>
+ <text>the Commonwealth of Puerto Rico;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id5e9403f824334b6080ca352f56065a2e"> <enum>(D)</enum> <text>the United States Virgin Islands;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id42358da51f164cf0a378e590043454f5">
+                                <enum>(E)</enum>
+ <text>Guam; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id4C3E77CCC0C24E539B397E0FB3E6127B"> <enum>(F)</enum> <text>a Tribal government.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id7aca5cdcd7cd42fe8bf5803fadfc3619">
+                            <enum>(4)</enum>
+                            <header>Partnership</header>
+ <text>The term <term>partnership</term> means a relationship involving close cooperation between or among individuals and entities (including private, for-profit, and nonprofit entities) with specified, joint rights and responsibilities in the management of a project carried out under the Program.</text>
+                        </paragraph>
+                        <paragraph id="idBB7171A4CA5C409A9ACD577E5456378D">
+                            <enum>(5)</enum>
+                            <header>Program</header>
+ <text>The term <term>Program</term> means the Strengthening Local Food Security Program established under subsection (b).</text>
+                        </paragraph>
+                        <paragraph id="id73519404D3A94895ADC99BDB1368B199">
+                            <enum>(6)</enum>
+                            <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Agriculture.</text>
+                        </paragraph>
+                        <paragraph id="ida8828eb52aca4c4583919cd5849f4b82">
+                            <enum>(7)</enum>
+                            <header>Underserved community</header>
+ <text>The term <term>underserved community</term> means a community (including an urban or rural community and a Tribal community) that, as determined by the Secretary—</text>
+                            <subparagraph id="id7db20e4d84bd46648df69dd788f3ce07">
+                                <enum>(A)</enum>
+ <text>has limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets; and</text>
+                            </subparagraph>
+                            <subparagraph id="ida958bd211966427ab31980f0036cfcd8">
+                                <enum>(B)</enum>
+ <text>has—</text> <clause commented="no" display-inline="no-display-inline" id="id1f9099c3fe9a4320b1ab89ba0e5682e9"> <enum>(i)</enum> <text display-inline="yes-display-inline">a high rate of hunger or food insecurity; or</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id0a8fbe4cf93f4a76969a3f39f1b2a16a">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">a high poverty rate.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id8C1F1540C51C432AAB107B9C48C4A02C">
+                        <enum>(b)</enum>
+                        <header>Establishment</header>
+ <text>The Secretary shall establish a program, to be known as the <quote>Strengthening Local Food Security Program</quote>, under which the Secretary shall enter into cooperative agreements with eligible units of government for the purposes of—</text>
+                        <paragraph id="id87E5F4C601E14936A34F42F1F84EA407">
+                            <enum>(1)</enum>
+ <text>purchasing food, including seafood, produce, meat, eggs, dairy, and poultry, from local and regional covered producers; and</text>
+                        </paragraph>
+                        <paragraph id="idD612C5F9B4C347A19FBD4AD813CBFEEA">
+                            <enum>(2)</enum>
+ <text>distributing that food within the geographic boundaries of the eligible unit of government, including to hunger relief organizations and schools participating in school meal programs under the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1751">42 U.S.C. 1751 et seq.</external-xref>) and the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1771">42 U.S.C. 1771 et seq.</external-xref>).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="ide9381e953dcf41f29fb87241f06a4e9b">
+                        <enum>(c)</enum>
+                        <header>Purposes</header>
+ <text display-inline="yes-display-inline">The purposes of the Program are—</text>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id76f3f6982ba24d4dab244bec3cd6c16b">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">to maintain and improve food and agricultural supply chain resiliency and expand economic opportunities for covered producers;</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idc3c1b778ef0047189bcfca6fb800cde9">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">to promote food security; and</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id2706643b7da14d789ac4b334ea970e29">
+                            <enum>(3)</enum>
+ <text>to strengthen the food system for food banks, schools, and childcare institutions.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idF8571B4B5C4D419EB68104CCB89D8E47">
+                        <enum>(d)</enum>
+                        <header>Noncompetitive allocation</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="ide2d7cec7f83140688fce8f172fc8a0ed">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary shall—</text> <subparagraph id="id8CA19FA39C514E9880C319576302C48E"> <enum>(A)</enum> <text>enter into cooperative agreements with, and provide funding to, eligible units of government under the Program on a noncompetitive basis;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc8b8d9bec22143848e253b21d5731f76">
+                                <enum>(B)</enum>
+ <text>of the amounts appropriated to carry out the Program for each fiscal year—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id5805F12D7A7B47D0AE5CAD080AA157AF">
+                                    <enum>(i)</enum>
+ <text>allocate 10 percent to Tribal governments, to be allocated using a funding formula determined by the Secretary;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id0de240e7386444aa8a2c22d8cc98adc0">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">of the amounts remaining after making the allocation under clause (i), allocate 1 percent to each State; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idd7cea236257244d9be5c17ed31c44e93">
+                                    <enum>(iii)</enum>
+ <text>after making the allocations under clauses (i) and (ii), allocate the remaining amounts to each eligible unit of government (excluding Tribal governments) by applying the formula described in section 214 of <external-xref legal-doc="public-law" parsable-cite="pl/98/8">Public Law 98–8</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/7/7515">7 U.S.C. 7515</external-xref>); and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="idCDEF2A497DBB4635AA6DE990E853FBD6">
+                                <enum>(C)</enum>
+ <text>in the case of an eligible unit of government that has not submitted to the Secretary, by the date that is 1 year after the date on which amounts are allocated to the eligible unit of government under subparagraph (B), an application under subsection (e) for spending those amounts, redistribute those amounts to 1 or more other eligible units of government with the capacity to spend those amounts.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id16bf0272c9e04c9db26e6a17e305a180">
+                            <enum>(2)</enum>
+                            <header>Eligible units of government in same State</header>
+ <text>For purposes of allocating funding under paragraph (1), 1 or more eligible units of government described in subsection (a)(3)(A) in the same State shall be treated as 1 eligible unit of government.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idc97cd6852b51413b8630c4f7e3a5d1f9">
+                        <enum>(e)</enum>
+                        <header>Applications</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idec0f54d962fc44dcaa18187bdbb234cc">
+                            <enum>(1)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>To be eligible to receive funding under this section, an eligible unit of government shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary shall require, by regulation, including—</text>
+                            <subparagraph id="id54c844a703344c478058dc1ca89f3abe">
+                                <enum>(A)</enum>
+ <text>a plan that—</text> <clause commented="no" display-inline="no-display-inline" id="id0a31b5ea52194cb2b98a13ab18f57986"> <enum>(i)</enum> <text display-inline="yes-display-inline">identifies—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id05d7c7fcbecb4e3b959031fd16b1e00e">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the lead agency responsible for carrying out the plan; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id7800109cb3e64e7fbbebf8c66af86ed2">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">community partners that will contribute to the implementation of the plan;</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id5f340f5a3e674086b51756bc6370d526">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">describes the means by which the funds will be used—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idfa6068a8d49248f0a284d25bd80a37f1">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to grow a local food system; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id13dade1f394d4a50b4ac74c680f28fa9">
+                                        <enum>(II)</enum>
+                                        <item commented="no" display-inline="yes-display-inline" id="idfd219b55aaa0401c8992ce65a48e76ae">
+                                            <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">to promote food security;</text>
+                                        </item>
+                                        <item indent="up1" commented="no" display-inline="no-display-inline" id="id64732788220a4ebca29b41a110f0099c">
+                                            <enum>(bb)</enum>
+ <text>to increase the prevalence of local, nutritious food in schools; or</text>
+                                        </item>
+                                        <item id="id154a34d674524b61b025c054e1c47720" indent="up1">
+                                            <enum>(cc)</enum>
+ <text>to carry out both items (aa) and (bb); and</text> </item> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" id="idb974f2c4afc9452d8bb8b1d89bd0a435"> <enum>(iii)</enum> <text>meets the requirements of subsection (f); and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="idd5edb1a6b1a34d05aab390dce0487ebb">
+                                <enum>(B)</enum>
+ <text>an assurance that—</text> <clause commented="no" display-inline="no-display-inline" id="idd09bf03bba05417bb478976943e97d09"> <enum>(i)</enum> <text display-inline="yes-display-inline">the eligible unit of government will comply with the requirements of the plan; and</text>
+                                </clause>
+                                <clause id="iddbf646b853df4528b2f3a52a1dc86113">
+                                    <enum>(ii)</enum>
+ <text>the funds will supplement, not supplant, funds provided by the eligible unit of government in support of local food, school meals, or hunger relief systems.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id4d1a1833c43742a0979e1a8d7e4165bc">
+                            <enum>(2)</enum>
+                            <header>Review</header>
+ <text>The Secretary—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide60f02b2a42d4847b4db90ca0120d2ad"> <enum>(A)</enum> <text display-inline="yes-display-inline">shall review each application submitted under paragraph (1) to ensure that the plan included in the application will carry out the purposes of the Program described in subsection (c); and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id104c5a780def490683c6d7fe632b3d06">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">may accept or reject each application, as the Secretary determines to be appropriate.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id6EA080C95CBD48198ED661033E28B611">
+                        <enum>(f)</enum>
+                        <header>Requirements</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id582ad6882ed14150a7e75e4a7e4bacff">
+                            <enum>(1)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>Under a cooperative agreement entered into under the Program, an eligible unit of government shall—</text>
+                            <subparagraph id="id2C9FEB270CEB4857B997447A0D97C914">
+                                <enum>(A)</enum>
+ <text>only purchase food—</text> <clause commented="no" display-inline="no-display-inline" id="idf6e7a918aa9145039148c51e02e48c0d"> <enum>(i)</enum> <text display-inline="yes-display-inline">from fishermen, farmers, producers, and processors that are—</text>
+                                    <subclause id="idB821008F5BD448DE81C8C709462488D1">
+                                        <enum>(I)</enum>
+ <text>within the geographic boundaries of the eligible unit of government in which the food will be delivered; or</text>
+                                    </subclause>
+                                    <subclause id="id3F2D66BCA88647C8969813808CC116EF">
+                                        <enum>(II)</enum>
+ <text>not more than 400 miles from the delivery destination of the food; or</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idf91f18b98f0d4c3089ff2b08e5ee2bc9">
+                                    <enum>(ii)</enum>
+ <text>through a subawardee described in subsection (g)(1) that purchases food to fulfill the subaward only from fishermen, farmers, producers, and processors that are—</text>
+                                    <subclause id="id69D27051B38F46DC9CC2120F94E79036">
+                                        <enum>(I)</enum>
+ <text>within the geographic boundaries of the eligible unit of government in which the food will be delivered; or</text>
+                                    </subclause>
+                                    <subclause id="idCC5CDC70484A4EA3BF2C7CF8FECD3A3B">
+                                        <enum>(II)</enum>
+ <text>not more than 400 miles from the delivery destination of the food;</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="id91628DB0FAA2499AA2DDD149E0372E05">
+                                <enum>(B)</enum>
+ <text>ensure that not less than 51 percent of the total annual value of products purchased by the eligible unit of government and any subawardees comprises purchases from covered producers;</text>
+                            </subparagraph>
+                            <subparagraph id="idB4DE32120820455098F79498AAC43004">
+                                <enum>(C)</enum>
+ <text>give priority to distributing food to underserved communities;</text> </subparagraph> <subparagraph id="idEBEBE77E1BDA485799715F6DBAA45D8C"> <enum>(D)</enum> <text>expend funding not later than 3 years after the date on which the funding is provided to the eligible unit of government; and</text>
+                            </subparagraph>
+                            <subparagraph id="idb4f3afbe0f8848a685858187ef015b13">
+                                <enum>(E)</enum>
+ <text>subject to paragraph (2), use not more than 25 percent of the amount allocated to the eligible unit of government for Program administration and technical assistance, which may include support for—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="idd609128e03334e0cafff9bb27b874f10">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">participating producers;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id8640d14f8c494fbca07a8287f4985080">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">efforts to grow the local agricultural value chain; and</text>
+                                </clause>
+                                <clause id="idd999fbb6a836492883723f94c956410e">
+                                    <enum>(iii)</enum>
+ <text>covered producers in obtaining food safety training and certifications.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id69166bad8eb84c60bfe69980a9cc5af7">
+                            <enum>(2)</enum>
+                            <header>Administration and technical assistance</header>
+ <text display-inline="yes-display-inline">Of the amount used for Program administration and technical assistance under paragraph (1)(E), an eligible unit of government shall allocate not less than 35 percent for technical assistance.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id170d6debc55d4f61a1b47013b90b1bfb">
+                        <enum>(g)</enum>
+                        <header>Subcontracts and subawards</header>
+ <text>To effectuate the purposes of the Program described in subsection (c), an eligible unit of government—</text>
+                        <paragraph id="id367f166b638547929f16813cb7534cde">
+                            <enum>(1)</enum>
+ <text>may enter into subcontracts (including with other units of that government) and provide subawards to support partnerships and collaborators, subject to subsection (f)(1)(E); and</text>
+                        </paragraph>
+                        <paragraph id="idfb056b277f284f30a6cbe4c11547f73a">
+                            <enum>(2)</enum>
+ <text>on entering into a subcontract or subaward pursuant to paragraph (1), shall—</text>
+                            <subparagraph id="id46369603179c447a9d724b063283bc4f">
+                                <enum>(A)</enum>
+ <text>structure the subcontract or subaward to be inclusive of all costs associated with implementing the Program purposes, including the costs of—</text>
+                                <clause id="idf81943c99fcf4ce0b23a17c9c52eb200">
+                                    <enum>(i)</enum>
+ <text>food products;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="idce832dfea46b4ba89b22ccf141cc13b8"> <enum>(ii)</enum> <text display-inline="yes-display-inline">aggregation and distribution;</text>
+                                </clause>
+                                <clause id="idf3475d745fa449f4bd7e2bd45d94736e">
+                                    <enum>(iii)</enum>
+ <text>equipment or infrastructure upgrades to support food safety compliance; and</text>
+                                </clause>
+                                <clause id="id0132158f5eb24086a9b6064a583b05ae">
+                                    <enum>(iv)</enum>
+ <text>personnel; and</text> </clause> </subparagraph> <subparagraph id="idca14c081f57942fe8f4e4ad67721a750"> <enum>(B)</enum> <text>require members of a partnership and collaborators to demonstrate evidence of existing community or industry engagement.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="idaef267977b984d679cfeccf058820429">
+                        <enum>(h)</enum>
+                        <header display-inline="yes-display-inline">Availability of funds</header>
+ <text>To effectuate the purposes of the Program described in subsection (c) and ensure that the producers described in subsection (f)(1)(B) can meaningfully participate in the Program, the Secretary shall provide—</text>
+                        <paragraph id="id8a03eb477cb740fa96a95707b1ca02f8">
+                            <enum>(1)</enum>
+ <text>not less than 50 percent of the funding awarded to an eligible unit of government in advance of the distribution of food under the agreement entered into under the Program; and</text>
+                        </paragraph>
+                        <paragraph id="idbf7c91f549d245b19902430555edfe70">
+                            <enum>(2)</enum>
+ <text>the remaining funding awarded to the eligible unit of government not later than the midpoint of the period of performance established in that agreement.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id78624685956E4E3EB46B6B94956C574D">
+                        <enum>(i)</enum>
+                        <header>Food safety training and certification</header>
+                        <paragraph id="idBA5F4836457640F58D82CE39F95FA5B8">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary may require food purchased under a cooperative agreement entered into under the Program to be purchased from a farm that has undergone food safety training, or received a relevant food safety certification, with respect to production, packaging, handling, and storage to minimize risks of food safety hazards.</text>
+                        </paragraph>
+                        <paragraph id="id6F20F53CCF474D6F964CA9212245A258">
+                            <enum>(2)</enum>
+                            <header>Training, plans, and certifications</header>
+ <text>If the Secretary imposes the requirement described in paragraph (1)—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id1ebe46be9dac4e6f845d087694ebc8ca">
+                                <enum>(A)</enum>
+                                <clause commented="no" display-inline="yes-display-inline" id="id7fdffb83a3a34715863b5c163bc5d725">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">compliance with the requirement may be demonstrated by—</text>
+                                    <subclause id="id6fbbc02b01d148c099efaca419d90084" indent="up1">
+                                        <enum>(I)</enum>
+ <text>a receipt of food safety training, including Good Agricultural Practices training, or an equivalent food safety curriculum; or</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id3f8349e9a3674acb8656a8761a309404" indent="up1">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">a relevant food safety certification; but</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idee5dfc8a1d91437fbef23f2f0d80e0d3" indent="up1">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the Secretary shall not require such compliance to be demonstrated by a Federal certification; and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id8794d9f672d1417b8926d2cdec29c42d">
+                                <enum>(B)</enum>
+ <text>each eligible unit of government shall provide technical assistance in obtaining the required food safety training or certification, in accordance with subsection (f)(1)(E).</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idD4C6D532901448FE859DA34826AC7A80">
+                        <enum>(j)</enum>
+                        <header>Reports</header>
+ <text>An eligible unit of government that enters into a cooperative agreement under the Program shall submit to the Secretary, at such times as the Secretary determines to be appropriate, reports that shall include data relating to the procurement and distribution of food under the cooperative agreement.</text>
+                    </subsection>
+                    <subsection id="id0211BAFEFDB149E5811BF9F037D3E319">
+                        <enum>(k)</enum>
+                        <header>Funding</header>
+                        <paragraph id="id23672037114c4a59bc98a961b3fd810c">
+                            <enum>(1)</enum>
+                            <header>Mandatory funding</header>
+ <text>Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $200,000,000 for fiscal year 2025 and each fiscal year thereafter.</text>
+                        </paragraph>
+                        <paragraph id="id1B49B79EF6F34841ABAEDB34E7D90507">
+                            <enum>(2)</enum>
+                            <header>Authorization of appropriations</header>
+ <text>In addition to other funds and authorities available to the Secretary, in order to carry out activities under this section, there is authorized to be appropriated $200,000,000 for each of fiscal years 2025 through 2029, to remain available until expended by the Secretary.</text>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

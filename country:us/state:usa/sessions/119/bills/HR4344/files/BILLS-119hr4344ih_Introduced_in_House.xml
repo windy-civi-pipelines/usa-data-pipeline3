@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0F762087B0F34E20B286A82571824000" public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4344 IH: Resilient Low Earth Orbit Positioning, Navigation, and Timing Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session>
+        <legis-num display="yes">H. R. 4344</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20250710">July 10, 2025</action-date>
+            <action-desc><sponsor name-id="M001225">Mr. Mullin</sponsor> (for himself and <cosponsor name-id="W000804">Mr. Wittman</cosponsor>) introduced the following bill; which
+                was referred to the <committee-name committee-id="HAS00">Committee on Armed
+                    Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To direct the Secretary of the Air Force to carry out a
+            capability demonstration project to obtain a resilient positioning, navigation, and
+            timing capability demonstration, and for other purposes.</official-title>
+    </form>
+    <legis-body id="H8E19813076624E1EA9FA992A0DE6ECEC" style="OLC">
+        <section id="H0FEC6D4AE9384BA9968D8E32F2566DD2" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Resilient Low Earth Orbit Positioning, Navigation, and Timing Act</short-title></quote> or the <quote><short-title>Resilient LEO PNT Act</short-title></quote>.</text>
+        </section>
+        <section id="H67CD86B95836433C91FCAF0EB549A322">
+            <enum>2.</enum>
+            <header>Commercial Low Earth Orbit Resilient Positioning, Navigation, and Timing
+                Capability Demonstration and Pathfinder Program</header>
+            <subsection id="HF500EF433FFC49B7B1FD32EB9FF148BE">
+                <enum>(a)</enum>
+                <header>Pathfinder Program</header>
+ <text display-inline="yes-display-inline">Subject to the availability of appropriations for such purpose, the Secretary of the Air Force shall carry out a capability demonstration project, to be known as the <quote>Commercial Low Earth Orbit Resilient Positioning, Navigation, and Timing Capability Demonstration</quote> in accordance with this section.</text>
+            </subsection>
+            <subsection id="H3054DAD72600464FAB145AF7712EAE22">
+                <enum>(b)</enum>
+                <header>Contract with covered service provider</header>
+                <paragraph id="H2EB8B15C93E941249E4939553B01EA61">
+                    <enum>(1)</enum>
+                    <header>Selection</header>
+ <text display-inline="yes-display-inline">As soon as practicable after the date of the enactment of this Act, the Secretary shall—</text>
+                    <subparagraph id="H2B1380CFAF8F499EA9100E9FF6BE0E6C">
+                        <enum>(A)</enum>
+ <text>develop a list of covered service providers that can carry out a capability demonstration project with the technical capabilities described in subsection (c); and</text>
+                    </subparagraph>
+                    <subparagraph id="HE739BEB08987481780FF6E299B1503D3">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">seek to award a contract to at least one such covered service provider.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H0C07FC9D760D4BDB90FBD41EDB236127">
+                    <enum>(2)</enum>
+                    <header>Contract</header>
+ <text>The contract awarded to a covered service provider under this subsection shall provide that such covered service provider carry out a capability demonstration project with the technical capabilities described in subsection (c) not later than 18 months after the date of the award of such contract.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H2275997A54B649D39444599AA4EDD6C4">
+                <enum>(c)</enum>
+                <header>Technical Capabilities</header>
+ <text>The capability demonstration delivered under subsection (b)(2) shall demonstrate a satellite system that has—</text>
+                <paragraph id="HAE0622F428F34B359B03520D04918231">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the ability to operate in the absence of Global Positioning System services;</text>
+                </paragraph>
+                <paragraph id="H912FE103459B457A9AE666C52F3F79B7">
+                    <enum>(2)</enum>
+ <text>compatibility with user equipment that uses the civilian Global Positioning System L1 or L5 services without performing hardware modifications of receiver equipment;</text>
+                </paragraph>
+                <paragraph id="H9708D37D359A4198A7C0A1E590F88C2F">
+                    <enum>(3)</enum>
+ <text>greater resistance to jamming and spoofing threats compared to existing Global Positioning System services, to an extent determined by the Secretary;</text>
+                </paragraph>
+                <paragraph id="H5749E4C23AAC46D0848B2497617988D0">
+                    <enum>(4)</enum>
+ <text>the ability to provide timing accuracy of less than 10 nanoseconds and position accuracy of less than 30 centimeters for stationary and mobile users; and</text>
+                </paragraph>
+                <paragraph id="H7769C86C21004A089B13F588A3C1CEB3">
+                    <enum>(5)</enum>
+ <text>the ability to restore service if some or all satellites in the satellite system are disabled, in a cadence as determined by the Secretary that substantially decreases the time to service restoration compared to what is possible under existing Global Positioning System service.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H019A2334CF2A4A62943D1BDEF449DB32">
+                <enum>(d)</enum>
+                <header>Evaluation</header>
+ <text display-inline="yes-display-inline">The Secretary shall evaluate the covered service providers for the purposes of developing the list of covered service providers under subsection (b)(1) based on the requirements in section (c) and the following factors:</text>
+                <paragraph id="H09A7DD1BE44B47F3854E172C2972603F">
+                    <enum>(1)</enum>
+ <text>A demonstrated commercial business case.</text> </paragraph> <paragraph id="H0ED39D55AE4F42DFBA3B18AFE1898C7D"> <enum>(2)</enum> <text>Technological readiness of space and ground network operations.</text>
+                </paragraph>
+                <paragraph id="H500380F2EC5C4A9B92A14CA341AA2ACF">
+                    <enum>(3)</enum>
+ <text>Technological readiness of user equipment.</text> </paragraph> <paragraph id="H88132F1DDF044B31979E3BF81B3AB3B2"> <enum>(4)</enum> <text>Feasibility of rapidly manufacturing satellites for deployment.</text>
+                </paragraph>
+                <paragraph id="H40B1431E7DA948CB9F433879096EF5E8">
+                    <enum>(5)</enum>
+ <text>The requisite authorization by the Federal Communications Commission.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HEB09892C188D4C06812D1DDA54EAF99E">
+                <enum>(e)</enum>
+                <header>Follow-On production contract or transaction</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after a determination by the Secretary that the capability demonstration project has been successfully completed, the Secretary shall, to the extent practicable, award a follow-on production contract or transaction (as defined in section 4022 of title 10, United States Code) to at least one covered service provider that carried out such successful capability demonstration project for the purpose of achieving operational deployment as determined by the Secretary.</text>
+            </subsection>
+            <subsection id="H421276DA648A43708A27E78E8E4A8AAF">
+                <enum>(f)</enum>
+                <header>Briefing and report</header>
+ <text display-inline="yes-display-inline">Not later than two years after the date of the enactment of this Act, the Secretary shall provide a briefing and submit a report to the Committees on Armed Services of the House of Representatives and the Senate on the capability demonstration project described in this section that includes—</text>
+                <paragraph id="H01764B2D707A4EFD9BAC63D80563D5DA">
+                    <enum>(1)</enum>
+ <text>the list of covered service providers developed under subsection (b)(1);</text>
+                </paragraph>
+                <paragraph id="H299CE6F40C984EEFA683ECF502EE6A17">
+                    <enum>(2)</enum>
+ <text>an assessment of such providers and how the capability demonstration offered by each demonstrates the technical capabilities listed in subsection (c);</text>
+                </paragraph>
+                <paragraph id="HC8C9D6ED19744C80BA4B524C1670B146">
+                    <enum>(3)</enum>
+ <text>the results of the pathfinder capability demonstration; and</text> </paragraph> <paragraph id="H44178D6AA49F4455B8F5C4C13B338A84"> <enum>(4)</enum> <text>a strategy and timeline for deploying the system demonstration by the capability demonstration project to operational scale.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H5689423331F64AF6A606BEA98FE241AE">
+                <enum>(g)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="H637CDD3E3CC5436E966BC78CA43E0A79"> <enum>(1)</enum> <text>The term <quote>capability demonstration project</quote> means a prototype project pursuant to section 4022 of title 10, United States Code, that demonstrates resilient positioning, navigation, and timing capabilities by a low earth orbit system of satellites.</text>
+                </paragraph>
+                <paragraph id="H48BAD912963247598C4762DC3E490987">
+                    <enum>(2)</enum>
+ <text>The term <term>covered service provider</term> means a commercial entity that—</text>
+                    <subparagraph id="H036FB166AB794CB8A76D082E3B4FA4FA">
+                        <enum>(A)</enum>
+ <text>has its principal office located in the United States; and</text> </subparagraph> <subparagraph id="H2C5730E9361D4BBEAFEE0E89127D8DEC"> <enum>(B)</enum> <text>provides low earth orbit positioning, navigation, and timing services.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H53D7860DF8184541A83EB5426DE4877B">
+                    <enum>(3)</enum>
+ <text>The term <term>nanosecond</term> means a nanosecond in Universal Coordinated Time, as maintained by the United States Naval Observatory (UTC(USNO)).</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

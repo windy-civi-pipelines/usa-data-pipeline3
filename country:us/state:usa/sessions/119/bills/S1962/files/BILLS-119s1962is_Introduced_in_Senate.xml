@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OLL25703-N46-JT-HFF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1962 IS: Secure Space Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1962</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250605">June 5, 2025</action-date>
+            <action-desc><sponsor name-id="S357">Mrs. Fischer</sponsor> (for herself and <cosponsor name-id="S409">Mr. Luján</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSCM00">Committee on
+                    Commerce, Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Secure and Trusted Communications Networks Act of 2019 to
+            prohibit the Federal Communications Commission from granting a license or United States
+            market access for a geostationary orbit satellite system or a nongeostationary orbit
+            satellite system, or an authorization to use an individually licensed earth station or a
+            blanket-licensed earth station, if the license, grant of market access, or authorization
+            would be held or controlled by an entity that produces or provides any covered
+            communications equipment or service or an affiliate of such an entity, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HE6420B5FFEF34DEC832E248DCBAC2FF9">
+        <section section-type="section-one" id="H66D6B752CD404F538258FF45E6D38AFC">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Secure Space Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HE123DACEF4914576A00BB76D6F3C7E17">
+            <enum>2.</enum>
+            <header>Prohibition on grant of certain satellite licenses, United States market access,
+                or earth station authorizations</header>
+            <subsection id="HE2C2591D934F4EF68AF4E4FDD3C23114">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The Secure and Trusted Communications Networks Act of 2019 (<external-xref legal-doc="usc" parsable-cite="usc/47/1601">47 U.S.C. 1601 et seq.</external-xref>) is amended—</text>
+                <paragraph id="H9856664590BB4D2BB3A52006C8C8839D">
+                    <enum>(1)</enum>
+ <text>by redesignating sections 10 and 11 as sections 11 and 12, respectively; and</text>
+                </paragraph>
+                <paragraph id="H818494A760FE4BDDA7D31FEE7750BF62">
+                    <enum>(2)</enum>
+ <text>by inserting after section 9 the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H2C40407C4D374AABA943DB5312A85A43"> <section id="H80E5F8803DE54DC0878E371CDF724827"> <enum>10.</enum> <header>Prohibition on grant of certain satellite licenses, United States market access, or earth station authorizations</header> <subsection id="H0ACA56ADA5544936A97AAD09B9747088"> <enum>(a)</enum> <header>Definitions</header> <text>In this section:</text>
+                                <paragraph id="id6dab95b46e1649fbbeedc64bb2988bd9">
+                                    <enum>(1)</enum>
+                                    <header>Affiliate</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idd0d2e44784db4d0eb5eb6003c3a8b089">
+                                        <enum>(A)</enum>
+                                        <header display-inline="yes-display-inline">In
+                                            general</header>
+ <text>The term <term>affiliate</term> means an entity that (directly or indirectly) owns or controls, is owned or controlled by, or is under common ownership or control with, another entity.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="ida3578fb2e18c44a2bec20cdbba014237">
+                                        <enum>(B)</enum>
+                                        <header>Own</header>
+ <text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>own</term> means to have, possess, or otherwise control an equity interest (or the equivalent thereof) of not less than 10 percent.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="H33B7B573A31340DF8A7A76B7A62BA4D6">
+                                    <enum>(2)</enum>
+                                    <header>Blanket-licensed earth station</header>
+ <text>The term <term>blanket-licensed earth station</term> means an earth station that is licensed with a geostationary orbit satellite system or a nongeostationary orbit satellite system.</text>
+                                </paragraph>
+                                <paragraph id="H7AC4EA59353D452CB489B73E45C64AA5">
+                                    <enum>(3)</enum>
+                                    <header>Gateway station</header>
+ <text display-inline="yes-display-inline">The term <term>gateway station</term> means an earth station or a group of earth stations that—</text>
+                                    <subparagraph id="H24991751E6BD470AA01943AB0890EB7A">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">supports the routing and switching functions of a geostationary orbit satellite system or a nongeostationary orbit satellite system;</text>
+                                    </subparagraph>
+                                    <subparagraph id="H362D9AE52A044F8F99E7A99AF4EE5F9B">
+                                        <enum>(B)</enum>
+ <text>may also be used for telemetry, tracking, and command transmissions;</text>
+                                    </subparagraph>
+                                    <subparagraph id="H04969BEECF0448B18D71A3114A9FB4F0">
+                                        <enum>(C)</enum>
+ <text>does not originate or terminate communication traffic; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="H593D764D9DB34FF7AB572AB050863303">
+                                        <enum>(D)</enum>
+ <text>is not for the exclusive use of any customer.</text> </subparagraph> </paragraph> <paragraph id="H1B955A4616E148BC84D1B061A5A318ED"> <enum>(4)</enum> <header>Individually licensed earth station</header> <text display-inline="yes-display-inline">The term <term>individually licensed earth station</term> means—</text>
+                                    <subparagraph id="HD5424E51B8AB47229B5607722C622628">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">an earth station (other than a blanket-licensed earth station) that sends a signal to, and receives a signal from, a geostationary orbit satellite system or a nongeostationary orbit satellite system; or</text>
+                                    </subparagraph>
+                                    <subparagraph id="H7EAB166AEDD844A9B65A7DC166E84EBD">
+                                        <enum>(B)</enum>
+ <text>a gateway station.</text> </subparagraph> </paragraph> </subsection> <subsection id="H9674E3EEC5E249B787A803A17E3287EC"> <enum>(b)</enum> <header>Prohibition</header> <text display-inline="yes-display-inline">The Commission may not grant a license for, or a petition for a declaratory ruling to access the United States market using, a geostationary orbit satellite system or a nongeostationary orbit satellite system, or an authorization to use an individually licensed earth station or a blanket-licensed earth station, if the license, grant of market access, or authorization would be held or controlled by—</text>
+                                <paragraph id="H331457B33D934188AA1E54DE0D190530">
+                                    <enum>(1)</enum>
+ <text>an entity that produces or provides any covered communications equipment or service; or</text>
+                                </paragraph>
+                                <paragraph id="H281E668EDB794BDB870B2F10C2184188">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">an affiliate of an entity described in paragraph (1).</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H211EB027B25F4B6A89106287873D1A6E">
+                <enum>(b)</enum>
+                <header>Applicability</header>
+ <text display-inline="yes-display-inline">Section 10 of the Secure and Trusted Communications Networks Act of 2019, as added by subsection (a), shall apply with respect to the grant of a license, petition, or authorization on or after the date of enactment of this Act.</text>
+            </subsection>
+            <subsection id="H1949A2DBBCF844D3AA2187D693D55FAF">
+                <enum>(c)</enum>
+                <header>Rules</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Federal Communications Commission shall issue rules to implement section 10 of the Secure and Trusted Communications Networks Act of 2019, as added by subsection (a).</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

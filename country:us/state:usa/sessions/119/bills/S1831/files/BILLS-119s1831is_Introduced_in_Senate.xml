@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT25231-0MS-GJ-N8N">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1831 IS: Auto Reenroll Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1831</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S362">Mr. Kaine</sponsor> (for himself and <cosponsor name-id="S373">Mr. Cassidy</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 and the Employee Retirement
+            Income Security Act of 1974 to allow for periodic automatic reenrollment under qualified
+            automatic contribution arrangements, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="id74626816EFA84947BB1CCB6B31721AED">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Auto Reenroll Act of 2025</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="id898FF72E9FAF46A6BCF6A82455063F82">
+            <enum>2.</enum>
+            <header>Automatic reenrollment under qualified automatic contribution arrangements and
+                eligible automatic contribution arrangements</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id074FC4D576C74A2AA3F762C657B4CC31">
+                <enum>(a)</enum>
+                <header>Qualified automatic contribution arrangements</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id03F26C97990C4844A08158F04BBB6A34">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/401">Section 401(k)(13)(C)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id71F4149D4F844E7EB2163F4F737DD863">
+                        <clause id="idBD6917D3C0FF4B7494AB3F6257BCC477">
+                            <enum>(v)</enum>
+                            <header>Periodic automatic deferral permitted</header>
+ <text>A qualified automatic contribution arrangement shall not fail to be treated as meeting the requirements of this subparagraph solely by reason of the fact that, under the arrangement—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="id86db4cab200645d682f339c82f7774fd">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">an election by an employee under clause (ii)(I) terminates after not more than 3 years (but not less than 1 year), and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idd3a03b80ed26467bbe4a56d7ec978041">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">such employee is treated as having made an election under clause (i) after such termination unless such employee makes a new affirmative election under clause (ii). </text>
+                            </subclause>
+                            <continuation-text commented="no" continuation-text-level="clause">A
+                                termination described in subclause (I) may be made at one time for a
+                                plan year for all employees who have made an election described in
+                                such subclause.</continuation-text>
+                        </clause>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" id="id38EA551A60044834BBCC80862D8F0FC2">
+                    <enum>(2)</enum>
+                    <header>Coordination with rule for current employees</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8e8a61ee6ca84c709981272e159ee434">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>Clause (iv) of section 401(k)(13)(C) of such Code is amended by striking <quote>either to participate in the arrangement or not to participate in the arrangement</quote> and inserting <quote>to participate in the arrangement</quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2d065f8c9f8848d3853ee4278f112cc5">
+                        <enum>(B)</enum>
+                        <header>Special rule for previously disregarded employees</header>
+                        <clause commented="no" display-inline="no-display-inline" id="idc5041e6e8bc34a1caf73bcecf3ff04ba">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of applying <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(k)(13)(C)(v)</external-xref> of the Internal Revenue Code of 1986 (as added by paragraph (1)), a previously disregarded employee may be treated as an employee who has made an election under section 401(k)(13)(C)(ii)(I) of such Code.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id306511e858af428fafd03b7d3365e9c1">
+                            <enum>(ii)</enum>
+                            <header>Previously disregarded employee</header>
+ <text display-inline="yes-display-inline">For purposes of this subparagraph, the term <term>previously disregarded employee</term> means any employee who was not taken into account under <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(k)(13)(C)(i)</external-xref> of the Internal Revenue Code of 1986 by reason of an election described in section 401(k)(13)(C)(iv)(II) of such Code (as in effect for plan years beginning on or before the date of the enactment of this Act) to not participate in an arrangement described in section 401(k)(13)(C)(iv)(I) of such Code.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idF04CF60C56114EF7830350405C1E15F1">
+                <enum>(b)</enum>
+                <header>Eligible automatic contribution arrangements</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/414">Section 414(w)(3)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <paragraph id="id49A86F74E5AD47AA90A358158C3C36D9"> <enum>(1)</enum> <text>by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and moving the margins of such clauses 2 ems to the right;</text>
+                </paragraph>
+                <paragraph id="id7197607F0E5E48BF8A4A9523B03132B8">
+                    <enum>(2)</enum>
+ <text>by striking <quote><header-in-text level="paragraph" style="OLC">arrangement</header-in-text>.—For purposes of</quote> and inserting the following: “<header-in-text level="paragraph" style="OLC">arrangement</header-in-text>.—</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id5770CA3F97564A2C8341AD807A9B1F47">
+                        <subparagraph id="id7B3F6413F07E415B8A8B209B2DBBB586">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>For purposes of</text> </subparagraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </paragraph> <paragraph id="id8C3C3AF1F0514111B4FF30F0E7BCEAC6"> <enum>(3)</enum> <text>by adding at the end the following new subparagraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id219C4BC2B0754B28B667B2E8A7D13FCC">
+                        <subparagraph id="id4E435488E90E49BA92DE2818FC5A566A">
+                            <enum>(B)</enum>
+                            <header>Periodic automatic deferral permitted</header>
+ <text>An arrangement shall not fail to be treated as an eligible automatic contribution arrangement under this subsection solely by reason of the fact that, under the arrangement—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id8B343B8C0923487DBB3F3007C10C439C">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an election by a participant under subparagraph (A)(ii) not to have contributions made terminates after not more than 3 years (but not less than 1 year), and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id81987ABF4661477180FB81C223449AE6">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">such participant is treated as having made an election under subparagraph (A)(ii) to make contributions at the uniform percentage level described in such subparagraph after such termination unless such participant makes a new election not to so make such contributions. </text>
+                            </clause>
+                            <continuation-text commented="no" continuation-text-level="subparagraph">A termination described in clause (i) may be made at one time for a
+                                plan year for all participants who have made an election described
+                                in such clause.</continuation-text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id6F0048B48F60424D8B79BE1168CAD412">
+                <enum>(c)</enum>
+                <header>Conforming amendment</header>
+ <text>Section 514(e)(2) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1144">29 U.S.C. 1144(e)(2)</external-xref>) is amended—</text>
+                <paragraph id="idE7355EA65ACB48F9B7A65CF7BA6D2FF9">
+                    <enum>(1)</enum>
+ <text>by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively;</text>
+                </paragraph>
+                <paragraph id="idE66867B895464D0BA370372003954E1D">
+                    <enum>(2)</enum>
+ <text>by striking <quote>(2) For purposes of</quote> and inserting <quote>(2)(A) For purposes of</quote>; and</text>
+                </paragraph>
+                <paragraph id="id8DC5DD55A3F74E73B07C4DBBCE28A27B">
+                    <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id2DE9769A314D43D9AED0205DA5C42CA4"> <subparagraph id="id2D171D8F639C4D27A06836FE0FB3B65D" indent="up2"> <enum>(B)</enum> <text>An arrangement shall not fail to be treated as an automatic contribution arrangement under this subsection solely by reason of the fact that under the arrangement—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="idC9B3419AD88F4322B42B5E6768C5DF51" indent="down1">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an election by a participant under subparagraph (A)(ii) not to have contributions made terminates after not more than 3 years (but not less than 1 year), and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idD0D4323750314CEAAA26F7CCE5D6E241" indent="down1">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">such participant is treated as having made an election under subparagraph (A)(ii) to make contributions at the uniform percentage level described in such subparagraph after such termination unless such participant makes a new election not to so make such contributions. </text>
+                            </clause>
+                            <continuation-text commented="no" continuation-text-level="subparagraph" indent="paragraph">A termination described in clause (i) may be made
+                                at one time for a plan year for all participants who have made an
+                                election described in such clause, regardless of individual
+                                participant dates of enrollment.</continuation-text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="idC8EAEA7735AD4FDD8D23286D52CD16AA">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to plan years beginning after the date of the enactment of this Act.</text>
+            </subsection>
+            <subsection commented="no" id="id87b903c06aea49479ad5aba401f92349">
+                <enum>(e)</enum>
+                <header>No inference</header>
+ <text>The amendments made by this section shall not be construed to create any inference with respect to—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id01529bbcfcd747f7ae845b3f92deefe9">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the application of <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(k)(13)(C)</external-xref> of the Internal Revenue Code of 1986, section 414(w)(3) of such Code, or section 514(e)(2) of the Employee Retirement Income Security Act of 1974 to plan years beginning before the date of the enactment of this Act, or</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id45df7a8b9640406f9cfb660c6ca0fbb8">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the application of <external-xref legal-doc="usc" parsable-cite="usc/26/401">section 401(k)(13)(C)(v)</external-xref> of the Internal Revenue Code of 1986 (as added by subsection (a)), section 414(w)(3)(B) of such Code (as amended by subsection (b)), or section 514(e)(2)(B) of the Employee Retirement Income Security Act of 1974 (as amended by subsection (c)) to arrangements terminating elections not to have contributions made after more than 3 years.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

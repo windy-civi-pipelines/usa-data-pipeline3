@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25280-1PK-PH-RL3">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1690 IS: Medicare and Social Security Fair Share Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1690</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250508">May 8, 2025</action-date>
+            <action-desc><sponsor name-id="S316">Mr. Whitehouse</sponsor> (for himself, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, and <cosponsor name-id="S390">Mr. Van
+                    Hollen</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to increase funding for Social
+            Security and Medicare.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause" id="H8D197AC210F84C5AA4811C2D053497EE">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare and Social Security Fair Share Act</short-title></quote>.</text>
+        </section>
+        <section id="H287CE7CFD8FB4771AC4FFB9EEA411993">
+            <enum>2.</enum>
+            <header>Modification of payroll taxes</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id648257288e9a484a82e94ed70060c61d">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Wage base for taxes funding social
+                    security</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida4540e052a1c462dbae5e360a9071b7e">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/3121">section 3121(a)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id815BD6FA96B9447CB40F6C08399B00D5">
+                        <paragraph id="idd1b7f032c49b4ba980613622b821dc96">
+                            <enum>(1)</enum>
+ <text>in the case of taxes imposed by sections 3101(a) and 3111(a), for any calendar year in which the contribution and benefit base (as determined under section 230 of the Social Security Act) is less than $400,000, so much of the remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment that has been paid to an individual by an employer during the calendar year as exceeds such contribution and benefit base but does not exceed $400,000;</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd7e11571796048c49ec4fca71430643d">
+                    <enum>(2)</enum>
+                    <header>Conforming amendments</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5ffe4780aab44712964277f04fa5df79">
+                        <enum>(A)</enum>
+                        <header>Successor employers</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/3121">Section 3121</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idC8D594103D53412F9222764972EFE0DE">
+                            <subsection commented="no" display-inline="no-display-inline" id="idd526b07fccb049be99d8f66496f4cfff">
+                                <enum>(aa)</enum>
+                                <header>Special rules for successor employers</header>
+ <text>For purposes of subsection (a)(1), if an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining the amount of remuneration paid by the successor employer under such subsection, any remuneration (other than remuneration referred to in the paragraphs succeeding paragraph (1) of subsection (a)) with respect to employment paid (or considered under this subsection as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer.</text>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="id78f1dd53eb6b40b1852509f5202b44a1">
+                        <enum>(B)</enum>
+                        <header>Application to railroad retirement taxes</header>
+ <text>Clause (i) of section 3231(e)(2)(A) of such Code is amended to read as follows:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idAF13F3A517D047E187C9244E7BF66BB2">
+                            <clause commented="no" display-inline="no-display-inline" id="id60a83d700c894388b766ab8dea8c7812">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text>For any calendar year in which the applicable base is less than $400,000, the term <term>compensation</term> does not include so much of the remuneration paid during any calendar year to an individual by an employer for services rendered as an employee to such employer as exceeds the applicable base but does not exceed $400,000.</text>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idca82251e1aa34933b649404fb5bb4721">
+                <enum>(b)</enum>
+                <header>Further additional hospital insurance tax on very high income
+                    taxpayers</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide49b20d1132e4e0a91c9846515ebfb66">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/3101">Section 3101(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idB78BC85C719A4DA28307E8C3C23FDBF9">
+                        <paragraph id="id83390c5f79b54aff8d25207d2b248316">
+                            <enum>(3)</enum>
+                            <header>Further additional tax</header>
+ <text>In addition to the tax imposed by paragraphs (1) and (2) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) a tax equal to 1.2 percent of wages which are received with respect to employment (as defined in section 3121(b)) during the taxable year which are in excess of—</text>
+                            <subparagraph id="idb94ccc9496f24ce7a72c61c6f080e535">
+                                <enum>(A)</enum>
+ <text>in the case of a joint return, $500,000,</text> </subparagraph> <subparagraph id="ida04c908d975e4e82978f4cabb1890326"> <enum>(B)</enum> <text>in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under subparagraph (A), and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ideff340559aec4029b3cf0a1ec055103a">
+                                <enum>(C)</enum>
+ <text>in any other case, $400,000.</text> </subparagraph> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idaa64145913664283848336ef39ba925a"> <enum>(2)</enum> <header>Collection of tax</header> <text>Section 3102 of such Code is amended by adding at the end the following new subsection:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idFA729024454F441EB59E64FA1D59E03E">
+                        <subsection id="id78676f0c1c454a7ba7d91f9526cfea6b">
+                            <enum>(g)</enum>
+                            <header>Special rules for further additional tax</header>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="id36398aeb94214add8d2fd7359b23fc9b">
+                                <enum>(1)</enum>
+                                <header display-inline="yes-display-inline">In general</header>
+ <text>In the case of any tax imposed by section 3101(b)(3), subsection (a) shall only apply to the extent to which the taxpayer receives wages from the employer in excess of $400,000, and the employer may disregard the amount of wages received by such taxpayer’s spouse.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idedebfdc1f7dd4a7780bfeb88a070a7fc">
+                                <enum>(2)</enum>
+                                <header>Collection of amounts not withheld</header>
+ <text>To the extent that the amount of any tax imposed by section 3101(b)(3) is not collected by the employer, such tax shall be paid by the employee.</text>
+                            </paragraph>
+                            <paragraph id="id3e942b54ec3a4e6cac9ac6615fc2736e">
+                                <enum>(3)</enum>
+                                <header>Tax paid by recipient</header>
+ <text>If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(3) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H93DA6BE8A5294D62965CF14458A0D827">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to remuneration paid, and taxable years beginning, on or after January 1 of the first calendar year that begins after the date of enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idc1d9bc58639b40f7b99407e91dd85901">
+            <enum>3.</enum>
+            <header>Modification of taxes on self-employment income</header>
+            <subsection id="idC59ECD181D3443D1BB27593675658F96">
+                <enum>(a)</enum>
+                <header>Tax on net earnings from self-Employment up to contribution and benefit base
+                    and more than $400,000</header>
+ <text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/1402">section 1402(b)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id30C41E94E9224BD987DC2107E67B8293">
+                    <paragraph id="IDda95724c34864350b3fe62899e846f47">
+                        <enum>(1)</enum>
+ <text>in the case of the tax imposed by section 1401(a) for any taxable year beginning in a calendar year in which the contribution and benefit base (as determined under section 230 of the Social Security Act) is less than $400,000, the excess (if any) of—</text>
+                        <subparagraph id="idC2F6B678823941309736E3932A286671">
+                            <enum>(A)</enum>
+ <text>so much of the net earnings from self-employment which is in excess of—</text>
+                            <clause id="id459BE277C59C4CCCB298350417B6E48C">
+                                <enum>(i)</enum>
+ <text>an amount equal to the contribution and benefit base (as determined under section 230 of the Social Security Act) which is effective for the calendar year in which such taxable year begins, reduced (but not below zero) by</text>
+                            </clause>
+                            <clause id="idBC7D07D31E3B44F8BE5F1781A5555E20">
+                                <enum>(ii)</enum>
+ <text>the amount of the wages paid to such individual during such taxable year, over</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id93E053B877F94F8A8B3A118CF9801CF1">
+                            <enum>(B)</enum>
+ <text>the sum of—</text> <clause id="id5DBD7DA3312C47AF94E3D13B60376CB6"> <enum>(i)</enum> <text>the excess (if any) of—</text>
+                                <subclause id="idFA18D5B837E84BC4A574E6A87EB42D63">
+                                    <enum>(I)</enum>
+ <text>the net earnings from self-employment reduced by the excess (if any) of subparagraph (A)(i) over subparagraph (A)(ii), over</text>
+                                </subclause>
+                                <subclause id="id9940AD33D5DC4E0C9C7F6BAFCAEB92FA">
+                                    <enum>(II)</enum>
+ <text>$400,000, reduced by such contribution and benefit base, plus</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id4F6C51F378DA499CB4E02592D06B6150">
+                                <enum>(ii)</enum>
+ <text>the amount of the wages paid to such individual during such taxable year in excess of such contribution and benefit base and not in excess of $400,000; or</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf42f95b225dd42fa910fea3b34d7486f">
+                <enum>(b)</enum>
+                <header>Further additional hospital insurance tax on very high income
+                    taxpayers</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id95e7a12b3b84438ea75ada425e06b649">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1401">Section 1401(b)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id9FD789DDC66B46F293FFC1A93649C984">
+                        <paragraph id="id04A02DBAF5C0467FB0BA618DA74DCEB1">
+                            <enum>(3)</enum>
+                            <header>Further additional tax</header>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id16d041858c314263bad2117fb118eff6">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">In addition to the tax imposed by paragraphs (1) and (2) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year a tax equal to 1.2 percent of the self-employment income for such taxable year which is in excess of—</text>
+                                <clause id="id72E50A36F91F44278740D59C3C4347F8">
+                                    <enum>(i)</enum>
+ <text>in the case of a joint return, $500,000,</text> </clause> <clause id="id410469F546CC4EC39ADABD3B654B22BC"> <enum>(ii)</enum> <text>in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under subparagraph (A), and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id78CF83401568451D95E253AAD3277DE1">
+                                    <enum>(iii)</enum>
+ <text>in any other case, $400,000.</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id0e4b791aad6742e280501ff4456b0ee3"> <enum>(B)</enum> <header>Coordination with FICA</header> <text>The amounts under clause (i), (ii), or (iii) (whichever is applicable) of subparagraph (A) shall be reduced (but not below zero) by the amount of wages taken into account in determining the tax imposed under section 3101(b)(3) with respect to the taxpayer.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf6880d5b29e7493f8f287f55dc62696e">
+                    <enum>(2)</enum>
+                    <header>No deduction for further additional tax</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idab86dd55289e42a59162b1b0f98e2192">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>Section 164(f) of such Code is amended by striking <quote>section 1401(b)(2)</quote> and inserting <quote>paragraphs (2) and (3) of section 1401(b)</quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2ea4bf274a1c4a68a7f2b7bcd11606a5">
+                        <enum>(B)</enum>
+                        <header>Deduction for net earnings from self-employment</header>
+ <text>Section 1402(a)(12)(B) of such Code is amended by striking <quote>the rate imposed under paragraph (2) of section 1401(b)</quote> and inserting <quote>the rates imposed under paragraphs (2) and (3) of section 1401(b)</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5bdd9068d3b94b98bef493b064036418">
+                    <enum>(3)</enum>
+                    <header>Technical amendment</header>
+ <text>Section 1401(b)(2)(B) of such Code is amended by striking <quote>section 3121(b)(2)</quote> and inserting <quote>section 3101(b)(2)</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idA917FFB856E54F52B08A1D519F7DB678">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to net earnings from self-employment derived, and taxable years beginning, on or after January 1 of the first calendar year that begins after the date of enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section id="HF63B4E1DA4C6481BB523DFC6C8EB8408">
+            <enum>4.</enum>
+            <header>Taxes on unearned income</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idaebb3364466846cfae7e0a638788b833">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Modifications to tax on net investment
+                    income</header>
+                <paragraph id="HDF6AF9372C6842D4A1D51CFADAE3C4E3">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1411">Section 1411</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HA0FA0C98682548B4BC4C09B369BEA03C">
+                        <subsection id="H44F86856021348058A9AB3E6BC1C20E7">
+                            <enum>(f)</enum>
+                            <header>Additional amount for certain high income individuals</header>
+                            <paragraph id="HA75B9C8371AE4898A5410A6A9FE707FF">
+                                <enum>(1)</enum>
+                                <header>Inclusion of specified net income</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id168896d3600748c3bd5c837cb0640ddb">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of any individual whose modified adjusted gross income for the taxable year exceeds the high income threshold amount, subsection (a)(1) shall be applied by substituting <quote>the greater of specified net income or net investment income</quote> for <quote>net investment income</quote> in subparagraph (A) thereof.</text>
+                                </subparagraph>
+                                <subparagraph id="H75616330CFE7466381D22B969C86063F">
+                                    <enum>(B)</enum>
+                                    <header>Phase-in of increase</header>
+ <text>The increase in the tax imposed under subsection (a)(1) by reason of the application of subparagraph (A) (determined before application of paragraph (2)) shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this paragraph) as—</text>
+                                    <clause id="HC64A81FCF1954527BF71D1A161E486D7">
+                                        <enum>(i)</enum>
+ <text>the excess described in subparagraph (A), bears to</text>
+                                    </clause>
+                                    <clause id="H0AFD83368A3C4B9482B8A15F93AA0D52">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">$100,000 (<fraction>1/2</fraction> such amount in the case of a married taxpayer (as defined in section 7703) filing a separate return).</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id614330aea6c04838bdc2ec922ba56b47">
+                                <enum>(2)</enum>
+                                <header>Additional rate bracket</header>
+ <text display-inline="yes-display-inline">In the case of any individual whose modified adjusted gross income for the taxable year exceeds the high income threshold amount, the amount of tax imposed under subsection (a)(1) shall be increased by an amount equal to 13.6 percent of the lesser of—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id323631b94d6f4185a9fd26e17c01805c">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the greater of the specified net income or net investment income for the taxable year, or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id56ade679af9446829afe3186d00b6fb6">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the excess (if any) of—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id1c61d771b378425eaa9ee5d0542a2128">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the modified adjusted gross income for such taxable year, over</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idd0593220bf634d5798d703833c7af60f">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the high income threshold amount.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id35611eb1f7d84daaba4fa6af34c64349">
+                                <enum>(3)</enum>
+                                <header>Definitions</header>
+                                <subparagraph id="H8F53251942A643DDBD2DDF040AFFB595">
+                                    <enum>(A)</enum>
+                                    <header>High income threshold amount</header>
+ <text>For purposes of this subsection, the term <quote>high income threshold amount</quote> means—</text>
+                                    <clause id="HAD9871DF1D01409A86FBF1BDF69A9625">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">except as provided in clause (ii) or (iii), $400,000,</text>
+                                    </clause>
+                                    <clause id="H0FDD2DC08B654BC5B1B8ECAC51034134">
+                                        <enum>(ii)</enum>
+ <text>in the case of a taxpayer making a joint return under section 6013 or a surviving spouse (as defined in section 2(a)), $500,000, and</text>
+                                    </clause>
+                                    <clause id="HAFAC9B5D217B4D118594563E70A4B964">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">in the case of a married taxpayer (as defined in section 7703) filing a separate return, <fraction>1/2</fraction> of the dollar amount determined under clause (ii).</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id0918F2EF15CD4D3987E1F80CB164C200">
+                                    <enum>(B)</enum>
+                                    <header>Specified net income</header>
+ <text>For purposes of this section, the term <term>specified net income</term> means net investment income determined—</text>
+                                    <clause id="idAB1C6228432C4A19B8151F9A06DF601E">
+                                        <enum>(i)</enum>
+ <text>without regard to the phrase <quote>other than such income which is derived in the ordinary course of a trade or business not described in paragraph (2),</quote> in subsection (c)(1)(A)(i),</text>
+                                    </clause>
+                                    <clause id="idFA5341A4CB06418CB71C36962E9FC0B8">
+                                        <enum>(ii)</enum>
+ <text>without regard to the phrase <quote>described in paragraph (2)</quote> in subsection (c)(1)(A)(ii),</text>
+                                    </clause>
+                                    <clause id="idDFA25FCF394A4052B39152B017466717">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">without regard to the phrase <quote>other than property held in a trade or business not described in paragraph (2)</quote> in subsection (c)(1)(A)(iii),</text>
+                                    </clause>
+                                    <clause id="id7C5FCC171E934E09B385EDEB53978241">
+                                        <enum>(iv)</enum>
+ <text>without regard to paragraphs (2), (3), and (4) of subsection (c), and</text>
+                                    </clause>
+                                    <clause id="idCAC206A1492D461B861C459B8E09F988">
+                                        <enum>(v)</enum>
+ <text>by treating paragraphs (5) and (6) of section 469(c) (determined without regard to the phrase <quote>To the extent provided in regulations,</quote> in such paragraph (6)) as applying for purposes of subsection (c) of this section.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H05437617A355402B844A81BFDAF94FAC">
+                <enum>(b)</enum>
+                <header>Application to trusts and estates</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1411">Section 1411(a)(2)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="idd68a7d8f59cc4fbe9600666ea66c036a"> <enum>(1)</enum> <text display-inline="yes-display-inline">by striking <quote>3.8 percent</quote> and inserting <quote>17.4 percent</quote>, and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id47e6b6cd07904d448ad8ed802d28ff59">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (A) thereof, by striking <quote>undistributed net investment income</quote> and inserting <quote>the greater of undistributed specified net income or undistributed net investment income</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H33D0C893EFC8410F9F84BCFEC6353329">
+                <enum>(c)</enum>
+                <header>Clarifications with respect to determination of net investment
+                    income</header>
+                <paragraph id="H0A7ABE0860BA412DBFC44EF42233497C">
+                    <enum>(1)</enum>
+                    <header>Certain exceptions</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1411">Section 1411(c)(6)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H2C4718161F434BAAA3536CCCE2E7283A">
+                        <paragraph id="H67E004FC89A64B4499249E389144DBC1">
+                            <enum>(6)</enum>
+                            <header>Special rules</header>
+ <text display-inline="yes-display-inline">Net investment income shall not include—</text>
+                            <subparagraph id="H674838A2DDD34CC2928815A305BD104A">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">any item taken into account in determining self-employment income for such taxable year on which a tax is imposed by section 1401(b),</text>
+                            </subparagraph>
+                            <subparagraph id="H5A083A56221F457996F9E8C87F513089">
+                                <enum>(B)</enum>
+ <text>wages received with respect to employment on which a tax is imposed under section 3101(b) (determined without regard to section 3101(c)) or 3201(a) (including amounts taken into account under section 3121(v)(2)), and</text>
+                            </subparagraph>
+                            <subparagraph id="HFB3D23DF56694586BDBFB7CFCCB54474">
+                                <enum>(C)</enum>
+ <text>wages received from the performance of services earned outside the United States for a foreign employer.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H4C0F782CE3F24010874BC775CFF263FF">
+                    <enum>(2)</enum>
+                    <header>Net operating losses not taken into account</header>
+ <text>Section 1411(c)(1)(B) of such Code is amended by inserting <quote>(other than section 172)</quote> after <quote>this subtitle</quote>.</text>
+                </paragraph>
+                <paragraph id="HE032E044E317442F94F7963A1E25AF53">
+                    <enum>(3)</enum>
+                    <header>Inclusion of certain foreign income</header>
+                    <subparagraph id="HD92CB8ADB689489AB0E3B0F0F3D3EBE8">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Section 1411(c)(1)(A) of such Code is amended by striking <quote>and</quote> at the end of clause (ii), by striking <quote>over</quote> at the end of clause (iii) and inserting <quote>and</quote>, and by adding at the end the following new clause:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="H4D332752E31F4F018563F0261A5EF4A0">
+                            <clause id="HE7B57C20FE7F4A1BBD0F181B8D686105">
+                                <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">any amount includible in gross income under section 951, 951A, 1293, or 1296, over</text>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="H2E3EFA3105C44C65A9FA43ECEB2E29A5">
+                        <enum>(B)</enum>
+                        <header>Proper treatment of certain previously taxed earnings and
+                            profits</header>
+ <text>Section 1411(c) of such Code is amended by adding at the end the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="H0420DDFE3F7C48078C7D8A0E76FB7AEA">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id117a6f83c937402998541147ea195807">
+                                <enum>(7)</enum>
+                                <header>Certain earnings and profits of foreign
+                                    corporations</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id6234365529f54198b3740f8862b6a8c4">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Except as otherwise provided by the Secretary, a distribution of earnings and profits that is not treated as a dividend for purposes of chapter 1 by reason of section 959(d) or section 1293(c) shall not be treated as a dividend for purposes of this section.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id48b2d0280ba449a6ba53a5802872ed02">
+                                    <enum>(B)</enum>
+                                    <header>Regulations and other guidance</header>
+ <text display-inline="yes-display-inline">The Secretary shall issue regulations or other guidance providing for the treatment of distributions by a foreign corporation after December 31, 2025, of earnings and profits of such foreign corporation which accrued before such date, but which have not been previously subject to tax under this section.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="ide036aeb2c1ce40a695a7c040f675a467">
+                <enum>(d)</enum>
+                <header>Transfers of revenues to Old-Age and Survivors, Disability Insurance, and
+                    Federal Hospital Insurance Trust Funds</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2d396832446241bf9dbee375ecfe4b4c">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Federal Old-Age and Survivors Trust
+                        Fund</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id02e70f30908a41c8b98677e1016646d0">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Section 201(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401(a)</external-xref>) is amended—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idF26E599BCABA4C85B63A1152E37E8069">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>100 per centum of</quote>,</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idC8D6EDC3732646B6B2C7C45D8A262EF3">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">by inserting <quote>100 percent of</quote> before <quote>the taxes</quote> each place it appears in paragraphs (1), (2), (3), and (4), and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id898C585E20BE4CF1A39CDDE39390BAAB">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>and</quote> at the end of paragraph (3), by striking the period at the end of paragraph (4) and inserting <quote>; and</quote>, and by inserting after paragraph (4) the following new paragraph:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idA0D2BC2413294A5EB4F01BC7197F9436">
+                                <paragraph commented="no" display-inline="no-display-inline" id="id8B378E3DF04148AF909D0E32B625793F">
+                                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">71.3 percent of the taxes imposed by <external-xref legal-doc="usc" parsable-cite="usc/26/1411">section 1411</external-xref> of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 2025, as determined by the Secretary of the Treasury or the Secretary's delegate based on tax returns under subtitle F of such Code, less the amounts specified in paragraph (3) of subsection (b).</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idba43ad86e5294615afa7ff5aaa9df0a9">
+                        <enum>(B)</enum>
+                        <header>Conforming amendment</header>
+ <text>The fourth sentence of section 201(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401(a)</external-xref>) is amended by striking <quote>clauses (3) and (4)</quote> each place it appears and inserting <quote>paragraphs (3), (4), and (5)</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idfd11666aa0f74759ab3a2e0e3a4fdd61">
+                    <enum>(2)</enum>
+                    <header>Federal Disability Insurance Trust Fund</header>
+ <text display-inline="yes-display-inline">Section 201(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401(b)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id93D8957EF60E44A4BB7B1559C7FD761F">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>100 per centum of</quote>, and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6C208BBD59B646AB8F293BCDAAA96E8B">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>and</quote> at the end of paragraph (1), by striking the period at the end of paragraph (2) and inserting <quote>; and</quote>, and by inserting after paragraph (2) the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idD7D0743D3EA144FAB12E9F9811329F91">
+                            <paragraph commented="no" display-inline="no-display-inline" id="ida31fbdc596544787a547dfd0607a23f4">
+                                <enum>(3)</enum>
+ <text>10.3 percent of the taxes imposed by <external-xref legal-doc="usc" parsable-cite="usc/26/1411">section 1411</external-xref> of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 2025, as determined by the Secretary of the Treasury or the Secretary's delegate based on tax returns under subtitle F of such Code.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id04a4c30bd60147deab612186c66a1c69">
+                    <enum>(3)</enum>
+                    <header display-inline="yes-display-inline">Federal Hospital Insurance Trust
+                        Fund</header>
+ <text>Section 1817(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395i">42 U.S.C. 1395i(a)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf690e0891256401c9bec0dca719f32de">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>100 per centum of</quote>,</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide852aa011a9c41dfb83ddb7d92197ab2">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by inserting <quote>100 percent of</quote> before <quote>the taxes</quote> each place it appears in paragraphs (1) and (2), and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8b51e2193c7345aeb3c110bf988c36b2">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>and</quote> at the end of paragraph (1), by striking the period at the end of paragraph (2) and inserting <quote>; and</quote>, and by inserting after paragraph (2) the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id8bcad01408414fb8ba7050f4e26a3259">
+                            <paragraph id="id3d417ea8b5484f889772d359c91ad005">
+                                <enum>(3)</enum>
+ <text>28.7 percent of the taxes imposed by <external-xref legal-doc="usc" parsable-cite="usc/26/1411">section 1411</external-xref> of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 2025, as determined by the Secretary of the Treasury or the Secretary's delegate based on tax returns under subtitle F of such Code.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="HD10B497586B646C2BB4AB336568A2E6C">
+                <enum>(e)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
