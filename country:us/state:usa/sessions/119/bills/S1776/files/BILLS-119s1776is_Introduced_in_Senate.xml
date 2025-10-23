@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25349-NMV-7N-YYX">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1776 IS: Medicare Beneficiary Co-Pay Fairness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1776</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> (for himself and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSFI00">Committee
+                    on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to limit the coinsurance
+            amount for certain services furnished in an ambulatory surgical center.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H02A660233ACA45708D5D591A39ECF9CB">
+        <section id="idc704cda0ffac449bad21899ac1d2155a" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicare Beneficiary Co-Pay Fairness Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="H470FCC5A23A9423295593164D7CF55E8">
+            <enum>2.</enum>
+            <header>Limitation on coinsurance amount</header>
+            <subsection id="H69B2B217502446588CDFE44CB05D675A">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1833 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l</external-xref>) is amended—</text>
+                <paragraph id="HF2760BE283E24651B23308315F755BBB">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in subsection (a)(1)(G), by inserting <quote>subject to subsection (ee),</quote> before <quote>with respect to facility services</quote>; and</text>
+                </paragraph>
+                <paragraph id="H380BD3D843A54CF3A775550BD60956EC">
+                    <enum>(2)</enum>
+ <text>by adding at the end the following new subsection:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H1943CE9E14664F0A96740A57748C33D7"> <subsection id="H14E790CB5492480587C6D5872BFDF73F"> <enum>(ee)</enum> <header>Limitation on coinsurance amount for certain services furnished in an ambulatory surgical center</header> <text display-inline="yes-display-inline">In the case that application of subsection (a)(1)(G) would result in the imposition of a coinsurance amount with respect to facility services described in such subsection furnished during a year with respect to a surgical procedure that exceeds the amount of the inpatient hospital deductible established under section 1813(b) for such year, the Secretary shall—</text>
+                            <paragraph id="H2238C116B0844EBB95E030F5E26C507F">
+                                <enum>(1)</enum>
+ <text>reduce the amount of such coinsurance to an amount equal to such deductible; and</text>
+                            </paragraph>
+                            <paragraph id="H80DD7F3F0B154123A398EE363531C11E">
+                                <enum>(2)</enum>
+ <text>pay to the supplier furnishing such services an amount equal to such reduction.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H556D08DFC4B443D78FA23FD429312DC7">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply to services furnished on or after January 1, 2026.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

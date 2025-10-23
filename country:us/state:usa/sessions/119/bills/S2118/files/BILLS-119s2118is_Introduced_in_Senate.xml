@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25247-00V-7M-8N4">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2118 IS: Value Over Cost Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2118</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250618">June 18, 2025</action-date>
+            <action-desc><sponsor name-id="S365">Mr. Scott of South Carolina</sponsor> introduced
+                the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 41, United States Code, and title 10, United States Code, to
+            provide best value through the multiple award schedule program, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H32916938085D463FB44E16045268613D">
+        <section section-type="section-one" id="HF962D755F02F47B587C0DB1D34D25EB0">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Value Over Cost Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H295B4477868343B18DD21F9259954E14">
+            <enum>2.</enum>
+            <header>Providing best value through the multiple award schedule program</header>
+            <subsection id="HD8E697814CA244D0BCB45DF252F4BE44">
+                <enum>(a)</enum>
+                <header>Civilian contracts</header>
+ <text display-inline="yes-display-inline">Section 152(3)(B) of title 41, United States Code, is amended to read as follows:</text>
+                <quoted-block style="USC" id="H85DDC97F02654ADD8F9BD264BD7D1AEE">
+                    <subparagraph id="H7CC7D0E83C9F4564A3E39BE18F522D44">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">orders and contracts under those procedures result in—</text>
+                        <clause id="H7CE44D9116304181B65B064DDCDFABDC">
+                            <enum>(i)</enum>
+ <text>the lowest overall cost alternative; or</text> </clause> <clause id="H34EDB2DB8F4F4FB48E741FA573FED65D"> <enum>(ii)</enum> <text>in the case that the Administrator of General Services determines that obtaining best value (as described under section 15.101 of the Federal Acquisition Regulation) is necessary to promote the best interests of the Federal Government, obtaining the best value to meet the needs of the Federal Government.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H55F1E217E5EE496FACB4757F03E10388">
+                <enum>(b)</enum>
+                <header>Defense contracts</header>
+ <text>Section 3012(3)(B) of title 10, United States Code, is amended to read as follows:</text>
+                <quoted-block style="USC" id="HCA4F24C069C64DBDB845880DD11D22F7">
+                    <subparagraph id="HC2B45AFEA30A41B986EAA575F161A38A">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">orders and contracts under those procedures result in—</text>
+                        <clause id="HFF15835528F449DD952D0212BA37D7FB">
+                            <enum>(i)</enum>
+ <text>the lowest overall cost alternative; or</text> </clause> <clause id="H05DD2FE06D34468FB78D53D45AC088F9"> <enum>(ii)</enum> <text>in the case that the Administrator of General Services determines that obtaining best value (as described under section 15.101 of the Federal Acquisition Regulation) is necessary to promote the best interests of the Federal Government, obtaining the best value to meet the needs of the United States.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

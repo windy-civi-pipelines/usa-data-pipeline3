@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WIL25230-CXX-K8-THR">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2495 IS: Keep Call Centers in America Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2495</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 29, 2025</action-date>
+            <action-desc><sponsor name-id="S432">Mr. Gallego</sponsor> (for himself and <cosponsor name-id="S437">Mr. Justice</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSCM00">Committee on
+                    Commerce, Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Labor to maintain a publicly available list of
+            all employers that relocate a call center or contract call center work overseas, to make
+            such companies ineligible for Federal grants or guaranteed loans, and to require
+            disclosure of the physical location of business agents engaging in customer service
+            communications, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H2EFC1E412A4F4118A5613B887FCBD6CF">
+        <section section-type="section-one" id="H692D785C484B4DE6A7726BF0FEAA5323">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection id="id5A43E920A4614EA29811AA3582B4FA2B">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Keep Call Centers in America Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection id="id557D026092B64158AC81BD9702C2D89B">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="H692D785C484B4DE6A7726BF0FEAA5323">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="H7434B943C92A4B20AD7624662695CD74">Sec. 2. Definitions.</toc-entry> <toc-entry level="title" idref="id6AEED605970E49DD855CB14C0D6F4301">TITLE I—Consequences for relocating or contracting call center work overseas</toc-entry> <toc-entry level="section" idref="H43FBC1F4A81E48E4993CC7BDBE3EF6E8">Sec. 101. List of call centers relocating or contracting call center work overseas and ineligibility for grants or guaranteed loans.</toc-entry> <toc-entry level="section" idref="H2832D1A269B743CCA188E4F2CB624AE1">Sec. 102. Rule of construction related to Federal benefits for workers.</toc-entry> <toc-entry level="section" idref="id86068f4640344f85ab2e3bfa10828c98">Sec. 103. Report regarding Federal call center work locations.</toc-entry> <toc-entry level="section" idref="id3191EA29748049B38BE7411B2E50AC38">Sec. 104. Requirement that call center work under a Federal contract be performed inside the United States.</toc-entry> <toc-entry level="title" idref="id045FE3FA9D914FABA268D5CE07CAA109">TITLE II—Required disclosures in customer service communications</toc-entry> <toc-entry level="section" idref="H84D6E1851117468CAAAE27A7A1B1F511">Sec. 201. Required disclosures by business entities engaged in customer service communications.</toc-entry> <toc-entry level="section" idref="H33B38D440D7A4A42BE34BF2245EEAEF4">Sec. 202. Enforcement.</toc-entry> </toc> </subsection> </section> <section id="H7434B943C92A4B20AD7624662695CD74"> <enum>2.</enum> <header>Definitions</header> <text display-inline="no-display-inline">In this Act:</text>
+            <paragraph id="H039DF5553B8B42E98100ECE1C4E378E8">
+                <enum>(1)</enum>
+                <header>Agency</header>
+ <text>The term <term>agency</term> means a Federal or State executive agency or a military department.</text>
+            </paragraph>
+            <paragraph id="id036b5e92037f4a8697afe3b6b426a035">
+                <enum>(2)</enum>
+                <header>Artificial intelligence</header>
+ <text>The term <term>artificial intelligence</term> means a machine-based system that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs such as predictions, recommendations, or decisions that can influence real or virtual environments.</text>
+            </paragraph>
+            <paragraph id="H448BA7BCCBF240C986663AC89CCB9A6F">
+                <enum>(3)</enum>
+                <header>Business entity</header>
+ <text>The term <term>business entity</term> means any organization, corporation, trust, partnership, sole proprietorship, unincorporated association, or venture established to make a profit, in whole or in part, by purposefully availing itself of the privilege of conducting commerce in the United States.</text>
+            </paragraph>
+            <paragraph commented="no" id="HD5E777C5AE87444A9F11668ADB9FBAB8">
+                <enum>(4)</enum>
+                <header>Call center</header>
+ <text display-inline="yes-display-inline">The term <term>call center</term> means an operation in which employees (including employees working at one or more facilities or employees working remotely from the home of the employee) receive incoming telephone calls, emails, or other electronic communication for the purpose of providing customer assistance or other service.</text>
+            </paragraph>
+            <paragraph id="HA3A750937B3B475DABD7D2DD8EF99252">
+                <enum>(5)</enum>
+                <header>Consumer</header>
+ <text>The term <term>consumer</term> means any individual within the territorial jurisdiction of the United States who purchases, transacts, or contracts for the purchase or transaction of any goods, merchandise, or services, not for resale in the ordinary course of the individual's trade or business, but for the individual's use or that of a member of the individual’s household.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id56DF208403B341DD9B941893F6217D49">
+                <enum>(6)</enum>
+                <header display-inline="yes-display-inline">Contracting call center work
+                    overseas</header>
+ <text display-inline="yes-display-inline">The term <term>contracting call center work overseas</term> means transferring the work of a call center, or of one or more facilities or operating units within a call center comprising at least 30 percent of the total volume of the call center or operating unit when measured against the previous 12-month average call volume of operations or substantially similar operations, through a contract or other agreement to another entity who will perform that work outside of the United States.</text>
+            </paragraph>
+            <paragraph id="H489EEA63FEA144E9BB0D38B50CA37C28">
+                <enum>(7)</enum>
+                <header>Customer service communication</header>
+ <text>The term <term>customer service communication</term> means any telecommunication or wire communication between a consumer and a business entity in furtherance of commerce.</text>
+            </paragraph>
+            <paragraph id="HE856809A50304CD6AC4C4DE48A5610D0">
+                <enum>(8)</enum>
+                <header>Employer</header>
+ <text display-inline="yes-display-inline">The term <term>employer</term> means any business enterprise that employs in a call center—</text>
+                <subparagraph id="HFF566EA716C744ACB73113F8C809C156">
+                    <enum>(A)</enum>
+ <text>50 or more employees, excluding part-time employees; or</text> </subparagraph> <subparagraph id="H4EDC397A4E9045DA9524CDCC043AB31A"> <enum>(B)</enum> <text>50 or more employees who in the aggregate work at least 1,500 hours per week (exclusive of hours of overtime).</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HD8FF9769CA984A7B896235A52893041F">
+                <enum>(9)</enum>
+                <header>Part-time employee</header>
+ <text>The term <term>part-time employee</term> means an employee who is employed for an average of fewer than 20 hours per week or who has been employed for fewer than 6 of the 12 months preceding the date on which notice is required.</text>
+            </paragraph>
+            <paragraph commented="no" id="HEA3D8413CB4144C5B38C75D5C9561F92">
+                <enum>(10)</enum>
+                <header>Relocating and relocation</header>
+ <text display-inline="yes-display-inline">The terms <term>relocating</term> and <term>relocation</term> refer to the closure of a call center, or the cessation of operations of a call center, or one or more facilities or operating units within a call center comprising at least 30 percent of the total volume of the call center or operating unit, when measured against the previous 12-month average call volume of operations or substantially similar operations, and the transferring of the operations of the call center (or facilities or operating units) to another location outside of the United States.</text>
+            </paragraph>
+            <paragraph id="H79448918D45B498FB6B49D08F88F49C0">
+                <enum>(11)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Labor.</text> </paragraph> <paragraph id="HB12BB407EAD744A08F89CB173621723F"> <enum>(12)</enum> <header>Telecommunication</header> <text>The term <term>telecommunication</term> means the transmission, between or among points specified by the communicator, of information of the communicator's choosing, without change in the form or content of the information as sent and received.</text>
+            </paragraph>
+            <paragraph id="H975BA2E673F7453C9471682725E7BDEE">
+                <enum>(13)</enum>
+                <header>Wire communication</header>
+ <text>The term <term>wire communication</term> means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.</text>
+            </paragraph>
+        </section>
+        <title id="id6AEED605970E49DD855CB14C0D6F4301" style="OLC">
+            <enum>I</enum>
+            <header>Consequences for relocating or contracting call center work overseas</header>
+            <section id="H43FBC1F4A81E48E4993CC7BDBE3EF6E8">
+                <enum>101.</enum>
+                <header>List of call centers relocating or contracting call center work overseas and
+                    ineligibility for grants or guaranteed loans</header>
+                <subsection id="H662080460A2843949105F081B6754CB8">
+                    <enum>(a)</enum>
+                    <header>List</header>
+                    <paragraph id="HA18E935C032644E2B3540F7DB735C739">
+                        <enum>(1)</enum>
+                        <header>Notice requirement</header>
+                        <subparagraph id="H4EAA22D53C484BC1BDBFC24CD5237145">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>Not fewer than 120 days before relocating a call center outside of the United States or contracting call center work overseas, an employer shall notify the Secretary of such relocation or contracting.</text>
+                        </subparagraph>
+                        <subparagraph id="H0156364A6DD743ACBB8CF01E1208DDE3">
+                            <enum>(B)</enum>
+                            <header>Penalty</header>
+ <text>A person who violates subparagraph (A) shall be subject to a civil penalty not to exceed $10,000 for each day of violation.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="H8A1D58DE93E94788B89F242B35F254B4">
+                        <enum>(2)</enum>
+                        <header>Establishment and maintenance of list</header>
+                        <subparagraph commented="no" id="idD2EAD54A175A484A8A0ADEA96A8C2BB6">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>The Secretary shall establish, maintain, and make available to the public a list of all employers who relocate a call center or contract call center work overseas, as described in paragraph (1)(A).</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="idE2511EA2F2AC48D0BB59A6054CB5EF56">
+                            <enum>(B)</enum>
+                            <header>Term</header>
+ <text>Each employer included in the list required by subparagraph (A) shall remain on the list, except as provided in subparagraph (C), for a period not to exceed 5 years after each instance of relocating a call center or contracting call center work overseas.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="idC26FCCC71A6F47FF9FC45475DBE9B1D3">
+                            <enum>(C)</enum>
+                            <header>Removal</header>
+ <text>The Secretary shall remove an employer from the list required by subparagraph (A) if the Secretary determines that—</text>
+                            <clause commented="no" id="idDB645405B7124795B5B87FEEBDD8033B">
+                                <enum>(i)</enum>
+                                <subclause commented="no" display-inline="yes-display-inline" id="id4EFB5F1A27C8455B9786E60C8F1C43F7">
+                                    <enum>(I)</enum>
+ <text>the employer has relocated a call center from a location outside of the United States to a location in the United States; and</text>
+                                </subclause>
+                                <subclause commented="no" id="id028A298CC813430C9789E62B4C72BCF2" indent="up1">
+                                    <enum>(II)</enum>
+ <text>the new call center in the United States employs a number of employees equal to or greater than the number of employees who worked at the original call center that was relocated to a location outside of the United States; or</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" id="id00F0D7094B76459D9C44990E3B079B7A">
+                                <enum>(ii)</enum>
+ <text>in the case of an employer who contracted call center work overseas, the employer demonstrates that the contract or agreement has been amended to require that all employees performing call center work under the contract or agreement will be located in the United States.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="HCD3DD3B97CA241D2B13572C0D78CA2EB">
+                    <enum>(b)</enum>
+                    <header>Ineligibility for grants or guaranteed loans</header>
+                    <paragraph id="H93D277E2740F4FFE88EF916BA1C4E60A">
+                        <enum>(1)</enum>
+                        <header>Ineligibility</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idf2905b2201644f52b8f99266771ce08b">
+                            <enum>(A)</enum>
+                            <header>New awards</header>
+                            <clause commented="no" display-inline="no-display-inline" id="idb06fda40064b474aa59a29d8ca6e4eca">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (2) and clause (ii) and notwithstanding any other provision of law, an employer that appears on the list required by subsection (a)(2)(A) shall be ineligible to apply for or receive any direct or indirect Federal grants or Federal guaranteed loans for 5 years after the date such employer was added to the list.</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="ide57a14d773234f8aae9f436a39acd193">
+                                <enum>(ii)</enum>
+                                <header>Exception for upcoming removal from ineligibility
+                                    list</header>
+                                <subclause commented="no" display-inline="no-display-inline" id="id66ce3611b47249dfb640ab43e76edef1">
+                                    <enum>(I)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">An employer that appears on the list required by subsection (a)(2)(A) may be eligible to apply for and receive a grant or loan described in clause (i) if the employer certifies to the awarding agency that the employer will meet the requirements described in subsection (a)(2)(C) to be removed by the Secretary from such list not later than 180 days after the date on which the employer receives the grant or loan.</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id178a7756dde945f1a5a139b56c69d83b">
+                                    <enum>(II)</enum>
+                                    <header>Cancellation of grant or loan</header>
+ <text>With respect to any employer that makes a certification described in subclause (I) and receives the applicable grant or loan, the awarding agency for such grant or loan shall cancel the grant or loan and clawback any amount of the grant or loan received by such employer if the employer fails to meet the requirements described in subsection (a)(2)(C) not later than 180 days after the date on which the employer received the grant or loan.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb25a50b24ccd4ed0b841afce25cd0db8">
+                            <enum>(B)</enum>
+                            <header>Existing awards</header>
+                            <clause commented="no" display-inline="no-display-inline" id="id0e8eb4cf232b4537bd93a56cf2243e0a">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (2) and notwithstanding any other provision of law, an employer that has received any direct or indirect Federal grant or Federal guaranteed loan and, after receiving the grant or loan, is added to the list required by subsection (a)(2)(A)—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id0fdb3c8d2e9c407a9107f48b8e88a491">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">shall, on a monthly basis during the term of the grant for each month in which the employer appears on such list, pay a penalty to the awarding agency of the grant or loan equal to 8.3 percent of the total grant or loan payment dispersed to the employer as of the date on which the first penalty is required to be paid under this clause; and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id499f47865a514251b1cf36430cade78a">
+                                    <enum>(II)</enum>
+ <text>shall not be entitled or eligible to receive any further disbursement of the grant or loan while on such list.</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idc4dc6aa8a0b84df4bbb7cd048d14d4d4">
+                                <enum>(ii)</enum>
+                                <header>Cancellation</header>
+ <text>An agency that has awarded any direct or indirect Federal grant or Federal guaranteed loan to an employer described in clause (i) shall cancel the grant or loan if the employer remains on the list required by subsection (a)(2)(A) as of the date that is one year after the date on which the employer is first required to pay the penalty under subclause (I).</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id79d793a05f97494f8a0f50f60a0c331e">
+                                <enum>(iii)</enum>
+                                <header>Use of penalty amounts</header>
+                                <subclause commented="no" display-inline="no-display-inline" id="id01576854dcac403c96c240ac09f60986">
+                                    <enum>(I)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Amounts paid as a penalty under clause (i)(I) to an awarding agency shall be available to the awarding agency, without further appropriation, for the grant or loan program with respect to which the penalty is paid.</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="ided770d5d63ae44408a756d7a57e8c4c4">
+                                    <enum>(II)</enum>
+                                    <header>Prohibition on redistribution to same employer</header>
+ <text>Such amounts shall not be available through such program for the same grant or loan to the employer that paid the penalty amounts.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H018563CDC4044BF4AF8FDCF9C21F8FC0">
+                        <enum>(2)</enum>
+                        <header>Exceptions</header>
+ <text>The Secretary, in consultation with the appropriate agency providing a loan or grant, may waive the eligibility restriction provided under paragraph (1) if the employer applying for such loan or grant demonstrates that a lack of such loan or grant would—</text>
+                        <subparagraph id="H4E6325677B374A3DB2EABD743D795495">
+                            <enum>(A)</enum>
+ <text>threaten national security;</text> </subparagraph> <subparagraph id="H4A08525217194970AE2AFEB144A0C66D"> <enum>(B)</enum> <text>result in substantial job loss in the United States; or</text>
+                        </subparagraph>
+                        <subparagraph id="H652A73D9A71B4A82A00461BEF2339D0E">
+                            <enum>(C)</enum>
+ <text>harm the environment.</text> </subparagraph> </paragraph> </subsection> <subsection id="H985D26FA9A6F43868EBECE6E7CC3CE1A"> <enum>(c)</enum> <header>Preference in Federal contracting for not relocating or contracting call center work overseas</header> <text>The head of an agency, when awarding a civilian or defense-related Federal contract, shall give preference to a United States employer that does not appear on the list required by subsection (a)(2)(A).</text>
+                </subsection>
+                <subsection id="H932A2693D4244E6E895D88EED072B7A9">
+                    <enum>(d)</enum>
+                    <header>Effective date</header>
+ <text>This section shall take effect on the date that is 1 year after the date of the enactment of this Act.</text>
+                </subsection>
+            </section>
+            <section id="H2832D1A269B743CCA188E4F2CB624AE1">
+                <enum>102.</enum>
+                <header>Rule of construction related to Federal benefits for workers</header>
+ <text display-inline="no-display-inline">No provision of this title shall be construed to permit withholding or denial of payments, compensation, or benefits under any provision of Federal law (including Federal unemployment compensation, disability payments, or worker retraining or readjustment funds) to workers employed by employers that relocate operations outside the United States.</text>
+            </section>
+            <section id="id86068f4640344f85ab2e3bfa10828c98">
+                <enum>103.</enum>
+                <header>Report regarding Federal call center work locations</header>
+ <text display-inline="no-display-inline">By not later than 1 year after the date of enactment of this Act, the Secretary of Labor shall prepare and submit to Congress a report that documents the location, and amount, of call center work conducted by or for the Federal Government, including—</text>
+                <paragraph id="id12830A97FC6B434790AF6ED2CC010E77">
+                    <enum>(1)</enum>
+ <text>a determination of the amount of such Federal call center work that is conducted by Federal employees, and the amount conducted by Federal contractors;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5531EA92DF2043139271113F26BAFF83">
+                    <enum>(2)</enum>
+ <text>all locations at which such Federal call center work is being conducted, whether by Federal employees or through Federal contracts; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id15ebb1bd9e37436685eee75953213b69">
+                    <enum>(3)</enum>
+ <text>any job losses associated with the introduction or use of artificial intelligence for customer service for Federal call center work.</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id3191EA29748049B38BE7411B2E50AC38">
+                <enum>104.</enum>
+                <header display-inline="yes-display-inline">Requirement that call center work under
+                    a Federal contract be performed inside the United States</header>
+ <text display-inline="no-display-inline">The head of an agency, when awarding a civilian or defense-related Federal contract, shall require as a condition of the contract that any call center work performed in connection with the contract or any subcontract under the contract shall be performed inside the United States.</text>
+            </section>
+        </title>
+        <title id="id045FE3FA9D914FABA268D5CE07CAA109" style="OLC">
+            <enum>II</enum>
+            <header>Required disclosures in customer service communications</header>
+            <section id="H84D6E1851117468CAAAE27A7A1B1F511">
+                <enum>201.</enum>
+                <header>Required disclosures by business entities engaged in customer service
+                    communications</header>
+                <subsection id="H2C04CF7B53AA422E949B5B31D7F68EFA">
+                    <enum>(a)</enum>
+                    <header>Required disclosure by business entities engaged in customer service
+                        communications of physical location</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6d557d31081048488e8b1d8b4ae86f31">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text>Except as provided in paragraph (2), a business entity that either initiates or receives a customer service communication shall require that, at the beginning of each customer service communication so initiated or received, each of its employees or agents participating in the communication disclose—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id6c779edef9744373bfb8e75d8b128078">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">their physical location; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id5d73ac372a3b4b66a7bd9d01ddb121be">
+                            <enum>(B)</enum>
+ <text>if their physical location is outside of the United States, that the consumer may, as provided by subsection (c), request to be immediately transferred to a customer service agent who is physically located in the United States.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H01EDB05F31404834914DF8409C05B343">
+                        <enum>(2)</enum>
+                        <header>Exceptions</header>
+                        <subparagraph id="H929868B1C97A49549106AE4EAD46ACDC">
+                            <enum>(A)</enum>
+                            <header>Business entities located in the United States</header>
+ <text>The requirements of paragraph (1) shall not apply to a customer service communication involving a business entity if all of the employees or agents of the business entity participating in such communication are physically located in the United States.</text>
+                        </subparagraph>
+                        <subparagraph id="H26B7F753F0E14EC1848CE5543B394143">
+                            <enum>(B)</enum>
+                            <header>Communication initiated by consumer knowingly to foreign entity
+                                or address</header>
+ <text>The requirements of paragraph (1) shall not apply to an employee or agent of a business entity participating in a customer service communication with a consumer if—</text>
+                            <clause id="H9CF4620A7F944D63A51EB3F6283D1EFF">
+                                <enum>(i)</enum>
+ <text>the customer service communication was initiated by the consumer;</text>
+                            </clause>
+                            <clause id="H5F1C3DD003AA44709F7595EC7618E339">
+                                <enum>(ii)</enum>
+ <text>the employee or agent is physically located outside the United States; and</text>
+                            </clause>
+                            <clause id="HEF8F13F65A624082A425D55AD3A51C3C">
+                                <enum>(iii)</enum>
+ <text>the consumer knows or reasonably should know that the employee or agent is physically located outside the United States.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H9366D81F376B4B5F9EC654F0264DECF7">
+                            <enum>(C)</enum>
+                            <header>Emergency services</header>
+ <text>The requirements of paragraph (1) shall not apply to a customer service communication relating to the provision of emergency services (as defined by the Federal Trade Commission).</text>
+                        </subparagraph>
+                        <subparagraph id="HF572E964EF894CEF866D48F37A214EC4">
+                            <enum>(D)</enum>
+                            <header>Business entities and customer service communications excluded
+                                by Federal Trade Commission</header>
+ <text>The Federal Trade Commission may exclude certain classes or types of business entities or customer service communications from the requirements of paragraph (1) if the Commission finds exceptionally compelling circumstances that justify such exclusion.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id8322e27a84494cdebd77cb59b5694377">
+                    <enum>(b)</enum>
+                    <header>Required disclosure by business entities engaged in customer service
+                        communications of use of artificial intelligence for customer
+                        service</header>
+ <text>A business entity that either initiates or receives a customer service communication and uses artificial intelligence for customer service communication shall, at the beginning of each customer service communication so initiated or received, disclose—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idA0CD2BE458C14FFCA60AF727EF4039FF">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">that a nonhuman, artificial intelligence or machine is being used for customer service; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id3805D95727C04DCD82CE1945C3455173">
+                        <enum>(2)</enum>
+ <text>that the consumer may, as provided by subsection (c), request to be immediately transferred to a human operator who is physically located in the United States, including, if possible, by voice command (such as by saying the word <quote>agent</quote>).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="HE367324DC6844FCEBED6C7CD2560EEAD">
+                    <enum>(c)</enum>
+                    <header>Transfer to <enum-in-header>U.S.-</enum-in-header>Based human customer
+                        service center</header>
+ <text>A business entity that is subject to the requirements of subsection (a) or (b) shall, at the request of a consumer, immediately transfer the consumer to a human customer service agent who is physically located in the United States.</text>
+                </subsection>
+                <subsection id="H8467C2A03A454F7BB040B6ED03E8FE62">
+                    <enum>(d)</enum>
+                    <header>Certification requirement</header>
+ <text>Each year, each business entity that participates in a customer service communication shall certify to the Federal Trade Commission that it has complied or failed to comply with the requirements of subsections (a), (b), and (c).</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="HB4F3BBD789364C699F34EBA54FF767F5">
+                    <enum>(e)</enum>
+                    <header>Regulations</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Federal Trade Commission shall promulgate such regulations as may be necessary to carry out the provisions of this section.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="H92AB77AA1C2B4E7B84BFC1DAA24F2F8E">
+                    <enum>(f)</enum>
+                    <header>Effective date</header>
+ <text>The requirements of subsections (a), (b), (c), and (d) shall apply with respect to customer service communications occurring on or after the date that is 1 year after the date of the enactment of this Act.</text>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="H33B38D440D7A4A42BE34BF2245EEAEF4">
+                <enum>202.</enum>
+                <header>Enforcement</header>
+                <subsection commented="no" display-inline="no-display-inline" id="H7ECEC0869C4B4F4C8B619F07B1256C0C">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Any failure to comply with the provisions of section 201 shall be treated as a violation of a regulation under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>) regarding unfair or deceptive acts or practices.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="HA9DF3AA7A3184D7187E33A6D127719DC">
+                    <enum>(b)</enum>
+                    <header>Powers of Federal Trade Commission</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="HAF2557A8F68747EB949CFCFEA32F1125">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Federal Trade Commission shall prevent any person from violating section 201 and any regulation promulgated thereunder, in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this Act.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="HC0091EA99F5F45DF877205B298C08BC3">
+                        <enum>(2)</enum>
+                        <header>Penalties</header>
+ <text display-inline="yes-display-inline">Any person who violates regulations promulgated under section 201 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made part of this Act.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="H5FAFD554CE184118B2FFCA0E9299FC01">
+                    <enum>(c)</enum>
+                    <header>Authority preserved</header>
+ <text display-inline="yes-display-inline">Nothing in this section or section 201 shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.</text>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

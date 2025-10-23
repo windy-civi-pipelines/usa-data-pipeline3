@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-SIL25758-CPS-FL-FCX">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2326 IS: Payment Choice Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2326</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250717">July 17, 2025</action-date>
+            <action-desc><sponsor name-id="S398">Mr. Cramer</sponsor> (for himself and <cosponsor name-id="S418">Mr. Fetterman</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSBK00">Committee
+                    on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To ensure that United States currency is treated as legal tender to be
+            accepted as payment for purchases of goods and services at brick-and-mortar businesses
+            throughout the United States, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Payment Choice Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id620bdc0379d3408297e87f1102f73e0f">
+            <enum>2.</enum>
+            <header>Sense of Congress</header>
+ <text display-inline="no-display-inline">It is the sense of Congress that United States currency should be treated as legal tender throughout the United States, and that every consumer should have the right to use cash as payment at retail businesses that accept in-person payments.</text>
+        </section>
+        <section id="id0c129f39714645069472b909ed629526">
+            <enum>3.</enum>
+            <header>Retail businesses prohibited from refusing cash payments</header>
+            <subsection id="id5635023d38d544e4817f09ca137fd26a">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/51">chapter 51</external-xref> of title 31, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id921EDB8D1DB44657981E986DF94BB510">
+                    <section id="id0ed31850435945eaae5e96aef2da7ee2">
+                        <enum>5104.</enum>
+                        <header>Retail businesses prohibited from refusing cash payments</header>
+                        <subsection id="iddc535893bbd74b128c3661972715f790">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text>Any person engaged in the business of selling or offering goods or services at retail to the public who accepts in-person payments at a physical location (including a person accepting payments for telephone, mail, or internet-based transactions who is accepting in-person payments at a physical location)—</text>
+                            <paragraph id="id5c669c2901df416d918699d46e5f2eeb">
+                                <enum>(1)</enum>
+ <text>shall accept cash as a form of payment for sales made at such physical location in amounts up to and including $500 per transaction; and</text>
+                            </paragraph>
+                            <paragraph id="id1cbee04974154ff7996e1607b09e3168">
+                                <enum>(2)</enum>
+ <text>may not charge cash-paying customers a higher price compared to the price charged to customers not paying with cash.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idc88f33f5612e495093ebe069ba4881c4">
+                            <enum>(b)</enum>
+                            <header>Exceptions</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id91418637e59847a481ad42e13ccaade7">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Subsection (a) shall not apply to a person if—</text>
+                                <subparagraph id="id394b5ea4b7254bc4b01825591de86a55">
+                                    <enum>(A)</enum>
+ <text>the person is unable to accept cash because of—</text> <clause id="id63236d4429b3434a9581c488471478a3"> <enum>(i)</enum> <text>a sale system failure that temporarily prevents the processing of cash payments; or</text>
+                                    </clause>
+                                    <clause id="id0ec821fa83654227b51e24d0f42f18ff">
+                                        <enum>(ii)</enum>
+ <text>temporarily having insufficient cash on hand to make change; or</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id66deefbbc9c3492b882d4f8bb9bbacb8">
+                                    <enum>(B)</enum>
+                                    <clause commented="no" display-inline="yes-display-inline" id="id1c87d5804efa47d68d67ee768e7d5236">
+                                        <enum>(i)</enum>
+ <text>the person provides customers with a device that converts cash into prepaid cards on the premises;</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" indent="up1" id="id966cf2d6774c411e8f39ca5964db6152">
+                                        <enum>(ii)</enum>
+ <text>there is no fee for the use of the device;</text> </clause> <clause id="idf7d0a0dc01aa45a8b8aeeccf5c09e23d" indent="up1"> <enum>(iii)</enum> <text>the device does not require a minimum deposit of more than one dollar;</text>
+                                    </clause>
+                                    <clause id="id37913d395bf6457da64595ba426c1817" indent="up1">
+                                        <enum>(iv)</enum>
+ <text>any funds placed onto a prepaid card using the device do not expire, except as permitted under paragraph (2);</text>
+                                    </clause>
+                                    <clause id="id545ba20135ea4c93b5708d9aec0e175b" indent="up1">
+                                        <enum>(v)</enum>
+ <text>the device does not collect any personal identifying information from the customer; and</text>
+                                    </clause>
+                                    <clause id="id6a030921f96c4b20be378a0283cfec2c" indent="up1">
+                                        <enum>(vi)</enum>
+ <text>there is no fee to use the prepaid card that the device produces.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id5c62e89cc3874c1dbd7e7e7f064128e2">
+                                <enum>(2)</enum>
+                                <header>Inactivity</header>
+ <text>A person seeking exception from subsection (a) may charge an inactivity fee in association with a card offered by such person if—</text>
+                                <subparagraph id="id5a45baae9d7f4dae989310dac55398e7">
+                                    <enum>(A)</enum>
+ <text>there has been no activity with respect to the card during the 12-month period ending on the date on which the inactivity fee is imposed;</text>
+                                </subparagraph>
+                                <subparagraph id="id0d5bfa7e58654ff5b539b9d11f7a6689">
+                                    <enum>(B)</enum>
+ <text>not more than 1 inactivity fee is imposed in any 1-month period; and</text>
+                                </subparagraph>
+                                <subparagraph id="id215d9f4a88ef40f99ca529b8088167fb">
+                                    <enum>(C)</enum>
+ <text>it is clearly and conspicuously stated, on the face of the mechanism that issues the card and on the card—</text>
+                                    <clause id="idc419b325d118462cba7a8a10b737e49a">
+                                        <enum>(i)</enum>
+ <text>that an inactivity fee or charge may be imposed;</text>
+                                    </clause>
+                                    <clause id="id69d38e4b01a64f1085fe3dfd4b92330e">
+                                        <enum>(ii)</enum>
+ <text>the frequency at which such inactivity fee may be imposed; and</text>
+                                    </clause>
+                                    <clause id="idcdb1afa31c9446f1b1377a9e72585ce8">
+                                        <enum>(iii)</enum>
+ <text>the amount of such inactivity fee.</text> </clause> </subparagraph> </paragraph> </subsection> <subsection id="id379e15dfec8544cf9350f123e525ef38"> <enum>(c)</enum> <header>Right To not accept large bills</header> <paragraph id="id19a11c2d67694b7a879159ffb3c2364a"> <enum>(1)</enum> <header>In general</header> <text>Notwithstanding subsection (a), for the 5-year period beginning on the date of enactment of this section, this section shall not require a person to accept cash payments in $50 bills or any larger bill.</text>
+                            </paragraph>
+                            <paragraph id="ide9b6b5b49ceb40519e8f3098b2d5998e">
+                                <enum>(2)</enum>
+                                <header>Rulemaking</header>
+                                <subparagraph id="id9213629b16764e76aa34c38506af8bda">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>The Secretary shall issue a rule on the date that is 5 years after the date of the enactment of this section with respect to any bill denominations a person is not required to accept.</text>
+                                </subparagraph>
+                                <subparagraph id="idbba379ec15c24e9dafd8dd37a7587205">
+                                    <enum>(B)</enum>
+                                    <header>Requirement</header>
+ <text>When issuing a rule under subparagraph (A), the Secretary shall require persons to accept $1, $5, $10 and $20 bills.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idcf3d2e4f77e7470a9b18216f1a612c83">
+                            <enum>(d)</enum>
+                            <header>Enforcement</header>
+                            <paragraph id="id08d58adc99de4c338dd26134f961df93">
+                                <enum>(1)</enum>
+                                <header>Preventative relief</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id5fee44a660404a7db9a74b00611b581e">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Whenever any person has engaged, or there are reasonable grounds to believe that any person is about to engage, in any act or practice prohibited by this section, any customer or prospective customer of such person aggrieved by such violation or threatened violation may deliver to the retailer, or cause to be so delivered by certified mail, with proof of delivery, a notice describing, in reasonable detail, the conduct or events constituting the violation or threatened violation, and giving notice that, unless such conduct is corrected or cured within 45 days after the date of delivery of such notice, a civil action for preventative relief, including an application for a permanent or temporary injunction, restraining order, or other appropriate such relief, which may include a civil penalty under paragraph (2), may be brought against such person.</text>
+                                </subparagraph>
+                                <subparagraph id="id1841fbd4f24c4745ae1ed1b41af649f2">
+                                    <enum>(B)</enum>
+                                    <header>No violation</header>
+ <text>If, within the 45-day period under subparagraph (A), the retailer establishes to the reasonable satisfaction of the customer, in a response provided in writing to the customer, that no violation occurred as alleged, or certifies that the violation alleged has been corrected or cured, and provides reasonable assurance that no such violation will be permitted to occur, no further proceedings under this section shall be undertaken.</text>
+                                </subparagraph>
+                                <subparagraph id="id378f08590aca4605b46a4fdf4474a0c6">
+                                    <enum>(C)</enum>
+                                    <header>Failure to respond</header>
+ <text>If a retailer, having received a notice described in subparagraph (A), fails to respond in accordance with that subparagraph, or responds but fails to reasonably establish that the violation alleged did not occur or has been corrected or cured, the aggrieved customer may file a civil action against the retailer seeking relief under this subsection, and shall attach to the complaint in such action copies of the notice given to the retailer and any response from the retailer.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="idfa0466a149ee4ce1a93487298f25a1a0">
+                                <enum>(2)</enum>
+                                <header>Damages and civil penalties</header>
+ <text>Any person who violates this section shall—</text> <subparagraph id="idbf8cf55735364794a6df8c2df5d13211"> <enum>(A)</enum> <text>be liable for actual damages, and, if actual damages are less than $250, liquidated damages of $250; and</text>
+                                </subparagraph>
+                                <subparagraph id="ide2e220720e37427b905c3de4c103eb24">
+                                    <enum>(B)</enum>
+ <text>a civil penalty of not more than $500 for a first offense and not more than $1,500 for a second or subsequent offense.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id5f2e369953b340b89ba94fa6e2b75145">
+                                <enum>(3)</enum>
+                                <header>Jurisdiction</header>
+ <text>An action under this section may be brought in any United States district court, or in any other court of competent jurisdiction.</text>
+                            </paragraph>
+                            <paragraph id="id555d1672fa3b41139b5a0fa302803377">
+                                <enum>(4)</enum>
+                                <header>Intervention of attorney general</header>
+ <text>Upon timely application, a court may, in its discretion, permit the Attorney General to intervene in a civil action brought under this subsection, if the Attorney General certifies that the action is of general public importance.</text>
+                            </paragraph>
+                            <paragraph id="id13b2bbb48c46435c8e1ed68edb195602">
+                                <enum>(5)</enum>
+                                <header>Authority to appoint court-paid attorney</header>
+ <text>Upon application by an individual and in such circumstances as the court may determine just, the court may appoint an attorney for such individual and may authorize the commencement of a civil action under this subsection without the payment of fees, costs, or security.</text>
+                            </paragraph>
+                            <paragraph id="idf66da5c59bb94db3a7300cce2a4a5f1c">
+                                <enum>(6)</enum>
+                                <header>Attorney’s fees</header>
+ <text>In any action commenced pursuant to this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee, not to exceed $3,000, as part of the costs, and the United States shall be liable for costs the same as a private person.</text>
+                            </paragraph>
+                            <paragraph id="idaad7ce5e72a14b66b321664a6a6f07f6">
+                                <enum>(7)</enum>
+                                <header>Requirements in certain states and local areas</header>
+ <text>In the case of an alleged act or practice prohibited by this section which occurs in a State, or political subdivision of a State, which has a State or local law prohibiting such act or practice and establishing or authorizing a State or local authority to grant or seek relief from such act or practice or to institute criminal proceedings with respect thereto upon receiving notice thereof, no civil action may be brought hereunder before the expiration of 30 days after written notice of such alleged act or practice has been given to the appropriate State or local authority by registered mail or in person, provided that the court may stay proceedings in such civil action pending the termination of State or local enforcement proceedings.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="idcae76fa94b0a4acb827c5450c9f075fb">
+                            <enum>(e)</enum>
+                            <header>Greater protection under state law</header>
+ <text>This section shall not preempt any law of a State, the District of Columbia, a Tribal government, or a territory of the United States if the protections that such law affords to consumers are greater than the protections provided under this section.</text>
+                        </subsection>
+                        <subsection id="iddb95aa76edc04ce9b1f1778bc811e0ee">
+                            <enum>(f)</enum>
+                            <header>Rulemaking</header>
+ <text>The Secretary shall issue such rules as the Secretary determines are necessary to implement this section, which may prescribe additional exceptions to the application of the requirements described in subsection (a).</text>
+                        </subsection>
+                        <subsection id="id1719e2f71d8d48658208368cada44b71">
+                            <enum>(g)</enum>
+                            <header>Annual reports on the geographic distribution of automated
+                                teller machines owned by federally insured depository
+                                institutions</header>
+ <text>Beginning on the date that is 1 year after the date of enactment of this section, and annually thereafter, the Federal Deposit Insurance Corporation, with respect to depository institutions insured by the Corporation, and the National Credit Union Administration, with respect to credit unions insured by the National Credit Union Share Insurance Fund, shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that provides—</text>
+                            <paragraph id="ida7e4686405ea40819cbe053f9a318f68">
+                                <enum>(1)</enum>
+ <text>the number of automated teller machines owned and in service by each institution insured by such agency;</text>
+                            </paragraph>
+                            <paragraph id="id4e268cf2cd82457cb6cf5e8a6e9a8f56">
+                                <enum>(2)</enum>
+ <text>the location of each such automated teller machine that is installed at a fixed site; and</text>
+                            </paragraph>
+                            <paragraph id="id223ac60f0da74e56b4d4be9a01a206e3">
+                                <enum>(3)</enum>
+ <text>the approximate geographic range or radius within which mobile automated teller machines owned by any such institution are deployed.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id67a083ba7ea945bbb519b5b24efecc62">
+                <enum>(b)</enum>
+                <header>Technical and conforming amendment</header>
+ <text>The table of contents for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/51">chapter 51</external-xref> of title 31, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/31/5103">section 5103</external-xref> the following:</text>
+                <quoted-block style="USC" id="id373e19aa-a733-464c-94a4-6881986dbfa9">
+                    <toc>
+                        <toc-entry level="section" idref="id0ed31850435945eaae5e96aef2da7ee2">5104.
+                            Retail businesses prohibited from refusing cash payments.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

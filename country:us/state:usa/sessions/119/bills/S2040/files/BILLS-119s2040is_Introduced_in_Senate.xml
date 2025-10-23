@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ROS25890-YCT-XM-N7K">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2040 IS: Connected Vehicle National Security Review Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2040</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250611">June 11, 2025</action-date>
+            <action-desc><sponsor name-id="S436">Ms. Slotkin</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish the Office of Information and Communications Technology and
+            Services within the Bureau of Industry and Security of the Department of Commerce, and
+            for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H2F376501C19D4491BFB4DA257FD82BDA">
+        <section section-type="section-one" id="H71A01A5EEAEB45C4A26639FB1A782ECF">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Connected Vehicle National Security Review Act</short-title></quote>.</text>
+        </section>
+        <section id="idcf04e7461c1f44c9ad19cc604fd30bed">
+            <enum>2.</enum>
+            <header>Office of Information and Communications Technology and Services</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idde6d5638029841dc8bad0850140a182a">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">The Export Control Reform Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/50/4801">50 U.S.C. 4801 et seq.</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id054b0ff6e79b4ad3a698c878efe78e4a">
+                    <part id="id3864c50cef3c42b6947fb68e60e84989" style="OLC">
+                        <enum>IV</enum>
+                        <header>Office of Information and Communications Technology and
+                            Services</header>
+                        <section id="H9C77C67D99A44A328BC17A02A39BD83F">
+                            <enum>1785.</enum>
+                            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this part:</text> <paragraph commented="no" id="H000067A27DA649FDAD68B2CBC6FE5D21"> <enum>(1)</enum> <header>Agency</header> <text>The term <term>agency</term> has the meaning given that term in section 551 of title 5, United States Code.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id6e77c04494ff4c4e84bd25c6783082ce">
+                                <enum>(2)</enum>
+                                <header>Commerce Control List</header>
+ <text>The term <term>Commerce Control List</term> means the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations.</text>
+                            </paragraph>
+                            <paragraph id="H22E41B00C9794C77A8C201CD5658F960">
+                                <enum>(3)</enum>
+                                <header>Connected vehicle</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id80cb6770dfb848808514f625de9ce02c">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided by subparagraph (B), the term <term>connected vehicle</term> means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, that integrates onboard networked hardware with automotive software systems to communicate via dedicated short-range communication, cellular telecommunications connectivity, satellite communication, or other wireless spectrum connectivity with any other network or device.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="ide1e560b838bb4d299cbb4fed9394cf99">
+                                    <enum>(B)</enum>
+                                    <header>Exclusions</header>
+ <text display-inline="yes-display-inline">The term <term>connected vehicle</term> does not include a vehicle operated only on a rail line.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id5e1e1a8ed3fe4ff0b32902f727278f72">
+                                <enum>(4)</enum>
+                                <header>Covered transaction</header>
+ <text>The term <term>covered transaction</term> means a transaction that—</text>
+                                <subparagraph id="id55056033dd504d57a4a2ce654d0e5993">
+                                    <enum>(A)</enum>
+ <text>is conducted by any person subject to the jurisdiction of the United States or involves property subject to the jurisdiction of the United States;</text>
+                                </subparagraph>
+                                <subparagraph id="id2a1a0a07215b47e38da7774a28a33c57">
+                                    <enum>(B)</enum>
+ <text>involves—</text> <clause commented="no" display-inline="no-display-inline" id="ida3451430bc2c427a9779c52ff221ee81"> <enum>(i)</enum> <text display-inline="yes-display-inline">ICTS (as the term is defined by Executive Order 13873) that is—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id4a3973cf5ef74f44a80f7a1e89234dfe">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to a jurisdiction or direction of a jurisdiction of concern; and</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="idc178d7bdc0ae44dbab2d0ebe859fa4e3">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">used in a connected vehicle; or</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idb18e598ba36a420486fddf236c6c7e4b">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">an item on the Commerce Control List that is used in a connected vehicle; and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id3019f23ea54942fb81ad2a8673341e7f">
+                                    <enum>(C)</enum>
+ <text>is—</text> <clause commented="no" display-inline="no-display-inline" id="idfd3074a063424b3d82abd02ae1f04038"> <enum>(i)</enum> <text display-inline="yes-display-inline">an ICTS transaction (as described in section 791.1 of title 15, Code of Federal Regulations (or any successor regulation)); or</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id0b006b388b564b30a4ed4f177f52f9a0">
+                                        <enum>(ii)</enum>
+ <text>a transaction relating to the export, reexport, or in-country transfer for an item described in subparagraph (B)(ii).</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" id="HF603F639532C42CCA311E703573EA06F">
+                                <enum>(5)</enum>
+                                <header>Critical infrastructure</header>
+ <text display-inline="yes-display-inline">The term <term>critical infrastructure</term> means systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on national security, national economic security, national public health or safety, or any combination of those matters.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id2208168b44874d5a945164f3b13e4c45">
+                                <enum>(6)</enum>
+                                <header>Entity</header>
+ <text>The term <term>entity</term> means any firm, partnership, trust, joint venture, corporation, or other association or organization.</text>
+                            </paragraph>
+                            <paragraph id="id7c4f4bbfd5274c8bb7286ee2fedc72ca">
+                                <enum>(7)</enum>
+                                <header>Entity of concern</header>
+ <text>The term <term>entity of concern</term> means an entity owned or controlled by—</text>
+                                <subparagraph id="id6ade0cb3a8ff4e92a2de4f7f51c8ec64">
+                                    <enum>(A)</enum>
+ <text>an entity listed on the Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulation; or</text>
+                                </subparagraph>
+                                <subparagraph id="id5dfd854bff1a44c5bd9a3493375949f5">
+                                    <enum>(B)</enum>
+ <text>a person subject to the jurisdiction of a country that is under a comprehensive United States arms embargo, as listed in Country Group D:5 in Supplement No. 1 to part 740 of the Export Administration Regulations.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HBFA3E6E44428446B8B8706B1F977076A">
+                                <enum>(8)</enum>
+                                <header>Information and communications technology and services;
+                                    ICTS</header>
+ <text>The terms <term>information and communications technology and services</term> and <term>ICTS</term> have the meaning given the term <quote>information and communications technology or services</quote> in Executive Order 13873 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to securing the information and communications technology and services supply chain).</text>
+                            </paragraph>
+                            <paragraph id="id2a49aff12f5b427cb12bd849d415f807">
+                                <enum>(9)</enum>
+                                <header>Jurisdiction of concern</header>
+ <text>The term <term>jurisdiction of concern</term> means any of the following:</text>
+                                <subparagraph id="ida802f140c6f14804810fc75f8ea78a97">
+                                    <enum>(A)</enum>
+ <text>The People’s Republic of China.</text> </subparagraph> <subparagraph id="id8caa043bb0d349c3bebd58b7232b8ace"> <enum>(B)</enum> <text>The Russian Federation.</text>
+                                </subparagraph>
+                                <subparagraph id="idf00e5b4ae85046389697ce60d7587dda">
+                                    <enum>(C)</enum>
+ <text>The Islamic Republic of Iran.</text> </subparagraph> <subparagraph id="id275eb489af5140d1b9c080bb8d64892b"> <enum>(D)</enum> <text>The Democratic People’s Republic of Korea.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph display-inline="no-display-inline" id="H37630A6EFB6243F9A71C2889E0DA0268">
+                                <enum>(10)</enum>
+                                <header>Relevant committees of congress</header>
+ <text>The term <term>relevant committees of Congress</term> means—</text>
+                                <subparagraph id="H055D8809796B445DB6BE8FDE260A2D5C">
+                                    <enum>(A)</enum>
+ <text>the Committee on Banking, Housing, and Urban Affairs of the Senate; and</text>
+                                </subparagraph>
+                                <subparagraph id="H77EF14A5BFC94575BF8BC03F39B97020">
+                                    <enum>(B)</enum>
+ <text>the Committee on Foreign Affairs of the House of Representatives.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H484757885EF9462CA69E15BAFD19D57D">
+                                <enum>(11)</enum>
+                                <header>Undue risk</header>
+ <text>The term <term>undue risk</term> means any of the following:</text>
+                                <subparagraph id="H03A0C988F3C24B7C8BD43CC75E908AE4">
+                                    <enum>(A)</enum>
+ <text>The undue risk of sabotage to or subversion of the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of ICTS in the United States.</text>
+                                </subparagraph>
+                                <subparagraph id="H44A4D30DE7A144BE80957F8A1F79F955">
+                                    <enum>(B)</enum>
+ <text>The undue risk of catastrophic effects on the security or resiliency of United States critical infrastructure or the digital economy of the United States.</text>
+                                </subparagraph>
+                                <subparagraph id="id01b849a2b1574b439ed870873f4d0d19">
+                                    <enum>(C)</enum>
+ <text>The undue risk of an entity of concern acquiring an item on the Commerce Control List.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </section>
+                        <section id="HEBD24CE891E9411597CA16A2B3E74139">
+                            <enum>1785A.<?LEXA-Enum 1785A.?></enum>
+                            <header>Office of Information and Communications Technology and
+                                Services</header>
+                            <subsection id="HF037C08D8CA142A69EF2516812F30C7B">
+                                <enum>(a)</enum>
+                                <header>Establishment</header>
+ <text>There is established within the Bureau of Industry and Security of the Department of Commerce an Office of Information and Communications Technology and Services (in this section referred to as the <quote>Office</quote>).</text>
+                            </subsection>
+                            <subsection id="HA1F564FFF594474686517AEB71A34C14">
+                                <enum>(b)</enum>
+                                <header>Executive Director</header>
+ <text>The head of the Office shall be an Executive Director, who shall—</text>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idd4ba0cbd59d646a1a1f2991cc2d20a39">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">be appointed by the Secretary; and</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id4d1070c03ce14525aad264e6900d6a1f">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">report to the Assistant Secretary appointed under section 1782(a)(2).</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="HA35642B1B1C5476DA58CA84025BC4F3E">
+                                <enum>(c)</enum>
+                                <header>Duties</header>
+ <text>The Office shall—</text> <paragraph id="H5ECABB835086409B8682560DC4270776"> <enum>(1)</enum> <text display-inline="yes-display-inline">identify and prevent through mitigation or prohibition the undue risk posed by certain transactions; and</text>
+                                </paragraph>
+                                <paragraph id="H029E6FE228C647D7890A3E0F53D8F589">
+                                    <enum>(2)</enum>
+ <text>educate industry and other partners on relevant risks and communicate decisions.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="HEDC16F08E77249B6AFA371808797B4CD">
+                                <enum>(d)</enum>
+                                <header>Special hiring authority</header>
+ <text>The Executive Director may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, candidates directly to positions in the competitive service (as defined in section 2102 of that title).</text>
+                            </subsection>
+                            <subsection id="id2726f98949af428aaaa3ed5f5f77b06d" commented="no">
+                                <enum>(e)</enum>
+                                <header>Transition rules</header>
+                                <paragraph id="HAAD7CCFCDE244D7CA8E0A740801ADF34" commented="no">
+                                    <enum>(1)</enum>
+                                    <header>Continuation in office of the executive
+                                        director</header>
+ <text>An individual serving as the Executive Director before the date of the enactment of this part may serve as the Executive Director on and after that date without the need for appointment under subsection (b).</text>
+                                </paragraph>
+                                <paragraph id="id4f50b5b8b07f40b981e3fd0abcc16bff" commented="no">
+                                    <enum>(2)</enum>
+                                    <header>Reporting</header>
+ <text>The Executive Director shall report to the Under Secretary for Industry and Security until such time as an Assistant Secretary is appointed, by and with the advice and consent of the Senate, under section 1782(a)(2).</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section id="H16AC3561659E40C19505CFBE6F5EA54E">
+                            <enum>1785B.<?LEXA-Enum 1785B.?></enum>
+                            <header>Transaction review process</header>
+                            <subsection id="H69C2B189788B489ABDFAD22F54A28FD6">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>The Secretary, acting through the Office of Information and Communications Technology and Services, shall review covered transactions according to the following procedures:</text>
+                                <paragraph id="H4EBD8C89D67C4EA3BA9EB9498C042CF4" commented="no">
+                                    <enum>(1)</enum>
+                                    <header>Review</header>
+ <text>The Secretary may review any covered transaction that the Secretary suspects poses an undue risk.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H5BEDE30D0EC045698A91D9D2DC6C0BA1">
+                                    <enum>(2)</enum>
+                                    <header>Investigative authority</header>
+ <text display-inline="yes-display-inline">In reviewing a covered transaction described in paragraph (1) the Secretary may do the following:</text>
+                                    <subparagraph commented="no" id="H0B195FE4AE6A41E88FF412947B24509A">
+                                        <enum>(A)</enum>
+ <text>Require any person subject to the jurisdiction of the United States to furnish under oath, in the form of a report or otherwise, at any time as may be required by the Secretary, complete information relative to any such transaction.</text>
+                                    </subparagraph>
+                                    <subparagraph id="H14DEE252F48E4F409036FD2103AEF613">
+                                        <enum>(B)</enum>
+ <text>Require that any such report take a particular form as directed in a request, regulation, or other guidance provided by the Secretary, which may be required before, during, or after any such transaction.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="HDA54EEEC8F194AF78AEDFF0B7B0DDF81">
+                                        <enum>(C)</enum>
+ <text>Through any agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any book, contract, letter, paper, and other hard copy or document relating to any matter under investigation, regardless of whether any such report has been required or filed.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="H3F1239A8CB834EE9AA700315F1094D8B">
+                                <enum>(b)</enum>
+                                <header>Mitigation of risk</header>
+                                <paragraph id="HDF83D1A51C9A4F48A3F4F8BA3EC46043">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">If the Secretary finds under subsection (a) that a covered transaction poses an undue risk, the Secretary shall mitigate the undue risk as described in paragraph (2) or prohibit the transaction.</text>
+                                </paragraph>
+                                <paragraph display-inline="no-display-inline" id="HB9092BCCAF83420D8CA2B5477CA59339">
+                                    <enum>(2)</enum>
+                                    <header>Mitigation of risk authority</header>
+ <text display-inline="yes-display-inline">The Secretary may choose to mitigate any undue risk posed by a covered transaction reviewed under subsection (a). To mitigate the undue risk, the Secretary may do any of the following with regard to any party to the covered transaction:</text>
+                                    <subparagraph id="H13AB064FAFB242F183B6113D0B88A1B3">
+                                        <enum>(A)</enum>
+ <text>Negotiate, enter into or impose, and enforce any agreement or condition.</text>
+                                    </subparagraph>
+                                    <subparagraph id="HEB37280AB4E2482DBA4E79DA858B71E5">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">Require adherence to certain cybersecurity standards and other mitigation requirements determined to be necessary by the Secretary.</text>
+                                    </subparagraph>
+                                    <subparagraph id="H4DFBD4A8110A411AA6B296BDC46D124E">
+                                        <enum>(C)</enum>
+ <text>Require the exclusion (in whole or in part) of certain components, including physical parts or hardware, software, digital services, and digital components, of any ICTS or any sub-component of ICTS from any such transaction.</text>
+                                    </subparagraph>
+                                    <subparagraph id="H77E59F4E1A0B41D2B95BF1F8C453F6C2">
+                                        <enum>(D)</enum>
+ <text>Anything else the Secretary determines to be appropriate or necessary to mitigate the undue risk.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="HB9DFCC912328451194C4E258473A7F4F">
+                                    <enum>(3)</enum>
+                                    <header>Prohibition of transaction</header>
+ <text display-inline="yes-display-inline">If the Secretary determines that the undue risk posed by a covered transaction cannot be effectively mitigated for any reason, the Secretary—</text>
+                                    <subparagraph id="H67C1159BF2A34A468EC78080A1945E1B">
+                                        <enum>(A)</enum>
+ <text>may prohibit the covered transaction; and</text> </subparagraph> <subparagraph id="id7d7c525f2e514562aafc8aade2ef6446"> <enum>(B)</enum> <text>if the Secretary prohibits the transaction, shall—</text>
+                                        <clause id="H3A446DA4A17B4BFBBD364041EA0B3CF2">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">notify any party subject to the review of the covered transaction of the prohibition; and</text>
+                                        </clause>
+                                        <clause id="H0CF542EB1D5C4DD8B2B860A70399F5F8">
+                                            <enum>(ii)</enum>
+ <text>publish the prohibition in the Federal Register.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section id="H472E2873CF154DC08BFFEB3BE4BF2E0E">
+                            <enum>1785C.<?LEXA-Enum 1785C.?></enum>
+                            <header>Regulating covered transactions connected to entities or
+                                jurisdictions of concern</header>
+                            <subsection id="H6350C5EAD15C48AD83ABEE6A9C89308D">
+                                <enum>(a)</enum>
+                                <header>Authorization To issue rules for certain classes of covered
+                                    transactions</header>
+ <text display-inline="yes-display-inline">The Secretary may determine that, for certain classes of covered transactions, a review conducted under section 1785B may not effectively address undue risks and may promulgate, in accordance with section 553 of title 5, United States Code, regulations that do the following:</text>
+                                <paragraph id="H5D7E6BD62D9B40C49E441C10F62D03F0">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Identify particular covered transactions, entities of concern, or jurisdictions of concern that warrant particular scrutiny for undue risk.</text>
+                                </paragraph>
+                                <paragraph id="H219C936F522B4DB3BD9129BEED88514F">
+                                    <enum>(2)</enum>
+ <text>Establish mitigation measures to address undue risk, to include prohibitions related to entities of concern or jurisdictions of concern or for classes of covered transactions.</text>
+                                </paragraph>
+                                <paragraph id="H199F62EE8B6E4601B49062734A3B4AD1">
+                                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">Establish criteria by which particular covered transactions or particular classes of participants in the covered transaction supply chain may be recognized as categorically included in or as categorically excluded from mitigation measures or prohibitions.</text>
+                                </paragraph>
+                                <paragraph id="HF04D39DE2DFA4DB996437318A5C6CDE9">
+                                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Establish particular classes of covered transactions or parties to covered transactions that must abide by certain prohibitions or mitigation measures.</text>
+                                </paragraph>
+                                <paragraph id="HF62832AB4AEA4A95BFD34D966F047A46">
+                                    <enum>(5)</enum>
+ <text>Establish procedures to authorize or license transactions otherwise prohibited pursuant to a regulation promulgated under this section.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="HC1BF50D2D8454104A361418108DEA8F4">
+                                    <enum>(6)</enum>
+ <text>Any other rule the Secretary determines to be appropriate.</text> </paragraph> </subsection> <subsection id="HCFB362952BF74956B9AFABE66EA7DC58" commented="no" display-inline="no-display-inline"> <enum>(b)</enum> <header>Other review by Secretary permitted</header> <text>The promulgation of any regulation under subsection (a) does not preclude the Secretary from initiating a review of any covered transaction, including a covered transaction that belongs to an identified category under this section.</text>
+                            </subsection>
+                        </section>
+                        <section commented="no" id="H2E0464F28AFA4B5D9B3317A20120733E">
+                            <enum>1785D.<?LEXA-Enum 1785D.?></enum>
+                            <header>Risk assessments</header>
+                            <subsection commented="no" id="H5A30EEBCD9C642F8BA20996C50563FC1">
+                                <enum>(a)</enum>
+                                <header>DNI risk assessments</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this part, and annually thereafter, the Director of National Intelligence shall submit to the Secretary—</text>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idd27cffc1c76347e48f39ee1ceb1c1ab0">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">a risk assessment related to the threats posed by entities of concern or jurisdictions of concern to the United States by the supply chain of covered transactions that—</text>
+                                    <subparagraph commented="no" id="H4A3315FDA65F4242A3C14712E9361EC7">
+                                        <enum>(A)</enum>
+ <text>includes specific criteria to evaluate any risk to the national security of the United States; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H155CEFCE783441588EDEDDC60A9ADC95">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">identifies any entities of concern, jurisdictions of concern, participants in such supply chain, and covered transactions or classes of covered transactions posing the highest risks to the national security of the United States; and</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id54a29e318e3343cc845fcb54957c938a">
+                                    <enum>(2)</enum>
+ <text>a risk assessment of the threats posed by the supply chains of covered transactions to the national security of the United States.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" id="H6E37F64F69D948C9922235CD309AF437">
+                                <enum>(b)</enum>
+                                <header>Submission of risk assessment</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id6baffbf62ca840d998022441b7cea1ee">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date on which the risk assessments required by subsection (a) are submitted to the Secretary, the Director of National Intelligence shall submit the risk assessments to the relevant committees of Congress in unclassified format.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H8BE8001AC8DC4161AC260772061E5037">
+                                    <enum>(2)</enum>
+                                    <header>Classified annex</header>
+ <text>The risk assessments submitted under paragraph (1)—</text> <subparagraph id="HC65B00D078F84C3888CD370A69E0E957" commented="no"> <enum>(A)</enum> <text>may include a classified annex; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="H0C199387ACF348C182270EDEF266C2FB" commented="no" display-inline="no-display-inline">
+                                        <enum>(B)</enum>
+ <text>shall include in the classified annex only the identification of specific participants in the supply chain of covered transactions that pose risk to the national security of the United States.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section id="H253CBDB54AA84F7BA86FA900169FA741">
+                            <enum>1785E.<?LEXA-Enum 1785E.?></enum>
+                            <header>Other authorities</header>
+                            <subsection id="H442839D619324BD2A9F94DA553680C9F">
+                                <enum>(a)</enum>
+                                <header>Regulations</header>
+ <text display-inline="yes-display-inline">Any regulation the Secretary promulgated under Executive Order 13873 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to securing the information and communications technology and services supply chain) and Executive Order 14034 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to protecting Americans’ sensitive data from foreign adversaries) before the date of the enactment of this part shall continue in effect on and after such date of enactment. In carrying out the requirements of this part, the Secretary may amend regulations or promulgate new regulations and procedures as the Secretary considers appropriate.</text>
+                            </subsection>
+                            <subsection display-inline="no-display-inline" id="HD5E727349BB1439181D99C3C67444739">
+                                <enum>(b)</enum>
+                                <header>Guidance</header>
+ <text>The Secretary may issue guidance and establish procedures to carry out this part.</text>
+                            </subsection>
+                            <subsection commented="no" id="H3C05CB82794E4A8CA33EE64AB129D367">
+                                <enum>(c)</enum>
+                                <header>Technical advisory committee</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3be828165ba946169aedd79c5643d4d8">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this part, the Secretary shall establish an ICTS technical advisory committee to report to the Executive Director of the Office of Information and Communications Technology and Services.</text>
+                                </paragraph>
+                                <paragraph id="H8E8784FE0F4F407EB44119C3D2083121">
+                                    <enum>(2)</enum>
+                                    <header>Membership</header>
+ <text>The ICTS advisory committee established under paragraph (1) shall include the following:</text>
+                                    <subparagraph id="H5FC4556C7B504D1990A9CC8D8C5D0B98">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">Industry academic experts on covered transaction supply chains.</text>
+                                    </subparagraph>
+                                    <subparagraph id="HC9408F1A16B74A619A3C5D02C39E7198">
+                                        <enum>(B)</enum>
+ <text>Representatives of private sector companies, industry associations, and academia.</text>
+                                    </subparagraph>
+                                    <subparagraph id="H3C982D2B33A742ECAB1021C6EFF83262">
+                                        <enum>(C)</enum>
+ <text>A designated Federal officer to administer the advisory committee and report to the Executive Director.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="HC74BA4CB14D74B5FBB7FF9D7BBEE2EB4" commented="no" display-inline="no-display-inline">
+                                <enum>(d)</enum>
+                                <header>Confidentiality and disclosure of information</header>
+ <text>Any information or document not otherwise publicly or commercially available that has been submitted to the Secretary under this part shall not be released publicly excepted to the extent required by Federal law.</text>
+                            </subsection>
+                        </section>
+                        <section id="HFF396FE66A554AC3B9E1BED644F50023">
+                            <enum>1785F.<?LEXA-Enum 1785F.?></enum>
+                            <header>Enforcement</header>
+                            <subsection id="HD5754CDD0EC7445F8E03E31FAB0D956C">
+                                <enum>(a)</enum>
+                                <header>Investigations</header>
+                                <paragraph id="H38B9D50AFED84B81946160261514F95E">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>The Secretary may conduct an investigation of any violation of an authorization, order, mitigation measure, regulation, or prohibition issued under this part.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="HDE5C0D2D8AD643A383C6ED77BE8CCC14">
+                                    <enum>(2)</enum>
+                                    <header>Actions by designees</header>
+ <text>In conducting an investigation described in paragraph (1), the Assistant Secretary of Commerce for Export Enforcement, or designated officers or employees of the Secretary may, to the extent necessary or appropriate to enforce this part, exercise such authority as is conferred upon them by any other Federal law, subject to policies and procedures approved by the Attorney General.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="H023392AB4D4A41BEAC8579966CC8C0F4">
+                                <enum>(b)</enum>
+                                <header>Permitted activities</header>
+ <text display-inline="yes-display-inline">An officer or employee authorized to conduct investigations under subsection (a) by the Secretary may do any of the following:</text>
+                                <paragraph id="H4D2D5B9FA78F4E188F18870E8B2F8E9A">
+                                    <enum>(1)</enum>
+ <text>Inspect, search, detain, seize, or impose a temporary denial order with respect to any item, in any form, or conveyance on which it is believed that there are items that have been, are being, or are about to be imported into the United States in violation of this part or any other applicable Federal law.</text>
+                                </paragraph>
+                                <paragraph id="H30F3AC9D23BA4570AC45F9ABFDF82DDC">
+                                    <enum>(2)</enum>
+ <text>Require, inspect, and obtain any book, record, and any other information from any person subject to the provisions of this part or other applicable Federal law.</text>
+                                </paragraph>
+                                <paragraph id="HB53D903B3AF0445EAF39BC2FCB21B124">
+                                    <enum>(3)</enum>
+ <text>Administer an oath or affirmation and, by subpoena, require any person to appear and testify or to appear and produce books, records, and other writings.</text>
+                                </paragraph>
+                                <paragraph id="H5A3AD28080F54CAB984F6F3141828490">
+                                    <enum>(4)</enum>
+ <text>Obtain a court order and issue legal process to the extent authorized under chapters 119, 121, and 206 of title 18, United States Code, or any other applicable Federal law.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" id="H784DC7A869E2446185F5990C2D1A7706">
+                                <enum>(c)</enum>
+                                <header>Enforcement of subpoenas</header>
+ <text display-inline="yes-display-inline">In the case of contumacy by, or refusal to obey a subpoena issued to, any person under subsection (b)(3), a district court of the United States, after notice to such person and a hearing, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce books, records, and other writings, regardless of format, that are the subject of the subpoena. Any failure to obey such order of the court may be punished by such court as a contempt thereof.</text>
+                            </subsection>
+                            <subsection commented="no" id="HC905D88BE92B459A9C1DF55C28634A40">
+                                <enum>(d)</enum>
+                                <header>Actions by the Attorney General</header>
+ <text display-inline="yes-display-inline">The Attorney General may bring an action in an appropriate district court of the United States for appropriate relief, including declaratory and injunctive, or divestment relief, against any person who violates this part or any regulation, order, direction, mitigation measure, prohibition, or other authorization or directive issued under this part.</text>
+                            </subsection>
+                        </section>
+                        <section commented="no" id="HDD33CE3813154BC094503A35CA6505CC">
+                            <enum>1785G.<?LEXA-Enum 1785G.?></enum>
+                            <header>Judicial review</header>
+                            <subsection commented="no" id="HE82977B6E0C149B999150960B74A6E90">
+                                <enum>(a)</enum>
+                                <header>Right of action</header>
+ <text>A claim or petition challenging this part or any action, finding, or determination under this part may be filed only in the United States Court of Appeals for the District of Columbia Circuit.</text>
+                            </subsection>
+                            <subsection commented="no" id="H51F33D62F9B747819F6C9CA5BC5EB79E">
+                                <enum>(b)</enum>
+                                <header>Exclusive jurisdiction</header>
+ <text>The United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction over claims or petitions arising under this part against the United States, any agency, or any component or official of an agency, subject to review by the Supreme Court of the United States under section 1254 of title 28, United States Code.</text>
+                            </subsection>
+                            <subsection commented="no" id="H6A5BB12CD73E48B0966BB4621316DA7D">
+                                <enum>(c)</enum>
+                                <header>In camera and ex parte review</header>
+ <text>The following information may be included in the administrative record and shall be submitted to the court only ex parte and in camera:</text>
+                                <paragraph commented="no" id="HCFDFE3439B47439C9B086F797339A766">
+                                    <enum>(1)</enum>
+ <text>Sensitive security information, as defined in section 1520.5 of title 49, Code of Federal Regulations.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H30A96D5100AB4D0DB5A17B0050AF4A50">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Records or information compiled for law enforcement purposes, as described in section 552(b)(7) of title 5, United States Code.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H68FB7300101947338572D3A62591294D">
+                                    <enum>(3)</enum>
+ <text>Classified information, meaning any information or material that has been determined by the United States Government pursuant to an Executive order, statute, or regulation, to require protection against unauthorized disclosure for reasons of national security and any restricted data, as defined in section 11 of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2014">42 U.S.C. 2014</external-xref>).</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H5274B1ED816341C78469A3A6F570A33A">
+                                    <enum>(4)</enum>
+ <text>Information subject to privilege or protections under any other provision of law, including subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/53">chapter 53</external-xref> of title 31, United States Code.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" id="HA35BF1F7FA4649309A0C325BD875CF8B">
+                                <enum>(d)</enum>
+                                <header>Information under seal</header>
+ <text>Any information that is part of the administrative record filed ex parte and in camera under subsection (c), or cited by the court in any decision, shall be treated by the court consistent with the provisions of this section. In no event shall such information be released to the claimant or petitioner or as part of the public record.</text>
+                            </subsection>
+                            <subsection commented="no" id="HE928E2D9FDD24F7F8418FB4FAEC2F301">
+                                <enum>(e)</enum>
+                                <header>Return of administrative record</header>
+ <text>After the expiration of the time to seek further review, or the conclusion of further proceedings, the court shall return the administrative record, including any and all copies, to the United States.</text>
+                            </subsection>
+                            <subsection commented="no" id="HCA9D631C54D942878956A560CE6E0C18">
+                                <enum>(f)</enum>
+                                <header>Exclusive remedy</header>
+ <text>A determination by the court under this section shall be the exclusive judicial remedy for any claim or petition for review challenging this part or any action, finding, or determination under this part against the United States, any agency, or any component or official of any such agency.</text>
+                            </subsection>
+                            <subsection commented="no" id="H47C26B4FEE444B18BF6A6F1C19621909">
+                                <enum>(g)</enum>
+                                <header>Rule of construction</header>
+ <text>Nothing in this section shall be construed as limiting, superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.</text>
+                            </subsection>
+                            <subsection commented="no" id="HB878FD1BCDB64822BD20B05C9D426A0A">
+                                <enum>(h)</enum>
+                                <header>Statute of limitations</header>
+ <text>A challenge to any determination under this part may only be brought not later than 180 days after the date of such a determination.</text>
+                            </subsection>
+                        </section>
+                        <section commented="no" id="HC59F4B8FFF804E068BF0DE5DA6C46FE8">
+                            <enum>1785H.<?LEXA-Enum 1785H.?></enum>
+                            <header>Penalties</header>
+                            <subsection commented="no" id="HF469932A662C42E6994D3B0409D772C8">
+                                <enum>(a)</enum>
+                                <header>Unlawful acts</header>
+ <text>It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause a violation of any regulation, order, direction, prohibition, or other authorization or directive issued under this part.</text>
+                            </subsection>
+                            <subsection commented="no" id="idD13BF59B79A54B84AE5AB4DC0EB24218">
+                                <enum>(b)</enum>
+                                <header>Criminal penalties</header>
+ <text>A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of a violation of subsection (a) shall be fined not more than $1,000,000 for each violation, imprisoned for not more than 20 years, or both.</text>
+                            </subsection>
+                            <subsection commented="no" id="H214F854D3F2441739EB8861A3B2FBE0A">
+                                <enum>(c)</enum>
+                                <header>Civil penalties</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id294b1e31c6f748179f6bf0cd8e8ee52b">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary may impose the following civil penalties on a person for each violation by that person of a rule promulgated under this section:</text>
+                                    <subparagraph commented="no" id="HCC0E70D12B3B46AF9F98A8485E6A5E3C">
+                                        <enum>(A)</enum>
+ <text>A monetary penalty that is the greater of—</text> <clause commented="no" id="H43EFEE0BB24F4802B8498C3F94D4B059"> <enum>(i)</enum> <text>$250,000; or</text>
+                                        </clause>
+                                        <clause commented="no" id="HB1257C4465254E69B7270117D190B0F8">
+                                            <enum>(ii)</enum>
+ <text>an amount that is twice the value of the action that is the basis of the violation with respect to which the penalty is imposed.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="HAFD278D84FCC476BBCD1FB3275AB2DF3">
+                                        <enum>(B)</enum>
+ <text>Revocation of any mitigation measure or authorization issued under this part to the person.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="H03CD83533FFD4934B5C562AF193AD380">
+                                        <enum>(C)</enum>
+ <text>A prohibition or other restriction on the ability of the person to engage in any covered transaction or class of such transactions.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="H176FE137F50648E6AE7075E6EDF8A33E">
+                                    <enum>(2)</enum>
+                                    <header>Procedures</header>
+ <text display-inline="yes-display-inline">Any civil penalty imposed under paragraph (1) may be imposed only pursuant to a rule promulgated under this section.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="H7BC73445B9E9409388471C0114878C86">
+                                    <enum>(3)</enum>
+                                    <header>Standards for levels of civil penalty</header>
+ <text>The Secretary may, by rule, provide standards for establishing levels of civil penalty under paragraph (1) based upon factors, including—</text>
+                                    <subparagraph commented="no" id="H3D495794C4854A7094BF6E40F7CC5566">
+                                        <enum>(A)</enum>
+ <text>the seriousness of the violation;</text> </subparagraph> <subparagraph commented="no" id="HD51866A854C14102BF123290DC61DB5F"> <enum>(B)</enum> <text>the culpability of the violator, including any pattern of reckless behavior; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no"
+                                        id="HE956222ABE00456091002C303F6BC557">
+                                        <enum>(C)</enum>
+ <text>any mitigating factors, such as the record of cooperation of the violator with the Federal Government in disclosing the violation.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="iddace02f9e73846fd930ff29c7e15fedf">
+                                <enum>(d)</enum>
+                                <header>Pre-Penalty notices; settlements</header>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="idb442fc5a30db4bd4969acd35f0b30f0d">
+                                    <enum>(1)</enum>
+                                    <header>Pre-penalty notices</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id165e46a9248f42a38bdf6d10f52d002d">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">If the Secretary has reason to believe that there has occurred a violation of subsection (a) and determines that a civil monetary penalty under subsection (c)(1)(A) is warranted, the Secretary shall issue a pre-penalty notice informing the alleged violator of the intent of the Secretary to impose a monetary penalty. The Secretary shall consider any voluntary disclosures of a violation before issuing such notice.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id8b4e5b64e7f94adda055a04dabf93e18">
+                                        <enum>(B)</enum>
+                                        <header>Form of notice</header>
+ <text display-inline="yes-display-inline">A pre-penalty notice issued under subparagraph (A) shall be in writing and issued either electronically or by mail to the alleged violator.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id41dedbce28774a0db4d412994165ff40">
+                                        <enum>(C)</enum>
+                                        <header>Effects of actions of other agencies</header>
+ <text display-inline="yes-display-inline">A pre-penalty notice may be issued under subparagraph (A) whether or not an agency other than the Department of Commerce has taken any action with respect to the matter.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="id83149859a9e34f04b0524617c529d1b7">
+                                    <enum>(2)</enum>
+                                    <header>Responses</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id63e9cf6db66040fe985af519acebab19">
+                                        <enum>(A)</enum>
+                                        <header>Right to respond</header>
+ <text display-inline="yes-display-inline">An alleged violator may respond to a pre-penalty notice issued under paragraph (1)(A) in writing to the Secretary.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id7b3bf5db8d714599b0a380016b63c32b">
+                                        <enum>(B)</enum>
+                                        <header>Deadline for response</header>
+                                        <clause commented="no" display-inline="no-display-inline"
+                                            id="ide6da7238c3ff4d649c6fcbd18de6f6a2">
+                                            <enum>(i)</enum>
+                                            <header>In general</header>
+ <text display-inline="yes-display-inline">An alleged violator shall respond to a pre-penalty notice issued under paragraph (1)(A), except as provided by clause (ii), on or before the 30th day after the date of the issuance of the notice. Failure to submit a response during the time required by the previous sentence shall be deemed to be a waiver of the right to respond.</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline"
+                                            id="id5720d8c5641343be903fda49f5359644">
+                                            <enum>(ii)</enum>
+                                            <header>Extensions of deadline</header>
+ <text display-inline="yes-display-inline">If the deadline under clause (i) for a response to a pre-penalty notice falls on a Federal holiday or weekend, that deadline shall be extended to the following business day. Any other extensions of the deadline shall be granted, at the discretion of the Secretary, only upon specific request to the Secretary.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id485cef9cd35b42e38c4380d1c35f9f22">
+                                        <enum>(C)</enum>
+                                        <header>Form and method</header>
+ <text display-inline="yes-display-inline">A response under subparagraph (A) to a pre-penalty notice need not be in any particular form, but it is required to be typewritten and signed by the alleged violator or a representative thereof, contain information sufficient to indicate that it is in response to the pre-penalty notice, and include the identification number listed on the pre-penalty notice. A digital signature is acceptable.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline"
+                                        id="id2a2c99c4b1674714bc9906b70b92375e">
+                                        <enum>(D)</enum>
+                                        <header>Content</header>
+ <text display-inline="yes-display-inline">Any response under subparagraph (A) to a pre-penalty notice is required—</text>
+                                        <clause commented="no" display-inline="no-display-inline"
+                                            id="id9cbcc1fe931f4caeb2605f995d58310c">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">to set forth in detail why the alleged violator either believes that a violation of subsection (a) did not occur or why a civil monetary penalty under subsection (c)(1)(A) is otherwise unwarranted under the circumstances; and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline"
+                                            id="id6cd9184d268c4b818a5371b734528abd">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">to include all documentary or other evidence available to the alleged violator that supports the arguments set forth in the response.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="ida1cdfd0ecb21440481c5151a7ea709db">
+                                    <enum>(3)</enum>
+                                    <header>Representation</header>
+ <text display-inline="yes-display-inline">A representative of the alleged violator may act on behalf of the alleged violator, but any oral communication with the Secretary prior to a written submission regarding the specific allegations contained in the pre-penalty notice is required to be preceded by a written letter of representation, unless the pre-penalty notice was served upon the alleged violator in care of the representative.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="idc5e9ec3ff04f4a76b90c6df5fcd3ed56">
+                                    <enum>(4)</enum>
+                                    <header>Settlement</header>
+ <text display-inline="yes-display-inline">Settlement discussions may be initiated by the Secretary, the alleged violator, or the alleged violator's authorized representative.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="id209b8b76f5d94fe695541a3edb03943d">
+                                <enum>(e)</enum>
+                                <header>Penalty imposition</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="ide509bbb037fd44cc8782ee8a58b9e4e2">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">If, after considering any written response to a pre-penalty notice under subsection (d)(2) and any relevant facts, including voluntary disclosure of a violation of subsection (a), the Secretary determines that there was a violation by the alleged violator named in the pre-penalty notice and that a civil monetary penalty under subsection (c)(1)(A) is appropriate, the Secretary may issue a penalty notice to the violator containing a determination of the violation and the imposition of the monetary penalty.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="iddb19e1e57690400aa15db833d2387cbc">
+                                    <enum>(2)</enum>
+                                    <header>Final agency action</header>
+ <text display-inline="yes-display-inline">The issuance of the penalty notice shall constitute final agency action for purposes of review under section 704 of title 5, United States Code.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idb28a26e419524991b1f7feaa756e2eea">
+                                    <enum>(3)</enum>
+                                    <header>Judicial review</header>
+ <text display-inline="yes-display-inline">The violator may seek judicial review of that final agency action under section 1785G.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <section id="H7C07015EED4444CFBDA4A6CDDBD69AF0">
+                            <enum>1785I.<?LEXA-Enum 1785I.?></enum>
+                            <header>Relationship to other laws</header>
+                            <subsection commented="no" id="H3E98D60A02284D189C140A928FB2454C">
+                                <enum>(a)</enum>
+                                <header>Rule of construction relating to other law</header>
+ <text>Nothing in this part shall be construed to alter or affect any other authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law.</text>
+                            </subsection>
+                            <subsection id="H651EB4A396884E72AE6DE28163C280FB">
+                                <enum>(b)</enum>
+                                <header>Paperwork reduction act exception</header>
+ <text>The requirements of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code (commonly referred to as the <quote>Paperwork Reduction Act</quote>), shall not apply to any action by the Secretary to implement this part.</text>
+                            </subsection>
+                            <subsection commented="no" id="HE01584AA2CA54FB28E623F9D03575E7E">
+                                <enum>(c)</enum>
+                                <header>Committee on Foreign Investment in the United
+                                    States</header>
+ <text>Nothing in this part shall prevent or preclude the President or the Committee on Foreign Investment in the United States from exercising any authority under section 721 of the Defense Production Act of 1950 (<external-xref legal-doc="usc" parsable-cite="usc/50/4565">50 U.S.C. 4565 et seq.</external-xref>) as would be available in the absence of this part.</text>
+                            </subsection>
+                            <subsection id="H2768AA60CBE34407AF3990A824B58552">
+                                <enum>(d)</enum>
+                                <header>Rule of construction for the OICTS</header>
+ <text display-inline="yes-display-inline">Nothing in this part may be construed as altering any of the authority of the Office of Information and Communications Technology and Services under Executive Order 13873 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to securing the information and communications technology and services supply chain) and Executive Order 14034 (<external-xref legal-doc="usc" parsable-cite="usc/50/1701">50 U.S.C. 1701</external-xref> note; relating to protecting Americans’ sensitive data from foreign adversaries).</text>
+                            </subsection>
+                        </section>
+                    </part>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id318baae2ba0c4bb79bd48fb2aaee50f3">
+                <enum>(b)</enum>
+                <header>Conforming amendments to Export Control Reform Act of 2018</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id1bafcfdafbd04d97a7d0640c977ba11e">
+                    <enum>(1)</enum>
+                    <header>Definition of United States person</header>
+ <text>Section 1742(13)(A) of the Export Control Reform Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/50/4801">50 U.S.C. 4801(13)(1)</external-xref>) is amended, in the matter preceding clause (i), by striking <quote>part I</quote> and inserting <quote>parts I and IV</quote>.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida958b9dd8e374ba5a568c1bf2d41e3de">
+                    <enum>(2)</enum>
+                    <header>Annual report</header>
+ <text>Section 1765(a) of the Export Control Reform Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/50/4824">50 U.S.C. 4824(a)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7c89c200612b41bdbabe078511989a69">
+                        <enum>(A)</enum>
+ <text>in the matter preceding paragraph (1), by inserting <quote>and part IV</quote> after <quote>this part</quote>;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd329973eb962445898b9acd0d7640fdf">
+                        <enum>(B)</enum>
+ <text>in paragraph (8), by striking <quote>; and</quote> and inserting a semicolon;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id569e5026b8e949bb8876f912ff6f5a3f">
+                        <enum>(C)</enum>
+ <text>in paragraph (9), by striking the period and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id18c96575af8e42c4ae5c9dac1a7f5ff7">
+                        <enum>(D)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id7694c340e90e4c1f92975ea66d5ad9c2"> <paragraph commented="no" display-inline="no-display-inline" id="id71f6e82e7f8e4ba2885e8ac4e16220f5"> <enum>(10)</enum> <text>a summary of how authorities under part IV are being used to ensure that entities of concern (as defined in section 1785) cannot undercut United States export controls by acquiring sensitive technology within the United States.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ide99889451f284ff6a456ee9bdb4eaead">
+                    <enum>(3)</enum>
+                    <header>Assistant Secretaries of Commerce</header>
+ <text>Section 1782(a) of the Export Control Reform Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/50/4852">50 U.S.C. 4852(a)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7f99a4f5acca4c24ad5fb980d594d3b2">
+                        <enum>(A)</enum>
+ <text>by striking <quote>Senate, two</quote> and inserting the following: “Senate—</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id18aac2809cce44d2ad010b9f7b44f5db">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id3f3366f7222a482eb3200a17de452e12">
+                                <enum>(1)</enum>
+ <text>two</text> </paragraph> <after-quoted-block>;</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id61c289f02b584f64b907925d42a82c9c"> <enum>(B)</enum> <text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb583c4ae4d2541989a578d1aed811d7f">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id2047f055513144e5b58f3f9771c3dd7c"> <paragraph commented="no" display-inline="no-display-inline" id="id3a3b8fe30c9b49b08de47ecc3bc2b5a0"> <enum>(2)</enum> <text>one Assistant Secretary of Commerce to assist the Under Secretary in carrying out part IV.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
