@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EDW25167-NVD-W6-8Y8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1953 IS: Complete Streets Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1953</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250604">June 4, 2025</action-date>
+            <action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S415">Mr.
+                    Warnock</cosponsor>, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, and
+                    <cosponsor name-id="S353">Mr. Schatz</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require States to establish complete streets programs, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Complete Streets Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id281ad9e30d584fffb1679bb613a7a173">
+            <enum>2.</enum>
+            <header>Complete streets program</header>
+            <subsection id="idf908236828d14abd85a28270028c99f8">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id7a17a706f98b46cdada936cdef4fa5aa"> <enum>(1)</enum> <header>Complete street</header> <text>The term <term>complete street</term> means a public road that provides safe and accessible options for multiple travel modes for people of all ages, abilities, and disabilities, including modes such as walking, cycling, transit, mobility devices, automobiles, and freight.</text>
+                </paragraph>
+                <paragraph id="id7bbe535cfa4043229f48b22dbc81c103">
+                    <enum>(2)</enum>
+                    <header>Complete streets policy</header>
+ <text>The term <term>complete streets policy</term> means a complete streets policy adopted by an eligible entity under subsection (d)(1).</text>
+                </paragraph>
+                <paragraph id="id591bed36c5d74b5faeccc41c4a1eb856">
+                    <enum>(3)</enum>
+                    <header>Complete streets principle</header>
+ <text>The term <term>complete streets principle</term> means a principle at the local, State, or regional level that ensures—</text>
+                    <subparagraph id="id330f79a6bc6e430d981b2ea1713257e3">
+                        <enum>(A)</enum>
+ <text>the safe and adequate accommodation, in all phases of project planning and development, of all users of the transportation system, including pedestrians, bicyclists, public transit users, children, older individuals, individuals with disabilities, motorists, and freight vehicles; and</text>
+                    </subparagraph>
+                    <subparagraph id="id63605f45032548dcb9680867973ae242">
+                        <enum>(B)</enum>
+ <text>the consideration of the safety and convenience of all users of the transportation system in all phases of project planning and development.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idab6b9f9e3a6f430cbbde9cba7ee0b948">
+                    <enum>(4)</enum>
+                    <header>Complete streets prioritization plan</header>
+ <text>The term <term>complete streets prioritization plan</term> means a complete streets prioritization plan developed by an eligible entity under subsection (f)(1).</text>
+                </paragraph>
+                <paragraph id="idc91a6d5c884f4904b88911733e099d30">
+                    <enum>(5)</enum>
+                    <header>Complete streets program</header>
+ <text>The term <term>complete streets program</term> means a complete streets program established by a State under subsection (b)(1).</text>
+                </paragraph>
+                <paragraph id="id6897457e6ea04f17890aa8ae927be851">
+                    <enum>(6)</enum>
+                    <header>Eligible entity</header>
+ <text>The term <term>eligible entity</term> means—</text> <subparagraph id="id250800d54b034276809875b1a988ef03"> <enum>(A)</enum> <text>a unit of local government;</text>
+                    </subparagraph>
+                    <subparagraph id="id2a342705049f4490a336240ab9e5bb35">
+                        <enum>(B)</enum>
+ <text>a regional planning organization;</text> </subparagraph> <subparagraph id="id5bcdd8acd54d47c39bc6a5602a16a0f0"> <enum>(C)</enum> <text>a metropolitan planning organization;</text>
+                    </subparagraph>
+                    <subparagraph id="id4a3e3f91a0a84da4bd3e8973267e9bbf">
+                        <enum>(D)</enum>
+ <text>a transit agency;</text> </subparagraph> <subparagraph id="id51dfd5ed20e6476ebb3ad130c0bdf8b7"> <enum>(E)</enum> <text>a natural resource or public land agency;</text>
+                    </subparagraph>
+                    <subparagraph id="idae124fa98d474d4e950b1c89bb6e6681">
+                        <enum>(F)</enum>
+ <text>a Tribal government;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id267bc281c5b04e14b1cacff4921d608e"> <enum>(G)</enum> <text display-inline="yes-display-inline">a nonprofit entity; or</text>
+                    </subparagraph>
+                    <subparagraph id="idd5881f79f0904eed86b9ec82935b243d">
+                        <enum>(H)</enum>
+ <text>any other local or regional governmental entity, other than a State agency, with responsibility for or oversight of transportation or recreational trails that the State in which the project will occur determines to be eligible, consistent with the goals of this section.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id72e27951fa5346f5a6a198eb680f79a3">
+                    <enum>(7)</enum>
+                    <header>Metropolitan planning organization</header>
+ <text>The term <term>metropolitan planning organization</term> means a metropolitan planning organization designated under—</text>
+                    <subparagraph id="id671293ffb93c4d6eaa7ae6b33952705f">
+                        <enum>(A)</enum>
+ <text>section 134 of title 23, United States Code; or</text> </subparagraph> <subparagraph id="id0eeefca8418c462e9fc378a721e11edb"> <enum>(B)</enum> <text>section 5303 of title 49, United States Code.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4cecb6a2a447404d8f1bd1238b35eac1">
+                    <enum>(8)</enum>
+                    <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Transportation.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3abed002f69c48da91e1e664425f7413">
+                    <enum>(9)</enum>
+                    <header>State</header>
+ <text>The term <term>State</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id066d2968f9c14801bd5d8038912b5410"> <enum>(A)</enum> <text display-inline="yes-display-inline">any of the 50 States;</text>
+                    </subparagraph>
+                    <subparagraph id="id111d019559674e249ff3651c03780511">
+                        <enum>(B)</enum>
+ <text>the District of Columbia;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd0a79ab8901547f3889ce3706a6c3b51"> <enum>(C)</enum> <text>Puerto Rico;</text>
+                    </subparagraph>
+                    <subparagraph id="idc48b29d93b34420cb8147c0ed89c6706">
+                        <enum>(D)</enum>
+ <text>American Samoa;</text> </subparagraph> <subparagraph id="idc8ff8a0bd7ca4d02a443b9683b3c9d0a"> <enum>(E)</enum> <text>the Commonwealth of the Northern Mariana Islands;</text>
+                    </subparagraph>
+                    <subparagraph id="id438b23d9b8144c75aebdda45cc0bdc58">
+                        <enum>(F)</enum>
+ <text>Guam; and</text> </subparagraph> <subparagraph id="id7b6fb1f9bdf1438bb3b816316ddad21b"> <enum>(G)</enum> <text>the United States Virgin Islands.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id72a643bd77034233beb918428e85600a">
+                <enum>(b)</enum>
+                <header>Establishment</header>
+                <paragraph id="id1554eb10eabe4b6d9f89a03aa5b3597d">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than October 1 of the second full fiscal year after the date of enactment of this Act, each State shall establish a program for a competitive process for an eligible entity to seek—</text>
+                    <subparagraph id="id406340e79c744f6bba30e7ec9f68b24f">
+                        <enum>(A)</enum>
+ <text>technical assistance for a project to design and construct a project included in the complete streets prioritization plan of the eligible entity under subsection (f)(5); and</text>
+                    </subparagraph>
+                    <subparagraph id="id95538c9c01114e9c94f6b76ebb597ccf">
+                        <enum>(B)</enum>
+ <text>grants for the design and construction of complete streets under subsection (g).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id56cfa005604842a79ff267e3950eb3ea">
+                    <enum>(2)</enum>
+                    <header>Funding</header>
+ <text>Not later than October 1 of the third full fiscal year that begins after the date of enactment of this Act, each State shall begin to provide grants for the design and construction of complete streets under subsection (g)(1).</text>
+                </paragraph>
+                <paragraph id="id791e791fd1d041aabc9745a8245f2a7d">
+                    <enum>(3)</enum>
+                    <header>Goals</header>
+ <text>The goals of a complete streets program are—</text> <subparagraph id="id0211209bd69844849f4a7d40d6c32d10"> <enum>(A)</enum> <text>to provide technical assistance and incentives for the development and adoption of complete streets policies;</text>
+                    </subparagraph>
+                    <subparagraph id="id0b3c87a9de8741928f3e63c2711b8534">
+                        <enum>(B)</enum>
+ <text>to encourage eligible entities to adopt a strategic and comprehensive approach for the development of complete streets;</text>
+                    </subparagraph>
+                    <subparagraph id="id7eca3d3338734714ba0c9eac435664d7">
+                        <enum>(C)</enum>
+ <text>to facilitate better pedestrian, bicycle, and public transit travel for users of all ages and abilities by addressing critical gaps in pedestrian, bicycle, and public transit infrastructure;</text>
+                    </subparagraph>
+                    <subparagraph id="id3b6d770e3a1c4981a880b7c841a00174">
+                        <enum>(D)</enum>
+ <text>to distribute funding to reward eligible entities that have committed to adopting complete streets benchmarks developed by the Secretary under subsection (c); and</text>
+                    </subparagraph>
+                    <subparagraph id="id295d060d79d44a9782ac1da46ba4b4dc">
+                        <enum>(E)</enum>
+ <text>to ensure that underserved municipalities, neighborhoods, rural areas, Tribal areas, territorial communities, and people, including low-income people and communities of color, are served equitably by the complete streets program.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id6014f28b0220487cac83a81bc008523f">
+                <enum>(c)</enum>
+                <header>Complete streets benchmarks and guidance</header>
+                <paragraph id="id5a55f2a1cede40caa18045e7299f36db">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary shall develop and make available to States and eligible entities benchmarks and guidance by which—</text>
+                    <subparagraph id="idc5d57fe0a756414ea8527b2594987b63">
+                        <enum>(A)</enum>
+ <text>States can carry out complete streets programs;</text> </subparagraph> <subparagraph id="id340f5ff2145548b9bae2518f004e4f86"> <enum>(B)</enum> <text>eligible entities can carry out complete streets policies and complete streets principles; and</text>
+                    </subparagraph>
+                    <subparagraph id="idef40caaa55b8401fadabefe02cc05b31">
+                        <enum>(C)</enum>
+ <text>eligible entities can evaluate the effectiveness of complete streets projects.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idcce4860366b449729c4a8cc65ec7a671">
+                    <enum>(2)</enum>
+                    <header>Focus</header>
+ <text>The benchmarks and guidance developed and made available under paragraph (1) shall—</text>
+                    <subparagraph id="idc70ca6eb9b214310a9c5c145a9ad0cb8">
+                        <enum>(A)</enum>
+ <text>be designed to result in the establishment of methods of effectively carrying out a complete streets policy, a complete streets program, and complete streets principles, as applicable;</text>
+                    </subparagraph>
+                    <subparagraph id="id6798b3834bee4cc59cea86be023a3154">
+                        <enum>(B)</enum>
+ <text>focus on modifying scoping, design, and construction procedures to more effectively combine modes of transportation into integrated facilities that meet the needs of each of those modes of transportation in an appropriate balance;</text>
+                    </subparagraph>
+                    <subparagraph id="idfae7b0ac59b94b12a35759485cd9db1d">
+                        <enum>(C)</enum>
+ <text>indicate the expected operational and safety performance of alternative approaches to facility design; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id4a79411c899245e78849cf2ad6a7921e">
+                        <enum>(D)</enum>
+ <text>suggest design options specific to road classifications, land use, traffic volume, and speed.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id62b2ab60b4e346df86d34966298c5ac6">
+                    <enum>(3)</enum>
+                    <header>Topics of emphasis</header>
+ <text>In developing the benchmarks and guidance under paragraph (1), the Secretary shall—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idaa8e8cdea14c4f2ab6b550142a9af7ae">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">emphasize—</text> <clause id="id7c0835f1a578456db87459b0feaaf52d"> <enum>(i)</enum> <text>procedures for identifying the needs of users of all ages and abilities of a particular roadway;</text>
+                        </clause>
+                        <clause id="id8789b7b2a34542f79a78be508d33cada">
+                            <enum>(ii)</enum>
+ <text>procedures for identifying the types and designs of facilities needed to serve each class of users;</text>
+                        </clause>
+                        <clause id="idb4078a64379242bdad53e271a749f721">
+                            <enum>(iii)</enum>
+ <text>safety and other benefits provided by carrying out complete streets principles;</text>
+                        </clause>
+                        <clause id="ida79123e3178f4660b5a478f19e8dfadd">
+                            <enum>(iv)</enum>
+ <text>common barriers to carrying out complete streets principles;</text>
+                        </clause>
+                        <clause id="id4df262d979eb4c2e9f68bf62f10f2d8a">
+                            <enum>(v)</enum>
+ <text>procedures for overcoming the most common barriers to carrying out complete streets principles;</text>
+                        </clause>
+                        <clause id="idfde55682f5bf4774927765b52ea68418">
+                            <enum>(vi)</enum>
+ <text>procedures for identifying the costs associated with carrying out complete streets principles;</text>
+                        </clause>
+                        <clause id="id3600ef9e6faa445e93da5c3472ea66f7">
+                            <enum>(vii)</enum>
+ <text>procedures for maximizing local cooperation in the introduction of complete streets principles and carrying out those principles; and</text>
+                        </clause>
+                        <clause id="id52b9b00246064c5da657c90be416f383">
+                            <enum>(viii)</enum>
+ <text>procedures for assessing and modifying the facilities and operational characteristics of existing roadways to improve consistency with complete streets principles; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id152e6d4f4fd345b0b3deaa850dd53f68">
+                        <enum>(B)</enum>
+ <text>take into consideration findings of the National Complete Streets Assessment of the Federal Highway Administration.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id81680989e06542a68260cd5514c683dd">
+                    <enum>(4)</enum>
+                    <header>Public review and comment</header>
+ <text>The complete streets benchmarks and guidance developed and made available under paragraph (1) shall be subject to a period of public review and comment.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idff88cdf4c08348a983c3969faec25dbf">
+                <enum>(d)</enum>
+                <header>Complete streets policies</header>
+                <paragraph id="iddbf7943b73f7439d854a5ff3574b300b">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>An eligible entity seeking technical assistance or funds from a complete streets program shall adopt a complete streets policy using complete streets principles and approved by—</text>
+                    <subparagraph id="idd68520af6a3244868e1fa1fbbdaaab5f">
+                        <enum>(A)</enum>
+ <text>the State of the eligible entity; or</text> </subparagraph> <subparagraph id="id586ade44dbea4ec2a7dad703beff387c"> <enum>(B)</enum> <text>a metropolitan planning organization that serves an area under the jurisdiction of the eligible entity, subject to the condition that the metropolitan planning organization and the State execute an agreement—</text>
+                        <clause id="id49FA5E0DACEF4B138D84AEC642E990C5">
+                            <enum>(i)</enum>
+ <text>under which the State agrees—</text> <subclause id="idBF2A41BF83314568937CFA52AF653848"> <enum>(I)</enum> <text>to delegate policy approval authority to the metropolitan planning organization; and</text>
+                            </subclause>
+                            <subclause id="idC147B302B8EB46759DB6E0E7149F5E0D">
+                                <enum>(II)</enum>
+ <text>to provide funding to the metropolitan planning organization for all reasonable costs related to review of a complete streets policy; and</text>
+                            </subclause>
+                        </clause>
+                        <clause id="idF23C02036A74476CA25A21D68DEA6F1E">
+                            <enum>(ii)</enum>
+ <text>that establishes guidelines for approval of a complete streets policy as required under subsection (e)(2).</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id0246252f7aa341c085bf1052ebf0e589">
+                    <enum>(2)</enum>
+                    <header>Guidance</header>
+ <text>Not later than October 1 of the first full fiscal year that begins after the date of enactment of this Act, the Secretary shall provide guidance to States and metropolitan planning organizations for review of complete streets policies under this Act.</text>
+                </paragraph>
+                <paragraph id="idf262299a8de545e2af22d1a92b8985b0">
+                    <enum>(3)</enum>
+                    <header>Requirements</header>
+ <text>A complete streets policy of an eligible entity shall—</text> <subparagraph id="id49db4207c8d7416d915cab6021647833"> <enum>(A)</enum> <text>include a description of—</text>
+                        <clause id="id46f40604d5ae4e35a1c7569df2fd550a">
+                            <enum>(i)</enum>
+ <text>how the eligible entity intends to develop complete streets infrastructure, including through an assessment of procedures, design manuals, performance measures, and training for planners and engineers;</text>
+                        </clause>
+                        <clause id="id79b1073008c74319a461cdeacd9629f5">
+                            <enum>(ii)</enum>
+ <text>how, after the development of complete streets infrastructure, the transportation system will serve users of all ages and abilities, including pedestrians, bicyclists, and public transit passengers, as well as trucks, buses, and automobiles;</text>
+                        </clause>
+                        <clause id="ide3c1c9bbbaa9406a983a5de943c48245">
+                            <enum>(iii)</enum>
+ <text>how the complete streets policy will apply to all projects and phases of projects that affect the streets under the complete streets policy, including reconstruction, new construction, planning, design, maintenance, and operations, for the entire street;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id5affa3838e164c05bb1d033c4d274386">
+                            <enum>(iv)</enum>
+ <text>how the development of complete streets infrastructure will improve safety for all road users in underserved neighborhoods, including any feedback from affected communities;</text>
+                        </clause>
+                        <clause id="idfdc35b5886244a028ed29da2d50929dd">
+                            <enum>(v)</enum>
+ <text>any exceptions to the complete streets policy, including a clear procedure for the approval of those exceptions, as described in paragraph (4);</text>
+                        </clause>
+                        <clause id="id7dfa6309d3c54628b6e8b5c72e42c3f6">
+                            <enum>(vi)</enum>
+ <text>the jurisdiction in which the complete streets policy applies; and</text>
+                        </clause>
+                        <clause id="idfc1609b0de464a2b8a6aac0f78675d90">
+                            <enum>(vii)</enum>
+ <text>the steps necessary for implementation of the complete streets policy;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id160d966691c74a86a9cb1c8573dcc616">
+                        <enum>(B)</enum>
+ <text>encourage a comprehensive, integrated, and connected network for all modes of transportation;</text>
+                    </subparagraph>
+                    <subparagraph id="id2b0ec6b8039b4a308dbc8fcdd25d1fcd">
+                        <enum>(C)</enum>
+ <text>benefit users of all abilities;</text> </subparagraph> <subparagraph id="id76f7057f2a4049428b51edb1f7abeab3"> <enum>(D)</enum> <text>emphasize the need to coordinate with other jurisdictions with respect to the streets under the jurisdiction of the complete streets policy;</text>
+                    </subparagraph>
+                    <subparagraph id="id3ff4b81bb9bc4ff4aadb135f0ac07267">
+                        <enum>(E)</enum>
+ <text>require the use of the latest and best design criteria and guidelines, particularly standards relating to providing access to individuals with disabilities, in projects under the complete streets policy;</text>
+                    </subparagraph>
+                    <subparagraph id="id0df78d07db664bbbaa21076112288e6d">
+                        <enum>(F)</enum>
+ <text>recognize the need for flexibility in balancing user needs;</text> </subparagraph> <subparagraph id="idd15ecfcdf0b44196b44a5a4699e8ceaa"> <enum>(G)</enum> <text>be context sensitive and complement the community, including consideration of—</text>
+                        <clause id="id589A3C3597A34626B275646A07EF7565">
+                            <enum>(i)</enum>
+ <text>the urban, suburban, or rural location in which a project is located;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idc84779952bc1458c81574478243f8256">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">land use; and</text> </clause> <clause id="id6FF289CF385D483DA3494B73ABC1AB6F"> <enum>(iii)</enum> <text>planned investments on or near the corridor, such as public transportation;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id093827b959e54bfaa104f119707b6126">
+                        <enum>(H)</enum>
+ <text>establish performance standards with measurable outcomes to ensure that the complete streets infrastructure complies with complete streets principles;</text>
+                    </subparagraph>
+                    <subparagraph id="id98e631edb25e4ac9be98d63c3167ae30">
+                        <enum>(I)</enum>
+ <text>meet the minimum standards established by the Secretary under subsection (e)(2)(A)(i);</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id97f0e89c5563437a935b04f9a81f01a2">
+                        <enum>(J)</enum>
+ <text display-inline="yes-display-inline">comply with public right-of-way accessibility guidelines; and</text>
+                    </subparagraph>
+                    <subparagraph id="id74fe315abb604a24bc6cd92184a99967">
+                        <enum>(K)</enum>
+ <text>except as provided in paragraph (4), require the complete streets policy to apply to new road construction and road modification projects, including design, planning, construction, reconstruction, rehabilitation, maintenance, and operations, for the entire right-of-way under the jurisdiction of the complete streets policy.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id7357c86a0f83495d8a3ef577a9fd8ae1">
+                    <enum>(4)</enum>
+                    <header>Exemption requirements and procedures</header>
+ <text>A complete streets policy shall allow for a project-specific exemption from the complete streets policy if—</text>
+                    <subparagraph id="id2c50f4ee21b6439181e4a69f3febab23">
+                        <enum>(A)</enum>
+ <text>the roadway affected by the project may not, under applicable law, be used by certain types of users, in which case the eligible entity shall make a greater effort to accommodate the types of users elsewhere by providing the most efficient routing and accessibility for those road users;</text>
+                    </subparagraph>
+                    <subparagraph id="idb0107a1adbbe4efaa90fc9b615c32a28">
+                        <enum>(B)</enum>
+ <text>the cost of the project to comply with the complete streets policy would be excessively disproportionate (as defined in the document of the Department of Transportation entitled <quote>Design Guidance Accommodating Bicycle and Pedestrian Travel: A Recommended Approach</quote> and required under section 1202(b) of the Transportation Equity Act for the 21st Century (<external-xref legal-doc="usc" parsable-cite="usc/23/217">23 U.S.C. 217</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/105/178">Public Law 105–178</external-xref>)) compared to the need, particular use of the affected roadway, or prevalence of serious or fatal crashes on that roadway;</text>
+                    </subparagraph>
+                    <subparagraph id="idc23e73dc3c2045fdb99f51dede9a6515">
+                        <enum>(C)</enum>
+ <text>the existing and expected population, employment density, or level of transit service on and around the affected roadway is so low that the expected users of the affected roadway will not include pedestrians or other vulnerable road users; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id79f37c61b0444c07a8eadd66aa646ea7">
+                        <enum>(D)</enum>
+ <text>there are complete streets principles fulfilled on a parallel corridor connected to an area that is not more than 0.25 mile away for pedestrians and not more than 1.5 miles away for bicyclists, providing a complete streets network.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id5a27057da7c74cb7abdcfa9c68c60f88">
+                    <enum>(5)</enum>
+                    <header>Guidance</header>
+ <text>The Secretary shall establish guidance for a State or metropolitan planning organization to evaluate and approve a complete streets policy of an eligible entity.</text>
+                </paragraph>
+                <paragraph id="id8b9a2ed980d84df19a60a840c5ded06c">
+                    <enum>(6)</enum>
+                    <header>Reports</header>
+                    <subparagraph id="idaa6ca75e8b67415aab4012e91472c63d">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Each State department of transportation shall submit to the Secretary a report describing the implementation by the State of measures to achieve complete streets principles within complete streets policies of eligible entities within the State at such time, in such manner, and containing such information as the Secretary may require.</text>
+                    </subparagraph>
+                    <subparagraph id="id5f99d12f62084f859691f2008bd4526c">
+                        <enum>(B)</enum>
+                        <header>Determination by secretary</header>
+ <text>On receipt of a report under subparagraph (A), the Secretary shall determine whether the complete streets program of the State has incorporated complete streets principles into all aspects of the transportation project development, programming, and delivery process, including project planning, project identification, project scoping procedures, design approval, design manuals, and performance measures.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id12a006a41d12434e9cd0fc70b736f5bf">
+                <enum>(e)</enum>
+                <header>Certification</header>
+                <paragraph id="id7835e46e5b9842de8b033b9e8cda3f0e">
+                    <enum>(1)</enum>
+                    <header>Certification of State programs</header>
+ <text>Not later than the first October 1 after the date of enactment of this Act, the Secretary shall establish a method of evaluating and certifying compliance by States with the requirements of this Act, including a requirement that each State department of transportation submit a report to the Secretary that describes—</text>
+                    <subparagraph id="iddb5dddb7ae13442d848b1d2be9c3079c">
+                        <enum>(A)</enum>
+ <text>the complete streets program of the State;</text> </subparagraph> <subparagraph id="id9df54ea2128446608d925e6035b020f4"> <enum>(B)</enum> <text>the plan to carry out the complete streets program of the State; and</text>
+                    </subparagraph>
+                    <subparagraph id="id70071774ae8648d8945d0224a691da1a">
+                        <enum>(C)</enum>
+ <text>the degree of involvement of eligible entities within the State in developing and carrying out the complete streets program of the State.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id3145b9e2ae9a4e0d970d4d6cb0ad7290">
+                    <enum>(2)</enum>
+                    <header>Minimum standards for complete streets policies</header>
+                    <subparagraph id="id62F2621394CA4AA5B01EBA3E49053444">
+                        <enum>(A)</enum>
+                        <header>Establishment</header>
+ <text>Not later than October 1 of the first full fiscal year that begins after the date of enactment of this Act, the Secretary shall establish minimum requirements for the certification of an eligible entity by a State or metropolitan planning organization that describes—</text>
+                        <clause id="idc90cf55117be4b39a39365a0e6370c6c">
+                            <enum>(i)</enum>
+ <text>the minimum standards for a complete streets policy that allows an eligible entity to receive a grant under subsection (g)(1); and</text>
+                        </clause>
+                        <clause id="idd0996a71018149df94c6af965b8e1c02">
+                            <enum>(ii)</enum>
+ <text>a method for a State or metropolitan planning organization to certify that the complete streets policy of an eligible entity meets the minimum requirements required by the Secretary under clause (i).</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id2b5296d2e8d94c29ac6ff66e1c2ff9ba">
+                        <enum>(B)</enum>
+                        <header>Lack of certification by State or MPO</header>
+ <text>If the State or metropolitan planning organization does not certify the complete streets policy of an eligible entity, the eligible entity—</text>
+                        <clause id="id5E071001C0914B65970939FA2E8F803E">
+                            <enum>(i)</enum>
+ <text>may not participate in the grant program under subsection (g)(1); but</text>
+                        </clause>
+                        <clause id="idC324D4356C4E466B802FAA5C58CE5422">
+                            <enum>(ii)</enum>
+ <text>may use the complete streets policy for local purposes.</text> </clause> </subparagraph> </paragraph> <paragraph id="id44959306d5784bf2b06f0c6ad2673ac4"> <enum>(3)</enum> <header>Report</header> <text>Not later than October 1 of the fourth fiscal year that begins after the date of enactment of this Act, the Secretary shall submit to Congress a report that describes—</text>
+                    <subparagraph id="idae9833b8807c4b338b325f6b6558f187">
+                        <enum>(A)</enum>
+ <text>the evaluation and certification method established under paragraph (1);</text>
+                    </subparagraph>
+                    <subparagraph id="idf01de32470f84381bcc3882ef4644e6a">
+                        <enum>(B)</enum>
+ <text>the status of activities for adopting and carrying out complete streets programs by States;</text>
+                    </subparagraph>
+                    <subparagraph id="idf53bd19c2c2d41ffb6283a5f708e218b">
+                        <enum>(C)</enum>
+ <text>the tools and resources provided by the Secretary to States to assist with adopting and carrying out complete streets programs by States; and</text>
+                    </subparagraph>
+                    <subparagraph id="id9e42c345261742c8a4c56b594257903d">
+                        <enum>(D)</enum>
+ <text>other measures carried out by the Secretary to encourage the adoption of complete streets policies by eligible entities.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id4347a4a00372451bb53b43217a98a464">
+                <enum>(f)</enum>
+                <header>Complete streets prioritization plan</header>
+                <paragraph id="idc93e4527b8f64b7e81c7855f39183628">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>To receive a grant under subsection (g)(1), an eligible entity shall develop, and the State of the eligible entity shall approve, a complete streets prioritization plan that consists of a comprehensive strategy and list of specific projects to design, and carry out the design of, complete streets—</text>
+                    <subparagraph id="id77A05C4FCFFC4078A4E6701BCF4CEE25">
+                        <enum>(A)</enum>
+ <text>to improve safety, mobility, or accessibility of a street;</text> </subparagraph> <subparagraph id="id83B3ED178A9E4BA78DBD5A17C438EE02"> <enum>(B)</enum> <text>that identifies—</text>
+                        <clause id="id9B95F5CC31D046F2AEE693C0F8F88090">
+                            <enum>(i)</enum>
+ <text>the streets and infrastructure to be affected by a project;</text> </clause> <clause id="idFF37DD53AECF4F4FAAC108F76F1D0824"> <enum>(ii)</enum> <text>a cost estimate of the project; and</text>
+                        </clause>
+                        <clause id="id0CAE41D4EBF74E9EADF2E83B416233D6">
+                            <enum>(iii)</enum>
+ <text>a timeline for the completion of the project;</text> </clause> </subparagraph> <subparagraph id="id75621ACE9ED64B80984564C8D57B338E"> <enum>(C)</enum> <text>that aligns with local infrastructure plans and roadway maintenance schedules; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd4a1c5f32bc9407cb3465b1f82ff3f24">
+                        <enum>(D)</enum>
+ <text>that includes a description of how complete streets priorities fit in with existing complete streets policies of the applicable State or metropolitan planning organization.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id5db3043039754a429e89f8955eab39a8">
+                    <enum>(2)</enum>
+                    <header>Requirements</header>
+ <text>In developing a complete streets prioritization plan, an eligible entity shall prioritize projects based on the extent to which projects intended to be included in the complete streets prioritization plan improve—</text>
+                    <subparagraph id="id2de1d5ce2a0944d39dd9d9d8be94fd36">
+                        <enum>(A)</enum>
+ <text>safety;</text> </subparagraph> <subparagraph id="id9a14980465c2473f85fe98451283e45f"> <enum>(B)</enum> <text>pedestrian mobility;</text>
+                    </subparagraph>
+                    <subparagraph id="id804e70cb255a40f691c2e2e31519074e">
+                        <enum>(C)</enum>
+ <text>bicycle mobility;</text> </subparagraph> <subparagraph id="idc143953f4d134816ba5b687ba6e898f3"> <enum>(D)</enum> <text>public transit operations and access;</text>
+                    </subparagraph>
+                    <subparagraph id="id5ceb74acfe70441289e638fe1d7a9fe1">
+                        <enum>(E)</enum>
+ <text>micromobility service operations and access, including shared bicycle and scooter services;</text>
+                    </subparagraph>
+                    <subparagraph id="idd06f8240231b4156b370b5276b70d6b8">
+                        <enum>(F)</enum>
+ <text>vehicular operations;</text> </subparagraph> <subparagraph id="idb0bfebf8f022414aabf0b35001c36a23"> <enum>(G)</enum> <text>freight operations;</text>
+                    </subparagraph>
+                    <subparagraph id="id2cc56d2c7a4c4ed4a07c31c9dcc173ec">
+                        <enum>(H)</enum>
+ <text>air quality;</text> </subparagraph> <subparagraph id="ide1593dea133544ca96f207c386d68c08"> <enum>(I)</enum> <text>connections and access to jobs and services for low-income people, communities of color, and people who rely on public transit; and</text>
+                    </subparagraph>
+                    <subparagraph id="ida1d3aa5cff3d4294a3a5b48a4f2d60c4">
+                        <enum>(J)</enum>
+ <text>any other factor the Secretary determines to be necessary.</text> </subparagraph> </paragraph> <paragraph id="idF834ED24207149A3848FFD754461C9D0"> <enum>(3)</enum> <header>Inclusion of projects from existing plans</header> <text>In developing a complete streets prioritization plan, an eligible entity may include a project included in an existing local infrastructure plan, including—</text>
+                    <subparagraph id="id1b9fa426be534b04a55a5010de25d815">
+                        <enum>(A)</enum>
+ <text>a pedestrian or bicyclist safety plan;</text> </subparagraph> <subparagraph id="id9cb87d8381754e4ab3c9a1a1cf22728e"> <enum>(B)</enum> <text>a complete streets plan in effect before the date of enactment of this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="id3c0836d37ce1455c92dfa901e3ca0f72">
+                        <enum>(C)</enum>
+ <text>a local roadway safety plan;</text> </subparagraph> <subparagraph id="idb49ee9fcd2444d92bb5e74519de2a96d"> <enum>(D)</enum> <text>a Vision Zero Action Plan;</text>
+                    </subparagraph>
+                    <subparagraph id="id34eee3014d594878b208dadbeec822fd">
+                        <enum>(E)</enum>
+ <text>a transition plan described in section 35.150(d) of title 28, Code of Federal Regulations (or successor regulations) (commonly known as an ‘ADA Transition Plan’);</text>
+                    </subparagraph>
+                    <subparagraph id="idaf89491c37074d979979e85733772557">
+                        <enum>(F)</enum>
+ <text>a Tribal transportation safety plan;</text> </subparagraph> <subparagraph id="id7f37df95360b4be38e778141d5aed96d"> <enum>(G)</enum> <text>a comprehensive safety action plan (as defined in section 24112(a) of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/23/402">23 U.S.C. 402</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/117/58">Public Law 117–58</external-xref>)); or</text>
+                    </subparagraph>
+                    <subparagraph id="id494cf9a7f5754f5b8e31dc17687ad8f4">
+                        <enum>(H)</enum>
+ <text>any other safety plan, as determined by the Secretary.</text> </subparagraph> </paragraph> <paragraph id="idb81c04d3f1564bd4a9ee83512c2452cf"> <enum>(4)</enum> <header>Approval</header> <text>A State or metropolitan planning organization shall approve of a complete streets prioritization plan if the State or metropolitan planning organization determines that the complete streets prioritization plan—</text>
+                    <subparagraph id="idc50625288e3044e6a963014dff2e9aa4">
+                        <enum>(A)</enum>
+ <text>meets the requirements of this section; and</text> </subparagraph> <subparagraph id="idd8dd696004a24d1eb022a6c9fac9fbfb"> <enum>(B)</enum> <text>meets the goals described in subsection (b)(3).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id210e5c3aaea0413b85a2045ab71f9875">
+                    <enum>(5)</enum>
+                    <header>Technical assistance funding</header>
+ <text>A State may provide not more than $100,000 in each fiscal year to an eligible entity with a complete streets policy approved by the applicable State or metropolitan planning organization to conduct studies or analyses to support the completion of a complete streets prioritization plan.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id39df7d8a631141a794b3f7b019700ece">
+                <enum>(g)</enum>
+                <header>Grants for complete streets infrastructure</header>
+                <paragraph id="idf9b18300faf743a097a5afee626937d3">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>A State may provide a grant for the design and construction of 1 or more projects included in the complete streets prioritization plan of an eligible entity.</text>
+                </paragraph>
+                <paragraph id="id833629d52b954694b751bee2a0eb57e1">
+                    <enum>(2)</enum>
+                    <header>Limitation</header>
+ <text>A grant provided to an eligible entity under paragraph (1) may be in an amount equal to the lesser of—</text>
+                    <subparagraph id="id1787C35C5378455F86EE33A4607772CB">
+                        <enum>(A)</enum>
+ <text>$20,000,000; and</text> </subparagraph> <subparagraph id="idA97C554A1CA94E8AB9D4D8F5736ADE00"> <enum>(B)</enum> <text>20 percent of the total amount of funding for the complete streets program of the State for the fiscal year.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2c14a34dcdd74d01956963d8aee8e6a6">
+                <enum>(h)</enum>
+                <header>Priority</header>
+ <text>In selecting projects to receive grants under this section, the State shall give priority to projects on intersections and corridors in which nonmotorized users are most vulnerable, based on the most recent data and the evidence of risk.</text>
+            </subsection>
+            <subsection commented="no" id="id783ee53725c2462dac4df06fa7a9d46c">
+                <enum>(i)</enum>
+                <header>Accessibility standards</header>
+ <text>The Secretary and the Attorney General shall update regulations of the Department of Transportation and the Department of Justice, respectively—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd5c014201476439ea6aba0d8b7f66920">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">to adopt as accessibility standards the accessibility guidelines for pedestrian facilities in the public right-of-way described in the final rule of the Architectural and Transportation Barriers Compliance Board entitled <quote>Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way</quote> (88 Fed. Reg. 53604 (August 8, 2023)); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id066e750c7f7544a4a289171f81edacb1">
+                    <enum>(2)</enum>
+ <text>to include in those accessibility standards provisions for vision, hearing, cognitive ability, and language access.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idb5448ac881a94a7caf251bd8dd8f3888">
+                <enum>(j)</enum>
+                <header>Funding</header>
+ <text>For each fiscal year, each State shall obligate to carry out the complete streets program of the State—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id1016de8d1e1f40dc9875a85ec9e23a5c">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">5 percent of the funds apportioned to the State under section 104(b) of title 23, United States Code, in the case of a State described in subparagraph (A) or (B) of subsection (a)(9); or</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id28891056fb574fefadb14b18977876b0">
+                    <enum>(2)</enum>
+ <text>5 percent of the funds apportioned to the State under section 165 of title 23, United States Code, in the case of a State described in subparagraph (C) through (G) of subsection (a)(9).</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="id1266203e3e1d47faadee0688b543a91a">
+            <enum>3.</enum>
+            <header>Safety for users</header>
+ <text display-inline="no-display-inline">Section 1442 of the FAST Act (<external-xref legal-doc="usc" parsable-cite="usc/23/109">23 U.S.C. 109</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/114/94">Public Law 114–94</external-xref>) is amended by striking subsection (a) and inserting the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id17e1cf9c78ec474ebcadf92e0bef360c">
+                <subsection commented="no" id="id4efa487664dc46f5afa9960fc836c97c">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Secretary shall require each State and metropolitan planning organization to adopt and implement standards for the design of Federal surface transportation projects that provide for the safe and adequate accommodation of all users of the surface transportation network, including motorized and nonmotorized users, in all phases of project planning, development, and operation.</text>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section id="ide196a4a686354a6fb7ae660fc73d3628">
+            <enum>4.</enum>
+            <header>Complete Streets design standards</header>
+ <text display-inline="no-display-inline">Section 109 of title 23, United States Code, is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idAC1B79AF1E684800B3B4E18722C5478A">
+                <subsection commented="no" display-inline="no-display-inline" id="idcda9b19f24d84525abbc8b1667c947c3">
+                    <enum>(t)</enum>
+                    <header>Complete Streets design standards</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idb580f63846a84eff9f7d009ef4415390">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of the <short-title>Complete Streets Act of 2025</short-title>, the Secretary shall establish complete streets design standards that include—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="iddf07984036e8451d989758818d8fbd09">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">dedicated, protected bike lanes with advancing levels of protective design, consistent with the traffic speed, volume, and number of lanes of the road;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idbac44bf14fe24c46ab85a8932d35e747">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">requirements for sidewalks and crosswalks consistent with public right-of-way accessibility guidelines; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ide795bb217fb54e41be954d6a6877265b">
+                            <enum>(C)</enum>
+ <text>guidelines for lighting and signalization to promote safety.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcef8d5f1ae984721b76ae3002a8ac1e2">
+                        <enum>(2)</enum>
+                        <header>Initial requirement</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id33e314c0c1484156aff1ecbdef96effd">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">Beginning on the date that is 2 years after the date of enactment of the <short-title>Complete Streets Act of 2025</short-title>, any project described in subparagraph (B) shall comply with the complete streets design standards established under paragraph (1).</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idba636177d7ea440faca75f812b0ac3cf">
+                            <enum>(B)</enum>
+                            <header>Projects described</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (4), a project referred to in subparagraph (A) is a new project—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="idfbd681035c854e129747464e719ca40a">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">on a Federal-aid highway that—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id851435b47bf74cd582281d66f49dd2dd">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">is within the boundaries of a metropolitan planning area; and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id7d6043014ff84874a85ecc75b5ae403e">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">has scheduled, fixed-route transit service;</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id57ecbdbae87946e397e37ac9b4b57019">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">that uses funds apportioned to a State under section 104(b); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id4d43c2842de141b999c9e0fa68ef93db">
+                                <enum>(iii)</enum>
+                                <subclause commented="no" display-inline="yes-display-inline" id="idd56f4f25015a4cf4b0e9ea414709139b">
+                                    <enum>(I)</enum>
+ <text>for new construction or reconstruction; or</text> </subclause> <subclause commented="no" display-inline="no-display-inline" indent="up1" id="id6b2c8e40d2c149878647922b00d3b682"> <enum>(II)</enum> <text>with a total cost of more than $10,000,000.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idfeb5b2f144eb4c459a868fd482a6f7b6">
+                        <enum>(3)</enum>
+                        <header>Subsequent requirement</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id212e733bf3014f60bb555c87bd4a6d2c">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">Beginning on the date described in subparagraph (B), any project described in subparagraph (C) shall comply with the complete streets design standards established under paragraph (1).</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id0b39dcd535224b9a9b7d534e8d3153b1">
+                            <enum>(B)</enum>
+                            <header>Date described</header>
+ <text>The date referred to in subparagraph (A) is, for each State, the earlier of—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id0c82e283a5a944c2ba913e6aab1d6a76">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">5 years after the date of enactment of the <short-title>Complete Streets Act of 2025</short-title>; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idfacc70e3984f418c9e3d1051e6ac43b7">
+                                <enum>(ii)</enum>
+ <text>the first statewide transportation improvement program for the State that begins after the deadline described in paragraph (2)(A).</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ideeaa1b91bbc4459bbe3398d62f074985">
+                            <enum>(C)</enum>
+                            <header display-inline="yes-display-inline">Projects described</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (4), a project referred to in subparagraph (A) is a new project—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id40D6DFBA7D2147B29D2A20FB44F9F73C">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">on a Federal-aid highway that is within the boundaries of a metropolitan planning area;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idF543CF899D414B9287121C7C7203F690">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">that uses funds apportioned to a State under section 104(b); and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id1B3ACEE78B7E462AA99DA59CE07D94C0">
+                                <enum>(iii)</enum>
+                                <subclause commented="no" display-inline="yes-display-inline" id="id14B1C46730694232881778F055B34C91">
+                                    <enum>(I)</enum>
+ <text>for new construction or reconstruction; or</text> </subclause> <subclause commented="no" display-inline="no-display-inline" indent="up1" id="id970BA4A756594D88B42894C4D9A1C89D"> <enum>(II)</enum> <text>with a total cost of more than $10,000,000.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="iddd5187cd5f44410591a27097662d3713">
+                        <enum>(4)</enum>
+                        <header>Exemptions</header>
+ <text display-inline="yes-display-inline">A project described in paragraph (2)(B) or paragraph (3)(C) shall not include—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id38e882f1bd8545969c9414503091388c">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a limited access highway;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idf5b59d62471e442f9fea6f3f7fab3c28">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any portion of a signalized arterial roadway adjacent to land that is zoned for heavy industrial purposes, unless that portion of the roadway has scheduled, fixed-route transit service;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id7c3e2599d1774e268eaba4238724ba2f">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">a facility that has a documented absence of current and future need;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id3052358ccf054cc7815e6a2672941f7c">
+                            <enum>(D)</enum>
+ <text display-inline="yes-display-inline">a facility for which a project that complies with the complete streets design standards established under paragraph (1) is already underway; or</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ideb11a2467d034eabb2a506ead48d97a6">
+                            <enum>(E)</enum>
+ <text display-inline="yes-display-inline">a project for emergency repairs, except that temporary accommodations for all modes shall be made, to the extent practicable.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id326aa16337eb4bf39542ca072d183b6a">
+                        <enum>(5)</enum>
+                        <header>Appeals</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="iddb63a5fa96d34200bdb8d52d1ee3bc0e">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">If a State denies a proposal by a metropolitan planning organization to carry out a project to comply with the complete streets design standards under paragraph (1), the metropolitan planning organization may submit to the applicable regional office of the Federal Highway Administration an appeal.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id06c2ff4853964fb59ab035249f0f5ced">
+                            <enum>(B)</enum>
+                            <header>Secondary review</header>
+ <text display-inline="yes-display-inline">The metropolitan planning organization may submit to the headquarters office of the Federal Highway Administration a request to review the determination of the regional office of the Federal Highway Administration under subparagraph (A).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ida12bedd1a3134d7f88ad0878123a0551">
+                        <enum>(6)</enum>
+                        <header>Reporting</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id808708bde8454956aa42897ef2f824b6">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>Not later than 2 years after the date of enactment of the <short-title>Complete Streets Act of 2025</short-title> and every 2 years thereafter, each State shall submit to the Secretary and make publicly available an inventory of the highway system of the State that shows which portions have ongoing and completed projects that comply with the complete streets design standards under paragraph (1).</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id331369a453ae4ae7812bfab9bb388b4d">
+                            <enum>(B)</enum>
+                            <header>Cost</header>
+ <text display-inline="yes-display-inline">The Secretary shall make publicly available, and update as appropriate, a chart that shows the costs of complete streets design elements in different contexts and for different functional classifications.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

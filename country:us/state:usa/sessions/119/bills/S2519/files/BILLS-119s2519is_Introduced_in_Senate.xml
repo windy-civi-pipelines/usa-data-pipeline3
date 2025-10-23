@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25889-465-WG-6RR">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2519 IS: Medical Debt Relief Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2519</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250729">July 29, 2025</action-date>
+            <action-desc><sponsor name-id="S322">Mr. Merkley</sponsor> (for himself, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S418">Mr.
+                    Fetterman</cosponsor>, <cosponsor name-id="S422">Mr. Welch</cosponsor>,
+                    <cosponsor name-id="S415">Mr. Warnock</cosponsor>, and <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>) introduced the following bill; which was read
+                twice and referred to the <committee-name committee-id="SSBK00">Committee on
+                    Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Fair Credit Reporting Act to prohibit the inclusion of medical
+            debt on a consumer report, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H59BD249579EC4AE1A978546BDA9D113D">
+        <section section-type="section-one" id="HF641D89E47B4467DB0BC91ADB13E84AB">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medical Debt Relief Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H047DA2D426AC4E689B66313B6AED1FB6">
+            <enum>2.</enum>
+            <header>Amendments to Fair Credit Reporting Act</header>
+            <subsection id="H56655E2C2EA642C49D97C19C800142EF">
+                <enum>(a)</enum>
+                <header>Medical debt defined</header>
+ <text>Section 603 of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681a">15 U.S.C. 1681a</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H87ED813BA74D480BA2762B3E55CDFE5A">
+                    <subsection id="H7F59E44A4D0847F9A29743A0E697F49F">
+                        <enum>(bb)</enum>
+                        <header>Medical debt</header>
+ <text display-inline="yes-display-inline">The term <term>medical debt</term> means a debt related to, in whole or in part, transactions, accounts, or balances arising from the receipt of medical services, products, or devices.</text>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H78D4DF0844794992BE74790CDE5E7747">
+                <enum>(b)</enum>
+                <header>Exclusion for medical debt</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5a4d4bfd77fd4d01989e2b1c6d27d356">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Section 605(a) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681c">15 U.S.C. 1681c(a)</external-xref>) is amended by striking paragraph (6) and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H0CEE2026238D49F2BAF9C953A1B5F9DD">
+                        <paragraph id="H3EB916F09AD249078560B6392FD08C26" indent="up1">
+                            <enum>(6)</enum>
+ <text display-inline="yes-display-inline">Any adverse information related to a medical debt, including a medical debt that was placed for collection, charged to profit or loss, or subjected to any similar action.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide22baf6293364cf99c13f7f678fe1fce">
+                    <enum>(2)</enum>
+                    <header>Technical and conforming amendments</header>
+ <text>Section 604(g) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681b">15 U.S.C. 1681b(g)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id48964ecf7b5a48f1b8dedabded342914">
+                        <enum>(A)</enum>
+ <text>in paragraph (1)—</text> <clause commented="no" display-inline="no-display-inline" id="id4750d7e167e84fea9a9c0743be0e0639"> <enum>(i)</enum> <text display-inline="yes-display-inline">in the matter preceding subparagraph (A), by striking <quote>(other than medical contact information treated in the manner required under section 605(a)(6))</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id3f8eee7b6198432d9899518ba729aa23">
+                            <enum>(ii)</enum>
+ <text>in subparagraph (A), by adding <quote>or</quote> at the end;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id8c1fb657f8294f31b326b4e61b8f6797">
+                            <enum>(iii)</enum>
+ <text>in subparagraph (B)(ii), by striking <quote>; or</quote> and inserting a period; and</text>
+                        </clause>
+                        <clause id="id41ca3172347d4668ad9a96041208e160">
+                            <enum>(iv)</enum>
+ <text>by striking subparagraph (C); and</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id8ad9296038c947e8b251a8779ecf7f79"> <enum>(B)</enum> <text>in paragraph (2), by striking <quote>(other than medical information treated in the manner required under section 605(a)(6))</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="HA4859966C20D4052AAD1B7C8CA7E91AF">
+            <enum>3.</enum>
+            <header>Modification of regulations relating to prohibitions on use of medical debt
+                information</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idda65012ff7bb4c81a81e161404bc656e">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this section, the terms <term>credit</term> and <term>creditor</term> have the meanings given those terms in section 702 of the Equal Credit Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1691a">15 U.S.C. 1691a</external-xref>).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2a219e918f2647a7a12378d3bb018dd2">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Requirement</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Director of the Bureau of Consumer Financial Protection shall amend section 1022.30 of title 12, Code of Federal Regulations, or any successor regulation, to ensure that creditors are prohibited from obtaining or using information relating to the medical debt of a consumer in determining whether or not to extend credit to that consumer.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

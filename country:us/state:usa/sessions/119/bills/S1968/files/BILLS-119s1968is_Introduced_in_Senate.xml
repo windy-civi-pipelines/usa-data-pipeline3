@@ -1,0 +1,2108 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-CAN25595-WF9-V6-KX9">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1968 IS: Working Waterfronts Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1968</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250605">June 5, 2025</action-date>
+            <action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> (for herself, <cosponsor name-id="S252">Ms. Collins</cosponsor>, and <cosponsor name-id="S363">Mr.
+                    King</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To support rural coastal and maritime economic development, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idd63ccf770dbd4ebbac28549a944fcff8">
+                <enum>(a)</enum>
+                <header>Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Working Waterfronts Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6df7a53cbb954dc6802a411476242dfc">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="title" idref="id14f9c77d012342b6a7febff4697c1ad3">TITLE I—Coastal energy</toc-entry> <toc-entry level="section" idref="idC46E0B72005E4D1DA91BAA39B1BA6859">Sec. 101. Credit for maintaining and enhancing hydroelectric facilities.</toc-entry> <toc-entry level="section" idref="iddcc34e2cef344d7888feba24c98f8501">Sec. 102. Transition to alternative fuel commercial fishing vessels.</toc-entry> <toc-entry level="title" idref="id42f36c4bf9ea42ae9f23e6ea34a13870">TITLE II—Fisheries and seafood</toc-entry> <toc-entry level="section" idref="idea4894f4958a43ef973c13bd267a46ec">Sec. 201. Department of Agriculture loans and grants for fishing and mariculture businesses.</toc-entry> <toc-entry level="section" idref="id77ed42fe86c74a1980140c965b5b0940">Sec. 202. Extension of credit to businesses providing services to producers or harvesters of aquatic products.</toc-entry> <toc-entry level="section" idref="id72E2018CE07849E7925468F3528284C8">Sec. 203. Shellfish mariculture under the national harmful algal bloom and hypoxia program.</toc-entry> <toc-entry level="section" idref="ide709fe1444c24fd486ab6554f300fda5">Sec. 204. Allocation of funds under Saltonstall-Kennedy Act.</toc-entry> <toc-entry level="section" idref="id73342719187745b58f6343eb25ed38ac">Sec. 205. Electronic Monitoring Innovation Prize.</toc-entry> <toc-entry level="title" idref="id505cb99a926e482d88dcb9cfdb7e9772">TITLE III—Shoreside Infrastructure</toc-entry> <toc-entry level="subtitle" idref="idd3ecbabeb77b42f795a56a58c3252685">Subtitle A—Rural coastal community processing grants</toc-entry> <toc-entry level="section" idref="id9461e24f248847b9886df1a296f281d9">Sec. 301. Definitions.</toc-entry> <toc-entry level="section" idref="idf5e86841435f478397ce69870bb30144">Sec. 302. Action plan and identification of coastal communities.</toc-entry> <toc-entry level="section" idref="id78b0f995a88440fea9f67e4ef95ff9ce">Sec. 303. Grants and cooperative agreements to support rural seafood processing and cold storage.</toc-entry> <toc-entry level="section" idref="id929d217794ff462486aacb5742f9aae3">Sec. 304. Authorization of appropriations.</toc-entry> <toc-entry level="subtitle" idref="id2f4f775d6c02470aac7ad4b4a6a4a129">Subtitle B—Working waterfronts preservation</toc-entry> <toc-entry level="section" idref="id77432e013a0b4229aef227b574815725">Sec. 311. Working waterfront access protection grant program.</toc-entry> <toc-entry level="title" idref="id99980ff285cc4920b8c30518fc717c06">TITLE IV—Workforce Development</toc-entry> <toc-entry level="section" idref="id48cbdc8d08bd469587517afd9506d85c">Sec. 401. Maritime workforce grant program.</toc-entry> <toc-entry level="section" idref="idc3f1f91ad77140588b5015c7ff24772f">Sec. 402. Safety standards for certain fishing vessels.</toc-entry> <toc-entry level="title" idref="id2d14510d45644fc693f3333e5667ef3a">TITLE V—Miscellaneous</toc-entry> <toc-entry level="subtitle" idref="id68feba61bec2475aaa7b421adb774c54">Subtitle A—Ocean innovation</toc-entry> <toc-entry level="section" idref="idc7c32f680fdc45708778429840ce3ea0">Sec. 501. Definitions.</toc-entry> <toc-entry level="section" idref="id45278eaf0fa44c20a00b10f13350e194">Sec. 502. Ocean Innovation Clusters.</toc-entry> <toc-entry level="section" idref="idd9f1e38e2c8a41f3822e3d16518b3439">Sec. 503. Grants for Ocean Innovation Clusters.</toc-entry> <toc-entry level="subtitle" idref="id0f054922f0cd4f4d99f61cc5b7c5b21b">Subtitle B—Vegetated coastal ecosystems and Great Lakes ecosystems</toc-entry> <toc-entry level="section" idref="id4DE0080F2C514AADBACED8FAF39E4F9B">Sec. 511. Definitions.</toc-entry> <toc-entry level="section" idref="H66C35CECB3074A378C28E029EDE498FD">Sec. 512. Interagency Working Group on Vegetated Coastal Ecosystems and Great Lakes ecosystems.</toc-entry> <toc-entry level="section" idref="HA64F2B5EAFEF4BD1872D5990A603DE65">Sec. 513. National-level map and inventory of vegetated coastal ecosystems and Great Lakes ecosystems.</toc-entry> <toc-entry level="section" idref="iddfdbe1d18935431eaae07836a3048af5">Sec. 514. Grants for pilot projects and research on coastal natural infrastructure in cold climates.</toc-entry> <toc-entry level="subtitle" idref="idc21e31be286e41fe8986fd2a3d55c0a8">Subtitle C—Ocean acidification</toc-entry> <toc-entry level="section" idref="id1e0581d1222f459abf118fc20b709f72">Sec. 521. Definitions in Federal Ocean Acidification Research And Monitoring Act of 2009.</toc-entry> <toc-entry level="section" idref="idbe06af9d3ace4cb9aaf287b1f64d3da8">Sec. 522. Improvement of collaboration on ocean acidification.</toc-entry> <toc-entry level="section" idref="id700466F2319D49E0ADFBDF6DE6D975CF">Sec. 523. Technical corrections.</toc-entry> <toc-entry level="subtitle" idref="id705ebeb16afc4b668cd7f4be096071de">Subtitle D—Other matters</toc-entry> <toc-entry level="section" idref="ide6f057faca8e49f0a0f277d6cae47b12">Sec. 531. Transfer of, and amendments to, the Coastal Aquatic Invasive Species Mitigation Grant Program and mitigation fund.</toc-entry> </toc> </subsection> </section> <title id="id14f9c77d012342b6a7febff4697c1ad3" style="OLC"> <enum>I</enum> <header>Coastal energy</header> <section id="idC46E0B72005E4D1DA91BAA39B1BA6859"> <enum>101.</enum> <header>Credit for maintaining and enhancing hydroelectric facilities</header> <subsection id="id9264DE24F36D41FDA8659E5A0DF92597"> <enum>(a)</enum> <header>In general</header> <text>Subpart E of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after section 48E the following new section:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idB8638764ED3941728E3270DF61BCA290">
+                        <section id="id56028A1134B047EC94FFE0CD92F3120C">
+                            <enum>48F.</enum>
+                            <header>Credit for maintaining and enhancing hydroelectric
+                                facilities</header>
+                            <subsection id="id70375F4D7E43487D9E7305FC16EA26BB">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>For purposes of section 46, the credit for maintaining and enhancing hydroelectric facilities for any taxable year is an amount equal to 30 percent of the basis of any hydropower improvement property placed in service during such taxable year.</text>
+                            </subsection>
+                            <subsection id="id924A0AC45ABE436F9C2ECC39A7494800">
+                                <enum>(b)</enum>
+                                <header>Certain progress expenditure rules made applicable</header>
+ <text>Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).</text>
+                            </subsection>
+                            <subsection id="id7565FCE3CD4D40E4804BD0CD167B2F15">
+                                <enum>(c)</enum>
+                                <header>Hydropower improvement property</header>
+ <text>In this section, the term <term>hydropower improvement property</term> means property which—</text>
+                                <paragraph id="idA25396C571654F85B2079099090F7F57">
+                                    <enum>(1)</enum>
+ <text>adds or improves fish passage at a qualified dam,</text> </paragraph> <paragraph id="id1104511302884A1B92B97E6B0BCFADE2"> <enum>(2)</enum> <text>maintains or improves the quality of the water retained or released by a qualified dam,</text>
+                                </paragraph>
+                                <paragraph id="idCEC8678B99CC41F5A2856D70527EFF71">
+                                    <enum>(3)</enum>
+ <text>promotes downstream sediment transport processes and habitat maintenance with respect to a qualified dam,</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id2fd8635dfc934b2a9e644b45d782f31a">
+                                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">is part of a marine energy technology project or a marine energy project, or</text>
+                                </paragraph>
+                                <paragraph id="id4F99EA56231043F1BE40A103424F8564">
+                                    <enum>(5)</enum>
+ <text>places into service an approved remote dam.</text> </paragraph> </subsection> <subsection id="id5189BDF2F9D44E3C9D82BFA5A671FE13"> <enum>(d)</enum> <header>Other definitions</header> <text>In this section—</text>
+                                <paragraph id="id735B3604E2C941E0BFC1A12E9A596BD7">
+                                    <enum>(1)</enum>
+                                    <header>Approved remote dam</header>
+ <text>The term <term>approved remote dam</term> means—</text> <subparagraph id="id9E818E288D9B47DEA14A28A2E210C727"> <enum>(A)</enum> <text>a hydroelectric dam which—</text>
+                                        <clause id="id27796ADEFB154F408F61EBE39140828C">
+                                            <enum>(i)</enum>
+ <text>exclusively services communities not interconnected to the Electric Reliability Council of Texas, the Eastern Interconnection, or the Western Interconnection,</text>
+                                        </clause>
+                                        <clause id="id7CD0C1DA49314445A80A46A7E7DD4115">
+                                            <enum>(ii)</enum>
+ <text>does not contribute to atmosphere pollution, and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id6657af896dae42c59872dd0afa5196e6">
+                                            <enum>(iii)</enum>
+ <text>has a maximum net output of not greater than 40 megawatts, and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="id88186EEBBD084BFCAE8B40F215FBB5BA">
+                                        <enum>(B)</enum>
+ <text>any interconnection property associated with a dam described in subparagraph (A).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id3952D944A2AD48FE81F5A0190C137224">
+                                    <enum>(2)</enum>
+                                    <header>Commission</header>
+ <text>The term <term>Commission</term> means the Federal Energy Regulatory Commission.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id4d3269d604964ecaa4b940e395255de5">
+                                    <enum>(3)</enum>
+                                    <header display-inline="yes-display-inline">Fish
+                                        passage</header>
+ <text>The term <term>fish passage</term> means, with respect to any qualified dam, any new or upgraded turbine, fishway, or other fish passage technology which improves fish migration and survival rates.</text>
+                                </paragraph>
+                                <paragraph id="idD9E938E6196441DFAFF55D97ABA75283">
+                                    <enum>(4)</enum>
+                                    <header>Interconnection property</header>
+ <text>The term <term>interconnection property</term> means any tangible property—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="ida4f50c37f0c04dc0aaa3f583e64f8261">
+                                        <enum>(A)</enum>
+                                        <clause commented="no" display-inline="yes-display-inline" id="ide4bfa54dd29441b3a95aa9a6455c854f">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">with respect to any dam described in paragraph (1)(A), to enable the delivery of electricity from such dam to any customer, or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" indent="up1" id="id90b4fd75acd64bba92557539cc730fff">
+                                            <enum>(ii)</enum>
+ <text>with respect to any project described paragraph (5)(A) or (6)(A), to enable the delivery of electricity from such project to any customer, and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id16a0bbd1aa334ee7bee32a05d7abfbb9">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">which satisfies the requirements under clauses (ii) and (iii) of section 48(a)(8)(B).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id46930545b20b4b9eb2d1ef772af38b97">
+                                    <enum>(5)</enum>
+                                    <header display-inline="yes-display-inline">Marine energy
+                                        project</header>
+ <text>The term <term>marine energy project</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idb062c1dc268444ebb51a6c0e1c0d34ed"> <enum>(A)</enum> <text display-inline="yes-display-inline">a project which produces electricity from—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id69d846b87d5f481fbda1444a0158c372">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">waves, tides, and currents in oceans, estuaries, and tidal areas,</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id7aa361642b3c4da985e488877fe5c11d">
+                                            <enum>(ii)</enum>
+ <text>free flowing water in rivers, lakes, streams, and man-made channels,</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id118b01edf2be4a5c87aa32ea2ebc1c35">
+                                            <enum>(iii)</enum>
+ <text>differentials in salinity and pressure gradients, or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id49e5fa571c674dd9806170702a2dc7e6">
+                                            <enum>(iv)</enum>
+ <text>differentials in water temperature, including ocean thermal energy conversion, and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id0e681bfd6d8243d3b3c7b542c4e6882d">
+                                        <enum>(B)</enum>
+ <text>any interconnection property associated with a project described in subparagraph (A).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="ideb45012d26bf44c48449665417aad9ac">
+                                    <enum>(6)</enum>
+                                    <header display-inline="yes-display-inline">Marine energy
+                                        technology project</header>
+ <text>The term <term>marine energy technology project</term> means—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id75fe5570a0c344c6a0affe2e44708cc5">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a project which the Commission determines—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id77ba5b4100ec4b7293cc5d878f00c0a3">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">will produce electricity from a generator that converts the potential energy of flowing water,</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id6148f2ab714742208ddc09a92004fc38">
+                                            <enum>(ii)</enum>
+ <text>will utilize a generating technology that is not in widespread, utility scale use in the United States as of the date of enactment of this section,</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id8c5148559aa945fab31e25683db14a0b">
+                                            <enum>(iii)</enum>
+ <text>will not be, based on information available to the Commission, likely to jeopardize the continued existence of any species listed as a threatened species or an endangered species under the Endangered Species Act of 1973, and</text>
+                                        </clause>
+                                        <clause id="id0838f35d9d3b42e5806c6d37b7a9a175">
+                                            <enum>(iv)</enum>
+ <text>will not be, based on information available to the Commission, likely to result in the destruction or adverse modification of an area designated as critical habitat for any species listed as a threatened species or an endangered species under such Act, and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6cf727d9195c42f980e91c324bc9890f">
+                                        <enum>(B)</enum>
+ <text>any interconnection property associated with a project described in subparagraph (A).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idC27FC74B70294790AC8FFBDB0DE5D68A">
+                                    <enum>(7)</enum>
+                                    <header>Qualified dam</header>
+ <text>The term <term>qualified dam</term> means a hydroelectric dam that is licensed by the Commission or legally operating without such a license before the date of enactment of this section.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id65987969445c40a68538e61a7b356bef">
+                    <enum>(b)</enum>
+                    <header display-inline="yes-display-inline">Elective payment and transfer of
+                        credit</header>
+                    <paragraph id="id9E479ED78D874BB6BA4FE2A48474513D">
+                        <enum>(1)</enum>
+                        <header>Elective payment</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6417">Section 6417</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph id="idB7CDFE2D3367481CBEE79E83457E0AAE"> <enum>(A)</enum> <text>in subsection (b), by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id74277599BC474EF6975870DBE79B24C7">
+                                <paragraph id="id821DE4CC43A0408D83A783CAD13D4124">
+                                    <enum>(13)</enum>
+ <text>The credit for maintaining and enhancing hydroelectric facilities under section 48F.</text>
+                                </paragraph>
+                                <after-quoted-block>, and</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                        <subparagraph id="id51CF3DFBADBD40F1AD36ED31D0676B51">
+                            <enum>(B)</enum>
+ <text>in subsection (d)(1)—</text> <clause id="id0F103BA1C96A4ED898A4F7C6C3C3384B"> <enum>(i)</enum> <text>in subparagraph (E), by striking <quote>(C), or (D)</quote> each place it appears and inserting <quote>(C), (D), or (E)</quote>,</text>
+                            </clause>
+                            <clause id="id8FD548C41889440E82F13F2112137925">
+                                <enum>(ii)</enum>
+ <text>by redesignating subparagraph (E) (as amended by clause (i)) as subparagraph (F), and</text>
+                            </clause>
+                            <clause id="idE53EADB1320D42FFB8E11023D045571F">
+                                <enum>(iii)</enum>
+ <text>by inserting after subparagraph (D) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idD4A23B84537A47BF8C72548D5454505F"> <subparagraph id="idEADA52E176014F30AFBC5A4A114D38A8"> <enum>(E)</enum> <header>Election with respect to credit for maintaining and enhancing hydroelectric facilities</header> <text>If a taxpayer other than an entity described in subparagraph (A) makes an election under this subparagraph with respect to any taxable year in which such taxpayer has, after December 31, 2022, placed in service hydropower improvement property (as defined in section 48F(c)), such taxpayer shall be treated as an applicable entity for purposes of this section for such taxable year, but only with respect to the credit described in subsection (b)(13).</text>
+                                    </subparagraph>
+                                    <after-quoted-block>.</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idFE261E069E4447A886ED93F097814079">
+                        <enum>(2)</enum>
+                        <header>Transfer</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6418">Section 6418(f)(1)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idDFC4A6CC20DB473F8D8B03AEF8461F92">
+                            <clause id="id1B620413AF4E43AE9811D3C7D11DD9CC">
+                                <enum>(xii)</enum>
+ <text>The credit for maintaining and enhancing hydroelectric facilities under section 48F.</text>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection id="id2B0BDB0FE8B44063B030F713853C5879">
+                    <enum>(c)</enum>
+                    <header>Conforming amendments</header>
+                    <paragraph id="idD3A6CD339F0545FC81D7F1DC706AC6EB">
+                        <enum>(1)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/46">Section 46</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph id="id3AE9A86639B84CC5A13A9245EFB2DAC7"> <enum>(A)</enum> <text>in paragraph (6), by striking <quote>and</quote> at the end,</text>
+                        </subparagraph>
+                        <subparagraph id="id00A46476D8394E34BA44EC76CD6D8173">
+                            <enum>(B)</enum>
+ <text>in paragraph (7), by striking the period at the end and inserting <quote>, and</quote>, and</text>
+                        </subparagraph>
+                        <subparagraph id="idA3A172EA680A431C80ED15200E142B4A">
+                            <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id8C6543807D9B4AF5804A42CDC316BD9F"> <paragraph id="idAC1B9929FF5248428126A71ADD04CA05"> <enum>(8)</enum> <text>the credit for maintaining and enhancing hydroelectric facilities.</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idD1E14F651F5548B5B8BBFBE60882B110">
+                        <enum>(2)</enum>
+ <text>Section 49(a)(1)(C) of such Code is amended—</text> <subparagraph id="id217D190434EF44519682E7BE11F33E38"> <enum>(A)</enum> <text>in clause (vii), by striking <quote>and</quote> at the end,</text>
+                        </subparagraph>
+                        <subparagraph id="id0752AB344B044FDB8A013DFFB76D39BA">
+                            <enum>(B)</enum>
+ <text>in clause (viii), by striking the period at the end and inserting <quote>, and</quote>, and</text>
+                        </subparagraph>
+                        <subparagraph id="id146482764A66422FA1E17AA4FBCA78F3">
+                            <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id5FF8931F60654D74BC2664C4E676CD3B"> <clause id="idDD63A712FCC145E79462F4EA13BBCF1E"> <enum>(ix)</enum> <text>the basis of any hydropower improvement property under section 48F.</text>
+                                </clause>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id4017989B8CDE4298ACA2D056E09388A8">
+                        <enum>(3)</enum>
+ <text>Section 50 of such Code is amended—</text> <subparagraph id="id1F3B2D6242D84E8B89D7EF1AF073006C"> <enum>(A)</enum> <text>in subsection (a)(2)(E), as amended by section 13702(b) of <external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref>, by striking <quote>or 48E(e)</quote> and inserting <quote>48E(e), or 48F(b)</quote>, and</text>
+                        </subparagraph>
+                        <subparagraph id="id7D49360EEA524F6C88B20FCA9440E388">
+                            <enum>(B)</enum>
+ <text>in subsection (d)(2)—</text> <clause id="idA4A21078C30747E9BA09E035D77AD42C"> <enum>(i)</enum> <text>in the matter preceding subparagraph (A), by inserting <quote>or any hydropower improvement property (as defined in section 48F(c))</quote> after <quote>any energy storage technology (as defined in section 48(c)(6))</quote>, and</text>
+                            </clause>
+                            <clause id="id9D9D2908F2554DA7B5175E441FBB47B1">
+                                <enum>(ii)</enum>
+ <text>in subparagraph (B), by striking <quote>energy storage technology</quote> each place it appears and inserting <quote>energy storage technology or hydropower improvement property</quote>.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="id1130905A7C434E37BB7C85936468EADC">
+                        <enum>(4)</enum>
+ <text>The table of sections for subpart E of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 48E the following new item:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idE8B66B6388A540668AF45EAA65DC173E">
+                            <toc>
+                                <toc-entry bold="off" level="section">Sec. 48F. Credit for
+                                    maintaining and enhancing hydroelectric facilities.</toc-entry>
+                            </toc>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id753CB67023C046718C4431100690EB8D">
+                    <enum>(d)</enum>
+                    <header>Effective date</header>
+ <text>The amendments made by this section shall apply to property placed in service after December 31, 2022.</text>
+                </subsection>
+            </section>
+            <section id="iddcc34e2cef344d7888feba24c98f8501">
+                <enum>102.</enum>
+                <header>Transition to alternative fuel commercial fishing vessels</header>
+                <subsection id="id67cb868c7c064001b4884da4c2c76e9c">
+                    <enum>(a)</enum>
+                    <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id7d55350529cb40cb9f8f35170f5bda60"> <enum>(1)</enum> <header>Administrator</header> <text>The term <term>Administrator</term> means the Administrator of the National Oceanic and Atmospheric Administration.</text>
+                    </paragraph>
+                    <paragraph id="idd59cdd3012024915ad86f0ce062da978">
+                        <enum>(2)</enum>
+                        <header>Alternative fuel commercial fishing vessel</header>
+ <text>The term <term>alternative fuel commercial fishing vessel</term> means a commercial fishing vessel that runs on an energy source other than an energy source that is exclusively derived from petroleum, including a hybrid energy source.</text>
+                    </paragraph>
+                    <paragraph id="idf192f0e1c7df4345849548b4cc401637">
+                        <enum>(3)</enum>
+                        <header>Commercial fishing vessel</header>
+ <text>The term <term>commercial fishing vessel</term> has the meaning given the term <quote>fishing vessel</quote> in section 2101 of title 46, United States Code.</text>
+                    </paragraph>
+                    <paragraph id="id92ed405ad24149bc95d30f8d54adbd15">
+                        <enum>(4)</enum>
+                        <header>Necessary shoreside infrastructure</header>
+ <text>The term <term>necessary shoreside infrastructure</term> means shoreside infrastructure necessary to facilitate the transition of commercial fishing vessels to alternative fuel commercial fishing vessels, including charging stations for electric alternative fuel commercial fishing vessels and refueling stations for alternative fuel commercial fishing vessels.</text>
+                    </paragraph>
+                    <paragraph id="id4b12d867372d49e18f9cf9faa4f4fec2">
+                        <enum>(5)</enum>
+                        <header>Pilot program</header>
+ <text>The term <term>pilot program</term> means the pilot program established under subsection (b)(1).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id7e340a28810349d28cc73629c305be4f">
+                    <enum>(b)</enum>
+                    <header>Pilot program</header>
+                    <paragraph id="id601b54b1136e4ed7ab59ad3a1b05a1db">
+                        <enum>(1)</enum>
+                        <header>Establishment</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Administrator, in consultation with the Commandant of the Coast Guard, shall establish a pilot program to facilitate the transition of United States-flagged commercial fishing vessels to alternative fuel commercial fishing vessels.</text>
+                    </paragraph>
+                    <paragraph id="id1e81befc35e948f7adb10e1a771ef7f7">
+                        <enum>(2)</enum>
+                        <header>Use of funds</header>
+ <text>In carrying out the pilot program, the Administrator may make loans—</text>
+                        <subparagraph id="id4021f188dd1a447eaaa5512f44957fc4">
+                            <enum>(A)</enum>
+ <text>to facilitate the transition from commercial fishing vessels using energy sources exclusively derived from petroleum to alternative fuel commercial fishing vessels, including loans for the building of new alternative fuel commercial fishing vessels or retrofitting existing commercial fishing vessels into alternative fuel commercial fishing vessels; and</text>
+                        </subparagraph>
+                        <subparagraph id="id6db39c5ae29f4b869ed2a7021e84773f">
+                            <enum>(B)</enum>
+ <text>for research and development of alternative fuel technologies for commercial fishing vessels and necessary shoreside infrastructure.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idef1e58970d6746dabf8526a67f5bbb3b">
+                        <enum>(3)</enum>
+                        <header>Regulations</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Administrator and the Commandant of the Coast Guard shall each promulgate regulations necessary for the implementation of the pilot program.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idfab3cdf5837848439bbd4b9ea3aa2493">
+                    <enum>(c)</enum>
+                    <header>Study</header>
+ <text>Not later than 2 years after the date of the enactment of this Act, the Administrator, jointly with the Commandant of the Coast Guard, shall carry out, and submit to Congress a report describing the results of, a study on—</text>
+                    <paragraph id="id46e7d6f5ab25465dae59e1c81b706531">
+                        <enum>(1)</enum>
+ <text>methods to further develop alternative fuels for use with commercial fishing vessels;</text>
+                    </paragraph>
+                    <paragraph id="idc1fc7d3ced9a43bdaf934cd3182dc8ce">
+                        <enum>(2)</enum>
+ <text>how to improve existing alternative fuel technologies in commercial fishing vessels;</text>
+                    </paragraph>
+                    <paragraph id="id780b9a9d10cc44f2b55439b4042fb14f">
+                        <enum>(3)</enum>
+ <text>the fuel sources available for commercial fishing vessels, and the limitations of those fuel sources; and</text>
+                    </paragraph>
+                    <paragraph id="id6df06ead61664c41a8dfa9b881c91187">
+                        <enum>(4)</enum>
+ <text>opportunities for the use of hybrid technologies in commercial fishing vessels.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idd15ba0954725446d947d0f7daea9a54f">
+                    <enum>(d)</enum>
+                    <header>Authorizations of appropriations</header>
+                    <paragraph id="idc1ed7bfc48634963999ff1451477ef1f">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>There is authorized to be appropriated to the Administrator $20,000,000 for each of fiscal years 2026 through 2030 to carry out subsection (b).</text>
+                    </paragraph>
+                    <paragraph id="id0eba1867b8ba427d91527c09197ff948">
+                        <enum>(2)</enum>
+                        <header>Allocation of funding</header>
+ <text>Of the amounts made available under paragraph (1) for each fiscal year—</text>
+                        <subparagraph id="id0e428e206b3e460bbb31a4874e8d4adf">
+                            <enum>(A)</enum>
+ <text>not less than $10,000,000 shall be used to make loans described in subsection (b)(2)(A); and</text>
+                        </subparagraph>
+                        <subparagraph id="id9e3d7436ed27462bbb8f9b6bd243c081">
+                            <enum>(B)</enum>
+ <text>not less than $10,000,000 shall be used to make loans described in subsection (b)(2)(B).</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title commented="no" level-type="subsequent" style="OLC" id="id42f36c4bf9ea42ae9f23e6ea34a13870">
+            <enum>II</enum>
+            <header>Fisheries and seafood</header>
+            <section id="idea4894f4958a43ef973c13bd267a46ec" section-type="subsequent-section">
+                <enum>201.</enum>
+                <header>Department of Agriculture loans and grants for fishing and mariculture
+                    businesses</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id8BAEB9C4792B4F7AB0EF6F254E64FA5B">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Definitions of farmer and
+                        farming</header>
+ <text>Section 343(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1991">7 U.S.C. 1991(a)</external-xref>) is amended—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idB8CDE382958942259D526E972B0CD330">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in paragraph (1), by striking <quote>farming.</quote> and inserting <quote>farming, commercial fishing, or fish processing.</quote>;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7AF1CF03DD4A46A88CCE30D445840D6E">
+                        <enum>(2)</enum>
+ <text>in paragraph (2), by striking <quote>farming.</quote> and inserting <quote>farming, commercial fishing, and fish processing.</quote>; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idDE968A801A7C4E30A9E7EF16E56B52A6">
+                        <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="id1BB871EE66004E5399DFE30B3FAED1AF" display-inline="no-display-inline" style="OLC"> <paragraph commented="no" display-inline="no-display-inline" id="idB0E340C431954BE2980C9E0ECBF43840"> <enum>(14)</enum> <header>Commercial fishing</header> <text display-inline="yes-display-inline">The term <term>commercial fishing</term> means fishing (as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1802">16 U.S.C. 1802</external-xref>)) in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter, or trade.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="ida8055f5ca0234ec49d931db9a6bf4fbd">
+                                <enum>(15)</enum>
+                                <header>Commercial fishing vessel</header>
+ <text display-inline="yes-display-inline">The term <term>commercial fishing vessel</term> means a fishing vessel and a fish processing vessel (as those terms are defined in section 2101 of title 46, United States Code).</text>
+                            </paragraph>
+                            <paragraph id="id23069C9C59294110B85C9D2FED8B8B31" commented="no" display-inline="no-display-inline">
+                                <enum>(16)</enum>
+                                <header>Fish</header>
+ <text display-inline="yes-display-inline">The term <term>fish</term> has the meaning given the term in section 2101 of title 46, United States Code.</text>
+                            </paragraph>
+                            <paragraph id="idb170c5e19b284f67bf8b3c38e285f089">
+                                <enum>(17)</enum>
+                                <header>Fish processing</header>
+ <text>The term <term>fish processing</term> means the processing of fish for commercial use or consumption.</text>
+                            </paragraph>
+                            <paragraph id="id8ca492893a8b4a829879f8bce6dd18cf">
+                                <enum>(18)</enum>
+                                <header>Fish processing facility</header>
+ <text>The term <term>fish processing facility</term> means a facility or vessel, boat, ship, or other craft used or equipped for fish processing.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idbcef1644093b403a8d880982b461b344">
+                    <enum>(b)</enum>
+                    <header>Farm ownership loans</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6f9b5ad73c5d45adbe4c616475a1f6de">
+                        <enum>(1)</enum>
+                        <header>Eligibility</header>
+ <text display-inline="yes-display-inline">Section 302(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1922">7 U.S.C. 1922(a)</external-xref>) is amended by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id351634376D3049CAA421FAA209266F77">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id337cde9a6d1b464e927ec4a2fdd4f3d6">
+                                <enum>(3)</enum>
+                                <header>Eligibility of wild-caught fish and shellfish</header>
+ <text>For purposes of direct and guaranteed farm loans under this subtitle—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idd98d3894fe3649369ed38a65ef905b70">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the terms <term>farmer</term> and <term>rancher</term> shall include an individual or entity engaged in commercial fishing or fish processing; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id1848721a385e4658b0e0ef58aa735407">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the terms <term>farm</term> and <term>ranch</term> shall include—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id21cd14852b31421fa2bf52225f196e4d">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a commercial fishing vessel; and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id0b5553cbd7694de4b6bbca1ca1619e85">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">a fish processing facility.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idA5C1B4EBD14F43C6A8F2331B6270FCA6">
+                        <enum>(2)</enum>
+                        <header>Purposes</header>
+ <text>Section 303(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1923">7 U.S.C. 1923(a)</external-xref>) is amended by adding at the end the following:</text>
+                        <quoted-block id="idB0DAA71B26A44DADBFA0F3DCDE4D01B3" display-inline="no-display-inline" style="OLC">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id3468CB76655C49ACA7D3F6E8F9C148E7">
+                                <enum>(3)</enum>
+                                <header>Commercial fishery participants; fish processors</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id9c7f0771d95d4f4f8b2232dec361e84e">
+                                    <enum>(A)</enum>
+                                    <header>Commercial fishery participants</header>
+ <text display-inline="yes-display-inline">An individual or entity engaged in commercial fishing may use a direct or guaranteed loan under this subtitle for—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id0365DF462585405F903E7794C98BD28C">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">acquiring a commercial fishing permit; and</text>
+                                    </clause>
+                                    <clause id="idFEC7208DA6014B39A230A3F931647218" commented="no" display-inline="no-display-inline">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">acquiring, operating, and maintaining a commercial fishing vessel.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id62cbdf3b184548b79b4ef2efc7397216">
+                                    <enum>(B)</enum>
+                                    <header>Fish processors</header>
+ <text display-inline="yes-display-inline">An individual or entity engaged in fish processing may use a direct or guaranteed loan under this subtitle for acquiring, operating, and maintaining a fish processing facility.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id1ede3f34f3b94408aa4441a904abc07d">
+                    <enum>(c)</enum>
+                    <header>Farm operating loans</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ida1cd7350e12a431fa8341fe951831097">
+                        <enum>(1)</enum>
+                        <header>Eligibility</header>
+ <text display-inline="yes-display-inline">Section 311(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1941">7 U.S.C. 1941(a)</external-xref>) is amended by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id902184F3531F4F098CC31EB0A639E6AB">
+                            <paragraph commented="no" display-inline="no-display-inline" id="idD9833815082C4FD894B6774F0936D9C7">
+                                <enum>(3)</enum>
+                                <header>Eligibility of wild-caught fish and shellfish</header>
+ <text>For purposes of direct and guaranteed farm loans under this subtitle—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idC7867132811142BB8413A855D75DB468">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the terms <term>farmer</term> and <term>rancher</term> shall include an individual or entity engaged in commercial fishing or fish processing; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idBC082FF3078145F79D0C78E022BED593">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the terms <term>farm</term> and <term>ranch</term> shall include—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="ida8b7f4a350604278a9c3cf3f53326f1e">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a commercial fishing vessel; and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id78bc608b3cd643909bbfd261398c17a6">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">a fish processing facility.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id8F3727D7E22A4D6E995B3BE5660C2B1F">
+                        <enum>(2)</enum>
+                        <header>Purposes</header>
+ <text>Section 312 of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1942">7 U.S.C. 1942</external-xref>) is amended by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id20DEEEBCD3E44B1EAB8D446DDFB62CF6">
+                            <subsection commented="no" display-inline="no-display-inline" id="id63F12FCFF5AB420D98703DD695875EEF">
+                                <enum>(f)</enum>
+                                <header>Commercial fishery participants; fish processors</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3319ccbcab734e6da1c200a8718d2dcf">
+                                    <enum>(1)</enum>
+                                    <header>Commercial fishery participants</header>
+ <text display-inline="yes-display-inline">An individual or entity engaged in commercial fishing may use a direct or guaranteed loan under this subtitle for acquiring, operating, and maintaining a commercial fishing vessel.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id5cb3fde67fc44d9d954887bb0e159c71">
+                                    <enum>(2)</enum>
+                                    <header>Fish processors</header>
+ <text display-inline="yes-display-inline">An individual or entity engaged in fish processing may use a direct or guaranteed loan under this subtitle for acquiring, operating, and maintaining a fish processing facility.</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline"
+                    id="id9023a0559d694ad58cb8caac6bede328">
+                    <enum>(d)</enum>
+                    <header>Farmers' markets and local food promotion program</header>
+ <text>Section 210A(d)(6) of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1627c">7 U.S.C. 1627c(d)(6)</external-xref>) is amended by adding at the end the following:</text>
+                    <quoted-block id="idB3EEBA93615F44769ABFD2638A6C067B"
+                        display-inline="no-display-inline" style="OLC">
+                        <subparagraph commented="no" display-inline="no-display-inline"
+                            id="idfd247102cb8f409399cc0c7b766ca3ee">
+                            <enum>(F)</enum>
+                            <header>Eligibility of wild-caught fish and shellfish</header>
+ <text>For purposes of this paragraph—</text> <clause commented="no" display-inline="no-display-inline" id="idac168211f82948e190f8838e9c3e360f"> <enum>(i)</enum> <text display-inline="yes-display-inline">an agricultural commodity or product described in subsection (a)(12) shall include fish (as defined in section 2101 of title 46, United States Code) that is caught, taken, or harvested from the wild; and</text>
+                            </clause>
+                            <clause id="idc299734b7347422d8fe90868cedcad42" commented="no"
+                                display-inline="no-display-inline">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the eligible activities described in paragraph (2) shall include domestic seafood marketing.</text>
+                            </clause>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+            </section>
+            <section section-type="subsequent-section" commented="no" display-inline="no-display-inline" id="id77ed42fe86c74a1980140c965b5b0940">
+                <enum>202.</enum>
+                <header>Extension of credit to businesses providing services to producers or
+                    harvesters of aquatic products</header>
+                <subsection id="id74380591a7744668837ef4e6a25c2885">
+                    <enum>(a)</enum>
+                    <header>Farm credit banks</header>
+                    <paragraph id="idb5bd4fdd02f54505bcca187c9600e18d">
+                        <enum>(1)</enum>
+                        <header>Eligibility for credit and financial services</header>
+ <text>Section 1.9 of the Farm Credit Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/12/2017">12 U.S.C. 2017</external-xref>) is amended—</text>
+                        <subparagraph id="id62e726fb9e794676ab975cd1ed0d6314">
+                            <enum>(A)</enum>
+ <text>in paragraph (2), by striking <quote>or</quote> at the end;</text> </subparagraph> <subparagraph id="idc3efa516cc25464696229b87eb134342"> <enum>(B)</enum> <text>by redesignating paragraph (3) as paragraph (4); and</text>
+                        </subparagraph>
+                        <subparagraph id="ide2d9bca363984acb92b8ac106cf92a67">
+                            <enum>(C)</enum>
+ <text>by inserting after paragraph (2) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idf8ff9d53e0c24bd786464b5b749ee5da"> <paragraph id="id485091074c2a47a18d0897f600a3e4a5"> <enum>(3)</enum> <text>persons furnishing to producers or harvesters of aquatic products services directly related to their operating needs; or</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id8f13e2bfba2446769a977e0aed8ad09f">
+                        <enum>(2)</enum>
+                        <header>Purposes for extensions of credit</header>
+ <text>Section 1.11(c)(1) of the Farm Credit Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/12/2019">12 U.S.C. 2019(c)(1)</external-xref>) is amended by inserting <quote>and to persons furnishing services directly related to the operating needs of producers or harvesters of aquatic products</quote> after <quote>needs</quote>.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="ide5d98bbebf3b44e8bb8776e711efbbe1">
+                    <enum>(b)</enum>
+                    <header>Production credit associations</header>
+ <text>Section 2.4(a) of the Farm Credit Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/12/2075">12 U.S.C. 2075(a)</external-xref>) is amended—</text>
+                    <paragraph id="id39c82bf352564391b28a7cccabefeee3">
+                        <enum>(1)</enum>
+ <text>in paragraph (2), by striking <quote>and</quote> at the end;</text> </paragraph> <paragraph id="id466272fef2cf4352938146e3f54ed03a"> <enum>(2)</enum> <text>in paragraph (3), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="idff9467cbb23f4ee99081c1129eba8e0e">
+                        <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idfcacf3ac605d4f11bcb448755c882370"> <paragraph id="id33b68904d4f243db87d4c1d7bfeeea7d"> <enum>(4)</enum> <text>persons furnishing to producers or harvesters of aquatic products services directly related to their operating needs.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section section-type="subsequent-section" id="id72E2018CE07849E7925468F3528284C8">
+                <enum>203.</enum>
+                <header>Shellfish mariculture under the national harmful algal bloom and hypoxia
+                    program</header>
+ <text display-inline="no-display-inline">Section 603A of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/33/4002">33 U.S.C. 4002</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id60b9c8fd4eac442baeddee00afa9394e">
+                    <enum>(1)</enum>
+ <text>in subsection (e)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id3ead495b10574c02b1d0ac162e8af16d"> <enum>(A)</enum> <text display-inline="yes-display-inline">by redesignating paragraphs (10) and (11) as paragraphs (11) and (12), respectively; and</text>
+                    </subparagraph>
+                    <subparagraph id="id9f173937e560404c8f470506d555e99f">
+                        <enum>(B)</enum>
+ <text>by inserting after paragraph (9) the following:</text> <quoted-block style="OLC" id="idACC000B3C05240DBBE2A03EE5772E574" act-name=""> <paragraph id="id5D783683DBFB4B90ADE847AA40492026"> <enum>(10)</enum> <text>enhance competitive grant programs to support shellfish mariculture and expand access to testing for harmful algal bloom toxins for subsistence and recreational shellfish harvesters through innovative methods that increase the efficiency and effectiveness of such testing in rural and remote areas;</text>
+                            </paragraph>
+                            <after-quoted-block>; and </after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id03e60401e91b4d4faf342b929d701f0e">
+                    <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" id="idEAC4DE3D99A14F4E83DB6756B4D3C98B" act-name=""> <subsection id="id072D863BAC04440FBBEFAA6577C53961"> <enum>(j)</enum> <header>Definition of shellfish mariculture</header> <text>In this section, the term <term>shellfish mariculture</term> means the cultivation of shellfish in their natural habitat for human consumption.</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ide709fe1444c24fd486ab6554f300fda5">
+                <enum>204.</enum>
+                <header>Allocation of funds under Saltonstall-Kennedy Act</header>
+ <text display-inline="no-display-inline">Section 2(f) of the Act of August 11, 1939 (commonly known as the <quote>Saltonstall-Kennedy Act</quote>) (chapter 696; <external-xref legal-doc="usc" parsable-cite="usc/15/713c-3">15 U.S.C. 713c–3(f)</external-xref>) is amended—</text>
+                <paragraph id="idb153de2cf9d94dba9f55ee37108caac4">
+                    <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id7fb85cdc023b45e9b7096ee6387b961b"> <enum>(A)</enum> <text display-inline="yes-display-inline">in the matter preceding subparagraph (A)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="idbb6f5db076d14d8587173ef4dcaf24f5">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in the first sentence, by striking <quote>all moneys in the fund shall</quote> and inserting <quote>25 percent of all moneys transferred to the Secretary under subsection (b)(1) shall</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idf4402c100c3a4f96a911210d06b05a4a">
+                            <enum>(ii)</enum>
+ <text>in the second sentence, by striking <quote>all moneys in the fund,</quote> and all that follows through <quote>with respect to that fiscal year,</quote> and inserting <quote>such moneys</quote>;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id42ab514463b74c528d246157f18829c7">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (A)—</text> <clause commented="no" display-inline="no-display-inline" id="id7f95ee82ed764831bfb13d1f652aae77"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>use no less than 60 per centum of such moneys</quote> and inserting <quote>make available not less than 75 percent of such moneys, equal to 18.75 percent of all moneys transferred to the Secretary under subsection (b)(1),</quote>;</text>
+                        </clause>
+                        <clause id="id287f656d88c740bc826a2a728a40736c">
+                            <enum>(ii)</enum>
+ <text>by inserting <quote>under the Saltonstall-Kennedy competitive grant program of the National Oceanic and Atmospheric Administration</quote> after <quote>grants</quote>; and</text>
+                        </clause>
+                        <clause id="id12e5f0326f3744448ca058b554c2c135">
+                            <enum>(iii)</enum>
+ <text>by striking <quote>; and</quote> and inserting a semicolon;</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idfa06b3bc406d4678ba5fefc5693fac74"> <enum>(C)</enum> <text>by redesignating subparagraph (B) as subparagraph (C); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2319d5555a2941409d19272cbc1ac632">
+                        <enum>(D)</enum>
+ <text>by inserting after subparagraph (A) the following:</text> <quoted-block style="OLC" id="idC2C3A827F26346558AD21790430498BF" act-name=""> <subparagraph id="idD3467C256976454089848E7805719594"> <enum>(B)</enum> <text>the Secretary shall make available not less than 20 percent of such moneys, equal to 5 percent of all moneys transferred to the Secretary under subsection (b)(1), to carry out the Young Fishermen’s Development Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1141">33 U.S.C. 1141 et seq.</external-xref>); and</text>
+                            </subparagraph>
+                            <after-quoted-block>; and </after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idcd60d313869f436192760d46465ada9a">
+                    <enum>(2)</enum>
+ <text>in paragraph (2), by striking <quote>$3,000,000</quote> and inserting <quote>$10,000,000</quote>.</text>
+                </paragraph>
+            </section>
+            <section id="id73342719187745b58f6343eb25ed38ac" changed="not-changed">
+                <enum>205.</enum>
+                <header>Electronic Monitoring Innovation Prize</header>
+ <text display-inline="no-display-inline">Not later than 2 years after the date of the enactment of this Act, and under the authority provided by section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/15/3719">15 U.S.C. 3719</external-xref>), the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the heads of relevant Federal agencies and nongovernmental partners, as appropriate, shall establish an Electronic Monitoring Innovation Prize, which the Administrator may award for the development of advanced electronic fisheries monitoring equipment and data analysis tools, including improved fish species recognition software.</text>
+            </section>
+        </title>
+        <title style="OLC" commented="no" level-type="subsequent" id="id505cb99a926e482d88dcb9cfdb7e9772">
+            <enum>III</enum>
+            <header>Shoreside Infrastructure</header>
+            <subtitle id="idd3ecbabeb77b42f795a56a58c3252685" style="OLC">
+                <enum>A</enum>
+                <header>Rural coastal community processing grants</header>
+                <section id="id9461e24f248847b9886df1a296f281d9">
+                    <enum>301.</enum>
+                    <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subtitle:</text> <paragraph id="id65ca1e215d7a43659896a7dacff26abe"> <enum>(1)</enum> <header>Mariculture</header> <text>The term <term>mariculture</term> means shellfish and aquatic plants grown under controlled conditions.</text>
+                    </paragraph>
+                    <paragraph id="ide6018642ef6346e1850cb545191b0a64">
+                        <enum>(2)</enum>
+                        <header>Rural coastal community</header>
+ <text>The term <term>rural coastal community</term> means a coastal community in a rural area (as defined in section 343(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1991">7 U.S.C. 1991(a)</external-xref>)).</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ide637474585e14e84ae26a12189491aad">
+                        <enum>(3)</enum>
+                        <header>Rural processing facility</header>
+ <text>The term <term>rural processing facility</term> means a seafood or mariculture processing facility that is located in a rural coastal community.</text>
+                    </paragraph>
+                    <paragraph id="ida9b82d7bfd8147eb90836b855c2e772e">
+                        <enum>(4)</enum>
+                        <header>Seafood</header>
+ <text>The term <term>seafood</term> means wild caught finfish and shellfish.</text>
+                    </paragraph>
+                    <paragraph id="id2901c633e65b49109da766b889598497">
+                        <enum>(5)</enum>
+                        <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Agriculture.</text>
+                    </paragraph>
+                </section>
+                <section id="idf5e86841435f478397ce69870bb30144">
+                    <enum>302.</enum>
+                    <header>Action plan and identification of coastal communities</header>
+                    <subsection id="id5e0444a8fc6e4690b065fa327cd56b4b">
+                        <enum>(a)</enum>
+                        <header>In general</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Commerce, shall develop an action plan to facilitate more domestic processing of United States-caught seafood and mariculture by rural processing facilities, including rural processing facilities that have less than 50 employees.</text>
+                    </subsection>
+                    <subsection id="id1b0d528edf2c41b3b2f28263c5a5871d">
+                        <enum>(b)</enum>
+                        <header>Inclusions</header>
+ <text>The action plan developed under subsection (a) shall include—</text> <paragraph id="ida6797f809ad94f7b82cba60f4151c6c0"> <enum>(1)</enum> <text>an identification of rural coastal communities where commercial fishing is a significant economic driver and there exists a need and voiced community desire for the creation of new (or rehabilitation of existing) seafood processing infrastructure for rural processing facilities to allow those communities—</text>
+                            <subparagraph id="id4ef743e20fbb415a96dc9c1b1d20f10b">
+                                <enum>(A)</enum>
+ <text>to effectively process their own catch locally; and</text> </subparagraph> <subparagraph id="idaad05674161c4e89b2c4f19f77a0b495"> <enum>(B)</enum> <text>to provide for the local and domestic market;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id8cd54a3f27bb4f7d94683a5872533c67">
+                            <enum>(2)</enum>
+ <text>an identification of rural coastal communities with existing or developing mariculture operations where processing infrastructure for rural processing facilities is not sufficient to meet the needs of the mariculture operations; and</text>
+                        </paragraph>
+                        <paragraph id="id710881ff06ce42d4ac639c11d859556c">
+                            <enum>(3)</enum>
+ <text>a consideration of the diversity of rural coastal communities, including geographic diversity.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idecabb9c2a23e4a5e8108a50a1b39fa2b">
+                        <enum>(c)</enum>
+                        <header>Identification of eligible communities</header>
+ <text>The action plan developed under subsection (a) shall identify rural coastal communities across the United States that would be eligible for the grants and cooperative agreements under section 303.</text>
+                    </subsection>
+                    <subsection id="id5bdde32558bd406289685e272b929a63">
+                        <enum>(d)</enum>
+                        <header>Stakeholder engagement</header>
+ <text>In developing the action plan under subsection (a), the Secretary, in consultation with the Secretary of Commerce, shall provide a meaningful stakeholder engagement process that prioritizes outreach and engagement through methods that effectively reach out to residents of rural coastal communities described in paragraphs (1) through (3) of subsection (b).</text>
+                    </subsection>
+                </section>
+                <section id="id78b0f995a88440fea9f67e4ef95ff9ce">
+                    <enum>303.</enum>
+                    <header>Grants and cooperative agreements to support rural seafood processing
+                        and cold storage</header>
+                    <subsection id="idfa42c923bf274e199a9df8f983258ed3">
+                        <enum>(a)</enum>
+                        <header>In general</header>
+ <text>The Secretary shall, for the period of fiscal years 2026 through 2030, make competitive grants or enter into cooperative agreements—</text>
+                        <paragraph id="id9fdf3dd1c38d4559a6baf4eb5f498fd3">
+                            <enum>(1)</enum>
+ <text>to support pilot projects for new seafood or mariculture processing infrastructure for rural processing facilities in rural coastal communities identified under section 302(c);</text>
+                        </paragraph>
+                        <paragraph id="id8c1b37ccf2204e11a58cd82cb97376e0">
+                            <enum>(2)</enum>
+ <text>to support pilot projects for the rehabilitation, repair, or retrofitting of existing seafood or mariculture processing infrastructure for rural processing facilities in rural coastal communities identified under section 302(c);</text>
+                        </paragraph>
+                        <paragraph id="ideab5547b2c18489589107ed7790f92a9">
+                            <enum>(3)</enum>
+ <text>to support pilot projects for new cold storage infrastructure for rural processing facilities in rural coastal communities identified under section 302(c); and</text>
+                        </paragraph>
+                        <paragraph id="idc1e9c1f3fb4949d4bd0a4d82fca7d523">
+                            <enum>(4)</enum>
+ <text>to support pilot projects for the rehabilitation, repair, or retrofitting of existing cold storage infrastructure for rural processing facilities in rural coastal communities identified under section 302(c).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idfa08960dc6484a24b2e898a317cb57de">
+                        <enum>(b)</enum>
+                        <header>Eligibility</header>
+ <text>To be eligible to receive a grant or enter into a cooperative agreement under subsection (a), the recipient of the grant or participant in the cooperative agreement shall be—</text>
+                        <paragraph id="id86aaf43128984f9e9e9883af5aa17512">
+                            <enum>(1)</enum>
+ <text>a collaborative State, Tribal, local, or regionally based network or partnership of public or private entities; or</text>
+                        </paragraph>
+                        <paragraph id="id601b21d6b31c45a4a85ec29502cf4e41">
+                            <enum>(2)</enum>
+ <text>an individual company that owns or operates one or more rural processing facilities.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline"
+                        id="id571f7c49f0a0492e9c8baeb45a861888">
+                        <enum>(c)</enum>
+                        <header>Allocation for small-Scale rural processing facilities</header>
+ <text>Of the amount made available to make competitive grants and enter into cooperative agreements under subsection (a) for each fiscal year, the Secretary shall use 50 percent to support pilot projects described in that subsection for rural processing facilities that have less than 50 employees.</text>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="id77869f7d512144d48a6589954dec3edc">
+                        <enum>(d)</enum>
+                        <header>Evaluation criteria</header>
+ <text display-inline="yes-display-inline">In making grants or entering into cooperative agreements under subsection (a), the Secretary shall evaluate, with respect to applications for the grants or cooperative agreements—</text>
+                        <paragraph id="idd35f3daaf68048f68d5cdf8b0d07fa13">
+                            <enum>(1)</enum>
+ <text>relevancy;</text> </paragraph> <paragraph id="id5b5c50b84dc446f893c581863dd1e9ce"> <enum>(2)</enum> <text>technical merit;</text>
+                        </paragraph>
+                        <paragraph id="idf4fc1fbd262a4b729d527000a9b115d7">
+                            <enum>(3)</enum>
+ <text>achievability, expertise, and track record; and</text> </paragraph> <paragraph id="id01a0e2df465843829ebf166628a3826b"> <enum>(4)</enum> <text>equity and community impacts.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id10fee45985b34036aebbfeedfd1d54d4">
+                        <enum>(e)</enum>
+                        <header>Requirements</header>
+ <text>A grant or cooperative agreement under subsection (a) shall be for an amount and term determined appropriate by the Secretary.</text>
+                    </subsection>
+                </section>
+                <section id="id929d217794ff462486aacb5742f9aae3" commented="no" display-inline="no-display-inline" section-type="subsequent-section">
+                    <enum>304.</enum>
+                    <header>Authorization of appropriations</header>
+ <text display-inline="no-display-inline">There is authorized to be appropriated to carry out this subtitle $10,000,000 for each of fiscal years 2026 through 2030.</text>
+                </section>
+            </subtitle>
+            <subtitle id="id2f4f775d6c02470aac7ad4b4a6a4a129" style="OLC">
+                <enum>B</enum>
+                <header>Working waterfronts preservation</header>
+                <section id="id77432e013a0b4229aef227b574815725">
+                    <enum>311.</enum>
+                    <header>Working waterfront access protection grant program</header>
+                    <subsection id="idd196798b9220496e8383e16747c091e3">
+                        <enum>(a)</enum>
+                        <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id9c6f4dc3989c47869be0f67df5cc7d7e"> <enum>(1)</enum> <header>Boat</header> <text>The term <term>boat</term> means a watercraft that is not built in a shipyard, and is typically of the type suitable or intended for personal use or for use in a fishery.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idb1c12cddd3b7484e877fda95420cfa2b">
+                            <enum>(2)</enum>
+                            <header display-inline="yes-display-inline">Boatbuilding
+                                industry</header>
+ <text>The term <term>boatbuilding industry</term> means an industry primarily engaged in building boats.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id0770260d6e6042b1b5206d53d52cf47c">
+                            <enum>(3)</enum>
+                            <header display-inline="yes-display-inline">Coastal waters</header>
+ <text>The term <term>coastal waters</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idfd9965d2a30842ed855f9780c5452213"> <enum>(A)</enum> <text display-inline="yes-display-inline">in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id2998c992dec4446eabd6ee78e28a58db">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in other areas, those waters, adjacent to the shorelines, which contain a measurable quantity or percentage of sea water, including sounds, bays, lagoons, bayous, ponds, and estuaries.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idde4d03072d68443aa53536c52544d194">
+                            <enum>(4)</enum>
+                            <header>Eligible entity</header>
+ <text>The term <term>eligible entity</term> means—</text> <subparagraph id="ide919e300edcf4be59d9a91612ecb3287"> <enum>(A)</enum> <text>the government of a coastal State;</text>
+                            </subparagraph>
+                            <subparagraph id="id3626bfcc578e4161a81dcdcaafc123b5">
+                                <enum>(B)</enum>
+ <text>a unit of local government within a coastal State;</text> </subparagraph> <subparagraph id="idb7f21d84af9c4c1681a6b061566d1110"> <enum>(C)</enum> <text>a nonprofit organization that the Secretary determines is appropriate to receive a grant under subsection (b); or</text>
+                            </subparagraph>
+                            <subparagraph id="id013b72cbec544fadbd586164777e8bde">
+                                <enum>(D)</enum>
+ <text>a participant in the commercial fishing industry, the mariculture industry, or the for-hire recreational fishing industry.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idf366307d6e184c4892003cc5c16bffd8">
+                            <enum>(5)</enum>
+                            <header>Eligible project</header>
+ <text>The term <term>eligible project</term> means a project—</text> <subparagraph id="idb586c343f5414756a3d9bcfb10a80dce"> <enum>(A)</enum> <text>to—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id092202cbe19945e184f6d111ebb62488">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">make improvements to real property that is a working waterfront area located in a coastal State and owned by an eligible entity, including—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="iddf61189bb76e4a298d64bed861b266fc">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the construction or repair of wharfs or related facilities;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id0b2a27b05460402cbbacb7d0a1ff4fa9">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the provision of access to coastal waters in working waterfront areas to persons engaged in the commercial fishing industry, the mariculture industry, the for-hire recreational fishing industry, or the boatbuilding industry; and</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idd0eb93b1e19b48c68587f64fc2390080">
+                                        <enum>(III)</enum>
+ <text display-inline="yes-display-inline">improvements made to such property in order to be resilient to climate change; or</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id56b3924a2e024c8aa34b5802b601d8c8">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">permanently designate or otherwise protect real property owned or operated by an eligible entity as a working waterfront area;</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id71c5c99ca9ae4d82b401d2811f40e0f2">
+                                <enum>(B)</enum>
+ <text>that has been approved or endorsed by the State government entity responsible for fishery management or the State’s coastal zone management agency; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id3b4c74f526a9446e9dae145b9ca1609c">
+                                <enum>(C)</enum>
+ <text>that is consistent with State coastal shoreline access laws (including regulations).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id7F77D9C8983548AAB57F204EFBD9B165">
+                            <enum>(6)</enum>
+                            <header>Mariculture</header>
+ <text>The term <term>mariculture</term> means shellfish and aquatic plants grown under controlled conditions.</text>
+                        </paragraph>
+                        <paragraph id="id2a4c2b93686545eaa99ec60ff747f4b5">
+                            <enum>(7)</enum>
+                            <header>Nonprofit organization</header>
+ <text>The term <term>nonprofit organization</term> means an organization that is—</text>
+                            <subparagraph id="id9e1b4d5e32fd4db49ec5dcb519af307b">
+                                <enum>(A)</enum>
+ <text>described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)</external-xref> of the Internal Revenue Code of 1986; and</text>
+                            </subparagraph>
+                            <subparagraph id="ida9f0fce6803446f08e0f5d0af2d4661f">
+                                <enum>(B)</enum>
+ <text>exempt from taxation under <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(a)</external-xref> of the Internal Revenue Code of 1986.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id960ec7beae924864979cfef05e8d9953">
+                            <enum>(8)</enum>
+                            <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Commerce.</text> </paragraph> <paragraph id="id74e0b834e00147caa7e787b23c86b7b1"> <enum>(9)</enum> <header>Working waterfront area</header> <text>The term <term>working waterfront area</term> means land that is used for, or that supports, the commercial fishing industry, the mariculture industry, the for-hire recreational fishing industry, or the boatbuilding industry.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id1448f6ca9a8642db91c650243c7c7d64">
+                        <enum>(b)</enum>
+                        <header>Grant program authorized</header>
+                        <paragraph id="ide38e180a1b4f4bfbbefc956a15409653">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary, acting through the Economic Development Administration of the Department of Commerce, shall award grants, on a competitive basis, to eligible entities to carry out eligible projects that support the commercial fishing industry, the mariculture industry, the for-hire recreational fishing industry, or the boatbuilding industry in coastal States.</text>
+                        </paragraph>
+                        <paragraph id="ide527c314378244df8093110ec407d8fe">
+                            <enum>(2)</enum>
+                            <header>Application</header>
+ <text>An eligible entity desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="ided78401ffef74b7fbeb41a024db656ba">
+                            <enum>(3)</enum>
+                            <header>Grant selection considerations</header>
+ <text display-inline="yes-display-inline">In selecting eligible entities to receive grants under this section, the Secretary shall give substantial weight to—</text>
+                            <subparagraph id="id2448034ac7a04c0b8e0eae9132b37027">
+                                <enum>(A)</enum>
+ <text>the economic significance of the eligible project to the commercial fishing industry, the mariculture industry, the for-hire recreational fishing industry, or the boatbuilding industry in the immediate vicinity and in the coastal State in which the eligible project is located;</text>
+                            </subparagraph>
+                            <subparagraph id="id79578ef8ec7c49efad52c5e5cd99dce8">
+                                <enum>(B)</enum>
+ <text>whether other adequate waterfront access alternatives exist for the commercial fishing industry within the community in which the eligible entity seeks to use grant funding;</text>
+                            </subparagraph>
+                            <subparagraph id="id6979c9394bf946759ec98dd2fbc71d5d">
+                                <enum>(C)</enum>
+ <text>the utility of the eligible project for use in the commercial fishing industry, the mariculture industry, the for-hire recreational fishing industry, or the boatbuilding industry, with respect to the natural characteristics and developed infrastructure of the relevant property;</text>
+                            </subparagraph>
+                            <subparagraph id="idb27df57b0130415dad476454f65428a9">
+                                <enum>(D)</enum>
+ <text>whether the applicant has a business plan for the area in which the project will be located;</text>
+                            </subparagraph>
+                            <subparagraph id="id59cf83cf1fcb4640a9b501c52d193595">
+                                <enum>(E)</enum>
+ <text>the likelihood that the working waterfront area will remain compatible with commercial fishing, mariculture, for-hire recreational fishing, or boatbuilding, and the applicant’s ability to demonstrate a need for, or support for, the project within the community; and</text>
+                            </subparagraph>
+                            <subparagraph id="id8c3f51da10ef48d1a30c53b8cbb4c750">
+                                <enum>(F)</enum>
+ <text>whether the applicant intends to permanently protect the relevant property.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id379c99d10fdf4198aa80e3125e4984b7">
+                        <enum>(c)</enum>
+                        <header>Cost sharing</header>
+ <text>The amount of a grant awarded under this section to carry out an eligible project may not exceed 50 percent of the total cost of the eligible project.</text>
+                    </subsection>
+                    <subsection id="id9c69af536f9e404f8b7545e23e279705">
+                        <enum>(d)</enum>
+                        <header>Improved or protected property</header>
+                        <paragraph id="id9ef778392dba4fbc8ad0866321f29e99">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>Grants awarded under this section may be used to improve or protect privately owned real property or interests in privately owned real property, including easements, only from willing owners.</text>
+                        </paragraph>
+                        <paragraph id="id8726f893030240b5b7ad4b963aea7b5f">
+                            <enum>(2)</enum>
+                            <header>No exercise of eminent domain</header>
+ <text>No Federal, State, or local agency may exercise the power of eminent domain to secure title to any real property or facilities in connection with a project carried out under this Act.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="ida129ce433a044f9fbf71f9023556e793">
+                        <enum>(e)</enum>
+                        <header>Annual report</header>
+ <text>The Secretary shall submit to Congress an annual report that describes the eligible projects funded with grants awarded under this section.</text>
+                    </subsection>
+                    <subsection id="id359c00f7df6840f8b919e04fb563227f" commented="no" display-inline="no-display-inline">
+                        <enum>(f)</enum>
+                        <header>Authorization of appropriations</header>
+ <text display-inline="yes-display-inline">There are authorized to be appropriated to carry out this Act $20,000,000 for each of fiscal years 2026 through 2030.</text>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+        <title style="OLC" commented="no" level-type="subsequent" id="id99980ff285cc4920b8c30518fc717c06">
+            <enum>IV</enum>
+            <header>Workforce Development</header>
+            <section id="id48cbdc8d08bd469587517afd9506d85c">
+                <enum>401.</enum>
+                <header>Maritime workforce grant program</header>
+                <subsection commented="no" display-inline="no-display-inline" id="idbdc56e76c0dc4042955f3f0fd87035fe">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Amendment</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/46/517">Chapter 517</external-xref> of title 46, United States Code, is amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id971CA664496948F9A10322C59C05D6CC">
+                        <section id="ida15fc78990ab436c89e5efbde11c8fd6">
+                            <enum>51708.</enum>
+                            <header>Maritime workforce grant program</header>
+                            <subsection id="id6285fa623ecc43a1a92052d9aa0872be">
+                                <enum>(a)</enum>
+                                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id929ae6d3a87d4d9ca26c34f1b2a90a2f"> <enum>(1)</enum> <header>Eligible applicant</header> <text>The term <term>eligible applicant</term> means an entity that—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id9f49646be5d74a68b6217c3c37b9a7e1">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">operates a program or performs activities leading to the recruitment, education, or training of future or current members of the maritime workforce; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id268a308852b540b3bbeb5a73c0ca046d">
+                                        <enum>(B)</enum>
+ <text>submits an application in such form as the Secretary may require.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id2498356aea4d42d8b0301b99cf6de006">
+                                    <enum>(2)</enum>
+                                    <header>Maritime workforce</header>
+ <text>The term <term>maritime workforce</term> includes positions of employment requiring a license, certificate of registry, or merchant mariner’s document issued under part E of subtitle II of title 46, United States Code.</text>
+                                </paragraph>
+                                <paragraph id="id290b44842f914be79a471d7c46599d63">
+                                    <enum>(3)</enum>
+                                    <header>Rural area</header>
+ <text>The term <term>rural area</term> has the meaning given the term in section 343(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1991">7 U.S.C. 1991(a)</external-xref>), without regard to subparagraphs (B), (C), and (E) through (I) of paragraph (13) of that section.</text>
+                                </paragraph>
+                                <paragraph id="id78914fbde06d41cd98f82e9a070b9743">
+                                    <enum>(4)</enum>
+                                    <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Transportation.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id4eb32ab195b34fc5a89fbff9836fbdbf">
+                                <enum>(b)</enum>
+                                <header>Program authorized</header>
+ <text>The Secretary, acting through the Maritime Administrator, shall establish a program to provide grants, on a competitive basis, to eligible applicants for eligible activities described in subsection (c) that support maritime workforce development.</text>
+                            </subsection>
+                            <subsection id="ide3b05f2cf94446dbae6f46dc9b84a2c0">
+                                <enum>(c)</enum>
+                                <header>Eligible activities</header>
+ <text>An eligible activity is an activity carried out by an eligible applicant—</text>
+                                <paragraph id="idc65a56d8b1f14e569d66f145f307c03e">
+                                    <enum>(1)</enum>
+ <text>to establish a new, or improve an existing, training program that teaches technical skills used in general seagoing operations and specific areas, such as deck or engineering, including the purchase of equipment for such programs;</text>
+                                </paragraph>
+                                <paragraph id="idccb57a5b52bd4710aa947c8e264c4c84">
+                                    <enum>(2)</enum>
+ <text>to provide technical training or certification courses leading to maritime workforce credentialing, including any of the endorsements listed in section 10.109 of title 46, Code of Federal Regulations, or any successor regulation;</text>
+                                </paragraph>
+                                <paragraph id="id66a8e3f4a52b4ffaa09a84c9e49f7fd4">
+                                    <enum>(3)</enum>
+ <text>to create and deliver a program designed to provide high school students with meaningful maritime education in order to teach the future maritime workforce;</text>
+                                </paragraph>
+                                <paragraph id="id2649d7106f8140adac054a1026a20320">
+                                    <enum>(4)</enum>
+ <text>to support the professional development of teachers using a curriculum of a program described in paragraph (1), (2), or (3);</text>
+                                </paragraph>
+                                <paragraph id="id925e689494b84bd1a95dca7ce1558902">
+                                    <enum>(5)</enum>
+ <text>to establish, or support existing, scholarships or apprenticeships for individuals pursuing employment in the maritime workforce;</text>
+                                </paragraph>
+                                <paragraph id="ida746b79d45be409eb0f27d68460459c1">
+                                    <enum>(6)</enum>
+ <text>to support outreach about careers in the maritime workforce to—</text>
+                                    <subparagraph id="id52a0fecc9b794f1597fe04b6b8a56586">
+                                        <enum>(A)</enum>
+ <text>secondary and postsecondary school students; or</text> </subparagraph> <subparagraph id="id8f3c24df90184a68a0a8291e3cc3fb1a"> <enum>(B)</enum> <text>underrepresented communities, as defined by the Secretary, in the maritime workforce; or</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id414c75e3abf045578951fb6dd414f777">
+                                    <enum>(7)</enum>
+ <text>to otherwise enhance the maritime workforce.</text> </paragraph> </subsection> <subsection id="id364d00eb8d1a49448008a6297a54a81d"> <enum>(d)</enum> <header>Grant application review</header> <text>In reviewing and selecting eligible applicants to receive grants under this section, the Secretary shall—</text>
+                                <paragraph id="id2467c01e605c4de6a478bbabf6e96a5a">
+                                    <enum>(1)</enum>
+ <text>prior to selecting among competing applications, consult, as appropriate, with representatives of the maritime workforce;</text>
+                                </paragraph>
+                                <paragraph id="idcc9a6f80349e4a5db37925e480e2db20">
+                                    <enum>(2)</enum>
+ <text>ensure that the grants awarded under subsection (b) will allow participation from eligible applicants in rural, suburban, and urban areas; and</text>
+                                </paragraph>
+                                <paragraph id="ida8736aa0eba7438d951f4a5abda5348f" commented="no">
+                                    <enum>(3)</enum>
+ <text>award not less than 25 percent of the grant funds available for each fiscal year to eligible applicants located in rural areas.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="id1328b07825bf470a991c49cc2885405c" commented="no" display-inline="no-display-inline">
+                    <enum>(b)</enum>
+                    <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out section 51708 of title 46, United States Code, as added by subsection (a), $25,000,000 for each of fiscal years 2026 through 2030.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="ida6c7e888b25e4f6fb63e2f77a51e54ca">
+                    <enum>(c)</enum>
+                    <header>Clerical amendment</header>
+ <text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/46/517">chapter 517</external-xref> of title 46, United States Code, is amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id18ba433b032a467d8c36500e2ca0d0ee">
+                        <paragraph id="idafcc4edeb0524ba0b9456a771ef02a26">
+                            <enum/>
+ <text>51708. Maritime workforce grant program.</text> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> </section> <section id="idc3f1f91ad77140588b5015c7ff24772f"> <enum>402.</enum> <header>Safety standards for certain fishing vessels</header> <text display-inline="no-display-inline">Section 4502 of title 46, United States Code, is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc5322304707344208df8e11d3f62f3f0">
+                    <enum>(1)</enum>
+ <text>in subsection (i)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id31486a89e9fc4ba9a77bdced24efe915"> <enum>(A)</enum> <text display-inline="yes-display-inline">in paragraph (1)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id850c0c88db8149a98a734f9ea0e5a364">
+                            <enum>(i)</enum>
+ <text>in subparagraph (A)(ii), by striking <quote>and</quote> after the semicolon;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id860869442a014428aca3c2a5ddc1389e">
+                            <enum>(ii)</enum>
+ <text>by redesignating subparagraph (B) as subparagraph (C); and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="idfdb49b180c80407bb7bd19acade0805b"> <enum>(iii)</enum> <text>by inserting after subparagraph (A) the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id0AEA819CBE464C1FB8483F6155C727C9">
+                                <subparagraph id="idcf2f28a4624f4babb175477261b9c557" indent="up1">
+                                    <enum>(B)</enum>
+ <text>to conduct safety and prevention training that addresses behavioral and physical health risks, to include substance use disorder and worker fatigue, facing fishing vessel operators and crewmembers; and </text>
+                                </subparagraph>
+                                <after-quoted-block>; </after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7bc0ef222089461cb2b2a0b575d20ce6">
+                        <enum>(B)</enum>
+ <text>by striking paragraph (3);</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idbb252967e6454192bccc8fd9c152de21"> <enum>(C)</enum> <text display-inline="yes-display-inline">by redesignating paragraph (4) as paragraph (3); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf63d521771814f0781a9b8eff947aac4">
+                        <enum>(D)</enum>
+ <text>in paragraph (3), as redesignated by subparagraph (C), by striking <quote>$3,000,000 for fiscal year 2023</quote> and inserting <quote>$6,000,000 for each of fiscal years 2026 and 2027</quote>;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id06312f030360435d991e8cc9ca92f917">
+                    <enum>(2)</enum>
+ <text>in subsection (j)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id3c4b846bcce641af8de455e60897ee5d"> <enum>(A)</enum> <text>in paragraph (1), by striking <quote>and severe weather detection</quote> and inserting <quote>severe weather detection, and understanding and mitigating behavioral and physical health risks, to include substance use disorder and worker fatigue, facing members of the commercial fishing industry</quote>;</text>
+                    </subparagraph>
+                    <subparagraph id="idd3e7b502d0fb4d88bd6ba0b605038fd7">
+                        <enum>(B)</enum>
+ <text>by striking paragraph (3);</text> </subparagraph> <subparagraph id="id7788e9c38bb14da18a379075909bad80"> <enum>(C)</enum> <text>by redesignating paragraph (4) as paragraph (3); and</text>
+                    </subparagraph>
+                    <subparagraph id="id99ea2e11a6374b30876f1b3b08d62964">
+                        <enum>(D)</enum>
+ <text>in paragraph (3), as redesignated by subparagraph (C), by striking <quote>$3,000,000 for fiscal year 2023</quote> and inserting <quote>$6,000,000 for each of fiscal years 2026 and 2027</quote>;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id95f99799d06e4cc3bfc78f52d25f2c2d">
+                    <enum>(3)</enum>
+ <text>by redesignating subsection (k) as subsection (l); and</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id6ef60498aff94fefb8ef81d43ef46689"> <enum>(4)</enum> <text display-inline="yes-display-inline">by inserting after subsection (j) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id6D1C0515534C46E2A54CE9EA9A32D282">
+                        <subsection commented="no" display-inline="no-display-inline" id="id551ede0ee3db4c869e00eb79c6807903">
+                            <enum>(k)</enum>
+ <text>From amounts appropriated under subsections (i)(3) and (j)(3) for a fiscal year, the Secretary may transfer to the Secretary of Health and Human Services funds to pay for the Secretary's administration of the grant programs under subsections (i) and (j) for such fiscal year.</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </section>
+        </title>
+        <title id="id2d14510d45644fc693f3333e5667ef3a" style="OLC">
+            <enum>V</enum>
+            <header>Miscellaneous</header>
+            <subtitle id="id68feba61bec2475aaa7b421adb774c54" style="OLC">
+                <enum>A</enum>
+                <header>Ocean innovation</header>
+                <section id="idc7c32f680fdc45708778429840ce3ea0">
+                    <enum>501.</enum>
+                    <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subtitle:</text> <paragraph id="id680a262e46994b3e8b33fcf0cfe1b827"> <enum>(1)</enum> <header>Blue Economy</header> <text>The term <term>Blue Economy</term> means the value and impact of sustainable industries related to the Great Lakes, oceans, bays, estuaries, and coasts on the economy of the United States, including living resources, marine construction, marine transportation, offshore energy development and siting including for renewable energy, offshore mineral production, ship and boat building, tourism, recreation, subsistence, commercial, recreational, and charter fishing, seafood processing, and other fishery-related businesses, kelp and shellfish aquaculture, coastal resilience, and other industries the Secretary of Commerce considers appropriate.</text>
+                    </paragraph>
+                    <paragraph id="idb434d11fee5e4d4f88910ddae66fb2bd">
+                        <enum>(2)</enum>
+                        <header>Director of Sea Grant</header>
+ <text>The term <term>Director of Sea Grant</term> means the Director of the National Sea Grant College Program appointed under section 204(d)(1) of the National Sea Grant College Program Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1123">33 U.S.C. 1123(d)(1)</external-xref>).</text>
+                    </paragraph>
+                    <paragraph id="id4940a860370549e49f5c682000fc8753">
+                        <enum>(3)</enum>
+                        <header>Indian Tribe</header>
+ <text>The term <term>Indian Tribe</term> has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5304">25 U.S.C. 5304</external-xref>).</text>
+                    </paragraph>
+                    <paragraph id="id344d2fa062a74dc296ac8d35e631925e">
+                        <enum>(4)</enum>
+                        <header>Native Hawaiian organization</header>
+ <text>The term <term>Native Hawaiian organization</term> has the meaning given the term in section 6207 of the Native Hawaiian Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/7517">20 U.S.C. 7517</external-xref>).</text>
+                    </paragraph>
+                    <paragraph commented="no" id="idc73d055c06714c6980ffd83afa3f3f14">
+                        <enum>(5)</enum>
+                        <header>Ocean Innovation Center for Cross-Sector Collaboration</header>
+ <text>The term <term>Ocean Innovation Center for Cross-Sector Collaboration</term> means a physical space for collaboration developed and managed in accordance with section 502(i).</text>
+                    </paragraph>
+                    <paragraph id="idb35eb2f655bb42a6bd37f6585aff9f3b">
+                        <enum>(6)</enum>
+                        <header>Ocean Innovation Cluster</header>
+ <text>The term <term>Ocean Innovation Cluster</term> means an eligible entity designated by the Secretary of Commerce under section 502.</text>
+                    </paragraph>
+                </section>
+                <section id="id45278eaf0fa44c20a00b10f13350e194">
+                    <enum>502.</enum>
+                    <header>Ocean Innovation Clusters</header>
+                    <subsection id="id7e4100d96b064b1c9946ddc4af2ff8da">
+                        <enum>(a)</enum>
+                        <header>Designation</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Secretary of Commerce, in consultation with the Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development, shall designate not fewer than 7 eligible entities as Ocean Innovation Clusters.</text>
+                    </subsection>
+                    <subsection id="id55bf5dbd560c45b0854aae87db84c0ca">
+                        <enum>(b)</enum>
+                        <header>Eligible entities</header>
+ <text>For purposes of this section, an eligible entity is an entity—</text> <paragraph id="id3348fca47cba48e7821eb81908176dae"> <enum>(1)</enum> <text>that is composed, in a concentrated geographic region, of 1 or more—</text>
+                            <subparagraph id="id412eb1d697a146fda10dd6b6ffa7b1c6">
+                                <enum>(A)</enum>
+ <text>business organizations;</text> </subparagraph> <subparagraph id="id310ee9cb412a491ca32b4db6b3efe5ad"> <enum>(B)</enum> <text>academic institutions, including minority- and Tribal-serving institutions;</text>
+                            </subparagraph>
+                            <subparagraph id="id12df1db063ca4e40a0dc2aeba72766fc">
+                                <enum>(C)</enum>
+ <text>not-for-profit organizations;</text> </subparagraph> <subparagraph id="id67d16c597d4f4e509879a461fdf952e5"> <enum>(D)</enum> <text>Federal, State, or local governmental entities, agencies, or instrumentalities;</text>
+                            </subparagraph>
+                            <subparagraph id="id391b74d9711e49a1bd606217c447c595">
+                                <enum>(E)</enum>
+ <text>Indian Tribes; or</text> </subparagraph> <subparagraph id="id716d9156930c4f86b35fd4c9f25595d7"> <enum>(F)</enum> <text>Native Hawaiian organizations;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idba5cd90c2a224a878cca7aec78e11035">
+                            <enum>(2)</enum>
+ <text>that is led by a not-for-profit organization; and</text> </paragraph> <paragraph id="idb505570e74a548eea329ab2d8629fc30"> <enum>(3)</enum> <text>that works to deliver services in the concentrated geographic region where the entity is located, enhance collaboration, promote innovation, and contribute to the equitable and sustainable growth of the Blue Economy across all sectors.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idb72d0d56b10143a5b033fade99731aab">
+                        <enum>(c)</enum>
+                        <header>Priority</header>
+ <text>In designating entities as Ocean Innovation Clusters under subsection (a), the Secretary of Commerce shall prioritize entities with a history of supporting cross-sector growth and development of the Blue Economy.</text>
+                    </subsection>
+                    <subsection id="idc15c893aa7c84ca5b85e8e7de789fb4a">
+                        <enum>(d)</enum>
+                        <header>Geographic diversity</header>
+ <text>The Secretary of Commerce shall designate not fewer than 1 Ocean Innovation Cluster under subsection (a) in—</text>
+                        <paragraph id="idbd554ce3ef84435da590ecada909b8d4">
+                            <enum>(1)</enum>
+ <text>each of the regions covered by the 5 regional offices of the National Marine Fisheries Service;</text>
+                        </paragraph>
+                        <paragraph id="idd405e03903394b59a4bb7f92ad45f0e7">
+                            <enum>(2)</enum>
+ <text>the Great Lakes region; and</text> </paragraph> <paragraph id="idca817cf441d54072acfb41e492ed39f7"> <enum>(3)</enum> <text>the Gulf of Mexico region.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id92c54407537443c7a1b6eb4e0bacc5d7">
+                        <enum>(e)</enum>
+                        <header>Considerations</header>
+ <text>In designating an eligible entity as an Ocean Innovation Cluster under subsection (a), the Secretary of Commerce shall consider the following:</text>
+                        <paragraph id="id9ecb0bc17896494f81afd82dc9c02cbe">
+                            <enum>(1)</enum>
+ <text>The economic development potential of the coastal community or region in which the entity is located.</text>
+                        </paragraph>
+                        <paragraph id="ide1a9e9cadd9f43c09833323f4a6cee23">
+                            <enum>(2)</enum>
+ <text>The ability of the entity to incorporate and bring growth and opportunity to broad geographic areas, including urban, rural, and underserved areas.</text>
+                        </paragraph>
+                        <paragraph id="id1a6b8bfe88954790b2392ebdae1de80d">
+                            <enum>(3)</enum>
+ <text>Whether the entity serves a diverse, multigenerational, ocean-dependent population consisting of groups with different socioeconomic and educational attainment levels, industries, and Indian Tribes.</text>
+                        </paragraph>
+                        <paragraph id="idacb814adff424490bf2c7750ee567b1b">
+                            <enum>(4)</enum>
+ <text>The ability of the entity to cultivate and leverage partnerships with private industry, academia, nongovernmental organizations, Federal, State, and local governments, and Indian Tribes to collaborate on shared outcomes.</text>
+                        </paragraph>
+                        <paragraph id="id6b42a59e066d4a558351cd473b5ae48b">
+                            <enum>(5)</enum>
+ <text>The relative potential for the designation of the entity as an Ocean Innovation Cluster to reverse a decline, or accelerate growth, in ocean sector jobs.</text>
+                        </paragraph>
+                        <paragraph id="id7f99fa368e6a4bb8a289dfa60ec44e7c">
+                            <enum>(6)</enum>
+ <text>The ability of the entity to carry out projects that support economic and climate resilience through economic diversification and long-term recovery from natural disasters.</text>
+                        </paragraph>
+                        <paragraph id="id948c843fc5b342719b0a00e4513e4c62">
+                            <enum>(7)</enum>
+ <text>The extent, rural and underserved nature, and economic underutilization of the coastline and ocean area that projects carried out by the entity could affect.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id464733c1b0904f1a941f15fab6a12eaf">
+                        <enum>(f)</enum>
+                        <header>Partnership management</header>
+                        <paragraph id="id77ebcfe6af1b49dda136f80b074346d3">
+                            <enum>(1)</enum>
+                            <header>Partnership liaisons</header>
+                            <subparagraph id="id2f973481c6f34c9f87390ba6177297a9">
+                                <enum>(A)</enum>
+                                <header>Designation</header>
+ <text>The Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development shall each designate 1 partnership manager from within their respective agencies to serve as a partnership liaison between each Ocean Innovation Cluster and Sea Grant, the National Oceanic and Atmospheric Administration, and the Economic Development Administration, respectively.</text>
+                            </subparagraph>
+                            <subparagraph id="ide67af172cda04b708cc97fb5c3f932b0">
+                                <enum>(B)</enum>
+                                <header>Function</header>
+ <text>Each partnership liaison designated under subparagraph (A) shall ensure that Ocean Innovation Clusters—</text>
+                                <clause id="idbd7a3aea6a164203b14f0640cfda4a74">
+                                    <enum>(i)</enum>
+ <text>have direct communication with the agency of the liaison; and</text>
+                                </clause>
+                                <clause id="idbae9db1d633f4c62b339c2c8fd2141b6">
+                                    <enum>(ii)</enum>
+ <text>allow for collaboration and alignment with Federal objectives in each region regarding the Blue Economy.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id09e26f4f93394fbf8b19df193c368d89">
+                            <enum>(2)</enum>
+                            <header>Interagency coordination</header>
+                            <subparagraph id="id5c72a931f1ac434e953954a552d70482">
+                                <enum>(A)</enum>
+                                <header>Secretary of Commerce</header>
+ <text>The Secretary of Commerce shall coordinate with the Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, the Assistant Secretary of Commerce for Economic Development, the Department of Energy, the Maritime Administration of the Department of Transportation, the Environmental Protection Agency, the Bureau of Ocean Energy Management of the Department of the Interior, the Department of Agriculture, the Coast Guard, and such other Federal agencies, including bureaus of the Department of Commerce, as the Secretary of Commerce considers appropriate to increase technical knowledge exchange and opportunities for cross-sector collaboration with those agencies.</text>
+                            </subparagraph>
+                            <subparagraph id="idaa14cedd6be64b029b9fbde3136e892a">
+                                <enum>(B)</enum>
+                                <header>Secretary of Energy</header>
+ <text>With respect to matters relating to the nexus of the Blue Economy and the responsibilities and expertise of the Department of Energy, the Secretary of Energy—</text>
+                                <clause id="idc238c89b7da5420e8c64a1549d841e0d">
+                                    <enum>(i)</enum>
+ <text>shall provide advice and recommendations to the Secretary of Commerce in order to increase technical knowledge exchange and opportunities for cross-sector collaboration; and</text>
+                                </clause>
+                                <clause id="idefac1494397f4c04a0007ddd66a18c75">
+                                    <enum>(ii)</enum>
+ <text>may provide such advice and recommendations without any formal request from the Department of Commerce.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id3a7bf52e615b4c85afbf67aa18d8d9f9">
+                        <enum>(g)</enum>
+                        <header>Development of economic impact metrics of Ocean Innovation
+                            Clusters</header>
+ <text>The Administrator of the National Oceanic and Atmospheric Administration, the Director of the Bureau of Economic Analysis of the Department of Commerce, and the heads of other relevant Federal agencies shall use and refine the Marine Economy Satellite Account to measure the value to and impact of Ocean Innovation Clusters on the Blue Economy.</text>
+                    </subsection>
+                    <subsection id="id8e6e542314854e758676a5410fde6fd2">
+                        <enum>(h)</enum>
+                        <header>Areas of focus</header>
+ <text>The Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development shall coordinate with each Ocean Innovation Cluster in the following areas of focus:</text>
+                        <paragraph id="ida716e343ae3e40dcaa048abf332c5030">
+                            <enum>(1)</enum>
+ <text>Increasing pathways for new entrants into the Blue Economy for individuals and entities.</text>
+                        </paragraph>
+                        <paragraph id="id04ce7c652ea74e66affca80eae8aa11f">
+                            <enum>(2)</enum>
+ <text>Intellectual property management.</text> </paragraph> <paragraph id="idfd3f8f7d26a2480b8ec9041d109adf8b"> <enum>(3)</enum> <text>Enhancing the sustainability of seafood supply chains, including with respect to food, transportation, processing, health and beauty products, animal feed, medical biotechnology, bioplastics, biofuels, and other value-added products, to strive for full use of harvested natural resources.</text>
+                        </paragraph>
+                        <paragraph id="id2a5392b5b928446aae2352df04448348">
+                            <enum>(4)</enum>
+ <text>Providing significant and sustainable economic opportunity through advanced research, cross-sector science, and technology development.</text>
+                        </paragraph>
+                        <paragraph id="idd106ceff810a43ab866d761cef920a88">
+                            <enum>(5)</enum>
+ <text>Contributing new knowledge, processes, technology, and support for stakeholders in the Blue Economy, especially to advance sustainability in specific sectors.</text>
+                        </paragraph>
+                        <paragraph id="idb343db3ec3ed410ba927cc288664869f">
+                            <enum>(6)</enum>
+ <text>Working with Federal, State, local, and Tribal agencies to clearly communicate laws, regulations, and agency practices affecting industry needs, planning, or growth opportunities.</text>
+                        </paragraph>
+                        <paragraph id="ideeec06297de44b64928fa3802add5245">
+                            <enum>(7)</enum>
+ <text>Creating investable opportunities through the development of economies of scale to enhance growth opportunities, job creation, sustainability, and expansion for small businesses within the Blue Economy.</text>
+                        </paragraph>
+                        <paragraph id="iddc5e46e946ce4960a9ec782db5c5afaa">
+                            <enum>(8)</enum>
+ <text>Workforce development and training, business planning, identifying existing and needed technology and economic infrastructure, and coordinated research and development among small businesses, government, and industry.</text>
+                        </paragraph>
+                        <paragraph id="idafc40cfc5c5944739d42d2c7323134c1">
+                            <enum>(9)</enum>
+ <text>Research, development, and implementation of ocean energy, bioprospecting, and other innovative and sustainable ocean resource development endeavors.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id935bdbc0dd2e42518a166d49a15d6fea">
+                        <enum>(i)</enum>
+                        <header>Ocean Innovation Centers for Cross-Sector Collaboration</header>
+                        <paragraph id="id67f549c704ad473697bbe0398192badb">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>In order to foster collaboration and innovation and strengthen regional ocean sector economies while creating employment opportunities, the Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development shall collaborate with cross-sector partners to jointly develop or designate at least 1 physical space for collaboration as an Ocean Innovation Center for Cross-Sector Collaboration within each of the 7 regions with an Ocean Innovation Cluster.</text>
+                        </paragraph>
+                        <paragraph id="iddfe96336d076478e8fd9f05e152ae1e1">
+                            <enum>(2)</enum>
+                            <header>Management</header>
+ <text>An Ocean Innovation Cluster or a group of Ocean Innovation Clusters shall manage the Ocean Innovation Center for Cross-Sector Collaboration of the region in which the Cluster or Clusters is located.</text>
+                        </paragraph>
+                        <paragraph id="idbb1f173d0e5e46c483598d0962faaf48">
+                            <enum>(3)</enum>
+                            <header>Functions</header>
+ <text>Each Ocean Innovation Center for Cross-Sector Collaboration shall—</text>
+                            <subparagraph id="idce984c7270f94726ac6cbc0fa34cf89b">
+                                <enum>(A)</enum>
+ <text>serve as a hub for partners within Ocean Innovation Clusters to work toward the areas of focus in described in subsection (h);</text>
+                            </subparagraph>
+                            <subparagraph id="ida2e29a7153e141efb91a3cca45a46edb">
+                                <enum>(B)</enum>
+ <text>support a community of entrepreneurs focused on strengthening vibrant marine-dependent communities and the Blue Economy;</text>
+                            </subparagraph>
+                            <subparagraph id="idb67e0017f3ed4c71ac501a4f10b3696a">
+                                <enum>(C)</enum>
+ <text>create workspaces and laboratories designed to promote collaboration, including through shared meeting rooms, access to technology, common spaces, and offices;</text>
+                            </subparagraph>
+                            <subparagraph id="idc760b1470d27444fa213a952b979966d">
+                                <enum>(D)</enum>
+ <text>strengthen relationships among industry sectors through shared scientific, staffing, and business resources;</text>
+                            </subparagraph>
+                            <subparagraph id="ide1835f97eda743558202c2959c70aa4e">
+                                <enum>(E)</enum>
+ <text>develop the critical networks with cross-sector partners that entrepreneurs need to grow effectively; and</text>
+                            </subparagraph>
+                            <subparagraph id="id3c15505086ed4c0586ac03d5e11da3db">
+                                <enum>(F)</enum>
+ <text>develop the next generation of Blue Economy workers by providing internships, apprenticeships, or training, as appropriate, including for underrepresented and Tribal communities and local trade schools.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section id="idd9f1e38e2c8a41f3822e3d16518b3439">
+                    <enum>503.</enum>
+                    <header>Grants for Ocean Innovation Clusters</header>
+ <text display-inline="no-display-inline">The Stevenson-Wydler Technology Innovation Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/15/3701">15 U.S.C. 3701 et seq.</external-xref>) is amended by adding at the end the following:</text>
+                    <quoted-block id="id2a8b1d1857894a2d825f82829457a19f" display-inline="no-display-inline" style="OLC">
+                        <section id="id10db91250a764fbb812dcce81610415b">
+                            <enum>31.</enum>
+                            <header>Grants for Ocean Innovation Clusters</header>
+                            <subsection id="idf89314d80a5f420fbc4076eed5b4987d">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>The Secretary, in consultation with the Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development, may award grants, on a competitive basis, to Ocean Innovation Clusters for the purposes described in subsection (b).</text>
+                            </subsection>
+                            <subsection id="id5aa9e50a4ba34d7a949d465cf1335151">
+                                <enum>(b)</enum>
+                                <header>Purposes</header>
+ <text>The Secretary may award grants under subsection (a) for the operation and administration of one or more Ocean Innovation Clusters under section 502 of the <short-title>Working Waterfronts Act of 2025</short-title>, with the goal that Ocean Innovation Clusters will become membership-based, self-sustaining entities. </text>
+                            </subsection>
+                            <subsection id="id5d87b1c7e54b4d9494b4ab736de16656">
+                                <enum>(c)</enum>
+                                <header>Input</header>
+ <text>In awarding a grant under subsection (a), the Secretary shall provide an opportunity for input from the Director of Sea Grant, the Assistant Secretary of Commerce for Oceans and Atmosphere, and the Assistant Secretary of Commerce for Economic Development. </text>
+                            </subsection>
+                            <subsection id="id7560eb2c242949e699bc7c87e1060cc3">
+                                <enum>(d)</enum>
+                                <header>Term of grants</header>
+                                <paragraph id="id084c35c8296641259e0a64bee52eec16">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>The term of a grant awarded under subsection (a) shall be 2 years.</text>
+                                </paragraph>
+                                <paragraph id="idb798eea7c307420ab5eb5e1f2a369246">
+                                    <enum>(2)</enum>
+                                    <header>Renewal</header>
+ <text>The Secretary may renew a grant awarded under subsection (a) for additional periods of such duration as the Secretary determines to be appropriate and necessary for the Ocean Innovation Cluster that received the grant to provide regional economic benefits.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idda854ce5b8e446ad8c26e7d61111a5ad">
+                                <enum>(e)</enum>
+                                <header>Limitations on grant amounts</header>
+ <text>A grant awarded under subsection (a) may not exceed $10,000,000.</text>
+                            </subsection>
+                            <subsection id="id755f0b11ebd24640ad0efa0a8400b4a9">
+                                <enum>(f)</enum>
+                                <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to the Secretary to award grants under subsection (a) $10,000,000 for each of fiscal years 2026 through 2030.</text>
+                            </subsection>
+                            <subsection id="id0485e2f08e9c408689cac017f18b490d">
+                                <enum>(g)</enum>
+                                <header>Definitions</header>
+ <text>In this section: </text> <paragraph id="id01e2e478bb0f426da1469348a19b55aa"> <enum>(1)</enum> <header>Director of Sea Grant</header> <text>The term <term>Director of Sea Grant</term> means the Director of the National Sea Grant College Program appointed under section 204(d)(1) of the National Sea Grant College Program Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1123">33 U.S.C. 1123(d)(1)</external-xref>).</text>
+                                </paragraph>
+                                <paragraph id="id9829b2f4df2b465badf55383b70f760a" commented="no" display-inline="no-display-inline">
+                                    <enum>(2)</enum>
+                                    <header>Ocean Innovation Cluster</header>
+ <text>The term <term>Ocean Innovation Cluster</term> has the meaning given that term in section 501 of the <short-title>Working Waterfronts Act of 2025</short-title>.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </section>
+            </subtitle>
+            <subtitle id="id0f054922f0cd4f4d99f61cc5b7c5b21b" style="OLC">
+                <enum>B</enum>
+                <header>Vegetated coastal ecosystems and Great Lakes ecosystems</header>
+                <section id="id4DE0080F2C514AADBACED8FAF39E4F9B">
+                    <enum>511.</enum>
+                    <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subtitle:</text> <paragraph display-inline="no-display-inline" id="id2075A28F321A47A2A3A61E64A87F1E73"> <enum>(1)</enum> <header>Administrator</header> <text>The term <term>Administrator</term> means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary’s capacity as the Administrator of the National Oceanic and Atmospheric Administration.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idD8791D157E614370BB02EF8913390033">
+                        <enum>(2)</enum>
+                        <header>Indian Tribe</header>
+ <text>The term <term>Indian Tribe</term> has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5304">25 U.S.C. 5304</external-xref>).</text>
+                    </paragraph>
+                    <paragraph id="id8ab12475b36c43978d352e18224c01d8">
+                        <enum>(3)</enum>
+                        <header>Interagency Working Group</header>
+ <text>The term <term>Interagency Working Group</term> means the Interagency Working Group on Vegetated Coastal Ecosystems and Great Lakes Ecosystems established under section 512(a).</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id0fc3fe6792ac43fea6ff797ea7570ac4">
+                        <enum>(4)</enum>
+                        <header>Natural infrastructure</header>
+ <text>The term <term>natural infrastructure</term> has the meaning given that term in section 101(a) of title 23, United States Code.</text>
+                    </paragraph>
+                    <paragraph id="idadc24d7e8b1b4f6e93509f14e5098394">
+                        <enum>(5)</enum>
+                        <header>Nonprofit organization</header>
+ <text>The term <term>nonprofit organization</term> means an organization described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)(3)</external-xref> of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of that Code.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id3e3c5bcdcff64c0383bd1cd54e9602eb">
+                        <enum>(6)</enum>
+                        <header>State</header>
+ <text display-inline="yes-display-inline">The term <term>State</term> means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id62b40005f2c44887b1227b36e23b53e3">
+                        <enum>(7)</enum>
+                        <header>Vegetated coastal ecosystems</header>
+ <text>The term <term>vegetated coastal ecosystems</term> includes mangroves, tidal marshes, seagrasses, kelp forests, and other tidal, freshwater, or salt-water wetlands.</text>
+                    </paragraph>
+                </section>
+                <section id="H66C35CECB3074A378C28E029EDE498FD">
+                    <enum>512.</enum>
+                    <header>Interagency Working Group on Vegetated Coastal Ecosystems and Great
+                        Lakes ecosystems</header>
+                    <subsection id="H84FA5399F5B14BA6AF697BEF2695FDF8">
+                        <enum>(a)</enum>
+                        <header>Establishment</header>
+ <text>The Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall establish an interagency working group to be known as the <quote>Interagency Working Group on Vegetated Coastal Ecosystems and Great Lakes Ecosystems</quote>.</text>
+                    </subsection>
+                    <subsection id="H299771CA3C00411AA8A7C49406751A22">
+                        <enum>(b)</enum>
+                        <header>Membership</header>
+ <text>The Interagency Working Group shall be comprised of the Ocean Policy Committee established by section 8932 of title 10, United States Code.</text>
+                    </subsection>
+                    <subsection id="H13FEC76B1ED64A5EB57E5CEF4CE0197B">
+                        <enum>(c)</enum>
+                        <header>Chairperson</header>
+ <text>The Interagency Working Group shall be chaired by the Administrator.</text>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="idc222ced7f2534612be164997f3bb4c18">
+                        <enum>(d)</enum>
+                        <header>Responsibilities</header>
+ <text>The Administrator, in consultation with the Interagency Working Group, shall produce, update, maintain, and use a map and inventory of vegetated coastal ecosystems and Great Lakes ecosystems as described in section 513.</text>
+                    </subsection>
+                </section>
+                <section id="HA64F2B5EAFEF4BD1872D5990A603DE65">
+                    <enum>513.</enum>
+                    <header>National-level map and inventory of vegetated coastal ecosystems and
+                        Great Lakes ecosystems</header>
+                    <subsection id="H203D8CE63DC44EBF830C3718C170F2FE">
+                        <enum>(a)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Interagency Working Group shall produce, update, and maintain a national-level map and inventory of vegetated coastal and Great Lakes ecosystems that includes—</text>
+                        <paragraph id="HC6E8171B394F484485C441AD7C766DD9">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the types of habitats and the species in such ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="H3D39D4CD1DE2434B80BC863B2C0D61F7">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the condition of such ecosystems, including whether an ecosystem is degraded, drained, eutrophic, or tidally restricted;</text>
+                        </paragraph>
+                        <paragraph id="id9715F76C757F469EB0185B478C3DD91E">
+                            <enum>(3)</enum>
+ <text>the type of public or private ownership and any protected status of such ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="HD78B03EF76B4487E9CF95AB7F0313203">
+                            <enum>(4)</enum>
+ <text display-inline="yes-display-inline">the size of such ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="H8A1D0EAC62BE4CC09956EBA7501B2C47">
+                            <enum>(5)</enum>
+ <text display-inline="yes-display-inline">the salinity boundaries of such ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="H1925C87D888641F2B2887EB106F66B36">
+                            <enum>(6)</enum>
+ <text display-inline="yes-display-inline">the tidal boundaries of such ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="id9fc6914a79ba426eaaaad05047c0b38a">
+                            <enum>(7)</enum>
+ <text>an assessment of carbon sequestration potential, methane production, and net greenhouse gas reductions with respect to such ecosystems, including consideration of—</text>
+                            <subparagraph id="id8b9fec9958ed43c482b28bff72ef3665">
+                                <enum>(A)</enum>
+ <text>quantification;</text> </subparagraph> <subparagraph id="ida0a9611cd97a45a298ffca10f4318e3f"> <enum>(B)</enum> <text>verifiability;</text>
+                            </subparagraph>
+                            <subparagraph id="id570991547e4643c5af285a50c9d40eb2">
+                                <enum>(C)</enum>
+ <text>comparison to a historical baseline as available; and</text> </subparagraph> <subparagraph id="id4162cf52d4184bb291a0f4377a778146"> <enum>(D)</enum> <text>permanence of those benefits;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H8665926C6E234351B8E90BC2231C43F9">
+                            <enum>(8)</enum>
+ <text display-inline="yes-display-inline">the potential for landward migration within such ecosystems as a result of sea level rise;</text>
+                        </paragraph>
+                        <paragraph id="H618816DAB20F480687F5FD54600A9B3F">
+                            <enum>(9)</enum>
+ <text>any upstream restrictions of such ecosystems that are detrimental to the watershed process and conditions, such as dams, dikes, levees, and other water management practices;</text>
+                        </paragraph>
+                        <paragraph id="H65631E994BC84E1D8736B9BC5334CB7D">
+                            <enum>(10)</enum>
+ <text>the conversion of such ecosystems to other land uses and the cause of such conversion; and</text>
+                        </paragraph>
+                        <paragraph id="H5B981B3363254CC492908C330C2F4F54">
+                            <enum>(11)</enum>
+ <text display-inline="yes-display-inline">a depiction of the effects of climate change, including sea level rise, environmental stressors, and other stressors on the sequestration rate, carbon storage, and potential of such ecosystems.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H3AA7F2464C6F4B9EB35E4F05F22CC50D">
+                        <enum>(b)</enum>
+                        <header>Data incorporation; engagement</header>
+ <text>In carrying out subsection (a), the Interagency Working Group shall—</text>
+                        <paragraph id="id16636657BCFB46CDB3655647AE5F4DB7">
+                            <enum>(1)</enum>
+ <text>incorporate, to the extent practicable, data collected—</text> <subparagraph commented="no" display-inline="no-display-inline" id="iddee9b2b204ff4de6957f59aab141d5b2"> <enum>(A)</enum> <text display-inline="yes-display-inline">by Federal agencies, State agencies, Indian Tribes, or local agencies through research that is funded, in whole or in part, by the Federal Government; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id82f8bae136bc4cd5949223a76052b6d6">
+                                <enum>(B)</enum>
+ <text>through peer-reviewed published works; and</text> </subparagraph> </paragraph> <paragraph id="id8ec5e1cfaaf94d1ab5a116c189b39b4d"> <enum>(2)</enum> <text>engage regional experts, State agencies, Indian Tribes, and additional data and information resources in order to accurately account for regional differences in vegetated coastal ecosystems and Great Lakes ecosystems.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="HFBFCC26E4534485A8E1F1E3D2FC286EB">
+                        <enum>(c)</enum>
+                        <header>Use of map and inventory</header>
+ <text>The Interagency Working Group shall use the national-level map and inventory produced under subsection (a)—</text>
+                        <paragraph commented="no" id="HCB46058D8D254BD88BCA357FBF9685EC">
+                            <enum>(1)</enum>
+ <text>to assess the carbon sequestration potential of different vegetated coastal ecosystems and Great Lakes ecosystems and account for any regional differences;</text>
+                        </paragraph>
+                        <paragraph commented="no" id="H78C417B3125C40B2B90AE0C960C61CE5">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">to assess and quantify emissions from degraded and destroyed vegetated coastal ecosystems and Great Lakes ecosystems;</text>
+                        </paragraph>
+                        <paragraph id="HD0DBCFF7B24C4D64861C9778A2916253">
+                            <enum>(3)</enum>
+ <text>to develop regional assessments in partnership with, or to provide technical assistance to—</text>
+                            <subparagraph id="id894C76CFAB3748EDA837A97667C75492">
+                                <enum>(A)</enum>
+ <text>regional, State, and local government agencies;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id21b527fea69a4717839d9967b47dcae0"> <enum>(B)</enum> <text display-inline="yes-display-inline">Indian Tribes; and</text>
+                            </subparagraph>
+                            <subparagraph id="idDAAD86DB2B584225A99782146FD06592">
+                                <enum>(C)</enum>
+ <text>regional coastal observing systems (as defined in section 12303(6) of the Integrated Coastal and Ocean Observation System Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3602">33 U.S.C. 3602(6)</external-xref>));</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="HA1CE16CC05E54F89ADD281983D3062F4">
+                            <enum>(4)</enum>
+ <text display-inline="yes-display-inline">to assess degraded vegetated coastal ecosystems and Great Lakes ecosystems and the potential for restoration of such ecosystems, including developing scenario modeling to identify vulnerable land areas and living shorelines where management, conservation, and restoration efforts should be focused;</text>
+                        </paragraph>
+                        <paragraph id="HF8B9127719104EDC933486651F2232DC">
+                            <enum>(5)</enum>
+ <text display-inline="yes-display-inline">to produce predictions relating to carbon sequestration rates in the context of climate change, environmental stressors, and other stressors;</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id8bbe19cb9d03452a8537bde852517b32">
+                            <enum>(6)</enum>
+ <text display-inline="yes-display-inline">to inform how and where coastal vegetation can serve as natural infrastructure to most effectively protect coastlines from storm surges and climate hazards; and</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idb95a5ef78aba450eb4672e5460db304a">
+                            <enum>(7)</enum>
+ <text>to further understand which types of coastal and Great Lakes vegetation can be used as natural infrastructure to protect coastlines in different climates, especially cold climates, including the Arctic region.</text>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section commented="no" display-inline="no-display-inline" id="iddfdbe1d18935431eaae07836a3048af5">
+                    <enum>514.</enum>
+                    <header>Grants for pilot projects and research on coastal natural infrastructure
+                        in cold climates</header>
+                    <subsection id="idf1ded9d58e8c4dc68afa6a606ceb463d">
+                        <enum>(a)</enum>
+                        <header>In general</header>
+ <text>During fiscal years 2026 and 2027, the Administrator shall award grants through the national sea grant college program, on a competitive basis, to eligible entities to support—</text>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id58c5c389d4ca4bbd9fc8aedd8ac3ee12">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the implementation of coastal natural infrastructure pilot projects in cold climates, including the Arctic region of the United States, that will protect the coastline from storm surges, hazards caused by climate change, erosion, and permafrost melt; and</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idfaf6f78c0aa247fb8b59007d3cf8f253">
+                            <enum>(2)</enum>
+ <text>research on how effective coastal natural infrastructure projects can be in protecting coastlines in cold climates, including the Arctic region.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="idb17041bf97b94c0a9581dc8af7e1192c">
+                        <enum>(b)</enum>
+                        <header>Eligibility</header>
+ <text>To be eligible to receive a grant under subsection (a), an entity shall be a—</text>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id027230db141c4eaf90ae34d7e7f42ab9">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">a State or local government;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="ida4c62eea37654ae9a136655c3398bc70"> <enum>(2)</enum> <text>an Indian Tribe;</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id8074a27da1db44f1b31c9712dbf29d62">
+                            <enum>(3)</enum>
+ <text>an academic institution;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="iddfbd39edfdaf4b67a3416831ec02b7c8"> <enum>(4)</enum> <text>a nonprofit organization; or</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idfb49f1cbecf4466fb97cf3fe6d27d9dd">
+                            <enum>(5)</enum>
+ <text>a combination of entities described in paragraphs (1) through (4).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="id0eea263cadd94340bfbb71e7165980f7">
+                        <enum>(c)</enum>
+                        <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2026 and 2027.</text>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="id7defba19d1c04d3a97e4f86746e58582">
+                        <enum>(d)</enum>
+                        <header>National sea grant college program defined</header>
+ <text>In this section, the term <term>national sea grant college program</term> means the national sea grant college program maintained under section 204 of the National Sea Grant College Program Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1123">33 U.S.C. 1123</external-xref>).</text>
+                    </subsection>
+                </section>
+            </subtitle>
+            <subtitle id="idc21e31be286e41fe8986fd2a3d55c0a8" style="OLC">
+                <enum>C</enum>
+                <header>Ocean acidification</header>
+                <section id="id1e0581d1222f459abf118fc20b709f72">
+                    <enum>521.</enum>
+                    <header>Definitions in Federal Ocean Acidification Research And Monitoring Act
+                        of 2009</header>
+ <text display-inline="no-display-inline">Section 12403 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3702">33 U.S.C. 3702</external-xref>) is amended—</text>
+                    <paragraph id="idc52b2802d9984f30b3891933ddc4f730">
+                        <enum>(1)</enum>
+ <text>by striking paragraph (4);</text> </paragraph> <paragraph id="idDD4B580F08CF4DF3B8EDF5045CB06374"> <enum>(2)</enum> <text>by redesignating paragraphs (2), (3), and (5) as paragraphs (4), (5), and (6) respectively;</text>
+                    </paragraph>
+                    <paragraph id="id8EED5ACF94E14F579FA594E70CF3B49E">
+                        <enum>(3)</enum>
+ <text>by inserting after paragraph (1) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id33164C04B42945B09807B2A9C6AF2A38"> <paragraph commented="no" id="idED92506AD1C64B7AB6C68C409BE0FB53"> <enum>(2)</enum> <header>Indian Tribe</header> <text>The term <term>Indian Tribe</term> has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5304">25 U.S.C. 5304</external-xref>).</text>
+                            </paragraph>
+                            <paragraph id="id091786b1b8d248ae8538e2ff40cdb053">
+                                <enum>(3)</enum>
+                                <header>Native Hawaiian organization</header>
+ <text>The term <term>Native Hawaiian organization</term> has the meaning given that term in section 3 of the NATIVE Act (<external-xref legal-doc="usc" parsable-cite="usc/25/4352">25 U.S.C. 4352</external-xref>).</text>
+                            </paragraph>
+                            <after-quoted-block>; </after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                    <paragraph id="idE8F49A6C695849ADACCE1851A101ABCB">
+                        <enum>(4)</enum>
+ <text>in paragraph (4), as redesignated by paragraph (2), by inserting <quote>an increase of</quote> before <quote>carbon dioxide</quote>; and</text>
+                    </paragraph>
+                    <paragraph id="id2b2ff820d6b84744a99e1977391a7cf2">
+                        <enum>(5)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id087d2a3b96594027960f588fd6b20425"> <paragraph id="id1a17dc33de3a4256b89239431f18b74e"> <enum>(7)</enum> <header>Subcommittee</header> <text>The term <term>Subcommittee</term> means the National Science and Technology Council Subcommittee on Ocean Science and Technology.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idF78FCB39F77E4B8EB1167C4F3DA5A67E">
+                                <enum>(8)</enum>
+                                <header>United States</header>
+ <text>The term <term>United States</term> means the States, collectively.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </section>
+                <section id="idbe06af9d3ace4cb9aaf287b1f64d3da8">
+                    <enum>522.</enum>
+                    <header>Improvement of collaboration on ocean acidification</header>
+                    <subsection id="idDEC58ED35BB546E587CBBE09F3F46A5F">
+                        <enum>(a)</enum>
+                        <header>Ongoing input mechanism</header>
+ <text>Section 12404(c)(2) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703(c)(2)</external-xref>) is amended—</text>
+                        <paragraph id="id87972C85F90B4287B119EC7B7D04ED84">
+                            <enum>(1)</enum>
+ <text>in subparagraph (B), by striking <quote>; and</quote> and inserting a semicolon;</text>
+                        </paragraph>
+                        <paragraph id="id9E674B406D184B16AD99696129AA18D9">
+                            <enum>(2)</enum>
+ <text>in subparagraph (C), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                        </paragraph>
+                        <paragraph id="id7B1B8BE994264705B9F9A375903C0D25">
+                            <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" id="id0B6A20E1A16B49B89D386F782C62F7DA" act-name=""> <subparagraph id="id32B0C3FF3A0F41BC9432B01BDC8861B8"> <enum>(D)</enum> <text>establish an ongoing mechanism (such as a liaison or other contact of the National Oceanic and Atmospheric Administration, standing meetings, or an online platform) to engage affected industry members, coastal stakeholders, community acidification networks, fishery management councils and commissions, Indian Tribes, Native Hawaiian organizations, Tribal organizations, Tribal consortia, non-Federal resource managers, and scientific experts not employed by the Federal Government to provide input on research, data, and monitoring that is necessary to support on-the-ground management, decision making, and adaptation related to ocean acidification and coastal acidification and the impacts of ocean acidification and coastal acidification.</text>
+                                </subparagraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idC4D9F99011EE4E2CA4F41F1DC842152F">
+                        <enum>(b)</enum>
+                        <header>Advisory Board membership</header>
+ <text>Section 12404(c)(3) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703(c)(3)</external-xref>) is amended—</text>
+                        <paragraph id="id037484CB07E741EF9A2ECA169027F677">
+                            <enum>(1)</enum>
+ <text>by redesignating subparagraphs (G) through (Q) as subparagraphs (H) through (R), respectively;</text>
+                        </paragraph>
+                        <paragraph id="id524B5AFBA9E64CBD965C6EB660BF2710">
+                            <enum>(2)</enum>
+ <text>by inserting after subparagraph (F) the following:</text> <quoted-block style="OLC" id="id48840F69F02141CDB57C9BAB4C7E678E" act-name=""> <subparagraph id="id21BA33479B954CAB8548F19D4073D98E"> <enum>(G)</enum> <text>Two representatives from Indian Tribes, Native Hawaiian organizations, Tribal organizations, or Tribal consortia affected by ocean acidification and coastal acidification.</text>
+                                </subparagraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </paragraph>
+                        <paragraph id="idB33DED04D1064AFA8D1596543344EE07">
+                            <enum>(3)</enum>
+ <text>in subparagraph (H), as redesignated by paragraph (1), by striking <quote>Six</quote> and inserting <quote>Four</quote>.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id97E1B2B5067748E1A1ED5A1C7E729131">
+                        <enum>(c)</enum>
+                        <header>Appointment of Advisory Board members</header>
+ <text>Section 12404(c)(4)(C) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703(c)(4)(C)</external-xref>) is amended by inserting <quote>Indian Tribes and Native Hawaiian organizations,</quote> after <quote>managers,</quote>.</text>
+                    </subsection>
+                    <subsection id="id47F80C3008AE4A259511DF2D23CDEFE3">
+                        <enum>(d)</enum>
+                        <header>Engagement and coordination with Indian Tribes and Native Hawaiian
+                            organizations</header>
+ <text>Paragraph (9) of section 12404(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703(c)</external-xref>) is amended to read as follows:</text>
+                        <quoted-block style="OLC" id="id486913081FA4409891E51AD236FF2583"
+                            act-name="">
+                            <paragraph id="id55588F6E649E451FAE9211B7D9AF0CB0">
+                                <enum>(9)</enum>
+                                <header>Engagement and coordination with Indian Tribes and Native
+                                    Hawaiian organizations</header>
+                                <subparagraph id="id55AF718C60AF45EA8CD653AE227FF4A5">
+                                    <enum>(A)</enum>
+                                    <header>Policy required</header>
+ <text>Not later than one year after the date on which the Advisory Board is established, the Advisory Board shall develop and commence maintaining a policy for engagement and coordination with Indian Tribes and Native Hawaiian organizations affected by ocean acidification and coastal acidification.</text>
+                                </subparagraph>
+                                <subparagraph id="id66A668BE8DC649C5BF1821D90A97EC58">
+                                    <enum>(B)</enum>
+                                    <header>Consultation</header>
+ <text>In developing the policy under subparagraph (A), the Advisory Board shall consult with Indian Tribes and Native Hawaiian organizations affected by ocean acidification and coastal acidification.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subsection>
+                    <subsection id="idAB8960A1252244908650B2E8E1B6F843">
+                        <enum>(e)</enum>
+                        <header>Collaboration on vulnerability assessments, research planning, and
+                            similar activities</header>
+ <text>Section 12404(e)(4)(A) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703(e)(4)(A)</external-xref>) is amended—</text>
+                        <paragraph id="id4350C5CEBE0C4FEEA981D9DB937BC9CE">
+                            <enum>(1)</enum>
+ <text>by redesignating clauses (ix) and (x) as clauses (x) and (xi), respectively; and</text>
+                        </paragraph>
+                        <paragraph id="idBC8A4CA4C07D40409999640093A373A1">
+                            <enum>(2)</enum>
+ <text>by inserting after clause (viii) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idC5DF44367D5D464297D80295F9E685CD"> <clause id="idC910CEDB13014256AD0688B47AC5D2F1"> <enum>(ix)</enum> <text>identifies the efforts of the Secretary to collaborate with State and local governments, Indian Tribes, and Native Hawaiian organizations on community vulnerability assessments, research planning, and similar activities, pursuant to section 12406(e);</text>
+                                </clause>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="idC1133AF710F746CE94A01CD2D10844D0">
+                        <enum>(f)</enum>
+                        <header>Contents of strategic research plan</header>
+ <text>Section 12405(b) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3704">33 U.S.C. 3704(b)</external-xref>) is amended—</text>
+                        <paragraph id="idFABBE1AD0F1D44D4BDA8470C7DDD18F8">
+                            <enum>(1)</enum>
+ <text>in paragraph (10), by striking <quote>section 12404(c)(4)</quote> and inserting <quote>section 12404(e)(4)</quote>; and</text>
+                        </paragraph>
+                        <paragraph id="id6E59D4758ACC4E8894AAB724B1D4A48E">
+                            <enum>(2)</enum>
+ <text>in paragraph (11), by striking <quote>potentially affected industry members, coastal stakeholders, fishery management councils and commissions, Tribal governments, non-Federal resource managers, and scientific experts</quote> and inserting <quote>affected industry members, coastal stakeholders, community acidification networks, fishery management councils and commissions, Indian Tribes, Native Hawaiian organizations, non-Federal resource managers, and scientific experts not employed by the Federal Government</quote>.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id24F5D7CC00494960B773A0B7D9847915">
+                        <enum>(g)</enum>
+                        <header>Improving collaboration on NOAA ocean acidification
+                            activities</header>
+ <text>Section 12406 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3705">33 U.S.C. 3705</external-xref>) is amended—</text>
+                        <paragraph id="idF60010462C0A4337AEE6EE5442CD371B">
+                            <enum>(1)</enum>
+ <text>in subsection (a)—</text> <subparagraph id="id27892E8006F3419E837339EA0027E23F"> <enum>(A)</enum> <text>in paragraph (1)—</text>
+                                <clause id="idDB87949BFB6C4A84AB6BC8D1B551C350">
+                                    <enum>(i)</enum>
+ <text>in subparagraph (D), by adding a semicolon at the end; and</text>
+                                </clause>
+                                <clause id="id9CC1C3224AE14C70ACEA2A0847C9BE60">
+                                    <enum>(ii)</enum>
+ <text>in subparagraph (F), by striking <quote>Tribal governments</quote> and inserting <quote>Indian Tribes, Native Hawaiian organizations</quote>; and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="id5AAB2D49FAB5404CA59553480507C316">
+                                <enum>(B)</enum>
+ <text>in paragraph (4), by striking <quote>industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, community acidification networks, indigenous knowledge groups, and scientific experts</quote> and inserting <quote>affected industry members, coastal stakeholders, community acidification networks, fishery management councils and commissions, Indian Tribes, Native Hawaiian organizations, non-Federal resource managers, and scientific experts not employed by the Federal Government</quote>;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id0E3D4CFC1A494D9C8AEBE64BD704F0EC">
+                            <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph id="id1F5BE79FC63F4CB79E0928CB0BBE0548"> <enum>(A)</enum> <text>in paragraph (1), by striking <quote>State, local, and Tribal governments</quote> and inserting <quote>State and local governments, Indian Tribes, Native Hawaiian organizations,</quote>; and</text>
+                            </subparagraph>
+                            <subparagraph id="id4E4CCCB6B8C64788AC518700C0065403">
+                                <enum>(B)</enum>
+ <text>in paragraph (2)—</text> <clause id="id7BB8FEB64C6145DEB635E335FDAC0EEE"> <enum>(i)</enum> <text>in subparagraph (A), by striking <quote>; or</quote> and inserting a semicolon;</text>
+                                </clause>
+                                <clause id="id614F1FDCB91B46DD89BDC5186EEF2C2F">
+                                    <enum>(ii)</enum>
+ <text>by redesignating subparagraph (B) as subparagraph (C);</text> </clause> <clause id="id5EED4C35C93E44B3A49303D09FE6DD4D"> <enum>(iii)</enum> <text>by inserting after subparagraph (A) the following:</text>
+                                    <quoted-block style="OLC" id="id7EA16F1794584BA4A656A2291BAE7BAB" act-name="">
+                                        <subparagraph id="id5BA421277C9C4224BFB60C85FFB9C0AE">
+                                            <enum>(B)</enum>
+ <text>on ocean acidification and coastal acidification research, data, and monitoring from affected industry members, coastal stakeholders, community acidification networks, fishery management councils and commissions, Indian Tribes, Native Hawaiian organizations, non-Federal resource managers, and scientific experts not employed by the Federal Government; or</text>
+                                        </subparagraph>
+                                        <after-quoted-block>; and </after-quoted-block>
+                                    </quoted-block>
+                                </clause>
+                                <clause id="id65AE8345F47749C280AAA89B72947881">
+                                    <enum>(iv)</enum>
+ <text>in subparagraph (C), as redesignated by clause (ii), by striking <quote>State governments, local governments, Tribal governments</quote> and inserting <quote>State and local governments, Indian Tribes, Native Hawaiian organizations</quote>;</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idBFF1C064F2DE430696B8DC4BB5730B0F">
+                            <enum>(3)</enum>
+ <text>in subsection (d)(1)(C), by striking <quote>Tribes or Tribal governments</quote> and inserting <quote>Indian Tribes, Native Hawaiian organizations, Tribal organizations, and Tribal consortia</quote>; and</text>
+                        </paragraph>
+                        <paragraph id="id1EAB8C344E4043B4AACFF6222E6545E3">
+                            <enum>(4)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id0070C5CD27DB4CA7A44ADDE84C9FCDDD"> <subsection id="id3395D37B64B24C4E8CFDF4BD814C716B"> <enum>(e)</enum> <header>Better collaboration on vulnerability assessments, research planning, and similar activities</header> <paragraph id="id5621A61109754891991E786B19B6D9A2"> <enum>(1)</enum> <header>In general</header> <text>In carrying out the program under subsection (a), and in support of vulnerability assessments transmitted under section 12404(e)(4) and recommendations included in the strategic research plan described in section 12405(b)(10), the Secretary shall build upon existing activities and collaborate with State and local governments and Indian Tribes that are conducting or have completed vulnerability assessments, research planning, climate action plans, or other similar activities related to ocean acidification and coastal acidification and the impacts of ocean acidification and coastal acidification on coastal communities, for the purpose of—</text>
+                                        <subparagraph id="idB6A7EF4D363B495982D6918BE30F2B69">
+                                            <enum>(A)</enum>
+ <text>supporting collaborative interagency relationships and information sharing at the State, local, and Tribal levels; and </text>
+                                        </subparagraph>
+                                        <subparagraph id="idB94EDEBA70514498BE41FE3AE9BD320D">
+                                            <enum>(B)</enum>
+ <text>assisting State and local governments and Indian Tribes in—</text>
+                                            <clause id="idB00D2F7CD33D44C89DEDABDDAA794B8F">
+                                                <enum>(i)</enum>
+ <text>improving existing systems and programs to better address ocean acidification and coastal acidification; and </text>
+                                            </clause>
+                                            <clause id="id6116EE157CBF4632BD60D80B2FA1C198">
+                                                <enum>(ii)</enum>
+ <text>identifying whether such activities can be used as a model for other communities.</text>
+                                            </clause>
+                                        </subparagraph>
+                                    </paragraph>
+                                    <paragraph id="id964ca42a73eb4ca4ac4fa44683b1ae45">
+                                        <enum>(2)</enum>
+                                        <header>Indian Tribes, Native Hawaiian organizations, Tribal
+                                            organizations, and Tribal consortia</header>
+ <text>In carrying out the program under subsection (a), and in support of vulnerability assessments transmitted under section 12404(e)(4) and recommendations included in the strategic research plan described in section 12405(b)(10), the Secretary may build upon existing activities and collaborate with Indian Tribes, Native Hawaiian organizations, Tribal organizations, and Tribal consortia that are conducting or have completed vulnerability assessments, research planning, climate action plans, or other similar activities related to ocean acidification and coastal acidification and the impacts of ocean acidification and coastal acidification on coastal communities.</text>
+                                    </paragraph>
+                                </subsection>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </paragraph>
+                    </subsection>
+                </section>
+                <section id="id700466F2319D49E0ADFBDF6DE6D975CF">
+                    <enum>523.</enum>
+                    <header>Technical corrections</header>
+ <text display-inline="no-display-inline">The Federal Ocean Acidification Research And Monitoring Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/33/3701">33 U.S.C. 3701 et seq.</external-xref>) is amended—</text>
+                    <paragraph id="id7DE44F7084494A64B73DF3C9FD36DBF9">
+                        <enum>(1)</enum>
+ <text>in section 12402 (<external-xref legal-doc="usc" parsable-cite="usc/33/3701">33 U.S.C. 3701</external-xref>)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide084b2719b1d46d5b1665a15b68db3c0"> <enum>(A)</enum> <text display-inline="yes-display-inline">in paragraph (1), by striking <quote>development coordination and implementation</quote> and inserting <quote>development, coordination, and implementation</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph id="idad2ccd1e80f44cf69f3307eea9c31331">
+                            <enum>(B)</enum>
+ <text>in paragraph (4), by striking <quote>research adaptation strategies and mitigating the impacts</quote> and inserting <quote>research on adaptation strategies and mitigation of the impacts</quote>;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idDFBD9E07B7494F2BB47548DAE70F3C5F">
+                        <enum>(2)</enum>
+ <text>in section 12404 (<external-xref legal-doc="usc" parsable-cite="usc/33/3703">33 U.S.C. 3703</external-xref>)—</text> <subparagraph id="idFA0ABFB7DA5A4BFB82B67F347198E307"> <enum>(A)</enum> <text>in subsection (b)(5), by striking <quote>; and</quote> and inserting a period;</text>
+                        </subparagraph>
+                        <subparagraph id="idA081BE195059436190883F22A48D467D">
+                            <enum>(B)</enum>
+ <text>in subsection (c)(2)(A)—</text> <clause id="id62A43E6400D846738B87BEDEECC4C8B4"> <enum>(i)</enum> <text>in clause (i), by striking <quote>subsection (d)(2)</quote> and inserting <quote>subsection (e)(2)</quote>; and</text>
+                            </clause>
+                            <clause id="idD8A06B20D7D247ADBCEE8411BCFA424F">
+                                <enum>(ii)</enum>
+ <text>in clause (ii), by striking <quote>subsection (d)(3)</quote> and inserting <quote>subsection (e)(3)</quote>;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id1B8F23BA53394EA09CACB1738751A51A">
+                            <enum>(C)</enum>
+ <text>in subsection (d)(3), by striking <quote>this section</quote> and inserting <quote>this subsection</quote>; and</text>
+                        </subparagraph>
+                        <subparagraph id="id2528163C6DEA48B78ED6608ED27065F4">
+                            <enum>(D)</enum>
+ <text>in subsection (e)—</text> <clause id="id27D03ECAD8BF4048A31E22B014DE8D70"> <enum>(i)</enum> <text>in paragraph (2)(B), by striking <quote>interagency</quote> and inserting <quote>the</quote>; and</text>
+                            </clause>
+                            <clause id="id30BF243F49574205B72518D00F710DD6">
+                                <enum>(ii)</enum>
+ <text>in paragraph (3), by striking <quote>years until 2031 thereafter</quote> and inserting <quote>years thereafter until 2031</quote>; and</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idECC89369EE6A4EBE804DC716024F8184">
+                        <enum>(3)</enum>
+ <text>in section 12406(d)(2) (<external-xref legal-doc="usc" parsable-cite="usc/33/3705">33 U.S.C. 3705(d)(2)</external-xref>), by striking <quote>The Secretary to,</quote> and inserting <quote>The Secretary, to</quote>.</text>
+                    </paragraph>
+                </section>
+            </subtitle>
+            <subtitle id="id705ebeb16afc4b668cd7f4be096071de" style="OLC">
+                <enum>D</enum>
+                <header>Other matters</header>
+                <section commented="no" display-inline="no-display-inline" id="ide6f057faca8e49f0a0f277d6cae47b12">
+                    <enum>531.</enum>
+                    <header>Transfer of, and amendments to, the Coastal Aquatic Invasive Species
+                        Mitigation Grant Program and mitigation fund</header>
+                    <subsection commented="no" display-inline="no-display-inline" id="id77c8cec4fe874c0ab2c9729b3487f44f">
+                        <enum>(a)</enum>
+                        <header display-inline="yes-display-inline">Transfer</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id2ed90b523f944cd396e485b111784548">
+                            <enum>(1)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Subsection (f) of section 903 of the Vessel Incidental Discharge Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/16/4729">16 U.S.C. 4729</external-xref>) is—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id921be85701754d9a9e76d505257ce181">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">transferred to section 1202 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/4722">16 U.S.C. 4722</external-xref>);</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id2e9ad86ba835484a8c02d212ccec6b84">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">redesignated as subsection (l) of that section 1202; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id8ac602fed2b045a78e0b29cceed7b730">
+                                <enum>(C)</enum>
+ <text>added at the end of that section 1202.</text> </subparagraph> </paragraph> <paragraph id="IDC53D93BFA38548849B72EA3A7FF9DE4C"> <enum>(2)</enum> <header>Availability of appropriations</header> <text>Paragraph (1) shall not affect the availability of amounts made available in appropriation Acts for the purpose of carrying out the program transferred by paragraph (1) to the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/4701">16 U.S.C. 4701 et seq.</external-xref>).</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="idc274827e3ded48a69485d16548cab354">
+                        <enum>(b)</enum>
+                        <header>Amendments</header>
+ <text>Subsection (l) of section 1202 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/16/4722">16 U.S.C. 4722</external-xref>), as transferred and redesignated under subsection (a), is amended—</text>
+                        <paragraph id="id0a0cdf5b24c84c9cb08d15407c6be729">
+                            <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idf66f5db35572426e9c8114962156b2eb"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking subparagraph (D); and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id1c9bfceb9e1f493b88fe31ab7ac5adaa">
+                                <enum>(B)</enum>
+ <text>by redesignating subparagraphs (E), (F), and (G), as subparagraphs (D), (E), and (F), respectively;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idbdfeb865bf6e46c8bf5ef2cba39d23cf">
+                            <enum>(2)</enum>
+ <text>in paragraph (2)—</text> <subparagraph id="id063a1053fe264ed5b15d3a73546e13ed"> <enum>(A)</enum> <text>in subparagraph (A), by striking <quote>and the Foundation</quote> both places the term appears;</text>
+                            </subparagraph>
+                            <subparagraph id="id8783040b99204ba0b3bcd4ffb4b98375">
+                                <enum>(B)</enum>
+ <text>in subparagraph (C)(i)—</text> <clause commented="no" display-inline="no-display-inline" id="ideccb23443e8a43868aaa5baf9f3848b3"> <enum>(i)</enum> <text display-inline="yes-display-inline">in subclause (I), by striking <quote>programs, including permissible State ballast water</quote> and inserting <quote>programs for Federal and State agencies, territories of the United States, Tribal governments or organizations, and interstate organizations, including permissible ballast water</quote>;</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id25e3eaad418c41fdbe74bfd4737d232d">
+                                    <enum>(ii)</enum>
+ <text>by striking subclause (III);</text> </clause> <clause id="id27d2041b027a4f55a9e5a7360c5f50b5"> <enum>(iii)</enum> <text>by redesignating subclauses (IV) and (V) as subclauses (III) and (IV), respectively; and</text>
+                                </clause>
+                                <clause id="id0f7cbf6daf9148f5b143ae04fb7ef12b">
+                                    <enum>(iv)</enum>
+ <text>in subclause (IV), as redesignated by clause (iii), by striking <quote>infrastructure, such as hydroelectric infrastructure, from aquatic invasive species</quote> and inserting <quote>aquaculture and associated infrastructure from aquatic invasive species with particular emphasis on underserved communities</quote>;</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id9ecb236ffdb1435e9cf49d064c4e5012">
+                                <enum>(C)</enum>
+ <text>in subparagraph (D), by striking <quote>Not later than 90 days after the date of enactment of this Act, the Foundation, in consultation with the Secretary</quote> and inserting <quote>Not later than 90 days after the date of enactment of the <short-title>Working Waterfronts Act of 2025</short-title>, the Secretary</quote>; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id039fd56888e04b66ae46d3cbaf612dbf">
+                                <enum>(D)</enum>
+ <text>in subparagraph (F), by striking <quote>and the Foundation are</quote> and inserting <quote>is</quote>; and</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id00d6a72611c64b909b62465cd10df6eb">
+                            <enum>(3)</enum>
+ <text>in paragraph (3)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide1b4c4b29573489aabaddba30d595ded"> <enum>(A)</enum> <text>by striking subparagraph (B) and inserting the following:</text>
+                                <quoted-block style="OLC" display-inline="no-display-inline" id="idCCF1F60B57A54474999B36A1CFA46AC1">
+                                    <subparagraph id="id1e61ffb7af714cf5b38513e9a31a40db">
+                                        <enum>(B)</enum>
+                                        <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2026 through 2030.</text>
+                                    </subparagraph>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ided3c92256af4460091e69f416f934810">
+                                <enum>(B)</enum>
+ <text>in subparagraph (C), by striking <quote>and the Foundation</quote>.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="ida8d7b6abfb7d4a0ca094f25c20d69b20">
+                        <enum>(c)</enum>
+                        <header>Conforming amendment</header>
+ <text>Section 903 of the Vessel Incidental Discharge Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/16/4729">16 U.S.C. 4729</external-xref>), as amended by subsection (a), is further amended by redesignating subsections (g) and (h) as subsections (f) and (g), respectively.</text>
+                    </subsection>
+                </section>
+            </subtitle>
+        </title>
+    </legis-body>
+</bill>
+

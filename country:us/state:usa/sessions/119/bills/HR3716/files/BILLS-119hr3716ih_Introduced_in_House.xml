@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7C01B781855242C99989956405F62965" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 3716 IH: Systemic Risk Authority Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3716</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250604">June 4, 2025</action-date><action-desc><sponsor name-id="G000553">Mr. Green of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Deposit Insurance Act to require reports on the use of the systemic risk authority applicable to winding up a failed insured depository institution, and for other purposes.</official-title></form><legis-body id="HA8A4F21D69C34DCD9B2C81445540ACF7" style="OLC"> 
+<section id="HE9F1CF4369B2456F9C87DBA00A6E604B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Systemic Risk Authority Transparency Act</short-title></quote>.</text></section> <section id="H2982684491CF42DB8F97230235858DC4"><enum>2.</enum><header>Bank failure transparency related to systemic risk exception</header> <subsection id="H1691F7F70CC043F78D249CFDD0BC2F43"><enum>(a)</enum><header>GAO review</header><text>Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1823">12 U.S.C. 1823(c)(4)(G)(iv)</external-xref>) is amended to read as follows:</text> 
+<quoted-block id="HB93AB7B8E23E405DB77A85DA4AABB82E" style="OLC"> 
+<clause id="H65F40FB553A148B18D0BBEF2ADEACA37"><enum>(iv)</enum><header>GAO review</header> 
+<subclause id="H3C110BFD4DCC4C7E90694867A7A7DC16"><enum>(I)</enum><header>In general</header><text>The Comptroller General of the United States shall, not later than later than 60 days after a determination is made under clause (i), and again 180 days thereafter, review and report to the Congress on the determination under clause (i), including—</text> <item id="HFD95018926124A2D8B05970BF8971AF6"><enum>(aa)</enum><text>the basis for the determination;</text></item> 
+<item id="H779FCBD9123D40868E38A2CB6C8E142D"><enum>(bb)</enum><text>the purpose for which any action was taken pursuant to such clause;</text></item> <item id="HCC62AE7CE1F54B4F99C154EC67F361EA"><enum>(cc)</enum><text>the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors;</text></item> 
+<item id="H4F85C0EB74BE47C9A75681121E02A81A"><enum>(dd)</enum><text>any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution;</text></item> <item id="H9F733EE18B15414E803274AC5C0716FF"><enum>(ee)</enum><text>a review of the compensation practices of the insured depository institution;</text></item> 
+<item id="H409060926685472AB69FD6261E5AB773"><enum>(ff)</enum><text>any supervisory or regulatory shortcomings with respect to the appropriate Federal banking agency of the insured depository institution;</text></item> <item id="HB4E9CAB5D74D4CB6949B1D97F89FF30A"><enum>(gg)</enum><text display-inline="yes-display-inline">any actions taken by the Federal banking regulators, Financial Stability Oversight Council, Treasury Department, and other relevant financial regulators in relation to the failure of the insured depository institution; and</text></item> 
+<item id="HE45254ABC2274E93937622A8E38714BD"><enum>(hh)</enum><text display-inline="yes-display-inline">any additional relevant entities or activities that may have contributed to the failure of the insured depository institution, including with respect to auditing, accounting, credit rating agencies, investment bank underwriters, and emergency liquidity options such as loans from the Federal reserve banks or advances through the Federal Home Loan Bank system.</text></item></subclause> <subclause id="HF2C41FF5134546018F48AD63A63BF1EF" commented="no"><enum>(II)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in this clause or a report issued pursuant to this clause may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H745CE1FBEE374A45919986F7677241C8">
+        <enum>(b)</enum>
+        <header>Appropriate Federal banking agency report</header>
+ <text>Section 13(c) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1823">12 U.S.C. 1823(c)</external-xref>) is amended by adding at the end the following:</text>
+        <quoted-block id="H9E03F26B9AD14A3EB29C45FE22529917" style="OLC">
+          <paragraph id="H13C0B2826317459AAC52F359A90A396B">
+            <enum>(12)</enum>
+            <header>Appropriate Federal banking agency report</header>
+            <subparagraph id="H0CCC4454332644EAA1FFF2945A016717">
+              <enum>(A)</enum>
+              <header>In general</header>
+ <text>The appropriate Federal banking agency of an insured depository institution about which a determination is made under paragraph (4)(G)(i) shall, not later than 90 days after the date of such determination, and again 210 days thereafter, submit a report to the Congress that discloses the following:</text>
+              <clause id="HCCDD2898F0C8478094B37775083978AD">
+                <enum>(i)</enum>
+ <text>Subject to such redactions as the appropriate Federal banking agency determines appropriate of personally identifiable information about customers and other financial institutions (as such term is defined under section 11(e)(9)(D)), all—</text>
+                <subclause id="HFEF4907D4FA74551BC615D2E3EABEE99">
+                  <enum>(I)</enum>
+ <text>reports of examination and inspection that relate to the failed insured depository institution in the previous 3-year period;</text>
+                </subclause>
+                <subclause id="HCBB6504EB0A74EA38B036C1B9352E56C">
+                  <enum>(II)</enum>
+ <text>formal communications of a material supervisory determination conveyed to the failed insured depository institution in the previous 3-year period; and</text>
+                </subclause>
+                <subclause id="HCB4F0486B522431C91E453BA4AA3EDC0">
+                  <enum>(III)</enum>
+ <text>any additional exam reports and correspondence that the appropriate Federal banking agency determines may be relevant to the failure of the insured depository institution.</text>
+                </subclause>
+              </clause>
+              <clause id="HCF8C3648B84848DBBC20EB0998D716A0">
+                <enum>(ii)</enum>
+ <text>An examination of any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution.</text>
+              </clause>
+              <clause id="HB0CEAC6895BB4D028DDEE2473CD98C22">
+                <enum>(iii)</enum>
+ <text>Any supervisory or regulatory shortcomings by such appropriate Federal banking agency with respect to the insured depository institution.</text>
+              </clause>
+              <clause id="H06C8D224356642C79CFB7E3CF864C369">
+                <enum>(iv)</enum>
+ <text>Any dynamics that the appropriate Federal banking agency determines may have contributed to the failure of the insured depository institution.</text>
+              </clause>
+              <clause id="H0404D5232B204C2FA7BBA55C0C4ADEF1">
+                <enum>(v)</enum>
+ <text>Any supervisory, regulatory, and legislative recommendations such appropriate Federal banking agency may have to improve the safety and soundness of similarly situated insured depository institutions, the banking system, and financial stability.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H6257063AC6DD4E0FB8BC2CD788AD2947">
+              <enum>(B)</enum>
+              <header>Protection of sensitive information</header>
+              <clause id="H75457CB58B454A1DAD26098FFA4A43CD">
+                <enum>(i)</enum>
+                <header>Effect on privilege</header>
+ <text>The provision of any information by a Federal banking agency under this paragraph may not be construed as—</text>
+                <subclause id="H5311592AD4CF4FD59F64319020E91EBE">
+                  <enum>(I)</enum>
+ <text>waiving, destroying, or otherwise affecting any privilege applicable to the information; or</text>
+                </subclause>
+                <subclause id="H884B9A758E244873BDE31B96638E2D38">
+                  <enum>(II)</enum>
+ <text>waiving any exemption applicable to the information under section 552 of title 5 United States Code (commonly known as the <quote>Freedom of Information Act</quote>).</text>
+                </subclause>
+              </clause>
+              <clause id="H10748D5EC596415A948A40C157A0E75E">
+                <enum>(ii)</enum>
+                <header>Transparency</header>
+                <subclause id="HA378D520F7774B239D4E1D6ED253397C">
+                  <enum>(I)</enum>
+                  <header>In general</header>
+ <text>A Federal banking agency shall publish materials contained in a report required under subparagraph (A) to the fullest extent possible to promote transparency.</text>
+                </subclause>
+                <subclause id="H4CAAC7885FDB40ABAC8F7DCE50471F03">
+                  <enum>(II)</enum>
+                  <header>Consultation on omitting materials</header>
+ <text>If a Federal banking agency determines particular materials described under subclause (I) should not be published, the Federal banking agency shall consult with the chair and ranking member of the Committee on Financial Services of the House of Representatives and the chair and ranking member of the Committee on Banking, Housing, and Urban Affairs of the Senate.</text>
+                </subclause>
+                <subclause id="H07BFD78D304D47E1B7A78474C6FFD664">
+                  <enum>(III)</enum>
+                  <header>Omitting materials</header>
+ <text>If, after the consultation required under subclause (II), the Federal banking agency determines there is a substantial public interest in not publishing such materials, the Federal banking agency shall provide those materials to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate with a written explanation describing the reasons for not publishing those materials.</text>
+                </subclause>
+              </clause>
+              <clause id="H550F7890F86A49BAA28B4FBF00C21D64">
+                <enum>(iii)</enum>
+                <header>Privilege</header>
+ <text>For purposes of this subparagraph, the term <quote>privilege</quote> includes any work-product, attorney-client, or other privilege recognized under Federal or State law.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="HC3FB5DBD39254D4BB62B151228C2BFEE">
+              <enum>(C)</enum>
+              <header>Report extension</header>
+ <text>A Federal banking agency may extend a deadline described under subparagraph (A) for an additional 60 days, if the Federal banking agency—</text>
+              <clause id="H653F62026BA242C388FCEBE9ED68F6C1">
+                <enum>(i)</enum>
+ <text>faces ongoing circumstances that require the Federal banking agency to prioritize activities to promote stability of the U.S. banking system; and</text>
+              </clause>
+              <clause id="H8233EC28CDED4F10BBD437D609663F17">
+                <enum>(ii)</enum>
+ <text>notifies the Congress of such extension and the reasons for such extension.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H2182ACBC91784C5793B775A9D3E808D6">
+              <enum>(D)</enum>
+              <header>Consolidated reports</header>
+ <text>A Federal banking agency may consolidate multiple reports required under this paragraph so long as the individual reports being consolidated all meet the timing requirements under this paragraph.</text>
+            </subparagraph>
+            <subparagraph id="HA4C6110D4EA44F0796EF307588BDCE21" commented="no">
+              <enum>(E)</enum>
+              <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">Nothing in this paragraph or reports or materials provided pursuant to this paragraph may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection></section> 
+</legis-body></bill>
+

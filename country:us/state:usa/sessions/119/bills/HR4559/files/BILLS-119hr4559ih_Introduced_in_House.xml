@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5BD2B65D1F3C490FB547962E9DF5CB4B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4559 IH: Prompt and Fair Pay Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4559</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250721">July 21, 2025</action-date><action-desc><sponsor name-id="D000399">Mr. Doggett</sponsor> (for himself and <cosponsor name-id="M001210">Mr. Murphy</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to establish payment parity between Medicare Advantage and fee-for-service Medicare, and to establish prompt payment requirements under Medicare Advantage.</official-title></form><legis-body id="H28FF6BCE24CE4300A7A49162EE518F93" style="OLC"> 
+<section id="HF0C2C14FCBD54EC6A8EBEB1417EB2897" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prompt and Fair Pay Act</short-title></quote>.</text> </section> <section id="HD748F09F8DE1400593CD6FEE17A5B023"><enum>2.</enum><header>Establishing payment parity between Medicare Advantage and fee-for-service Medicare</header><text display-inline="no-display-inline">Section 1857(e) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-27">42 U.S.C. 1395w–27(e)</external-xref>) is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" id="H6A7F7EFE549148AE89C9726ADAB829F8" display-inline="no-display-inline"> 
+<paragraph id="H65A83AB320804AADB2F9DC95CAA1562E"><enum>(6)</enum><header>Payment parity with fee-for-service Medicare</header><text display-inline="yes-display-inline">Beginning with plan years beginning on or after January 1, 2027, a contract under this part shall require an MA organization to provide, in any contract between the organization and a provider or supplier, that payment for items and services furnished to an enrollee by such provider or supplier shall be in an amount that is not less than the amount of payment applicable on the date of service for such items and services under the original Medicare fee-for-service program under parts A and B, including cost-based payment methodologies.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="HBA4A79FB55A944D998E39CC0FBAADB2E"><enum>3.</enum><header>Protecting beneficiary access to care under Medicare Advantage by establishing enforceable prompt payment requirements and enhancing transparency regarding claims denials</header> <subsection id="H62D779A9C9DF4466B221D350DC52A13E"> <enum>(a)</enum> <header>Applying prompt payment requirements for items and services furnished by in-Network providers</header> <paragraph id="H1ABE9BE54D4E4DBA96BB432DAD86C3D0"> <enum>(1)</enum> <header>In general</header> <text>Section 1857(f) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-27">42 U.S.C. 1395w–27(f)</external-xref>) is amended—</text>
+          <subparagraph id="H1CCC6A74ABB545FF97604B2F884CCB35">
+            <enum>(A)</enum>
+ <text>in paragraph (1), in the header, by inserting <quote><header-in-text level="paragraph" style="OLC">Applicable with respect to out-of-network providers of services and suppliers</header-in-text></quote> after <quote><header-in-text level="paragraph" style="OLC">Requirement</header-in-text></quote>;</text>
+          </subparagraph>
+          <subparagraph id="HFECE30D32F514D4C94F959C44F59CFDC">
+            <enum>(B)</enum>
+ <text>in paragraph (2), by striking <quote>compliance with paragraph (1)</quote> and inserting <quote>compliance with paragraph (1) or (2)</quote>;</text>
+          </subparagraph>
+          <subparagraph id="H9817F752F1EE4E798F4B3D704A8742BD">
+            <enum>(C)</enum>
+ <text>by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and</text>
+          </subparagraph>
+          <subparagraph id="H36EED95094994F10B450E9538B012F0A">
+            <enum>(D)</enum>
+ <text>by inserting after paragraph (1) the following new paragraph:</text> <quoted-block id="HC7C583C6B3BD4B3B882D531943FE22D0" style="OLC"> <paragraph id="HDD6AABB72BE6436993DB8B6E80ED2AC2"> <enum>(2)</enum> <header>Requirement applicable with respect to in-network providers of services and suppliers</header> <subparagraph id="H89C6000CE4E1405DBC1D64F52E945540"> <enum>(A)</enum> <header>Prompt payment of clean claims</header> <clause id="H3AAD66568D584F01BC927733ED6C8AFF"> <enum>(i)</enum> <header>In general</header> <text>For contract years beginning on or after January 1, 2027, a contract entered into with an MA organization with respect to offering an MA plan under this part shall require that contracts and other agreements between such MA organization and providers of services and suppliers to furnish items and services to enrollees under such plan shall provide that payment shall, in accordance with the provisions of this paragraph, be issued, mailed, or otherwise transmitted, with respect to all clean claims submitted for such items and services furnished by such providers of services and suppliers to such enrollees, by not later than the applicable number of calendar days (as defined in clause (iii)) after the date on which the claim is received (as determined in accordance with clause (ii)).</text>
+                  </clause>
+                  <clause id="H4953E7C1D03E4F6CBB2BDA58E3358F8B">
+                    <enum>(ii)</enum>
+                    <header>Date of receipt of claim</header>
+ <text>For purposes of this paragraph, a claim is considered to have been received—</text>
+                    <subclause id="H97AB08D9398F4047AEDBEE0883BFF1F1">
+                      <enum>(I)</enum>
+ <text>with respect to claims submitted electronically, on the date on which the claim is transferred; and</text>
+                    </subclause>
+                    <subclause id="H52FB7F5A2F024347AB57F027434E9FC1">
+                      <enum>(II)</enum>
+ <text>with respect to claims submitted otherwise, on the 5th day after the postmark date of the claim or the date specified in the time stamp of transmission.</text>
+                    </subclause>
+                  </clause>
+                  <clause id="HDB1BB1F8D3944AA98EA69AC041016D65">
+                    <enum>(iii)</enum>
+                    <header>Applicable number of calendar days defined</header>
+ <text>For purposes of this paragraph, the term <term>applicable number of calendar days</term> means—</text>
+                    <subclause id="H2687ACAB46AE438B911BB30E6608D8D8">
+                      <enum>(I)</enum>
+ <text>with respect to claims submitted electronically, 14 days; and</text> </subclause> <subclause id="HBD08E9FEAB3C40F5BC8C361A12ECD88D"> <enum>(II)</enum> <text>with respect to claims submitted otherwise, 30 days.</text>
+                    </subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HDC9AC74375C141BFA4E3AEA3421E90F7">
+                  <enum>(B)</enum>
+                  <header>Procedures and rules for determining whether claims are clean
+                    claims</header>
+                  <clause id="H8A268CE6EBAA40CC8E83B6B1B6C98346">
+                    <enum>(i)</enum>
+                    <header>Clean claim defined</header>
+ <text>In this paragraph, the term <term>clean claim</term> means—</text> <subclause id="HB0FA08CD22724FE880EEC5D38C50829E"> <enum>(I)</enum> <text>a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part; and</text>
+                    </subclause>
+                    <subclause id="H7945E791532C4820AAA47395D2A1219B">
+                      <enum>(II)</enum>
+ <text display-inline="yes-display-inline">a claim that otherwise conforms to the clean claim requirements for equivalent claims under original Medicare.</text>
+                    </subclause>
+                  </clause>
+                  <clause id="H80AB0C30FA50472BB53024E0F1C7949C">
+                    <enum>(ii)</enum>
+                    <header>Claim deemed to be clean when timely notice of any deficiency is not
+                      provided</header>
+ <text>For purposes of this paragraph, with respect to an MA organization and a provider of services or supplier with whom the MA organization has a contract to furnish items and services, a claim for such items and services furnished by such provider of services or supplier under such contract shall be deemed to be a clean claim if the MA organization does not provide notice to the provider of services or supplier of any deficiency in the claim—</text>
+                    <subclause id="HFA76D69B919345FE8D620DEA553C8DB0">
+                      <enum>(I)</enum>
+ <text>with respect to claims submitted electronically, within 10 days after the date on which the claim is received; and</text>
+                    </subclause>
+                    <subclause id="H81420A31D95F47208EC8BEDE4891E332">
+                      <enum>(II)</enum>
+ <text>with respect to claims submitted otherwise, within 15 days after the date on which the claim is received.</text>
+                    </subclause>
+                  </clause>
+                  <clause id="HEE9EBBB01D1E4168A15F828EA6267811">
+                    <enum>(iii)</enum>
+                    <header>Required notifications and treatment of claims initially determined to
+                      not be clean claims</header>
+ <text>For purposes of this paragraph, with respect to an MA organization and a provider of services or supplier with whom the MA organization has a contract to furnish items and services—</text>
+                    <subclause id="HEDB001D4A87E4BF589DCC9C368116177">
+                      <enum>(I)</enum>
+ <text display-inline="yes-display-inline">if the MA organization determines that a submitted claim for such items and services furnished by such provider of services or supplier under such contract is not a clean claim, the MA organization shall, not later than the end of the applicable period described in clause (ii), notify the provider of services or supplier of such determination and in such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim, including detailed instructions for resubmission of claims, how to address each specified defect or impropriety, any formatting or coding guidance specific to the rejection reason, and how to contact the plan to obtain assistance with resubmission; and</text>
+                    </subclause>
+                    <subclause id="H34B03E58912F40BF8DAA8DB7BEC6BE55">
+                      <enum>(II)</enum>
+ <text>in the case in which additional information is received pursuant to a notification under subclause (I) with respect to a claim described in such subclause, the claim shall be deemed to be a clean claim described in clause (i) if the MA organization does not provide notice to the provider of service or supplier of any defect or impropriety in the claim not later than 10 days of the date on which such additional information is received.</text>
+                    </subclause>
+                  </clause>
+                  <clause id="H9C71B7BB296A4F0AB0CD14FBB43DBEFC">
+                    <enum>(iv)</enum>
+                    <header>Rule of construction</header>
+ <text>A determination under this paragraph that a claim submitted by a provider of services or supplier is a clean claim shall not be construed as a positive determination regarding eligibility for payment under this title, nor is it an indication of government approval of, or acquiescence regarding, the claim submitted. The determination shall not relieve any party of civil or criminal liability with respect to the claim, nor does it offer a defense to any administrative, civil, or criminal action with respect to the claim.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HFC92F881E89148719E918E865E6BAFF2">
+                  <enum>(C)</enum>
+                  <header>Obligation to pay</header>
+ <text>For purposes of this paragraph:</text> <clause id="HBF2F8196C511426F8A1D768F089ACC4D"> <enum>(i)</enum> <header>In general</header> <text>A claim submitted to an MA organization that is not paid or contested by the organization within the applicable number of calendar days (as defined in subparagraph (A)(iii)) after the date on which the claim is received (as determined in accordance with subparagraph (A)(ii)) shall be deemed to be a clean claim and shall be paid by the MA organization in accordance with subparagraph (A)(i).</text>
+                  </clause>
+                  <clause id="H8834BF9E64D2406598D0AE8B0FF5AB5B">
+                    <enum>(ii)</enum>
+                    <header>Electronic transfer of funds</header>
+ <text>An MA organization shall pay all clean claims submitted electronically by electronic transfer of funds if the provider of services or supplier so requests or has so requested previously. In the case in which such payment is made electronically, remittance may be made by the MA organization electronically as well.</text>
+                  </clause>
+                  <clause id="HCC5D8A3EE3D2467CB3093C578848DAD5">
+                    <enum>(iii)</enum>
+                    <header>Date of payment of claim</header>
+ <text>Payment of a clean claim under this paragraph shall be considered to have been made on the date on which—</text>
+                    <subclause id="H981B6B455DFD49CCAFC10896D3162EFD">
+                      <enum>(I)</enum>
+ <text>with respect to claims paid electronically, the payment is transferred; and</text>
+                    </subclause>
+                    <subclause id="HA8EC4D9A80A247B1870BE39896DBD605">
+                      <enum>(II)</enum>
+ <text>with respect to claims paid otherwise, the payment is submitted to the United States Postal Service or common carrier for delivery.</text>
+                    </subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HEABCB5624183483983B59BC2E31805CE">
+                  <enum>(D)</enum>
+                  <header>Interest payment</header>
+                  <clause id="HF83B124B1389487D823148B6DDA19E57">
+                    <enum>(i)</enum>
+ <text>For purposes of this paragraph, subject to clause (ii), if payment is not issued, mailed, or otherwise transmitted within the applicable number of calendar days (as defined in subparagraph (A)(iii)) after a clean claim (with respect to which this paragraph applies) is received, the MA organization shall pay interest to the provider of services or supplier that submitted the claim at a rate equal to the weighted average of interest on 3-month marketable Treasury securities determined for such period, increased by 0.1 percentage point for the period beginning on the day after the required payment date and ending on the date on which payment is made (as determined under subparagraph (C)(iii)). Interest amounts paid under this subparagraph shall not be counted against the administrative costs of an MA plan for purposes of determining the medical loss ratio of the plan under subsection (e)(4).</text>
+                  </clause>
+                  <clause id="H722EA2F8F8854DD8BF5A8A900E7AF97C">
+                    <enum>(ii)</enum>
+                    <header>Authority not to charge interest</header>
+ <text>The Secretary may provide that an MA organization is not charged interest under clause (i) in the case in which there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H67765D53C08D4ECDA399F3B29EE008B6">
+                  <enum>(E)</enum>
+                  <header>Protecting the rights of claimants</header>
+                  <clause id="HFA3A9648F9A847C6B3A56EEEC98194F3">
+                    <enum>(i)</enum>
+                    <header>In general</header>
+ <text>Nothing in this paragraph shall be construed to prohibit or limit a claim or action not covered by the subject matter of this paragraph that any individual or organization has against a provider of services, supplier, or an MA organization.</text>
+                  </clause>
+                  <clause id="H540E286BD35A4D678EC620917E32C6FC">
+                    <enum>(ii)</enum>
+                    <header>Anti-retaliation</header>
+ <text>Consistent with applicable Federal and State laws, an MA organization shall not retaliate against an individual, provider of services, or supplier for exercising a right of action under this subparagraph.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H0ED2AABEDED64FA383E20BBB200FFB37">
+          <enum>(2)</enum>
+          <header>Secretarial authority to enforce prompt payment requirement</header>
+ <text>Section 1857(g)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-27">42 U.S.C. 1395w–27(g)(1)</external-xref>) is amended—</text>
+          <subparagraph id="H22D7229FC8574089A49AD2B3D9AEBF1F">
+            <enum>(A)</enum>
+ <text>in subparagraph (J), by striking at the end <quote>or</quote>;</text> </subparagraph> <subparagraph id="H6A90DB6D3B4F40D4B42934499E590661"> <enum>(B)</enum> <text>in subparagraph (K), by inserting <quote>or</quote> after the semicolon; and</text>
+          </subparagraph>
+          <subparagraph id="H56DDF32E2FF54CF6826146B03CA23B0A">
+            <enum>(C)</enum>
+ <text>by inserting after subparagraph (K) the following new subparagraph:</text> <quoted-block id="H68E44EC2DE0042538A17FC8CBF87C786" style="OLC"> <subparagraph id="H39A182230DC34462915BB2492FC445A5"> <enum>(L)</enum> <text>fails to comply with the provisions of subsection (f)(2);</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+      </subsection></section> 
+</legis-body></bill>
+

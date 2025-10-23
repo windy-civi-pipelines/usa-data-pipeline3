@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25539-CKJ-NM-VMH"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2143 IS: Curbing Officials' Income and Nondisclosure (COIN) Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>1st Session</session><legis-num>S. 2143</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20250623">June 23, 2025</action-date><action-desc><sponsor name-id="S427">Mr. Schiff</sponsor> (for himself, <cosponsor name-id="S430">Ms. Blunt Rochester</cosponsor>, <cosponsor name-id="S385">Ms. Cortez Masto</cosponsor>, <cosponsor name-id="S432">Mr. Gallego</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S409">Mr. Luján</cosponsor>, <cosponsor name-id="S436">Ms. Slotkin</cosponsor>, <cosponsor name-id="S426">Mr. Kim</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, and <cosponsor name-id="S428">Ms. Alsobrooks</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, to prevent financial exploitation by public office holders, and for other purposes.</official-title></form><legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Curbing Officials' Income and Nondisclosure (COIN) Act</short-title></quote>.</text>
+        </section>
+        <section id="id295a0fcb48ef42c6b61afaa9454e324f">
+            <enum>2.</enum>
+            <header>Prohibited financial transactions</header>
+            <subsection id="id260c919b127a47a38756814f152d3342">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">Chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline"
+                    id="idcdb4378afda641d2801158dd4f3622d4">
+                    <subchapter id="id79647f09e11e4db0a349c7d474f04a1d">
+                        <enum>IV</enum>
+                        <header>Financial exploitation by a public office holder</header>
+                        <section id="ida155281d49204758a5c37a51fc77c209">
+                            <enum>13151.</enum>
+                            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subchapter:</text> <paragraph id="id9a1ea1434e794ab0878355a652545217"> <enum>(1)</enum> <header>Covered individual</header> <text>The term <term>covered individual</term> means an individual described in section 13103(f).</text>
+                            </paragraph>
+                            <paragraph id="idc2d436e6a87843e286159a38f5004d3f">
+                                <enum>(2)</enum>
+                                <header>Endorsement</header>
+ <text>The term <term>endorsement</term> includes the use of the name and likeness of an individual in any marketing materials relating to a financial interest described in subclauses (I) through (V) of paragraph (4)(A)(i), including in the title of the financial interest.</text>
+                            </paragraph>
+                            <paragraph id="id4791812ecf524eceb4e07d240c46e0ef">
+                                <enum>(3)</enum>
+                                <header>Immediate family member</header>
+ <text>The term <term>immediate family member</term> means, with respect to a covered individual—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="id463a76874e6045858f4bd333ec306ad0">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a spouse, parent, brother or sister, or child (including a child age 18 or older) of that covered individual; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="id4c85b399168a4352b9bc05109768761f">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">an individual to whom the covered individual stands in loco parentis.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id449ca1bf70fe4a64beb20de3e4fe9d11">
+                                <enum>(4)</enum>
+                                <header>Prohibited financial transaction</header>
+                                <subparagraph id="id8cbcd8709c32421ebf46e6926755e679">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>The term <term>prohibited financial transaction</term> means—</text>
+                                    <clause id="id811675ae0cdd4f27835b87ddd2b3273d">
+                                        <enum>(i)</enum>
+ <text>any issuance, sponsorship, or endorsement of—</text> <subclause id="id982447e04fa64fe581505493206af908"> <enum>(I)</enum> <text>a security (as defined in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)) that is a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="ide9e7cb1b205b41958c6eb19435b5ed08">
+                                            <enum>(II)</enum>
+ <text>a security future (as defined in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)) relating to a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="idac93311ce90e4ddc987c57c8b74484b2">
+                                            <enum>(III)</enum>
+ <text>a commodity (as defined in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>)) that is a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="idefb502ae713c48a18e59c50fe3868036">
+                                            <enum>(IV)</enum>
+ <text>a cryptocurrency, meme coin, token, non-fungible token, or other digital asset that is sold for remuneration; or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline"
+                                            id="id5fc27004ee264dad99d991e850a63ddf">
+                                            <enum>(V)</enum>
+ <text>a payment stablecoin;</text> </subclause> </clause> <clause id="id4c128631073a4aee959a914e61dca310"> <enum>(ii)</enum> <text>any financial interest comparable to an interest described in subclauses (I) through (V) of clause (i) that is acquired through synthetic means, such as the use of a derivative, including an option, warrant, or other similar means; or</text>
+                                    </clause>
+                                    <clause id="id08602fb3f90e4071916502f0a7c8dffe">
+                                        <enum>(iii)</enum>
+ <text>any financial interest comparable to an interest described in subclauses (I) through (V) of clause (i) that is acquired as part of an aggregation or compilation of such interests through a mutual fund, exchange-traded fund, or other similar means if such aggregation or compilation of such interests constitutes a significant portion of that mutual fund, exchange-traded fund, or other similar means, as determined by the Secretary of the Treasury.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id92f1d3a2c9c74f54877bcffd59364d06">
+                                    <enum>(B)</enum>
+                                    <header>Exclusions</header>
+ <text>The term <term>prohibited financial transaction</term> does not include the mere purchase, sale, holding, or other conduct relating to financial instruments or assets routinely accessible to any member of the public.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </section>
+                        <section id="id679df8e4e8b64875a78e27031b77590e">
+                            <enum>13152.</enum>
+                            <header>Prohibition on certain transactions</header>
+                            <subsection id="id549fd3adf35d42f9bb2dc575c9ac3b43">
+                                <enum>(a)</enum>
+                                <header>Prohibition</header>
+ <text>Except as provided in subsection (b), a covered individual, or an immediate family member of a covered individual, may not engage in a prohibited financial transaction—</text>
+                                <paragraph id="id3ba1a1909f514e29a4145cb807c011e7">
+                                    <enum>(1)</enum>
+ <text>during the term of service of the covered individual;</text>
+                                </paragraph>
+                                <paragraph id="id9c678fd77db84e82afbc860dc86d9ee4">
+                                    <enum>(2)</enum>
+ <text>during the 180-day period ending on the date on which the service of the covered individual commences; or</text>
+                                </paragraph>
+                                <paragraph id="id9348e5c4601c4a60b1f03ad2e49e429a">
+                                    <enum>(3)</enum>
+ <text>during the 2-year period beginning on the date on which the service of the covered individual is terminated.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ide737ac22e22b4edbb7b72cb8706df9fd">
+                                <enum>(b)</enum>
+                                <header>Acts affecting a personal financial interest</header>
+ <text>This section shall be supplementary in nature to section 208 of title 18, and nothing in this section shall be construed to limit the application of section 208 of title 18.</text>
+                            </subsection>
+                            <subsection id="id4dfc399b217243c984e827fcfa8e421a">
+                                <enum>(c)</enum>
+                                <header>Liability and immunity</header>
+ <text>For purposes of any immunities to civil liability, any conduct relating to a prohibited financial transaction under this section shall be deemed an unofficial act and beyond the scope of the official duties of the relevant covered individual.</text>
+                            </subsection>
+                        </section>
+                        <section id="id4eed50ec1cde40f3afe7265556c56fc1">
+                            <enum>13153.</enum>
+                            <header>Civil penalties</header>
+                            <subsection id="iddd855cc0170e41a39ab82b1881e5fdcf">
+                                <enum>(a)</enum>
+                                <header>Civil action</header>
+ <text>The Attorney General may bring a civil action in any appropriate district court of the United States against any covered individual, or the immediate family member of a covered individual, who violates section 13152(a).</text>
+                            </subsection>
+                            <subsection id="idd78d26117adf43068ae9f47125204dc6">
+                                <enum>(b)</enum>
+                                <header>Civil penalty</header>
+ <text>Any covered individual, or the immediate family member of a covered individual, who knowingly violates section 13152(a) shall be subject to a civil monetary penalty of—</text>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="idc00ba003cad243f59bb2480a81e2efc2">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">not more than $25,000 per violation;</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="idc3b5bc794323495cb24de1591bdce974">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">10 percent of the value of the financial interest that is the subject of the prohibited conduct; or</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline"
+                                    id="id6abc40c6006546589a5dd93594d5f5d5">
+                                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the amount of financial gain, if any, that the covered individual benefitted from relating to the prohibited conduct, whichever is greater.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idc6dacecd89254b42b8bb4ed314874d23" commented="no">
+                                <enum>(c)</enum>
+                                <header>Disgorgement</header>
+ <text display-inline="yes-display-inline">A covered individual, or the immediate family member of a covered individual, who is found to have violated section 13152(a) in a civil action under subsection (a) of this section shall disgorge to the Treasury of the United States any profit from the prohibited conduct that is the subject of that civil action.</text>
+                            </subsection>
+                        </section>
+                    </subchapter>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id078fe844-c837-4093-ac99-01e9f12959f2" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" id="id75e8c2ff-9107-46be-bfd2-8a287e88f524">
+                    <toc>
+                        <toc-entry level="subchapter" idref="id79647f09e11e4db0a349c7d474f04a1d"
+                            >SUBCHAPTER IV—Financial exploitation by a public office
+                            holder</toc-entry>
+                        <toc-entry level="section" idref="ida155281d49204758a5c37a51fc77c209">13151.
+                            Definitions.</toc-entry>
+                        <toc-entry level="section" idref="id679df8e4e8b64875a78e27031b77590e">13152.
+                            Prohibition on certain transactions.</toc-entry>
+                        <toc-entry level="section" idref="id4eed50ec1cde40f3afe7265556c56fc1">13153.
+                            Civil penalties.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="idf09a5533fde846a4bcf74c620f2c047c">
+            <enum>3.</enum>
+            <header>Criminal penalties relating to prohibited financial transactions</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="idab9cd0756dc04ff2afc3f2e8ec6dcb7b">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/11">Chapter 11</external-xref> of title 18, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/18/220">section 220</external-xref> the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline"
+                    id="id32752931B6F14923BC123C1A1EE314F7">
+                    <section id="id987d34c954094c12ba172bf85ac34b1a" commented="no">
+                        <enum>221.</enum>
+                        <header>Prohibited financial transactions</header>
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="idab1131ea0c644cb4abe68d4b95028aa2">
+                            <enum>(a)</enum>
+                            <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this section:</text> <paragraph id="idaeddfd9654f944a2b7a5ce305a4bc09a"> <enum>(1)</enum> <header>Covered individual</header> <text>The term <term>covered individual</term> means an individual described in section 13103(f).</text>
+                            </paragraph>
+                            <paragraph id="idac211808a68444f095a2190fd5575d8b">
+                                <enum>(2)</enum>
+                                <header>Endorsement</header>
+ <text>The term <term>endorsement</term> includes the use of the name and likeness of an individual in any marketing materials relating to a financial interest described in subclauses (I) through (V) of paragraph (3)(A)(i), including in the title of the financial interest.</text>
+                            </paragraph>
+                            <paragraph id="id99C7EEFD5BB44A5D87F9C97829829A68">
+                                <enum>(3)</enum>
+                                <header>Prohibited financial transaction</header>
+                                <subparagraph id="id4110C2F4B49A42A293002F188925F171">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>The term <term>prohibited financial transaction</term> means—</text>
+                                    <clause id="idCC6A32E331DA43CF967DB625EBB31342">
+                                        <enum>(i)</enum>
+ <text>any issuance, sponsorship, or endorsement of—</text> <subclause id="id871DCD5B4E674ECDBC076D565FB0BE67"> <enum>(I)</enum> <text>a security (as defined in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)) that is a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="idDB45504D92F6455F8562FE2120D9A8D8">
+                                            <enum>(II)</enum>
+ <text>a security future (as defined in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)) relating to a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="idC16008AF26484BB6AFA8EF8E9475C88D">
+                                            <enum>(III)</enum>
+ <text>a commodity (as defined in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>)) that is a digital asset;</text>
+                                        </subclause>
+                                        <subclause id="id19FC29ABD0DB482FA47CA85C74160A5E">
+                                            <enum>(IV)</enum>
+ <text>a cryptocurrency, meme coin, token, non-fungible token, or other digital asset that is sold for remuneration; or</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline"
+                                            id="id9bcd7cc7b930441f81ce07ed90472f55">
+                                            <enum>(V)</enum>
+ <text>a payment stablecoin;</text> </subclause> </clause> <clause id="id09B60AD5B1F844E5ABA0BCA77EECBC62"> <enum>(ii)</enum> <text>any financial interest comparable to an interest described in subclauses (I) through (V) of clause (i) that is acquired through synthetic means, such as the use of a derivative, including an option, warrant, or other similar means; or</text>
+                                    </clause>
+                                    <clause id="idB36BA28829A843919DC7F825797E3CA8">
+                                        <enum>(iii)</enum>
+ <text>any financial interest comparable to an interest described in subclauses (I) through (V) of clause (i) that is acquired as part of an aggregation or compilation of such interests through a mutual fund, exchange-traded fund, or other similar means if such aggregation or compilation of such interests constitutes a significant portion of that mutual fund, exchange-traded fund, or other similar means, as determined by the Secretary of the Treasury.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="idB888859232D04F42ACDBC1DDDCEC0F18">
+                                    <enum>(B)</enum>
+                                    <header>Exclusions</header>
+ <text>The term <term>prohibited financial transaction</term> does not include the mere purchase, sale, holding, or other conduct relating to financial instruments or assets routinely accessible to any member of the public.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id90f2e89900ae4fb6a9efc1d2967e84d1" commented="no">
+                            <enum>(b)</enum>
+                            <header>Benefitting from prohibited financial transaction</header>
+ <text display-inline="yes-display-inline">Any covered individual who—</text>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="id3957a933db534748aae52219e78ac9ae">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">knowingly violates any provision of section 13152(a) of title 5; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="id9e593081f8cb4ca69935fe24e1e28091">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">through such violation—</text>
+                                <subparagraph id="idf3154df6c3f3411aab008a9f873e4117" commented="no">
+                                    <enum>(A)</enum>
+ <text>causes an aggregate loss of not less than $1,000,000 to 1 or more persons in the United States; or</text>
+                                </subparagraph>
+                                <subparagraph id="idaefc5872c8c54e44b07240fd12722f3d" commented="no">
+                                    <enum>(B)</enum>
+ <text>benefits financially, through profit, gain, or advantage, directly or indirectly through any family member or business associate of the covered individual, from the sale, purchase, or distribution of the financial interest described in subsection (a)(3)(A)(i) issued, sponsored, or endorsed in violation of section 13152 of title 5,</text>
+                                </subparagraph>
+                                <continuation-text continuation-text-level="paragraph">shall be
+                                    fined under this title, imprisoned for not more than 5 years, or
+                                    both.</continuation-text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id759755764a0a49e894bf046110378968" commented="no">
+                            <enum>(c)</enum>
+                            <header>Bribery</header>
+ <text display-inline="yes-display-inline">Any covered individual who—</text>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="idd9d62c34697042519a0fb284d91ec302">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">knowingly violates any provision of section 13152(a) of title 5; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="idddb6bec5e8c3404eaa1b02af264eea9f">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept any thing of value personally or for any other person or entity, in return for—</text>
+                                <subparagraph id="id2e57906bac20451babbbf4e5652e4ace" commented="no">
+                                    <enum>(A)</enum>
+ <text>being influenced in the performance of any official act;</text>
+                                </subparagraph>
+                                <subparagraph id="id418815e1c1994ba0ab0b63fb933af3d5" commented="no">
+                                    <enum>(B)</enum>
+ <text>being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or</text>
+                                </subparagraph>
+                                <subparagraph id="iddb6c841c0163456391d60d25a186cd77" commented="no">
+                                    <enum>(C)</enum>
+ <text>being induced to do or omit to do any act in violation of the official duty of such official or person,</text>
+                                </subparagraph>
+                                <continuation-text continuation-text-level="paragraph">shall be
+                                    fined under this title or not more than 3 times the monetary
+                                    equivalent of the thing of value, whichever is greater, or
+                                    imprisoned for not more than 15 years, or both, and may be
+                                    disqualified from holding any office of honor, trust, or profit
+                                    under the United States.</continuation-text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id7c86b923a32e47748d177010d617b333" commented="no">
+                            <enum>(d)</enum>
+                            <header>Insider trading</header>
+ <text>Any covered individual who knowingly violates section 13152(a) of title 5 and, in committing such violation, also knowingly violates the provisions of section 10(b) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78j">15 U.S.C. 78j(b)</external-xref>) shall be fined under this title or not more than 3 times the amount of financial gain, if any, that the individual benefitted from relating to the prohibited conduct, whichever is greater, or imprisoned for not more than 15 years, or both, and may be disqualified from holding any office of honor, trust, or profit under the United States.</text>
+                        </subsection>
+                        <subsection id="idbc4b62efdf31497886107f6d4342dc07" commented="no">
+                            <enum>(e)</enum>
+                            <header>Intent</header>
+ <text>To incur criminal liability under this section, it shall not be required that a covered individual intended to create a financial interest described in subsection (a)(3)(A)(i) through the issuance, sponsorship or endorsement of the financial interest described in subsection (a)(3)(A)(i).</text>
+                        </subsection>
+                        <subsection id="id7be3ff4c06ca4455a0aaf9c6343e7b03" commented="no">
+                            <enum>(f)</enum>
+                            <header>Liability and immunity</header>
+ <text>For purposes of any immunities to civil and criminal liability, any conduct relating to a prohibited financial transaction under this section shall be deemed an unofficial act and beyond the scope of official duties of the relevant covered individual.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id831910b631c6452e8bc2625e7db35d24">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/11">chapter 11</external-xref> of title 18, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/18/220">section 220</external-xref> the following:</text>
+                <quoted-block style="USC" id="idf79409f7-8b6b-4744-a78f-b395cce6163e">
+                    <toc>
+                        <toc-entry level="section" idref="id987d34c954094c12ba172bf85ac34b1a">221.
+                            Prohibited financial transactions.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline"
+            id="idefb831fe51994e3dbba309c9e589d3a6">
+            <enum>4.</enum>
+            <header>Ethics requirements relating to cryptocurrencies and digital assets</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id824d8d62010f4ed0a9a631872f0bd5aa">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Disclosure relating to cryptocurrencies
+                    and digital assets</header>
+ <text>Section 13104 of title 5, United States Code, is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="id42faf53fcbc74eebae2c59bf7d043820"> <enum>(1)</enum> <text display-inline="yes-display-inline">in subsection (a)—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id63591b90069c493c9aa91c33b20a139c">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in paragraph (5)(B), by inserting <quote>cryptocurrencies, meme coins, tokens, non-fungible tokens, payment stablecoins, or other digital assets that are sold for remuneration,</quote> after <quote>commodities futures,</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="idce6142c5c7c246bd84c579bd4f3f5e88">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following:</text>
+                        <quoted-block style="USC" display-inline="no-display-inline"
+                            id="id489B047737FD4BE8BCC0948859D5882B">
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="id6593df717fc347cbbd61125e7ecfc67e">
+                                <enum>(9)</enum>
+                                <header>Cryptocurrencies and digital assets</header>
+ <text>The identity and category of value of any cryptocurrency, meme coin, token, non-fungible token, payment stablecoin, or other digital asset that is sold for remuneration that has a fair market value that exceeds $1,000 as of the close of the preceding calendar year held by the reporting individual during the preceding calendar year.</text>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id1c86dac0ce604c399d465044bf47ba2e">
+                    <enum>(2)</enum>
+ <text>in subsection (b)(1)(B), by striking <quote>(3) and (4)</quote> and inserting <quote>(3), (4), and (9)</quote>; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id6a705ed364c04aa89d89cb1de3c15204">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">in subsection (d)(1)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id0874657addae49bfb587dd85a521f95e"> <enum>(A)</enum> <text>in the paragraph heading, by striking <quote>(3), (4), (5), and (8)</quote> and inserting <quote>(3), (4), (5), (8), and (9)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="id37769976a0d646cdad84462339ae1c12" commented="no"
+                        display-inline="no-display-inline">
+                        <enum>(B)</enum>
+ <text>in the matter preceding subparagraph (A), by striking <quote>(3), (4), (5), and (8)</quote> and inserting <quote>(3), (4), (5), (8), and (9)</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idfa5476f1cd8a45eaba2e41e37fbbcc79">
+                <enum>(b)</enum>
+                <header>Acts affecting a personal financial interest</header>
+ <text display-inline="yes-display-inline">Section 208 of title 18, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline"
+                    id="id379d16beb6c54e96a3e007304297efe5">
+                    <subsection commented="no" display-inline="no-display-inline"
+                        id="idfc85481f632441b18c1bcfc08a490eb1">
+                        <enum>(e)</enum>
+ <text>For purposes of subsection (a), the term <quote>financial interest</quote> includes an interest in the issuance, purchase, sale, or holding of a cryptocurrency, meme coin, token, non-fungible token, payment stablecoin, or other digital asset that is sold for remuneration.</text>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="id20a5781ec3ea498598c09b374ec5931b">
+            <enum>5.</enum>
+            <header>Public official certification requirement</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id49fc8c86ad844bb18c75cc8955bd7604">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="ide286be7c6cf64e20a0d79750ae70b6ce"> <enum>(1)</enum> <header display-inline="yes-display-inline">Permitted payment stablecoin issuer</header> <text>The term <quote>permitted payment stablecoin issuer</quote> means a payment stablecoin issuer that has received approval to operate under subsection (c).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id0535602421554babbd2d1660a5fdc017">
+                    <enum>(2)</enum>
+                    <header display-inline="yes-display-inline">Public official</header>
+ <text display-inline="yes-display-inline">The term <quote>public official</quote> means an individual described in section 13103(f) of title 5, United States Code.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id05ec95fdbb304fd1a8845422c339e424">
+                    <enum>(3)</enum>
+                    <header>Special Government employee</header>
+ <text>The term <quote>special Government employee</quote> has the meaning given that term in section 202(a) of title 18, United States Code.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id682a4769e5974f9993f3869b5185e5b2">
+                <enum>(b)</enum>
+                <header>Requirement</header>
+ <text>A permitted payment stablecoin issuer shall ensure that no public official shall profit from the issuance of payment stablecoins of the permitted payment stablecoin issuer.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id925c529995f948ae986ea2565442971b">
+                <enum>(c)</enum>
+                <header>Certification</header>
+                <paragraph id="id2cf8260d14a74ec79c7c23fd07afc9dc">
+                    <enum>(1)</enum>
+                    <header>Initial certification</header>
+ <text>To receive approval to operate as a permitted payment stablecoin issuer, each payment stablecoin issuer shall submit to the Director of the Office of Government Ethics and the primary Federal payment stablecoin regulator of the payment stablecoin issuer a certification that no public official has a financial interest related to a particular matter in which the public official participates personally and substantially as a Government officer or employee, including as a special Government employee, from the issuance of payment stablecoins of the payment stablecoin issuer.</text>
+                </paragraph>
+                <paragraph id="id5b8425d892384e54a0995a045c647056">
+                    <enum>(2)</enum>
+                    <header>Recertification</header>
+ <text>Not later than 90 days after the issuance of the first payment stablecoin by a permitted payment stablecoin issuer, and on a quarterly basis thereafter, each permitted stablecoin issuer shall submit to the Director of the Office of Government Ethics and the primary Federal payment stablecoin regulator of the permitted payment stablecoin issuer a certification that no public official has a financial interest related to a particular matter in which the public official participates personally and substantially as a Government officer or employee, including as a special Government employee, from the issuance of payment stablecoins of the permitted payment stablecoin issuer.</text>
+                </paragraph>
+                <paragraph id="id90f3d72608da4acdad73b416eb01fe25">
+                    <enum>(3)</enum>
+                    <header>Public disclosure</header>
+ <text>The Director of the Office of Government Ethics shall make the certifications submitted under paragraphs (1) and (2) publicly available through databases maintained on the official website of the Office of Government Ethics.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id4b59969e89aa4006b2bf8af206822d44">
+                <enum>(d)</enum>
+                <header>Penalties</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id345d9244a4a34568b1f723856e154b60">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Approval revocation</header>
+ <text>The primary Federal payment stablecoin regulator of a permitted payment stablecoin issuer that does not submit a certification pursuant to subsection (c) shall revoke the approval to operate of the permitted payment stablecoin issuer.</text>
+                </paragraph>
+                <paragraph id="id5ecdf471efa34248a69fec80cfbd078b">
+                    <enum>(2)</enum>
+                    <header>Criminal penalty</header>
+                    <subparagraph id="id365e97da0eab4c05b371bc627b4b8cf7">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Any person that submits a certification pursuant to subsection (c) that is false shall be subject to the criminal penalties set forth under section 1001 of title 18, United States Code.</text>
+                    </subparagraph>
+                    <subparagraph id="idabbc670d2d9346dcbf5b4ae307b01e12">
+                        <enum>(B)</enum>
+                        <header>Referral to Attorney General</header>
+ <text>If a Federal payment stablecoin regulator has reason to believe that any person has violated subsection (c), the Federal payment stablecoin regulator shall refer the matter to the Attorney General.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id1564a48b837949f29d69b8d6ee98b517">
+            <enum>6.</enum>
+            <header>GAO report to Congress</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id2b2a82bf36494f96accb1cd24a176ddf">
+                <enum>(a)</enum>
+                <header>Definition</header>
+ <text>In this section, the term <quote>relevant congressional committees</quote> means—</text>
+                <paragraph id="id413bb1bc0a514e8994cfe373a1db1788">
+                    <enum>(1)</enum>
+ <text>the Committee on Banking, Housing, and Urban Affairs of the Senate;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id226accc131334ead9b5e2874c45919ed"> <enum>(2)</enum> <text display-inline="yes-display-inline">the Committee on Agriculture, Nutrition, and Forestry of the Senate;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id593410459f1344dea9cab4b5839abb82">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the Committee on Homeland Security and Governmental Affairs of the Senate;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="ida5482f28b3364e0899ae3fb297b984fe">
+                    <enum>(4)</enum>
+ <text>the Committee on Financial Services of the House of Representatives;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="ida63a9693e8874e93be008df8f507d92f">
+                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">the Committee on Agriculture of the House of Representatives; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idc2b9af2424344b039cf023f205856c86">
+                    <enum>(6)</enum>
+ <text display-inline="yes-display-inline">the Committee on Oversight and Government Reform of the House of Representatives.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="idf3d27d0d45b54c5db08dbea1d08c7785">
+                <enum>(b)</enum>
+                <header>Report</header>
+ <text>Not later than 360 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to the relevant congressional committees a report that contains recommendations to update Federal laws relating to ethics and enforcement procedures relating to ethics in order to incorporate any regulatory frameworks relating to digital assets adopted on or after the date of enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body></bill>
+
+

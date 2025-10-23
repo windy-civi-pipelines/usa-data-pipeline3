@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25044-0C6-4V-4CG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1679 IS: Frequent Logistics Information for Grounded and Held Travelers Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1679</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250508">May 8, 2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> introduced the
+                following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                    Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 49, United States Code, to require passenger notification
+            related to delayed flights, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Frequent Logistics Information for Grounded and Held Travelers Act</short-title></quote> or the <quote><short-title>FLIGHT Act</short-title></quote>.</text>
+        </section>
+        <section id="idd85311b7535549e68dafedcb047dfc1c">
+            <enum>2.</enum>
+            <header>Passenger notification of delayed flights</header>
+            <subsection id="idA409DE7A72D64334B652B3AA8F886A51">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/423">Chapter 423</external-xref> of title 49, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/49/42308">section 42308</external-xref> the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="idCDFA821413C148D1A60A9F03FF7339E5">
+                    <section id="idbe49695e30ff4c15b67abdd2848728ad">
+                        <enum>42309.</enum>
+                        <header>Passenger notification of delayed flights</header>
+                        <subsection id="id768b64c14c7348aaa33815d3d41b6f68">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text>In the case of a domestic or international flight operated by a covered air carrier (as such term is defined in section 42307) that is experiencing a delayed departure or taxi delay of 15 or more minutes, the covered air carrier shall notify each passenger on the flight of the delay in accordance with the requirements of in subsection (b).</text>
+                        </subsection>
+                        <subsection id="idf3d070cdab5e46d990df9804ae0da5da">
+                            <enum>(b)</enum>
+                            <header>Requirements</header>
+ <text>With respect to a notification under subsection (a), the requirements described in this subsection are the following:</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idce4528cfdd2a45daa0f1df031701016f">
+                                <enum>(1)</enum>
+ <text>The notification shall occur not less frequently than once every 15 minutes until the delayed departure or taxi delay concludes.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idfad164a93894422bb143131255f7f270">
+                                <enum>(2)</enum>
+ <text>The notification shall be provided to each passenger by email or text message.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idf18a45f02aff4dc9a95eb8f336c7582c">
+                                <enum>(3)</enum>
+ <text>The notification shall include—</text> <subparagraph commented="no" display-inline="no-display-inline" id="iddcc892e620314bf3af43575aaae27cf8"> <enum>(A)</enum> <text display-inline="yes-display-inline">information regarding the new estimated time of departure and arrival, as applicable to the delayed departure or taxi delay; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="ided242f1a00624e299945e664bb5a830e">
+                                    <enum>(B)</enum>
+ <text>a mechanism for the passenger to opt out of receiving such notifications with respect to such flight.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="ide0036218c6d449eb87fd1b987d1c6af4">
+                <enum>(b)</enum>
+                <header>Clerical amendment</header>
+ <text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/423">chapter 423</external-xref> of title 49, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/49/42308">section 42308</external-xref> the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idDF97FD1DC9E94F0081F1DABCBF570A3B">
+                    <toc>
+                        <toc-entry level="section">42309. Passenger notification of delayed
+                            flights.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

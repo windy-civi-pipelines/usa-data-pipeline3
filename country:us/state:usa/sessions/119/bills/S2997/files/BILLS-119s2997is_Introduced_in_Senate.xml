@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25496-0H9-GR-2SS">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2997 IS: Right to Override Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2997</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251009">October 9, 2025</action-date>
+            <action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself and <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSHR00">Committee
+                    on Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To protect the independent judgment of health care professionals acting in
+            the scope of their practice in overriding AI/CDSS outputs, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="id0895A73AA261495987A5BC6B11DD74AB">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Right to Override Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id9a7fb125890e4dd1b0a941a596468b84">
+            <enum>2.</enum>
+            <header>Table of contents</header>
+ <text display-inline="no-display-inline">The table of contents for this Act is as follows:</text>
+            <toc>
+                <toc-entry level="section" idref="id0895A73AA261495987A5BC6B11DD74AB">Sec. 1. Short
+                    title.</toc-entry>
+                <toc-entry level="section" idref="id9a7fb125890e4dd1b0a941a596468b84">Sec. 2. Table
+                    of contents.</toc-entry>
+                <toc-entry level="section" idref="idd89db41c46234f599077b89834d06487">Sec. 3.
+                    Definitions.</toc-entry>
+                <toc-entry level="title" idref="idf020fbfd33b9445f9caf0318accf6c1e">TITLE I—Policies
+                    for using and overriding AI/CDSS</toc-entry>
+                <toc-entry level="section" idref="id5fa8e4898d8c4512a9d47c07aab5acd6">Sec. 101.
+                    Policies with respect to using and overriding AI/CDSS.</toc-entry>
+                <toc-entry level="section" idref="id74a3c19177da4337bb87d9399010080f">Sec. 102.
+                    Enforcement.</toc-entry>
+                <toc-entry level="section" idref="idfe4baea67bf84c56b5791653a39a69e2">Sec. 103.
+                    Regulations.</toc-entry>
+                <toc-entry level="title" idref="idceb3bbd735b04c7c8498b5c0283feca4">TITLE II—Adverse
+                    employment actions; whistleblower protections</toc-entry>
+                <toc-entry level="section" idref="id664be00b7d2d404bbd0013cf5eac7124">Sec. 201.
+                    Prohibition on adverse employment actions.</toc-entry>
+                <toc-entry level="section" idref="id03934bb88e304eb5a6021a158fda2f44">Sec. 202.
+                    Whistleblower protections.</toc-entry>
+                <toc-entry level="section" idref="id926c2da24cec4643a2f2689d71a03988">Sec. 203.
+                    Enforcement.</toc-entry>
+                <toc-entry level="section" idref="idB39D0827F4D840C89E6032C91A39FE2A">Sec. 204.
+                    Regulations.</toc-entry>
+                <toc-entry level="title" idref="ide57c9f315d8a47fab40f892fc15073af">TITLE
+                    III—General provisions</toc-entry>
+                <toc-entry level="section" idref="id607776010d0c4d418d1dcc03816082a3">Sec. 301.
+                    Educational materials for covered entities and health care
+                    professionals.</toc-entry>
+                <toc-entry level="section" idref="id9906ddf3c8394793ae661a8739c22665">Sec. 302.
+                    State enforcement.</toc-entry>
+                <toc-entry level="section" idref="id51a1f33d4abd49929b14dbd094fcc6f5">Sec. 303. Rule
+                    of construction.</toc-entry>
+                <toc-entry level="section" idref="idfc5abc44cd314d559fdd2cbc07340da1">Sec. 304.
+                    Non-preemption.</toc-entry>
+            </toc>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idd89db41c46234f599077b89834d06487">
+            <enum>3.</enum>
+            <header display-inline="yes-display-inline">Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="id945e7d05d549416f9ac653cd22822afa"> <enum>(1)</enum> <header>Adverse employment action</header> <text>The term <term>adverse employment action</term>, with respect to a health care professional, includes—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idf11171411f484c868f794b21b92bd1a3">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the termination, suspension, or demotion of the health care professional from a job;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idffe0e3555dba4e879a8ad4f0abededbf">
+                    <enum>(B)</enum>
+ <text>any disciplinary action or retaliatory investigation against the health care professional;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idfbf340d955614c538e521c22c6d93b09">
+                    <enum>(C)</enum>
+ <text>the imposition of a work schedule that is more burdensome to the health care professional;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5912bf87fa6a4586aede844dc3b27fab">
+                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the failure of the health care professional to receive, or any adverse adjustment in the ability of the health care professional to receive, a promotion;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idbacf96a2d16f425995e7d9f851323eda">
+                    <enum>(E)</enum>
+ <text>the denial of the health care professional in receiving or being eligible to receive—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id50a8fda3d9c14ebd83768bbe00f3af04">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">compensation, including the denial of an increase in compensation; or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idb57eabbe4fca40ad9a55cb619d574d36">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any other job-related benefit or opportunity, including for telework, training, or travel;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id38d9eef841d346f4812c3583671405fe">
+                    <enum>(F)</enum>
+ <text>revocation of admitting privileges;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id6584e5ca2aa44e6bbacfc007ee994d2d"> <enum>(G)</enum> <text>a reassignment of a duty or the assignment of a duty inappropriate for the job, skill set, or experience of the health care professional;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id163e1b0f7bda4cc0a74d7a4f1ed22938">
+                    <enum>(H)</enum>
+ <text display-inline="yes-display-inline">a change in the ability to practice at a location for which the health care professional would otherwise be able;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id618b782bb9d044ce92f37f17a2247a99">
+                    <enum>(I)</enum>
+ <text>an adverse evaluation or performance review;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd66b388a01f1435980a10dc98148e75a"> <enum>(J)</enum> <text>any other modification to the terms, conditions, or privileges of employment or work of the health care professional that, from the perspective of a reasonable person, puts the health care professional in a materially adverse position when compared to the position of the professional prior to the modification; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id38701d99d7d64bd58637d994f82aa44d">
+                    <enum>(K)</enum>
+ <text>any other action or inaction that results in the health care professional being in a materially adverse position when compared to the position of the professional prior to the action or inaction.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id59586e32726643d1a5261d96ec9031a5">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">Artificial intelligence clinical
+                    decision support system; AI/CDSS</header>
+ <text>The term <term>artificial intelligence clinical decision support system</term> or <term>AI/CDSS</term> means technology that—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5b721d90723c4d2594c2142b75324f67">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">supports decision-making based on algorithms, or models, based in clinical practice guidelines or that derive relationships from training data, including such algorithms or models that are developed using unsupervised learning models; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id0caaa09746954e3f851136f0e4ed370b">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">produces an output that results in a prediction, classification, recommendation, evaluation, or analysis.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc742a654151b4065bb0f4680a0f97844">
+                <enum>(3)</enum>
+                <header>AI/CDSS output</header>
+ <text>The term <term>AI/CDSS output</term> means any recommendation, decision, or other output of AI/CDSS.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="ida72b0c140ba84aeeb939c811fcc6ce0c">
+                <enum>(4)</enum>
+                <header display-inline="yes-display-inline">Commerce; industry or activity affecting
+                    commerce</header>
+ <text>The terms <term>commerce</term> and <term>industry or activity affecting commerce</term> have the meanings given such terms in section 101 of the Family and Medical Leave Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/29/2611">29 U.S.C. 2611</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id70de5ca84f634413800c31d7dd3d0c4a">
+                <enum>(5)</enum>
+                <header display-inline="yes-display-inline">Covered entity</header>
+ <text>The term <term>covered entity</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idd3ccbc12f49d489fbf86cb7ce0f3332c"> <enum>(A)</enum> <text display-inline="yes-display-inline">means any individual or entity that—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="idd06ebafeeeac41e9b9131d30180574af">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">employs, or otherwise engages in the performance of work for remuneration, a health care professional; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idffeba80dbea04534831b8a4afe24cb55">
+                        <enum>(ii)</enum>
+ <text>is engaged in commerce (including government), or an industry or activity affecting commerce (including government); and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idf4ccc44bc12f45b2bdfed66770747c23">
+                    <enum>(B)</enum>
+ <text>includes such an individual or entity that is—</text> <clause commented="no" display-inline="no-display-inline" id="idd219f052aee748b69784ba21c65b5c38"> <enum>(i)</enum> <text display-inline="yes-display-inline">a health care facility in any setting, such as a nurse's office in a school setting; or</text>
+                    </clause>
+                    <clause id="idd66c239bf12a41f5837a96aac291a00e">
+                        <enum>(ii)</enum>
+ <text>a health plan or an administrator of a health plan.</text> </clause> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id9f7adec6ef5b4ed1b640f0fc6d8c40c4"> <enum>(6)</enum> <header display-inline="yes-display-inline">Engaged in the performance of work for remuneration</header> <text>The term <term>engaged in the performance of work for remuneration</term>, with respect to an individual performing work for a covered entity, includes the individual having admitting privileges for the covered entity without regard to whether such individual is employed by such entity.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="ida4d008d515a64478aadf7a1942accbb7">
+                <enum>(7)</enum>
+                <header display-inline="yes-display-inline">Health care professional</header>
+ <text>The term <term>health care professional</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id926eb44a101d406e96a53733db4d8597"> <enum>(A)</enum> <text display-inline="yes-display-inline">means an individual—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id84069b467a2d4f2980613bd2b28004f0">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">licensed, registered, or certified under Federal or State laws or regulations to provide health care services; or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="ID7ACD89BF60914FBEBFF2F03654F088FE">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">required to be so licensed, registered, or certified but that is exempted by other statute or regulation; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5ad8e2855cc245eab56e4b0d33883fae">
+                    <enum>(B)</enum>
+ <text>includes—</text> <clause commented="no" display-inline="no-display-inline" id="ida88ef0335a3b4092a80d0f28866b9c8a"> <enum>(i)</enum> <text display-inline="yes-display-inline">an individual described in subparagraph (A) without regard to whether the individual works at a health care facility, including a home health aide or a home care provider; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id27facacc75f14962a79f1ebb345f95e4">
+                        <enum>(ii)</enum>
+ <text>an individual who is employed by, or otherwise engaged in the performance of work for remuneration for, a health plan to make prior authorization determinations or other determinations regarding coverage under a health plan.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id6c3ff0dd51204c10aeb61e2ee977a5a7">
+                <enum>(8)</enum>
+                <header>Health care services</header>
+ <text>The term <term>health care services</term> means any services that relate to—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H520D14CB1972487FBD13A8A2648AC934">
+                    <enum>(A)</enum>
+ <text>the diagnosis, prevention, or treatment of any human disease or impairment;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H2A618FFDA1ED41C1864AE2E38CE8A61A">
+                    <enum>(B)</enum>
+ <text>the assessment or care of the health of human beings; or</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idc69fb62c52cd45208696c0f2df6fc6aa"> <enum>(C)</enum> <text>making prior authorization determinations or other determinations regarding coverage under a health plan.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idabd6b02b97d041eb82527f0f685106e3">
+                <enum>(9)</enum>
+                <header>Health plan</header>
+ <text>The term <term>health plan</term> has the meaning given the term in section 3000 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300jj">42 U.S.C. 300jj</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc7071277da744670a723e926009d049a">
+                <enum>(10)</enum>
+                <header display-inline="yes-display-inline">Override</header>
+ <text>The term <term>override</term>, with respect to an AI/CDSS output, means making a decision contrary to such output.</text>
+            </paragraph>
+            <paragraph id="ide62da764f6dc472f8673bc91a59e5840">
+                <enum>(11)</enum>
+                <header>Override data</header>
+ <text>The term <term>override data</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id2826721683ae44a39d68b3b2abdb6988"> <enum>(A)</enum> <text display-inline="yes-display-inline">means any data related to adherence to or deviation from AI/CDSS outputs; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idfe833eb471a94616a3695d72c067c20c">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">includes—</text> <clause commented="no" display-inline="no-display-inline" id="id974927f605f2447f86a27270ac83e062"> <enum>(i)</enum> <text display-inline="yes-display-inline">any such data that is metadata or audit data; or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id0d1d2318f9b74a1bab3a9e2e1bcbedbf">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any such data related to a particular health care professional or group of health care professionals, or related to a particular AI/CDSS.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id070cd12ee7424564bc5eb3990d9e8f9b">
+                <enum>(12)</enum>
+                <header display-inline="yes-display-inline">State</header>
+ <text>The term <term>State</term> has the meaning given the term in section 3000 of the Public Health Service Act.</text>
+            </paragraph>
+        </section>
+        <title id="idf020fbfd33b9445f9caf0318accf6c1e" style="OLC">
+            <enum>I</enum>
+            <header>Policies for using and overriding AI/CDSS</header>
+            <section commented="no" display-inline="no-display-inline" id="id5fa8e4898d8c4512a9d47c07aab5acd6">
+                <enum>101.</enum>
+                <header>Policies with respect to using and overriding AI/CDSS</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id17526a04f7104e8fa2742b1740ee70f7">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>A covered entity that uses AI/CDSS shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="idd8ac2b2de7ed46d490397ef508028765"> <enum>(1)</enum> <text display-inline="yes-display-inline">adopt and adhere to a policy with respect to such usage—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idac47dd2b15d8490d8f8def24692d00eb">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">that ensures that AI/CDSS outputs are not substituted for the independent judgment of a health care professional employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity while such health care professional is acting in the scope of practice of such health care professional;</text>
+                        </subparagraph>
+                        <subparagraph id="ida46035724eb74fc8a91008b8aa8f7026">
+                            <enum>(B)</enum>
+ <text>that allows such a health care professional to override an AI/CDSS output in a timely manner if, at the time of the override, in the judgment of the health care professional acting in the scope of practice of the health care professional, such an override is appropriate for the patient, or as necessary to comply with applicable law, including civil rights law;</text>
+                        </subparagraph>
+                        <subparagraph id="idd6c950ee51a2451aa8ea8fd6332f4c30">
+                            <enum>(C)</enum>
+ <text>that allows health care professionals and their representatives to provide feedback on AI/CDSS, including incorrect or biased outputs that require frequent override; and</text>
+                        </subparagraph>
+                        <subparagraph id="id491cb38066424e4aa10171b5b7ded770">
+                            <enum>(D)</enum>
+ <text>that prohibits the sharing of override data on—</text> <clause id="id6880489ecb384bdaaccff0f92afa5eef"> <enum>(i)</enum> <text>a specific health care professional; or</text>
+                            </clause>
+                            <clause id="id3aa9e2211f9a498ca8b2bc45209c1d05">
+                                <enum>(ii)</enum>
+ <text>a group of health care professionals when the identity of those professionals can be reasonably inferred;</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="ide6008be812424cddaa6907816e48b7e1">
+                        <enum>(2)</enum>
+ <text>inform health care professionals employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity, and the representatives of such health care professionals, of the policy under paragraph (1), including the presence of AI/CDSS in the workplace and the ability of such health care professionals to override an AI/CDSS output;</text>
+                    </paragraph>
+                    <paragraph id="ide0c3e5e272ac4b08a661ca770c4e800b">
+                        <enum>(3)</enum>
+ <text>provide training to such health care professionals on—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id2712f2d70fb44a8399b76899979d8fb2"> <enum>(A)</enum> <text display-inline="yes-display-inline">how to use AI/CDSS;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idca93acb478884a7abcd79efee611301e">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the circumstances where an AI/CDSS override is appropriate;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id1bbe198368e642d688f6f5c2dbdfe156">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">how to override an AI/CDSS output;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="idea84b0d3e14f4b2cbfdec1ea7d8a0853">
+                            <enum>(D)</enum>
+ <text>AI/CDSS development processes and any data or other inputs involved in such processes; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id73aa151e65a948dda642a3a08c01d1a9">
+                            <enum>(E)</enum>
+ <text>any potential limitations for AI/CDSS, including any potential areas of bias in the AI/CDSS;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idd3ecf1260fb34ff9b03a9c5d4c23800f">
+                        <enum>(4)</enum>
+ <text>establish and maintain an AI/CDSS committee that shall—</text> <subparagraph commented="no" id="ide8935bed90f849409259bb16300d0c9d"> <enum>(A)</enum> <text>convene upon the date that is later of—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id17c28f1922a24fd8b06cde11f124fd36">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the date of the adoption of AI/CDSS at the covered entity; or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id75bf975b1e1247d4b2dce684578b9a18">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">120 days after the date of enactment of this Act;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id4f60a3531fa04fc2ab96ca6a6251e962">
+                            <enum>(B)</enum>
+ <text>be comprised of at least as many non-managers as managers;</text> </subparagraph> <subparagraph commented="no" id="idedd6478d939743b885661f6f79f894ca"> <enum>(C)</enum> <text>include membership of any labor organization, or other authorized representative, of health care professionals employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="ida37f7d43aed5429dae6a19f912c2fc72">
+                            <enum>(D)</enum>
+ <text>provide consultation to the covered entity in developing policies and practices related to the use of AI/CDSS, including policy required under subparagraphs (A) through (D) of paragraph (1); and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id05082dd4bf544916aa4f4c67453cc747">
+                            <enum>(E)</enum>
+ <text>meet at least quarterly to—</text> <clause commented="no" display-inline="no-display-inline" id="id54eb3c5004774be29814a2ac2737f1a5"> <enum>(i)</enum> <text display-inline="yes-display-inline">review implementation of policies adopted by the covered entity with respect to AI/CDSS; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id3176f1977c7a44e28173924b8ee48fc7">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">report to the covered entity on findings and suggestions for improvements; and</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="id68cea1962cee428886bed44e6445953e">
+                        <enum>(5)</enum>
+ <text>review—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idde7050c891f14fc690fc6dbadbf77f34"> <enum>(A)</enum> <text display-inline="yes-display-inline">all findings and suggestions from the AI/CDSS committee provided under paragraph (4)(E)(ii); and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id524fe216b5b9421b875390c0461e1a63">
+                            <enum>(B)</enum>
+ <text>any other feedback from health care professionals employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity on the AI/CDSS technology and the policies of the entity with respect to such technology, including by reviewing any such feedback on patterns of issues with the AI/CDSS, such as incorrect or biased outputs that require frequent override.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idc7fa22e47d7246838e171a10d4ebbb53">
+                    <enum>(b)</enum>
+                    <header>Data sharing exception</header>
+ <text>The prohibition under subsection (a)(1)(D) shall not apply—</text> <paragraph commented="no" id="ida70b91fc79554984a9dab3d17432b730"> <enum>(1)</enum> <text>in a case in which a covered entity is informing a patient or an authorized representative of a patient about a decision rendered in the administration of the care of such patient; or</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id5f2bee759462445b99d26a335cbb814b">
+                        <enum>(2)</enum>
+ <text>in a case of a civil, criminal, or administrative action involving medical malpractice, negligence, or violation of any law.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id8a30168981e3444f988e83276ed18ce4">
+                    <enum>(c)</enum>
+                    <header>Oversight mechanism</header>
+ <text>Nothing in this Act shall prohibit a covered entity from reviewing the performance outcomes of AI/CDSS.</text>
+                </subsection>
+            </section>
+            <section id="id74a3c19177da4337bb87d9399010080f">
+                <enum>102.</enum>
+                <header>Enforcement</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id2265f40112724fe0886340fe6904bb3d">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subsection (c), the Secretary of Health and Human Services, acting through the Office for Civil Rights (referred to in this title as the <quote>Secretary</quote>), shall receive, investigate, and attempt to resolve, including through imposing civil monetary penalties, complaints of violations of this title in the same manner as the Secretary receives, investigates, and attempts to resolve, including through imposing civil monetary penalties, complaints of violations of part C of title XI of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d">42 U.S.C. 1320d et seq.</external-xref>).</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id72bdc4e16ea748908629f5dbd3d9e5ac">
+                    <enum>(b)</enum>
+                    <header>Civil monetary penalties</header>
+ <text display-inline="yes-display-inline">The provisions of section 1128A of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-7a">42 U.S.C. 1320a–7a</external-xref>) (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to the imposition of a civil monetary penalty under this section in the same manner as such provisions apply to the imposition of a penalty under such section 1128A.</text>
+                </subsection>
+                <subsection commented="no" id="ida4a05a68e06741d28526dedfdf1d0d23">
+                    <enum>(c)</enum>
+                    <header>Exception</header>
+ <text>No complaint of a violation of this title shall be referred to the Attorney General for investigation as a criminal violation.</text>
+                </subsection>
+            </section>
+            <section id="idfe4baea67bf84c56b5791653a39a69e2">
+                <enum>103.</enum>
+                <header>Regulations</header>
+                <subsection id="idfc713e2fde2a438aac111bbe566ca635">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Secretary may prescribe such regulations as may be necessary to carry out this title.</text>
+                </subsection>
+                <subsection id="id14c9818695484a42b36d6df6f87868d8">
+                    <enum>(b)</enum>
+                    <header>Consultation</header>
+ <text>In prescribing any regulations authorized under this section, the Secretary—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idf95bb7a0f2244b61ab512fc7bab46740">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">shall consult with the Secretary of Labor; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idfba39f70fcf54e3e9d4c4a118d5ecc9e">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">may consult with—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id9cdbd43cfe4145aeaf7ccb7429f04fe7"> <enum>(A)</enum> <text display-inline="yes-display-inline">other Federal agencies that have expertise in artificial intelligence or health care; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id478783eda3824f71abc4aebb27c07dc3">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">other Federal agencies that have jurisdiction over labor and employment issues, including the Equal Employment Opportunity Commission, the Department of Justice, and the National Labor Relations Board.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="idceb3bbd735b04c7c8498b5c0283feca4" style="OLC">
+            <enum>II</enum>
+            <header>Adverse employment actions; whistleblower protections</header>
+            <section id="id664be00b7d2d404bbd0013cf5eac7124">
+                <enum>201.</enum>
+                <header>Prohibition on adverse employment actions</header>
+ <text display-inline="no-display-inline">No covered entity shall take an adverse employment action against a health care professional employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity because the health care professional overrides an AI/CDSS output in a manner consistent with the requirements under section 101.</text>
+            </section>
+            <section id="id03934bb88e304eb5a6021a158fda2f44">
+                <enum>202.</enum>
+                <header>Whistleblower protections</header>
+ <text display-inline="no-display-inline">No covered entity shall discriminate or retaliate (including through intimidation, threats, coercion, or harassment) against any individual employed by, or otherwise engaged in the performance of work for remuneration for, the covered entity—</text>
+                <paragraph id="id84d5ed46c55a41dda4623ef19a9d62e1">
+                    <enum>(1)</enum>
+ <text>because the individual exercises, or attempts to exercise, any right provided under this Act; or</text>
+                </paragraph>
+                <paragraph id="id41fd390ef1b848f5a58f861e97bf42e5">
+                    <enum>(2)</enum>
+ <text>because the individual (or another individual or representative acting at the request of the individual) has—</text>
+                    <subparagraph id="id818d17d80c2d499da58aa2c559cf7d3e">
+                        <enum>(A)</enum>
+ <text>filed a written or oral complaint to the covered entity or a Federal, State, local, or Tribal government entity of a possible violation of this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="idc86ff6cfceda4e80867115193f64c4dd">
+                        <enum>(B)</enum>
+ <text>sought assistance or intervention with respect to an AI/CDSS-related concern from the covered entity, a Federal, State, local, or Tribal government, or any individual or entity representing workers;</text>
+                    </subparagraph>
+                    <subparagraph id="id1f885d676903422d812b076298bd39b7">
+                        <enum>(C)</enum>
+ <text>instituted, caused to be instituted, or otherwise participated in any inquiry or proceeding under or related to this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="id1dc41a882d96471fba3582bf62856ae9">
+                        <enum>(D)</enum>
+ <text>given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this Act;</text>
+                    </subparagraph>
+                    <subparagraph id="id7a72a374e1fd4c3ca5cf73b3a895c7f3">
+                        <enum>(E)</enum>
+ <text>testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this Act; or</text>
+                    </subparagraph>
+                    <subparagraph id="iddbc823efe6c84216a409e02070f56751">
+                        <enum>(F)</enum>
+ <text>discussed a possible violation of this Act with a co-worker.</text> </subparagraph> </paragraph> </section> <section id="id926c2da24cec4643a2f2689d71a03988"> <enum>203.</enum> <header>Enforcement</header> <subsection id="id5C6F4C68A07A448E997FD874153CED49"> <enum>(a)</enum> <header>Enforcement by Department of Labor</header> <paragraph id="id7CED9A15441842EFAC8CDA455C132452"> <enum>(1)</enum> <header>Investigation</header> <subparagraph id="id6b2b481d6fb34494aa44cd181a265521"> <enum>(A)</enum> <header>In general</header> <text>To ensure compliance with this title, the Secretary of Labor (referred to in this title as the <quote>Secretary</quote>)—</text>
+                            <clause id="id9ddd6bf80ad94b1f85ee225706cdc6ee">
+                                <enum>(i)</enum>
+ <text>shall have—</text> <subclause commented="no" display-inline="no-display-inline" id="id96505fd25c62454fa6e8000852c2534d"> <enum>(I)</enum> <text display-inline="yes-display-inline">the investigative authority provided under section 11(a) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/211">29 U.S.C. 211(a)</external-xref>); and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id29508f84c5a24f57bd3cf45a4b72c274">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the subpoena authority provided under section 9 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/29/209">29 U.S.C. 209</external-xref>); and</text>
+                                </subclause>
+                            </clause>
+                            <clause id="idF78FCB3804404782BE2545F6384009A2">
+                                <enum>(ii)</enum>
+ <text>may require, by general or special orders, a covered entity to file with the Secretary, in such form as the Secretary may prescribe, annual or special reports or answers in writing to specific questions (including information and records) as the Secretary may require as to the organization, business, conduct, practices, management, and relation to other corporations, partnerships, and individuals, of the covered entity.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idA9ABE5A1D976436BA7E3E3D547B1F74E">
+                            <enum>(B)</enum>
+                            <header>Reports and answers</header>
+ <text>A covered entity shall file any reports and answers (including information and records) required under subparagraph (A)(ii) in such manner, including under oath or otherwise, and within such reasonable time period as the Secretary may require.</text>
+                        </subparagraph>
+                        <subparagraph id="id3299caec7602499b8ca12260ae531620">
+                            <enum>(C)</enum>
+                            <header>Joint investigations</header>
+ <text>The Secretary may conduct investigations and make requests for information, as authorized under this Act, on a joint basis with another Federal agency, a State attorney general, or a State agency.</text>
+                        </subparagraph>
+                        <subparagraph id="iddbda4d3ae8f845c49d59d8e079ab11f8">
+                            <enum>(D)</enum>
+                            <header>Obligation to keep, preserve, and make available
+                                records</header>
+ <text>A covered entity shall make, keep, preserve, and make available to the Secretary records pertaining to compliance with this title in accordance with section 11(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/211">29 U.S.C. 211(c)</external-xref>) and in accordance with any regulation or order issued by the Secretary.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="idB75D04C4F3C1400CB0FF088635E4EA12">
+                        <enum>(2)</enum>
+                        <header>Enforcement</header>
+ <text>The Secretary shall receive, investigate, and attempt to resolve complaints of violations of this title in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 6 and 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 and 207).</text>
+                    </paragraph>
+                    <paragraph id="id7585037d40cd48b7bb9ba3c4ace71d6a">
+                        <enum>(3)</enum>
+                        <header>Civil monetary penalties</header>
+ <text>Subject to subsection (c), the Secretary may impose a civil monetary penalty on any person that violates this title—</text>
+                        <subparagraph id="id14bcc795ae8f43998362d680f2f239bc">
+                            <enum>(A)</enum>
+ <text>in an amount of not more than $76,987 per violation; or</text> </subparagraph> <subparagraph id="id25b12eca751e4b53a3ecc30762e0b84e"> <enum>(B)</enum> <text>for repeat violations, in an amount of not more than $769,870 per violation.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id390e3148e92d4bedaf44f6dc6c3e90f0">
+                        <enum>(4)</enum>
+                        <header>Administrative complaints</header>
+ <text>An individual adversely affected by an alleged violation of this title may—</text>
+                        <subparagraph id="id3fa297af2d6b4f13b766d411a6442d73">
+                            <enum>(A)</enum>
+ <text>file a complaint of a violation of this title with the Secretary; and</text>
+                        </subparagraph>
+                        <subparagraph id="id9fbdc03541604a7f8df13702a3271753">
+                            <enum>(B)</enum>
+ <text>designate a representative of a labor organization, regardless of the relationship between the individual and the labor organization, to—</text>
+                            <clause id="ida140c8d4ab8d43278223a0f2c83490c1">
+                                <enum>(i)</enum>
+ <text>file the complaint on behalf of the individual; or</text> </clause> <clause id="id22df2f47fc4b4988967a8bffa3d0bd0c"> <enum>(ii)</enum> <text>represent the individual for purposes of engagement with the Secretary regarding such complaint, including being present at worker interviews and participating in workplace inspections, conferences, and settlement negotiations.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="id55E5549AE8AB45D3865314A7449B8327">
+                        <enum>(5)</enum>
+                        <header>Litigation</header>
+ <text>The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this subsection. If the Secretary determines that a covered entity has violated this title, the Secretary may file a civil action in any appropriate United States district court to obtain injunctive relief to enforce this title.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id04513971fa974820ae22d28fc290c6ec">
+                        <enum>(6)</enum>
+                        <header>Burdens of proof</header>
+ <text>All complaints under this subsection shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49, United States Code.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idE36BD0C575264B15B632CE615A0AA7E6">
+                    <enum>(b)</enum>
+                    <header>Private right of action</header>
+                    <paragraph commented="no" id="id996948684CE94378B2E2F4A103750F18">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Notwithstanding any action by the Secretary under subsection (a), any individual adversely affected by an alleged violation of this title (or a representative on behalf of such individual) may commence a civil action against any covered entity that violates this title in any Federal court of competent jurisdiction.</text>
+                    </paragraph>
+                    <paragraph commented="no" id="id8535B4E725374DF3ACA31D2D138AA2FB">
+                        <enum>(2)</enum>
+                        <header>Relief</header>
+                        <subparagraph id="id64d6f8e5653e4ee6882b6d742d38b3af">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>In a civil action brought under paragraph (1) in which the individual described in such paragraph prevails, the court may award the individual—</text>
+                            <clause id="idcee0e6ee77704662b8e27026c4b4b847">
+                                <enum>(i)</enum>
+ <text>damages of—</text> <subclause id="id67cdb11204bf47939cdba20fbe6f8458"> <enum>(I)</enum> <text>an amount equal to the sum of any actual damages including back pay sustained by the individual; or</text>
+                                </subclause>
+                                <subclause id="id45f45c4a29f547e1b195f5dbb6c24600">
+                                    <enum>(II)</enum>
+ <text>not more than treble damages;</text> </subclause> </clause> <clause id="id490e2c03962a44f49f18dbda8d4a9d36"> <enum>(ii)</enum> <text>statutory damages described in subparagraph (B);</text>
+                            </clause>
+                            <clause id="id64f9fff3e51a4976baf7b27f0156efdd">
+                                <enum>(iii)</enum>
+ <text>injunctive relief;</text> </clause> <clause id="id3b663f6b584f4bfc89db5e4c1954622f"> <enum>(iv)</enum> <text>equitable relief;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id06b93cb48e254d36a8bf67e79e394ea0">
+                                <enum>(v)</enum>
+ <text>reasonable attorney fees and litigation costs; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id7d7f07fd37fd43f7952462920f44cf58"> <enum>(vi)</enum> <text>while the action is pending, temporary relief, including temporary reinstatement.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" id="id23C487DDBCE14932B82D8495B585E594">
+                            <enum>(B)</enum>
+                            <header>Statutory damages</header>
+                            <clause commented="no" display-inline="no-display-inline" id="id8457a27f495243f18ed30271fa80d70a">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">The court may, in accordance with clause (ii), award statutory damages under subparagraph (A)(ii) against a covered entity in the following amounts:</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="idfb0d4c47505d4766bbfefe2c6916f92d">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">For each violation of section 201 (regarding adverse employment actions), the court may award damages of an amount (subject to subsection (c)) of not less than $5,000 and not more than $20,000.</text>
+                                </subclause>
+                                <subclause commented="no" id="idCCE712037B40498798FC723245285F5A">
+                                    <enum>(II)</enum>
+ <text>For each violation of section 202 (regarding whistleblower protections), the court may award damages of an amount (subject to subsection (c)) of not less than $10,000 and not more than $100,000.</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id343E07F8B0C64E26BB11785A8CE53830">
+                                <enum>(ii)</enum>
+                                <header>Considerations for statutory damages</header>
+ <text>In determining the amount of statutory damages assessed under this subparagraph against a covered entity, the court shall consider any relevant circumstances presented by the parties to the action, including—</text>
+                                <subclause id="id3CE527F379B54B56B1A7C2B8D653B492">
+                                    <enum>(I)</enum>
+ <text>the nature and seriousness of the violation;</text> </subclause> <subclause id="id0342C1FF88AB43219F515EC893420A70"> <enum>(II)</enum> <text>the number of violations;</text>
+                                </subclause>
+                                <subclause id="idBB5E23E1DCA343AF91E42E80E5C73A3D">
+                                    <enum>(III)</enum>
+ <text>the persistence of the misconduct;</text> </subclause> <subclause id="id78C6CEECDF2D4E6C9ED13195100082D2"> <enum>(IV)</enum> <text>the length of time over which the misconduct occurred;</text>
+                                </subclause>
+                                <subclause id="idAAA5B7FD140046C4922736AD24B382AB">
+                                    <enum>(V)</enum>
+ <text>the willfulness of the misconduct; and</text> </subclause> <subclause id="id39E04E76271945119AE561E6C452AFC5"> <enum>(VI)</enum> <text>the assets, liabilities, and net worth of the covered entity.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idCED9A93533D2437097DD35A3B7BC6336">
+                        <enum>(3)</enum>
+                        <header>Remedies for State workers</header>
+                        <subparagraph id="id48023A9B576147C7B695E8CA4DA2B9F1">
+                            <enum>(A)</enum>
+                            <header>Waiver of sovereign immunity</header>
+ <text>A State’s receipt or use of Federal financial assistance for any program or activity of a State shall constitute a waiver of sovereign immunity, under the 11th Amendment to the Constitution of the United States or otherwise, to a suit under this subsection for the relief described in paragraph (2) authorized under this subsection brought by an individual employed under, or otherwise engaged in the performance of work for remuneration under, that program or activity.</text>
+                        </subparagraph>
+                        <subparagraph id="id89C0EE8E2B984246975106F4669CC4B9">
+                            <enum>(B)</enum>
+                            <header>Official capacity</header>
+ <text>An official of a State may be sued in the official capacity of the official by any individual who has complied with the procedures under this paragraph, for injunctive relief that is authorized under this subsection. In such a suit the court may award to the prevailing party those costs authorized by section 722 of the Revised Statutes (<external-xref legal-doc="usc" parsable-cite="usc/42/1988">42 U.S.C. 1988</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="id85B1422F339A4D67BD89DA9DB5827D12">
+                            <enum>(C)</enum>
+                            <header>Applicability</header>
+ <text>With respect to a particular program or activity, subparagraph (A) applies to conduct that occurs—</text>
+                            <clause id="id3DD6D0B22E374685A4F62AD1DFA2EDEE">
+                                <enum>(i)</enum>
+ <text>after the date of enactment of this Act; and</text> </clause> <clause id="idB87349618E614487B8458B4FE6DF9D22"> <enum>(ii)</enum> <text>on or after the day on which a State first receives or uses Federal financial assistance for that program or activity.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id03571516B68B49B1917B189A27A6BDF6">
+                        <enum>(4)</enum>
+                        <header>Definition of program or activity</header>
+ <text>In this subsection, the term <term>program or activity</term> has the meaning given the term in section 606 of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000d-4a">42 U.S.C. 2000d–4a</external-xref>).</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idc7e5293de76c4e728553c5887b545cf5">
+                    <enum>(c)</enum>
+                    <header>Inflation adjustment</header>
+                    <paragraph id="idceb14ef56b784a8b816e2d52d5eebb54">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Subject to paragraphs (2) and (3), the Secretary, not later than September 1 of each calendar year, shall adjust the dollar amounts referred to in subsections (a)(3) and (b)(2)(B)(i) by the percent increase, if any, in the consumer price index for all urban consumers (United States city average), or a successor index, as determined by the Bureau of Labor Statistics, or a successor agency, for the most recent 12-month period for which data is available.</text>
+                    </paragraph>
+                    <paragraph id="idd02f687268fd4dd49a06c82eadcde4ad">
+                        <enum>(2)</enum>
+                        <header>Rounding</header>
+ <text>Any adjustment under paragraph (1) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.</text>
+                    </paragraph>
+                    <paragraph id="id7195618deb724d5b9af24b0470cc81ac">
+                        <enum>(3)</enum>
+                        <header>Publication</header>
+ <text>The Secretary shall publish the adjusted amounts under paragraph (1) in the Federal Register, and on the official website of the Department of Labor, not later than October 1, of the applicable calendar year for the increase under such paragraph.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idba8073ea18c34ed9a5617e738d258d3e">
+                        <enum>(4)</enum>
+                        <header>Effective date</header>
+ <text>Each adjustment under paragraph (1) shall take effect on January 1 of the first calendar year beginning after the date of the increase under such paragraph.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id50ee67ecac7942a1839964f020574eab">
+                    <enum>(d)</enum>
+                    <header display-inline="yes-display-inline">Arbitration and class
+                        action</header>
+ <text>Notwithstanding any other provision of law, no predispute arbitration agreement or predispute joint-action waiver shall be valid or enforceable with respect to any alleged violation of this title.</text>
+                </subsection>
+            </section>
+            <section commented="no" id="idB39D0827F4D840C89E6032C91A39FE2A">
+                <enum>204.</enum>
+                <header>Regulations</header>
+                <subsection commented="no" id="id47FE53D87E084229995DBE1636AAD85A">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Secretary may prescribe such regulations as may be necessary to carry out this title.</text>
+                </subsection>
+                <subsection id="id87d219ac77844a95bfb6f41bec60cca4">
+                    <enum>(b)</enum>
+                    <header>Consultation</header>
+ <text>In prescribing any regulations authorized under this section, the Secretary—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idb834681aad8844c8b7dab023d1cc7e93">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">shall consult with the Secretary of Health and Human Services; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6bd162188e704b0bbc80f8a346c47b8f">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">may consult with—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ida76dc9d6d4554676b08754d6c3e0bb9c"> <enum>(A)</enum> <text display-inline="yes-display-inline">other Federal agencies that have expertise in artificial intelligence or health care; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id3e75e628eb7a458183666754b69ac623">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">other Federal agencies that have jurisdiction over labor and employment issues, including the Equal Employment Opportunity Commission, the Department of Justice, and the National Labor Relations Board.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="ide57c9f315d8a47fab40f892fc15073af" style="OLC">
+            <enum>III</enum>
+            <header>General provisions</header>
+            <section id="id607776010d0c4d418d1dcc03816082a3">
+                <enum>301.</enum>
+                <header>Educational materials for covered entities and health care
+                    professionals</header>
+ <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall develop and disseminate education materials for—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id818116bde9454bcfa84524044ebdc548">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">covered entities with respect to the compliance of such entities with the requirements under this Act; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc84c4537e1494539a584935abe44926f">
+                    <enum>(2)</enum>
+ <text>health care professionals to inform such professionals of their rights and protections under this Act.</text>
+                </paragraph>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id9906ddf3c8394793ae661a8739c22665">
+                <enum>302.</enum>
+                <header display-inline="yes-display-inline">State enforcement</header>
+                <subsection id="id289020d163d948689722bc3cced0ec35">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>In any case in which a State attorney general or a State privacy regulator has reason to believe that an interest of the residents of a State has been or is adversely affected by any covered entity that violates any provision of this Act, the State attorney general or State privacy regulator, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate State court or an appropriate district court of the United States to—</text>
+                    <paragraph id="id297e63fc6f274fcf96edf1da4678fbd2">
+                        <enum>(1)</enum>
+ <text>enjoin further violation of such provision by the covered entity;</text>
+                    </paragraph>
+                    <paragraph id="idfb0fa87e736d4a2e987c4bc24b684d67">
+                        <enum>(2)</enum>
+ <text>compel compliance with such provision;</text> </paragraph> <paragraph id="id5fdd3c8384504f239aa66ca006cc6a1c"> <enum>(3)</enum> <text>obtain damages, civil penalties, restitution, or other compensation on behalf of the residents of the State; or</text>
+                    </paragraph>
+                    <paragraph id="iddd35411674f04efc9d51af94eb5025d0">
+                        <enum>(4)</enum>
+ <text>obtain reasonable attorney’s fees and other litigation costs reasonably incurred.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id12324a52333b4a44a9dd16ecc6b3b3a0">
+                    <enum>(b)</enum>
+                    <header>Rights of agency</header>
+ <text>Before initiating a civil action under subsection (a), the State attorney general or State privacy regulator, as the case may be, shall notify the Secretary in writing of such civil action. Upon receiving such notice, the Secretary may—</text>
+                    <paragraph id="idbc74cd8311fb406e9f05569746c89238">
+                        <enum>(1)</enum>
+ <text>intervene in such action; and</text> </paragraph> <paragraph id="id24ea1c5450ab40f6a4e3a30e9d8962dc"> <enum>(2)</enum> <text>upon intervening—</text>
+                        <subparagraph id="id7d03e5333cfb40058b2add5568252e40">
+                            <enum>(A)</enum>
+ <text>be heard on all matters arising in such civil action; and</text> </subparagraph> <subparagraph id="id5f1c07f304094eb49c1302d3fa9fa47a"> <enum>(B)</enum> <text>file petitions for appeal of a decision in such action.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id231ca7a28c1745ad8fbaab28bb86f93c">
+                    <enum>(c)</enum>
+                    <header>Preemptive action by agency</header>
+ <text>In any case in which a civil action is instituted by or on behalf of the Secretary for a violation of this Act, a State attorney general or State privacy regulator may not, during the pendency of such action, institute a civil action against any defendant named in the complaint in the action instituted by or on behalf of the Secretary for a violation that is alleged in such complaint. In a case brought by the Secretary that affects the interests of a State, the State attorney general or State privacy regulator may intervene as of right pursuant to the Federal Rules of Civil Procedure.</text>
+                </subsection>
+                <subsection id="id180d22f8ce4847859033854b382fbad2">
+                    <enum>(d)</enum>
+                    <header>Preservation of State powers</header>
+ <text>Except as provided in subsection (c), no provision of this Act shall be construed as altering, limiting, or affecting the authority of a State attorney general or State privacy regulator to—</text>
+                    <paragraph id="id1d8e3fcc52e8450981ae5f5722db1ffc">
+                        <enum>(1)</enum>
+ <text>bring an action or other regulatory proceeding arising solely under the laws in effect in that State; or</text>
+                    </paragraph>
+                    <paragraph id="id11c70cc62cce4c2598a0c8ea587e0fda">
+                        <enum>(2)</enum>
+ <text>exercise the powers conferred on the State attorney general or State privacy regulator by the laws of the State, including the ability to conduct investigations, administer oaths or affirmations, or compel the attendance of witnesses or the production of documentary or other evidence.</text>
+                    </paragraph>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="idd7ae3064491446f6a6e0df203d900300">
+                    <enum>(e)</enum>
+                    <header>Definition of Secretary</header>
+ <text>In this section, the term <term>Secretary</term> means—</text> <paragraph commented="no" display-inline="no-display-inline" id="id7d109dcfc1d04c13a92db913727d5936"> <enum>(1)</enum> <text display-inline="yes-display-inline">with respect to a violation of title I, the Secretary of Health and Human Services; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idb7b7d5b120de405bb7920060328ce9db">
+                        <enum>(2)</enum>
+ <text>with respect to a violation of title II, the Secretary of Labor.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id51a1f33d4abd49929b14dbd094fcc6f5">
+                <enum>303.</enum>
+                <header>Rule of construction</header>
+ <text display-inline="no-display-inline">Nothing in this Act shall protect a health care professional from a medical malpractice or negligence claim for health care services provided through overriding an AI/CDSS output.</text>
+            </section>
+            <section id="idfc5abc44cd314d559fdd2cbc07340da1">
+                <enum>304.</enum>
+                <header>Non-preemption</header>
+ <text display-inline="no-display-inline">Nothing in this Act shall preempt a State law or collective bargaining agreement.</text>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

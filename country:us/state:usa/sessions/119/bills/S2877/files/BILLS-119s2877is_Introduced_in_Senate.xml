@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25761-FXC-Y5-Y1G">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2877 IS: No Stock Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2877</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date>September 18 (legislative day, September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S331">Mrs. Gillibrand</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To ban stock trading for certain senior Government officials, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H70A464B044144CA0A44C2F9CA8BE51EF">
+        <section section-type="section-one" id="H3592F99CDCC84292BF05896103891800">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Stock Act</short-title></quote>.</text>
+        </section>
+        <section id="H46999C8AC1DA41B3B8A0A905EC688113">
+            <enum>2.</enum>
+            <header>Banning conflicted interests</header>
+            <subsection id="H7DD33EA3A2F9456DBA9D1B6AB731F97D">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="HB48467C549FC4DA09A7E5651A8F0C292">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Banning conflicted
+                        interests</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">Chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="H388D453B59564F06B2569E85B213D673">
+                        <subchapter commented="no" id="H5C7CEA6422114DF8956C5397222DE359" style="OLC">
+                            <enum>IV</enum>
+                            <header>Banning conflicted interests</header>
+                            <section commented="no" section-type="subsequent-section" id="HF8E1D4B8AEFB43308DEE53D1D4A7E403">
+                                <enum>13161.</enum>
+                                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this subchapter:</text> <paragraph commented="no" id="H8A3518D4266341819B33FBE237287965"> <enum>(1)</enum> <header>Commodity</header> <text>The term <term>commodity</term> has the meaning given the term in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>).</text>
+                                </paragraph>
+                                <paragraph commented="no" id="HFF24FF32B87746DAB033F920F6154093">
+                                    <enum>(2)</enum>
+                                    <header>Covered financial interest</header>
+                                    <subparagraph commented="no" id="H0970C28BAE5846BF9BE244BBA7CE8CCA">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text>The term <term>covered financial interest</term> means—</text>
+                                        <clause commented="no" id="HBE939AA2504440C283563DA6949CCD8D">
+                                            <enum>(i)</enum>
+ <text>any investment in—</text> <subclause commented="no" id="H66805A7D08374D20A3AC7791864CF981"> <enum>(I)</enum> <text display-inline="yes-display-inline">a security (as defined in section 3(a) of Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>));</text>
+                                            </subclause>
+                                            <subclause commented="no" id="HF3D19280FE67490FB57FD8DF5004C7E9">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">a future;</text>
+                                            </subclause>
+                                            <subclause commented="no" id="HB2A28DD905224218A32C02F002582DB3">
+                                                <enum>(III)</enum>
+ <text display-inline="yes-display-inline">a commodity (as defined in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>)); or</text>
+                                            </subclause>
+                                            <subclause commented="no" id="HF27A02DB236F403ABAC175BD2871FAD4">
+                                                <enum>(IV)</enum>
+ <text>a cryptocurrency, meme coin, token, non-fungible token, or other digital asset that is sold for remuneration; and</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause commented="no" id="H49C7368F7DE2499BBA26EFB2C316F259">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any economic interest comparable to an interest described in clause (i) that is acquired through synthetic means, such as the use of a derivative, including an option, warrant, or other similar means.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H0F99FEB9C0A445E59E5C1D57EA2F260E">
+                                        <enum>(B)</enum>
+                                        <header>Exclusions</header>
+ <text>The term <term>covered financial interest</term> does not include—</text>
+                                        <clause commented="no" id="H6B0F0E7330484449991463C2E76B96EE">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an investment fund registered as an investment company under section 3 of the Investment Company Act of 1940 (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-3">15 U.S.C. 80a–3</external-xref>) that is diversified, as defined in section 2640.102 of title 5, Code of Federal Regulations;</text>
+                                        </clause>
+                                        <clause commented="no" id="H51A28C96799748BA84219518F3BCB708">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">compensation from the primary occupation of the spouse of an individual described in subparagraphs (A) through (G) of paragraph (3), or any security that is issued or paid by an operating business that is the primary employer of such a spouse that is issued or paid to such a spouse; </text>
+                                        </clause>
+                                        <clause commented="no" id="HCADF5CD20CC641B8BFD6733F2E4C9F93">
+                                            <enum>(iii)</enum>
+ <text>a United States Treasury bill, note, or bond; or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id50d5798169e2490fb778092bfdbeab79">
+                                            <enum>(iv)</enum>
+ <text>a payment stablecoin, as defined in section 2(22) of the GENIUS Act (<external-xref legal-doc="public-law" parsable-cite="pl/119/27">Public Law 119–27</external-xref>).</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" id="H4C56A24FA73745C7A77FFFC038368916">
+                                    <enum>(3)</enum>
+                                    <header>Covered individual</header>
+ <text>The term <term>covered individual</term> means—</text> <subparagraph commented="no" id="H48A433B615074F2F8AC76C6656890683"> <enum>(A)</enum> <text>a Member of Congress (as defined in section 13101);</text>
+                                    </subparagraph>
+                                    <subparagraph id="H8A1C5D2F124140EC917C54348B05E27F">
+                                        <enum>(B)</enum>
+ <text>the President;</text> </subparagraph> <subparagraph id="HC5B9EA3C2014431BB5F7F73B59FB9B6B"> <enum>(C)</enum> <text>the Vice President;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H44330E4C6C5A41A48C364C5F58D226C9">
+                                        <enum>(D)</enum>
+ <text>the Chief Justice of the United States;</text> </subparagraph> <subparagraph commented="no" id="H769E07CA055F4DDABD0FD98AAD05F94E"> <enum>(E)</enum> <text>an Associate Justice of the Supreme Court of the United States;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H0E845EE418984E258D92A81EEDA6C0EF">
+                                        <enum>(F)</enum>
+ <text>a member of the Board of Governors of the Federal Reserve System;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H504378B830A4418EAB9E55B8636A304A">
+                                        <enum>(G)</enum>
+ <text>a president or vice president of a Federal Reserve bank; or</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="H943BD691759741D5849ECBFC7C9C7790">
+                                        <enum>(H)</enum>
+ <text>the spouse or dependent child of an individual described in subparagraphs (A) through (G).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" id="H8B75406BEB374B74B0BFBA938EB20B63">
+                                    <enum>(4)</enum>
+                                    <header>Dependent child</header>
+ <text>The term <term>dependent child</term> means any individual who is—</text>
+                                    <subparagraph commented="no" id="H8A467F768172413883917F59BC2AAD0C">
+                                        <enum>(A)</enum>
+ <text>under the age of 19; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="HD22BAC6097054F5F9861BED1CFBF3731"> <enum>(B)</enum> <text>a dependent of an individual described in subparagraphs (A) through (G) of paragraph (3) within the meaning of <external-xref legal-doc="usc" parsable-cite="usc/26/152">section 152</external-xref> of the Internal Revenue Code of 1986.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" id="HAB4B8F5A2D9045799F8E508FE40FEB8D">
+                                    <enum>(5)</enum>
+                                    <header>Future</header>
+ <text>The term <term>future</term> means—</text> <subparagraph commented="no" id="HF7B218A6B075458C9DC1C333E26BE455"> <enum>(A)</enum> <text>a security future (as defined in section 3(a) of Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>)); and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="H0819F95A5BFA48BFBCB126C20049803B">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any other contract for the sale of a commodity for future delivery.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" id="HAF013526DB2447ACB266613357990289">
+                                    <enum>(6)</enum>
+                                    <header>Supervising ethics office</header>
+ <text>The term <term>supervising ethics office</term>, with respect to a covered individual, has the meaning given the term in section 13101 with respect to that covered individual.</text>
+                                </paragraph>
+                            </section>
+                            <section commented="no" id="HD22858EE0235415C8BBF1B800AE7AD03">
+                                <enum>13162.</enum>
+                                <header>Prohibitions</header>
+                                <subsection commented="no" id="HEB73ECE8FFE64DD8A67C6016FE061361">
+                                    <enum>(a)</enum>
+                                    <header>Transactions</header>
+ <text display-inline="yes-display-inline">Except as provided in section 13163, no covered individual may—</text>
+                                    <paragraph commented="no" id="HEFB682C6A3C24B51B8BF4AC8E1B3EAE8">
+                                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">hold, purchase, sell, or conduct any type of transaction with respect to a covered financial interest; or</text>
+                                    </paragraph>
+                                    <paragraph commented="no" id="H5745D3E7C6E7444F865AAF79E88094E8">
+                                        <enum>(2)</enum>
+ <text>enter into a transaction that creates a net short position in any security.</text>
+                                    </paragraph>
+                                </subsection>
+                                <subsection commented="no" id="HA5EB9EBC723D4E8388070570E5B5A029">
+                                    <enum>(b)</enum>
+                                    <header>Positions</header>
+ <text>A covered individual may not serve as an officer or member of any board of any for-profit association, corporation, or other entity.</text>
+                                </subsection>
+                                <subsection commented="no" id="HB8B98F93B75F4385884BC2DDC1FEE774">
+                                    <enum>(c)</enum>
+                                    <header>Cooling-Off period</header>
+ <text display-inline="yes-display-inline">Any individual subject to the restrictions contained in subsection (a) who, within 120 days after such individual ceases to be a covered individual, engages in any of the actions under such subsection, shall be in violation of this subchapter.</text>
+                                </subsection>
+                            </section>
+                            <section commented="no" id="H1C13E34289E74B6B914ABAC7C4335171">
+                                <enum>13163.</enum>
+                                <header>Divestiture</header>
+                                <subsection commented="no" id="H413428EC1EF347E6B126F450352A4A7D">
+                                    <enum>(a)</enum>
+                                    <header>Covered financial interests acquired prior to Federal
+                                        service or enactment of No Stock Act</header>
+ <text display-inline="yes-display-inline">With respect to any covered financial interest held by a covered individual, the covered individual shall sell the covered financial interest during the applicable 120-day period beginning on the later of—</text>
+                                    <paragraph commented="no" id="H44E81D4E90D345E48C2FD8FC8917BF05">
+                                        <enum>(1)</enum>
+ <text>the date on which an individual becomes a covered individual; and</text>
+                                    </paragraph>
+                                    <paragraph commented="no" id="H978CFFE4B15A4089B2FC32F314DC3E17">
+                                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the date of enactment of the <short-title>No Stock Act</short-title>.</text>
+                                    </paragraph>
+                                </subsection>
+                                <subsection commented="no" id="HDED33ACD39DC4BDEAEB5BF59EF22E0BF">
+                                    <enum>(b)</enum>
+                                    <header>Covered financial interests acquired through inheritance
+                                        after the applicable period</header>
+                                    <paragraph commented="no" id="H0996814316BE493A933C30B35881A310">
+                                        <enum>(1)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">A covered individual who inherits a covered financial interest after the conclusion of the applicable 120-day period described in subsection (a) shall sell the covered financial interest during the 120-day period beginning on the date on which the covered financial interest is inherited.</text>
+                                    </paragraph>
+                                    <paragraph commented="no" id="HFF0A119A84B648A284990F07E235F5A1">
+                                        <enum>(2)</enum>
+                                        <header>Extensions</header>
+ <text display-inline="yes-display-inline">A covered individual may request, and the supervising ethics office may grant, 1 or more reasonable extensions of the period described under paragraph (1), subject to the conditions that—</text>
+                                        <subparagraph commented="no" id="H5E98BEEBD79F4CD79054DF948705C174">
+                                            <enum>(A)</enum>
+ <text>the total period of time covered by all extensions granted for the covered financial interest shall not exceed 150 days; and</text>
+                                        </subparagraph>
+                                        <subparagraph commented="no" id="H350210F973974BFB844C9F4BCDF1AB10">
+                                            <enum>(B)</enum>
+ <text>the period covered by a single extension shall be not longer than 45 days.</text>
+                                        </subparagraph>
+                                    </paragraph>
+                                </subsection>
+                            </section>
+                            <section id="H7F4D6EA44FCE4247A329EAEC688A8DDD">
+                                <enum>13164.</enum>
+                                <header>Certificate of compliance</header>
+ <text display-inline="no-display-inline">Each covered individual shall submit to the supervising ethics office a written certification that such covered individual has achieved compliance with the requirements of this subchapter.</text>
+                            </section>
+                            <section id="H57977D5BABA545D28791B92F3BCD64BA">
+                                <enum>13165.</enum>
+                                <header>Publication</header>
+ <text display-inline="no-display-inline">Each supervising ethics office shall make publicly available on a website of such office the following:</text>
+                                <paragraph id="H93743A1642584DA0ADF3C96F805D84A2">
+                                    <enum>(1)</enum>
+ <text>Within 30 days of receipt, each request for an extension under section 13163(b)(2).</text>
+                                </paragraph>
+                                <paragraph id="H93149497F210487CB63427772426D303">
+                                    <enum>(2)</enum>
+ <text>The outcome of the decision to grant or deny each such request within 30 days of such decision.</text>
+                                </paragraph>
+                            </section>
+                            <section commented="no" id="H6034B973132B4A509186FD75A52A84F1">
+                                <enum>13166.</enum>
+                                <header>Enforcement</header>
+ <text display-inline="no-display-inline">A covered individual who knowingly fails to comply with this subchapter shall be assessed a fine by the supervising ethics office of not less than 10 percent of the value of the covered financial interest that was purchased, sold, or held, or the security in which a net short position was created, in violation of this title, as applicable.</text>
+                            </section>
+                            <section id="H3CF90F5A51364F828C70EA6561486A4A">
+                                <enum>13167.</enum>
+                                <header>Applicability</header>
+ <text display-inline="no-display-inline">This subchapter shall apply to any covered financial interest held in any trust with respect to which the covered individual is a beneficial owner, regardless of whether the trust is a qualified blind trust.</text>
+                            </section>
+                        </subchapter>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H66349BD8854440A5BB46890CC8BD4548">
+                    <enum>(2)</enum>
+                    <header>Clerical amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="subchapter">Subchapter IV—Banning Conflicted
+                            Interests</toc-entry>
+                        <toc-entry level="section">Sec. 13161. Definitions.</toc-entry>
+                        <toc-entry level="section">Sec. 13162. Prohibitions.</toc-entry>
+                        <toc-entry level="section">Sec. 13163. Divestiture.</toc-entry>
+                        <toc-entry level="section">Sec. 13164. Certificate of
+                            compliance.</toc-entry>
+                        <toc-entry level="section">Sec. 13165. Publication.</toc-entry>
+                        <toc-entry level="section">Sec. 13166. Enforcement.</toc-entry>
+                        <toc-entry level="section">Sec. 13167. Applicability.</toc-entry>
+                    </toc>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="HF93BDE74E3CF478FA960FD86170BCCA9">
+                <enum>(b)</enum>
+                <header>Certificate of divestiture</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1043">Section 1043(b)(2)(B)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="HDB146C2923C24335914A8F9E7DE67E19">
+                    <subparagraph id="H4B35A1A852BA4D4EAF615AEA6651BBF1">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">that has been issued by—</text> <clause id="H4FA54D0EEEAD457F969FC63EA81B5CCB"> <enum>(i)</enum> <text display-inline="yes-display-inline">the President or the Director of the Office of Government Ethics, in the case of executive branch officers or employees or the spouse or dependent child of a member of the Board of Governors of the Federal Reserve System,</text>
+                        </clause>
+                        <clause id="H8205EC1CE4B04645B0620638C83AF223">
+                            <enum>(ii)</enum>
+ <text>the Director of the Office of Government Ethics, in the case of the President, Vice President, or the spouse or dependent child of the President or Vice President,</text>
+                        </clause>
+                        <clause id="H63212543F32E449CBC66783C2E6A2949">
+                            <enum>(iii)</enum>
+ <text>the Judicial Conference of the United States (or its designee), in the case of judicial officers or the spouse or dependent child of the Chief Justice or the Associate Justice,</text>
+                        </clause>
+                        <clause id="HE3682EAD1FEF4D3F9B77B13B90DCE524">
+                            <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">the applicable congressional ethics committee, in the case of Members of Congress or the spouse or dependent child of a Member of Congress, or</text>
+                        </clause>
+                        <clause id="H271F47D9B4564AD2BF1DCA96978AEC05">
+                            <enum>(v)</enum>
+ <text>the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, in the case of a president of a Federal Reserve bank, vice president of a Federal Reserve bank, or the spouse or dependent child of the president or vice president of a Federal Reserve Bank, and</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H83C3E28E433641C4AA23C7BC816EE308">
+                <enum>(c)</enum>
+                <header>Conforming amendments</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="H65CDD6AE8A82448496BAADCA4284C208">
+                    <enum>(1)</enum>
+                    <header>Authority and functions</header>
+ <text>Section 13122(f)(2)(B) of title 5, United States Code, is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H2C75AFE82C664AE7852B7B7EF33F6261"> <enum>(A)</enum> <text>by striking <quote>Subject to clause (iv) of this subparagraph, before</quote> each place it appears and inserting <quote>Before</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H1C2D48048E504A388C8BE8B36611AEC7">
+                        <enum>(B)</enum>
+ <text>by striking clause (iv).</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="HB3D6C1CF3D0E49149599FB62B6165DBE"> <enum>(2)</enum> <header>Lobbying Disclosure Act of 1995</header> <text>Section 3(4)(D) of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1602">2 U.S.C. 1602(4)(D)</external-xref>) is amended by striking <quote>legislative branch employee serving in a position described under section 13101(13) of title 5, United States Code</quote> and inserting <quote>officer or employee of Congress (as defined in section 13101 of title 5, United States Code)</quote>.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H856C361C8FFC455DB5F9B2251F5231E8">
+                    <enum>(3)</enum>
+                    <header>STOCK Act</header>
+ <text>Section 2 of the STOCK Act (<external-xref legal-doc="usc" parsable-cite="usc/5/13101">5 U.S.C. 13101</external-xref> note) is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="HF3C0E8CEADC549C9B9226A00B42F2644"> <enum>(A)</enum> <text>in paragraph (2)(B), by striking <quote>(11)</quote>;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H8C11119BD95B4278BE24B1BE04FD74B4">
+                        <enum>(B)</enum>
+ <text>in paragraph (4), by striking <quote>(10)</quote>;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="H700A10487CFB46F8AEA9BD47D915DCEA"> <enum>(C)</enum> <text>in paragraph (5), by striking <quote>(9)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H190A3922D8EC4228874CA95EFBF7ECE9">
+                        <enum>(D)</enum>
+ <text>in paragraph (6), by striking <quote>(18)</quote>.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="HB6D6E8489B874785861156C405EF360C"> <enum>(4)</enum> <header>Securities Exchange Act of 1934</header> <text>Section 21A of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78u-1">15 U.S.C. 78u–1</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H8D7394374C9847928ABE2A72C5CDFD14">
+                        <enum>(A)</enum>
+ <text>in subsection (g)(2)(B)(ii), by striking <quote>(11)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H91D0DE612F194C8C9006812DEF4A14F2">
+                        <enum>(B)</enum>
+ <text>in subsection (h)(2)—</text> <clause commented="no" display-inline="no-display-inline" id="H331C1C2300A445C18926E036986B82B3"> <enum>(i)</enum> <text>in subparagraph (B), by striking <quote>(9)</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="H4F58F4B28D664EE1A5157E755ED415DB">
+                            <enum>(ii)</enum>
+ <text>in subparagraph (C), by striking <quote>(10)</quote>.</text> </clause> </subparagraph> </paragraph> </subsection> </section> </legis-body> </bill>
+

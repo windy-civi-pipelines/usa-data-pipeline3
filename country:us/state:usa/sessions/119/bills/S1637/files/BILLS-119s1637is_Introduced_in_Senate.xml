@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25344-790-SS-76N">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1637 IS: Medicaid VBPs for Patients Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1637</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S419">Mr. Mullin</sponsor> (for himself, <cosponsor name-id="S388">Ms. Hassan</cosponsor>, and <cosponsor name-id="S365">Mr. Scott
+                    of South Carolina</cosponsor>) introduced the following bill; which was read
+                twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XIX of the Social Security Act to codify value-based
+            purchasing arrangements under the Medicaid program and reforms related to price
+            reporting under such arrangements, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" changed="not-changed" id="HB8373D5A51E14A1A99D28D7A0C8EF046">
+        <section section-type="section-one" id="HC84F27A772C24EDCAFC5BEA2A7E2D784" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicaid VBPs for Patients Act</short-title></quote> or the <quote><short-title>MVP Act</short-title></quote>.</text>
+        </section>
+        <section id="H3318F93BD0E74F4EA51BB1EF906364C5" changed="not-changed">
+            <enum>2.</enum>
+            <header>Codifying value-based purchasing arrangements under Medicaid and reforms related
+                to price reporting under such arrangements</header>
+            <subsection id="H92F9704095EA4944B5B56E432F4C0CCC" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Codifying multiple best price points</header>
+                <paragraph id="H7F6C4164852D4F369B5BB5F5A46D5FEA" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 1927(c)(1)(C)(ii) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8(c)(1)(C)(ii)</external-xref>) is amended—</text>
+                    <subparagraph id="H57C960B3A7454CF784B31DA623B4B824" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>in subclause (III), by adding a semicolon at the end;</text> </subparagraph> <subparagraph changed="not-changed" commented="no" display-inline="no-display-inline" id="iddcd09a9cc88f4056b5a5fbd2b9b305a3"> <enum>(B)</enum> <text display-inline="yes-display-inline">in subclause (IV), by striking <quote>and</quote> at the end;</text>
+                    </subparagraph>
+                    <subparagraph id="H72AA0A5A84A2432CAF3BD7C2B5EB5C18" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>in subclause (V), by striking the period and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H3C46FC9EFCE340AD850D096CBF8A77AF" changed="not-changed">
+                        <enum>(D)</enum>
+ <text>by adding at the end the following new subclause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HC88055A735534FBEBA83AE70536D4A0A" changed="not-changed"> <subclause id="HA8AE1C78CCCD42F6B7338BADD7ABF6A0" changed="not-changed"> <enum>(VI)</enum> <text display-inline="yes-display-inline">may include multiple best price points for a single dosage form and strength of a drug of a manufacturer subject to a value-based purchasing arrangement (as defined in subsection (k)(12)), but only if such manufacturer offers such arrangement to all States.</text>
+                            </subclause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HB73E18390D8F4492A345C10D3BD10074" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">Nothing in the amendments made by this subsection may be construed to prohibit a manufacturer from treating a value-based purchasing arrangement as a bundled sale.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H22EEEF24B427439F83DCB58C2213B160" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Definition of average manufacturer price</header>
+                <paragraph id="HE81C22EA6FC74BAC93327A438B36A118" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 1927(k)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8(k)(1)</external-xref>) is amended—</text>
+                    <subparagraph id="H4D7F44933DE847F596B2E7BA6713235D" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>in subparagraph (B)(i)—</text> <clause id="H827C415162C84F85A1D7DC9A9EA47A2F" changed="not-changed"> <enum>(i)</enum> <text>in subclause (IV), by adding a semicolon at the end;</text>
+                        </clause>
+                        <clause changed="not-changed" commented="no"
+                            display-inline="no-display-inline"
+                            id="idfd6c91d5388e4fe58d56de1cd3bd0fc5">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in subclause (VII), by striking at the end <quote>and</quote>;</text>
+                        </clause>
+                        <clause id="H5B84F74A1FE9467381A45126F8834472" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text>in subclause (VIII), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                        </clause>
+                        <clause id="H3C82C56C9B1249919C5D0A38800216CE" changed="not-changed">
+                            <enum>(iv)</enum>
+ <text>by adding at the end the following new subclause:</text> <quoted-block style="OLC" id="HDBD3958B82124097A9CABB6B218F75FC" changed="not-changed"> <subclause id="HF2D0D983237B4E12B0B89B98E25DEA58" changed="not-changed"> <enum>(IX)</enum> <text display-inline="yes-display-inline">with respect to a covered outpatient drug that is sold under a value-based purchasing arrangement (as defined in paragraph (12)) during the rebate period, including such a drug that is an inhalation, infusion, instilled, implanted, or injectable drug that is not generally dispensed through a retail community pharmacy—</text>
+                                    <item id="HBDDD3D77BADF4EE38F503C34A5BB5BBB"
+                                        changed="not-changed">
+                                        <enum>(aa)</enum>
+ <text>a refund, rebate, reimbursement, or free goods from the manufacturer or third party on behalf of the manufacturer; or</text>
+                                    </item>
+                                    <item id="HE56110A7855048FD91D4FB16BC4292C7"
+                                        changed="not-changed">
+                                        <enum>(bb)</enum>
+ <text>the withholding or reduction of a payment to the manufacturer or third party on behalf of the manufacturer;</text>
+                                    </item>
+                                    <continuation-text continuation-text-level="subclause"
+                                        changed="not-changed">that is triggered by a patient who
+                                        fails to achieve outcomes or measures defined under the
+                                        terms of such value-based purchasing arrangement during the
+                                        period for which such arrangement is
+                                        effective.</continuation-text>
+                                </subclause>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HA7E8DD00D612452C89C8A7D73736A1F3" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" id="H44CC778B0BBB47F18103100F960F68AE" changed="not-changed"> <subparagraph id="HB8FF68B5718E458C9CDA90702676B6ED" changed="not-changed"> <enum>(D)</enum> <header>Special rule for certain value-based purchasing arrangements</header> <text>For purposes of subparagraph (A), in determining the average price paid to a manufacturer for a covered outpatient drug that is sold under a value-based purchasing arrangement (as defined in paragraph (12)) that provides that payment for such drug is made in installments over the course of such arrangement, such price shall be determined as if the aggregate price per the terms of the arrangement were paid in full in the first installment during the rebate period.</text>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HB920BED19A494366A9BACF91ADA12F83" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Rulemaking</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the amendments made by this subsection through rulemaking.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HE49B64418179446E8659AE47326EA1B1" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Definition of value-Based purchasing arrangement</header>
+ <text>Section 1927(k) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8(k)</external-xref>) is amended by adding at the end the following paragraph:</text>
+                <quoted-block style="OLC" id="HB056E47E4E4D48B1B13336005561CA53"
+                    changed="not-changed">
+                    <paragraph id="H0387A9EDC18D4A95A07C6FA836703A93" changed="not-changed">
+                        <enum>(12)</enum>
+                        <header>Value-Based Purchasing Arrangement</header>
+ <text>The term <term>value-based purchasing arrangement</term> has the meaning given such term in section 447.502 of title 42, Code of Federal Regulations (or any successor regulation).</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="HB5D84F4DE2254BC28F6A28A003F08504" changed="not-changed">
+            <enum>3.</enum>
+            <header>Calculation of average sales price under Medicare</header>
+ <text display-inline="no-display-inline">Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)) is amended—</text>
+            <paragraph id="HC7C3F331469C40FAB4F9A4CDA6C1DD08" changed="not-changed">
+                <enum>(1)</enum>
+ <text>by striking <quote>In calculating</quote> and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HB5B482716CD24E0AB9F6C7C69FBA2DC8" changed="not-changed"> <subparagraph id="HEDCBCDB6FB6646D99387D18B02E6EA26" changed="not-changed"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">Subject to subparagraph (B), in calculating</text>
+                    </subparagraph>
+                    <after-quoted-block>; and</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph id="H08BA1BAC7B834DBF941CD5C434E0147A" changed="not-changed">
+                <enum>(2)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H827F88E8951C45018BC3E3FA94608493" changed="not-changed"> <subparagraph id="HDF6F04614B21490ABA95F7844428A6A8" changed="not-changed"> <enum>(B)</enum> <header>Certain remuneration under value-based purchasing arrangements excluded</header> <text display-inline="yes-display-inline">In calculating the manufacturer’s average sales price under this subsection for a drug or biological that is sold under a value-based purchasing arrangement (as defined in section 1927(k)(12)) and with respect to which the manufacturer of such drug or biological has elected to include multiple best price points (as described in section 1927(c)(1)(C)(ii)(VI)) in reporting the best price of such drug under section 1927(b), such manufacturer's average sales price shall not include any amount that is excluded from the calculation of the average manufacturer price of such drug or biological under section 1927(k)(1)(B)(i)(IX).</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+        <section id="H385ED5382B9740A2995C1DA160CBDC8E" changed="not-changed">
+            <enum>4.</enum>
+            <header>Guidance on value-based purchasing arrangements for inpatient drugs under
+                Medicaid</header>
+ <text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue guidance to State Medicaid agencies on the option of entering into a value-based purchasing arrangement (as defined in section 1927(k)(12) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8(k)(12)</external-xref>)) with manufacturers for drugs or biological products provided as part of, or as incident to and in the same setting as, inpatient hospital services furnished under a State plan under title XIX of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396">42 U.S.C. 1396 et seq.</external-xref>), or under a waiver of such plan, where such drugs or biological products are reimbursed directly and not paid for as part of payment for such inpatient hospital services, including guidance on how multiple States may enter into agreements with one another and with manufacturers which permit the transfer of funds between the participating States so that individuals who reside in a State different from the State in which they receive a drug subject to a value-based purchasing arrangement as an inpatient may be treated as if they received such drug in the State in which they reside.</text>
+        </section>
+        <section id="HF47B1C920D64450798742BABDC6ECBA4" changed="not-changed">
+            <enum>5.</enum>
+            <header>Exception under the antikickback statute</header>
+            <subsection id="H41AF7CE3E8F34A09B1579ED4CA791317" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1128B(b)(3) of the Social Security Act (42 U.S.C. 1320a–7b(b)(3)) is amended—</text>
+                <paragraph id="HC4D45ACA3B784AC69BA487ECC7C678E3" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>in subparagraph (J), by moving the left margin of such subparagraph 2 ems to the left;</text>
+                </paragraph>
+                <paragraph id="HA40FF8162D104C53B6B2FC4F0643F8B6" changed="not-changed">
+                    <enum>(2)</enum>
+ <text>in subparagraph (K)—</text> <subparagraph id="H923284D469BC49B1956D9D71B0293EA2" changed="not-changed"> <enum>(A)</enum> <text>by moving the left margin of such subparagraph 2 ems to the left; and</text>
+                    </subparagraph>
+                    <subparagraph id="HDA7DB1357DF741FDA3D984B60003CCDA" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>by striking <quote>and</quote> at the end;</text> </subparagraph> </paragraph> <paragraph id="H0DE49613814847AE970BA3537A3639E3" changed="not-changed"> <enum>(3)</enum> <text>in subparagraph (L)(iii), by striking the period and inserting <quote>; and</quote>; and</text>
+                </paragraph>
+                <paragraph id="HBE377CDFC9774FD4BD3F1A53C0EAF5AC" changed="not-changed">
+                    <enum>(4)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" id="H9336B87E23D0408E8B03CBDA6B5DE16F" changed="not-changed"> <subparagraph id="H10B66702760C4745BBF642D9F041EF5F" changed="not-changed"> <enum>(M)</enum> <text>any remuneration provided by a manufacturer or third party on behalf of a manufacturer to a State under a value-based purchasing arrangement (as defined in section 1927(k)(12)) under a State plan under title XIX (or waiver of such plan) in the case a patient fails to achieve outcomes or measures defined in such arrangement following the administration of a covered outpatient drug (as defined in section 1927(k)(2)).</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H4B2E2469944144BE9A37848A646840D3" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Rulemaking</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Health and Human Services shall through rulemaking implement the amendments made by this section.</text>
+            </subsection>
+        </section>
+        <section id="HBF045F37B770401395B548367657D2B0" changed="not-changed">
+            <enum>6.</enum>
+            <header>GAO study and report on use of value-based purchasing arrangements</header>
+            <subsection id="H24082347EFEF42BAB58138C3D5F75756" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Study</header>
+ <text>The Comptroller General of the United States shall conduct a study on the extent to which value-based purchasing arrangements (as defined in section 1927(k)(12) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8(k)(12)</external-xref>)) facilitate patient access to covered outpatient drugs, improve patient outcomes, lower overall health system costs, and lower costs for patients in Federal health care programs. In conducting such study, the Comptroller General shall—</text>
+                <paragraph id="H1A6DF3B6568241D89978A20090C031CC" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>study the impact of this Act on—</text> <subparagraph display-inline="no-display-inline" id="HDF0C1F7CCA0E411B8EDA611BBB7A4A57" changed="not-changed"> <enum>(A)</enum> <text>access to transformative therapies, including rare disease gene therapies, generally;</text>
+                    </subparagraph>
+                    <subparagraph id="H130E46FAE13146EBAC479C5AF0E20249" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>mitigating socioeconomic disparities in accessing covered outpatient drugs sold under value-based purchasing arrangements through its requirement that State Medicaid programs have access to the same value-based purchasing arrangement pricing structure that are available in the commercial market for such drugs;</text>
+                    </subparagraph>
+                    <subparagraph id="H362B92338177403681520BAC7E5D6AAC" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>the Medicaid drug rebate program under section 1927 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396r-8">42 U.S.C. 1396r–8</external-xref>), the 340B drug pricing program under section 340B of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/256b">42 U.S.C. 256b</external-xref>), and part B of title XVIII of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395j">42 U.S.C. 1395j et seq.</external-xref>), including compliance with such programs;</text>
+                    </subparagraph>
+                    <subparagraph id="H1D2510AD5A024369ADDD61BE17AA5489" changed="not-changed">
+                        <enum>(D)</enum>
+ <text>expenditures under State Medicaid programs; and</text> </subparagraph> <subparagraph id="HF1A66302CFA14C0EBD4E1CF205ACB88D" changed="not-changed"> <enum>(E)</enum> <text>prices for such drugs under the Medicaid program in States that do not enter into such arrangements;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H981E6F04B7724B11A59AB57BF73F03DE" changed="not-changed">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">analyze all the types of value-based purchasing arrangement pricing structures, which structures are working well (as measured by price and ease of implementing), and which need improvement; and</text>
+                </paragraph>
+                <paragraph id="HD069ED78DC0F4E4DA06D1D353A495D32" changed="not-changed">
+                    <enum>(3)</enum>
+ <text>study the potential long-term savings for States that enter into such arrangements under State Medicaid programs.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H8D5C927391F04EDCBB9DEE509E57ECD6" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Report</header>
+ <text>Not later than June 30, 2029, the Comptroller General of the United States shall submit to Congress a report containing the results of the study conducted under subsection (a).</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
