@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5FE072C1F4414078974C8187FAA1CB83" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4141 IH: Advanced Weather Model Computing Development Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4141</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250625">June 25, 2025</action-date><action-desc><sponsor name-id="M001222">Mr. Miller of Ohio</sponsor> (for himself and <cosponsor name-id="F000477">Mrs. Foushee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committee on <committee-name committee-id="HSY00">Science, Space, and Technology</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Department of Energy and the National Oceanic and Atmospheric Administration to conduct collaborative research in order to advance numerical weather and climate prediction in the United States, and for other purposes.</official-title></form><legis-body id="H73A39D903D4643478A0669AFF1BA6EDD" style="OLC"> 
+<section id="H90A8CC359E7C4323912840CEFBD06D00" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advanced Weather Model Computing Development Act</short-title></quote>.</text></section> <section id="H12057FF640004BD6A5409F9A244D2CDB"><enum>2.</enum><header>Computing research initiative</header> <subsection id="HB89EAF15E9DA4F51BDAD3CD8A7487A38"><enum>(a)</enum><header>In general</header><text>Section 108 of the Weather Research and Forecasting Innovation Act of 2017 (<external-xref legal-doc="usc" parsable-cite="usc/15/8518">15 U.S.C. 8518</external-xref>) is amended by striking subsection (a)(3)(C) and all that follows through subsection (b)(7) and inserting the following:</text> 
+<quoted-block id="HBC019A85E9EE4ED88E66B0B7E08392C7" style="OLC"> 
+<subsection id="HBC8E83AF7CE943AFA4817EBC01474ECD"><enum>(b)</enum><header>Artificial intelligence investments</header><text>The Under Secretary shall leverage artificial intelligence and machine learning technologies to facilitate, optimize, and further leverage advanced computing to accomplish critical missions of the National Oceanic and Atmospheric Administration.</text></subsection> <subsection id="H84C07D916B054661B163C4961DF971CE"><enum>(c)</enum><header>Centers of excellence</header><text>The Under Secretary may expand, and where applicable establish, centers of excellence to aid the adoption of next-generation artificial intelligence and machine learning enabled advanced computing capabilities. Each such center may carry out activities that include the following:</text> 
+<paragraph id="H7B0FA3E227A245E19FEEF78A389DF068"><enum>(1)</enum><text>Leveraging robust public-private partnership models to provide access to training, experience, and long-term development of workforce and infrastructure.</text></paragraph> <paragraph id="H57747D2D16A24FF4AF50F1BD7E7C8B7A"><enum>(2)</enum><text>Developing and optimizing tools, libraries, algorithms, data structures, and other supporting software necessary for specific applications on high performance computing systems.</text></paragraph> 
+<paragraph id="H68753D849EEF4C2784020ABA394610F3"><enum>(3)</enum><text>Applying modern artificial intelligence, deep machine-learning, and advanced data analysis technologies to address current and future mission challenges.</text></paragraph> <paragraph id="HCC4D2B607E5F4137B63A2BBE9C095A5A"><enum>(4)</enum><text>To the maximum extent practicable, exploring quantum computing and related application partnerships with public, private, and academic entities to improve the accuracy and resolution of weather predictions.</text></paragraph></subsection> 
+<subsection id="H13FBCDD689F04337A84472F4CE55E422">
+            <enum>(d)</enum>
+            <header>Multi-Year contracts</header>
+ <text>The Under Secretary may enter into multi-year contracts in accordance with section 3903 of title 41, United States Code, and shall ensure compliance with all contract clauses provided in such section to support operations, research, and development related to high performance and cloud computing infrastructure or systems with an unfunded contingent liability in the event of cancellation.</text>
+          </subsection> 
+<subsection id="H8A95822C6C0D486595E46D9CF110223E"><enum>(e)</enum><header>Report</header> 
+<paragraph id="HF66AEA1920EF473BBA3414995E17AFB6"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than two years after the date of the enactment of this subsection, the Under Secretary, in collaboration with the Secretary of Energy shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate a report evaluating the following:</text> <subparagraph id="H93427FE904B04B91A8EF8AD1660CE50C" commented="no"><enum>(A)</enum><text>A best estimate of the overall value of high-resolution probabilistic forecast guidance for hazardous weather or water events using a next-generation weather forecast and warning framework.</text></subparagraph> 
+<subparagraph id="H5777FE437CBA422EB516CED40469E3D3"><enum>(B)</enum><text>The needs for cloud computing, quantum computing, or high-performance computing, visualization, and dissemination collaboration between the Department of Energy and the National Oceanic and Atmospheric Administration.</text></subparagraph> <subparagraph id="H5FD255BDB3E24A728961ACAD58F78CE4"><enum>(C)</enum><text>A timeline and guidance for implementation of the following:</text> 
+<clause id="HB84BD27274ED49F0BB10FC005127E7F3"><enum>(i)</enum><text>High-resolution numerical weather prediction models.</text></clause> <clause id="HE5999D0154254CCA9F8DC6A32013A3C8"><enum>(ii)</enum><text>Methods for meeting the cloud computing, quantum computing, or high-performance computing, visualization, and dissemination needs identified under subparagraph (b).</text></clause></subparagraph></paragraph> 
+<paragraph id="HE813A9F6684A424FB33E0DA15BF61ACC"><enum>(2)</enum><header>Hazardous weather or water events defined</header><text>In this subsection, the term <quote>hazardous weather or water events</quote> means weather or water events that have a high risk of loss of life or property, including the following:</text> <subparagraph id="HCA206FF5D8D34F3AA77FDA638B71347A"><enum>(A)</enum><text>Severe storms, such as hurricanes and short-fused, small-scale hazardous weather or hydrologic events produced by thunderstorms, including large hail, damaging winds, tornadoes, and flash floods.</text></subparagraph> 
+<subparagraph id="HDECEE7B3177540AFBD1A0A6A662DE745"><enum>(B)</enum><text>Winter storms, such as freezing or frozen precipitation (including freezing rain, sleet, and snow), or combined effects of freezing or frozen precipitation and strong winds.</text></subparagraph> <subparagraph id="HB5E965CC0A9948D3BF7AF17C6E0504A6"><enum>(C)</enum><text>Other weather hazards, such as extreme heat or cold, wildfire, drought, dense fog, high winds, and river, coastal, or lakeshore flooding.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H06F31BF038E8470EB0DE696492370FC7">
+        <enum>(b)</enum>
+        <header>Strategic plan on high-Performance computing and data management needs</header>
+        <paragraph id="HB60FB8574135492B9E718732C823F3ED">
+          <enum>(1)</enum>
+          <header>In general</header>
+ <text>The Under Secretary shall make publicly available not later than one year after the date of the enactment of this Act, and update every five years thereafter until 2035, a 10-year strategic plan that outlines the high-performance computing and data management requirements and needs of the National Oceanic and Atmospheric Administration and actions and strategies to address such requirements and needs.</text>
+        </paragraph>
+        <paragraph id="HEA72FA58F133405A8AA182CC4EDF9F5B">
+          <enum>(2)</enum>
+          <header>Plan elements</header>
+ <text>At a minimum, the strategic plan required by paragraph (1) shall include the following:</text>
+          <subparagraph id="HEA23D2E5673D49AEA60C6F905EFECF4E">
+            <enum>(A)</enum>
+ <text>A 10-year prospective outlook of computing resources and upgrades needed to meet the mission needs of the National Oceanic and Atmospheric Administration for fisheries management, oceanographic forecasting, and ecological forecasting missions.</text>
+          </subparagraph>
+          <subparagraph id="H9FEBC5CADE854010A4424DBAD1235A7C">
+            <enum>(B)</enum>
+ <text>A discussion of the following:</text> <clause id="H9D48FF86ED204B7FA8A51E7AC16CC6B1"> <enum>(i)</enum> <text>Computing and processing resources of the Administration and a 10-year projected need for such resources, disaggregated by line office of the Administration.</text>
+            </clause>
+            <clause id="H087EF49B35AD46C2ACFF74E6E8FA796B">
+              <enum>(ii)</enum>
+ <text>Facilities, commercial contracts, and partnerships (with other Federal agencies or other institutions or entities) of the Administration that are providing computing and data management support or capacity as of such date.</text>
+            </clause>
+            <clause id="H4D46113438B742AC86F1A42F1527ACA4">
+              <enum>(iii)</enum>
+ <text>The use by the Administration of cloud computing and other emerging technologies, such as artificial intelligence and machine learning.</text>
+            </clause>
+            <clause id="H88EBD271CA154633AB2A2706D172C6FF">
+              <enum>(iv)</enum>
+ <text>Additional technologies that have the potential to increase effectiveness and efficiency for data storage and processing power, including challenges to access and use of such technologies.</text>
+            </clause>
+            <clause id="HE01FBB790E6F4A6C9D535E2ADE40D490">
+              <enum>(v)</enum>
+ <text>The distribution of computing resources among the operations and research functions of the Administration.</text>
+            </clause>
+            <clause id="H3C6FFF74818A4F61AE976792CEE2E684">
+              <enum>(vi)</enum>
+ <text>Products and services of the Administration that have not become available to the public because of a lack of computing resources.</text>
+            </clause>
+            <clause id="H95E3EA82DFA44D6C8022D8B24048BC94">
+              <enum>(vii)</enum>
+ <text>Current and future workforce development needs, such as information technology and software engineering, of the Administration.</text>
+            </clause>
+            <clause id="H804211D11EF8456FAA57BA4A69A470CC">
+              <enum>(viii)</enum>
+ <text>The high-performance computing requirements of the Administration, with a special focus on requirements that are common across line offices of the Administration.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H175CAE1B1504482282D0BBF7C0034D73">
+            <enum>(C)</enum>
+ <text>Timelines, and performance measures for assessing progress toward attaining goals for the following:</text>
+            <clause id="HDE551014F3E04B68AA77961666C017A5">
+              <enum>(i)</enum>
+ <text>Computing infrastructure and architecture of the Administration (including facilities, hardware, and software).</text>
+            </clause>
+            <clause id="H54087DF3F260435E85FA56A7B2ECABBE">
+              <enum>(ii)</enum>
+ <text>Use by the Administration of technologies that will increase effectiveness and efficiency for data storage and processing power, including challenges to access and use of such technologies.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H949CF6C0E6BB4D0DAF660DBD144C1679">
+            <enum>(D)</enum>
+ <text>A 10-year life cycle analysis of the management of facilities, hardware, and engineering involved in the strategic plan that includes the following:</text>
+            <clause id="HB2F69383C10B43CCA547D0D033C88C92">
+              <enum>(i)</enum>
+ <text>Program formulation for project conception, implementation, and closure.</text> </clause> <clause id="H5D61F6E2438048D0BBBD39BD0B354727"> <enum>(ii)</enum> <text>Technical infrastructure, products, processes, data, and personnel resources required to achieve defined cost, schedule, and performance objectives.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H48117ACAC3C64713825ECD637EF21A0B">
+            <enum>(E)</enum>
+ <text>If appropriate, a description of actions taken to implement the previous plan.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H0C79E31F991648E2B97D9F2037BA67F0">
+          <enum>(3)</enum>
+          <header>Public involvement</header>
+ <text>In developing the strategic plan required by paragraph (1), the Under Secretary shall invite comments and other feedback from the public to inform the strategic plan.</text>
+        </paragraph>
+        <paragraph id="H8BB71364D5A4401BA8455BE1A6AF74CF">
+          <enum>(4)</enum>
+          <header>Annual briefings</header>
+          <subparagraph id="H337FD05C4BCA4372BCE9B138684A376B">
+            <enum>(A)</enum>
+            <header>In general</header>
+ <text>Not later than one year after the date of the enactment of this Act and annually thereafter until 2030, the Under Secretary shall brief Congress on the progress made toward the objectives of the strategic plan required by paragraph (1).</text>
+          </subparagraph>
+          <subparagraph id="HE3CF1570921D4CB08B934DF0BEB0DE54">
+            <enum>(B)</enum>
+            <header>Elements</header>
+ <text>Each briefing required by subparagraph (A) shall include the following:</text> <clause id="H047F126F9707428AAFE5AC762E481875"> <enum>(i)</enum> <text>An evaluation of the progress made in implementing the strategic plan.</text>
+            </clause>
+            <clause id="HEF6AB8AD31034F659E5DB7EB287E2D85">
+              <enum>(ii)</enum>
+ <text>Such updates to the strategic plan as the Under Secretary considers appropriate.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25499-045-09-YCX">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2421 IS: Clarifying Legal Exclusions Around Regulated Waters Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2421</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250723">July 23, 2025</action-date>
+            <action-desc><sponsor name-id="S376">Ms. Ernst</sponsor> (for herself, <cosponsor name-id="S323">Mr. Risch</cosponsor>, <cosponsor name-id="S411">Mr.
+                    Marshall</cosponsor>, <cosponsor name-id="S266">Mr. Crapo</cosponsor>,
+                    <cosponsor name-id="S384">Mr. Tillis</cosponsor>, and <cosponsor name-id="S318">Mr. Wicker</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSEV00">Committee on Environment and
+                    Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Federal Water Pollution Control Act to provide exclusions from
+            the term <quote>navigable waters</quote>, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="ida690dab1bcba4dba97a68bc9c41f3ecc" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clarifying Legal Exclusions Around Regulated Waters Act</short-title></quote> or the <quote><short-title>CLEAR Waters Act</short-title></quote>.</text>
+        </section>
+        <section id="S1" section-type="subsequent-section">
+            <enum>2.</enum>
+            <header>Definition of navigable waters</header>
+ <text display-inline="no-display-inline">Section 502(7) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1362">33 U.S.C. 1362(7)</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="idd477d948dce3423391fdee30160cdd92">
+                <enum>(1)</enum>
+ <text>by striking <quote>(7) The term</quote> and inserting the following:</text> <quoted-block id="idEF3625F418AF4DDC8F7A9867C4771B77" style="OLC" act-name=""> <paragraph id="id22F47132C8CC4EB3A67E95F5C00B396B"> <enum>(7)</enum> <header>Navigable waters</header> <subparagraph commented="no" display-inline="no-display-inline" id="ide39e81da2add4ab9a722b4adac861374"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>; and</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id62b86470b1de475fa62291b5cad6ea0f">
+                <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="id541BF5DAC0494EAF923A83B397004D40" style="OLC" act-name=""> <subparagraph id="id76C376988F8A4348B44582EC652B32D8"> <enum>(B)</enum> <header>Exclusions</header> <text>The term <term>navigable waters</term> does not include any of the following:</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id4d00e4435329439ab3cc22864e248119">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">Any component of a waste treatment system, including any lagoon or treatment pond (such as a settling or cooling pond), designed to actively or passively—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="id6a38b85454f64dee813b98410fca0f9e">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">convey or retain wastewater; or</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id0457ce23849e44e6a4eefe0087c37bc5">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">concentrate, settle, reduce, or remove pollutants from wastewater.</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id5ad2677d72124b1bb752ccb6f97ae0eb">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">Ephemeral features that flow only in direct response to precipitation.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id495692c71a624528818729a20e5e47a8">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">Groundwater.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="idd51f60b973ec4e58bee6342694c0bde4"> <enum>(iv)</enum> <text display-inline="yes-display-inline">Any other features determined to be excluded by the Administrator and the Secretary of the Army, acting through the Chief of Engineers.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

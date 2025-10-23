@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KAT25416-J6D-JY-FKY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1798 IS: Autonomous Vehicle Acceleration Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1798</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S410">Ms. Lummis</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prescribe standards for autonomous vehicles, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Autonomous Vehicle Acceleration Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id7680a1a006a145c291ee22d80c42bbfd">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds that—</text> <paragraph commented="no" display-inline="no-display-inline" id="idf6bb22a2b6ed47f29bcaf51fd6363279"> <enum>(1)</enum> <text>rapid advancements in autonomous vehicle technology present significant opportunities to improve transportation safety, efficiency, and mobility;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idd667bbd5f6834b5a851d9fa84de674e7">
+                <enum>(2)</enum>
+ <text>current Federal motor vehicle safety standards were not designed with fully autonomous vehicles in mind, creating certification challenges and slowing design and production of vehicles without drivers;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id15fba88efd26449d8b59a53de9ff7cbf">
+                <enum>(3)</enum>
+ <text>maintaining global leadership in autonomous vehicle technology will enhance the competitiveness of the United States, foster economic growth, and spur innovation across the domestic manufacturing sector; and</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id85073980ae4844b4b1c872c0094bb403">
+                <enum>(4)</enum>
+ <text>the most advanced automated driving systems have demonstrated safety records superior to human drivers in comparable situations, indicating that maintaining regulatory frameworks designed exclusively for human operators may delay lifesaving technological implementation.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id5277c182cc404c20a2a1be73540bd0d3">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="id9cc8cd5d72c448eba2fc142d4d31110c"> <enum>(1)</enum> <header>Autonomous vehicle</header> <subparagraph commented="no" display-inline="no-display-inline" id="id0378ed319034468ca2c506ba98089121"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term <term>autonomous vehicle</term> means a vehicle equipped with an automated driving system that is capable of performing the entire dynamic driving task on a sustained basis without any expected involvement by a human driver.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id05ade06e0efc4503ad4b4c3498f0e0d7">
+                    <enum>(B)</enum>
+                    <header>Inclusions</header>
+ <text>The term <term>autonomous vehicle</term> includes a vehicle equipped with a Level 4 or Level 5 automated driving system.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idfd447e74e9ee47f8a077be4b0b8c28d3">
+                <enum>(2)</enum>
+                <header>FMVSS</header>
+ <text>The term <term>FMVSS</term> means a Federal motor vehicle safety standard prescribed under section 30111(a) of title 49, United States Code.</text>
+            </paragraph>
+            <paragraph id="id3dbbc75c0d3c41439ff85c1ae07ab354">
+                <enum>(3)</enum>
+                <header>SAE International Standard J3016</header>
+ <text>The term <term>SAE International Standard J3016</term> means SAE International Recommended Practice entitled <quote>Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles</quote>, numbered J3016, and dated April 2021 (or a successor standard adopted by the Secretary).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="ided4f52ebccd14a2ebe61e0fdc10368fb">
+                <enum>(4)</enum>
+                <header>SAE terms</header>
+ <text display-inline="yes-display-inline">The terms <term>automated driving system</term>, <term>Level 4</term>, and <term>Level 5</term> have the meanings given those terms in SAE International Standard J3016.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id4f3c4c961c574d45ad8234171763ac21">
+                <enum>(5)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Transportation, acting through the Administrator of the National Highway Traffic Safety Administration.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idef4477fbe7ee442480b561957d5b2bed">
+                <enum>(6)</enum>
+                <header>Volpe 2016 Report</header>
+ <text>The term <term>Volpe 2016 Report</term> means the report of the John A. Volpe National Transportation Systems Center of the Department of Transportation entitled <quote>Review of Federal Motor Vehicle Safety Standards (FMVSS) for Automated Vehicles: Identifying Potential Barriers and Challenges for the Certification of Automated Vehicles Using Existing FMVSS</quote> and dated March 2016.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idbca9ec4c229b4b3594b1a2c1f9d02912">
+            <enum>4.</enum>
+            <header>Implementation of Volpe Center recommendations</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id6b7e318ee8474118a3dc86793dc0ef50">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary shall address, in accordance with subsection (b), all certification challenges identified by the Volpe Center 2016 Report relating to—</text>
+                <paragraph id="idef7be83c77a7468491393ee2b58acf4d">
+                    <enum>(1)</enum>
+ <text>the presumption of a human driver; and</text> </paragraph> <paragraph id="ida28c3a3c171f4b0ea7097f8d0e243064"> <enum>(2)</enum> <text>performance specifications, test procedures, or equipment requirements that do not adequately account for autonomous vehicle designs.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id7a9bcb61661f4898b5f93a9c4ec123fd">
+                <enum>(b)</enum>
+                <header>Regulatory updates</header>
+ <text>The Secretary shall, as the Secretary determines appropriate, develop, amend, interpret, exempt from application, or otherwise update any FMVSS requirement or other regulation, guidance, or interpretation under the jurisdiction of the Secretary to ensure that the certification and approval process for Level 4 and Level 5 autonomous vehicles is not unduly obstructed by assumptions of traditional human-driver designs, including requirements relating to seating arrangements, internal cabin configurations, window placement, driver controls, and other features, as determined by the Secretary.</text>
+            </subsection>
+            <subsection id="id24e132b9673d446a96829491a574b16d">
+                <enum>(c)</enum>
+                <header>Discretionary compliance determination and rulemaking authority</header>
+ <text>At the discretion of the Secretary, and through such rulemaking as the Secretary determines to be necessary, including by establishing exemption processes for autonomous vehicles consistent with section 30114(a) of title 49, United States Code, autonomous vehicles may be determined to be in compliance with applicable regulations relating to motor vehicle safety, including any FMVSS.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id3f9ab4e2671b4c30a9be40ab4792b790">
+                <enum>(d)</enum>
+                <header>Report</header>
+ <text>Not later than 180 days after the date described in subsection (a), the Secretary shall submit to the appropriate committees of Congress a report detailing steps taken by the Secretary under subsection (b) to address the challenges identified by the Volpe Center 2016 described in subsection (a), including any new or revised rules or guidance issued by the Secretary.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id49447992e1d245f2895a57dea1031da0">
+            <enum>5.</enum>
+            <header>Roadmap for future concepts</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idebac43fe14ea4786a2a7ded58c45696b">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary shall develop a roadmap to achieve commercial-scale deployment of Level 4 and Level 5 autonomous vehicles.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idbd5104e427274f11aded7948a5a87d75">
+                <enum>(b)</enum>
+                <header>Requirements</header>
+ <text>The roadmap required under subsection (a) shall—</text> <paragraph id="id9dfa4669de0a48a68e5030bd92aa9998"> <enum>(1)</enum> <text>support the design, manufacturing, and deployment of Level 4 and Level 5 autonomous vehicles in the United States;</text>
+                </paragraph>
+                <paragraph id="ida95a9bb24b8e44a2b0adad489823f1c3">
+                    <enum>(2)</enum>
+ <text>promote United States leadership in global autonomous vehicle markets and supply chains;</text>
+                </paragraph>
+                <paragraph id="idfb1491ce2c3945e4aa286a80dae0d158">
+                    <enum>(3)</enum>
+ <text>identify ways to lower practical, technological, and regulatory barriers to Level 4 and Level 5 autonomous vehicle deployment;</text>
+                </paragraph>
+                <paragraph id="idc7256d77488a4945be384e5bc3e60f28">
+                    <enum>(4)</enum>
+ <text>recommend a risk hierarchy involving the use of autonomous vehicles and a standard of safety for autonomous vehicle use;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf192641fd77345eb963a9bd6f35c8961">
+                    <enum>(5)</enum>
+ <text>incorporate a supplemental technology assessment, which shall—</text> <subparagraph id="id78465018c56243e5b58c3ebc310dba25"> <enum>(A)</enum> <text>identify and address—</text>
+                        <clause id="idf9e00f2dd1074c3c825770a7be97e81a">
+                            <enum>(i)</enum>
+ <text>new technologies and industry developments since publication of the Volpe 2016 Report;</text>
+                        </clause>
+                        <clause id="id4a06f4c94aa8409ca41445cb7dd8f6ec">
+                            <enum>(ii)</enum>
+ <text>emerging safety concerns specific to autonomous vehicle operations; and</text>
+                        </clause>
+                        <clause id="idb9a4b115677d4dc491ba7f5c805506af">
+                            <enum>(iii)</enum>
+ <text>recommended updates to the findings or recommendations of the Volpe 2016 Report; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idc3d59420af6941e2921b01d79aa12092">
+                        <enum>(B)</enum>
+ <text>on completion, be used by the Secretary to propose any amendments to any existing FMVSS that are necessary to ensure clarity, consistency, and safety for autonomous-vehicle designs; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id17921e17126141bbae0babca078b643d">
+                    <enum>(6)</enum>
+ <text>include any additional initiatives or strategies the Secretary determines necessary to achieve the objectives of this Act.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id18c6a5b4a6364c78bea9f3236dbbc915">
+                <enum>(c)</enum>
+                <header>Supplemental technology assessment interim update</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a preliminary update describing progress, challenges, and next steps taken by the Secretary to carry out the supplemental technology assessment described in subsection (b)(5).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id41201ab3892c466dbfc2dfb2b9b7a6bc">
+                <enum>(d)</enum>
+                <header>Roadmap updates</header>
+ <text>The roadmap required under subsection (a) shall be updated periodically, as determined necessary by the Secretary.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id176084d4f8f44d62b081e956cc2a6e9d">
+                <enum>(e)</enum>
+                <header>Report</header>
+ <text display-inline="yes-display-inline">The Secretary shall submit to the appropriate committees of Congress, and make publicly available, the roadmap required under subsection (a).</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

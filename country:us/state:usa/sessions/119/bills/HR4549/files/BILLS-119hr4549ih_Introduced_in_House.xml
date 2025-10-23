@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8C4239DD3647458F8FC1CA73424BB210" public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4549 IH: Office of Rural Affairs Enhancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session>
+        <legis-num display="yes">H. R. 4549</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20250721">July 21, 2025</action-date>
+            <action-desc><sponsor name-id="G000604">Ms. Goodlander</sponsor> (for herself,
+                    <cosponsor name-id="W000829">Mr. Wied</cosponsor>, and <cosponsor name-id="G000592">Mr. Golden of Maine</cosponsor>) introduced the following
+                bill; which was referred to the <committee-name committee-id="HSM00">Committee on
+                    Small Business</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To amend the Small Business Act to clarify the
+            responsibilities of the Office of Rural Affairs of the Small Business Administration,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body id="H4CA1F098D34A40B1B74F5B255405CABF" style="OLC">
+        <section id="H5F1348C4A89D44DEB4E84BF302361CA0" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Office of Rural Affairs Enhancement Act</short-title></quote>.</text>
+        </section>
+        <section id="HD8189F73FEB84A039F8BADBBA2724072">
+            <enum>2.</enum>
+            <header>Office of Rural Affairs of the Small Business Administration</header>
+ <text display-inline="no-display-inline">Section 26 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/653">15 U.S.C. 653</external-xref>) is amended—</text>
+            <paragraph id="HB76E607F5D4B46ADA1D2886B6221A9B9">
+                <enum>(1)</enum>
+ <text>by amending subsection (b) to read as follows:</text> <quoted-block style="OLC" id="H3EAB67E7F5F44BACB80970C9E082093D"> <subsection id="HDCC8C82C0ACB4B5787CA1C58324DEAD1"> <enum>(b)</enum> <header>Appointment of assistant administrator</header> <paragraph id="HBCE092176D3D4192A601F81BE90C64C9"> <enum>(1)</enum> <header>In general</header> <text>The Office shall be administered by an Assistant Administrator, who shall be an employee in the competitive service.</text>
+                        </paragraph>
+                        <paragraph id="HC475CB96E0F2405D8F257A86319E7D39">
+                            <enum>(2)</enum>
+                            <header>Qualifications</header>
+ <text>The Assistant Administrator shall—</text> <subparagraph id="H102ACB0A83714637A0F5D74F605E1C1E"> <enum>(A)</enum> <text>have education or professional experience with, or knowledge of, rural affairs and issues relating to small business concerns; and</text>
+                            </subparagraph>
+                            <subparagraph id="HEE2D58592B6E4ABFA4C4FC88834C4316">
+                                <enum>(B)</enum>
+ <text>have experience providing development assistance to rural small business concerns.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>;</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph id="H4B6355AB070A4537A4732F68980251C3">
+                <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph id="H629CC54909D9447BBE8D3B9A3FAFF967"> <enum>(A)</enum> <text>in paragraph (1), by striking <quote>small business concerns located in rural areas</quote> and inserting <quote>rural small business concerns</quote>;</text>
+                </subparagraph>
+                <subparagraph id="H49EAC559B92846DD83E9287C7424E3F8">
+                    <enum>(B)</enum>
+ <text>in paragraph (3)—</text> <clause id="H307C64BB17C44397A96249DA116163D3"> <enum>(i)</enum> <text>by striking <quote>provide information</quote> and inserting <quote>promote</quote>; and</text>
+                    </clause>
+                    <clause id="H70AAFF12DA074514A38E7A7D7F75205C">
+                        <enum>(ii)</enum>
+ <text>by striking <quote>concerning the</quote> and all that follows through the semicolon at the end and inserting the following: <quote>on the policies and programs of the Administration and of other Federal departments and agencies for assisting rural small business concerns;</quote>;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="H0F671E99862A4DE89E5AE6C46DD71C3B">
+                    <enum>(C)</enum>
+ <text>in paragraph (4), by striking <quote>; and</quote> and inserting a semicolon;</text>
+                </subparagraph>
+                <subparagraph id="HAB31CBD26589482B94F6E49B4AC101B0">
+                    <enum>(D)</enum>
+ <text>in paragraph (5)—</text> <clause id="H98D7E1098B9C475BBB9C14A400B7D020"> <enum>(i)</enum> <text>by striking <quote>the United States Tourism and Travel Administration</quote> and inserting <quote>the National Travel and Tourism Office of the Department of Commerce</quote>;</text>
+                    </clause>
+                    <clause id="H36F113E591524900B95325B41FEEF0AD">
+                        <enum>(ii)</enum>
+ <text>by striking <quote>small businesses in rural areas</quote> and inserting <quote>rural small business concerns</quote>; and</text>
+                    </clause>
+                    <clause id="HC4BBF1C62C9E45019181347C6F812C18">
+                        <enum>(iii)</enum>
+ <text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="HC10524C93C2D4EFA859D00F59BDFF5AE">
+                    <enum>(E)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" id="HA9B8C522B3724583A185F13A23E8E9D6"> <paragraph id="H1C7C7A84EEF84868AACA3AFE84942E8D"> <enum>(6)</enum> <text>host webinars and outreach events for rural small business concerns as described in subsection (d).</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HBAC8F5F437E34C6CA48433BDC7BDB84F">
+                <enum>(3)</enum>
+ <text>by adding at the end the following new subsections:</text> <quoted-block style="OLC" id="H4AC78887AEA64591BE191F1EFBDCE0EF"> <subsection id="H4907C470BD0547369A24330163251A95"> <enum>(d)</enum> <header>Outreach</header> <text>The Assistant Administrator shall—</text>
+                        <paragraph id="H01BA12031E43487BB6F90BA83D0AD3AC">
+                            <enum>(1)</enum>
+ <text>host webinars and outreach events in various regions of the United States for rural small business concerns; and</text>
+                        </paragraph>
+                        <paragraph id="HFB4F2F07A7984133AC4FF77E0984CE3E">
+                            <enum>(2)</enum>
+ <text>invite representatives from district offices of the Administration, resource partners, Federal and State agencies, and other interested persons to participate in such webinars and outreach events.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H7501D777D9654B99AEEE5BAD8126660E">
+                        <enum>(e)</enum>
+                        <header>Report</header>
+                        <paragraph id="HD59039DEFE1E4FF3A8C6CD4C5A8C915D">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this subsection, and annually thereafter, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate, and make publicly available on a website of the Administration, a report on the activities of the Office during the one-year period immediately preceding the date of submission of the report.</text>
+                        </paragraph>
+                        <paragraph id="H2C33F574147A448D93F338C68AEC1D0D">
+                            <enum>(2)</enum>
+                            <header>Contents</header>
+ <text>Each report required under paragraph (1) shall include the following:</text>
+                            <subparagraph id="H9B9C2A921C7E4C118D4E2BA2444E4FC5">
+                                <enum>(A)</enum>
+ <text>The operational details of the Office, including the name of the Assistant Administrator, the budget of the Office, and the number of full-time employees employed by or detailed to the Office.</text>
+                            </subparagraph>
+                            <subparagraph id="HD98CA45DE5E04566BA2EECEC5A4459E9">
+                                <enum>(B)</enum>
+ <text>A summary of the activities conducted under subsection (c).</text>
+                            </subparagraph>
+                            <subparagraph id="H3E475AFA47944113B07A4F12BAAC1DDD">
+                                <enum>(C)</enum>
+ <text>The number of webinars and outreach events conducted by the Administration to promote policies and programs described in paragraph (3) of subsection (c) and to provide information described in paragraph (4) of such subsection.</text>
+                            </subparagraph>
+                            <subparagraph id="HC15F6795B88448D7AD1EDE7A58DB7920">
+                                <enum>(D)</enum>
+ <text>An analysis of the lending programs of the Administration in serving the needs of rural small business concerns.</text>
+                            </subparagraph>
+                            <subparagraph id="H59E3AD8D26DB4D4BA0CA3E2DDDB2B963">
+                                <enum>(E)</enum>
+ <text>Information gathered from any webinars and outreach events conducted by the Administration during the period covered by the report.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H6C7F2C35873F49D8BCC5CC783C308BC0">
+                        <enum>(f)</enum>
+                        <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="HF86A9FA6E1574B15A9464FE179371672"> <enum>(1)</enum> <header>Assistant administrator</header> <text>The term <term>Assistant Administrator</term> means the Assistant Administrator of the Office of Rural Affairs appointed under subsection (b).</text>
+                        </paragraph>
+                        <paragraph id="H4E4974DF85B3490797B87D4BFD9CF882">
+                            <enum>(2)</enum>
+                            <header>Resource partners</header>
+ <text>The term <term>resource partners</term> means—</text> <subparagraph id="H447A964D2483473F937DFD7049F0C48C"> <enum>(A)</enum> <text>small business development centers;</text>
+                            </subparagraph>
+                            <subparagraph id="H66FC1A3AAA0E4BEFB1F3C22DFC0F27E2">
+                                <enum>(B)</enum>
+ <text>women’s business centers (described under section 29);</text> </subparagraph> <subparagraph id="H5A8048D5910540AFAC036DFF73DD825C"> <enum>(C)</enum> <text>chapters of the Service Corps of Retired Executives (established under section 8(b)(1)(B)); and</text>
+                            </subparagraph>
+                            <subparagraph id="H8175B5A9FDC84C658EA8386ADDB020BF">
+                                <enum>(D)</enum>
+ <text>Veteran Business Outreach Centers (described under section 32).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="HD168EE9D03424EE993F646A1D84C39F5">
+                            <enum>(3)</enum>
+                            <header>Rural small business concern</header>
+ <text>The term <term>rural small business concern</term> means a small business concern located in a rural area (as defined in section 7(b)(16) of this Act).</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

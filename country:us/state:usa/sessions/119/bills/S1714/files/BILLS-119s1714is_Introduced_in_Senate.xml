@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OLL25570-PWC-28-LPL">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1714 IS: Disabled Veterans Housing Support Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1714</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250512">May 12, 2025</action-date>
+            <action-desc><sponsor name-id="S266">Mr. Crapo</sponsor> (for himself and <cosponsor name-id="S259">Mr. Reed</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSBK00">Committee on
+                    Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Housing and Community Development Act of 1974 to require the
+            exclusion of service-connected disability compensation when determining whether a person
+            is a person of low and moderate income, a person of low income, or a person of moderate
+            income, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HA200B120BF854DC791530D18584EA746">
+        <section section-type="section-one" id="HE97AFE574FE54F44AB1058F192644E4F">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Disabled Veterans Housing Support Act</short-title></quote>.</text>
+        </section>
+        <section id="HD1191FD8262A4588B0B63571E7C1441F">
+            <enum>2.</enum>
+            <header>Service-connected disability compensation</header>
+ <text display-inline="no-display-inline">Section 102(a)(20) of the Housing and Community Development Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/42/5302">42 U.S.C. 5302(a)(20)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="H3D841F98DD1548AF9FC4568E09ACE933">
+                <subparagraph id="H10C1F81ED9574AAC96F3E18E547C35F6" indent="up1">
+                    <enum>(C)</enum>
+                    <header>Service-connected disability compensation</header>
+ <text display-inline="yes-display-inline">When determining whether a person is a person of low and moderate income, a person of low income, or a person of moderate income under this paragraph, a State, unit of general local government, or Indian tribe shall exclude any service-connected disability compensation received by the person from the Department of Veterans Affairs.</text>
+                </subparagraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section id="HD6BE13FDD511479E90BA74042D0000E7">
+            <enum>3.</enum>
+            <header>Report</header>
+ <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—</text>
+            <paragraph id="H803D9C138C9B435DAB7518D43F32A4AA">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">examines how service-connected disability compensation is treated for the purposes of determining eligibility for all programs administered by the Secretary of Housing and Urban Development;</text>
+            </paragraph>
+            <paragraph id="HD5FFC6909B5C4E1289BCDF18452FB598">
+                <enum>(2)</enum>
+ <text>identifies any instances where service-connected disability compensation is treated in a manner inconsistent with the amendment made by section 2; and</text>
+            </paragraph>
+            <paragraph id="H343C31FD5EC14B9BB6CF97B1D671277B">
+                <enum>(3)</enum>
+ <text>with respect to each program administered by the Secretary of Housing and Urban Development in which service-connected disability compensation is treated inconsistently with the amendment made by section 2, provides legislative recommendations relating to how that program could better serve veteran populations and underserved communities.</text>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

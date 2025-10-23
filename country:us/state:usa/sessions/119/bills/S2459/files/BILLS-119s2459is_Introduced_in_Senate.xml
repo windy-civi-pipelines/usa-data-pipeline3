@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT25616-VL8-NX-1LS">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2459 IS: ABLE Employment Flexibility Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2459</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S311">Ms. Klobuchar</sponsor> (for herself, <cosponsor name-id="S420">Mr. Schmitt</cosponsor>, <cosponsor name-id="S390">Mr. Van
+                    Hollen</cosponsor>, and <cosponsor name-id="S347">Mr. Moran</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code to allow employers to contribute to ABLE
+            accounts in lieu of retirement plan contributions.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HF49533AB0D3E448DAFFCEA4B9DCB2FDF">
+        <section section-type="section-one" id="HD682C5BBBC284408871A0BD5B962EAA3">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ABLE Employment Flexibility Act</short-title></quote>.</text>
+        </section>
+        <section id="H46DE12FF90F949F3B89886A5568F3668">
+            <enum>2.</enum>
+            <header>Protecting working ABLE individuals from losing benefits because of retirement
+                plan rules</header>
+            <subsection id="H45B89EC4FBD849C3970ACDAE2AACC7FD">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/414">Section 414</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+                <quoted-block style="OLC" id="HFAC346B2B66E4367827E4049EFBF3A8D">
+                    <subsection id="H4CFCC678A3C84272B3A91A7D477A969B">
+                        <enum>(dd)</enum>
+                        <header>ABLE account contributions</header>
+                        <paragraph id="H22E56C4450C6453D9A985CCEB65CB29F">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">An applicable employer plan (as defined in subsection (v)(6)(A)) which is a defined contribution plan shall not be treated as failing to meet any requirement of this title solely because the plan provides that an eligible ABLE individual may elect for a plan year that employer contributions which would otherwise be made under the terms of the plan for such plan year shall (in lieu of contribution to the plan) be contributed by the employer to a qualified ABLE program described in section 529A on behalf of such eligible ABLE individual.</text>
+                        </paragraph>
+                        <paragraph id="H05EE846E341747238FE68A74004935C7">
+                            <enum>(2)</enum>
+                            <header>Treatment of contributions</header>
+                            <subparagraph id="idDC688F29AA59419BA9FFB1C5AB8BB59C">
+                                <enum>(A)</enum>
+                                <header>No deduction for amounts contributed to ABLE
+                                    account</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), a contribution to a qualified ABLE program pursuant to an election under paragraph (1) shall not be treated as a contribution to an applicable employer plan.</text>
+                            </subparagraph>
+                            <subparagraph id="H9BA2732A72414EF28E0113C16F897731">
+                                <enum>(B)</enum>
+                                <header>Application of nondiscrimination rules</header>
+ <text display-inline="yes-display-inline">Under rules prescribed by the Secretary, for purposes of applying sections 401(a)(4), 401(k)(3), 401(k)(12), 401(k)(13), 401(m)(2), 403(b)(12), 408(k)(3), 408(p)(2)(iii), 408(p)(2)(B), 410, and 416, contributions made to a qualified ABLE program pursuant to an election under paragraph (1) shall be treated as if such contributions were made to the plan. </text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="HA7C8DE46D2BB4F5EBE8689C353BEB61C">
+                            <enum>(3)</enum>
+                            <header>Universal availability</header>
+ <text>Paragraph (1) shall not apply unless the plan provides that the election described therein is available to all eligible ABLE individuals who are eligible to participate in the plan.</text>
+                        </paragraph>
+                        <paragraph id="H58359D4407124B0B8DE6E8731E53058E">
+                            <enum>(4)</enum>
+                            <header>Cash or deferred arrangement</header>
+ <text>A plan shall not fail to be treated as including a qualified cash or deferred arrangement described in section 401(k)(1) solely because such plan provides for the election described in paragraph (1).</text>
+                        </paragraph>
+                        <paragraph id="H2123AB8E1CAA46A0A09AD99572E68EF4">
+                            <enum>(5)</enum>
+                            <header>Eligible ABLE individual</header>
+ <text>For purposes of this subsection, the term <term>eligible ABLE individual</term> means an employee who, as of the first day of a plan year, is an eligible individual within the meaning of section 529A(e)(1) for the taxable year containing such first day of the plan year.</text>
+                        </paragraph>
+                        <paragraph id="H5C8C6F7BA8C845CDAC679A2486999A0E">
+                            <enum>(6)</enum>
+                            <header>Treatment of permissive withdrawals</header>
+ <text>An eligible ABLE individual may direct amounts eligible for withdrawal from an eligible contribution arrangement pursuant to section 414(w) to be contributed to a qualified ABLE program described in section 529A on behalf of such eligible ABLE individual.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H5F6140CA0E9A4D49A1ABCC3CED73BCB6">
+                <enum>(b)</enum>
+                <header>Treatment as beneficiary contribution</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/529A">Section 529A(b)(7)</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (B) as subparagraph (C) and by inserting after subparagraph (A) the following new subparagraph:</text>
+                <quoted-block style="OLC" id="HA1231BAEBF5040D08E495921756FCEDC">
+                    <subparagraph id="H5A41351406B94B3E991ADEE0D33D594D">
+                        <enum>(B)</enum>
+                        <header>Employer contributions</header>
+ <text>Contributions made to a qualified ABLE program by an employer on behalf of a designated beneficiary described in this paragraph pursuant to paragraph (1) or (6) of section 414(dd) shall be treated as made by the designated beneficiary.</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HED43F33DDA1A4E2EA33EEAC99CEDCEAB">
+                <enum>(c)</enum>
+                <header>Clarification of availability of employer contributions</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/529A">Section 529A(e)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="HCF3727303A504A3AA49CA274D6C60F93">
+                    <paragraph id="HB255BD51FEEB4D33A2979F68E3AAF8F2">
+                        <enum>(7)</enum>
+                        <header>Employer contributions</header>
+ <text>An employer of an eligible individual may contribute to any qualified ABLE program for which the eligible individual is the designated beneficiary, including through a contribution matching a contribution made by such eligible individual to the qualified ABLE program.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H5E4BB3A948AE4BAD83FA510623260FCB">
+                <enum>(d)</enum>
+                <header>Deduction for contributions remitted by employer to a qualified ABLE
+                    program</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury shall—</text>
+                <paragraph id="HEA79C324D9B04207B888BDC757991C2D">
+                    <enum>(1)</enum>
+ <text>amend the regulations under <external-xref legal-doc="usc" parsable-cite="usc/26/162">section 162</external-xref> of the Internal Revenue Code of 1986 to confirm that contributions made by an employer to a qualified ABLE program described in section 529A of such Code on behalf of an eligible ABLE individual described in section 414(dd)(5) of such Code who is an employee of such employer shall be considered a reasonable allowance for salaries or other compensation for personal service if such contribution for a year, taking into account all other contributions to such qualified ABLE program, does not exceed the maximum contribution described in section 529A(b)(2)(B) of such Code with respect to such individual; and</text>
+                </paragraph>
+                <paragraph commented="no" id="HF2ADC54DF9F845C593ED4D098984D4A4">
+                    <enum>(2)</enum>
+ <text>update the publications issued for employers to encourage employers offering a retirement plan with automatic enrollment to notify employees who elect not to contribute to the plan and who may be eligible to contribute to a qualified ABLE program to notify such employees of the possibility of a contribution under section 529A(b)(2)(B)(ii) of such Code.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H97846CA4E47F4CC5A730E70FD99E9863">
+                <enum>(e)</enum>
+                <header>Effective date</header>
+                <paragraph id="H2FC76DF2499F4834B53B5B98673FBE02">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Except as provided in paragraph (2), the amendments made by this section shall apply to plan and taxable years beginning after the date of the enactment of this Act.</text>
+                </paragraph>
+                <paragraph id="H518EA525085B493184D7388A1F6BF1EF">
+                    <enum>(2)</enum>
+                    <header>Clarifications</header>
+ <text>The amendment made by subsection (c) and the amendments made pursuant to subsection (d)(1) shall apply to plan and taxable years beginning before, on, or after the date of the enactment of this Act.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id8c47cf103aeb479991f45608b8f18d68">
+                <enum>(f)</enum>
+                <header>Model amendment authority</header>
+ <text>The Secretary of the Treasury (or such Secretary's delegate) shall promulgate model amendments which plans may adopt to implement contributions to qualified ABLE programs pursuant to the amendments made by this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
