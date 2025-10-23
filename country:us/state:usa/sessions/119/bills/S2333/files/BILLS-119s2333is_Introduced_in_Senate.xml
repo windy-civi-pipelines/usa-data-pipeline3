@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEY25A44-6RL-1J-6VN">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2333 IS: Health Records Enhancement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2333</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250717">July 17, 2025</action-date>
+            <action-desc><sponsor name-id="S422">Mr. Welch</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans’ Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Defense and the Secretary of Veterans Affairs to
+            permit supplementation of health records of deceased veterans, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="id39d3e5a6b31b44f4ac90261c2e752d40" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Health Records Enhancement Act</short-title></quote>.</text>
+        </section>
+        <section id="idcda78450e2f74ef5a7115c7ec4cac298">
+            <enum>2.</enum>
+            <header>Supplementation of health records of deceased veterans</header>
+            <subsection id="ide24769618d7e4208a874f1262310f6a2">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than one year after the date of the enactment of this Act, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly take actions necessary to ensure that the health records of the Department of Defense and the Department of Veterans Affairs may be updated with observed health conditions and other relevant health information of a deceased enrollee by—</text>
+                <paragraph id="idbace4ac337814a6db37825479b613d90">
+                    <enum>(1)</enum>
+ <text>an individual designated by such deceased enrollee; or</text> </paragraph> <paragraph id="idb3e4df724de748329d9892a62aee530e"> <enum>(2)</enum> <text>if no such individual is designated, an immediate family member of such deceased enrollee.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ida53082969da748c5accbc78cf4c98a6c">
+                <enum>(b)</enum>
+                <header>Designation</header>
+ <text>The Secretary of Defense and the Secretary of Veterans Affairs shall jointly provide for a process by which an individual may make a designation for purposes of subsection (a)(1).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id2d9e1753687c4eb78ca028b90fcc5753">
+                <enum>(c)</enum>
+                <header>No modification of health information</header>
+ <text>Any update under subsection (a) shall supplement information contained in the health records of a deceased enrollee and shall not modify information contained in such records.</text>
+            </subsection>
+            <subsection id="id48f839d80ae74f8e83e5e01f0b80afb3">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id1a0d590fc19247539048e1c89fd876e7"> <enum>(1)</enum> <header>Immediate family member</header> <text>The term <term>immediate family member</term>, with respect to a deceased enrollee, means—</text>
+                    <subparagraph id="id86871a4de552472d985e6621e301b8cb">
+                        <enum>(A)</enum>
+ <text>the spouse, parent, brother, sister, or adult child of the individual; or</text>
+                    </subparagraph>
+                    <subparagraph id="ide9898861bee44fc9b5eeaf2c88c386be">
+                        <enum>(B)</enum>
+ <text>an adult person to whom the individual stands in loco parentis.</text> </subparagraph> </paragraph> <paragraph id="ida8117469889c48fcbbf3eb2e83828726"> <enum>(2)</enum> <header>Deceased enrollee</header> <text>The term <term>deceased enrollee</term> means any individual who, at the time of his or her death—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1d7c4bb56dac4080ab3c347a57482941">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">was enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc09cded7121e4808920aab1dbbe1333b">
+                        <enum>(B)</enum>
+ <text>was entitled to care under the TRICARE program, as defined in section 1072 of title 10, United States Code.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

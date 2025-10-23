@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GOE25182-Y2R-LK-G6V">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2617 IS: Reducing Drug Prices for Seniors Act.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2617</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S402">Ms. Rosen</sponsor> (for herself and <cosponsor name-id="S287">Mr. Cornyn</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to require that coinsurance
+            for drugs under Medicare part D be based on the drug's net price and not the drug's list
+            price.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reducing Drug Prices for Seniors Act.</short-title></quote>.</text>
+        </section>
+        <section id="idf07ba3799f51451d971ef0fe497e70e1">
+            <enum>2.</enum>
+            <header>Requiring that coinsurance for drugs under Medicare part D be based on the
+                drug's net price and not the drug's list price</header>
+ <text display-inline="no-display-inline">Section 1860D–2 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-102">42 U.S.C. 1395w–102</external-xref>) is amended—</text>
+            <paragraph id="id2892a21164c64d339a1c29cf7962cce4">
+                <enum>(1)</enum>
+ <text>in subsection (b)—</text> <subparagraph id="id3ce5a8aa234c4ed2b97b2ee900fbaa0d"> <enum>(A)</enum> <text>in paragraph (2)(A), in the matter preceding clause (i), by striking <quote>and (9)</quote> and inserting <quote>, (9), and (10)</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="id17d568fa197b4f6bbd3c525e943cb772">
+                    <enum>(B)</enum>
+ <text>by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id024A267A53F84CD3B0D28C0A2E780EA8"> <paragraph id="idcda5459b39344536a94b7776dfb8a065"> <enum>(10)</enum> <header>Requirement that coinsurance for covered part D drugs be based on the net price of the drug</header> <subparagraph id="ide9658b985ab943018caa9d1b140998b7"> <enum>(A)</enum> <header>In general</header> <text>For plan years beginning on or after January 1, 2026, for costs above the annual deductible specified in paragraph (1) and below the annual out-of-pocket threshold specified in paragraph (4), any coinsurance amount for a covered part D drug (insofar as such covered part D drug is included on the formulary and subject to coinsurance rather than a copayment) shall be calculated based on the net price (and not the list price) of such covered part D drug if such net price is lower than the list price of such covered part D drug. The preceding sentence shall not apply to a covered part D drug described in paragraph (8) or (9). </text>
+                            </subparagraph>
+                            <subparagraph id="idfdcaea8399514eae9603f5ab11d900f1">
+                                <enum>(B)</enum>
+                                <header>Net price defined</header>
+ <text>In this paragraph, the term <quote>net price</quote> means, with respect to a covered part D drug, the negotiated price of the covered part D drug under the prescription drug plan or MA–PD plan, net of any manufacturer-provided price concessions (as defined under section 423.100 of title 42, Code of Federal Regulations (or any successor regulation)), as reported for such drug in the Detailed DIR Report (or any successor report) submitted by the sponsor or organization offering the plan for the previous plan year.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id66e80977696a4565a55a70c6e2a25430">
+                <enum>(2)</enum>
+ <text>in subsection (c), by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id97422ED327554FF9B7747F7F19A51648"> <paragraph id="id43acf573a8354ea4829dc72d7af03cc5"> <enum>(7)</enum> <header>Requirement that coinsurance for covered part D drugs be based on the net price of the drug</header> <text>The coverage is provided in accordance with subsection (b)(10).</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

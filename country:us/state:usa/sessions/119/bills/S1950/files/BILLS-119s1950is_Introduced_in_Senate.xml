@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WIL25205-C85-SH-RDY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1950 IS: Susan Muffley Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1950</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250604">June 4, 2025</action-date>
+            <action-desc><sponsor name-id="S438">Mr. Husted</sponsor> (for himself, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S434">Mr.
+                    Moreno</cosponsor>, <cosponsor name-id="S380">Mr. Peters</cosponsor>, <cosponsor name-id="S418">Mr. Fetterman</cosponsor>, <cosponsor name-id="S354">Ms.
+                    Baldwin</cosponsor>, and <cosponsor name-id="S318">Mr. Wicker</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                    Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To increase the benefits guaranteed in connection with certain pension
+            plans, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HBEE2AE3A052D4863B31467845C8B13CB">
+        <section section-type="section-one" id="HD6C72A4E8E4B47F2B0253A5C40919D80">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Susan Muffley Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HEDCE2A0E9215418BA58469D93D09B9EE">
+            <enum>2.</enum>
+            <header>Guaranteed benefit calculation for certain plans</header>
+            <subsection id="H47C9537679374E97A474A6504AE38277">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph id="H6C9BF4765D3B4EF1AD6561EC75DA53DF">
+                    <enum>(1)</enum>
+                    <header>Increase to full vested plan benefit</header>
+                    <subparagraph id="H18094BBD28DA4C349D6EBA6355AFD13B">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>For purposes of determining what benefits are guaranteed under section 4022 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1322">29 U.S.C. 1322</external-xref>) with respect to an eligible participant or beneficiary under a covered plan specified in paragraph (4) in connection with the termination of such plan, the amount of monthly benefits shall be equal to the full vested plan benefit with respect to the participant.</text>
+                    </subparagraph>
+                    <subparagraph id="HCBC4704A017846789DDE8EF95CC0CA23">
+                        <enum>(B)</enum>
+                        <header>No effect on previous determinations</header>
+ <text display-inline="yes-display-inline">Nothing in this Act shall be construed to change the allocation of assets and recoveries under sections 4044(a) and 4022(c) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1344">29 U.S.C. 1344(a)</external-xref>; 1322(c)) as previously determined by the Pension Benefit Guaranty Corporation (referred to in this section as the <quote>corporation</quote>) for the covered plans specified in paragraph (4), and the corporation’s applicable rules, practices, and policies on benefits payable in terminated single-employer plans shall, except as otherwise provided in this section, continue to apply with respect to such covered plans.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HD8D26F5C0A08468F860DBBD08427BAE8">
+                    <enum>(2)</enum>
+                    <header>Recalculation of certain benefits</header>
+                    <subparagraph id="H13D30A3876654DE0AF8E216752CDF534">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">In any case in which the amount of monthly benefits with respect to an eligible participant or beneficiary described in paragraph (1) was calculated prior to the date of enactment of this Act, the corporation shall recalculate such amount pursuant to paragraph (1), and shall adjust any subsequent payments of such monthly benefits accordingly, as soon as practicable after such date.</text>
+                    </subparagraph>
+                    <subparagraph id="H35A11B5500884922A365B6F018862F83">
+                        <enum>(B)</enum>
+                        <header>Lump-sum payments of past-due benefits</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the corporation, in consultation with the Secretary of the Treasury and the Secretary of Labor, shall make a lump-sum payment to each eligible participant or beneficiary whose guaranteed benefits are recalculated under subparagraph (A) in an amount equal to—</text>
+                        <clause display-inline="no-display-inline" id="H6BB4E0FA95FD4CCBBB67AACE79402BD5">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in the case of an eligible participant, the excess of—</text>
+                            <subclause id="HB8FF7D4789CC4DCAB7832E25A79AC6EC">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the total of the full vested plan benefits of the participant for all months for which such guaranteed benefits were paid prior to such recalculation, over</text>
+                            </subclause>
+                            <subclause id="HAEC30D4096B441EDA5ECD8CD35967B9D">
+                                <enum>(II)</enum>
+ <text>the sum of any applicable payments made to the eligible participant; and</text>
+                            </subclause>
+                        </clause>
+                        <clause display-inline="no-display-inline" id="H99C1A8C061594192AD25EFE1EEBA9550">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the case of an eligible beneficiary, the sum of—</text>
+                            <subclause id="H8B0C37B0AF834620AB5979075D8FCB66">
+                                <enum>(I)</enum>
+ <text>the amount that would be determined under clause (i) with respect to the participant of which the eligible beneficiary is a beneficiary if such participant were still in pay status; plus</text>
+                            </subclause>
+                            <subclause id="HBED437C185864ED58A877E5A55C6CAFE">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the excess of—</text> <item id="HA8FEA685ADBA4D2D8F6AA4DD7797D109"> <enum>(aa)</enum> <text>the total of the full vested plan benefits of the eligible beneficiary for all months for which such guaranteed benefits were paid prior to such recalculation, over</text>
+                                </item>
+                                <item id="H2056C800E80B40BEA92516D76C46148B">
+                                    <enum>(bb)</enum>
+ <text>the sum of any applicable payments made to the eligible beneficiary.</text>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <continuation-text continuation-text-level="subparagraph">Notwithstanding
+                            the previous sentence, the corporation shall increase each lump-sum
+                            payment made under this subparagraph to account for foregone interest in
+                            an amount determined by the corporation designed to reflect a 6 percent
+                            annual interest rate on each past-due amount attributable to the
+                            underpayment of guaranteed benefits for each month prior to such
+                            recalculation.</continuation-text>
+                    </subparagraph>
+                    <subparagraph id="H2CE0B50A142A45D89A26D876E1152396">
+                        <enum>(C)</enum>
+                        <header>Eligible participants and beneficiaries</header>
+                        <clause id="HAA591AE8601A478B9499BD609C308843">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>For purposes of this section, an eligible participant or beneficiary is a participant or beneficiary who—</text>
+                            <subclause id="HF0000D4EC2F448BCBB41E8FFC5C42EA0">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">as of the date of the enactment of this Act, is in pay status under a covered plan or is eligible for future payments under such plan;</text>
+                            </subclause>
+                            <subclause id="H422594F8A8E14A7F876ED35ED0C731FB">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">has received or will receive applicable payments in connection with such plan (within the meaning of clause (ii)) that does not exceed the full vested plan benefits of such participant or beneficiary; and</text>
+                            </subclause>
+                            <subclause id="H0926019E509A4F76885CBDF1A921574D">
+                                <enum>(III)</enum>
+ <text display-inline="yes-display-inline">is not covered by the 1999 agreements between General Motors and various unions providing a top-up benefit to certain hourly employees who were transferred from the General Motors Hourly-Rate Employees Pension Plan to the Delphi Hourly-Rate Employees Pension Plan.</text>
+                            </subclause>
+                        </clause>
+                        <clause id="HCD334AE741B344A3A7C188B220CD47C0">
+                            <enum>(ii)</enum>
+                            <header>Applicable payments</header>
+ <text>For purposes of this paragraph, applicable payments to a participant or beneficiary in connection with a plan consist of the following:</text>
+                            <subclause id="H761A8F637DC847B7BD455595735468D1">
+                                <enum>(I)</enum>
+ <text>Payments under the plan equal to the normal benefit guarantee of the participant or beneficiary.</text>
+                            </subclause>
+                            <subclause id="H272A7C76E8DC4A82B4F92EF22063EC3D">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">Payments to the participant or beneficiary made pursuant to section 4022(c) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1322">29 U.S.C. 1322(c)</external-xref>) or otherwise received from the corporation in connection with the termination of the plan.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H4FF4D5AB71774999BE1D1831AC12189C">
+                    <enum>(3)</enum>
+                    <header>Definitions</header>
+ <text>For purposes of this subsection—</text> <subparagraph id="H225BFB83D2F340E7BD3CD5975BA6493E"> <enum>(A)</enum> <header>Full vested plan benefit</header> <text display-inline="yes-display-inline">The term <term>full vested plan benefit</term> means the amount of monthly benefits that would be guaranteed under section 4022 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1322">29 U.S.C. 1322</external-xref>) as of the date of plan termination with respect to an eligible participant or beneficiary if such section were applied without regard to the phase-in limit under subsection (b)(1) of such section and the maximum guaranteed benefit limitation under subsection (b)(3) of such section (including the accrued-at-normal limitation).</text>
+                    </subparagraph>
+                    <subparagraph id="H91C6FCF0D37C497D8DEBA4C0029B7AB9">
+                        <enum>(B)</enum>
+                        <header>Normal benefit guarantee</header>
+ <text display-inline="yes-display-inline">The term <term>normal benefit guarantee</term> means the amount of monthly benefits guaranteed under section 4022 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1322">29 U.S.C. 1322</external-xref>) with respect to an eligible participant or beneficiary without regard to this Act.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HD3E08DBEA5E348AEAAB9EB709CA80D6F">
+                    <enum>(4)</enum>
+                    <header>Covered plans</header>
+ <text>The covered plans specified in this paragraph are the following:</text> <subparagraph id="HBC30002DD8544719AED875BF07219A38"> <enum>(A)</enum> <text display-inline="yes-display-inline">The Delphi Hourly-Rate Employees Pension Plan.</text>
+                    </subparagraph>
+                    <subparagraph id="H1D3283398C724C6EAE417D0CD2AD8684">
+                        <enum>(B)</enum>
+ <text>The Delphi Retirement Program for Salaried Employees.</text> </subparagraph> <subparagraph id="H84C0CBBF322F48C6BFCF2D79984AC2A8"> <enum>(C)</enum> <text>The PHI Non-Bargaining Retirement Plan.</text>
+                    </subparagraph>
+                    <subparagraph id="H6FDE51903C5E4511902A67486CF719C2">
+                        <enum>(D)</enum>
+ <text>The ASEC Manufacturing Retirement Program.</text> </subparagraph> <subparagraph id="HE9C5495651344D869400F843289EB0F2"> <enum>(E)</enum> <text>The PHI Bargaining Retirement Plan.</text>
+                    </subparagraph>
+                    <subparagraph id="H014564C167AB4FBBA5561587155557DD">
+                        <enum>(F)</enum>
+ <text>The Delphi Mechatronic Systems Retirement Program.</text> </subparagraph> </paragraph> <paragraph commented="no" id="H8D2C3884C69A46B9A11B813632163A79"> <enum>(5)</enum> <header>Treatment of PBGC determinations</header> <text display-inline="yes-display-inline">Any determination made by the corporation under this section concerning a recalculation of benefits or lump-sum payment of past-due benefits shall be subject to administrative review by the corporation. Any new determination made by the corporation under this section shall be governed by the same administrative review process as any other benefit determination by the corporation.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H558FC92D04604A5687D70C19EB1DED1F">
+                <enum>(b)</enum>
+                <header>Trust fund for payment of increased benefits</header>
+                <paragraph id="H45473C221F9446FC83C5AF0B19273139">
+                    <enum>(1)</enum>
+                    <header>Establishment</header>
+ <text display-inline="yes-display-inline">There is established in the Treasury a trust fund to be known as the <quote>Delphi Full Vested Plan Benefit Trust Fund</quote> (referred to in this subsection as the <quote>Fund</quote>), consisting of such amounts as may be appropriated or credited to the Fund as provided in this section.</text>
+                </paragraph>
+                <paragraph id="H102766F51D7F4D6EB24AB6607B800062">
+                    <enum>(2)</enum>
+                    <header>Funding</header>
+ <text display-inline="yes-display-inline">There is appropriated, out of amounts in the Treasury not otherwise appropriated, such amounts as are necessary for the costs of payments of the portions of monthly benefits guaranteed to participants and beneficiaries pursuant to subsection (a) and for necessary administrative and operating expenses of the corporation relating to such payments. The Fund shall be credited with amounts from time to time as the Secretary of the Treasury, in coordination with the Director of the corporation, determines appropriate, out of amounts in the Treasury not otherwise appropriated.</text>
+                </paragraph>
+                <paragraph id="H232E89AB32A444159BA0F3B45121EEA8">
+                    <enum>(3)</enum>
+                    <header>Expenditures from Fund</header>
+ <text display-inline="yes-display-inline">Amounts in the Fund shall be available for the payment of the portion of monthly benefits guaranteed to a participant or beneficiary pursuant to subsection (a) and for necessary administrative and operating expenses of the corporation relating to such payment.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H1FF7AC1DC74949C1A6FAA7CF37094D27">
+                <enum>(c)</enum>
+                <header>Regulations</header>
+ <text>The corporation, in consultation with the Secretary of the Treasury and the Secretary of Labor, may issue such regulations as necessary to carry out this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

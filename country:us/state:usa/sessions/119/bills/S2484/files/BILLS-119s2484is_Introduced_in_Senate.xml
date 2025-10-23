@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MIR25877-WM4-7T-D8D">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2484 IS: NeighborWorks Accountability Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2484</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250728">July 28, 2025</action-date>
+            <action-desc><sponsor name-id="S407">Mr. Hagerty</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish an Inspector General of the Neighborhood Reinvestment
+            Corporation, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="id52e2119dba4a4ddc81e6d48623d360af" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idb1c4e6b027e743e4a84e1dc60def12cd">
+                <enum/>
+ <text>This Act may be cited as the <quote><short-title>NeighborWorks Accountability Act</short-title></quote>.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ida40ef50a4a6e40d5a73a947706b2ca11">
+            <enum>2.</enum>
+            <header>Authorization of Inspector General of the Neighborhood Reinvestment
+                Corporation</header>
+            <subsection id="id9c585ede880948a7a85a19707200a73c">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Section 415(a)(1)(A) of title 5, United States Code, is amended by inserting <quote>the Neighborhood Reinvestment Corporation,</quote> after <quote>the Postal Regulatory Commission,</quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id9dfbe90bd4de4b3283784207a328fad5">
+                <enum>(b)</enum>
+                <header>Duties and audits</header>
+ <text>The Neighborhood Reinvestment Corporation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8101">42 U.S.C. 8101 et seq.</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3409fc86499b450b917d2ce378f63b0d">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in section 606 (<external-xref legal-doc="usc" parsable-cite="usc/42/8105">42 U.S.C. 8105</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idc8d670fac1584bc18626c43752cd88b9">
+                        <subsection id="id5ad6f1a8900942c2bca3360fa933176e">
+                            <enum>(e)</enum>
+                            <paragraph commented="no" display-inline="yes-display-inline" id="id5aa63d84a2974bcb86dce9c1ac22d41a">
+                                <enum>(1)</enum>
+ <text>There is authorized to be appropriated to the Office of Inspector General of the corporation established under section 415 of title 5, United States Code, such sums as may be necessary to carry out this Act.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idd5fe2b122f234fc9b7bd5ec0f099437e" indent="up1">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">There shall not be transferred to the Office of Inspector General of the corporation any program operating responsibilities of the corporation, including the organizational assessments work and grantee oversight function of the corporation.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id028f9b0ec1664ae4924a7bf0f6c6466f">
+                <enum>(c)</enum>
+                <header>Independent audit</header>
+ <text>Section 607 of the Neighborhood Reinvestment Corporation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/8106">42 U.S.C. 8106</external-xref>) is amended by striking subsection (b) and inserting following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id5234809f2bd7400f84352b7cc38c47dd">
+                    <subsection id="idda6bc79c88a64e57afe3d7a926c7bd61">
+                        <enum>(b)</enum>
+                        <paragraph commented="no" display-inline="yes-display-inline" id="ideaa15fe1c0f44500a4a50a7399e4b64a">
+                            <enum>(1)</enum>
+ <text>The accounts of the corporation shall be audited annually by an independent external auditor.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idaa2196b3fe664640aed658c3fdda2fde" indent="up1">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Notwithstanding any other audit work performed by the Office of Inspector General of the corporation, the audits required under paragraph (1) shall be conducted in accordance with generally accepted auditing standards by independent certified public accountants who are certified by a regulatory authority of the jurisdiction in which the audit is undertaken.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

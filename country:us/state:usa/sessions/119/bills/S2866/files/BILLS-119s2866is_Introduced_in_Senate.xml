@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RYA25548-HDL-RF-K2R">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2866 IS: Cybersecurity in Agriculture Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2866</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date>September 18 (legislative day, September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S417">Mr. Budd</sponsor> (for himself and <cosponsor name-id="S385">Ms. Cortez Masto</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+                Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the National Agricultural Research, Extension, and Teaching Policy
+            Act of 1977 to direct the Secretary of Agriculture to establish a program providing for
+            the establishment of Agriculture Cybersecurity Centers, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H0358DF41DB634EF39D939AD7E3426229">
+        <section section-type="section-one" id="HEFDC113F8D4948E794FD921AB66B6C12">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cybersecurity in Agriculture Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="H2D72B5B2137A40198F4E0643D83E52DC">
+            <enum>2.</enum>
+            <header>Agriculture Cybersecurity Centers</header>
+ <text display-inline="no-display-inline">Subtitle K of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/7/3310">7 U.S.C. 3310 et seq.</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="HA03DA4EF73AB43489E00AACD75E9E993">
+                <section id="HE23467D632EB47EE8F3CD99588CE2FA3">
+                    <enum>1473I.</enum>
+                    <header>Agriculture Cybersecurity Centers</header>
+                    <subsection id="H32676EC3D5C34DD9A7FC547FA393E4B3">
+                        <enum>(a)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary, acting through the Director of the National Institute of Food and Agriculture, and in consultation with the Secretary of Homeland Security, shall establish a program under which the Secretary shall—</text>
+                        <paragraph id="H726E82FEA9D2481AAD6908B88ACE5657">
+                            <enum>(1)</enum>
+ <text>on a competitive basis, award grants to, or enter into cooperative agreements with, eligible entities to establish 5 Regional Agriculture Cybersecurity Centers to carry out research, development, and education on agriculture cybersecurity, with respect to seed agriculture, horticulture, animal agriculture, and the agriculture supply chain;</text>
+                        </paragraph>
+                        <paragraph id="H9EE790EAFC744FE6A3CAE60F633F2769">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">establish a national network of such Regional Agriculture Cybersecurity Centers; and</text>
+                        </paragraph>
+                        <paragraph id="H2D47C7A494744CD8B257FAAA4B8F3BAB">
+                            <enum>(3)</enum>
+ <text display-inline="yes-display-inline">designate one eligible entity to coordinate the activities of such national network.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H2710366E653F4724BDEAE251292B0A4B">
+                        <enum>(b)</enum>
+                        <header>Duties</header>
+ <text display-inline="yes-display-inline">A Regional Agriculture Cybersecurity Center shall—</text>
+                        <paragraph id="HFF980D8BAF974A7D8E364BA266478891">
+                            <enum>(1)</enum>
+ <text>conduct research on cybersecurity systems for the agriculture sector, including developing cybersecurity situational awareness systems to monitor cybersecurity threats, intrusions, and anomalies;</text>
+                        </paragraph>
+                        <paragraph id="H70407B05EECA4033B55F3A7282CBF685">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">develop a security operations center for the agriculture sector—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc0f136e66b9e4d92a01cb630e646078b">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to analyze cybersecurity threats, intrusions, and anomalies; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ida51f402602f74814b5bb5ce84cdf6ea1">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to recommend mitigation actions;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="HF2FA20B44B854F38B403EF4666499E34">
+                            <enum>(3)</enum>
+ <text>develop cybersecurity technologies and tools for the agriculture sector, including—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idccebfe4b42964027a7bda6ad587d5393">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">domain-specific intrusion and anomaly detection systems;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id184bec2bed4b4e48af3a2729dcd09540">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">domain-specific intrusion prevention systems;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id28873f33c92c4aebbeeb5c91ea55a7a7">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">domain-specific role-based access control and user authentication systems;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id11ac971942c54783926ce03931aff7b9">
+                                <enum>(D)</enum>
+ <text display-inline="yes-display-inline">lightweight device authentication protocols; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idabc9285f98b544ab93d6fc21f14b1163">
+                                <enum>(E)</enum>
+ <text display-inline="yes-display-inline">secure network architectures;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H5351E19DF3C3400AA4AE1F171A6FEF48">
+                            <enum>(4)</enum>
+ <text>build live cybersecurity testbeds to assess and refine cybersecurity technologies, tools, and systems developed for the agriculture sector;</text>
+                        </paragraph>
+                        <paragraph id="H98F777576AC94F2AB06B1C1C1F246B24">
+                            <enum>(5)</enum>
+ <text>conduct attack/defense exercises to validate and evaluate cybersecurity solutions for field deployment and agriculture industry adoption;</text>
+                        </paragraph>
+                        <paragraph id="H6583615F779A4FE6B086137ADF61BDEA">
+                            <enum>(6)</enum>
+ <text>develop cybersecurity education and training programs for agricultural stakeholders;</text>
+                        </paragraph>
+                        <paragraph id="HD0782C62427545DAB5785D3E46B3C68E">
+                            <enum>(7)</enum>
+ <text>conduct cybersecurity training using the testbeds referred to in paragraph (4);</text>
+                        </paragraph>
+                        <paragraph id="HE840A4633E1047D98CA3E42B982E10BF">
+                            <enum>(8)</enum>
+ <text>build a regional research and development collaboration network; and</text>
+                        </paragraph>
+                        <paragraph id="id33aaaf483a2b47bd8d7961c6d53ab36c">
+                            <enum>(9)</enum>
+ <text>ensure that the research described in paragraph (1), the technologies and tools described in paragraph (3), and the attack/defense exercises described in paragraph (5) are specifically designed to prevent cyberattacks from—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id364c72ea95f74fde88d1fe385bbab2cb">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the People’s Republic of China;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idde3029bc3d4943169fbd6c700e9ecabc">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Democratic People’s Republic of Korea;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idd235c22b4b044ffdb4921c0a309ae1bd">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the Russian Federation;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id88abdedf51514fd8a9981c02cd22c7b6">
+                                <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the Islamic Republic of Iran; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id9e51d17c23d442c1a71c337fae5b4b37">
+                                <enum>(E)</enum>
+ <text>such other countries as the Secretary, in consultation with the Secretary of Homeland Security, determines to be appropriate.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="HEFC8B9DF627F47AF95DF5D21A1F1FC32">
+                        <enum>(c)</enum>
+                        <header>Definition of eligible entity</header>
+ <text display-inline="yes-display-inline">In this section, the term <term>eligible entity</term> means a land-grant college or university that—</text>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idf5ee6506538748b3bed7839e21c34cad">
+                            <enum>(1)</enum>
+ <text display-inline="yes-display-inline">has programs in the food and agricultural sciences and cybersecurity; and</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="ide21682ff1fca4e179ec5b96225fe6961">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">coordinates regional industry partners, cooperatives, government authorities, and other stakeholders—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id722708940a784f7bb2f25f003493b007">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to strengthen the security, privacy, and resiliency of agricultural systems;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id48377f53a06846f8928c69a2b7d80024">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">to bolster the resiliency of cybersecurity infrastructure used by independent, noncentralized, locally owned and operated agricultural networks; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id9a103ac55ca34ce590239200f84472e0">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">to develop a skilled workforce equipped to manage and protect agricultural systems from cyberattacks.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="H36AA484A755B4F598CE59047C675E9A5">
+                        <enum>(d)</enum>
+                        <header>Authorization of appropriations</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2026 through 2030.</text>
+                    </subsection>
+                </section>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

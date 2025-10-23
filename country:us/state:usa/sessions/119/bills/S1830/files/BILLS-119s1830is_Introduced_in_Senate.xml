@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-TAM25627-9NL-YM-C34">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1830 IS: Right to Treat Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1830</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S345">Mr. Johnson</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To clarify that agencies of the Department of Health and Human Services do
+            not have the authority to regulate the practice of medicine.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Right to Treat Act</short-title></quote>.</text>
+        </section>
+        <section id="id8EF3D6568A9644D18EBA9C2CD8AA77EC">
+            <enum>2.</enum>
+            <header>Scope of authorities</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id768b2d9a48bb44a988bf637f8f3bc757">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Subject to subsection (b) and notwithstanding any other provision of law—</text>
+                <paragraph id="idF51C119844734CE9B8044EC2E19B4E91">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">no Federal agency, including the Food and Drug Administration, the National Institutes of Health, and the Centers for Disease Control and Prevention, shall have the authority to regulate the practice of medicine; and</text>
+                </paragraph>
+                <paragraph id="id9890419BC66D4AE2ACCCD97535F64817">
+                    <enum>(2)</enum>
+ <text>no Federal law, rule, regulation, or policy shall prohibit or restrict the prescription or disbursement for an unapproved use of any drug that is approved by the Food and Drug Administration, or that is available pursuant to section 561B of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360bbb-0a">21 U.S.C. 360bbb–0a</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id62a90f796fed4901a53d79817ec2adb1">
+                <enum>(b)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this Act shall be construed to affect any Federal law, rule, regulation, or policy that restricts abortion, assisted suicide, euthanasia, mercy killing, coercive family planning, female genital mutilation, or gender transition medical interventions.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H01D7718DC4E9434BA7E0ACD61CCD606D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5551 IH: Balanced Agricultural Support and Efficiency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-09-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5551</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250923">September 23, 2025</action-date><action-desc><sponsor name-id="J000301">Mr. Johnson of South Dakota</sponsor> (for himself and <cosponsor name-id="B001315">Ms. Budzinski</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Agricultural Act of 2014 to require a one-time update of base acres for covered commodities to ensure base acres reflect recent planting history, and for other purposes.</official-title></form><legis-body id="HEB3548AA3E1F4D88B5625AB8D2902315" style="OLC"> 
+<section id="H45D6CADF036A4E5BA4C98A49E3A7CEFF" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Balanced Agricultural Support and Efficiency Act</short-title></quote>.</text></section> 
+<section id="H35B24A4963C943E5A60842C7C699539C"><enum>2.</enum><header>Mandatory base acres</header> 
+<subsection id="HB3D11C94F0884F24A59921306FD8D17D"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">Section 1111 of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9011">7 U.S.C. 9011</external-xref>) is amended—</text> <paragraph id="HA0DA998BAF434505B6F206EBB2A21240"><enum>(1)</enum><text display-inline="yes-display-inline">by striking paragraph (4) and inserting the following:</text> 
+<quoted-block style="OLC" id="HC4E06F4FFFBB4B2B92C424017DFA7009" display-inline="no-display-inline"> 
+<paragraph id="H3948944D084C4F8D9659FB741C708D35"><enum>(4)</enum><header>Base acres</header><text display-inline="yes-display-inline">The term <term>base acres</term>, with respect to a covered commodity on a farm, means the number of acres determined for a farm under section 1112.</text></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> <paragraph id="HABE7AE10F025418EBA3B97EB1D8BC0AC"><enum>(2)</enum><text>by striking paragraph (10); and</text></paragraph> 
+<paragraph id="H5E83BFEA255549F59C54AF9E6BAAF9B9"><enum>(3)</enum><text display-inline="yes-display-inline">by redesignating paragraphs (11) through (26) as paragraphs (10) through (25), respectively.</text></paragraph></subsection> <subsection id="H0E9500B662394074B4F6435671C20040"><enum>(b)</enum><header>Base acres</header><text display-inline="yes-display-inline">Section 1112 of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9012">7 U.S.C. 9012</external-xref>) is amended—</text> 
+<paragraph id="H673CA0DF680F4637BEC403F8AF5FF29E"><enum>(1)</enum><text>by striking subsection (a) and inserting the following:</text> <quoted-block style="OLC" id="HA2586F9749054497B4304F9ED465EA3A" display-inline="no-display-inline"> <subsection id="H834BD65450914465A5F4561344670F8A"> <enum>(a)</enum> <header>Mandatory one-Time update of base acres</header> <paragraph id="H164D9ED7D8F0460985521ACC1DA933E1"> <enum>(1)</enum> <header>In general</header> <text display-inline="yes-display-inline">As soon as practicable after the date of enactment of the Balanced Agricultural Support and Efficiency Act, the Secretary shall update the base acres on a farm, as in effect under this title on the day before the date of enactment of that Act, for the 2025 crop year in accordance with this section.</text>
+              </paragraph>
+              <paragraph id="HB38A275C89F147568676979362F6EB79">
+                <enum>(2)</enum>
+                <header>Mandatory update</header>
+ <text display-inline="yes-display-inline">For the purpose of applying this title to covered commodities, the Secretary shall determine the base acres on a farm by updating all of the base acres for covered commodities on the farm among those covered commodities planted on the farm at any time during the 2020 through 2024 crop years.</text>
+              </paragraph>
+              <paragraph id="HF82F38413D4244BAB495AC1C7CCDCDB2">
+                <enum>(3)</enum>
+                <header>Update formula</header>
+ <text display-inline="yes-display-inline">The updated base acres among covered commodities on a farm shall be the proportion that—</text>
+                <subparagraph id="H7F5226443C1A455287CF33FA433B7720">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the 5-year average of—</text> <clause id="H221484A1118A4692A2ED2A7D9FD289C4"> <enum>(i)</enum> <text display-inline="yes-display-inline">the acreage planted on the farm to each covered commodity for harvest, grazing, haying, silage, or other similar purposes for the 2020 through 2024 crop years; and</text>
+                  </clause>
+                  <clause id="HCF7C8C8024774C43BED346F7CA07A84D">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any acreage on the farm that the producers were prevented from planting during the 2020 through 2024 crop years to that covered commodity because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary; bears to</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HF3A955B0C28D4CDEA9378C7F31F0D8F6">
+                  <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the 5-year average of—</text> <clause id="H8E11E06A74164802B839E8E744433E93"> <enum>(i)</enum> <text display-inline="yes-display-inline">the acreage planted on the farm to all covered commodities for harvest, grazing, haying, silage, or other similar purposes for the 2020 through 2024 crop years; and</text>
+                  </clause>
+                  <clause id="HA8A268A0CAED458FAD071C82527745D1">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any acreage on the farm that the producers were prevented from planting during the 2020 through 2024 crop years to covered commodities because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H78AC7C2C25114BE988CD8B063D70BA60">
+                <enum>(4)</enum>
+                <header>Inclusion of all 5 years in average</header>
+ <text display-inline="yes-display-inline">For the purpose of determining a 5-year acreage average under paragraph (3) for a farm, the Secretary shall not exclude any crop year in which a covered commodity was not planted.</text>
+              </paragraph>
+              <paragraph id="HF615FA70D22B4CE585F7AB4EA29DB95D">
+                <enum>(5)</enum>
+                <header>Treatment of multiple planting or prevented planting</header>
+ <text display-inline="yes-display-inline">For the purpose of determining under paragraph (3) the acreage on a farm that producers planted or were prevented from planting during the 2020 through 2024 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice of double cropping), the owner—</text>
+                <subparagraph id="H7303950FA1AC425EAA673FABAFAEFDC8">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">may elect the commodity to be used for that crop year in determining the 5-year average; but</text>
+                </subparagraph>
+                <subparagraph id="HBEDDCEA25B0B4DFCB4F98C44F09F7D14">
+                  <enum>(B)</enum>
+ <text display-inline="yes-display-inline">may not include both the initial commodity and the subsequent commodity.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HCF1368D1C51A4401A63409AD2A15CD48"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (b)(1), in the matter preceding subparagraph (A), by striking <quote>Notwithstanding the election</quote> and all that follows through <quote>circumstances occur:</quote> and inserting the following: <quote>Notwithstanding subsection (a), the Secretary shall provide for an adjustment, as appropriate, in the base acres for covered commodities for a farm whenever any of the following circumstances occur:</quote>;</text></paragraph> <paragraph id="H9DA025916BBA4A019AAB6FA0138E2A0E"><enum>(3)</enum><text>in subsection (c)—</text> 
+<subparagraph id="HCB162CEDDEC64E5C8CD94B1720251C8F"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (1)—</text> <clause id="H12336AB4F08F46FF9310D50164FAE811"><enum>(i)</enum><text display-inline="yes-display-inline">by striking <quote>the election made under</quote>;</text></clause> 
+<clause id="H70DF67A5EAD34392B8A288402C1847A5"><enum>(ii)</enum><text>by striking <quote>, including generic base acres</quote> each place it appears; and</text></clause> <clause id="H4F84DDB6E31943108A07D7D02DB37948"><enum>(iii)</enum><text display-inline="yes-display-inline">by striking <quote>or generic base acres</quote>; and</text></clause></subparagraph> 
+<subparagraph id="HB31B01F2B2BD4C739F636E21732B931C"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (3), by striking <quote>or generic base acres</quote>; and</text></subparagraph></paragraph> <paragraph id="H15EA92EEF6DE47EA8253CDD8E8DBF5BC"><enum>(4)</enum><text display-inline="yes-display-inline">in subsection (d)—</text> 
+<subparagraph id="H6FB328D8BE9D45C295E29BC354BCFC62"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (1)(A), by striking <quote>or generic base acres</quote>; and</text></subparagraph> <subparagraph id="H5AA77F98CFA446128DC96D67EBC5E025"><enum>(B)</enum><text display-inline="yes-display-inline">in paragraph (2)(A), in the matter preceding clause (i), by striking <quote>, including any generic base acres,</quote>.</text></subparagraph> </paragraph></subsection> 
+<subsection id="H70FB0C0D1A5949F5A39E94F95A1DDAAD"><enum>(c)</enum><header>Conforming amendments</header> 
+<paragraph id="HEFC82BE5929C4F8C98DD01F47DAC96B8"><enum>(1)</enum><header>Payment yields</header><text display-inline="yes-display-inline">Section 1113(c)(1) of the Agricultural Act of 2014 (7 U.S.C. 9013(c)(l)) is amended by striking <quote>established or that is planted on generic base acres,</quote> and inserting <quote>established,</quote>.</text></paragraph> <paragraph id="HE2FE87A2F28A406490A67F03FA506416"><enum>(2)</enum><header>Payment acres</header><text display-inline="yes-display-inline">Section 1114 of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9014">7 U.S.C. 9014</external-xref>) is amended—</text> 
+<subparagraph id="HB9872FFB671E42BA89744125129FC349"><enum>(A)</enum><text>in subsection (a)—</text> <clause id="HAB6829CE01D94CDAA02FBA6D71CCD106"><enum>(i)</enum><text>in paragraph (1), by striking <quote>subsection (e)</quote> and inserting <quote>subsection (d)</quote>; and</text></clause> 
+<clause id="HBEC1FB2E89684B5BA154B3D8277D25B4"><enum>(ii)</enum><text>in paragraph (2), by striking <quote>subsection (e)</quote> and inserting <quote>subsection (d)</quote>;</text></clause></subparagraph> <subparagraph id="H256A238DF93548D69D87FB215AD74BF0"><enum>(B)</enum><text>by striking subsections (b) and (f); and</text></subparagraph> 
+<subparagraph id="HACD719499C544DDDB3C342848FF5781D"><enum>(C)</enum><text>by redesignating subsections (c), (d), and (e) as subsections (b), (c), and (d), respectively.</text></subparagraph></paragraph> <paragraph id="HAA4FD5E7B1D849A888F5F74472286FC5" commented="no"><enum>(3)</enum><header>Price loss coverage</header><text display-inline="yes-display-inline">Section 1116(g) of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9016">7 U.S.C. 9016(g)</external-xref>) is amended, in the matter preceding paragraph (1), by striking <quote>(19)</quote> and inserting <quote>(18)</quote>.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

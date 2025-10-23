@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25913-715-3L-DXV">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2475 IS: American Worker Rebate Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2475</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250728">July 28, 2025</action-date>
+            <action-desc><sponsor name-id="S399">Mr. Hawley</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to provide rebates to individuals
+            using tariff proceeds.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="idC2CE8FD62C2046069B81D18D2119AFB5">
+            <enum>1.</enum>
+            <header>Short title; Statement of Policy</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id97b02e2734d44a54b300fdc417c8773e">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>American Worker Rebate Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf8461bea75df43c08f356fd0cba4b91e">
+                <enum>(b)</enum>
+                <header>Statement of Policy</header>
+ <text>It is the policy of the United States to use revenue raised from tariffs applied on foreign imports to provide relief for working people through immediate tax rebates.</text>
+            </subsection>
+        </section>
+        <section id="H25CA409D9D2844399CF965A38F83F6C6">
+            <enum>2.</enum>
+            <header>Tariff rebates for individuals</header>
+            <subsection id="H31D3406E4E26434C810D379A3CCE3011">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Subchapter B of chapter 65 of subtitle F of the Internal Revenue Code of 1986 is amended by inserting after section 6428B the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id52DBF6B64654495180B4AC6A0798C450">
+                    <section id="H788E43B413914F9FB5D3B5E7B16F4268">
+                        <enum>6428C.</enum>
+                        <header>Tariff rebates for individuals</header>
+                        <subsection id="H812CBD5D00164385940468EB6220045E">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id61581cd6bf75437b9922206020597e95">
+                                <enum>(1)</enum>
+                                <header>Amount of rebate</header>
+ <text display-inline="yes-display-inline">In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by subtitle A for the first taxable year beginning in 2025 an amount equal to the sum of—</text>
+                                <subparagraph id="HF5BCCA0791EA4C8D8E7F81BB53EC56F7">
+                                    <enum>(A)</enum>
+ <text>the applicable amount (or, in the case of eligible individuals filing a joint return, 200 percent of the applicable amount), plus</text>
+                                </subparagraph>
+                                <subparagraph id="HBCFA091B8AC04706A052D61BA0BC734D">
+                                    <enum>(B)</enum>
+ <text>an amount equal to the product of the applicable amount multiplied by the number of qualifying children (within the meaning of section 24(c)) of the taxpayer.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id77c3d38bfe09484c9d1c5bc7e8d7d7d7">
+                                <enum>(2)</enum>
+                                <header>Applicable amount</header>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id64b4caf51f204846bab670d4512cc9f4">
+                                    <enum>(A)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>For purposes of paragraph (1), the applicable amount shall be equal to the greater of—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id5162136601924c8296553a583b8036d6">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">$600, or</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id0d490825c5824aabacc7f7c7a52b3f30"> <enum>(ii)</enum> <text>an amount (rounded to the nearest dollar) equal to the quotient of—</text>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id06fbba2aca994fabb28f99215bfac6d1">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the amount of qualifying tariff proceeds received during such taxable year, divided by</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id8f1cbbb15e4f45d9a62834e891530821">
+                                            <enum>(II)</enum>
+ <text>the total number of eligible individuals and qualifying children (as so defined) of such individuals for such taxable year.</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id8a3a758d82ff4e848fc9d399992815e0">
+                                    <enum>(B)</enum>
+                                    <header display-inline="yes-display-inline">Qualifying tariff
+                                        proceeds</header>
+                                    <clause commented="no" display-inline="no-display-inline" id="id53a3c48de0ea431d8c22e94a4ac1764c">
+                                        <enum>(i)</enum>
+                                        <header display-inline="yes-display-inline">In
+                                            general</header>
+ <text>For purposes of this subsection, the term <term>qualifying tariff proceeds</term> means the revenues received in the general fund of the Treasury which are attributable to duties, including any supplemental duties, imposed after January 20, 2025.</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id5a6b4e6d0dc746cb835f46fa7217d2f5">
+                                        <enum>(ii)</enum>
+                                        <header>Projection of proceeds</header>
+ <text display-inline="yes-display-inline">For purposes of the application of subsection (f), in determining the amount described in paragraph (2)(A)(ii)(I), the Secretary may use projections and forecasts for annual tariff revenue based on a receipt to date in each taxable year.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HAA7C1A46CFF44DF7A76539500468AAB3">
+                            <enum>(b)</enum>
+                            <header>Treatment of credit</header>
+ <text>The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.</text>
+                        </subsection>
+                        <subsection id="H8356D80460AC443B8E3C1454B3D2CF64">
+                            <enum>(c)</enum>
+                            <header>Limitation based on adjusted gross income</header>
+ <text>The amount of the credit allowed by subsection (a) (determined without regard to this subsection and subsection (e)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayer’s adjusted gross income as exceeds—</text>
+                            <paragraph id="H82E6C51CAD5746E4A84C8FE03AEA9901">
+                                <enum>(1)</enum>
+ <text>$150,000 in the case of a joint return,</text> </paragraph> <paragraph id="H4927D22C3A7842A4B02EA65362F4C0D2"> <enum>(2)</enum> <text>$112,500 in the case of a head of household, and</text>
+                            </paragraph>
+                            <paragraph id="HBCBE3EF0423047A98F1AD771B8BB85CF">
+                                <enum>(3)</enum>
+ <text>$75,000 in the case of a taxpayer not described in paragraph (1) or (2).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id8840CA8334F7467DA4EF08F21405677F">
+                            <enum>(d)</enum>
+                            <header>Eligible individual</header>
+ <text>For purposes of this section, the term <term>eligible individual</term> means any individual other than—</text>
+                            <paragraph id="HC461D021AEB7408C8D7930B56CC0FCD0">
+                                <enum>(1)</enum>
+ <text>any nonresident alien individual,</text> </paragraph> <paragraph id="HDD442D4929B54EE8B155868ABD54C480"> <enum>(2)</enum> <text>any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual’s taxable year begins, and</text>
+                            </paragraph>
+                            <paragraph id="H4D63E7E51B9649A5AE6AA1A8403D8C23">
+                                <enum>(3)</enum>
+ <text>an estate or trust.</text> </paragraph> </subsection> <subsection id="H7A1C545A3386457AB1075C1659E0168B"> <enum>(e)</enum> <header>Coordination with advance refunds of credit</header> <paragraph id="HCED0980EF1524028B4ABF123A05532EC"> <enum>(1)</enum> <header>In general</header> <text>The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (f). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).</text>
+                            </paragraph>
+                            <paragraph id="HDE2D5F7A35E74E048B632F202E1F6F74">
+                                <enum>(2)</enum>
+                                <header>Joint returns</header>
+ <text>In the case of a refund or credit made or allowed under subsection (f) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HC9192BE4248E47DDBE2B96FB2590DF94">
+                            <enum>(f)</enum>
+                            <header>Advance refunds and credits</header>
+                            <paragraph id="HDA7EACF4127E4FDF91F6501951138FF8">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>Subject to paragraph (5), each individual who was an eligible individual for such individual’s first taxable year beginning in 2024 shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.</text>
+                            </paragraph>
+                            <paragraph id="H5995425C43A644C7BF268F663E7A023D">
+                                <enum>(2)</enum>
+                                <header>Advance refund amount</header>
+ <text>For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (e) and this subsection) had applied to such taxable year.</text>
+                            </paragraph>
+                            <paragraph id="HECE7798E59364E1EBE65904FE1DA552A">
+                                <enum>(3)</enum>
+                                <header>Timing and manner of payments</header>
+                                <subparagraph id="H3EA49583AB3845B4983818F9F01AC822">
+                                    <enum>(A)</enum>
+                                    <header>Timing</header>
+ <text>The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this section as rapidly as possible. No refund or credit shall be made or allowed under this subsection after December 31, 2026.</text>
+                                </subparagraph>
+                                <subparagraph id="H085D678CCD7E4549960D2572723EF680">
+                                    <enum>(B)</enum>
+                                    <header>Delivery of payments</header>
+ <text>Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to any account to which the payee authorized, on or after January 1, 2023, the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code).</text>
+                                </subparagraph>
+                                <subparagraph id="H6ED7F19C0BD44EDD9BDC8FF78D637542">
+                                    <enum>(C)</enum>
+                                    <header>Waiver of certain rules</header>
+ <text>Notwithstanding section 3325 of title 31, United States Code, or any other provision of law, with respect to any payment of a refund under this subsection, a disbursing official in the executive branch of the United States Government may modify payment information received from an officer or employee described in section 3325(a)(1)(B) of such title for the purpose of facilitating the accurate and efficient delivery of such payment. Except in cases of fraud or reckless neglect, no liability under sections 3325, 3527, 3528, or 3529 of title 31, United States Code, shall be imposed with respect to payments made under this subparagraph.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HA2EA75C1DFFB4573B3A96BBBEE8676CB">
+                                <enum>(4)</enum>
+                                <header>No interest</header>
+ <text>No interest shall be allowed on any overpayment attributable to this section.</text>
+                            </paragraph>
+                            <paragraph id="H1BC3846AF6124BCDAC5D302DA01D6A65">
+                                <enum>(5)</enum>
+                                <header>Alternate taxable year</header>
+ <text>In the case of an individual who, at the time of any determination made pursuant to paragraph (3), has not filed a tax return for the year described in paragraph (1), the Secretary may—</text>
+                                <subparagraph id="H692AB2A1D65E4701A446981FC550BB76">
+                                    <enum>(A)</enum>
+ <text>apply such paragraph by substituting <quote>2023</quote> for <quote>2024</quote>, and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" id="HDA02DE8727F04A3A89164B444B5B9BEB">
+                                    <enum>(B)</enum>
+ <text>if the individual has not filed a tax return for such individual’s first taxable year beginning in 2023, use information with respect to such individual for calendar year 2024 provided in—</text>
+                                    <clause commented="no" id="H3CB1E804869A4E099AB86E901E244397">
+                                        <enum>(i)</enum>
+ <text>Form SSA–1099, Social Security Benefit Statement, or</text>
+                                    </clause>
+                                    <clause commented="no" id="H8E2CA924067C40ADB1FF64A548944C06">
+                                        <enum>(ii)</enum>
+ <text>Form RRB–1099, Social Security Equivalent Benefit Statement.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H652D1B571F8B4563935EF23172EB443D">
+                                <enum>(6)</enum>
+                                <header>Notice to taxpayer</header>
+ <text>Not later than 15 days after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, notice shall be sent by mail to such taxpayer's last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HAA962C916E0A4CB58CC477AF4F0784B3">
+                            <enum>(g)</enum>
+                            <header>Identification number requirement</header>
+                            <paragraph id="HB61BB817C46147A49B0AF7504951867C">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>No credit shall be allowed under subsection (a) to an eligible individual who does not include on the return of tax for the taxable year—</text>
+                                <subparagraph id="HA234B4C0C8C54C488DEBB33A3756B1BC">
+                                    <enum>(A)</enum>
+ <text>such individual’s valid identification number,</text> </subparagraph> <subparagraph id="H7F09B838391741F0A74CCCE1D77D4043"> <enum>(B)</enum> <text>in the case of a joint return, the valid identification number of such individual’s spouse, and</text>
+                                </subparagraph>
+                                <subparagraph id="H76A50C80FCFC48A6A7C65B8335B92839">
+                                    <enum>(C)</enum>
+ <text>in the case of any qualifying child taken into account under subsection (a)(2), the valid identification number of such qualifying child.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H74FE62C4F09940F4BD0C42D2CF18EC5E">
+                                <enum>(2)</enum>
+                                <header>Valid identification number</header>
+                                <subparagraph id="HDC37CABF73464300B6C4DC58FF4D3000">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>For purposes of paragraph (1), the term <term>valid identification number</term> means a social security number (as such term is defined in section 24(h)(7)).</text>
+                                </subparagraph>
+                                <subparagraph id="H4ED43B6F52134C1EA890086BBAA4E68D">
+                                    <enum>(B)</enum>
+                                    <header>Adoption taxpayer identification number</header>
+ <text>For purposes of paragraph (1)(C), in the case of a qualifying child who is adopted or placed for adoption, the term <term>valid identification number</term> shall include the adoption taxpayer identification number of such child.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H2811BE7D35DA4AB39B716AA7ECF62AB8">
+                                <enum>(3)</enum>
+                                <header>Special rule for members of the Armed Forces</header>
+ <text>Paragraph (1)(B) shall not apply in the case where at least 1 spouse was a member of the Armed Forces of the United States at any time during the taxable year and at least 1 spouse satisfies paragraph (1)(A).</text>
+                            </paragraph>
+                            <paragraph id="H94ED5A165B9C41EDB46CE9319719513D">
+                                <enum>(4)</enum>
+                                <header>Mathematical or clerical error authority</header>
+ <text>Any omission of a correct valid identification number required under this subsection shall be treated as a mathematical or clerical error for purposes of applying section 6213(g)(2) to such omission.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H3AB439C0E03B42179D4DB867FEDA532D">
+                            <enum>(h)</enum>
+                            <header>Regulations</header>
+ <text>The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid allowing multiple credits or rebates to a taxpayer.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HC9E197A1F80F4246B68243A5FC954101">
+                <enum>(b)</enum>
+                <header>Administrative amendments</header>
+                <paragraph id="H392B1BB4DA8C4B0F8684D266D93E33F4">
+                    <enum>(1)</enum>
+                    <header>Definition of deficiency</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6211">Section 6211(b)(4)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>6428C,</quote> after <quote>6428B,</quote>.</text>
+                </paragraph>
+                <paragraph id="HBE9033E1EF4D41E1A40D437D96CE9546">
+                    <enum>(2)</enum>
+                    <header>Mathematical or clerical error authority</header>
+ <text>Section 6213(g)(2)(L) of such Code is amended by striking <quote>or 6428A</quote> and inserting <quote>6428A, or 6428C</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H170A10172F474205AC3348BFA068410F">
+                <enum>(c)</enum>
+                <header>Treatment of possessions</header>
+                <paragraph id="H6E68B944505E488196DFEAD3A5B14AB7">
+                    <enum>(1)</enum>
+                    <header>Payments to possessions</header>
+                    <subparagraph id="H345C20C95F324E18BDB8203490E08452">
+                        <enum>(A)</enum>
+                        <header>Mirror code possession</header>
+ <text>The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.</text>
+                    </subparagraph>
+                    <subparagraph id="H2CD8200A51F84ECAB9C8B87609A1D606">
+                        <enum>(B)</enum>
+                        <header>Other possessions</header>
+ <text>The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HBC688F81B15C46958657DA0CA6382CE7">
+                    <enum>(2)</enum>
+                    <header>Coordination with credit allowed against united states income
+                        taxes</header>
+ <text>No credit shall be allowed against United States income taxes under <external-xref legal-doc="usc" parsable-cite="usc/26/6428C">section 6428C</external-xref> of the Internal Revenue Code of 1986 (as added by this section) to any person—</text>
+                    <subparagraph id="H757EFDC735A847539EA060FA106AB417">
+                        <enum>(A)</enum>
+ <text>to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or</text>
+                    </subparagraph>
+                    <subparagraph id="H523FB858D05C4EA1B384730ED3FA1F75">
+                        <enum>(B)</enum>
+ <text>who is eligible for a payment under a plan described in paragraph (1)(B).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HB72B6463C20C47B5907CB71242D06A5E">
+                    <enum>(3)</enum>
+                    <header>Definitions and special rules</header>
+                    <subparagraph id="H95CE72AF44AF4805A58F0051B68897CE">
+                        <enum>(A)</enum>
+                        <header>Possession of the united states</header>
+ <text>For purposes of this subsection, the term <term>possession of the United States</term> includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.</text>
+                    </subparagraph>
+                    <subparagraph id="H29834BB245564C569F693A466BEA12F2">
+                        <enum>(B)</enum>
+                        <header>Mirror code tax system</header>
+ <text>For purposes of this subsection, the term <term>mirror code tax system</term> means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.</text>
+                    </subparagraph>
+                    <subparagraph id="HEEEFD0557CF446D294E87A73679A78F2">
+                        <enum>(C)</enum>
+                        <header>Treatment of payments</header>
+ <text>For purposes of section 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H7721427F994C4134B0507478275D8886">
+                <enum>(d)</enum>
+                <header>Exception from reduction or offset</header>
+ <text>Any credit or refund allowed or made to any individual by reason of <external-xref legal-doc="usc" parsable-cite="usc/26/6428C">section 6428C</external-xref> of the Internal Revenue Code of 1986 (as added by this section) or by reason of subsection (c) of this section shall not be—</text>
+                <paragraph id="H1F7476F1AF3E40AE93C4156E42159328">
+                    <enum>(1)</enum>
+ <text>subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code,</text>
+                </paragraph>
+                <paragraph id="H4C0DE646554A469797830B615C7E86A6">
+                    <enum>(2)</enum>
+ <text>subject to reduction or offset pursuant to subsection (d), (e), or (f) of <external-xref legal-doc="usc" parsable-cite="usc/26/6402">section 6402</external-xref> of the Internal Revenue Code of 1986, or</text>
+                </paragraph>
+                <paragraph id="H7D41C090A69641BEAD4D5D81E5463609">
+                    <enum>(3)</enum>
+ <text>reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="HC13537F4B3C74E39A88DDC4566A1A27F">
+                <enum>(e)</enum>
+                <header>Public awareness campaign</header>
+ <text>The Secretary of the Treasury (or the Secretary's delegate) shall conduct a public awareness campaign, in coordination with the Commissioner of Social Security and the heads of other relevant Federal agencies, to provide information regarding the availability of the credit and rebate allowed under <external-xref legal-doc="usc" parsable-cite="usc/26/6428C">section 6428C</external-xref> of the Internal Revenue Code of 1986 (as added by this section), including information with respect to individuals who may not have filed a tax return for taxable year 2023 or 2024.</text>
+            </subsection>
+            <subsection id="H22CFB32DBDB047BF9EBA41AD34C9564F">
+                <enum>(f)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H928E230FA4F549AD9479E393B37C18B6">
+                    <enum>(1)</enum>
+ <text>Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting <quote>6428C,</quote> after <quote>6428B,</quote>.</text>
+                </paragraph>
+                <paragraph id="HB29C08A7710A43F8ABB911C1DBD9B432">
+                    <enum>(2)</enum>
+ <text>The table of sections for subchapter B of chapter 65 of subtitle F of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 6428B the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id57B57E39579041479295F35790B55E01">
+                        <toc>
+                            <toc-entry bold="off" level="section">Sec. 6428C. Tariff rebates for
+                                individuals.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25C15-22N-NF-6D0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2177 IS: No Adversarial AI Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2177</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250625" legis-day="20250624">June 25 (legislative day, June 24),
+                2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> (for himself and
+                    <cosponsor name-id="S380">Mr. Peters</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To protect the United States Government from foreign adversary AI and for
+            other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Adversarial AI Act</short-title></quote>.</text>
+        </section>
+        <section id="idef6c03e0d967497387ca7dad7f54172b">
+            <enum>2.</enum>
+            <header>Determination of foreign adversary AI</header>
+            <subsection id="id57434b1a40544243a1fbdcc4cec9a04d">
+                <enum>(a)</enum>
+                <header>Development of list</header>
+ <text>Not later than 60 days after the date of the enactment of this Act, the Federal Acquisition Security Council shall develop a list containing any artificial intelligence that is produced or developed by a foreign adversary.</text>
+            </subsection>
+            <subsection id="idc6d28fed64bf4c72bcc8e2034fda4f71">
+                <enum>(b)</enum>
+                <header>Publication of list</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in coordination with the Federal Acquisition Security Council, shall publish on a publicly available website the list developed pursuant to subsection (a).</text>
+            </subsection>
+            <subsection id="id969a692069f04442af8d5dd06893a110">
+                <enum>(c)</enum>
+                <header>Updates to list</header>
+                <paragraph id="id63be3d7229fa42748495236151fd0672">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Federal Acquisition Security Council shall update the list developed pursuant to subsection (a) not less than every 180 days.</text>
+                </paragraph>
+                <paragraph id="idaad1776ec35e474993ef4f3a7805e27b">
+                    <enum>(2)</enum>
+                    <header>Removal from list</header>
+ <text>The Federal Acquisition Security Council may remove artificial intelligence from the list pursuant to subsection (a) if—</text>
+                    <subparagraph id="idb0f9fda214d24ebfbc328dbe047b7cd9">
+                        <enum>(A)</enum>
+ <text>the person that owns such artificial intelligence submits to the Federal Acquisition Security Council a certification that the product or service is not produced or developed by a foreign adversary, including information in support of such certification; and</text>
+                    </subparagraph>
+                    <subparagraph id="id3d2349fdd9d446bab9fd36a36ed8f1a9">
+                        <enum>(B)</enum>
+ <text>the Federal Acquisition Security Council—</text> <clause id="id6bcfd2b80f9748849219b01ca8c2ffa7"> <enum>(i)</enum> <text>reviews such certification and information; and</text>
+                        </clause>
+                        <clause id="id5a7ce58f8e8d4edda1a10d3411609119">
+                            <enum>(ii)</enum>
+ <text>certifies that the artificial intelligence is not produced or developed by a foreign adversary.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idcd2631631ee34af3bc359e3a5a7a16f8">
+            <enum>3.</enum>
+            <header>Prohibition on acquiring and use of foreign adversary AI</header>
+            <subsection id="id22f3d324ebce4ee4ad6d5c778a89138d">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 90 days after the date of the enactment of this Act, the head of an executive agency, in coordination with the Federal Acquisition Security Council, shall review and consider for exclusion and removal of artificial intelligence provided by a covered foreign adversary entity included on the list developed pursuant to section 2(a), barring an approved exception through the process described in subsection (c).</text>
+            </subsection>
+            <subsection id="idc3e8e3e9d8554eeba4aeec09986a7114">
+                <enum>(b)</enum>
+                <header>Authorities relating to mitigating risks in the acquisition and use of
+                    foreign adversary AI</header>
+ <text>The head of an executive agency shall, at a minimum, use the authorities in section 4713 of title 41, United States Code, to consider for exclusion and removal artificial intelligence provided by a covered foreign adversary entity included on the list developed pursuant to section 2(a).</text>
+            </subsection>
+            <subsection id="id2438c1a49ede4f9e9464296492d7bcef">
+                <enum>(c)</enum>
+                <header>Exceptions and notice</header>
+ <text>Upon written notice to the Director of the Office of Management and Budget and the appropriate committees of Congress, the head of an executive agency may approve an exception to the determinations under subsection (a) if the head of the agency determines that acquiring, obtaining, or using the artificial intelligence is necessary—</text>
+                <paragraph id="id1f3df4ba00874351a24431ac15282cac">
+                    <enum>(1)</enum>
+ <text>for the purpose of scientifically valid research (as defined in section 102 of the Education Sciences Reform Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/20/9501">20 U.S.C. 9501</external-xref>));</text>
+                </paragraph>
+                <paragraph id="iddf659489647e4354802ba7606f3567bc">
+                    <enum>(2)</enum>
+ <text>for the purpose of evaluation, training, testing, or analysis;</text> </paragraph> <paragraph id="id9969ebf9f2d44f9ca08d62639c651a05"> <enum>(3)</enum> <text>for the purpose of conducting counterterrorism or counterintelligence activities; or</text>
+                </paragraph>
+                <paragraph id="id61092edf12ed40a5b6107e1a5c81c84e">
+                    <enum>(4)</enum>
+ <text>to avoid jeopardizing the performance of mission critical functions.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id408f03a4b1404a72b1caa3cbd378c430">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id26018cf0a3fb495790203af08ab11524"> <enum>(1)</enum> <header>Appropriate committees of Congress</header> <text>The term <term>appropriate committees of Congress</term> means the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.</text>
+                </paragraph>
+                <paragraph id="id66dff585b2104a888f741933916097d6">
+                    <enum>(2)</enum>
+                    <header>Artificial intelligence</header>
+ <text>The term <term>artificial intelligence</term> has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/15/940">15 U.S.C. 940</external-xref>) and includes the artificial intelligence systems and techniques described in paragraphs (1) through (5) of section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (<external-xref legal-doc="public-law" parsable-cite="pl/115/232">Public Law 115–232</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/4061">10 U.S.C. 4061</external-xref> note prec.).</text>
+                </paragraph>
+                <paragraph id="ida8feee6ad79f438e8c62ebd2f2d82e24">
+                    <enum>(3)</enum>
+                    <header>Executive agency</header>
+ <text>The term <term>executive agency</term> has the meaning given the term <term>Executive agency</term> in section 105 of title 5, United States Code.</text>
+                </paragraph>
+                <paragraph id="id62ea8dd624e848328de49ed7d0f37d4c">
+                    <enum>(4)</enum>
+                    <header>Foreign adversary</header>
+ <text>The term <term>foreign adversary</term> has the meaning given the term <term>covered nation</term> in section 4872(f)(2) of title 10, United States Code.</text>
+                </paragraph>
+                <paragraph id="ideda9d43c75ea480e9b19e9676e06988c">
+                    <enum>(5)</enum>
+                    <header>Foreign adversary entity</header>
+ <text>The term <term>foreign adversary entity</term> means—</text> <subparagraph id="id9e2ee783b0cb40d68816d58bb8de2ec5"> <enum>(A)</enum> <text>a foreign adversary;</text>
+                    </subparagraph>
+                    <subparagraph id="id51e5668a367d42c7b0f660fc3ae7b541">
+                        <enum>(B)</enum>
+ <text>a foreign person that is domiciled in, is headquartered in, has its principal place of business in, or is organized under the laws of a foreign adversary country;</text>
+                    </subparagraph>
+                    <subparagraph id="id7f1f78523521460f8daedd132b8e15da">
+                        <enum>(C)</enum>
+ <text>an entity with respect to which a foreign person or combination of foreign persons described in subparagraph (A) or (B) directly or indirectly owns at least a 20 percent stake; or</text>
+                    </subparagraph>
+                    <subparagraph id="idfea5918c4cc548f8831e67fb9bb4cc54">
+                        <enum>(D)</enum>
+ <text>a person subject to the direction or control of a foreign person or entity described in subparagraph (A), (B), or (C).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

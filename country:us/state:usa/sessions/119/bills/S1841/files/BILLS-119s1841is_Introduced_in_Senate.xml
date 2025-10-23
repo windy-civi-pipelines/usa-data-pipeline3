@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25210-V92-44-HCK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1841 IS: Fuel Choice and Deregulation Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1841</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250521">May 21, 2025</action-date>
+            <action-desc><sponsor name-id="S348">Mr. Paul</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide regulatory relief to alternative fuel producers and consumers,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fuel Choice and Deregulation Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id88145FF1A8F041038C8D08E4D2F9B071">
+            <enum>2.</enum>
+            <header>Alternative fuels</header>
+            <subsection id="idBFFA5F72C63C458D97FD426BE7F53ECB">
+                <enum>(a)</enum>
+                <header>Aftermarket conversions of motor vehicles to alternative fuel</header>
+ <text display-inline="yes-display-inline">Section 203 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7522">42 U.S.C. 7522</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id2F60590E51EE423D93E173384021C15B">
+                    <subsection commented="no" display-inline="no-display-inline" id="ID22f71ec7950f4ec49c0352e35fa9aa9f">
+                        <enum>(c)</enum>
+                        <header display-inline="yes-display-inline">Older vehicles</header>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id2E0A5FDE131C469DB141837487350DDE">
+                            <enum>(1)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">The aftermarket conversion of a motor vehicle to alternative fuel operation shall not—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id3F8088F192384473A1A6CA45BC86CAD4">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">be considered tampering under this section if the aftermarket conversion system manufacturer or the person performing the conversion demonstrates that the development and engineering sophistication of the conversion technology is—</text>
+                                <clause commented="no" display-inline="no-display-inline" id="idD2EE6C2A6B38446782B83AC70E488560">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">matched to an appropriate motor vehicle or group of motor vehicles; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id411506F4F2F54BD985A7DF13AC489AEA">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">well-designed and installed in accordance with good engineering judgment so that the aftermarket conversion system does not degrade emission performance, as compared to the performance of the motor vehicle or motor vehicles before the conversion; or</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id6AFE7361BA5F4423A7D6E8BEBBE12301">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">require the Administrator to issue a certificate of conformity.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id6F743C7949A14BC293E9EBA2710B467D">
+                            <enum>(2)</enum>
+                            <header display-inline="yes-display-inline">Label</header>
+ <text display-inline="yes-display-inline">The person performing a conversion described in paragraph (1) shall affix a label to the motor vehicle stating that—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idC200DB9A707945AEA1E6920099413CCC">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the motor vehicle has been equipped with an aftermarket conversion system; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idDB1AA76731DF4AA3B286E582E8C6C9C0">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the installation of that system occurred after the initial sale of the motor vehicle.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id4206F26DBEC7460C98B55AE9A8AA3341">
+                            <enum>(3)</enum>
+                            <header display-inline="yes-display-inline">No preclusion of
+                                orders</header>
+ <text display-inline="yes-display-inline">Nothing in this subsection precludes the Administrator from issuing an order to prohibit the manufacture, sale, distribution, or installation of an aftermarket conversion system if the Administrator has evidence that the installation of the aftermarket conversion system on a motor vehicle degrades emission performance.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idC6B61271809D4D55BCB156F80C210941">
+                <enum>(b)</enum>
+                <header>Biomass fuels</header>
+ <text display-inline="yes-display-inline">Section 211 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id164295E715914955B193D1BAE658EFE0">
+                    <subsection id="id1EC001B86E5240AF9F58065342689CC8">
+                        <enum>(w)</enum>
+                        <header>Biomass fuels</header>
+ <text>Notwithstanding any other provision of this Act, the Administrator may not prohibit or control biomass fuel (as defined in section 203 of the Biomass Energy and Alcohol Fuels Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/8802">42 U.S.C. 8802</external-xref>)) under this Act.</text>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="ide3b35ff9a5164dc5a9d5288ac95ac39f">
+            <enum>3.</enum>
+            <header>Calculation of average fuel economy</header>
+            <subsection id="ida90dfbfad5754feeae51a511aaf67aae">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>Section 32901(a) of title 49, United States Code, is amended—</text> <paragraph id="idEA73D5BC07984E20B2A663DABB9B5956"> <enum>(1)</enum> <text>by redesignating paragraphs (7) through (19) as paragraphs (8), (9), (10), (13), (16), (17), (19), (20), (21), (22), (23), (24), and (26), respectively;</text>
+                </paragraph>
+                <paragraph id="id434DFC4554974DA5B0BF83A21991AFFA">
+                    <enum>(2)</enum>
+ <text>by inserting after paragraph (6) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id788A632535C346458B59D2DFFCCD9A58"> <paragraph id="id6d2a780b76014390aa7ed84686aa1821"> <enum>(7)</enum> <text><term>biodiesel</term>—</text>
+                            <subparagraph id="id5A707DD9FD4D4B16ADE6E61B2428C87F">
+                                <enum>(A)</enum>
+ <text>means liquid fuel derived from biomass that meets—</text> <clause id="id555c4255755f4e0fa7c8f72167aeb402"> <enum>(i)</enum> <text>the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545</external-xref>); and</text>
+                                </clause>
+                                <clause id="id16F1CA6153194CCC8B7BFDE24D74C903">
+                                    <enum>(ii)</enum>
+ <text>the requirements of the American Society of Testing Materials Standard D6751; and</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="id361CB94D67604D8CBDAE66118EF771AB">
+                                <enum>(B)</enum>
+ <text>does not include any liquid with respect to which a credit may be determined under <external-xref legal-doc="usc" parsable-cite="usc/26/40">section 40</external-xref> of the Internal Revenue Code of 1986.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="idE73BF25C002348458F129EE93B50281D">
+                    <enum>(3)</enum>
+ <text>by inserting after paragraph (10) (as so redesignated) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id7C0789FEDE0F4F71949E4779F016FEAC">
+                        <paragraph id="id226396cbdf634b65ac7e74db459d2cee">
+                            <enum>(11)</enum>
+ <text><term>E85</term> means a fuel mixture that—</text> <subparagraph id="id18CA4A6F50394E88AFB67400736634C6"> <enum>(A)</enum> <text>contains between 51 and 83 percent ethanol; and</text>
+                            </subparagraph>
+                            <subparagraph id="id21C312113580473487189D14D6ED8009">
+                                <enum>(B)</enum>
+ <text>meets the specifications of the American Society of Testing Materials Standard D5798.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idd31c897543a2499196c4bddf75537add">
+                            <enum>(12)</enum>
+ <text><term>flexible fuel vehicle</term> means a vehicle that has been warranted to operate on gasoline, E85, and M85.</text>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id7C637EAA2C5F449AAD25C54A4710D158">
+                    <enum>(4)</enum>
+ <text>by inserting after paragraph (13) (as so redesignated) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idF2C29A68CEC64DCC97ADB954CA7B4649">
+                        <paragraph id="id78a7cefe964a4ca19416dac481b51394">
+                            <enum>(14)</enum>
+ <text><term>fuel choice enabling manufacturer</term> means a manufacturer whose total fleet of automobiles manufactured for the most recent model year for sale in the United States contains not less than 50 percent fuel choice enabling vehicles.</text>
+                        </paragraph>
+                        <paragraph id="idc6465622205542c4b618a5c560faca97">
+                            <enum>(15)</enum>
+ <text><term>fuel choice enabling vehicle</term> means an automobile that—</text>
+                            <subparagraph id="id4b1bc91afe1447fbbb40c7741e82c518">
+                                <enum>(A)</enum>
+ <text>has been warranted to operate on natural gas, hydrogen, propane, or at least 20 percent biodiesel;</text>
+                            </subparagraph>
+                            <subparagraph id="id357e9a12d06642e2bbea9fd037c578d7">
+                                <enum>(B)</enum>
+ <text>is a flexible fuel vehicle;</text> </subparagraph> <subparagraph id="idef7fc4f587ba4a20b2f80f6a874ec82b"> <enum>(C)</enum> <text>is a plug-in electric drive vehicle;</text>
+                            </subparagraph>
+                            <subparagraph id="id954760e5f888467e965af8e2a80a8ea0">
+                                <enum>(D)</enum>
+ <text>is propelled by a fuel cell that can produce power without the use of petroleum or a petroleum-based fuel; or</text>
+                            </subparagraph>
+                            <subparagraph id="id7392423a9343460eacd0ba596d849ea8">
+                                <enum>(E)</enum>
+                                <clause commented="no" display-inline="yes-display-inline" id="idD522EFBC4D4D4226BB327AE86A9A6177">
+                                    <enum>(i)</enum>
+ <text>is propelled by something other than an internal combustion engine; and</text>
+                                </clause>
+                                <clause id="idBE8A05FB0B4C4D90A37AFAF8FF96ED0D" indent="up1">
+                                    <enum>(ii)</enum>
+ <text>is warranted to operate on something other than petroleum-based fuel.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id446785F9990042F7B1D43D7D41966D23">
+                    <enum>(5)</enum>
+ <text>by inserting after paragraph (17) (as so redesignated) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idB7CB291594984D4AB377CFD5819224BD">
+                        <paragraph id="id26d0b07312b347859506fdaa25b4140b">
+                            <enum>(18)</enum>
+ <text><term>M85</term> means a fuel mixture that—</text> <subparagraph id="idEC194D47F4C84FB883D8713C15CC056F"> <enum>(A)</enum> <text>contains up to 85 percent methanol; and</text>
+                            </subparagraph>
+                            <subparagraph id="id2EE5F2B8EB0A4EB98B7505D1BD171D0D">
+                                <enum>(B)</enum>
+ <text>meets the specifications of the American Society of Testing Materials International Standard D5797.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="idEF10B117CE2D4AC99FF8F4FBB8463F42">
+                    <enum>(6)</enum>
+ <text>by inserting after paragraph (24) (as so redesignated) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idE3346D01C2C5452EB2CB72AFEAE1D8E8">
+                        <paragraph commented="no" display-inline="no-display-inline" id="idCD7370BE496D495F92C038D3C9C5E7EC">
+                            <enum>(25)</enum>
+ <text display-inline="yes-display-inline"><term>plug-in electric drive vehicle</term> has the meaning given the term in section 508(a) of the Energy Policy Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/42/13258">42 U.S.C. 13258(a)</external-xref>).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id7B534CD56D8540CF8BB51908EB534E2E">
+                <enum>(b)</enum>
+                <header>Fuel choice enabling manufacturers</header>
+                <paragraph id="id701CBEC19B3C49D49B5D58C30EEB776A">
+                    <enum>(1)</enum>
+                    <header>Compliance with the Clean Air Act</header>
+ <text>Section 32902 of title 49, United States Code, is amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idD772A1B282B24F298F938B65F21DF78B">
+                        <subsection id="id38A335267B0243478F476029B6D7CB8A">
+                            <enum>(l)</enum>
+                            <header>Deemed compliance with the Clean Air Act</header>
+ <text>If a fuel choice enabling manufacturer is in compliance with all applicable standards prescribed under this section for model year 2020 or any subsequent model year, the automobiles manufactured by that manufacturer in that model year are deemed to be in compliance with all applicable greenhouse gas regulations established by the Environmental Protection Agency pursuant to section 202 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7521">42 U.S.C. 7521</external-xref>).</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id3B9462628F4147CAB13C3C4392BDBBD4">
+                    <enum>(2)</enum>
+                    <header>Credits for exceeding standards</header>
+ <text>Section 32903(a) of title 49, United States Code, is amended by striking paragraph (2) and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idBE5D1D69AB7E4B1B9FE2B3560C00F901">
+                        <paragraph id="idA536AE165F954B75BA8555D7EC183403">
+                            <enum>(2)</enum>
+ <text>any of the 5 consecutive model years immediately after the model year for which the credits are earned, to the extent that those credits are not used under paragraph (1).</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id00965B50DB714A209B97088BE834D57C">
+                    <enum>(3)</enum>
+                    <header>Average fuel economy bonus for fuel choice enabling
+                        manufacturers</header>
+ <text>Section 32904 of title 49, United States Code, is amended—</text> <subparagraph id="idA55813ECB5C64A059ED4E370BE0D82CD"> <enum>(A)</enum> <text>by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2EF33D61F4774B528EF6A25AEF6BC21D">
+                        <enum>(B)</enum>
+ <text>by inserting after subsection (c) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id9FB463FA66644946A061015AAFA147FA"> <subsection id="id0c471263c15f4dfc8f8877dfa27b55ce"> <enum>(d)</enum> <header>Average fuel economy bonus for fuel choice enabling manufacturers</header> <text>The average fuel economy of a fuel choice enabling manufacturer for a model year is the sum of—</text>
+                                <paragraph id="id90d04fbcfa1447d6ba4cd99ce9dc1709">
+                                    <enum>(1)</enum>
+ <text>the average fuel economy of the fuel choice enabling manufacturer for that model year, as otherwise calculated under this section; and</text>
+                                </paragraph>
+                                <paragraph id="id0dabe28cf80b4849995e84c63ec17f75">
+                                    <enum>(2)</enum>
+ <text>8 miles per gallon.</text> </paragraph> </subsection> <after-quoted-block>.</after-quoted-block> </quoted-block> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="idaf1da521324a407fa5fdff583ead3ac4"> <enum>(c)</enum> <header>Effective date</header> <text>The amendments made by this section shall apply with respect to automobiles manufactured for model year 2026 or for any subsequent model year.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idDE5C02D66F7947EC95D35ED2CDCFE86E">
+            <enum>4.</enum>
+            <header>Ethanol waiver</header>
+ <text display-inline="no-display-inline">Section 211(h)(4) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545(h)(4)</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id451EDB360E61414CAD902E550789B086">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding subparagraph (A), by inserting <quote>or more of</quote> after <quote>10 percent</quote>; and</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id890DA5F968AD4808A6D8ED087E1F5F57">
+                <enum>(2)</enum>
+ <text>in subparagraph (C), by striking <quote>additional alcohol or</quote>.</text> </paragraph> </section> </legis-body> </bill>
+

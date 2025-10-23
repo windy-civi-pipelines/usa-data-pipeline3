@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MDM25A46-M13-87-M1G">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1908 IS: Border Drone Threat Assessment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1908</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250522">May 22, 2025</action-date>
+            <action-desc><sponsor name-id="S378">Mr. Lankford</sponsor> (for himself and <cosponsor name-id="S406">Mr. Kelly</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAS00">Committee on
+                    Armed Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Under Secretary of Defense for Intelligence and Security to
+            complete a threat assessment regarding unmanned aircraft systems at or near the
+            international borders of the United States, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section commented="no" display-inline="no-display-inline" id="ide8c1abfb22a949a198fa2ee34b54421d" section-type="section-one">
+            <enum>1.</enum>
+            <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="no-display-inline">This section may be cited as the <quote><short-title>Border Drone Threat Assessment Act</short-title>.</quote></text>
+        </section>
+        <section id="id07F6493DED8440CA92050D85D0BC9156">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="idBCD757234C7C4672ABACDBC1118247D0"> <enum>(1)</enum> <header>Administrator</header> <text>The term <term>Administrator</term> means the Administrator of the Federal Aviation Administration.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id703501c6873a4d8da8729eaabcc0113f">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">Appropriate congressional
+                    committees</header>
+ <text>The term <term>appropriate congressional committees</term> means—</text> <subparagraph id="idc767e97939d544578671c44dd4e93e00"> <enum>(A)</enum> <text>the <committee-name committee-id="SLIN00">Select Committee on Intelligence of the Senate</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id782107A4C3F041B1AD80ECD39DEE5B8F">
+                    <enum>(B)</enum>
+ <text>the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id9566A2A186DA4D94958564A4B5BF9EFC">
+                    <enum>(C)</enum>
+ <text>the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation of the Senate</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id28A1413FB3174259885F7165214C2095">
+                    <enum>(D)</enum>
+ <text>the <committee-name committee-id="SSJU00">Committee on the Judiciary of the Senate</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id6E808B0488594A1181D186683AD0CF69">
+                    <enum>(E)</enum>
+ <text>the <committee-name committee-id="SSAS00">Committee on Armed Services of the Senate</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id4FDADF6A0EF54C759FA814F8D96402B7">
+                    <enum>(F)</enum>
+ <text>the <committee-name committee-id="SSFR00">Committee on Foreign Relations of the Senate</committee-name><committee-name committee-id="SSAP00"/>;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id83efdc279ebf43fdbde8e261555792ed">
+                    <enum>(G)</enum>
+ <text>the <committee-name committee-id="">Permanent Select Committee on Intelligence of the House of Representatives</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="idC3C7FF74E62949B18CD0DEA2AED62A8D">
+                    <enum>(H)</enum>
+ <text>the <committee-name committee-id="">Committee on Homeland Security of the House of Representatives</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id4759767256A841B99C3E186953E98766">
+                    <enum>(I)</enum>
+ <text>the <committee-name committee-id="">Committee on the Judiciary of the House of Representatives</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="id925C941F72F949FF9DEE6ED607BD50A2">
+                    <enum>(J)</enum>
+ <text>the <committee-name committee-id="">Committee on Transportation and Infrastructure of the House of Representatives</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="idBC54EB32E0CC4852816B48686B22F2A3">
+                    <enum>(K)</enum>
+ <text>the <committee-name committee-id="">Committee on Energy and Commerce of the House of Representatives</committee-name>;</text>
+                </subparagraph>
+                <subparagraph id="idBDD8F3D01FA740DA8707B44D44EE89B0">
+                    <enum>(L)</enum>
+ <text>the <committee-name committee-id="">Committee on Armed Services of the House of Representatives</committee-name>; and</text>
+                </subparagraph>
+                <subparagraph id="id6D481155CC0F47FAA2BD8FFE476E73F5">
+                    <enum>(M)</enum>
+ <text>the <committee-name committee-id="">Committee on Foreign Affairs of the House of Representatives</committee-name>.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id94234f96e0034ad3affd8ee4470c7f9a">
+                <enum>(3)</enum>
+                <header>At or near the international borders of the united states</header>
+ <text display-inline="yes-display-inline">The term <term>at or near the international borders of the United States</term> means at or within 100 air miles of an international land border or coastal border of the United States.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id2ca9c3fb8c484d6e91d72feae5222f53">
+                <enum>(4)</enum>
+                <header>Commander</header>
+ <text>The term <term>Commander</term> means the Commander of the United States Northern Command (USNORTHCOM).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id6e4206c132124697a510b8284d8addf7">
+                <enum>(5)</enum>
+                <header>Director</header>
+ <text>The term <term>Director</term> means the Director of National Intelligence.</text>
+            </paragraph>
+            <paragraph id="id795acd4b3d6444dab3e99af9ea63b554">
+                <enum>(6)</enum>
+                <header>Foreign malign influence</header>
+ <text>The term <term>foreign malign influence</term> has the meaning given such term in section 119B(f) of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3059">50 U.S.C. 3059(f)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="idac2d09e231d84cb4adf172a42e69222b">
+                <enum>(7)</enum>
+                <header>Intelligence community</header>
+ <text>The term <term>intelligence community</term> has the meaning given such term in section 3 of the National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">50 U.S.C. 3003</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idd881e45cec294a519dee0b42c0b3a394">
+                <enum>(8)</enum>
+                <header display-inline="yes-display-inline">Malign actor</header>
+ <text>The term <term>malign actor</term> means any individual, group, or organization that is engaged in foreign malign influence, illicit drug trafficking, or other forms of transnational organized crime.</text>
+            </paragraph>
+            <paragraph id="id05a6d588a2bd4d0fade1965999a75ed8">
+                <enum>(9)</enum>
+                <header>Transnational organized crime</header>
+ <text>The term <term>transnational organized crime</term> has the meaning given such term in section 284(i) of title 10, United States Code.</text>
+            </paragraph>
+            <paragraph id="id58601ee70ece4a35b379b8628015ae2c">
+                <enum>(10)</enum>
+                <header>Under secretary</header>
+ <text>The term <term>Under Secretary</term> means the Under Secretary for Intelligence and Analysis of the Department of Homeland Security.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id4b10d48a6b67407e9856c343119c45a8">
+                <enum>(11)</enum>
+                <header>Under secretary of defense</header>
+ <text>The term <term>Under Secretary of Defense</term> means the Under Secretary of Defense for Intelligence and Security.</text>
+            </paragraph>
+            <paragraph id="id622f427db06440a6949798fb87b8d469">
+                <enum>(12)</enum>
+                <header>Unmanned aircraft; unmanned aircraft system</header>
+ <text>The terms <term>unmanned aircraft</term> and <term>unmanned aircraft system</term> have the meanings given such terms in section 44801 of title 49, United States Code.</text>
+            </paragraph>
+        </section>
+        <section id="id784C771324F54C3F86419D9BBC181567">
+            <enum>3.</enum>
+            <header>Threat assessment</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idbbc3e7c1925e49109aaaeee2fe710212">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Under Secretary of Defense, in consultation with the Commander, the Director, the Under Secretary, the Administrator, and the heads of the other elements of the intelligence community, shall complete an assessment of the threat regarding unmanned aircraft systems at or near the international borders of the United States.</text>
+            </subsection>
+            <subsection id="id81714F6802BB474CB7218DD056B55793">
+                <enum>(b)</enum>
+                <header>Elements</header>
+ <text display-inline="yes-display-inline">The threat assessment required under subsection (a) shall include—</text>
+                <paragraph id="id3e1c461af9bf44318e8df3ac07247364">
+                    <enum>(1)</enum>
+ <text>a description of the malign actors operating unmanned aircraft systems at or near the international borders of the United States, including malign actors who cross such borders;</text>
+                </paragraph>
+                <paragraph id="id1c4cd69d307b43dc99b4e35d21c2c214">
+                    <enum>(2)</enum>
+ <text>a description of how a threat is identified and assessed at or near the international borders of the United States, including a description of the capabilities of the United States Government to detect and identify unmanned aircraft systems operated by, or on behalf of, malign actors;</text>
+                </paragraph>
+                <paragraph id="id407c7a180cc04a439e2f2de14ddea2c7">
+                    <enum>(3)</enum>
+ <text>a description of the data and information collected by operators of unmanned aircraft systems at or near the international borders of the United States, including how such data is used by malign actors;</text>
+                </paragraph>
+                <paragraph id="ided98d1ff46ca431eab0c7c4fdd959593">
+                    <enum>(4)</enum>
+ <text>a description of the tactics, techniques, and procedures used at or near the international borders of the United States by malign actors with regards to unmanned aircraft systems, including how unmanned aircraft systems are acquired, modified, and utilized to conduct malicious activities, including attacks, surveillance, conveyance of contraband, and other forms of threats;</text>
+                </paragraph>
+                <paragraph id="idcc7895df83604021b3d8de12251ad6d4">
+                    <enum>(5)</enum>
+ <text>a description of the guidance, policies, and procedures that address the privacy, civil rights, and civil liberties of persons who lawfully operate unmanned aircraft systems at or near the international borders of the United States;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide60a2a3880fe440b998a25e083a179d1">
+                    <enum>(6)</enum>
+ <text>a description of the capabilities of the United States Government to counter, contain, trace, defeat, or otherwise mitigate threats from unmanned aircraft systems operated by malign actors at or near the international borders of the United States;</text>
+                </paragraph>
+                <paragraph id="id2e79db046ac646e8905c7b46063aaf0a">
+                    <enum>(7)</enum>
+ <text>an assessment of whether the capabilities of the United States Government are sufficient for achieving complete air domain awareness at or near the international borders of the United States; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idead33358d82142be9b7ffb0a1d74449b">
+                    <enum>(8)</enum>
+ <text>an assessment of the adequacy of current authorities of the United States Government to counter the use of unmanned aircraft systems by malign actors at or near the international borders of the United States, including an accounting of the delineated responsibilities of Federal agencies to counter, contain, trace, or defeat unmanned aircraft systems at or near the international borders of the United States.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id978044c9e0f74c46be8b73e8cd2cc20a">
+            <enum>4.</enum>
+            <header>Report and briefing</header>
+            <subsection id="ida432cc9218ac4ad78fe70da1a58b9d3b">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than 180 days after completing the threat assessment required under section 2, the Under Secretary of Defense, in coordination with the Commander, the Director, the Under Secretary, and the Administrator, shall submit a report to the appropriate congressional committees containing findings with respect to such assessment.</text>
+            </subsection>
+            <subsection id="id7637a2223b30497c92cc4adf4c478d90">
+                <enum>(b)</enum>
+                <header>Elements</header>
+ <text>The report required under subsection (a) shall include—</text> <paragraph id="id41399784269c44c0bb398cd9c5c3da03"> <enum>(1)</enum> <text>a detailed description of the threats posed to the national security of the United States by unmanned aircraft systems operated by malign actors at or near the international borders of the United States;</text>
+                </paragraph>
+                <paragraph id="idf712a26a81d440ac85e2d4ab5e8040b9">
+                    <enum>(2)</enum>
+ <text>a summary of the current responsibilities, authorities, regulations, policies, and procedures of the United States Government for achieving air domain awareness at and near the international borders of the United States and countering and defeating unmanned aircraft systems used by malign actors along such borders; and</text>
+                </paragraph>
+                <paragraph id="id2d24133789844ba991f503a6cf514952">
+                    <enum>(3)</enum>
+ <text>an assessment of whether a change in authorities or additional authorities or resources are necessary to achieve complete air domain awareness at or near international borders of the United States and to counter and defeat unmanned aircraft systems used by malign actors along such borders.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id5c0d2fadfad84c0d85bee82952f8c3d5">
+                <enum>(c)</enum>
+                <header>Form</header>
+ <text>The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex, as appropriate.</text>
+            </subsection>
+            <subsection id="id1cc9bff9c06541d091e7ed4642b59cad">
+                <enum>(d)</enum>
+                <header>Briefing</header>
+ <text>Not later than 90 days after the submission of the report required under subsection (a), the Under Secretary of Defense shall provide a briefing regarding the report to the appropriate congressional committees.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

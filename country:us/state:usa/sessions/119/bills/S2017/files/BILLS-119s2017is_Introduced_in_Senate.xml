@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25644-NWX-M3-7C1">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2017 IS: S Corporation Modernization Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2017</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250610">June 10, 2025</action-date>
+            <action-desc><sponsor name-id="S435">Mr. Sheehy</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to provide for S corporation
+            reform, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H1BFFC171346D4E8D84187B29441B6AA5">
+        <section section-type="section-one" id="H61AAF9AD67004BC98FE35003D9D7C1C0">
+            <enum>1.</enum>
+            <header>Short title; reference</header>
+            <subsection id="H4DC61A880B1640B5A6DCDEA1CC6D6C8E">
+                <enum>(a)</enum>
+                <header>Short Title</header>
+ <text>This Act may be cited as the <quote><short-title>S Corporation Modernization Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection id="HB1EFC4A043C14F96B22A4FDB32EE9627">
+                <enum>(b)</enum>
+                <header>Amendment of 1986 Code</header>
+ <text>Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.</text>
+            </subsection>
+        </section>
+        <section section-type="subsequent-section" id="H052DA405317C449F96624C0CA712772C">
+            <enum>2.</enum>
+            <header>Treatment of S corporation built-in gain amount upon death of
+                shareholder</header>
+            <subsection id="HB74A6123ED644B198146365B6AF0E11C">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Part II of subchapter S of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H50CE8DD116124BD895DF656FF7010909">
+                    <section id="H6064438EC7D147FC8B5A0FF38182FCAE">
+                        <enum>1369.</enum>
+                        <header>Treatment of S corporation built-in gain amount upon death of
+                            shareholder</header>
+                        <subsection id="HFE82F7AB728F454BB5E9E22F31655446">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text>A person holding stock in an electing S corporation the basis of which is determined under section 1014(a) (hereafter in this section referred to as the <quote>shareholder</quote>) shall be allowed a deduction with respect to the amortizable S corporation built-in gain amount. Except as provided under subsection (b), the amount of such deduction for any taxable year shall be determined by amortizing the amortizable S corporation built-in gain amount over the 15-year period beginning with the month which includes the applicable valuation date.</text>
+                        </subsection>
+                        <subsection id="HB0FBF3F678174237965D2A01E8508579">
+                            <enum>(b)</enum>
+                            <header>Deduction in case of disposition of S corporation
+                                property</header>
+                            <paragraph id="HB04E4B1B9AAE4E02886F5E1D5642E3D6">
+                                <enum>(1)</enum>
+                                <header>Accelerated deduction in case of disposition of amortizable
+                                    S corporation built-in gain property</header>
+                                <subparagraph id="HB8DD6674516A4CF59998FFE733A5385E">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>If there is a disposition of any amortizable S corporation built-in gain property, then the deduction allowed under subsection (a) with respect to any stock (determined without regard to paragraph (2)) for the taxable year of the shareholder in which or with which the taxable year of the S corporation which includes the date of such disposition ends, shall (except as otherwise provided in this section) not be less than the lesser of—</text>
+                                    <clause id="H4BD91364DAFE4067B6E4BB9A24E549DA">
+                                        <enum>(i)</enum>
+ <text>the pro rata share of the gain recognized on such disposition, or</text>
+                                    </clause>
+                                    <clause id="H8048267E67554D24BB5E406D7BCCCF81">
+                                        <enum>(ii)</enum>
+ <text>the amount determined under subsection (c)(1)(B) by only taking into account such property.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H89E1F60D60B9459C9FD24127441FC61B">
+                                    <enum>(B)</enum>
+                                    <header>Overall allowance not increased</header>
+ <text>Except as provided in paragraph (2), no deduction shall be allowed under subsection (a) with respect to any stock for any taxable year to the extent that such deduction (when added to the deductions attributable to amortizable S corporation built-in gain property so allowed for all prior taxable years) exceeds the amortizable S corporation built-in gain amount with respect to such stock.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HBE26365F8F6B4CCC9E494C97BE4B7276">
+                                <enum>(2)</enum>
+                                <header>Additional deduction in case of disposition of
+                                    nonamortizable S corporation built-in gain property</header>
+                                <subparagraph id="HFCE45719A502417FAFEAD5D437FB1F7B">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>If there is a disposition of any nonamortizable S corporation built-in gain property, then the amount allowable as deduction under subsection (a) with respect to any stock for the taxable year of the shareholder in which or with which the taxable year of the S corporation which includes the date of disposition ends, shall be increased by the lesser of—</text>
+                                    <clause id="H69C69A8367B44108848B6F25097ECA2F">
+                                        <enum>(i)</enum>
+ <text>the pro-rata share of the gain recognized on such disposition, or</text>
+                                    </clause>
+                                    <clause id="HFA051C14959B4F74A4658BFD786226F3">
+                                        <enum>(ii)</enum>
+ <text>the amount determined under subsection (c)(1)(B) by only taking into account such property.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H17883738A83D4F12A321562480E2A758">
+                                    <enum>(B)</enum>
+                                    <header>Limitation</header>
+ <text>Subparagraph (A) shall not apply with respect to any stock for any taxable year to the extent that such increase (when added to the increased deductions so allowed under subparagraph (A) for all prior taxable years) exceeds the non-amortizable S corporation built-in gain amount with respect to such stock.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H22F310A37CB74FED895C87D6167627B2">
+                            <enum>(c)</enum>
+                            <header>Definitions and special rules</header>
+ <text>For purposes of this section—</text> <paragraph id="H95F4B2BAD31B4BE68463C095BF0EA215"> <enum>(1)</enum> <header>S corporation built-in gain amount</header> <text>The term <quote>S corporation built-in gain amount</quote> means the lesser of—</text>
+                                <subparagraph id="HC46A3D10103645FDB28661CDFB4A2CE5">
+                                    <enum>(A)</enum>
+ <text>the excess (if any) of—</text> <clause id="H884D5994C04444EDB5188853B3A83A04"> <enum>(i)</enum> <text>the basis of the stock referred to in subsection (a) as determined under section 1014(a), over</text>
+                                    </clause>
+                                    <clause id="H855363AE307646A680BACA56E125EEDB">
+                                        <enum>(ii)</enum>
+ <text>the adjusted basis of such stock immediately before the death of the decedent, or</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H3D4553025FA94CBF948157BE9852AEB3">
+                                    <enum>(B)</enum>
+ <text>the pro rata share (determined as of the applicable valuation date) of—</text>
+                                    <clause id="HE82047F6FD164808A35024116D6C6A52">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the aggregate fair market value of all property held by the S corporation which is amortizable S corporation built-in gain property or nonamortizable S corporation built-in gain property, over</text>
+                                    </clause>
+                                    <clause id="H31089A5083174CFFB4B0FC362CF8D692">
+                                        <enum>(ii)</enum>
+ <text>the aggregate adjusted basis of all such property held by the S corporation as of such date.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H262214FE35684D7D8C990F017EA77238">
+                                <enum>(2)</enum>
+                                <header>Amortizable S corporation built-in gain property</header>
+ <text>The term <quote>amortizable S corporation built-in gain property</quote> means, as of the applicable valuation date, the S corporation property that is of a character subject to depreciation or amortization.</text>
+                            </paragraph>
+                            <paragraph id="HBDC673647E6B4072AADB1009C91D3F11">
+                                <enum>(3)</enum>
+                                <header>Amortizable S corporation built-in gain amount</header>
+ <text>The term <quote>amortizable S corporation built-in gain amount</quote> means the pro rata share of the portion of the S corporation built-in gain amount that is attributable to amortizable S corporation built-in gain property.</text>
+                            </paragraph>
+                            <paragraph id="HA3D225E26B934A28B2BA9C63268E495D">
+                                <enum>(4)</enum>
+                                <header>Non-amortizable S corporation built-in gain
+                                    property</header>
+ <text>The term <quote>non-amortizable S corporation built-in gain property</quote> means, as of the applicable valuation date, the S corporation property that is not of a character subject to depreciation or amortization (other than an equity interest in an electing S corporation partnership).</text>
+                            </paragraph>
+                            <paragraph id="H2AA76BDB060C4AB5BD2A95761A5E1086">
+                                <enum>(5)</enum>
+                                <header>Non-amortizable S corporation built-in gain amount</header>
+ <text>The term <quote>non-amortizable S corporation built-in gain amount</quote> means the pro rata share of the portion of the S corporation built-in gain amount that is attributable to non-amortizable S corporation built-in gain property.</text>
+                            </paragraph>
+                            <paragraph id="HB8FCA26F081F48679917BD6401E45FFD">
+                                <enum>(6)</enum>
+                                <header>Special rule for partnership interests</header>
+ <text>If an electing S corporation owns, directly or indirectly, an equity interest in an electing S corporation partnership, including a lower-tier electing S corporation partnership, the amortizable S corporation built-in gain property and the non-amortizable S corporation built-in gain property shall include the electing S corporation’s distributive share of such property held by the partnership. Rules similar to the rules under paragraphs (1), (2), (3), (4), and (5) of this subsection shall apply to determine the electing S corporation’s distributive share of the amortizable S corporation built-in gain property and the non-amortizable S corporation built-in gain property held by such partnership for purposes of this section. For purposes of subsection (b), a disposition of an interest in an electing S corporation partnership shall be treated as a disposition of the electing S corporation’s distributive share of the property held by such partnership.</text>
+                            </paragraph>
+                            <paragraph id="H8B78121EEC254F07873347808CE22070">
+                                <enum>(7)</enum>
+                                <header>Electing S corporation</header>
+ <text>The term <quote>electing S corporation</quote> means, with respect to any shareholder, any S corporation which elects the application of this section with respect to such shareholder at such time and in such form and manner as the Secretary may prescribe.</text>
+                            </paragraph>
+                            <paragraph id="H549067D5CEDB4A15B90F3009640C320F">
+                                <enum>(8)</enum>
+                                <header>Electing S corporation partnership</header>
+ <text>The term <quote>electing S corporation partnership</quote> means, with respect to any shareholder, any equity interest in a partnership owned directly or indirectly by the electing S corporation, including a lower-tier partnership, for which the S corporation elects the application of this section with respect to such shareholder at such time and in such form and manner as the Secretary may prescribe.</text>
+                            </paragraph>
+                            <paragraph id="H772007EC262C45BEB26C9611D9C4F759">
+                                <enum>(9)</enum>
+                                <header>Applicable valuation date</header>
+ <text>The term <quote>applicable valuation date</quote> means—</text>
+                                <subparagraph id="H9E5EC43A6A2646B1A429E409E15DA4AB">
+                                    <enum>(A)</enum>
+ <text>in the case of a decedent with respect to which the executor of the decedent’s estate elects the application of section 2032, the date months after the decedent’s death, and</text>
+                                </subparagraph>
+                                <subparagraph id="H847CE3ABFF354DA3BE6DACC628272121">
+                                    <enum>(B)</enum>
+ <text>in the case of any other decedent, the date of the decedent’s death.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H0B4D7B8BADAD4587A0BB76DB4DCEA39E">
+                            <enum>(d)</enum>
+                            <header>Recharacterization of gains as ordinary income to extent of
+                                deduction</header>
+ <text>If—</text> <paragraph id="HB2A5BA129CC242F8A78A846D0C67F7A6"> <enum>(1)</enum> <text>stock of an S corporation with respect to which a deduction was allowed under this section,</text>
+                            </paragraph>
+                            <paragraph id="H63C701C1F2C547D9A79036C3991F85BD">
+                                <enum>(2)</enum>
+ <text>amortizable S corporation built-in gain property with respect to which a deduction was allowed under subsection (b)(1), or</text>
+                            </paragraph>
+                            <paragraph id="HB8664CA83B4E4EA9BFC9C0AB38E1838B">
+                                <enum>(3)</enum>
+ <text>nonamortizable S corporation built-in gain property with respect to which a deduction was allowed under subsection (b)(2),</text>
+                            </paragraph>
+                            <continuation-text continuation-text-level="subsection">is disposed of
+                                at a gain (determined without regard to whether or not such gain is
+                                recognized and reduced by any amount of gain which is treated as
+                                ordinary income under any other provision of this subtitle), the
+                                amount of such gain (or the shareholder’s pro rata share of such
+                                gain in the case of property described in paragraph (2) or (3))
+                                shall be treated as gain which is ordinary income (and shall be
+                                recognized notwithstanding any other provision of this subtitle) to
+                                the extent of the excess of the aggregate deductions allowable under
+                                this section with respect to such stock for the taxable year of such
+                                disposition and all prior taxable years over the amounts taken into
+                                account under this subsection for all prior taxable
+                                years.</continuation-text>
+                        </subsection>
+                        <subsection id="HC2D358183BA94D5C82DAEBE4F40141A5">
+                            <enum>(e)</enum>
+                            <header>Termination of deduction</header>
+ <text>No deduction shall be allowed under subsection (a) with respect to any stock in an electing S corporation with respect to any period beginning after the earlier of—</text>
+                            <paragraph id="H0518E5209A474DEBB272D4D215168370">
+                                <enum>(1)</enum>
+ <text>the date on which the corporation’s election under section 1362 terminates, or</text>
+                            </paragraph>
+                            <paragraph id="H37638E4FC39B4EEAB23F2D053F1A2DD2">
+                                <enum>(2)</enum>
+ <text>the date on which the shareholder transfers such stock to any other person.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H277F9CA1D2B240F2888A9285DA13E9B2">
+                            <enum>(f)</enum>
+                            <header>Treatment of certain transfers</header>
+                            <paragraph id="H4B62A66E4D874605A6622EE62B1569C8">
+                                <enum>(1)</enum>
+                                <header>Distributions from estates or trusts</header>
+ <text>Notwithstanding any other provision of this section, in the case of a distribution of stock from an estate or trust to a beneficiary, the beneficiary (and not the estate or trust) shall be treated as the shareholder to which this section applies with respect to periods after such distribution.</text>
+                            </paragraph>
+                            <paragraph id="HAE521C781A9E41D5BB89BD88CD7B11F7">
+                                <enum>(2)</enum>
+                                <header>Certain transfers involving spouses</header>
+ <text>Notwithstanding any other provision of this section, in the case of a transfer described in section, the transferee (and not the transferor) shall be treated as the shareholder to which this section applies with respect to periods after such transfer.</text>
+                            </paragraph>
+                            <paragraph id="HAFD6D9CCF195466F8A165EF60091E9A5">
+                                <enum>(3)</enum>
+                                <header>Gifts</header>
+ <text>Notwithstanding any other provision of this section, in the case of a gift, the donee (and not the donor) shall be treated as the shareholder to which this section applies with respect to periods after such gift.</text>
+                            </paragraph>
+                            <paragraph id="H83B1D8A00DBD45FDB32447C798754F57">
+                                <enum>(4)</enum>
+                                <header>Transfers to trusts</header>
+ <text>Notwithstanding any other provision of this section, in the case of a transfer to a trust, the trust (and not the transferor) shall be treated as the shareholder to which this section applies with respect to periods after such transfer.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H9208B77B86E743CAA926611D63DEC661">
+                            <enum>(g)</enum>
+                            <header>Treatment of income in respect of the decedent</header>
+                            <paragraph id="HA73AE001097F4846AC309019FFC83DE0">
+                                <enum>(1)</enum>
+                                <header>Adjustment to built-in gain of property held by s
+                                    corporation</header>
+ <text>For purposes of subsection (c)(1)(B), the fair market value of any property taken into account under subparagraph (B)(i) thereof shall be decreased by any amount of income in respect of the decedent with respect to such property to which section 691 applies. For purposes of subsections (b)(1)(A) and (b)(2)(A), the gain recognized on the disposition of such property shall be reduced by such amount.</text>
+                            </paragraph>
+                            <paragraph id="HFDCB41E83B3D446584CEFE4FD6B54242">
+                                <enum>(2)</enum>
+                                <header>Adjustment to basis of s corporation stock</header>
+ <text>For adjustment to basis of S corporation stock, see section 1367(b)(4)(B).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H17B5E4A0C98B45948337FA6BAFC71347">
+                            <enum>(h)</enum>
+                            <header>Reporting</header>
+ <text>Except as otherwise provided by the Secretary, for purposes of section 6037, the amounts determined under subsections (b)(1), (b)(2), (c)(1)(B), (c)(3), (c)(5), (c)(6), (d)(2), and (d)(3) shall be treated as items of the corporation and the pro rata share determined under such subsection shall be furnished to the shareholder under section 6037(b).</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H77FB143376DC4E70898DE41477B53DA0">
+                <enum>(b)</enum>
+                <header>Adjustment to basis of stock</header>
+                <paragraph id="HB02663E83E15499B82371C2B45209EEF">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1367">Section 1367(a)(2)</external-xref> is amended by striking <quote>and</quote> at the end of subparagraph (D), by striking the period at the end of subparagraph (E) and inserting <quote>, and</quote>, and by inserting after subparagraph (E) the following new subparagraph:</text>
+                    <quoted-block style="OLC" id="H82A624B98108456BB4E8AC6171249DA5">
+                        <subparagraph id="H3F28EE8829944A44AC416DBE37F627A3">
+                            <enum>(F)</enum>
+ <text>the amount of the shareholder’s deduction under section 1369.</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H6421F80C588B4C0197C6ACF0BC952BC6">
+                    <enum>(2)</enum>
+                    <header>Adjustment not taken into account in determining treatment of
+                        distributions</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1368">Section 1368</external-xref> is amended—</text> <subparagraph id="HA8CBFF32B0144616A257081FC572AFF4"> <enum>(A)</enum> <text>in subsection (d)(1), by inserting <quote>(other than subsection (a)(2)(F) thereof)</quote> after <quote>section 1367</quote>, and</text>
+                    </subparagraph>
+                    <subparagraph id="H27EE0A1F740D4C5B829026166736ADD8">
+                        <enum>(B)</enum>
+ <text>in subsection (e)(1)(A)—</text> <clause id="HB5806EC7F0AE4F6780EAE9FD9FE03840"> <enum>(i)</enum> <text>by striking <quote>this title and the phrase</quote> and inserting <quote>this title, the phrase</quote>, and</text>
+                        </clause>
+                        <clause id="H73DF60392A64461B943441B3FDB5F21F">
+                            <enum>(ii)</enum>
+ <text>by inserting <quote>, and no adjustment shall be made under section 1367(a)(2)(F)</quote> after <quote>section 1367(a)(2)</quote>.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="HFADBC0F87E3F4775B25A374C9269A71E">
+                <enum>(c)</enum>
+                <header>Clerical amendment</header>
+ <text>The table of sections for part II of subchapter S of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> is amended by adding at the end the following new item:</text>
+                <quoted-block style="OLC" id="H49CCE40451E544EAB6DEF263C36C085A">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">Sec. 1369. Treatment of S corporation built-in
+                            gain amount upon death of shareholder.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H706403BB988145268E81745B94D27081">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply with respect to decedents dying after the date of the enactment of this Act, in taxable years ending after such date.</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H5060FB6C21B0433A8AB0AC0512FBFB8C">
+            <enum>3.</enum>
+            <header>Modifications to S corporation passive investment income rules</header>
+            <subsection commented="no" id="H44C8B6890B6F49829DAD978F6E7323E9">
+                <enum>(a)</enum>
+                <header>Increased percentage limit</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1375">Section 1375(a)(2)</external-xref> is amended by striking <quote>25 percent</quote> and inserting <quote>60 percent</quote>.</text>
+            </subsection>
+            <subsection commented="no" id="H0F46559358A74EA2AF9E51D96032B7D9">
+                <enum>(b)</enum>
+                <header>Repeal of excessive passive income as a termination event</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1362">Section 1362(d)</external-xref> is amended by striking paragraph (3).</text>
+            </subsection>
+            <subsection commented="no" id="H8656CFBDC7144D9593F9C11D61A64E75">
+                <enum>(c)</enum>
+                <header>Conforming amendments</header>
+                <paragraph commented="no" id="H89AF96C49F2D418481323E644F439DF2">
+                    <enum>(1)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1375">Section 1375(b)</external-xref> is amended by striking paragraphs (3) and (4) and inserting the following new paragraph:</text>
+                    <quoted-block style="OLC" id="HFADD0B71F23E4F38AE022D180D921AE7">
+                        <paragraph commented="no" id="HC10F97D7D9DA48B3B693A5642FBD9870">
+                            <enum>(3)</enum>
+                            <header>Passive investment income defined</header>
+                            <subparagraph commented="no" id="H6C2C22B9F22748A8B585CD4AA064FB03">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>Except as otherwise provided in this paragraph, the term <quote>passive investment income</quote> means gross receipts derived from royalties, rents, dividends, interest, and annuities.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H254BE228FCF9442796608442D620743C">
+                                <enum>(B)</enum>
+                                <header>Exception for interest on notes from sales of
+                                    inventory</header>
+ <text>The term <quote>passive investment income</quote> shall not include interest on any obligation acquired in the ordinary course of the corporation’s trade or business from its sale of property described in section 1221(a)(1).</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H1B82F6204E754CD39A2F0080C466544F">
+                                <enum>(C)</enum>
+                                <header>Treatment of certain lending or finance companies</header>
+ <text>If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term <quote>passive investment income</quote> shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H927F3F115DF24C7F978F3505629B93E6">
+                                <enum>(D)</enum>
+                                <header>Treatment of certain dividends</header>
+ <text>If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term <quote>passive investment income</quote> shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H62C74D620E024FF7A3A7E7BA0C37FC15">
+                                <enum>(E)</enum>
+                                <header>Exception for banks, etc</header>
+ <text>In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1813">12 U.S.C. 1813(w)(1)</external-xref>)), the term <quote>passive investment income</quote> shall not include—</text>
+                                <clause commented="no" id="HC2E9D9E6123F4863877F9CC83A78316F">
+                                    <enum>(i)</enum>
+ <text>interest income earned by such bank or company, or</text> </clause> <clause commented="no" id="H76252F9C7CE54F92B9782575C2CB4025"> <enum>(ii)</enum> <text>dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" id="HB58F6144493F4403A0774A52AD84A4C0">
+                                <enum>(F)</enum>
+                                <header>Gross receipts from the sales of certain assets</header>
+ <text>For purposes of this paragraph—</text> <clause commented="no" id="HE8EB299130AD4FC3A2F44512242AD8B4"> <enum>(i)</enum> <header>Capital assets other than stock and securities</header> <text>In the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of capital gain net income therefrom.</text>
+                                </clause>
+                                <clause commented="no" id="HB6754ECC34084562AFDD072A116BDA13">
+                                    <enum>(ii)</enum>
+                                    <header>Stock and securities</header>
+ <text>In the case of sales or exchanges of stock or securities, gross receipts shall be taken into account only to the extent of the gain therefrom.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H7D162F1AD7114FA8A231704FEE083185">
+                                <enum>(G)</enum>
+                                <header>Coordination with section 1374</header>
+ <text>The amount of passive investment income shall be determined by not taking into account any recognized built-in gain or loss of the S corporation for any taxable year in the recognition period. Terms used in the preceding sentence shall have the same respective meanings as when used in section 1374.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" id="H5F590C306DF9422A8A732CD821D31CAA">
+                    <enum>(2)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="H9BBB55F2AB9F4A07B4C086B7FBE9C2DD">
+                        <enum>(A)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/26">Section 26(b)(2)(J)</external-xref> is amended by striking <quote>25 percent</quote> and inserting <quote>60 percent</quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="HB5D5064648764E479AE6467077008347" indent="up1">
+                        <enum>(B)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1375">Section 1375(b)(1)(A)(i)</external-xref> is amended by striking <quote>25 percent</quote> and inserting <quote>60 percent</quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H58D4F16136BF4A4389F12C6373E95D3E" indent="up1">
+                        <enum>(C)</enum>
+ <text>The heading for <external-xref legal-doc="usc" parsable-cite="usc/26/1375">section 1375</external-xref> is amended by striking <quote><header-in-text level="section" style="OLC">25 percent</header-in-text></quote> and inserting <quote><header-in-text level="section" style="OLC">60 percent</header-in-text></quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="HCFA9CE629B0848F58702C15E96ADCCB8" indent="up1">
+                        <enum>(D)</enum>
+ <text>The item relating to section 1375 in the table of sections for part III of subchapter S of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> is amended by striking <quote>25 percent</quote> and inserting <quote>60 percent</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H2DF0100FA0F74A1A9ED7837D5E02FEAE">
+                    <enum>(3)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1042">Section 1042(c)(4)(A)(i)</external-xref> is amended by striking <quote>section 1362(d)(3)(C)</quote> and inserting <quote>section 1375(b)(3)</quote>.</text>
+                </paragraph>
+                <paragraph commented="no" id="H87CA407228254035B84F5AD3D9490330">
+                    <enum>(4)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1362">Section 1362(f)(1)(B)</external-xref> is amended by striking <quote>paragraph (2) or (3) of subsection (d)</quote> and inserting <quote>subsection (d)(2)</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H057D084488924CDC8276D2140834C475">
+                <enum>(d)</enum>
+                <header>Effective Date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2024.</text>
+            </subsection>
+        </section>
+        <section id="HB8D8BEEB5ED84E239ABC28F94582B56D">
+            <enum>4.</enum>
+            <header>Nonresident alien individuals permitted as S corporation shareholders</header>
+            <subsection id="H3F4A4C542B134A40A2B2450BE6E35593">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1361">Section 1361(b)(1)</external-xref> is amended by adding <quote>and</quote> at the end of subparagraph (B), by striking subparagraph (C), and by redesignating subparagraph (D) as subparagraph (C).</text>
+            </subsection>
+            <subsection id="H4E825CBF4FC94D0D80BDE14A290BFE42">
+                <enum>(b)</enum>
+                <header>Gain or loss of nonresident aliens from sale or exchange of S corporation
+                    stock</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/864">Section 864(c)</external-xref> is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H808B609F4D9345A5AC0B405AD4DF4200">
+                    <paragraph id="H4F5AF9A51EC541E6BD9C6B2F583EC2B4">
+                        <enum>(9)</enum>
+                        <header>Gain or loss of nonresident aliens from sale or exchange of S
+                            corporation stock</header>
+                        <subparagraph id="HB351805C9F514FAE8BD53471EB749269">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>Notwithstanding any other provision of this subtitle, if a nonresident alien individual owns, directly or indirectly, stock of an S corporation which is engaged in any trade or business within the United States, gain or loss on the sale or exchange of all (or any portion of) such stock shall be treated as effectively connected with the conduct of such trade or business to the extent such gain or loss does not exceed the amount determined under subparagraph (B).</text>
+                        </subparagraph>
+                        <subparagraph id="HB98565621D764F4AA647D9B86E77C437">
+                            <enum>(B)</enum>
+                            <header>Amount treated as effectively connected</header>
+ <text display-inline="yes-display-inline">The amount determined under this subparagraph with respect to any S corporation stock sold or exchanged—</text>
+                            <clause id="H76C3676E33D64EBCBAF0D64BD1B2D7DC">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in the case of any gain on the sale or exchange of the S corporation stock, is—</text>
+                                <subclause id="H165328FE1B7448CBA867554660E6968C">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the portion of the shareholder’s pro rata share of the amount of gain which would have been effectively connected with the conduct of a trade or business within the United States if the S corporation had sold all of its assets at their fair market value as of the date of the sale or exchange of such stock, or</text>
+                                </subclause>
+                                <subclause id="H1F9BD70650604302A60505A4A56B5F94">
+                                    <enum>(II)</enum>
+ <text>zero if no gain on such deemed sale would have been so effectively connected, and</text>
+                                </subclause>
+                            </clause>
+                            <clause id="H54CB30EDEE394DFD8F2A4946D4D09EDC">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the case of any loss on the sale or exchange of the S corporation stock, is—</text>
+                                <subclause id="H5A7091B7C1BB47E497FCBC8B8DC15BBA">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the portion of the shareholder’s pro rata share of the amount of loss on the deemed sale described in clause (i)(I) which would have been so effectively connected, or</text>
+                                </subclause>
+                                <subclause id="HB526C738B1E146118E7167B552A91B2B">
+                                    <enum>(II)</enum>
+ <text>zero if no loss on such deemed sale would have been so effectively connected.</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H228D64594AE04AF79EEFFAD719B7F1CA">
+                            <enum>(C)</enum>
+                            <header>Application of certain other rules</header>
+ <text>Except as otherwise provided by the Secretary, rules similar to the rules of subparagraphs (C), (D), and (E) of paragraph (8) shall apply for purposes of this paragraph.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H8C204110E5BE47749528EC7C421FD9B2">
+                <enum>(c)</enum>
+                <header>Withholding tax</header>
+ <text>Subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/3">chapter 3</external-xref> is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HB1DCA6D913BE4ECDA42A507F4725E731">
+                    <section id="HC4C171E354EF43CFB9DBA38EEBA0B9DE">
+                        <enum>1447.</enum>
+                        <header>Withholding tax on nonresident alien S corporation shareholder’s pro
+                            rata share of effectively connected income</header>
+                        <subsection id="HC8530FF90A63487B8FBBE0157475F11A">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">If—</text> <paragraph id="H9B7CED258C834A1391C11013AC6F1697"> <enum>(1)</enum> <text>an S corporation has effectively connected taxable income for any taxable year, and</text>
+                            </paragraph>
+                            <paragraph id="H1906F858382D4479BA41A9EC13596D85">
+                                <enum>(2)</enum>
+ <text>any shareholder of such S corporation is a nonresident alien,</text>
+                            </paragraph>
+                            <continuation-text continuation-text-level="subsection">such S
+                                corporation shall pay a withholding tax under this section at such
+                                time and in such manner as the Secretary may
+                                provide.</continuation-text>
+                        </subsection>
+                        <subsection id="HC75C96421504464E841F7FEADA953EA9">
+                            <enum>(b)</enum>
+                            <header>Amount of withholding tax</header>
+ <text display-inline="yes-display-inline">The amount of the withholding tax payable by any S corporation under subsection (a) shall be equal to the product of—</text>
+                            <paragraph id="HB40173ACD4194603AFEF0CD4EDBDAE34">
+                                <enum>(1)</enum>
+ <text>the highest rate of tax specified in section 1, multiplied by</text>
+                            </paragraph>
+                            <paragraph id="HDAD6C2EBFED14779935D2D390455F87B">
+                                <enum>(2)</enum>
+ <text>the aggregate pro rata shares of the effectively connected taxable income of such S corporation with respect to shareholders who are nonresident aliens.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H6BBDCF1B58BF4A65B9F73092E762E851">
+                            <enum>(c)</enum>
+                            <header>Effectively connected taxable income</header>
+ <text>For purposes of this section, the term <quote>effectively connected taxable income</quote> means the taxable income of the S corporation which is effectively connected (or treated as effectively connected) with the conduct to a trade or business in the United States. For purposes of the preceding sentence, the S corporation shall be allowed a deduction for depletion with respect to oil and gas wells but the amount of such deduction shall be determined without regard to sections 613 and 613A.</text>
+                        </subsection>
+                        <subsection id="H25E9220C4F5447FBAB490285641398AA">
+                            <enum>(d)</enum>
+                            <header>Treatment of nonresident alien shareholders</header>
+                            <paragraph id="H7058241AA1F348F6B32E227A6C291F4F">
+                                <enum>(1)</enum>
+                                <header>Allowance of credit</header>
+ <text>Each nonresident alien who is a shareholder of an S corporation shall be allowed a credit under section 33 for such shareholder’s share of the withholding tax paid by the S corporation under this section. Such credit shall be allowed for the shareholder’s taxable year in which (or with which) the S corporation taxable year (for which such tax was paid) ends.</text>
+                            </paragraph>
+                            <paragraph id="HE3B8F38AD3754366BEA2469E96BFE7C6">
+                                <enum>(2)</enum>
+                                <header>Credit treated as distributed to shareholder</header>
+ <text>Except as provided in regulations, a nonresident alien shareholder’s share of any withholding tax paid by the S corporation under this section shall be treated as distributed to such shareholder by such S corporation on the earlier of—</text>
+                                <subparagraph id="HA8366F87ACF14B1ABB0DFA80BE658F6F">
+                                    <enum>(A)</enum>
+ <text>the day on which such tax was paid by the S corporation, or</text>
+                                </subparagraph>
+                                <subparagraph id="H74FC8CC947CF4E1A9E3FE6886AAAD734">
+                                    <enum>(B)</enum>
+ <text>the last day of the S corporation’s taxable year for which such tax was paid.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HFED003FCD00E4C1B98F91209B1CA90CA">
+                            <enum>(e)</enum>
+                            <header>Special rules for withholding on dispositions of S corporation
+                                stock</header>
+                            <paragraph id="H3EEFF8C017F04596B46CE6EB478C04E9">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in this subsection, if any portion of the gain (if any) on any disposition of stock in an S corporation would be treated under section 864(c)(9) as effectively connected with the conduct of a trade or business within the United States, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.</text>
+                            </paragraph>
+                            <paragraph id="H29D2CC2D6B554C9EA98867C0C7CF2AF0">
+                                <enum>(2)</enum>
+                                <header>Exception if nonforeign affidavit furnished; other special
+                                    rules</header>
+ <text display-inline="yes-display-inline">Except as otherwise provided by the Secretary, rules similar to the rules of paragraphs (2) through (6) of section 1446(f) shall apply for purposes of this subsection.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H64A827B381584F52B332CC1EC0394313">
+                            <enum>(f)</enum>
+                            <header>Regulations</header>
+ <text display-inline="yes-display-inline">The Secretary shall prescribed such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance providing—</text>
+                            <paragraph id="H29E5EFE0769743F78398C19AB2E46886">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">that for purposes of section 6655, the withholding tax imposed under this section shall be treated as a tax imposed by section 11 and any S corporation required to pay such tax shall be treated as a corporation to which such section applies, and</text>
+                            </paragraph>
+                            <paragraph id="H1977481EB69240B3BADEDCE11F632351">
+                                <enum>(2)</enum>
+ <text>appropriate adjustments in applying section 6655 with respect to such withholding tax.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HFC5A500BC6CE46358CD0237127031EDA">
+                <enum>(d)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H0B6CFBD080894789B8D3658FCCD983DD">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1361">Section 1361(c)(2)(B)(v)</external-xref> is amended by striking the last sentence.</text>
+                </paragraph>
+                <paragraph id="HA5ED69B4DAE047E89D594BB2027879C7">
+                    <enum>(2)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6401">Section 6401(b)(2)</external-xref> is amended by inserting <quote>or 1447</quote> after <quote>section 1446</quote>.</text>
+                </paragraph>
+                <paragraph id="H2B0DF3CEF4804C96B7535DFBA92D8154">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">The table of sections for subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/3">chapter 3</external-xref> is amended by adding at the end the following new item:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HCA48CC6817FC416FA4FD343C441D2B9E">
+                        <toc container-level="quoted-block-container" quoted-block="no-quoted-block" lowest-level="section" idref="HB1DCA6D913BE4ECDA42A507F4725E731" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded">
+                            <toc-entry idref="HC4C171E354EF43CFB9DBA38EEBA0B9DE" level="section">Sec. 1447. Withholding tax on nonresident alien S corporation
+                                shareholder’s pro rata share of effectively connected
+                                income.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HC7D8AD71176241C8B655FA719553529D">
+                <enum>(e)</enum>
+                <header>Effective dates</header>
+                <paragraph id="H6EA3CFC22B72466F849343630A151282">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Except as otherwise provided in this subsection, the amendments made by this section shall apply to taxable years beginning after December 31, 2024.</text>
+                </paragraph>
+                <paragraph id="HDABE32CA91B5473FAB32E209246D4844">
+                    <enum>(2)</enum>
+                    <header>Gain or loss; withholding</header>
+ <text>The amendments made by subsections (b), (c), (d)(2), and (d)(3) shall apply to sales, exchanges, and dispositions after December 31, 2024.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section section-type="subsequent-section" id="H19AB1C0FE44146C2B0A3E3C987FD88B0">
+            <enum>5.</enum>
+            <header>Employees of a firm counted as a single shareholder toward shareholder limit of
+                S corporation</header>
+            <subsection id="H7A97085DE0CC4443AA22679BE0B48C0C">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subsection (c) of <external-xref legal-doc="usc" parsable-cite="usc/26/1361">section 1361</external-xref> is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HF8CDD31EA81B49FABF2F7632B41D075E">
+                    <paragraph id="H76BE47FFCCC141659DE1782C3C281CBB">
+                        <enum>(7)</enum>
+                        <header>Employees treated as one shareholder</header>
+                        <subparagraph id="HA4D0792671E0454D99A8F08FC7FCEF10">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>For purposes of subsection (b)(1)(A), there shall be treated as one shareholder all employees (and their estates) of a corporation and any wholly owned business entities (as determined by the Secretary) of such corporation.</text>
+                        </subparagraph>
+                        <subparagraph id="H30D4B428B2A8451EB2DE018B465ED5EB">
+                            <enum>(B)</enum>
+                            <header>Employee defined</header>
+ <text>For purposes of this paragraph, the term <term>employee</term> means any individual that would be an employee described under paragraph (1) or (2) of section 3121(d).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H50DD36C89A0E4B5DA1FFAE4B414DDEED">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after December 31, 2024.</text>
+            </subsection>
+        </section>
+        <section id="H634AB5328BAB463C91952E5E8F072EE6">
+            <enum>6.</enum>
+            <header>Expansion of S corporation eligible shareholders to include IRAs</header>
+            <subsection id="HCF03973BFFC4480CA711FCB064AD916D">
+                <enum>(a)</enum>
+                <header>In General</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1361">Section 1361(c)(2)(A)(vi)</external-xref> is amended to read as follows:</text> <quoted-block style="OLC" id="H0C835CDA8695474D84D55D192E9C77F7"> <clause id="HA0F095AB4C9745099B0F3A536BA3096B"> <enum>(vi)</enum> <text>A trust which constitutes an individual retirement account under section 408(a), including one designated as a Roth IRA under section 408A.</text>
+                    </clause>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H360831D00971414296DFBAA679E234F6">
+                <enum>(b)</enum>
+                <header>Sale of Stock in IRA Relating to S Corporation Election Exempt From
+                    Prohibited Transaction Rules</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/4975">Section 4975(d)(16)</external-xref> is amended—</text> <paragraph id="HFA059660FE384BF7A5E1199EA4942901"> <enum>(1)</enum> <text>by striking subparagraphs (A) and (B) and by redesignating subparagraphs (C), (D), (E), and (F) as subparagraphs (A), (B), (C), and (D), respectively, and</text>
+                </paragraph>
+                <paragraph id="H40409CC106564354B4767677873653B8">
+                    <enum>(2)</enum>
+ <text>by striking <quote>such bank or company</quote> in subparagraph (A) (as so redesignated) and inserting <quote>the issuer of such stock</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H9F2BF642C07942C1B7820537DE2BF7EC" commented="no">
+                <enum>(c)</enum>
+                <header>Effective Date</header>
+ <text>The amendments made by this section shall take effect on January 1, 2026.</text>
+            </subsection>
+        </section>
+        <section id="H693E34A640A948BDAE3DFBBE05E33200">
+            <enum>7.</enum>
+            <header>Transfer of suspended losses incident to death</header>
+            <subsection id="H54539F5A86164F5C8DBBEA85D89A4DA4">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/1366">Section 1366(d)(2)(B)</external-xref> is amended by inserting <quote>, or any transfer incident to the death of the transferor,</quote> after <quote>any transfer described in section 1041(a)</quote>.</text>
+            </subsection>
+            <subsection id="H9F5B9450F4FF4348B2FC0394698030F1">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendment made by this section shall apply to transfers incident to deaths occurring after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section id="HA38A771B9EEF458C8B86258E6ECD5A77">
+            <enum>8.</enum>
+            <header>Repeal of inclusion in gross income of deferred compensation under nonqualified
+                deferred compensation plans</header>
+            <subsection id="HEA5C9E3C09A048109DC9860BD5A3AF10">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subpart A of part I of subchapter D of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> is amended by striking section 409A (and by striking the item relating to such section from the table of sections for such subpart).</text>
+            </subsection>
+            <subsection id="H2F285E64204D48CAA5B23846CB13CED5">
+                <enum>(b)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H4884DB3B63744D3A9B0CF1B33949E169">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/26">Section 26(b)(2)</external-xref> is amended by striking subparagraph (V) and by redesignating subparagraphs (W) through (Z) as subparagraphs (V) through (Y), respectively.</text>
+                </paragraph>
+                <paragraph id="HB6B09362894B47BAAD195D71F023552A">
+                    <enum>(2)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/430">Section 430(c)(7)(D)(iv)(I)</external-xref> is amended by inserting <quote>as in effect before its repeal</quote> after <quote>section 409A</quote>.</text>
+                </paragraph>
+                <paragraph id="HBBA99A437F1F44D5908BFE0615C0D1D6">
+                    <enum>(3)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="H89E0F4320EA84CFC8F4975703854CFEC">
+                        <enum>(A)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/457A">Section 457A</external-xref> is amended by redesignating subsections (d) and (e) as subsections (e) and (f) and by inserting after subsection (c) the following new subsection:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="H55B2DD78625642DB968805F46636748C">
+                            <subsection id="HC1719AB5A88E40C4B3820FC9BECA2274">
+                                <enum>(d)</enum>
+                                <header>Nonqualified deferred compensation plan</header>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                                <paragraph id="H1781092BEB3E4E55A4C1E1903811CD33">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The term <quote>nonqualified deferred compensation</quote> plan means—</text>
+                                    <subparagraph id="HC2A044DBF8E34A71B7526B2418B5C7D1">
+                                        <enum>(A)</enum>
+ <text>any plan that provides for the deferral of compensation, other than—</text>
+                                        <clause id="HBA9E0FB8B85743DBBC263EEBE952F4B7">
+                                            <enum>(i)</enum>
+ <text>a qualified employer plan, and</text> </clause> <clause id="H83B91B98707742B5A0E061B4B4A27507"> <enum>(ii)</enum> <text>any bona fide vacation leave, sick leave, compensatory time, disability pay, or death benefit plan, and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="H16745C1E28124CDB8B430DF693CFF5CC">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="HEF54E2C519D1480DAC1DBB2A6CB94810">
+                                    <enum>(2)</enum>
+                                    <header>Qualified employer plan</header>
+ <text display-inline="yes-display-inline">The term <quote>qualified employer plan</quote> means—</text>
+                                    <subparagraph id="HFE4D6671300E4366836D7AFB30840518">
+                                        <enum>(A)</enum>
+ <text>any plan, contract, pension, account, or trust described in subparagraph (A) or (B) of section 219(g)(5) (without regard to subparagraph (A)(iii)),</text>
+                                    </subparagraph>
+                                    <subparagraph id="H0B86BD85C7ED4CBF89BEBB0F07817C73">
+                                        <enum>(B)</enum>
+ <text>any eligible deferred compensation plan (within the meaning of section 457(b)), and</text>
+                                    </subparagraph>
+                                    <subparagraph id="H0A0958E76AB940719BAABA66E67A54F2">
+                                        <enum>(C)</enum>
+ <text>any plan described in section 415(m).</text> </subparagraph> </paragraph> <paragraph id="H1F27198E86CD458790597170027DF2EE"> <enum>(3)</enum> <header>Plan includes arrangements, etc</header> <text display-inline="yes-display-inline">The term <quote>plan</quote> includes any agreement or arrangement, including an agreement or arrangement that includes one person.</text>
+                                </paragraph>
+                                <paragraph id="HEB21E200A45848509AA4B3CDD270B643">
+                                    <enum>(4)</enum>
+                                    <header>Treatment of earnings</header>
+ <text display-inline="yes-display-inline">References to deferred compensation shall be treated as including references to income (whether actual or notional) attributable to such compensation or such income.</text>
+                                </paragraph>
+                                <paragraph id="HDF42FD780B5B460E9F23BDA3846732C6">
+                                    <enum>(5)</enum>
+                                    <header>Aggregation rules</header>
+ <text display-inline="yes-display-inline">Except as provided by the Secretary, rules similar to the rules of subsections (b) and (c) of section 414 shall apply.</text>
+                                </paragraph>
+                                <paragraph id="HE87CF7E49B1E45699E749ACF17CECDB2">
+                                    <enum>(6)</enum>
+                                    <header>Treatment of qualified stock</header>
+ <text display-inline="yes-display-inline">An arrangement under which an employee may receive qualified stock (as defined in section 83(i)(2)) shall not be treated as a nonqualified deferred compensation plan with respect to such employee solely because of such employee's election, or ability to make an election, to defer recognition of income under section 83(i).</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="H358AC517D9304505830D733ACE32066D" indent="up1">
+                        <enum>(B)</enum>
+ <text>Section 457A(e)(3), as redesignated by subparagraph (A), is amended to read as follows:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="HC43EA8F764744C1F97767F130A970FBC">
+                            <paragraph id="H53C16ED1AA2E44F586AC8E17D4D3E276">
+                                <enum>(3)</enum>
+                                <header>12-month exception</header>
+ <text display-inline="yes-display-inline">Compensation shall not be treated as deferred for purposes of this section if the service provider receives payment of such compensation not later than 12 months after the end of the taxable year of the service recipient during which the right to the payment of such compensation is no longer subject to a substantial risk of forfeiture.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="H2B69F66A8E9241AFA998591815DCAFA6" indent="up1">
+                        <enum>(C)</enum>
+ <text>Section 457A(e), as redesignated by subparagraph (A), is amended by striking paragraph (5).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H90405219139646FF8365E88F5ED14680">
+                    <enum>(4)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/877A">Section 877A(g)(6)</external-xref> is amended by striking <quote>409A(a)(1)(B),</quote>.</text>
+                </paragraph>
+                <paragraph id="HB2AA4652B78747C28AE26A51DDD13D6B">
+                    <enum>(5)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/3401">Section 3401(a)</external-xref> is amended by striking the last sentence.</text> </paragraph> <paragraph id="H0AB0ABE1B1B44434A5ACB6B516EF8074"> <enum>(6)</enum> <text><external-xref legal-doc="usc" parsable-cite="usc/26/6041">Section 6041</external-xref> is amended by striking subsection (g).</text>
+                </paragraph>
+                <paragraph id="HC76D5D1F91AC40AF830A3DD0BB900660">
+                    <enum>(7)</enum>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6051">Section 6051(a)</external-xref> is amended—</text> <subparagraph id="H364E6D16B2BD4649B589D7026AB939A8"> <enum>(A)</enum> <text>by striking paragraph (13) and redesginating paragraphs (14) through (17) as paragraphs (13) through (16), respectively, and</text>
+                    </subparagraph>
+                    <subparagraph id="H4B9D977DC4E540F59902502D5131B81A">
+                        <enum>(B)</enum>
+ <text>by striking the last sentence.</text> </subparagraph> </paragraph> </subsection> <subsection id="H3E568AD4626C4666B13BC4307BCAF454"> <enum>(c)</enum> <header>Effective date</header> <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

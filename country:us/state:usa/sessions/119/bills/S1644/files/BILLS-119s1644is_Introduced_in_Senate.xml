@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEY25544-CT3-60-42D">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1644 IS: Autonomy for Disabled Veterans Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1644</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S385">Ms. Cortez Masto</sponsor> (for herself and
+                    <cosponsor name-id="S343">Mr. Boozman</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans’ Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 38, United States Code, to modify the authority of the
+            Secretary of Veterans Affairs to furnish improvements and structural alterations as part
+            of home health services for disabled veterans.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="HC6322FD300234A16A1FB504CBAB6C03D">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Autonomy for Disabled Veterans Act</short-title></quote>.</text>
+        </section>
+        <section id="H256A8FF3BC1C406FAC6AC17FD7C603EB">
+            <enum>2.</enum>
+            <header>Modification to authority of Secretary of Veterans Affairs to furnish
+                improvements and structural alterations as part of home health services for disabled
+                veterans</header>
+            <subsection id="H539327DD58F144EDAFC593A8826F7198">
+                <enum>(a)</enum>
+                <header>Increase</header>
+ <text>Paragraph (2) of subsection (a) of section 1717 of title 38, United States Code, is amended—</text>
+                <paragraph id="H2F1B187344FF4E44B8A2D00FFEE0EDC2">
+                    <enum>(1)</enum>
+ <text>in the matter preceding subparagraph (A), by inserting <quote>in the case of a veteran</quote> before the em dash; and</text>
+                </paragraph>
+                <paragraph id="H12ED07B3FEB64228BBCB224EA3825EF8">
+                    <enum>(2)</enum>
+ <text>by striking subparagraphs (A) and (B) and inserting the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="HEB8CECCA27A648AABE798F5BA9391CA1"> <subparagraph id="H1E8CC3F189AA4D78AB0239567D58E391" indent="up1"> <enum>(A)</enum> <text display-inline="yes-display-inline">who first applied for benefits under this paragraph for a non-service-connected disability before the date of the enactment of the <short-title>Autonomy for Disabled Veterans Act</short-title> and whose disability the Secretary determines is service-connected after such date, $6,800; or</text>
+                        </subparagraph>
+                        <subparagraph id="HC7578F0DF27C4A59BE8F3B759FFEF355" indent="up1">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">who first applied for benefits under this paragraph on or after the date of the enactment of the <short-title>Autonomy for Disabled Veterans Act</short-title>, $10,000.</text>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H470649561CFD4F5089FCF7DBEC1AEC74">
+                <enum>(b)</enum>
+                <header>Adjustment for inflation; cap on benefits</header>
+ <text>Such subsection is further amended—</text> <paragraph id="H225142025BDB48B78CACA78C377E5C0E"> <enum>(1)</enum> <text>by redesignating paragraph (3) as paragraph (5); and</text>
+                </paragraph>
+                <paragraph id="H19E1B45D10264CF7AF62646C775FC564">
+                    <enum>(2)</enum>
+ <text>by inserting after paragraph (2) the following new paragraphs:</text> <quoted-block style="USC" display-inline="no-display-inline" id="HB5247E2771F5469FA560D13905341953"> <paragraph id="H28D85F9DFC5447BC9655E7A181323F91" indent="up1"> <enum>(3)</enum> <text display-inline="yes-display-inline">On the first day of each fiscal year, the dollar amounts in effect under paragraph (2) shall—</text>
+                            <subparagraph id="HECD8411BD4EC429590BE11D6666562AF">
+                                <enum>(A)</enum>
+ <text>increase by a percentage equal to the percentage by which the residential home cost of construction index established under section 2102(e)(3) of this title increased during the previous fiscal year; or</text>
+                            </subparagraph>
+                            <subparagraph id="H496080083130465DABC6160286D61D11">
+                                <enum>(B)</enum>
+ <text>if such index did not increase during such previous fiscal year, remain the same.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="H0B64561D2F484633B9A34F9D0C2C94DB" indent="up1">
+                            <enum>(4)</enum>
+ <text display-inline="yes-display-inline">The Secretary may not furnish more than three improvements or structural alterations under paragraph (2) to a veteran.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HD53CA24A5C4349A09CE335F518448CAE">
+                <enum>(c)</enum>
+                <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">A veteran who, before the date of the enactment of this Act, exhausted the eligibility of such veteran for benefits under section 1717 of title 38, United States Code, shall not be entitled to additional benefits under such section by reason of the amendments made by this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
