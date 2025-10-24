@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25294-6KS-F0-D64">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1779 IS: Lifting Overburdensome Commerce Obstructions and Motives Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1779</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S376">Ms. Ernst</sponsor> (for herself, <cosponsor name-id="S375">Mr. Daines</cosponsor>, <cosponsor name-id="S398">Mr.
+                    Cramer</cosponsor>, <cosponsor name-id="S410">Ms. Lummis</cosponsor>, <cosponsor name-id="S317">Mr. Barrasso</cosponsor>, <cosponsor name-id="S423">Mr.
+                    Ricketts</cosponsor>, <cosponsor name-id="S357">Mrs. Fischer</cosponsor>,
+                    <cosponsor name-id="S323">Mr. Risch</cosponsor>, <cosponsor name-id="S404">Mr.
+                    Scott of Florida</cosponsor>, <cosponsor name-id="S435">Mr. Sheehy</cosponsor>,
+                    <cosponsor name-id="S287">Mr. Cornyn</cosponsor>, <cosponsor name-id="S266">Mr.
+                    Crapo</cosponsor>, and <cosponsor name-id="S365">Mr. Scott of South
+                    Carolina</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSEV00">Committee on Environment and
+                    Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Clean Air Act to prohibit State standards relating to the
+            control of emissions from existing locomotives and engines used in locomotives, and for
+            other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H98F66B3505434332861E89450E94DB22">
+        <section section-type="section-one" id="HDE7B0CB8EE6F475984BE41C134334F2D">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Lifting Overburdensome Commerce Obstructions and Motives Act</short-title></quote> or the <quote><short-title>LOCOMOTIVES Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="H9E32796D83BF4DCB909390B539079052">
+            <enum>2.</enum>
+            <header>Prohibition on State standards relating to the control of emissions from
+                existing locomotives and engines used in locomotives</header>
+ <text display-inline="no-display-inline">Section 209(e)(1) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7543">42 U.S.C. 7543(e)(1)</external-xref>) is amended—</text>
+            <paragraph id="H7C91C64E6338435AB053AFE659EE66A3">
+                <enum>(1)</enum>
+ <text>by striking <quote>either of the following new nonroad engines or nonroad vehicles subject to regulation under this Act—</quote> and inserting <quote>any of the following nonroad engines or nonroad vehicles:</quote>;</text>
+            </paragraph>
+            <paragraph id="H1E52B2BDFB0D4404BEBA73F93FF281B9">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (A), by striking <quote>which are used in construction equipment or vehicles or used in farm equipment or vehicles and which are smaller than 175 horsepower.</quote> and inserting</text>
+                <quoted-block style="OLC" display-inline="yes-display-inline" id="H5EE6D17151C54B6B9349DD5FDF6DF116">
+ <text>, which are—</text> <clause id="H5F7EB8897FF34B16A99D2CFC8E8D1B1A"> <enum>(i)</enum> <text display-inline="yes-display-inline">used in construction equipment or vehicles or used in farm equipment or vehicles;</text>
+                    </clause>
+                    <clause id="H0FDFB1F43E254C349B768778F154F404">
+                        <enum>(ii)</enum>
+ <text>smaller than 175 horsepower; and</text> </clause> <clause id="HD620865F4F97456393588492C9795B14"> <enum>(iii)</enum> <text display-inline="yes-display-inline">subject to regulation under this Act.</text>
+                    </clause>
+                    <after-quoted-block>;</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph id="H337115CBC4474FF8A8BD3D08056617B6">
+                <enum>(3)</enum>
+ <text>in subparagraph (B), by inserting <quote>, which are subject to regulation under this Act</quote> after <quote>in locomotives</quote>; and</text>
+            </paragraph>
+            <paragraph id="H5DF2C90290FC4BD48EE7F900AD2830E6">
+                <enum>(4)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="H9E33D637DCA34CD685B75C87B8559DCB" display-inline="no-display-inline" style="OLC"> <subparagraph id="H9DB7C2F68DAC4BCF80D4C23A36834513"> <enum>(C)</enum> <text display-inline="yes-display-inline">Locomotives or engines used in locomotives—</text>
+                        <clause id="HDB80FE6F2F0149E28015C3504A88DA67">
+                            <enum>(i)</enum>
+ <text>other than the locomotives and engines described in subparagraph (B); and</text>
+                        </clause>
+                        <clause id="HBD2EF6982D724BDC93CE9959F6821725" commented="no" display-inline="no-display-inline">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">which are engaged in commerce, which shall encompass all locomotives engaged in providing common carrier railroad transportation for compensation pursuant to section 10102 of title 49, United States Code.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BUR25636-4L8-9N-YS0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2176 IS: NNSA Infrastructure Improvements Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2176</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250625" legis-day="20250624">June 25 (legislative day, June 24),
+                2025</action-date>
+            <action-desc><sponsor name-id="S357">Mrs. Fischer</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require a report on future activities and resources for the delivery of
+            specialized infrastructure, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>NNSA Infrastructure Improvements Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="ida7dfed0a6ed84858a2d5517272767c6c">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="idc8c9858f62214824ae869b3ec2b2f498"> <enum>(1)</enum> <header>Administration</header> <text>The term <term>Administration</term> means the National Nuclear Security Administration.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idcade05ed5cb4410aa2d61532c910b725">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">Appropriate congressional
+                    committees</header>
+ <text>The term <term>appropriate congressional committees</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id94f2ce47e92149d3a32510628411d877"> <enum>(A)</enum> <text display-inline="yes-display-inline">the Committee on Armed Services and the Subcommittee on Energy and Water Development of the Committee on Appropriations of the Senate; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id4a0b0b193a734dd6bbfe2c6c0dc29d4f">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Committee on Armed Services and the Subcommittee on Energy and Water Development and Related Agencies of the Committee on Appropriations of the House of Representatives.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id058a1400bad140aebe3ed1d5f3f660b6">
+                <enum>(3)</enum>
+                <header>Specialized infrastructure</header>
+ <text>The term <term>specialized infrastructure</term> means any facility—</text> <subparagraph id="idf89f7a9764484743869805a43d5c965c"> <enum>(A)</enum> <text>that supports the nuclear stockpile mission, including capabilities to handle and process—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id5905fd28d6e94854a9eee90dff30da74">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">special nuclear materials;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id6ec84080fa464f8886b5c215220a784d"> <enum>(ii)</enum> <text display-inline="yes-display-inline">radioactive, hazardous, and specialized materials;</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id01736d73ba5a4b5fb26b0074c044e239">
+                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">non-nuclear unique components; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id9a46e06fee2549ea883304900835c609"> <enum>(iv)</enum> <text display-inline="yes-display-inline">assembled nuclear weapons;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="ideec83bb02790469ca628adc37025d00a">
+                    <enum>(B)</enum>
+ <text>that supports the global security mission of the Administration; or</text> </subparagraph> <subparagraph id="idde795c5e3f47448e9926eb252d865dbc" commented="no" display-inline="no-display-inline"> <enum>(C)</enum> <text>that supports naval spent fuel management, nuclear material testing and examination, and functional nuclear laboratory consolidation for naval nuclear propulsion.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id2c8e57070d594acd83c819cebef67c6d">
+            <enum>3.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="id826da9c764a445a8a280576f248571c9"> <enum>(1)</enum> <text>On October 15, 2024, the Administration published the Enterprise Blueprint, a 25-year roadmap to deliver essential infrastructure on time and at scale.</text>
+            </paragraph>
+            <paragraph id="id9ad25ce419684cc590bc79ad9ee8e376">
+                <enum>(2)</enum>
+ <text>The nuclear enterprise infrastructure of the Administration relies on specialized production facilities and science and technology infrastructure to meet nuclear deterrence needs, including—</text>
+                <subparagraph id="id22d055d4c15944c2921cbd173767729e">
+                    <enum>(A)</enum>
+ <text>research and design sites, which offer specialized research, design, certification, assessment, simulation, and engineering capabilities for the nuclear stockpile, nuclear nonproliferation, and counterterrorism;</text>
+                </subparagraph>
+                <subparagraph id="id614f5ac27951439ca318987d24dc70e9">
+                    <enum>(B)</enum>
+ <text>technology and manufacturing sites, which provide unique production, processing, manufacturing, assembly and disassembly, integration, technology development, and staging and storage capabilities for nuclear weapons and materials;</text>
+                </subparagraph>
+                <subparagraph id="id88d778f033fa482099fb0d33121698c1">
+                    <enum>(C)</enum>
+ <text>naval reactors sites, which are responsible for design and engineering of nuclear-powered aircraft carriers and submarines for the Navy and management and examination of naval spent fuel; and</text>
+                </subparagraph>
+                <subparagraph id="id6c73588f169f4e0d8d880299ef5ac16e">
+                    <enum>(D)</enum>
+ <text>the special experimentation site, which hosts one-of-kind subcritical testing and a broad suite of unique experimental capabilities for the nuclear deterrence mission, including the safe handling of special nuclear and other hazardous materials.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idf5be7b39166846c494ef69d4eae05242">
+                <enum>(3)</enum>
+ <text>The current state of the nuclear enterprise infrastructure of the Administration reflects decades of neglect and insufficient planning, which has resulted in more than <fraction>1/2</fraction> of the facilities within the nuclear enterprise infrastructure, many of which date back to the Manhattan Project, being in poor condition.</text>
+            </paragraph>
+            <paragraph id="id1683f3079f9f4dd2bf14f71942030fec">
+                <enum>(4)</enum>
+ <text>The United States must recapitalize, modernize, and expand the nuclear enterprise infrastructure to provide sufficient capacity and capability to meet the requirements of nuclear modernization programs of record.</text>
+            </paragraph>
+            <paragraph id="id52f2fa0f831540eb8b45095f770b1372">
+                <enum>(5)</enum>
+ <text>The roadmap outlined in the Enterprise Blueprint provides a path forward to reconfigure an aged enterprise to meet dynamic and demanding mission requirements, including—</text>
+                <subparagraph id="id1ab9741da4da4829807e63ac2e6c6505">
+                    <enum>(A)</enum>
+ <text>simultaneous design, development, and production of more than 6 modernized nuclear weapons systems; and</text>
+                </subparagraph>
+                <subparagraph id="id21854a097cc345c28f8d859c71027563">
+                    <enum>(B)</enum>
+ <text>enduring stockpile stewardship requirements to ensure the nuclear deterrent of the United States remains safe, secure, effective, and credible.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id35849c857858469eb6903722890a0572">
+                <enum>(6)</enum>
+ <text>The roadmap aligns the recapitalization strategy to address targeted needs with the programs of record as of the date of the enactment of this Act, sequencing projects so that facilities are replaced before failure and capabilities are delivered at the speed of relevance.</text>
+            </paragraph>
+            <paragraph id="id9a1d3adfdf5543a6a5c3abd7e8ae0677">
+                <enum>(7)</enum>
+ <text>To effectuate the roadmap in the Enterprise Blueprint, the Administration must continuously review infrastructure investment plans for the near-, medium-, and long-term, and provide Congress with cost estimates, projected schedules, and workforce requirements to meet nuclear deterrence needs.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="idd7a1b252c90d407aa3f9369bb98ddd19">
+            <enum>4.</enum>
+            <header display-inline="yes-display-inline">Report</header>
+            <subsection id="idaf80e28c5f94443f9ae6651b7fad8331">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Not later than February 15, 2026, and annually thereafter, the Administrator for Nuclear Security shall submit to the appropriate congressional committees a report on future activities and resources for the delivery of specialized infrastructure with demands across the nuclear stockpile, global security, and naval nuclear propulsion missions, which shall include the following:</text>
+                <paragraph id="idd521e7ac518c4f899f72b90a163423da">
+                    <enum>(1)</enum>
+ <text>An assessment of infrastructure investments necessary in the 5 fiscal years following the fiscal year of the report, including—</text>
+                    <subparagraph id="id1084439e6d404c3a9ebd6e0d20b5a9f1">
+                        <enum>(A)</enum>
+ <text>the cost estimates and schedules for such infrastructure investments;</text>
+                    </subparagraph>
+                    <subparagraph id="id498deb1364ef47f6a09e7b9b19761959">
+                        <enum>(B)</enum>
+ <text>the impacts to workforce requirements of the Administration;</text> </subparagraph> <subparagraph id="idfeea77bfaaa94f2193df125876ee9aa6"> <enum>(C)</enum> <text>the status of any reviews required by the National Environmental Policy Act for such infrastructure investments;</text>
+                    </subparagraph>
+                    <subparagraph id="iddedcffa8aa034a25aa600a4e5e4be87c">
+                        <enum>(D)</enum>
+ <text>an explanation of the targeted needs addressed by such infrastructure investments; and</text>
+                    </subparagraph>
+                    <subparagraph id="idd77d824f6ddf41ebb05ab1b7058b17ab">
+                        <enum>(E)</enum>
+ <text>a summary of progress made towards achieving such infrastructure investments.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idc1b0c557f17541ca965fa0ec0956e2f2">
+                    <enum>(2)</enum>
+ <text>For fiscal year 2027 and each subsequent fiscal year, an explanation of any changes in cost estimates and schedules for the projects listed in the assessment required by paragraph (1) for the prior fiscal year.</text>
+                </paragraph>
+                <paragraph id="ide30eba2fd7ac4550868327e48cabe33e">
+                    <enum>(3)</enum>
+ <text>An assessment of infrastructure investments necessary in the 6 to 15 fiscal years following the fiscal year of the report, including—</text>
+                    <subparagraph id="idc362813eb0a84fd08f1b312762096740">
+                        <enum>(A)</enum>
+ <text>an estimated schedule for such infrastructure investments; and</text> </subparagraph> <subparagraph id="id43bfa6d9d9a3488ab8e70a88ff2c158a"> <enum>(B)</enum> <text>an explanation of the targeted needs addressed by such infrastructure investments.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id2c11b095ee2d45cebec91f85c3b762d0">
+                    <enum>(4)</enum>
+ <text>For fiscal year 2027 and each subsequent fiscal year, an explanation of any changes in cost estimates and schedules for the projects listed in the assessment required by paragraph (3) for the prior fiscal year.</text>
+                </paragraph>
+                <paragraph id="idc2cba1f59f53454d8f48456217bf869c">
+                    <enum>(5)</enum>
+ <text>An assessment of the infrastructure investments necessary in the 16 to 25 fiscal years following the fiscal year of the report, including an explanation of the targeted needs such infrastructure investments are addressing.</text>
+                </paragraph>
+                <paragraph id="idbe10f0c5ab1b43219147d0c06f4ab58d">
+                    <enum>(6)</enum>
+ <text>For fiscal year 2027 and each subsequent fiscal year, an explanation of any changes in cost estimates and schedules for the projects listed in the assessment required by paragraph (5) for the prior fiscal year.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idd8c041729c5e4f908294ce9298ecfcc5">
+                <enum>(b)</enum>
+                <header>Form</header>
+ <text>Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

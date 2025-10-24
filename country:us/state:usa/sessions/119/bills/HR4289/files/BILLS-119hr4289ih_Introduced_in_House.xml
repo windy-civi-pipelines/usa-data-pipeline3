@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC4ACB14EFF8F4396B53C89B53F08AA8E" public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 4289 IH: TRICARE Travel Improvement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-07-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session>
+        <legis-num display="yes">H. R. 4289</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20250702">July 2, 2025</action-date>
+            <action-desc><sponsor name-id="V000136">Mr. Vasquez</sponsor> (for himself and
+                    <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>) introduced
+                the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To amend title 10, United States Code, to reduce the distance
+            required for the Secretary of Defense to reimburse travel expenses relating to specialty
+            care, and for other purposes.</official-title>
+    </form>
+    <legis-body id="H8DFBCD5FF9C3430388B9239B25C5E0E6" style="OLC">
+        <section id="H12C2141924C045698C0792224E788FFE" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>TRICARE Travel Improvement Act</short-title></quote>.</text>
+        </section>
+        <section id="HBB2052418E344576A907E6EF75697483">
+            <enum>2.</enum>
+            <header>Reimbursement by the Secretary of Defense for travel expenses relating to
+                specialty care</header>
+ <text display-inline="no-display-inline">Section 1074i of title 10, United States Code, is amended—</text>
+            <paragraph id="H75641CFD78734E1E9A1142E0E99FA272">
+                <enum>(1)</enum>
+ <text>in subsection (a)—</text> <subparagraph id="H1783DDFB4B8C43A8BA6528BF6DB1F4F2"> <enum>(A)</enum> <text>by striking <quote>In any case</quote> and inserting <quote>Except as provided in subsection (b), in any case</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="H60D18519038441B6948C1170D1D3F32A">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>100 miles</quote> and inserting <quote>50 miles</quote>; and</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H0189D507F6F44325B05B331A39CD4861">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in subsection (b)—</text> <subparagraph id="HC035D1F65430494092937959753A1508"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking the heading and inserting <quote><header-in-text level="subsection" style="USC">Special rules for exceptional circumstances and military retirees and dependents</header-in-text>.—</quote>;</text>
+                </subparagraph>
+                <subparagraph id="H0705CF31BA6D4E2492E499533B2731CA">
+                    <enum>(B)</enum>
+ <text>by striking <quote>The Secretary of Defense</quote> and inserting <quote>(1) The Secretary of Defense</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="H5147DA33C80746668E0B74D1F11136E3">
+                    <enum>(C)</enum>
+ <text>by inserting after paragraph (1), as designated by subparagraph (B) of this paragraph, the following new paragraph:</text>
+                    <quoted-block style="OLC" id="H972FE54782C14915AA8B98B3B94431CF" display-inline="no-display-inline">
+                        <paragraph id="H7632645521AC4BF1BF459CAD7E8925D6">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">With respect to military retirees and their dependents, the Secretary shall administer subsection (a) by substituting <quote>50 miles</quote> for <quote>100 miles</quote>.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

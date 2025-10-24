@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BUR25462-H14-6D-M37">
+    <form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1762</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250514">May 14, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself and <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSGA00">Committee
+                    on Homeland Security and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To exempt the Secretary of Energy of certain prohibitions with respect to an
+            unmanned aircraft system, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H100A461693894692B841E0E7A8DEAF4C">
+        <section section-type="section-one" id="H4399076DFE30475086D2064D58ABCE5A">
+            <enum>1.</enum>
+            <header>Short title</header>
+            <text display-inline="no-display-inline">This Act may be cited as the
+                        <quote><short-title>Nuclear Ecosystem Drone Defense Act of
+                        2025</short-title></quote> or the <quote><short-title>NEDD Act of
+                        2025</short-title></quote>.</text>
+        </section>
+        <section id="HA1CE5BACD4894850870ACB558BAA1724">
+            <enum>2.</enum>
+            <header>Authority of Secretary of Energy with respect to covered unmanned aircraft
+                systems from covered foreign entities</header>
+            <subsection id="H1F1BABCF9CC34A8784C001DF783C480A">
+                <enum>(a)</enum>
+                <header>Exemption from prohibition on procurement of covered unmanned aircraft
+                    systems from covered foreign entities</header>
+                <text display-inline="yes-display-inline">Section 1823(b) of the National Defense
+                    Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 692) is
+                    amended, in the matter preceding paragraph (1), by inserting <quote>Secretary of
+                        Energy,</quote> after <quote>Secretary of State,</quote>.</text>
+            </subsection>
+            <subsection id="H73A14F3AE9394FFB9DFF6F7424E85857">
+                <enum>(b)</enum>
+                <header>Exemption from prohibition on operation of covered unmanned aircraft systems
+                    from covered foreign entities</header>
+                <text display-inline="yes-display-inline">Section 1824(b) of the National Defense
+                    Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 693) is
+                    amended, in the matter preceding paragraph (1), by inserting <quote>Secretary of
+                        Energy,</quote> after <quote>Secretary of State,</quote>.</text>
+            </subsection>
+            <subsection id="H7EE4C486C69849AB99A564EA3CE211D3">
+                <enum>(c)</enum>
+                <header>Exemption from prohibition on use of Federal funds for procurement and
+                    operation of covered unmanned aircraft systems from covered foreign
+                    entities</header>
+                <text>Section 1825(b) of the National Defense Authorization Act for Fiscal Year 2024
+                    (Public Law 118–31; 137 Stat. 694) is amended, in the matter preceding paragraph
+                    (1), by inserting <quote>Secretary of Energy,</quote> after <quote>Secretary of
+                        State,</quote>.</text>
+            </subsection>
+            <subsection id="HB71447E1C3CD49D9ADB40866A69A54AE">
+                <enum>(d)</enum>
+                <header>Granting Secretary of Energy authority To determine usage of classified
+                    tracking</header>
+                <text>Section 1827(b) of the National Defense Authorization Act for Fiscal Year 2024
+                    (Public Law 118–31; 137 Stat. 696) is amended by striking <quote>the Secretary’s
+                        designee</quote> and inserting <quote>the Secretary of Energy, as
+                        appropriate, or their respective designees</quote>.</text>
+            </subsection>
+            <subsection id="H0D395A772CFC4C2399CE12D340B5072B">
+                <enum>(e)</enum>
+                <header>Granting Secretary of Energy accounting exception</header>
+                <text>Section 1827(c) of the National Defense Authorization Act for Fiscal Year 2024
+                    (Public Law 118–31; 137 Stat. 696) is amended by inserting <quote>the Department
+                        of Energy,</quote> after <quote>the Department of
+                    Transportation,</quote>.</text>
+            </subsection>
+            <subsection id="H4588EFE29CA741EEAFE62EBEB72CDB10">
+                <enum>(f)</enum>
+                <header>Expansion of Secretary of Energy authority related to the protection of
+                    certain nuclear facilities and assets from unmanned aircrafts or unmanned
+                    aircraft systems</header>
+                <text display-inline="yes-display-inline">Section 4510(e)(1)(C) of the Atomic Energy
+                    Defense Act (50 U.S.C. 2661(e)(1)(C)) is amended to read as follows:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="H85F48C1D58CA45F2872E308B0A7592DA">
+                    <subparagraph id="HBD91BA3235184280908DE9733C6B68F4">
+                        <enum>(C)</enum>
+                        <text display-inline="yes-display-inline">owned by the United States or
+                            contracted to the United States—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id871eaa0534da4280a5e3f120b49189d2">
+                            <enum>(i)</enum>
+                            <text display-inline="yes-display-inline">to store, transport, or use
+                                special nuclear material; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id524618b067d64e0fbd841eaf6b264662">
+                            <enum>(ii)</enum>
+                            <text display-inline="yes-display-inline">for the research, design,
+                                manufacture, or production of non-nuclear components for nuclear
+                                weapons.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>

@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-NEW25618-838-MK-2SY">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1934 IS: Securing Energy Supply Chains Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1934</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250603">June 3, 2025</action-date>
+            <action-desc><sponsor name-id="S374">Mr. Cotton</sponsor> (for himself and <cosponsor name-id="S323">Mr. Risch</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSEG00">Committee on
+                    Energy and Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Energy to identify entities engaged in
+            activities detrimental to the national security, economic security, or foreign policy of
+            the United States, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Securing Energy Supply Chains Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id6b1ef05411794b5abb20286c31b3b649">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="id0999c44c46bd40a6b92312cf153e9fcd"> <enum>(1)</enum> <header>Energy Non-Procurement List</header> <text>The term <term>Energy Non-Procurement List</term> means the list of identified entities established under section 3(a)(1).</text>
+            </paragraph>
+            <paragraph id="id2130096a134c480281aa5906a0fd04f3">
+                <enum>(2)</enum>
+                <header>Foreign entity of concern</header>
+ <text>The term <term>foreign entity of concern</term> has the meaning given the term in section 40207(a) of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18741">42 U.S.C. 18741(a)</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="ided6f311d220e4032bdde6a930c327274">
+                <enum>(3)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Energy.</text> </paragraph> </section> <section commented="no" display-inline="no-display-inline" id="idb8ff9ce01cfe475194ddd6c53cd60168"> <enum>3.</enum> <header>Energy non-procurement list</header> <subsection commented="no" display-inline="no-display-inline" id="id57547b2b8da645e599ff49e5dbeb6ec7"> <enum>(a)</enum> <header>Establishment</header> <paragraph commented="no" display-inline="no-display-inline" id="id773de518865e47dc8f7615a55ed29d33"> <enum>(1)</enum> <header>In general</header> <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this Act, the Secretary shall establish a list of identified entities that the Secretary has determined, based on the most recent information available, are engaged in activities detrimental to the national security, economic security, or foreign policy of the United States.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id92b40aba4ce349b58d4dbb66558ce94c">
+                    <enum>(2)</enum>
+                    <header>Prioritization</header>
+ <text>In carrying out paragraph (1), the Secretary shall prioritize identifying entities that produce, manufacture, process, extract, recycle, assemble, or otherwise provide—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc2d469600f3341a396435e7bb5bbcaef">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">critical materials (as defined in section 7002(a) of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/30/1606">30 U.S.C. 1606(a)</external-xref>)); or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd9eadaf05d9849feb3b4650ef673a8b3">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">batteries, including battery components.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb6fac246537a41feaed5b1b07248374a">
+                    <enum>(3)</enum>
+                    <header>Inclusions</header>
+ <text>In carrying out paragraph (1), the Secretary—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id195e338dd4d1434bb6842345cd36e1bd"> <enum>(A)</enum> <text display-inline="yes-display-inline">shall include on the Energy Non-Procurement List any entity that—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id1f4d39c95dfe4b3d91895f65d3cf64e4">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">is a foreign entity of concern;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id3d18c1fdcc9e47c49b4fe924764521d7">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">is included on the Chinese Military Company List of the Department of Defense published under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="usc" parsable-cite="usc/10/113">10 U.S.C. 113</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>); or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id1ca664d3730245ae81080b6b49ae600e">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">has majority ownership of an entity on the Energy Non-Procurement List; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="ida5546c7f55ee4a5989458614f17f9d32">
+                        <enum>(B)</enum>
+ <text>may include on the Energy Non-Procurement List—</text> <clause commented="no" display-inline="no-display-inline" id="id52bc71937d85433191ca3e5483809b14"> <enum>(i)</enum> <text display-inline="yes-display-inline">any entity that is included on the Consolidated Screening List maintained by the International Trade Administration of the Department of Commerce; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id7ff88c2a08154adc9345fc1479b9f8b1">
+                            <enum>(ii)</enum>
+ <text>any other entity, as determined by the Secretary.</text> </clause> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idfe50596ff8004ecdacea8980d109773e"> <enum>(4)</enum> <header>Annual revisions</header> <text>The Secretary shall, not less frequently than annually, make additions or deletions to the Energy Non-Procurement List.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5aa8cbb99715404fbe6df3db393e1ed9">
+                    <enum>(5)</enum>
+                    <header>Consultation</header>
+ <text>In carrying out paragraph (1), the Secretary may consult with the head of any appropriate Federal department or agency.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id51994f107602400481e9e7f68136e61a">
+                <enum>(b)</enum>
+                <header>Report</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id003d1cb4b4a84eb28d02d5fef482d2cf">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3e27d9e251ef4a3297cac3b765833f7f">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the most up-to-date Energy Non-Procurement List; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb8fad72eba624c538d2b4989f4d3f0d7">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a description of why an entity was included on the Energy Non-Procurement List, including justification for any additions or removals of entities from the list, as applicable.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7844bd3b54734e4b82dcc30d40cf00a9">
+                    <enum>(2)</enum>
+                    <header>Form</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3014d7a07f3e4efd88dafcb24a1da1e0">
+                        <enum>(A)</enum>
+                        <header>Unclassified</header>
+ <text display-inline="yes-display-inline">The information required under paragraph (1)(A) shall be submitted in unclassified form.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id15872c8deef3431d9b1cb238b952cda8">
+                        <enum>(B)</enum>
+                        <header>Classified</header>
+ <text display-inline="yes-display-inline">The information required under paragraph (1)(B) shall be submitted as a classified annex.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3349d7a070a5424786f9a77caf7bd0e1">
+                    <enum>(3)</enum>
+                    <header>Publication</header>
+ <text>Concurrent with the submission of a report described in paragraph (1), the Secretary shall publish the unclassified portion of that report on the website of the Department of Energy.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id5a62a48fef9d4adc848cf15cb15f5dd7">
+            <enum>4.</enum>
+            <header>Prohibition on procurement</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id9cd999b6491a48d496871f702a7f4c3a">
+                <enum>(a)</enum>
+                <header>Definition of covered contractor</header>
+ <text>In this section, the term <term>covered contractor</term> means a general contractor, prime contractor, or other lead entity on a project involving the provision of funding to, or the procurement of goods, services, or technology from—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4da880a23f6f4358adf7e32188b71b13">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">an entity on the Energy Non-Procurement List; or</text>
+                </paragraph>
+                <paragraph id="id754da480252d4c6c8b00a19964fcabd0" commented="no" display-inline="no-display-inline">
+                    <enum>(2)</enum>
+ <text>an entity that provides goods, services, or technologies that contain components from an entity on the Energy Non-Procurement List.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf13b3a64fdce46cf8b9bc4bc6e55879c">
+                <enum>(b)</enum>
+                <header>Prohibition</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd14f3ce324444490be909d2eae8987fa">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Beginning on the date that is 1 year after the date of enactment of this Act, except as provided in paragraph (2), the Secretary shall not enter into or renew any contract with a covered contractor.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7e106b10dfed4877ab46540d8131b213">
+                    <enum>(2)</enum>
+                    <header>Exception</header>
+ <text>The Secretary may enter into or renew a contract described in paragraph (1) if the applicable goods, services, or technologies are not procurable in the manner, timeliness, or quantity required for the success of the applicable project—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id97ae2b86658f4b148f7257bfc2b47006">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the duration of which shall be determined based on the amount of time needed by the covered contractor to complete the applicable project; and</text>
+                    </subparagraph>
+                    <subparagraph id="idb6e21b0e7e9343bc979515b4e8610fed" commented="no" display-inline="no-display-inline">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">subject to conditions that the Secretary may require.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idffa653d74bb74a5c8bed8115109dc3ad">
+                    <enum>(3)</enum>
+                    <header>Contractor submissions</header>
+ <text>If the Secretary enters into or renews a contract with a covered contractor under paragraph (2), the covered contractor shall submit to the Secretary on a monthly basis a report describing any agreements or contracts entered into with any entity on the Energy Non-Procurement List and with any entity that provides goods, services, or technologies that contain components from an entity on the Energy Non-Procurement List, as applicable, throughout the duration of the applicable contract.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5e27b89330c14d869ddc1ac714eb8bed">
+                    <enum>(4)</enum>
+                    <header>Report</header>
+ <text>Not later than 90 days after the date that the Secretary enters into or renews a contract with a covered contractor under paragraph (2), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id06b5074e6bcb480bb740c5ef59fcfbb9">
+                        <enum>(A)</enum>
+ <text>a description of the applicable contract;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idba6b0701f7844690aa8442e494f31bb5"> <enum>(B)</enum> <text>an analysis of potential alternative domestic or friendly-country sources of the goods, services, or technologies being procured in the applicable contract; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline"
+                        id="id160d7e1668b64d1f90784a4bc44f90e1">
+                        <enum>(C)</enum>
+ <text>recommendations for how to support developing domestic or friendly-country sources of those goods, services, or technologies, if those sources do not exist.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idaa1dcbf90b184f2aa6f60a7c94bfa4e6">
+            <enum>5.</enum>
+            <header>List overlap study</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id57bb1fd897a1458387d76cacc049cd99">
+                <enum>(a)</enum>
+                <header>Study</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Secretary, in coordination with the Secretary of Commerce, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Director of National Intelligence, and the heads of other Federal departments and agencies, as the Secretary determines appropriate, shall carry out a study to identify lists created by each Federal department or agency, and any overlap present when comparing those lists, relating to—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id981b393fbbee491ea029fce947ca7ab2">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">foreign entities of concern;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idfdbd885a85704ade8826033cfb1d498a"> <enum>(2)</enum> <text display-inline="yes-display-inline">entities subject to sanctions imposed by the United States;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc8e79e72ea3a472889aeb79f323e29e2">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">Chinese military companies;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id7fea1d4c0ba242f39852270a1a78b937"> <enum>(4)</enum> <text display-inline="yes-display-inline">entities with which Federal agencies are prohibited from entering into procurement contracts; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4d8a02314e7e49a693ac29914b252703">
+                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">other entities that work with the Chinese Communist Party.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idd148d44e45f44f22a5d457dae6f09643">
+                <enum>(b)</enum>
+                <header>Report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress a report that includes—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0610902305054922a9275cffc211d93f">
+                    <enum>(1)</enum>
+ <text>the results of the study conducted under subsection (a); and</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idbc3175057a274bb699c9fd5f8ffb7471"> <enum>(2)</enum> <text>recommendations on how to harmonize the lists identified in the study conducted under subsection (a) in order to provide clarification on which entities the Federal Government should not contract with to procure goods, services, or technology.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

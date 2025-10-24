@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEN25A49-7GL-YN-K0M">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2851 IS: Protecting Americans from Doxing and Political Violence Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2851</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250917" legis-day="20250916">September 17 (legislative day,
+                September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve the safety and security of Members of Congress, immediate family
+            members of Members of Congress, and congressional staff, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="id845e6d4b2f1a4adead9767b6a8beab3c" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Americans from Doxing and Political Violence Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id7b23ea99ecc243d8a7b1da030136a584">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">Protecting covered information in public
+                records</header>
+            <subsection id="idA7C1B1A97D614D259FA0B0C2F4619367">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="idb691e3c3340e48fdafca1850d4342ef2" commented="no"> <enum>(1)</enum> <header>Applicable legislative officers</header> <text>The term <term>applicable legislative officers</term> means—</text>
+                    <subparagraph commented="no" id="id9482DFFE624E479889079ACF5AFBD5F2">
+                        <enum>(A)</enum>
+ <text>with respect to a Member of the Senate or a designated Senate employee, the Sergeant at Arms and Doorkeeper of the Senate and the Secretary of the Senate, acting jointly; and</text>
+                    </subparagraph>
+                    <subparagraph id="id51FB3ED875EF4A11AFEF9880731D4E69" commented="no" display-inline="no-display-inline">
+                        <enum>(B)</enum>
+ <text>with respect to a Member of, or Delegate or Resident Commissioner to, the House of Representatives or a designated House employee, the Sergeant at Arms of the House of Representatives and the Chief Administrative Officer of the House of Representatives, acting jointly.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6066ea830a4241018d3a7d1cdeecafaf">
+                    <enum>(2)</enum>
+                    <header>At-risk individual</header>
+ <text>The term <term>at-risk individual</term> means—</text> <subparagraph id="idd47e9c2ca5654852abb85c776f776a92"> <enum>(A)</enum> <text>a Member of Congress;</text>
+                    </subparagraph>
+                    <subparagraph id="id802c51238f354dce8dd5f0ef77712e5b">
+                        <enum>(B)</enum>
+ <text>any individual who is the spouse, parent, sibling, or child of an individual described in subparagraph (A);</text>
+                    </subparagraph>
+                    <subparagraph id="idda2edc75f2814f309163b3edddfb1798">
+                        <enum>(C)</enum>
+ <text>any individual to whom an individual described in subparagraph (A) stands in loco parentis;</text>
+                    </subparagraph>
+                    <subparagraph id="ide6dcc5ccdbd747daa4d7e716ecce4733">
+                        <enum>(D)</enum>
+ <text>any other individual living in the household of an individual described in subparagraph (A);</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbc9bd4aeb4754151ad087edccf2b1756">
+                        <enum>(E)</enum>
+ <text>any designated Senate employee;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id340d8234113a40e8b6630b5919c0b2cd"> <enum>(F)</enum> <text>any designated House employee; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd3fdf789e9bb473caf9c55bfbf5190c5">
+                        <enum>(G)</enum>
+ <text>a former Member of Congress.</text> </subparagraph> </paragraph> <paragraph id="id91655530ad2d43dcbbe2796bee464ed6"> <enum>(3)</enum> <header>Candidate</header> <text>The term <term>candidate</term> has the meaning given the term in section 301 of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30101">52 U.S.C. 30101</external-xref>).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb43fd41eed8047518b4c256b4b73dc84">
+                    <enum>(4)</enum>
+                    <header>Covered employee</header>
+ <text>The term <term>covered employee</term> has the same meaning given such term in section 101 of the Congressional Accountability Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1301">2 U.S.C. 1301</external-xref>).</text>
+                </paragraph>
+                <paragraph id="idd0202d29c551447991f56c3735a2f2c4">
+                    <enum>(5)</enum>
+                    <header>Covered information</header>
+ <text>The term <term>covered information</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id8a5e28e138a94ef4a21c46537e81b549"> <enum>(A)</enum> <text display-inline="yes-display-inline">means—</text>
+                        <clause id="id8be93ae575d143da9725c618503eb0f6">
+                            <enum>(i)</enum>
+ <text>a home address, including a primary residence or secondary residences;</text>
+                        </clause>
+                        <clause id="id10644094c82a4c3698f7268e34d5c506">
+                            <enum>(ii)</enum>
+ <text>a home or personal mobile telephone number;</text> </clause> <clause id="idf6844faf88b84e898315317ecc7caa97"> <enum>(iii)</enum> <text>a personal email address;</text>
+                        </clause>
+                        <clause id="id5e0bd5d65ac64285aa69cdbb9aa283eb">
+                            <enum>(iv)</enum>
+ <text>a social security number or driver’s license number;</text> </clause> <clause id="id951fc640813142559a9c4bf0d35e85ef"> <enum>(v)</enum> <text>a bank account or credit or debit card number;</text>
+                        </clause>
+                        <clause id="idd4aa8828b4bc469d933902b1319bb039">
+                            <enum>(vi)</enum>
+ <text>a license plate number or other unique identifier of a vehicle owned, leased, or regularly used by an at-risk individual;</text>
+                        </clause>
+                        <clause id="id33914bf87c36426f9a14093e91112789">
+                            <enum>(vii)</enum>
+ <text>the identification of a child, who is under 18 years of age, of an at-risk individual;</text>
+                        </clause>
+                        <clause id="idfcb3e02416d140a5949bf4c9f2f5dc7f">
+                            <enum>(viii)</enum>
+ <text>information regarding current or future school or day care attendance, including the name or addresses of the school or day care;</text>
+                        </clause>
+                        <clause id="id96b430f870804a46a78b6ff13e007856">
+                            <enum>(ix)</enum>
+ <text>information regarding schedules of school or day care attendance or routes taken to or from the school or day care by an at-risk individual;</text>
+                        </clause>
+                        <clause id="id813ce7404a9c404685eef3829e7c6ec6">
+                            <enum>(x)</enum>
+ <text>information regarding routes taken to or from an employment location by an at-risk individual; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida3116df4b20e4bc983eb702a47035bbd">
+                            <enum>(xi)</enum>
+ <text display-inline="yes-display-inline">precise geolocation data that is not anonymized and can identify the location of a device of an at-risk individual; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8a4ab6ed6f934f7e8ef4e016d146df32">
+                        <enum>(B)</enum>
+ <text>does not include information described in subparagraph (A) that is contained in—</text>
+                        <clause id="id2823508190d4438aafee357f4c6fb888">
+                            <enum>(i)</enum>
+ <text>any report or other record required to be filed with the Federal Election Commission; or</text>
+                        </clause>
+                        <clause id="id5cf265e0e6d1447c96397e6f5f12bfc3">
+                            <enum>(ii)</enum>
+ <text>any report or other record otherwise required under Federal or State law to be filed—</text>
+                            <subclause id="ida3ae927a917948a4bb877ade8b6c80ed">
+                                <enum>(I)</enum>
+ <text>by an individual to qualify as a candidate for the office of Member of Congress; or</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id87cdf96335e74ddfb9df42ea6a78c6c3">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">by any candidate for the office of Member of Congress.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id1d3c97b47c044684b12b8ed10e6d840d">
+                    <enum>(6)</enum>
+                    <header>Data broker</header>
+                    <subparagraph id="ide0af1df8ea374c39811ae38d866a5e37">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>The term <term>data broker</term> means a commercial entity engaged in collecting, assembling, or maintaining personal information concerning an individual who is not a customer, client, or an employee of that entity in order to sell the information or otherwise profit from providing third-party access to the information.</text>
+                    </subparagraph>
+                    <subparagraph id="id3291d8090b224d0c9e7e34b3c16a1d5b">
+                        <enum>(B)</enum>
+                        <header>Exclusion</header>
+ <text>The term <term>data broker</term> does not include a commercial entity engaged in the following activities:</text>
+                        <clause id="id9e59b0f7efdd451a8c5a9c0233337cc9">
+                            <enum>(i)</enum>
+ <text>Engaging in reporting, news-gathering, speaking, or other activities intended to inform the public on matters of public interest or public concern.</text>
+                        </clause>
+                        <clause id="idacf31fc2d2544fba8f02370badc72c14">
+                            <enum>(ii)</enum>
+ <text>Providing 411 directory assistance or directory information services, including name, address, and telephone number, on behalf of or as a function of a telecommunications carrier.</text>
+                        </clause>
+                        <clause id="id603f24dc9776481497b5a4cee580bd59">
+                            <enum>(iii)</enum>
+ <text>Using personal information internally, providing access to businesses under common ownership or affiliated by corporate control, or selling or providing data for a transaction or service requested by or concerning the individual whose personal information is being transferred.</text>
+                        </clause>
+                        <clause id="idbd890ca1f0d1454596898242ee5d92ad">
+                            <enum>(iv)</enum>
+ <text>Providing publicly available information via real-time or near-real-time alert services for health or safety purposes.</text>
+                        </clause>
+                        <clause id="id64c991f89508460d94a5ae563dc903da">
+                            <enum>(v)</enum>
+ <text>A consumer reporting agency, only while engaging in activity subject to the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681">15 U.S.C. 1681 et seq.</external-xref>).</text>
+                        </clause>
+                        <clause id="id7b9afa84b8a84d3f90869af9c616cc65">
+                            <enum>(vi)</enum>
+ <text>A financial institution subject to the Gramm-Leach-Bliley Act (<external-xref legal-doc="public-law" parsable-cite="pl/106/102">Public Law 106–102</external-xref>) and regulations implementing that Act.</text>
+                        </clause>
+                        <clause id="id83e6845d0dd74f26b7fe1582147b82f5">
+                            <enum>(vii)</enum>
+ <text>A covered entity for purposes of the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note).</text>
+                        </clause>
+                        <clause id="id8bc7f0c44e6d41739c0ab33b491501b8">
+                            <enum>(viii)</enum>
+ <text>The collection and sale or licensing of covered information incidental to conducting the activities described in clauses (i) through (vii).</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6de6eeafd1634490821e5fc534c281b9">
+                    <enum>(7)</enum>
+                    <header display-inline="yes-display-inline">Designated House employee</header>
+ <text>The term <term>designated House employee</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idde6ef8a728ec447e8784892a873b80a8"> <enum>(A)</enum> <text display-inline="yes-display-inline">a covered employee designated in writing by—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id282500e195f549a0986340749329135e">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a Member of, or Delegate or Resident Commissioner to, the House of Representatives; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida3c766af017040c78a0d7d11b5dd2a64">
+                            <enum>(ii)</enum>
+ <text>an officer of the House of Representatives; or</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id53a7699d986f405a90c81eb3ec7e422d"> <enum>(B)</enum> <text>an officer of the House of Representatives.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5d86c21e02e6408084a1dbedd757211b">
+                    <enum>(8)</enum>
+                    <header>Designated Senate employee</header>
+ <text>The term <term>designated Senate employee</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id89f5f8761ec145fca35253abedef6ef3"> <enum>(A)</enum> <text display-inline="yes-display-inline">a covered employee designated in writing by—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id1e21703811f349e2ae31e7ce6a28060c">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a Member of the Senate; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id628be9b4596f47d3ae670ee99998c03c">
+                            <enum>(ii)</enum>
+ <text>an officer of the Senate; or</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id6819db1598ae4dcc92799aaf10f944e7"> <enum>(B)</enum> <text>an officer of the Senate.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idff7ed42c94d04452baee7a959486ebb7">
+                    <enum>(9)</enum>
+                    <header>Government agency</header>
+ <text>The term <term>Government agency</term> includes—</text> <subparagraph id="iddc9a80cbbdc9494691a5633cd095e343"> <enum>(A)</enum> <text>an Executive agency, as defined in section 105 of title 5, United States Code; and</text>
+                    </subparagraph>
+                    <subparagraph id="id26e4271b50a04a93a9f3c39f438ddb65">
+                        <enum>(B)</enum>
+ <text>any agency in the judicial branch or legislative branch.</text> </subparagraph> </paragraph> <paragraph id="idcc5a893d9ae44a049e42ea352197c59d"> <enum>(10)</enum> <header>Immediate family member</header> <text>The term <term>immediate family member</term> means an at-risk individual—</text>
+                    <subparagraph id="id850e6bd934a243d6b61f9b0aa6284e6a">
+                        <enum>(A)</enum>
+ <text>who is the spouse, parent, sibling, or child of another at-risk individual;</text>
+                    </subparagraph>
+                    <subparagraph id="id610a7a496559476fad4894e89cf14420">
+                        <enum>(B)</enum>
+ <text>to whom another at-risk individual stands in loco parentis; or</text> </subparagraph> <subparagraph id="id14d687935a3f4803b18b0f4a542c59be"> <enum>(C)</enum> <text>living in the household of another at-risk individual.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id430efa3f9e8c4caf9cee0b766687e278">
+                    <enum>(11)</enum>
+                    <header>Member of Congress</header>
+ <text>The term <term>Member of Congress</term> means—</text> <subparagraph id="id4A9D0ADF924948389E9FF653E1F6D368"> <enum>(A)</enum> <text>a Member of the Senate; or</text>
+                    </subparagraph>
+                    <subparagraph id="id9FE7D42AEE284A3D8A32BE42A7A91B7A">
+                        <enum>(B)</enum>
+ <text>a Member of, or Delegate or Resident Commissioner to, the House of Representatives.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ida3d4dc15ec864070854b166b34cfbf5b">
+                    <enum>(12)</enum>
+                    <header>Transfer</header>
+ <text>The term <term>transfer</term> means to sell, license, trade, or exchange for consideration the covered information of an at-risk individual.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id16dc5bd37fdb4866a74759b42470950f">
+                <enum>(b)</enum>
+                <header>Government agencies</header>
+                <paragraph id="id5d5af225443640fd8463f02906fca920">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Each at-risk individual may—</text> <subparagraph id="idf605c84d5a56481587be6a6d2ed35887"> <enum>(A)</enum> <text>file written notice of the status of the individual as an at-risk individual, for themselves and their immediate family members, with each Government agency that includes information necessary to ensure compliance with this section, as determined by the applicable legislative officers; and</text>
+                    </subparagraph>
+                    <subparagraph id="id7417014b567343baa6e0c0328caf2182">
+                        <enum>(B)</enum>
+ <text>request that each Government agency described in subparagraph (A) mark as private their covered information and that of their immediate family members.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idf8c6377cbe2b4dd99bcc7573cb8fc99a">
+                    <enum>(2)</enum>
+                    <header>No public posting</header>
+                    <subparagraph id="idAC4E33D4125C4C099D2D86C04DC05ECA">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Government agencies shall not publicly post or display publicly available content that includes covered information of an at-risk individual.</text>
+                    </subparagraph>
+                    <subparagraph id="id659531512CF34D3D870B60D7BAED33DB">
+                        <enum>(B)</enum>
+                        <header>Deadline</header>
+ <text>Upon receipt of a request by an at-risk individual under paragraph (1)(B), a Government agency shall remove the covered information of the at-risk individual, and any immediate family member on whose behalf the at-risk individual submitted the request, from publicly available content not later than 72 hours after such receipt.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idbd3a66bf15ce4666a17484a3f06cad59">
+                    <enum>(3)</enum>
+                    <header>Exceptions</header>
+ <text>Nothing in this section shall prohibit a Government agency from providing access to records containing the covered information of an at-risk individual to a third party if the third party—</text>
+                    <subparagraph id="id5c1c1c1fe91c4e05888f2712113eeb7a">
+                        <enum>(A)</enum>
+ <text>possesses a signed release from the at-risk individual or a court order;</text>
+                    </subparagraph>
+                    <subparagraph id="id6dc5d6c936d342d0a41984e7260ed47f">
+                        <enum>(B)</enum>
+ <text>is subject to the requirements of title V of the Gramm-Leach-Bliley Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">15 U.S.C. 6801 et seq.</external-xref>); or</text>
+                    </subparagraph>
+                    <subparagraph id="idf57e155168674457a67870d1636db15b">
+                        <enum>(C)</enum>
+ <text>executes a confidentiality agreement with the Government agency.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idce64e9805d86421191cac917598e1c8f">
+                <enum>(c)</enum>
+                <header>Delegation of authority</header>
+                <paragraph id="idcb4d5f62e3e74fe9a90e0528c6e58632">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>An at-risk individual may directly, or through an agent designated by the at-risk individual, make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall include information necessary to ensure compliance with this section.</text>
+                </paragraph>
+                <paragraph id="idb20bd221734d4673a42aaabcf1132e22">
+                    <enum>(2)</enum>
+                    <header>Authorization of legislative officers and employees to make
+                        requests</header>
+                    <subparagraph id="id5DFEF46C07F04A30BB118DF540FCE524">
+                        <enum>(A)</enum>
+                        <header>Legislative officers</header>
+ <text>Upon written request of a Member of Congress, designated Senate employee, or designated House employee, the applicable legislative officers are authorized to make any notice or request required or authorized by this section on behalf of the Member of Congress, designated Senate employee, or designated House employee, respectively. The notice or request shall include information necessary to ensure compliance with this section, as determined by the applicable legislative officers. Any notice or request made under this subparagraph shall be deemed to have been made by the Member of Congress, designated Senate employee, or designated House employee, as applicable, and comply with the notice and request requirements of this section.</text>
+                    </subparagraph>
+                    <subparagraph id="id2afb4030b2d543a1a125134ff86b96e1">
+                        <enum>(B)</enum>
+                        <header>List</header>
+                        <clause commented="no" display-inline="no-display-inline" id="id22dfea312f4b494789114a6bd213f397">
+                            <enum>(i)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>In lieu of individual notices or requests, the applicable legislative officers may provide Government agencies, data brokers, persons, businesses, or associations with a list of—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="ida8acad217ef64ca7a0c2ef895626476d">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">Members of Congress, designated Senate employees, and designated House employees making a written request described in subparagraph (A); and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id0e1582ae955a4b8d98aa6d1d512876ce">
+                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">immediate family members of the Members of Congress, designated Senate employees, and designated House employees on whose behalf the written request was made.</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idad4c655ffbd34be091951f6a1619dfa6">
+                            <enum>(ii)</enum>
+                            <header>Contents</header>
+ <text display-inline="yes-display-inline">A list provided under clause (i) shall include information necessary to ensure compliance with this section, as determined by the applicable legislative officers for the purpose of maintaining compliance with this section.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id2a428a238f7247d8abc4ad42cb220a6d">
+                            <enum>(iii)</enum>
+                            <header>Compliance with notice and request requirement</header>
+ <text display-inline="yes-display-inline">A list provided under clause (i) shall be deemed to comply with individual notice and request requirements of this section.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id5bcae3eda6e44c81ab4c10cefc7df4df">
+                <enum>(d)</enum>
+                <header>Data brokers and other businesses</header>
+                <paragraph id="id6eaa978c113c44e39d4dccbdcafedcae">
+                    <enum>(1)</enum>
+                    <header>Prohibitions</header>
+                    <subparagraph id="ideeb4f9cf5fbc4b248986333e6472554d">
+                        <enum>(A)</enum>
+                        <header>Data brokers</header>
+                        <clause commented="no" display-inline="no-display-inline" id="id6bd62adc8d9e4328a0f035b8ab49af3a">
+                            <enum>(i)</enum>
+                            <header display-inline="yes-display-inline">Definitions</header>
+                            <subclause commented="no" display-inline="no-display-inline" id="id1b024ba941634efc8abf88b391d4c59c">
+                                <enum>(I)</enum>
+                                <header display-inline="yes-display-inline">Covered
+                                    information</header>
+ <text>For purposes of applying the term <term>covered information</term> in this subparagraph, <quote>covered person</quote> shall be substituted for <quote>at-risk individual</quote> each place it appears in subsection (a)(5).</text>
+                            </subclause>
+                            <subclause id="ide1d316835bf141adaa61c0ee5575c2c1" commented="no" display-inline="no-display-inline">
+                                <enum>(II)</enum>
+                                <header display-inline="yes-display-inline">Covered person</header>
+ <text>In this subparagraph, the term <term>covered person</term> means—</text>
+                                <item commented="no" display-inline="no-display-inline" id="idad432466c5ae4c25bdf3ff4a1919bac6">
+                                    <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">an individual that is located in the United States; or</text>
+                                </item>
+                                <item commented="no" display-inline="no-display-inline" id="id9b0f4622384b4799a4832784f2174bd9">
+                                    <enum>(bb)</enum>
+ <text>a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801</external-xref>).</text>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0d32b7a308414d84b882b43f34af6254">
+                            <enum>(ii)</enum>
+                            <header display-inline="yes-display-inline">Prohibition</header>
+ <text>It shall be unlawful for a data broker to knowingly sell, license, trade for consideration, or purchase covered information of a covered person.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id45660fb491af4362a7d64e93b2bdd7cd">
+                            <enum>(iii)</enum>
+                            <header>Enforcement</header>
+ <text>The Attorney General or the attorney general (or equivalent thereof) of any State may file an action seeking injunctive or declaratory relief in any court of competent jurisdiction to enforce this subparagraph.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id8e136b579d6c4de0acf9a26f080e72e7">
+                        <enum>(B)</enum>
+                        <header>Other businesses</header>
+                        <clause id="id6f5b5b3500a2440cae9f51b2f843a014">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Except as provided in clause (ii), no person, business, or association shall publicly post or publicly display on the internet covered information of an at-risk individual if the at-risk individual, or an immediate family member on behalf of the at-risk individual, has made a written request to that person, business, or association to not disclose the covered information of the at-risk individual.</text>
+                        </clause>
+                        <clause id="id3cdf80c8ad3e408f86418545cdfdaa93">
+                            <enum>(ii)</enum>
+                            <header>Exceptions</header>
+ <text>Clause (i) shall not apply to—</text> <subclause id="id391d96b61439420990125725793b4e6c"> <enum>(I)</enum> <text>the display on the internet of the covered information of an at-risk individual if the information is relevant to and displayed as part of a news story, commentary, editorial, or other speech on a matter of public concern;</text>
+                            </subclause>
+                            <subclause id="idbdd622b1ca244040ba5ad713f396b3b1">
+                                <enum>(II)</enum>
+ <text>covered information that the at-risk individual voluntarily publishes on the internet after the date of enactment of this Act; or</text>
+                            </subclause>
+                            <subclause id="iddadbcb9451d64d039d2a0f22b28dd784">
+                                <enum>(III)</enum>
+ <text>covered information lawfully received from a Federal Government source (or from an employee or agent of the Federal Government).</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id7f965180fa1a4e7f9366b6ff855ffe97">
+                    <enum>(2)</enum>
+                    <header>Required conduct</header>
+                    <subparagraph id="id4df8bd701cab489d9dc7364f035bee29">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>After receiving a written request under paragraph (1)(B)(i), the person, business, or association shall—</text>
+                        <clause id="id4f0c4944b25740a293fd6fa2f4e80035">
+                            <enum>(i)</enum>
+ <text>remove within 72 hours the covered information from the internet and ensure that the information is not made available on any website or subsidiary website controlled by that person, business, or association; and</text>
+                        </clause>
+                        <clause id="id5c7f8bf1bb8d4b2e9bcddd2c9bbfd415">
+                            <enum>(ii)</enum>
+ <text>ensure that the covered information of the at-risk individual is not made available on any website or subsidiary website controlled by that person, business, or association.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idc631c37d370248f8998730badee8d57a">
+                        <enum>(B)</enum>
+                        <header>Transfer</header>
+                        <clause id="id98b0f6e3197e44669c521409332bce4c">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Except as provided in clause (ii), after receiving a written request under paragraph (1)(B)(i), the person, business, or association shall not transfer the covered information of the at-risk individual to any other person, business, or association through any medium.</text>
+                        </clause>
+                        <clause id="idd8f0cf4a33354b5b99282546448bd595">
+                            <enum>(ii)</enum>
+                            <header>Exceptions</header>
+ <text>Clause (i) shall not apply to—</text> <subclause id="id937ed63ebcd94395ae1835662f0fa49f"> <enum>(I)</enum> <text>the transfer of the covered information of the at-risk individual if the information is relevant to and displayed as part of a news story, commentary, editorial, or other speech on a matter of public concern;</text>
+                            </subclause>
+                            <subclause id="id09847be8b665417ead02d54154bc99f0">
+                                <enum>(II)</enum>
+ <text>covered information that the at-risk individual voluntarily publishes on the internet after the date of enactment of this Act; or</text>
+                            </subclause>
+                            <subclause id="idaae31743afe8481c8e1a6604574a6cfe">
+                                <enum>(III)</enum>
+ <text>a transfer made at the request of the at-risk individual or that is necessary to effectuate a request to the person, business, or association from the at-risk individual.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id46ff4cb0f3934cb9b40b7d06c7189280" commented="no">
+                <enum>(e)</enum>
+                <header>Redress</header>
+ <text>An at-risk individual whose covered information is made public as a result of a violation of this section may bring an action seeking injunctive or declaratory relief in any court of competent jurisdiction.</text>
+            </subsection>
+            <subsection id="id4cd880fbda1344b8b4354f8d8206f45b">
+                <enum>(f)</enum>
+                <header>Rules of construction</header>
+                <paragraph id="id16e89e48e6094c3f9997caff366c324d">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Nothing in this section shall be construed—</text> <subparagraph id="iddce0c66e31594afeb5b9a1182b50a76b"> <enum>(A)</enum> <text>to prohibit, restrain, or limit—</text>
+                        <clause id="id8fc770d613144f738eb5c955fb71da08">
+                            <enum>(i)</enum>
+ <text>the lawful investigation or reporting by the press of any unlawful activity or misconduct alleged to have been committed by an at-risk individual;</text>
+                        </clause>
+                        <clause id="id0ddff60d24e4458f905d0705da3c5623">
+                            <enum>(ii)</enum>
+ <text>the reporting on an at-risk individual regarding matters of public concern; or</text>
+                        </clause>
+                        <clause id="id43FEFD99B0EE44FABBC2656102E31BA7">
+                            <enum>(iii)</enum>
+ <text>the disclosure of information otherwise required under Federal law;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id3f9ac0981717453093ac9dade20e026d">
+                        <enum>(B)</enum>
+ <text>to impair access to the actions or statements of a Member of Congress in the course of carrying out the public functions of the Member of Congress;</text>
+                    </subparagraph>
+                    <subparagraph id="idc631b6cdeb3c48759a34ef4bcc2fc4e9">
+                        <enum>(C)</enum>
+ <text>to limit the publication or transfer of covered information with the written consent of the at-risk individual; or</text>
+                    </subparagraph>
+                    <subparagraph id="id26fcb7bfb4e843db9cd45b2947cc0537">
+                        <enum>(D)</enum>
+ <text>to prohibit information sharing by a data broker to a Federal, State, Tribal, or local government, or any unit thereof.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id2c01df34425c4f2e8d97b49660383dbe" commented="no" display-inline="no-display-inline">
+                    <enum>(2)</enum>
+                    <header>Protection of covered information</header>
+ <text>This section shall be broadly construed to favor the protection of the covered information of at-risk individuals.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idb356a0776c0b4adc8b265e9231f45a23" commented="no" display-inline="no-display-inline">
+                <enum>(g)</enum>
+                <header>Severability</header>
+ <text>If any provision of this section, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remaining provisions of this section, and the application of the provision to any other person or circumstance, shall not be affected.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

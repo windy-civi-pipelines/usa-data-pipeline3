@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"
+    slc-id="S1-KEL25341-JJD-TX-R7M">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1799 IS: To amend title XVIII of the Social Security Act to provide for certain cognitive impairment detection in the Medicare annual wellness visit and initial preventive physical examination.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1799</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250519">May 19, 2025</action-date>
+            <action-desc><sponsor name-id="S372">Mrs. Capito</sponsor> (for herself and <cosponsor
+                    name-id="S327">Mr. Warner</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to provide for certain
+            cognitive impairment detection in the Medicare annual wellness visit and initial
+            preventive physical examination.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause"
+        id="H5563E8B824894132BDDBCFF83300BE94">
+        <section section-type="section-one" id="H4F5814C2F644482ABEB0CC79165B440D">
+            <enum>1.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HFE1DBB443B044F69AA34C9BEDB0D54A0"> <enum>(1)</enum> <text>It is estimated that 6,900,000 Americans are living with Alzheimer’s disease, a number that is estimated to rise to nearly 13,800,000 by 2060. About 1 in 11 people age 65 and older has Alzheimer’s disease.</text>
+            </paragraph>
+            <paragraph id="HF93F0FACD3874D5294BA822166719854">
+                <enum>(2)</enum>
+ <text>Older Black Americans are 2 times as likely, and Latino Americans are 1.5 times as likely, to have Alzheimer’s disease than older White Americans. Nearly <fraction>2/3</fraction> of Americans with Alzheimer’s disease are women.</text>
+            </paragraph>
+            <paragraph id="H02DC1B3ACA964D8BB38E024379EC0EF3">
+                <enum>(3)</enum>
+ <text>Alzheimer’s disease is the fifth-leading cause of death in America among Americans aged 65 and older.</text>
+            </paragraph>
+            <paragraph id="H21762A433B1744B0B91BA26D4F7D2062">
+                <enum>(4)</enum>
+ <text>Between 2000 and 2021, deaths from stroke, heart disease, and HIV decreased, whereas reported deaths from Alzheimer's disease increased more than 140 percent.</text>
+            </paragraph>
+            <paragraph id="H5C31A629F546422C8E1C84D231979515">
+                <enum>(5)</enum>
+ <text>Addressing modifiable risk factors for Alzheimer’s disease and other dementias, such as hypertension, physical inactivity, smoking, depression, diabetes, obesity, and poor nutrition, might prevent or delay up to 40 percent of dementia cases. In 2021, the National Plan to Addresses Alzheimer’s Disease issued by the Secretary of Health and Human Services under the National Alzheimer's Project Act (<external-xref legal-doc="public-law" parsable-cite="pl/111/375">Public Law 111–375</external-xref>) was updated to include a new goal to focus on reducing the risk of developing dementia.</text>
+            </paragraph>
+            <paragraph id="H4180558ED5D34E249BE166FB7FB6464F">
+                <enum>(6)</enum>
+ <text>An early, documented diagnosis, communicated to the patient and caregiver, enables early access to care planning services and available medical and nonmedical treatments, and optimizes an individual's ability to build a care team, participate in support services, and enroll in clinical trials.</text>
+            </paragraph>
+            <paragraph id="H30479DFA63364984AF1055B9928452B0">
+                <enum>(7)</enum>
+ <text>Alzheimer’s disease exacts an emotional and physical toll on caregivers, resulting in higher incidence of heart disease, cancer, depression, and other health consequences.</text>
+            </paragraph>
+            <paragraph id="H8F85BC45966949ADB9E3F834B7B06B31">
+                <enum>(8)</enum>
+ <text>In 2023, more than 11,500,000 Americans provided nearly $347,000,000,000 in unpaid care for individuals with Alzheimer’s disease or other dementias.</text>
+            </paragraph>
+            <paragraph id="H6C1D6C92A702485FB3BA4D66B4DD6410">
+                <enum>(9)</enum>
+ <text>In 2024, it is estimated that Alzheimer’s and related dementias will cost the United States $360,000,000,000, not including the value of unpaid caregiving. By 2050, it is estimated that these direct costs will increase to nearly $1,100,000,000,000.</text>
+            </paragraph>
+            <paragraph id="H592CA443D20D4AE5868E3ED8529C4A9F">
+                <enum>(10)</enum>
+ <text>Medicare and Medicaid are expected to cover nearly $231,000,000,000 of care for individuals with Alzheimer's disease and related dementias, only about 64 percent of the total healthcare and long-term care payments for individuals with Alzheimer's disease and related dementias. Out-of-pocket spending for such care is expected to be about $91,000,000,000, or about 25 percent of total healthcare and long-term care payments for such individuals.</text>
+            </paragraph>
+        </section>
+        <section id="H4FBD04F7CD1645D6A2E877F25BF94B90">
+            <enum>2.</enum>
+            <header>Cognitive impairment detection benefit in the Medicare annual wellness visit and
+                initial preventive physical examination</header>
+            <subsection id="HB2E9AC7F52E040CA93862CC406AF8593">
+                <enum>(a)</enum>
+                <header>Annual wellness visit</header>
+                <paragraph id="H935A6304AC3D4221AC6BB25856FC2EDB">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1861(hhh)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(hhh)(2)</external-xref>) is amended by striking subparagraph (D) and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline"
+                        id="HD618EC90EDBD457EAA8D7C510523A9ED">
+                        <subparagraph id="HCFF37683EFEA4B01A5E5FD9CA7984BE7">
+                            <enum>(D)</enum>
+ <text display-inline="yes-display-inline">Detection of any cognitive impairment that shall—</text>
+                            <clause id="H8358B41B5C8F44E28CB3AE2C3AADB61E">
+                                <enum>(i)</enum>
+ <text>be performed using 1 of the cognitive impairment detection tools identified by the National Institute on Aging as meeting its criteria for selecting instruments to detect cognitive impairment in the primary care setting; and</text>
+                            </clause>
+                            <clause id="H294E2D97869A4EEDAE6E4A86747B0EC6">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">include documentation of the tool used for detecting cognitive impairment and results of the assessment in the individual’s medical record.</text>
+                            </clause>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="H3D9BEDD1DA9D4530967BF4A7DB8DCD38">
+                    <enum>(2)</enum>
+                    <header>Effective date</header>
+ <text>The amendment made by paragraph (1) shall apply to annual wellness visits furnished on or after January 1, 2026.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HC963BD2E9C0F423AB5AEEC4C01811DF1">
+                <enum>(b)</enum>
+                <header>Initial preventive physical examination</header>
+                <paragraph id="H0A086C9F800E4329AC90362169001106">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1861(ww)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x(ww)(1)</external-xref>) is amended by striking <quote>agreement with the individual, and</quote> and inserting <quote>agreement with the individual, detection of any cognitive impairment as described in subsection (hhh)(2)(D), and</quote>.</text>
+                </paragraph>
+                <paragraph id="H4FF76286EDB245D7AF53DB2F9A78BE29">
+                    <enum>(2)</enum>
+                    <header>Effective date</header>
+ <text>The amendment made by paragraph (1) shall apply to initial preventive physical examinations furnished on or after January 1, 2026.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

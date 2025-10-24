@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEY25674-CVM-CC-T3X">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1912 IS: Protecting Veteran Community Care Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1912</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250522">May 22, 2025</action-date>
+            <action-desc><sponsor name-id="S375">Mr. Daines</sponsor> (for himself, <cosponsor name-id="S410">Ms. Lummis</cosponsor>, and <cosponsor name-id="S153">Mr.
+                    Grassley</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSVA00">Committee on Veterans’
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 38, United States Code, to expand access to the Veterans
+            Community Care Program of the Department of Veterans Affairs to include certain veterans
+            seeking mental health or substance-use services, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause" changed="not-changed">
+        <section section-type="section-one" id="S1" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Veteran Community Care Act</short-title></quote>.</text>
+        </section>
+        <section changed="not-changed" id="idDFA9CB3568E149DEA4222B8AE38CA5C2">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="id214853a643684bbfb583b2150b964af3"> <enum>(1)</enum> <text>On June 6, 2018, the John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA Maintaining Internal Systems and Strengthening Integrated Outside Networks Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/182">Public Law 115–182</external-xref>) (in this section referred to as the <quote>VA MISSION Act</quote>) became law.</text>
+            </paragraph>
+            <paragraph id="id4988f5f573a841f1b24aba64174e264b">
+                <enum>(2)</enum>
+ <text>Congressional intent with the VA MISSION Act was to reform and replace the program under section 101 of the Veterans Access, Choice, and Accountability Act of 2014 (<external-xref legal-doc="public-law" parsable-cite="pl/113/146">Public Law 113–146</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/38/1701">38 U.S.C. 1701</external-xref> note) to ensure access of veterans to community health care providers.</text>
+            </paragraph>
+            <paragraph id="idcff3e8728aa34f088f49ca3556cccaed">
+                <enum>(3)</enum>
+ <text>The eligibility standards established by the VA MISSION Act were not meant to be used to limit health care options for veterans or to be applied to community providers, which would result in reduced health care options.</text>
+            </paragraph>
+            <paragraph id="idce2d8e404ce0451d99a8b1d1e23bfe63">
+                <enum>(4)</enum>
+ <text>Many veterans do not have access to a medical facility of the Department of Veterans Affairs in their community and each medical facility of the Department may not be able to adequately address the specific health care needs of a particular veteran.</text>
+            </paragraph>
+            <paragraph id="iddcf9682f82854bf4b4a5ccc67e099aae">
+                <enum>(5)</enum>
+ <text>It was intent of Congress in the VA MISSION Act that all medical services, including mental health treatments and institutional extended care services for mental health, were to be available to veterans in the community.</text>
+            </paragraph>
+            <paragraph id="id04792846fc05491c84a6b8cd4e20b57d">
+                <enum>(6)</enum>
+ <text>The Department is limiting access of veterans to community care for mental health treatments.</text>
+            </paragraph>
+            <paragraph id="id1ad1dc7c1e3b419fb53a30b9efc18e83">
+                <enum>(7)</enum>
+ <text>Despite the best efforts of the Department, veteran suicide remains at significant levels throughout the United States.</text>
+            </paragraph>
+            <paragraph id="id1e99559890624bc6880c356b6d242216">
+                <enum>(8)</enum>
+ <text>No veteran should have to wait 30 days for mental health services to be approved by the Department.</text>
+            </paragraph>
+            <paragraph id="id0cd9459e8c514b61841c355bcb7bcd44">
+                <enum>(9)</enum>
+ <text>Telehealth appointments represent a valuable complementary health care option for underserved veterans, but do not offer the same quality of care as in-person visits to facilities of the Department or in the community for veterans in crisis.</text>
+            </paragraph>
+        </section>
+        <section id="id2EF0BE1EAE0C4FFDAE38AE80876E1AAC" changed="not-changed">
+            <enum>3.</enum>
+            <header>Expansion of Veterans Community Care Program to include access to mental health
+                or substance-use services for veterans unable to timely access Mental Health
+                Residential Treatment Programs</header>
+            <subsection changed="not-changed" id="idDB92FC47ECE944E6A8B7E0F62CA95939">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1703 of title 38, United States Code, is amended—</text>
+                <paragraph changed="not-changed" id="id0EC5EE035F704FA0931CD20C26B8F6D2">
+                    <enum>(1)</enum>
+ <text>in subsection (d)—</text> <subparagraph changed="not-changed" id="id9F441716C25B4BC1BBAE542CD162D32B"> <enum>(A)</enum> <text>in paragraph (1)</text>
+                        <clause id="id8CE2B2D898C44D639008C8431D4F69EC" changed="not-changed">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (D), by striking <quote>; or</quote> and inserting a semicolon;</text>
+                        </clause>
+                        <clause id="id3804A8E5696E48A280946798D3BF48E7" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>in subparagraph (E), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+                        </clause>
+                        <clause id="id9417AA651BE44FFDB1A512462266268A" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text>by adding at the end the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idBFDD16A464584BEF986035C364AC80CA" changed="not-changed"> <subparagraph id="id2037F7BF0F5D4E4389568F809B243E6A" indent="up1" changed="not-changed"> <enum>(F)</enum> <text>in the case of residential mental health or substance-use services, the covered veteran—</text>
+                                    <clause changed="not-changed" id="idA7444644A87C4F3F93ADA29A46A2C627">
+                                        <enum>(i)</enum>
+ <text>meets the criteria of the Department for priority admission to a Mental Health Residential Rehabilitation Treatment Program of the Department and the Department is unable to accommodate such priority admission; or</text>
+                                    </clause>
+                                    <clause changed="not-changed" id="idE9F1BB6027F4405883B5920A77A6A6D7">
+                                        <enum>(ii)</enum>
+ <text>has contacted the Department to request such services from a Mental Health Residential Rehabilitation Treatment Program of the Department and the Department is not able to furnish such services in a manner than complies with the access standards of the Department for specialty care provided under this section by a health care provider specified in subsection (c).</text>
+                                    </clause>
+                                </subparagraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph changed="not-changed" id="id535AEFE367094A2AB8F18BD9BFB17A18">
+                        <enum>(B)</enum>
+ <text>by adding at the end the following new paragraph (5):</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idAF1B65A7506743D593CA30AA5E3DFBAC"> <paragraph changed="not-changed" id="idFE26063D67CC4786BD2544BF51538F47" indent="up1"> <enum>(5)</enum> <text>In the case of a covered veteran entitled to mental health or substance-use services under paragraph (1)(F), the Secretary shall ensure that referral of a veteran to an alternate Mental Health Residential Rehabilitation Treatment Program of the Department does not take precedence over timely access to such services under this section pursuant to such paragraph unless such referral is requested by the covered veteran.</text>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph changed="not-changed" id="id01BBB97CE6414D648D9F9457E361B3D5">
+                    <enum>(2)</enum>
+ <text>by redesignating subsection (q) as subsection (r); and</text> </paragraph> <paragraph changed="not-changed" id="id721512F651674F4A9CBC513802CD2C65"> <enum>(3)</enum> <text>by inserting after subsection (p) the following new subsection (q):</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id7B69626B721343E9AFCFCBCA91028F1F">
+                        <subsection changed="not-changed" id="idB5400719962D41FBB4D049BF7FF58741">
+                            <enum>(q)</enum>
+                            <header>Minimum standards for residential mental health or substance-Use
+                                services</header>
+                            <paragraph commented="no" display-inline="yes-display-inline"
+                                id="id60030FEC63C04C4BB6B7E29EA502F01A" changed="not-changed">
+                                <enum>(1)</enum>
+ <text>Subject to paragraph (2), in furnishing residential mental health or substance-use services to covered veterans pursuant to subsection (d)(1)(F), the Secretary shall ensure that programs or facilities providing such services under this section meet the following standards:</text>
+                                <subparagraph changed="not-changed" indent="up1"
+                                    id="idFBB82C2FA4ED48D392475EFE9B69992E">
+                                    <enum>(A)</enum>
+ <text>A treatment program or facility must be licensed and accredited by a State for the provision of the services provided.</text>
+                                </subparagraph>
+                                <subparagraph id="id5de79d425a7043df8ad1d67ee6071221" indent="up1">
+                                    <enum>(B)</enum>
+ <text>A treatment program must be accredited under either the Joint Commission Behavioral Health Standards or the Behavioral Health Standards manual (residential treatment) of the Commission on Accreditation of Rehabilitation Facilities, or any successor standards or manual.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id18422bad13bd420cb5a6e39cc9884154" indent="up1">
+                                <enum>(2)</enum>
+ <text>If a program or facility to which a covered veteran is to be referred pursuant to subsection (d)(1)(F) does not meet the standards specified under paragraph (1), the Secretary, acting through the director of the facility of the Department carrying out the referral—</text>
+                                <subparagraph id="idCB96DD189E394A2785228F5B9BA66431">
+                                    <enum>(A)</enum>
+ <text>shall consider an alternate program or facility; and</text>
+                                </subparagraph>
+                                <subparagraph id="id8214A9C5F4D84E379FEF54CD362D9B55">
+                                    <enum>(B)</enum>
+ <text>may waive such standards on an individual basis if no other alternate program or facility is available or such waiver is in the best interest of the veteran.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection changed="not-changed" id="id49328BB09D2E4F79B3033B65A55E09FB">
+                <enum>(b)</enum>
+                <header>Modification of access standards</header>
+ <text>Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall develop or amend existing access standards of the Department of Veterans Affairs to ensure that access to mental health care under the Veterans Community Care Program under section 1703 of title 38, United States Code, as amended by subsection (a), is not more restrictive than the access standards for specialty care under such section.</text>
+            </subsection>
+        </section>
+        <section changed="not-changed" id="idEE0D4E366F9D47F8BC5085F783E04643">
+            <enum>4.</enum>
+            <header>Prohibition on certain limitations on access of veterans to care</header>
+ <text display-inline="no-display-inline">Section 1703(n) of title 38, United States Code, is amended by adding at the end the following new paragraphs:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idA3E67C4297B74A7BA4E55D836EC31738">
+                <paragraph changed="not-changed" id="idC71162C79FF9452BB8D5EF1A16CF8343" indent="up1">
+                    <enum>(3)</enum>
+ <text>In applying wait times or access standards under this section for purposes of determining eligibility of a covered veteran for care or services under this section, the Secretary may not determine that the veteran is ineligible for such care or services due solely to the fact that health care providers specified in subsection (c) are unable to provide such care or services in compliance with such wait times or access standards.</text>
+                </paragraph>
+                <paragraph changed="not-changed" indent="up1" id="id921F4C96516D42AABA7ED957B23B27DD">
+                    <enum>(4)</enum>
+ <text>If multiple options are available to a covered veteran for care or services under this section, the Secretary shall permit the veteran to elect the option that the veteran prefers.</text>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section changed="not-changed" id="idD6F8BC493E49466081CAA3FCD87EC126">
+            <enum>5.</enum>
+            <header>Development of community care metrics</header>
+            <subsection changed="not-changed" id="id00C20DB71218472E9D4E5A8E544DDAD9">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1703(m)(1) of title 38, United States Code, is amended by adding at the end the following new subparagraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idB7B9B20B1CA74361B679355A70ED3833">
+                    <subparagraph changed="not-changed" id="id053608F74DFB4F1290C3351B5FB22235" indent="up2">
+                        <enum>(C)</enum>
+ <text>The review submitted under subparagraph (A) shall include, for the year covered by the review, the following:</text>
+                        <clause changed="not-changed" id="idC17C7344AE3A46CAA4F6C6DEC6603E56">
+                            <enum>(i)</enum>
+ <text>The number of instances of care or services requested.</text> </clause> <clause changed="not-changed" id="idE5A36FEF63B64DA791B4DDA3C5E7F0E0"> <enum>(ii)</enum> <text>The number of such requests that were approved.</text>
+                        </clause>
+                        <clause changed="not-changed" id="id4B21B7D2174B485EBCB6FE5B66E25EA5">
+                            <enum>(iii)</enum>
+ <text>The number of such requests that were denied.</text> </clause> <clause changed="not-changed" id="id80F2F810FCC6485EAC0BC0FFF8E9EC77"> <enum>(iv)</enum> <text>The number of appeals under subsection (f) of such requests that were denied, including the final decision of such appeal.</text>
+                        </clause>
+                        <clause id="idb75bf6bc390e4687b8500ddf6d3b9d08">
+                            <enum>(v)</enum>
+ <text>The eligibility criteria under which each eligible veteran has qualified for care or services under this section.</text>
+                        </clause>
+                        <clause changed="not-changed" id="id30796B1450D148AA9C977819D634DF16">
+                            <enum>(vi)</enum>
+ <text>Data with respect to the following:</text> <subclause changed="not-changed" id="id82BDFEC9BE7F4D88A1523D24AC51C93D"> <enum>(I)</enum> <text>Requests for care or services relating to mental health.</text>
+                            </subclause>
+                            <subclause changed="not-changed" id="idA0E24E33FE3B47BEA1A08255D9972559">
+                                <enum>(II)</enum>
+ <text>Authorizations for emergency care, including whether transportation for such care was required or whether further care or a hospital stay was required.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection changed="not-changed" id="idDD7C1C0988C54A968BD7D1A28F797763">
+                <enum>(b)</enum>
+                <header>Application</header>
+ <text>The amendment made by subsection (a) shall apply to each review conducted under subparagraph (A) of such section after the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section changed="not-changed" id="id2D7A0278AA9D454EBD8A5C027C1B7A6E">
+            <enum>6.</enum>
+            <header>Limitation on modification of community care access standards</header>
+ <text display-inline="no-display-inline">Any modification on or after the date of the enactment of this Act by the Secretary of Veterans Affairs of the conditions under which care is required to be provided under section 1703(d) of title 38, United States Code, either through a modification of the designated access standards under paragraph (1)(D) of such section, a modification of the criteria developed by the Secretary under paragraph (1)(E) of such section, or otherwise through regulation, shall not take effect until a joint resolution is enacted approving such modification to the conditions under which care is required to be provided under such section.</text>
+        </section>
+    </legis-body>
+</bill>
+

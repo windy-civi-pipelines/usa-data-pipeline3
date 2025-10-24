@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"
+    slc-id="S1-MCG25967-K42-HM-MM7">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2779 IS: Tax Cut for Striking Workers Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2779</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250911">September 11, 2025</action-date>
+            <action-desc><sponsor name-id="S432">Mr. Gallego</sponsor> (for himself, <cosponsor
+                    name-id="S247">Mr. Wyden</cosponsor>, <cosponsor name-id="S418">Mr.
+                    Fetterman</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>,
+                    <cosponsor name-id="S390">Mr. Van Hollen</cosponsor>, <cosponsor name-id="S341"
+                    >Mr. Blumenthal</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>,
+                    <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S353">Mr.
+                    Schatz</cosponsor>, and <cosponsor name-id="S354">Ms. Baldwin</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to exclude strike benefits from
+            gross income.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause"
+        id="HC9D9FD13C9E54A00916D94CF5966B6BF">
+        <section id="id33c4099d56e349e6b2cab771909abcd7" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tax Cut for Striking Workers Act of 2025</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="H8A878029B8CD4BC0A844FDB87EF275B4">
+            <enum>2.</enum>
+            <header>Strike benefits</header>
+            <subsection id="H8E482DB1A85B4744855AA1C2EFE036F5">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Part III of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986, as amended by <external-xref legal-doc="public-law" parsable-cite="pl/119/21">Public Law 119–21</external-xref>, is amended by inserting after section 139L the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="idc0043d842c014167b2c163e235591d30">
+                    <section id="H97FE4214D5AF43A6BBF6EF195F58EB2E">
+                        <enum>139M.</enum>
+                        <header>Compensation for lost wages relating to a strike, lockout, or work
+                            stoppage</header>
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="id6cfc0b946b494c96a534355b6f2d3765">
+                            <enum>(a)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">In the case of an individual, gross income shall not include qualified strike benefits.</text>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="id6c7a2ad41c64433d8870e293e365fa12">
+                            <enum>(b)</enum>
+                            <header>Qualified strike benefits</header>
+ <text display-inline="yes-display-inline">For purposes of this section, the term <term>qualified strike benefits</term> means compensation provided by a labor organization described in section 501(c)(5) and exempt from tax under section 501(a) to a member of such organization if such compensation is provided as a replacement, in whole or in part, for compensation not received by such member from such member’s employer as the result of a strike or lockout arising from a labor dispute (as defined in section 2 of the National Labor Relations Act), or a work stoppage under the Railway Labor Act.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id7f67a0de93d5485fa5dcaf1e2ba28dfd">
+                <enum>(b)</enum>
+                <header>Treatment under earned income tax credit</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(c)(2)(B)(vi)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>or 139M</quote> after <quote>by reason of section 112</quote>.</text>
+            </subsection>
+            <subsection id="HF0CF2E8414C748F1B0DC5EDDA2D441F2">
+                <enum>(c)</enum>
+                <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for part III of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986, as amended by <external-xref legal-doc="public-law" parsable-cite="pl/119/21">Public Law 119–21</external-xref>, is amended by inserting after the item relating to section 139L the following new item:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="H2DB454BE63AA4744BA8AD8C3D369B219">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry idref="H97FE4214D5AF43A6BBF6EF195F58EB2E" level="section">Sec.
+                            139M. Compensation for lost wages relating to a strike, lockout, or work
+                            stoppage.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HCA10ECECA8054AB984017A6ADEB4CA27">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to compensation received after December 31, 2025.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
+

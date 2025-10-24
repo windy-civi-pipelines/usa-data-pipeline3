@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25566-GW9-YK-GCC">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1676 IS: Retaining Educators Takes Added Investment Now Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1676</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250508">May 8, 2025</action-date>
+            <action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> (for himself and <cosponsor name-id="S394">Ms. Smith</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to address the teacher and school
+            leader shortage in early childhood, elementary, and secondary education, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Retaining Educators Takes Added Investment Now Act</short-title></quote> or the <quote><short-title>RETAIN Act</short-title></quote>.</text>
+        </section>
+        <section id="idA739F79D582B4962974572DC35BEDB8D">
+            <enum>2.</enum>
+            <header>Purpose</header>
+ <text display-inline="no-display-inline">The purpose of this Act is to create a refundable tax credit for early childhood educators, teachers, early childhood education program directors, school leaders, and school-based mental health services providers in early childhood, elementary, and secondary education settings that rewards retention based on the time spent serving high-need students.</text>
+        </section>
+        <section id="id4E3F6241877F4CC29C6E887D31224F38">
+            <enum>3.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="id45be957509934ade8ce6a11ee5f33d71"> <enum>(1)</enum> <text>The shortage of experienced, qualified early childhood educators and elementary school and secondary school teachers is a national problem that compromises the academic outcomes and long-term success of students.</text>
+            </paragraph>
+            <paragraph id="idd86c838da05b4e2692e3c748be36b147">
+                <enum>(2)</enum>
+ <text>The shortage is the result of many factors including low pay, frequent turnover in school leadership, poor teaching conditions, and inadequate teacher supports.</text>
+            </paragraph>
+            <paragraph id="idd73930dc1728471cab22386923a73e5a">
+                <enum>(3)</enum>
+ <text>The shortage is worse in high-poverty areas where the factors contributing to the shortage are particularly acute and have an increased negative impact on teachers of color remaining in the field.</text>
+            </paragraph>
+            <paragraph id="id426418de14c444f3aca564f49493aca4">
+                <enum>(4)</enum>
+ <text>A child’s access to high-quality early childhood education is critical to supporting positive outcomes, and early childhood educators—</text>
+                <subparagraph id="id6BFA00403D274557B5BE03F0C2FD44C9">
+                    <enum>(A)</enum>
+ <text>play an important role in setting the foundation for future learning, and</text> </subparagraph> <subparagraph id="id6B9800F05BE14344AA7478A38909744C"> <enum>(B)</enum> <text>promote the development of vital skills, habits, and mindsets that children need to be successful in school and in life.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id89b34fa9b71247008143d6f08e732b0c">
+                <enum>(5)</enum>
+ <text>In 2024, the national median pay of early childhood educators was a mere $37,120, with many early childhood educators relying on government assistance programs such as Medicaid, the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2011">7 U.S.C. 2011 et seq.</external-xref>), or the temporary assistance for needy families program established under part A of title IV of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/601">42 U.S.C. 601 et seq.</external-xref>), and struggling to provide for their own families.</text>
+            </paragraph>
+            <paragraph commented="no" id="id360856897e8a46dd907e8c728c9326ef">
+                <enum>(6)</enum>
+ <text>Studies have demonstrated that well-qualified, experienced teachers are the single most important school-based element contributing to a child’s academic achievement and success.</text>
+            </paragraph>
+            <paragraph id="id44ae7e6d6ff9484b859472814d516cae">
+                <enum>(7)</enum>
+ <text>In the 2023–2024 academic year, the average teacher salary in public elementary schools and secondary schools was only $72,030. When adjusted for inflation, the average teacher salary has declined by 5 percent over the past decade.</text>
+            </paragraph>
+            <paragraph id="ida466f041379a494eb4a8881783fb2746">
+                <enum>(8)</enum>
+ <text>On average, public elementary school and secondary school teachers were paid 23.5 percent less than other college graduates working in non-teaching fields, and many teachers struggle with large amounts of student loan debt.</text>
+            </paragraph>
+            <paragraph id="id0486251182ac4124a5c0d429400065e9">
+                <enum>(9)</enum>
+ <text>In the 2023–2024 academic year, the average teacher salary for a first-year teacher in a public elementary school or secondary school was $46,526.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id136bc7e6c29245a3bc7b1b37c4fe9474">
+                <enum>(10)</enum>
+ <text display-inline="yes-display-inline">An experienced, well-qualified education workforce must also be reflective of the diversity of the student body across race, ethnicity, and disability.</text>
+            </paragraph>
+            <paragraph id="id1a09ede95d2d44968347fc38078394d8">
+                <enum>(11)</enum>
+ <text>Higher pay for teachers can result in a more diverse teacher workforce, and minority students often perform better on standardized tests, have improved attendance, and are suspended less frequently when they have at least one same-race teacher.</text>
+            </paragraph>
+            <paragraph id="id74d0a85de1df4186a4e716429e0c5bc4">
+                <enum>(12)</enum>
+ <text>Experienced, well-qualified school leaders and school-based mental health service providers are essential for providing strong educational opportunities and services for students and promoting teacher retention through improved professional supports and teaching conditions.</text>
+            </paragraph>
+            <paragraph id="id1359792249ec4b86bc1e0208dfb6b805">
+                <enum>(13)</enum>
+ <text>In 2024, the teaching profession experienced the lowest levels of employment in 50 years.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id0D7183D595F64CEE844EE4764E21C56C">
+            <enum>4.</enum>
+            <header>Refundable tax credit for teacher and school leader retention</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id619A9B87E7094A65B0FD60E4F94CBD43">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Subpart C of part IV of subchapter A of chapter 1 of subtitle A of the Internal Revenue Code of 1986 is amended by inserting after section 36B the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id76778047AF0E4C1F95B87F377E785A6A">
+                    <section commented="no" display-inline="no-display-inline" id="id2EFECF20AC834856AE167FD51049914B">
+                        <enum>36C.</enum>
+                        <header>Teacher and school leader retention credit</header>
+                        <subsection commented="no" display-inline="no-display-inline" id="id54357542E0214C55A8E9F5D57BC30D0F">
+                            <enum>(a)</enum>
+                            <header>Allowance of credit</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id71301904B8BB411681D899F3ECF08321">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>In the case of an individual who is employed in a position described in paragraph (2) during a school year ending with or within the taxable year, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable amount (as determined under subsection (b)).</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idB4AFA985CD9146F7908304111B67B9E0">
+                                <enum>(2)</enum>
+                                <header>Eligible positions</header>
+ <text>The positions described in this paragraph shall consist of the following:</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id7FED8C9C27CC47B7B69D6006D78AD7C3">
+                                    <enum>(A)</enum>
+ <text>An eligible early childhood educator.</text> </subparagraph> <subparagraph id="id351f0c9d1e164d789c8c4f92e3916645"> <enum>(B)</enum> <text>An eligible early childhood education program director.</text>
+                                </subparagraph>
+                                <subparagraph id="id5E6EE68927D74D16A8129E4E4FFF6DD7">
+                                    <enum>(C)</enum>
+ <text>An eligible early childhood education provider.</text> </subparagraph> <subparagraph id="ide2e0414e4a2344ba9cc1d65c5053f20f"> <enum>(D)</enum> <text>An eligible teacher.</text>
+                                </subparagraph>
+                                <subparagraph id="id0F73729D139048578E4EDAC93D324408">
+                                    <enum>(E)</enum>
+ <text>An eligible paraprofessional. </text> </subparagraph> <subparagraph id="id1a3b87240f4242b1a07197c1114b50dd"> <enum>(F)</enum> <text>An eligible school-based mental health services provider.</text>
+                                </subparagraph>
+                                <subparagraph id="id2de3fa9191fb4051bc248d6cc5d18914">
+                                    <enum>(G)</enum>
+ <text>An eligible school leader. </text> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="idF16251DD4A764C0B9274F40E0E76C310"> <enum>(b)</enum> <header>Applicable amount</header> <paragraph commented="no" display-inline="no-display-inline" id="id6753F4C02B774961860F45148309BA1B"> <enum>(1)</enum> <header>In general</header> <text>For purposes of this section, the applicable amount shall be an amount determined based on the number of school years for which the individual has been continuously employed in any position described in subsection (a)(2), as follows:</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id406E249CE734428A834B37C4A0A8724E">
+                                    <enum>(A)</enum>
+ <text>Subject to paragraph (2), for the first year of employment, $5,800.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id649142F235384E928D9083E3E405BF05">
+                                    <enum>(B)</enum>
+ <text>For the second continuous year of employment, $5,800.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id36D52A418F25467AA16632E930C81966">
+                                    <enum>(C)</enum>
+ <text>For the third and fourth continuous year of employment, $7,000.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idA944EEB93A4F4EDEA5ED79710B4697A0">
+                                    <enum>(D)</enum>
+ <text>For the fifth, sixth, seventh, eighth, and ninth continuous year of employment, $8,700.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id8F8220BB9B3F4CF2A99BD8E61FBEF007">
+                                    <enum>(E)</enum>
+ <text>For the tenth continuous year of employment, $11,600.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id57A1028CCA1B4D219A6E44ACA24A1145">
+                                    <enum>(F)</enum>
+ <text>For the eleventh, twelfth, thirteenth, fourteenth, and fifteenth continuous year of employment, $8,700.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id8A8FB5B10F4941B6B96C7DC76084A0FB">
+                                    <enum>(G)</enum>
+ <text>For the sixteenth continuous year of employment, $7,000.</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id84548DADFB4140ED91CAD5F8394EFF77">
+                                    <enum>(H)</enum>
+ <text>For the seventeenth, eighteenth, nineteenth, and twentieth continuous year of employment, $5,800.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id580AE2A24A7D489D8D9D9939AE3A8717">
+                                <enum>(2)</enum>
+                                <header>First year</header>
+ <text>For purposes of the first year of employment ending with or within a taxable year, an individual must have been so employed for a period of not less than 4 months before the first day of such taxable year.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id136ACBADF4FF4B138C9FD1F1F3A1F8A4">
+                                <enum>(3)</enum>
+                                <header>Limitation based on total number of school years</header>
+ <text>In the case of any individual who has been employed in any position described in subsection (a)(2) for a total of more than 20 school years, the applicable amount shall be reduced to zero.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="idAA275C0B2E434B0ABEB6ED46A0BB5B9C">
+                            <enum>(c)</enum>
+                            <header>Inflation adjustment</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idAB85EFA2921E41FA928DFFCA7D35F2A1">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>In the case of any taxable year beginning after 2026, each of the dollar amounts in subsection (b)(1) shall be increased by an amount equal to—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id69FD05374CE6416DA0A68DE1751218CE">
+                                    <enum>(A)</enum>
+ <text>such dollar amount, multiplied by</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id0D7A5F1989EA445AAEEA490635947F12"> <enum>(B)</enum> <text>the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting <quote>calendar year 2025</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id91A6D4E022844C2B96FEB7C1FE689DE8">
+                                <enum>(2)</enum>
+                                <header>Rounding</header>
+ <text>If any increase determined under paragraph (1) is not a multiple of $100, such increase shall be rounded to the nearest multiple of $100.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id47009a61f6754591b0b02cc136e2b25f">
+                            <enum>(d)</enum>
+                            <header>Supplementing, not supplanting, State and local education
+                                funds</header>
+                            <paragraph id="idFEC2FC81CFE04960A9C8026E98856DB0">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>A State educational agency or local educational agency shall not reduce or adjust any compensation, or any assistance provided through a loan forgiveness program, to an employee of the State educational agency or local educational agency who serves in any position described in subsection (a)(2) due to the individual’s eligibility for the credit under this section.</text>
+                            </paragraph>
+                            <paragraph id="id2099525EA996459895E7E20E26C4E313">
+                                <enum>(2)</enum>
+                                <header>Methodology</header>
+ <text>Upon request by the Secretary of Education, a State educational agency or local educational agency shall reasonably demonstrate that the methodology used to allocate amounts for compensation and for loan forgiveness to the employees described in paragraph (1) at qualifying schools or qualifying early childhood education programs ensures that employees at each qualifying school or qualifying early childhood education program in the State or served by the local educational agency, respectively, receive the same amount of State or local funds for compensation and loan forgiveness that the qualifying school or qualifying early childhood education program would receive if the credit under this section had not been enacted.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id256DB3EDFF7F4757B36742EAD9E59E07">
+                            <enum>(e)</enum>
+                            <header>Information sharing</header>
+ <text>The Secretary of Education and the Secretary of Health and Human Services shall provide the Secretary with such information as is necessary for purposes of determining whether an early childhood education program or an elementary school or secondary school satisfies the requirements for a qualifying early childhood education program or a qualifying school, respectively.</text>
+                        </subsection>
+                        <subsection id="id51D378DF36C742689E69429314900307">
+                            <enum>(f)</enum>
+                            <header>Definitions</header>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                            <paragraph id="id52A5D23965C442079C6CBC3AD9E02FBC">
+                                <enum>(1)</enum>
+                                <header>ESEA definitions</header>
+ <text>The terms <term>elementary school</term>, <term>local educational agency</term>, <term>secondary school</term>, <term>State educational agency</term>, and <term>educational service agency</term> have the meanings given the terms in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+                            </paragraph>
+                            <paragraph id="id8ede59b9d9f14ce19670372fbe0fcd8e">
+                                <enum>(2)</enum>
+                                <header>Eligible early childhood education program director</header>
+ <text>The term <term>eligible early childhood education program director</term> means an employee or officer of a qualifying early childhood education program who is responsible for the daily instructional leadership and managerial operations of such program.</text>
+                            </paragraph>
+                            <paragraph id="ida8f7ee95782c42ebaa842edea006fde2">
+                                <enum>(3)</enum>
+                                <header>Eligible early childhood education provider</header>
+ <text>The term <term>eligible early childhood education provider</term> means an individual—</text>
+                                <subparagraph id="idE95A5836EA814054BD5CE5AB7CCDC9C5">
+                                    <enum>(A)</enum>
+ <text>who—</text> <clause id="id99551704384F4104A6A84482CE4639CE"> <enum>(i)</enum> <text>has an associate’s degree or higher degree in early childhood education or a related field, or</text>
+                                    </clause>
+                                    <clause id="id1AA8400FAEA14728A28F8111B30AF0EA">
+                                        <enum>(ii)</enum>
+ <text>is enrolled during the taxable year in a program leading to such an associate’s or higher degree and is making satisfactory progress toward such degree, and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id7D5AC482AF8D46B2A011554F1AF1C156">
+                                    <enum>(B)</enum>
+ <text>who is responsible for the daily instructional leadership and managerial operations of a qualifying early childhood education program in a home-based setting.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="idDA3DF7E3A511431898A14C33BAB7DED9">
+                                <enum>(4)</enum>
+                                <header>Eligible early childhood educator</header>
+ <text>The term <term>eligible early childhood educator</term> means an individual—</text>
+                                <subparagraph id="id4EADBA81A9D94FA0ADF81FBC023E4843">
+                                    <enum>(A)</enum>
+ <text>who—</text> <clause id="id2B9ED88668414CEC88C4100649193D16"> <enum>(i)</enum> <text>has an associate’s degree or higher degree in early childhood education or a related field, or</text>
+                                    </clause>
+                                    <clause id="id467C607A0FF4458AACD6025D96571964">
+                                        <enum>(ii)</enum>
+ <text>is enrolled during the taxable year in a program leading to such an associate’s or higher degree and is making satisfactory progress toward such degree,</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="idC4E334E7DE6A465B9F11AC83B2DD78DE">
+                                    <enum>(B)</enum>
+ <text>who has credentials or a license under State law for early childhood education, as applicable, and</text>
+                                </subparagraph>
+                                <subparagraph id="id439192E305CD4330A4BEB69ABA8E6170">
+                                    <enum>(C)</enum>
+ <text>whose primary responsibility is for the learning and development of children in a qualifying early childhood education program during the taxable year.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id1a2b7de542cf443386b1f8dc41acced6">
+                                <enum>(5)</enum>
+                                <header>Eligible paraprofessional</header>
+ <text>The term <term>eligible paraprofessional</term> means an individual—</text>
+                                <subparagraph id="ide05eb8d9c05a409da55f1dfdfb3c57b3">
+                                    <enum>(A)</enum>
+ <text>who is a paraprofessional, as defined in section 3201 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7011">20 U.S.C. 7011</external-xref>),</text>
+                                </subparagraph>
+                                <subparagraph id="id5ece7964bbf646a8b0ef0d8c3352f2eb">
+                                    <enum>(B)</enum>
+ <text>who meets the applicable State professional standards and qualifications pursuant to section 1111(g)(2)(M) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/20/6311">20 U.S.C. 6311(g)(2)(M)</external-xref>),</text>
+                                </subparagraph>
+                                <subparagraph id="id03654b9a5e174989aff99ed8a795d13d">
+                                    <enum>(C)</enum>
+ <text>whose primary responsibilities involve working or assisting in a classroom setting, and</text>
+                                </subparagraph>
+                                <subparagraph id="id6c7550e5ad8341c880672ba662d15337">
+                                    <enum>(D)</enum>
+ <text>who is employed in a qualifying school or a qualifying early childhood education program.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id84eb66d961bb46d181505b21e5e14afa">
+                                <enum>(6)</enum>
+                                <header display-inline="yes-display-inline">Eligible school-based
+                                    mental health services provider</header>
+ <text display-inline="yes-display-inline">The term <term>eligible school-based mental health services provider</term> means an individual—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id02094EEBFE6F4FF4B5A0D610EFA59FB2">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">described in section 4102(6) of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7112">20 U.S.C. 7112(6)</external-xref>), and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id0AF52BC02AAD4492B7716DBCCB6D8F30">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">who is employed in a qualifying school or a qualifying early childhood education program.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id8cf9b16c418e4c0dad3f5b179ff0c529">
+                                <enum>(7)</enum>
+                                <header>Eligible school leader</header>
+ <text>The term <term>eligible school leader</term> means a principal, assistant principal, or other individual who is—</text>
+                                <subparagraph id="id465f400a0cca438eae06c6c4786d78c6">
+                                    <enum>(A)</enum>
+ <text>an employee or officer of a qualifying school, and</text> </subparagraph> <subparagraph id="ida322b1f603b84edc8be6876e168d1314"> <enum>(B)</enum> <text>responsible for the daily instructional leadership and managerial operations in the qualifying school.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="ide2f695182f2148638afd18149d1d23b8">
+                                <enum>(8)</enum>
+                                <header>Eligible teacher</header>
+ <text>The term <term>eligible teacher</term> means an individual who—</text>
+                                <subparagraph id="id41ee87b5ca374d2bbacf4608f854a008">
+                                    <enum>(A)</enum>
+ <text>is an elementary school or secondary school teacher who, as determined by the State or local educational agency, is a teacher of record who provides direct classroom teaching (or classroom-type teaching in a nonclassroom setting) to students in a qualifying school, and</text>
+                                </subparagraph>
+                                <subparagraph id="id1e093370973c41d2b47e2116d13480cc">
+                                    <enum>(B)</enum>
+                                    <clause commented="no" display-inline="yes-display-inline" id="id258cff9cbe9740c3aca3ff24f550d754">
+                                        <enum>(i)</enum>
+ <text>meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, in the State in which such school is located and in the subject area in which the individual is the teacher of record, or</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="idbf4bfc8b7c104bd991f71d27e03273b9" indent="up1">
+                                        <enum>(ii)</enum>
+ <text>is enrolled during the taxable year in a program leading to State certification and licensure as described in clause (i) and is making satisfactory progress toward such certification and licensure requirements.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="ida065504f4d1b4e8d9d99a959f5865224">
+                                <enum>(9)</enum>
+                                <header>Qualifying early childhood education program</header>
+                                <subparagraph id="idC074DF6E0BF04202B75638334105DF16">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>The term <term>qualifying early childhood education program</term> means an early childhood education program, as defined in section 103 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1003">20 U.S.C. 1003</external-xref>), that, regardless of setting—</text>
+                                    <clause id="id05d6625877c04dd8a1386bd8acbe7e27">
+                                        <enum>(i)</enum>
+ <text>serves children who receive services for which financial assistance is provided in accordance with the Child Care and Development Block Grant Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/9857">42 U.S.C. 9857 et seq.</external-xref>), the Head Start Act (<external-xref legal-doc="usc" parsable-cite="usc/42/9831">42 U.S.C. 9831 et seq.</external-xref>), or the child and adult care food program established under section 17 of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1766">42 U.S.C. 1766</external-xref>), and</text>
+                                    </clause>
+                                    <clause id="id2f74523b3f5e434b83451afc3db76560">
+                                        <enum>(ii)</enum>
+ <text>participates in a State tiered and transparent system for measuring program quality.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="ide08080f3aee34a05bdea5e442a2157e3">
+                                    <enum>(B)</enum>
+                                    <header>Special rule</header>
+ <text>Notwithstanding subparagraph (A), an early childhood education program that does not satisfy the requirements of subparagraph (A)(ii) shall be deemed to be a qualifying early childhood education program until September 30, 2025, if the program—</text>
+                                    <clause id="id85E36FAB8EBA4EEA9949FF953A0C7EBD">
+                                        <enum>(i)</enum>
+ <text>satisfies all requirements of subparagraph (A) except for clause (ii) of such subparagraph, and</text>
+                                    </clause>
+                                    <clause id="id8E5498C04ADB4E4680C57300EECC2DB6">
+                                        <enum>(ii)</enum>
+                                        <subclause commented="no" display-inline="yes-display-inline" id="id937A239D233A4ABC80C73D9C8C026AD5">
+                                            <enum>(I)</enum>
+ <text>meets the Head Start program performance standards described in section 641A(a) of the Head Start Act (<external-xref legal-doc="usc" parsable-cite="usc/42/9836a">42 U.S.C. 9836a(a)</external-xref>), if applicable, or</text>
+                                        </subclause>
+                                        <subclause indent="up1" id="id118C8C2BC7B84A718CC52FE01CA54066">
+                                            <enum>(II)</enum>
+ <text>is accredited by a national accreditor of early learning programs as of the date of enactment of the <short-title>Retaining Educators Takes Added Investment Now Act</short-title>.</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="ida1b54fbca37c4a88aebfc37a01d645e3">
+                                <enum>(10)</enum>
+                                <header>Qualifying school</header>
+ <text>The term <term>qualifying school</term> means—</text> <subparagraph id="id0D16E4CDB22A4538A19670CF3D948999"> <enum>(A)</enum> <text>a public elementary school or secondary school that—</text>
+                                    <clause id="id0ac745c3774a439bb3a62f0b464d74ba">
+                                        <enum>(i)</enum>
+ <text>is in the school district of a local educational agency that is eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6311">20 U.S.C. 6311 et seq.</external-xref>), or</text>
+                                    </clause>
+                                    <clause id="id068706e0d3904d519260a754a09c4a2f">
+                                        <enum>(ii)</enum>
+ <text>is served or operated by an educational service agency that is eligible for such assistance, or</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id33fa3033427d42a4b95eef445ed3bf6b">
+                                    <enum>(B)</enum>
+ <text>an elementary school or secondary school that is funded by the Bureau of Indian Education and that is in the school district of a local educational agency that is eligible for such assistance.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idC8FB45C19C01490AADEF8337A0F05592">
+                <enum>(b)</enum>
+                <header>W–2 reporting of continuous employment for certain positions at qualifying
+                    early childhood education programs or qualifying schools</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6051">Section 6051(a)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting <quote>, and</quote>, and by inserting after paragraph (17) the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="idDCDE19C1B51443B6B73D44D4EDB185AA">
+                    <paragraph id="id01FD669799E4432ABAADA9B709B4028F">
+                        <enum>(18)</enum>
+ <text>in the case of an employee who is employed in a position described in subsection (a)(2) of section 36C, the number of school years for which such employee has been continuously employed in any such position.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idC0C2F262368D433C89A6654BD34F7979">
+                <enum>(c)</enum>
+                <header>Conforming amendments</header>
+                <paragraph commented="no" id="id98255B8A4069445B86BAD9484A18DBDE">
+                    <enum>(1)</enum>
+ <text>The table of sections for subpart C of part IV of subchapter A of chapter 1 of subtitle A of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following:</text>
+                    <toc>
+                        <toc-entry bold="off" level="section"><quote>Sec. 36C. Teacher and school
+                                leader retention credit.</quote>.</toc-entry>
+                    </toc>
+                </paragraph>
+                <paragraph id="idEDA2CC352D1C497094B2683E0774F018">
+                    <enum>(2)</enum>
+ <text>Section 6211(b)(4)(A) of such Code is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+                </paragraph>
+                <paragraph id="id6193B0F6FEE844149C6AB5B86ACDE7F9">
+                    <enum>(3)</enum>
+ <text>Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting <quote>36C,</quote> after <quote>36B,</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id8A29A795A8884C518D945EBAF71CADD0">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section>
+        <section id="id069ae0e0e24d4f2c9ddddf999eff9a22">
+            <enum>5.</enum>
+            <header>Developing interagency data series</header>
+ <text display-inline="no-display-inline">The Secretary of Labor, in coordination with the Secretary of Treasury, the Secretary of Education, and the Secretary of Health and Human Services, shall—</text>
+            <paragraph id="idD728747652B44D36A9D5107F31A85A7D">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">develop and publish on the internet website of the Bureau of Labor Statistics a data series that captures—</text>
+                <subparagraph id="idFDBEFFAFFA5C46B69C2451D84896520E">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the average base salary of teachers in elementary schools and secondary schools, disaggregated by—</text>
+                    <clause id="idE73D76D45501484AA07D43459506192F">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">employment in public elementary schools and secondary schools that receive assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6311">20 U.S.C. 6311 et seq.</external-xref>),</text>
+                    </clause>
+                    <clause id="id014E3240DD1948388424B2027427DA9D">
+                        <enum>(ii)</enum>
+ <text>employment in public elementary schools and secondary schools that do not receive such assistance, and</text>
+                    </clause>
+                    <clause id="idCD010C9B4B3C450CAD012CCFB769DC1C">
+                        <enum>(iii)</enum>
+ <text>geographic region, and</text> </clause> </subparagraph> <subparagraph id="idD47EF9304E7144A3B1D79375293DED77"> <enum>(B)</enum> <text display-inline="yes-display-inline">the average base salary of early childhood educators, disaggregated by highest level of degree attained, and</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id7D678C9AF2BE46C1BA0D8C6C55CA8456">
+                <enum>(2)</enum>
+ <text>update the data series under paragraph (1) on an annual basis.</text> </paragraph> </section> </legis-body> </bill>
+

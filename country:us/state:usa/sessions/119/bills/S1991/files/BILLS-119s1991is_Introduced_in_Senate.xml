@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEN25696-1PY-0K-L90">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1991 IS: Delivering On Government Efficiency in Spending Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1991</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250609">June 9, 2025</action-date>
+            <action-desc><sponsor name-id="S376">Ms. Ernst</sponsor> (for herself, <cosponsor name-id="S435">Mr. Sheehy</cosponsor>, <cosponsor name-id="S410">Ms.
+                    Lummis</cosponsor>, <cosponsor name-id="S419">Mr. Mullin</cosponsor>, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S323">Mr.
+                    Risch</cosponsor>, <cosponsor name-id="S412">Mr. Tuberville</cosponsor>,
+                    <cosponsor name-id="S398">Mr. Cramer</cosponsor>, <cosponsor name-id="S411">Mr.
+                    Marshall</cosponsor>, <cosponsor name-id="S417">Mr. Budd</cosponsor>, <cosponsor name-id="S375">Mr. Daines</cosponsor>, <cosponsor name-id="S378">Mr.
+                    Lankford</cosponsor>, <cosponsor name-id="S416">Mrs. Britt</cosponsor>,
+                    <cosponsor name-id="S153">Mr. Grassley</cosponsor>, and <cosponsor name-id="S404">Mr. Scott of Florida</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/33">chapter 33</external-xref> of title 31, United States Code, to require adequate
+            information regarding payments of Federal funds.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Delivering On Government Efficiency in Spending Act</short-title></quote>.</text>
+        </section>
+        <section id="id02eabe72eba1415a9e2767d26e4a3644">
+            <enum>2.</enum>
+            <header>Mandatory reporting and verification of payment information</header>
+            <subsection id="idf51dcdcc4fe9403494e3afbc253babca">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/33">chapter 33</external-xref> of title 31, United States Code is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id9c4dac62aadf4ee0b4b7217532344ad6">
+                    <section id="id26b542d1641e475a88be25bcb2c7f47a">
+                        <enum>3337.</enum>
+                        <header>Mandatory reporting and verification of payment information</header>
+                        <subsection id="idfc5ea4bba58745ac94bf73ea182a904e">
+                            <enum>(a)</enum>
+                            <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id9e76560677ac43eaab1baa981dd91671"> <enum>(1)</enum> <header>Agency</header> <text>The term <term>agency</term> means—</text>
+                                <subparagraph id="id7f865cd793324606a6e3fc7d6042d2be">
+                                    <enum>(A)</enum>
+ <text>an executive agency; </text> </subparagraph> <subparagraph id="id46d950192a774703b2d71328177c4edd"> <enum>(B)</enum> <text>an independent regulatory agency, as defined in section 3502 of title 44; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="ide9200dbcd3224df0abd3231f1ff8e24b">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">an entity that—</text> <clause commented="no" display-inline="no-display-inline" id="id0ee9307ed24c4e449d292fbf1ecc0a23"> <enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="idda077f4b6ebc467081f477a557da2e5f"> <enum>(I)</enum> <text>is the Congress;</text>
+                                        </subclause>
+                                        <subclause indent="up1" commented="no" display-inline="no-display-inline" id="ida5ace97fad4f4dc9ab9b0316696f1d0a">
+                                            <enum>(II)</enum>
+ <text>is a court of the United States;</text> </subclause> <subclause indent="up1" commented="no" display-inline="no-display-inline" id="idaa054335824c47d4a9605d07f13a84e9"> <enum>(III)</enum> <text>is a government of a territory or possession of the United States; or</text>
+                                        </subclause>
+                                        <subclause indent="up1" commented="no" display-inline="no-display-inline" id="idcb9d826e6b7a4f3b9a89794ae316fdcc">
+                                            <enum>(IV)</enum>
+ <text>is the District of Columbia; and</text> </subclause> </clause> <clause id="idcb8d39d071c64dbbaa9f8bfa8fadf765"> <enum>(ii)</enum> <text>uses a Treasury disbursement system.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="idbe008541520d458bbf50417bacd89300">
+                                <enum>(2)</enum>
+                                <header>Budget justification materials</header>
+ <text>The term <term>budget justification materials</term> has the meaning given that term in section 3(b)(2)(A) of the Federal Funding Accountability and Transparency Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note).</text>
+                            </paragraph>
+                            <paragraph id="id55ba74e8878446c6b4db78b55c007de7">
+                                <enum>(3)</enum>
+                                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of the Treasury.</text>
+                            </paragraph>
+                            <paragraph id="idef996c3a5634490990b114ae7aeaa29f" commented="no">
+                                <enum>(4)</enum>
+                                <header>Sensitive operations</header>
+ <text>The term <term>sensitive operations</term>— </text> <subparagraph commented="no" display-inline="no-display-inline" id="ida3031604d03744fdbe336ae25bdb8d7d"> <enum>(A)</enum> <text display-inline="yes-display-inline">means an operation of an agency related to a domestic law enforcement activity or the national security of the United States with respect to which the disclosure of information in accordance with subsection (b) would— </text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id68d0301efd8740068697043b2fa1f1da">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">reasonably lead to death or serious bodily injury; or</text>
+                                    </clause>
+                                    <clause id="id6d56c0e0ebe64e8fa5b5540d19df9cff">
+                                        <enum>(ii)</enum>
+ <text>result in the disclosure of information— </text> <subclause commented="no" display-inline="no-display-inline" id="id92e3c50f8d454d0ea66b3af86f372e9b"> <enum>(I)</enum> <text display-inline="yes-display-inline">the disclosure of which is prohibited by law; </text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id25269230777a4e87854e4510196cc6ce">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">that is classified; or </text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="idf5b174f3ffae4ed885be02828a4049f4">
+                                            <enum>(III)</enum>
+ <text display-inline="yes-display-inline">that is exempt from disclosure under section 552(b) of title 5; and</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id760e73088fe043348b85aabfd98e8891">
+                                    <enum>(B)</enum>
+ <text>includes an operation described in subparagraph (A) that is carried out in tandem or coordination with, or in support of, a State, local, or Tribal government. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id2cee0685eed84034928ea89221e351ae">
+                                <enum>(5)</enum>
+                                <header>Treasury disbursement system</header>
+ <text>The term <term>Treasury disbursement system</term> means any system operated by the Secretary for the purpose of disbursing public money.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id2c2b5dca6bcc4ca580bbdae91e456b7e">
+                            <enum>(b)</enum>
+                            <header>Mandatory reporting of payment information</header>
+ <text>Subject to subsection (e), for each payment authorized by the head of an agency that is submitted to a Treasury disbursement system for disbursement by the Secretary, the head of the agency shall provide to the Secretary, in such format as the Secretary requires, for inclusion in the Treasury disbursement system—</text>
+                            <paragraph id="id88b0e6f96db04a4781f91f2337f5ad23">
+                                <enum>(1)</enum>
+ <text>a brief description of the purpose for which the payment is being made; </text>
+                            </paragraph>
+                            <paragraph id="idaa4ab0d576764c4aae1bf59118c37040">
+                                <enum>(2)</enum>
+ <text>the appropriations account (Treasury Account Symbol, or any successor thereto) from which the payment is to be drawn; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id8731356b825645d39e87190063348094">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the type of activity being reported (Business Event Type Code, or any successor thereto). </text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id3aa5564cd4a746a5803e4ccc759639ea">
+                            <enum>(c)</enum>
+                            <header>Periodic updates</header>
+ <text>Not less frequently than once each fiscal year— </text> <paragraph commented="no" display-inline="no-display-inline" id="idb9173afd2d4040d89cb92e09ea87ca61"> <enum>(1)</enum> <text display-inline="yes-display-inline">for each payment—</text>
+                                <subparagraph id="idf097d21abfbc456dab7b3de8bcd811dd">
+                                    <enum>(A)</enum>
+ <text>the certifying official shall evaluate whether the information collected under subsection (b) is accurate and complete; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id483985a96e94462289651f07cded232f">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the head of each certifying agency shall provide written confirmation to the disbursing official attesting to the accuracy of such information; and</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id2f5b309446b14edf8150dbfc40b7546a">
+                                <enum>(2)</enum>
+ <text>the disbursing official shall consult with the certifying official to improve the management of the Treasury disbursement system.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id78e7f4065e934b3d9fc0ed3abb92bdba">
+                            <enum>(d)</enum>
+                            <header>Public reporting</header>
+ <text>Not later than 30 days after the date on which each payment that is subject to this subchapter is certified, the Director of the Office of Management and Budget shall direct the Secretary, or, if the payment is disbursed by an accountable official who is not in a position in the Department of the Treasury, the head of the agency with jurisdiction over the accountable official, to make available on the public website operated under the Federal Funding Accountability and Transparency Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note) the data required to be provided under subsection (b) with respect to the payment.</text>
+                        </subsection>
+                        <subsection id="ida3d1fa87d9c74b23884f8ddd82de86b3">
+                            <enum>(e)</enum>
+                            <header>Exemptions</header>
+ <text>Subsections (b), (c), and (d) shall not apply to a payment for which the head of the agency authorizing the payment verifies to the Secretary that the compliance with such subsections would adversely impact a sensitive operation for which the payment is authorized.</text>
+                        </subsection>
+                        <subsection id="idb55ad2417f874668a9ed1aeffcacf3d1" commented="no" display-inline="no-display-inline">
+                            <enum>(f)</enum>
+                            <header display-inline="yes-display-inline">Report</header>
+ <text display-inline="yes-display-inline">The head of each agency shall include in a controlled unclassified informational annex, or in a classified annex (if the applicable information has been properly classified by an officer or employee of the agency with original classification authority), as warranted, of the first budget justification materials of the agency submitted after the date of enactment of this section, and all budget justification materials submitted thereafter, a report that includes, for each payment that was made during the most recent prior fiscal year and for which the reporting of information was exempted under subsection (e), aggregated information which would have been provided to the Secretary under subsection (b), but for the exemption.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>. </after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="id742e317128d748a791ca08a8d18838b1">
+                <enum>(b)</enum>
+                <header>Implementation</header>
+ <text>The Secretary of the Treasury may issue regulations or guidance to implement the amendments made by this Act.</text>
+            </subsection>
+            <subsection id="ide15cc2cbd76041bfb61ccec3ff741470">
+                <enum>(c)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this section, or an amendment made by this section, shall be construed to impose a legal liability on a disbursing official resulting from any action taken pursuant to this section, or an amendment made by this section.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id1fb63b2baa1542f9bf73b33ec90ebf0e">
+                <enum>(d)</enum>
+                <header>Conforming amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/33">chapter 33</external-xref> of title 31, United States Code is amended by inserting after the item relating to section 3336 the following:</text>
+                <quoted-block style="USC" id="idf6782e2a-5f70-4928-89df-69413cc0eaca">
+                    <toc>
+                        <toc-entry level="section" idref="id26b542d1641e475a88be25bcb2c7f47a">3337.
+                            Mandatory reporting and verification of payment information.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="idacd2e00675a548719ae26e5d98672243">
+            <enum>3.</enum>
+            <header>Data access for purposes of program integrity</header>
+            <subsection id="id2f8809baca554c5fa1ca1d3b62f41895">
+                <enum>(a)</enum>
+                <header>Access to the National Directory of New Hires</header>
+ <text display-inline="yes-display-inline">Section 453(j) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/653">42 U.S.C. 653(j)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block display-inline="no-display-inline" style="OLC" id="ideab285f35ddb4d539299cdde500dade6">
+                    <paragraph commented="no" display-inline="no-display-inline" id="IDE08F6CACABF5449D94CAE165010F02C0">
+                        <enum>(12)</enum>
+                        <header display-inline="yes-display-inline">Information to assist in the
+                            prevention of improper payments</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ide23194ecff104ba094a5f06f5c06aea1">
+                            <enum>(A)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for the purpose of identifying, preventing, and recovering improper payments.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id3eaade35fb644c0c971e035c54fdf26b">
+                            <enum>(B)</enum>
+                            <header>Redisclosure</header>
+ <text>For the purpose of identifying, preventing, and recovering improper payments, the Secretary of the Treasury may redisclose information in the National Directory of New Hires to—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id0c4996e46f584242a17ee0bdbf7257a9">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">agents and contractors of the Secretary of the Treasury;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id621f6d1b28e94165bf27b1f0bf9e76bf">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">Federal and non-Federal agencies authorized to receive information in the National Directory of New Hires directly from the Secretary; and</text>
+                            </clause>
+                            <clause id="id13b3b4a5f28847f493f36eab10f28c05" commented="no" display-inline="no-display-inline">
+                                <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">such additional persons and entities as agreed to by the Secretary and the Secretary of the Treasury.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="ide7b862c8b22344b38a766158d8b8a495">
+                <enum>(b)</enum>
+                <header>Bank account verification and precertification</header>
+ <text>Section 3325 of title 31, United States Code, is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="id4fbb0137b37c4ab783b82c805a7b320a"> <enum>(1)</enum> <text display-inline="yes-display-inline">in subsection (a)—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide712dd81a726441b888c888c0cb2381f">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding paragraph (1), by striking <quote>the executive branch</quote> and inserting <quote>an agency</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5e619e6edf404b51a16a9219ebd6c756">
+                        <enum>(B)</enum>
+ <text>in paragraph (1), by striking <quote>executive</quote> each place it appears;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3f3289cdebe34d77b80da07d9f7e1a0e">
+                    <enum>(2)</enum>
+ <text>in subsection (d), by striking <quote>executive</quote> each place it appears; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id91523da988314bf0be511783c7cb6d31">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id54b325b3200044d480c0dc7a47637c33">
+                        <subsection id="id6226f04660d14638aece19100c1b1e0c">
+                            <enum>(e)</enum>
+                            <paragraph commented="no" display-inline="yes-display-inline" id="id5f59534e7e854af9a3fbd356b0ed8ec6">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Prior to certifying a voucher to a disbursing official, the head of an agency or an officer or employee of an agency described in subparagraph (A) or (B) of subsection (a)(1), as applicable, shall take necessary actions to accurately disburse payments to the recipients of those payments, including by—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idf79f9d490c734f268f4a0a7d4331f392" indent="up1">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">verifying the accuracy of the bank account information to which a payment is to be disbursed; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="idd5a0f24cf77340aab7ba3698d8db1e58" indent="up1">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">comparing the bank account information of the proposed recipient to other payment records available to the agency.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" indent="up1" id="id1bf7303ba76a462c92741d7ce38b4238">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">The Secretary of the Treasury and, with the approval of the Secretary of the Treasury, the head of the agency having jurisdiction over a disbursing official, may issue guidance to carry out this subsection.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="id5c60d8658bbf4dc59683118fda67d2b6">
+                            <enum>(f)</enum>
+ <text>In this section, the term <term>agency</term> has the meaning given the term in section 3337 of this title.</text>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id8fce4be040e04c849f2b138c1822d1e4">
+                <enum>(c)</enum>
+                <header>Access to information covered by FCRA</header>
+                <paragraph id="idc484eae5234f43bda62a7f61098c4f9f">
+                    <enum>(1)</enum>
+                    <header>Definitions</header>
+ <text>Section 603(k)(1) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681a">15 U.S.C. 1681a(k)(1)</external-xref>) is amended—</text>
+                    <subparagraph id="id7165182890864950b8ac36edf801eb2e">
+                        <enum>(A)</enum>
+ <text>in subparagraph (A), by striking <quote>and</quote> at the end;</text> </subparagraph> <subparagraph id="ide398f4cf54284e53a0c104e8d1aeabb0"> <enum>(B)</enum> <text>in subparagraph (B), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="id5287fd944fb143a09e960336a8771e7f">
+                        <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id61868d802a3c44489b408e1f0061643e"> <subparagraph id="id3c45b02502fa47daa5a989f2d7b5e48a"> <enum>(C)</enum> <text>does not include—</text>
+                                <clause id="id5781065c03d4462cb0ca556c88bbad69">
+                                    <enum>(i)</enum>
+ <text>any change to a Federal disbursement, including the pre-certification termination of such disbursement, that is—</text>
+                                    <subclause id="id868b3df15bd443069ecacf388f264ee5">
+                                        <enum>(I)</enum>
+ <text>based on a consumer report; and</text> </subclause> <subclause id="id5e3f419c366c4fafbfbddd5df4aecd37"> <enum>(II)</enum> <text>made to improve the accuracy of the disbursement; or</text>
+                                    </subclause>
+                                </clause>
+                                <clause id="id29e748a777bc45a484f1a04467eedb0f">
+                                    <enum>(ii)</enum>
+ <text>any action taken by an authorized user of the Working System of the Do Not Pay Initiative authorized by section 3354 of title 31, United States Code, in connection with the disbursement of a payment, as defined in section 3351 of that title, that is based on a consumer report.</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idffab33e37736439fbdcfeeb2cf08f013">
+                    <enum>(2)</enum>
+                    <header>Permissible uses of consumer reports</header>
+ <text>Section 604(a) of the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681b">15 U.S.C. 1681b(a)</external-xref>) is amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id74961ce2ced44fd89a99ce6273b29690">
+                        <paragraph id="id2f1eb717f967463183d18273c0057e06">
+                            <enum>(7)</enum>
+ <text>To the Secretary of the Treasury for purposes of assisting Federal and non-Federal entities identify, prevent, and recover improper payments, including redisclosing information in a consumer report to—</text>
+                            <subparagraph id="idd71dda07c5bc43ad819a40b40827cc73">
+                                <enum>(A)</enum>
+ <text>agents and contractors of the Department of the Treasury; and</text>
+                            </subparagraph>
+                            <subparagraph id="idc2f0e875e8234c70abca6ce68f90dd27">
+                                <enum>(B)</enum>
+ <text>Federal and non-Federal entities authorized to receive such information directly from the Secretary.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id558f158fb3df4175ad15e19286482e61">
+                <enum>(d)</enum>
+                <header>Privacy-Preserving validation of select tax information</header>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="id558e3ea58aef4d3cbd46cbbbdb5ac137">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/6103">Section 6103(i)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline"
+                        id="idc529e089b83b4265a678364e48d532f1">
+                        <paragraph commented="no" display-inline="no-display-inline"
+                            id="idf74fb96f27864581ae182417df84aa1f">
+                            <enum>(9)</enum>
+                            <header>Do not pay working system</header>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id4ad6c333d36c4977845f193786a67f50">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">In response to an inquiry by the Secretary with respect to a specific individual, the Commissioner shall provide the Secretary with any return information described in subparagraph (B) with respect to such individual for the applicable period, in a manner which preserves the confidentiality of such information, for the purposes of enhancing the Do Not Pay working system described in section 3354(c) of title 31, United States Code, which may include disclosing such information—</text>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="idf09f42ed762a46248d26ef1e20f64fa1">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">to agents and contractors of the Department of Treasury who are authorized to access the Do Not Pay working system, and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id736990ddd6ba441fbd74a786624da467">
+                                    <enum>(ii)</enum>
+ <text>other Federal agencies and State agencies that manage Federally-funded State-administered programs (including agents and contractors of such agencies) who are authorized to access the Do Not Pay working system,</text>
+                                </clause>
+                                <continuation-text continuation-text-level="subparagraph">for
+                                    purposes of using the Do Not Pay working system to identify,
+                                    prevent, and recover improper payments.</continuation-text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id26ac31fec27243aba7944681225ba254">
+                                <enum>(B)</enum>
+                                <header>Return information</header>
+ <text>The return information described in this subparagraph is the following:</text>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id4498b9912e5d495eb92b11a42ad3bc52">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">Taxpayer identification number.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id1e4ee5d3edbd446593b47be69b39a19e">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">Filing status.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id17686220709f4247985c2cc712f1c1a9"> <enum>(iii)</enum> <text display-inline="yes-display-inline">Adjusted gross income.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="iddf467b1030844d2493b9ab9dfc03dbc6">
+                                    <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">Income or loss reported on Schedule C of Form 1040 (or successor forms).</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id87d5931134ec49edbe6cda8327ec639a">
+                                    <enum>(v)</enum>
+ <text display-inline="yes-display-inline">Filing year.</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id3a967d7e70e444ada40b9362a0ae8f59"> <enum>(vi)</enum> <text display-inline="yes-display-inline">Bank account and routing information.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id418252a0322b47f1b14ae8d12a3f4026">
+                                    <enum>(vii)</enum>
+ <text display-inline="yes-display-inline">Any reported identity theft related to the taxpayer identification number.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id212e387622b5487a8a7057722754ddea">
+                                    <enum>(viii)</enum>
+ <text display-inline="yes-display-inline">Whether a tax return was not filed for any taxable year.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="ida3bc4a3302594f46b89b6a4b2e383a88">
+                                <enum>(C)</enum>
+                                <header>Applicable period</header>
+ <text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>applicable period</term> means, with respect to any individual, the period—</text>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id7be387146a394a4dabf3786987867fc6">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">consisting of the number of taxable years specified by the Secretary in the inquiry made under subparagraph (A) (but not less than 3 taxable years), and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="idfc151c82718f48b2ab2991b842a62b82">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">ending with the most recently completed taxable year for which the information described in such subparagraph is available.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id1c688e3b742d437999a87a2ec9d205a4" commented="no"
+                    display-inline="no-display-inline">
+                    <enum>(2)</enum>
+                    <header>Effective date</header>
+ <text>The amendment made by this section shall apply to disclosures made after the date of the enactment of this Act.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id01f12f3a8a29459da5b53e7f222de5e5">
+                <enum>(e)</enum>
+                <header>Access to Social Security information</header>
+ <text>Title II of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>) is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id04f6c17f73454d63bf901a56eabf934f">
+                    <section id="idae38050afcc34cf8bfa64f612f301f58">
+                        <enum>235.</enum>
+                        <header>Disclosure of information for do not pay system</header>
+                        <subsection commented="no" display-inline="no-display-inline" id="ide24f60750a064613af68a0a36782c112">
+                            <enum>(a)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">For the purposes described in subsection (b), the Commissioner of Social Security shall, upon request of the Secretary of the Treasury, enter into an agreement with the Department of the Treasury to regularly provide personally identifiable information held by the Social Security Administration, which shall, with respect to any individual, include, at a minimum, the name, date of birth, and Social Security number of such individual.</text>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline" id="id0fb9723930b34aeda98616042e5b6b0b">
+                            <enum>(b)</enum>
+                            <header>Purposes</header>
+ <text display-inline="yes-display-inline">Information provided under subsection (a) shall be used solely for purposes of enhancing the Do Not Pay working system described in section 3354(c) of title 31, United States Code, with respect to identifying, preventing, and recovering improper payments, including fraudulent payments.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
