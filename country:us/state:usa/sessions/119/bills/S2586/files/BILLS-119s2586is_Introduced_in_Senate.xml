@@ -1,0 +1,1640 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-CAN25875-YVV-NW-LL5">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2586 IS: Marine Aquaculture Research for America Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2586</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S318">Mr. Wicker</sponsor> (for himself and <cosponsor name-id="S353">Mr. Schatz</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSCM00">Committee on
+                    Commerce, Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Administrator of the National Oceanic and Atmospheric
+            Administration to establish an assessment program for commercial-scale offshore
+            aquaculture through demonstration projects, to establish Aquaculture Centers of
+            Excellence, to support aquaculture workforce development and working waterfronts, and
+            for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title; table of contents</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id65c46bea5a2a43baa071882dc9cead79">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Short title</header>
+ <text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Marine Aquaculture Research for America Act of 2025</short-title></quote> or the <quote><short-title>MARA Act of 2025</short-title></quote>.</text>
+            </subsection>
+            <subsection id="id13be7692bda34889aa705a19803a45a5">
+                <enum>(b)</enum>
+                <header>Table of contents</header>
+ <text>The table of contents for this Act is as follows:</text> <toc> <toc-entry level="section" idref="S1">Sec. 1. Short title; table of contents.</toc-entry> <toc-entry level="section" idref="id7d43e5b5e8c74237bfbb90a29f4ac05e">Sec. 2. Purposes.</toc-entry> <toc-entry level="section" idref="id7bffe2770c3f4e43a97920fec9923bb2">Sec. 3. Definitions.</toc-entry> <toc-entry level="title" idref="id0FD1AEFE9CE44243A0EE4AB4BBDD3A85">TITLE I—Office of Aquaculture</toc-entry> <toc-entry level="section" idref="id268ACE8754C74017B8826368772C8D2F">Sec. 101. Office of Aquaculture.</toc-entry> <toc-entry level="title" idref="id031a13fca0574f24b6b77f38fc40109c">TITLE II—Commercial-scale demonstration projects</toc-entry> <toc-entry level="section" idref="id0f45ddc05cde4b7a9947bf467ed0aaa8">Sec. 201. Assessment program for offshore aquaculture.</toc-entry> <toc-entry level="section" idref="id20253c4e92db478b8841bcfe71179f37">Sec. 202. Permits for demonstration projects for offshore aquaculture facilities.</toc-entry> <toc-entry level="section" idref="id6585699fe778424ab54c47f9811cf5b1">Sec. 203. Coordination of permit reviews for demonstration projects.</toc-entry> <toc-entry level="section" idref="id7689006aac4a4ae8b2980d7dbdcde52e">Sec. 204. Reporting by assessment program participants.</toc-entry> <toc-entry level="section" idref="idb898f5fbd10c4644a920c230bfe0dfbe">Sec. 205. Rule of construction; savings provisions.</toc-entry> <toc-entry level="title" idref="idA44F3679B8394029922DC2ECC1CA53B5">TITLE III—Workforce development, financing, and other support</toc-entry> <toc-entry level="section" idref="id31BC491634B349CC884D5D6CDC4E9395">Sec. 301. General support for industry.</toc-entry> <toc-entry level="section" idref="idB2B4AD79255845E588211FB65958B04C">Sec. 302. Aquaculture Centers of Excellence.</toc-entry> <toc-entry level="section" idref="idb8e4961746f54892a40dd07c39d2d294">Sec. 303. Working waterfronts preservation grant program.</toc-entry> <toc-entry level="section" idref="id80A12F165AAF4593BDA0730A81B2A33A">Sec. 304. Outreach on sustainable offshore aquaculture.</toc-entry> <toc-entry level="title" idref="id9fd4b101d2c34520a31ad3376f201f15">TITLE IV—Studies and reports</toc-entry> <toc-entry level="section" idref="id502576cca4b7404096638b20433d1d31">Sec. 401. Study on offshore aquaculture by Ocean Studies Board of the National Academies of Sciences, Engineering, and Medicine.</toc-entry> <toc-entry level="section" idref="idb516538bc9eb4c6d9e84031292b18bc9">Sec. 402. Report on offshore aquaculture by Government Accountability Office.</toc-entry> </toc> </subsection> </section> <section id="id7d43e5b5e8c74237bfbb90a29f4ac05e"> <enum>2.</enum> <header>Purposes</header> <text display-inline="no-display-inline">The purposes of this Act are—</text>
+            <paragraph id="idb36fb68644a443ecadd9707e0a5a1c31">
+                <enum>(1)</enum>
+ <text>to authorize the National Oceanic and Atmospheric Administration to establish and study commercial-scale demonstration projects to answer scientific questions needed to safely and sustainably regulate offshore aquaculture in the United States;</text>
+            </paragraph>
+            <paragraph id="ida43bb76cee3f4f11829ee8d2ec390e53">
+                <enum>(2)</enum>
+ <text>to commission a study and report to assess the environmental and regulatory viability of a United States offshore aquaculture industry;</text>
+            </paragraph>
+            <paragraph id="idf2443d9f1fc64b9bbfa6fe141da14387">
+                <enum>(3)</enum>
+ <text>to support aquaculture workforce development and working waterfronts by creating new jobs and to support existing jobs and businesses within the seafood industry of the United States, including jobs and businesses for traditional participants in the fishing industry;</text>
+            </paragraph>
+            <paragraph id="ide59493a989914a0cadd77b7e29d2e379">
+                <enum>(4)</enum>
+ <text>to establish Aquaculture Centers of Excellence to meet the needs of the growing domestic sustainable aquaculture industry; and</text>
+            </paragraph>
+            <paragraph id="id92483f0e57de4e0e80c6c797a45b5c54">
+                <enum>(5)</enum>
+ <text>to reduce the United States seafood trade deficit by expanding the domestic supply of seafood through the production of sustainable offshore aquaculture.</text>
+            </paragraph>
+        </section>
+        <section id="id7bffe2770c3f4e43a97920fec9923bb2" commented="no">
+            <enum>3.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id9e43df1b8a224652a7e95aca125ecd36" commented="no"> <enum>(1)</enum> <header>Administration</header> <text>The term <term>Administration</term> means the National Oceanic and Atmospheric Administration.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idbece04cb7b974913bd3d3ccfb03bf488">
+                <enum>(2)</enum>
+                <header display-inline="yes-display-inline">Administrator</header>
+ <text>The term <term>Administrator</term> means the Administrator of the Administration.</text>
+            </paragraph>
+            <paragraph id="id66a3bf0c9fb2455f8e910e4399ff8b82" commented="no">
+                <enum>(3)</enum>
+                <header>Appropriate committees of Congress</header>
+ <text>The term <term>appropriate committees of Congress</term> means—</text> <subparagraph id="id83ac3faa5b20406c8a17745a70911421" commented="no"> <enum>(A)</enum> <text>the Committee on Commerce, Science, and Transportation, the Committee on Environment and Public Works, and the Committee on Agriculture, Nutrition, and Forestry of the Senate; and</text>
+                </subparagraph>
+                <subparagraph id="id38c6deb779184ad3846092fb9fa8de35" commented="no">
+                    <enum>(B)</enum>
+ <text>the Committee on Natural Resources, the Committee on Agriculture, and the Committee on Transportation and Infrastructure of the House of Representatives.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id0ca432181f384f69b36480911467099d" commented="no">
+                <enum>(4)</enum>
+                <header>Aquaculture</header>
+ <text>The term <term>aquaculture</term>—</text> <subparagraph id="idd441ed5fcf9a4b0d9f7b89135b6a73d4" commented="no"> <enum>(A)</enum> <text>means any activity involved in the propagation, rearing, or attempted propagation or rearing, of cultured species, including the capture and rearing of broodstock; and</text>
+                </subparagraph>
+                <subparagraph id="id977620ffcbd6478287b3f00e07ab9989" commented="no">
+                    <enum>(B)</enum>
+ <text>does not include the practice of—</text> <clause commented="no" display-inline="no-display-inline" id="idd53d5e5d7eb849ab94480ef2c4a51669"> <enum>(i)</enum> <text display-inline="yes-display-inline">capturing juvenile finfish to rear to maturity in an aquaculture facility for subsequent commercial sale; or</text>
+                    </clause>
+                    <clause id="ide38df3b873554891bd3377b77e1d2f51" commented="no">
+                        <enum>(ii)</enum>
+ <text>the practice of rearing and releasing cultured species for the purpose of enhancing wild populations.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id6fe70d6370324ca3927a5c7034092811" commented="no">
+                <enum>(5)</enum>
+                <header>Aquaculture stakeholder</header>
+ <text>The term <term>aquaculture stakeholder</term> means—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idd1f0091989244e30b70c4ad9fc5af714"> <enum>(A)</enum> <text display-inline="yes-display-inline">an owner or operator of an offshore aquaculture facility;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idad35dac29130472bba9c2f50570040e4">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a Regional Fishery Management Council established under section 302(a) of the Magnuson-Stevens Fishery Conservation and Management Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1852">16 U.S.C. 1852(a)</external-xref>);</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idad2b70abe2df45c5a0e8b826c9fc5e90">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">an interstate fisheries commission;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd66b7637cec24e00911b3e2c16cd26cd"> <enum>(D)</enum> <text display-inline="yes-display-inline">a conservation organization;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idbbb65977e5914246be33a8448dcbb6c2">
+                    <enum>(E)</enum>
+ <text display-inline="yes-display-inline">a fisheries association;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id915493005a5c480caa6990e1430a6640"> <enum>(F)</enum> <text display-inline="yes-display-inline">a State or county government;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idbe72db8ae3014e9194da91afa42cb13c">
+                    <enum>(G)</enum>
+ <text display-inline="yes-display-inline">an Indian Tribe;</text> </subparagraph> <subparagraph id="id7395c3022dfd46318542cf761426f60b"> <enum>(H)</enum> <text>a Native Hawaiian organization;</text>
+                </subparagraph>
+                <subparagraph id="id2683fcc7574042abb59981329db6cb57">
+                    <enum>(I)</enum>
+ <text>a Native Hawaiian community;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd8efb7199d53425f910c7b69bc4e8a20"> <enum>(J)</enum> <text display-inline="yes-display-inline">a Tribal or Indigenous community;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idbf95c776c6ca4619a56326f2f5ea6fac">
+                    <enum>(K)</enum>
+ <text display-inline="yes-display-inline">a Federal or State agency with interests in aquaculture; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id7210aeb509624c34aa67c4b9e3a4ad4d">
+                    <enum>(L)</enum>
+ <text display-inline="yes-display-inline">any other interested party.</text> </subparagraph> </paragraph> <paragraph id="id9a3acc0337c449bb9c32371313b951ed" commented="no"> <enum>(6)</enum> <header>Coastal State</header> <text>The term <term>coastal State</term> has the meaning given the term <term>coastal state</term> in section 304(4) of the Coastal Zone Management Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1453">16 U.S.C. 1453(4)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id752bcca150b74bfab49c4d6cb4bbae2c" commented="no" display-inline="no-display-inline">
+                <enum>(7)</enum>
+                <header>Cultured species</header>
+ <text>The term <term>cultured species</term>—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id4eb065f31c004f448e342fcddeca6eb9"> <enum>(A)</enum> <text display-inline="yes-display-inline">means any species propagated and reared for marine aquaculture;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ida0f0011908d04ac380c8466c70099566">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">includes larval marine shellfish species that self-recruit in the offshore environment; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idfafb5210bbdf49c3a85c61266f00a183">
+                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">excludes any member of the class Aves, Reptilia, or Mammalia.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idb0b47b169e7d4eea8df0c48811f13e21" commented="no">
+                <enum>(8)</enum>
+                <header>Escape</header>
+ <text>The term <term>escape</term> means the escape of juvenile- or adult-farmed organisms, viable gametes, or fertilized eggs spawned by farmed organisms from offshore aquaculture facilities.</text>
+            </paragraph>
+            <paragraph id="id6cd466ad17fb44cc8d27702dff1c1d6e" commented="no">
+                <enum>(9)</enum>
+                <header>Exclusive economic zone</header>
+                <subparagraph id="idd3a8d7b55b1a49f5a283518bd766496a" commented="no">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+ <text>Unless otherwise specified by the President in the public interest in a writing published in the Federal Register, the term <term>exclusive economic zone</term> means a zone, the outer boundary of which—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id74e7cf981ff84c288dbe20a2168fa563">
+                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">except as provided by clause (ii), is 200 nautical miles from the baseline from which the breadth of the territorial sea is measured; or</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id8899c4057c6644448ad3a7ff5d16f995">
+                        <enum>(ii)</enum>
+                        <subclause commented="no" display-inline="yes-display-inline" id="ida391857d334f416aae9ef2c243bfd03c">
+                            <enum>(I)</enum>
+ <text>if an applicable maritime boundary treaty is in force or is being provisionally applied by the United States, is established by that treaty; or</text>
+                        </subclause>
+                        <subclause indent="up1" commented="no" display-inline="no-display-inline" id="id66e286f6d7264bfc8d0350487e3635ba">
+                            <enum>(II)</enum>
+ <text>in the absence of such a treaty and in a case in which the distance between the United States and another country is less than 400 nautical miles, is a line equidistant between the United States and the other country.</text>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id16e02e8fe1ea4520b2524a8888f54e79" commented="no">
+                    <enum>(B)</enum>
+                    <header>Inner boundary</header>
+ <text>Without affecting any Presidential proclamation with regard to the establishment of the United States territorial sea or exclusive economic zone, the inner boundary of the exclusive economic zone is—</text>
+                    <clause id="id0f091df34c534431a09cd8ee2d321c85" commented="no">
+                        <enum>(i)</enum>
+ <text>in the case of the coastal States, a line coterminous with the seaward boundary of each such State, as described in section 4 of the Submerged Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1312">43 U.S.C. 1312</external-xref>);</text>
+                    </clause>
+                    <clause id="id9cd34d4bfa0e4c2f80eadf9abe24f0bb" commented="no">
+                        <enum>(ii)</enum>
+ <text>in the case of the Commonwealth of Puerto Rico, a line 9 nautical miles from the coastline of the Commonwealth of Puerto Rico;</text>
+                    </clause>
+                    <clause id="id27eed57f1b584ed98e711f9d79cf9172" commented="no">
+                        <enum>(iii)</enum>
+ <text>in the case of American Samoa, the United States Virgin Islands, or Guam, a line 3 geographic miles from the coastlines of American Samoa, the United States Virgin Islands, or Guam, respectively; or</text>
+                    </clause>
+                    <clause id="id8a922c42ae084af796eb17e0a62ed6cd" commented="no">
+                        <enum>(iv)</enum>
+ <text>in the case of the Commonwealth of the Northern Mariana Islands—</text>
+                        <subclause id="id752a62c91c794107a19d5a3c95dedf66" commented="no">
+                            <enum>(I)</enum>
+ <text>the coastline of the Commonwealth of the Northern Mariana Islands, until the Commonwealth of the Northern Mariana Islands is granted authority by the United States to regulate all fishing to a line seaward of its coastline; and</text>
+                        </subclause>
+                        <subclause id="id43389912c97644ac842e256f699f13c0" commented="no">
+                            <enum>(II)</enum>
+ <text>upon the United States grant of such authority, the line established by such grant of authority.</text>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id109ffb3c8da14b839e25c7ed8005ee9d" commented="no">
+                    <enum>(C)</enum>
+                    <header>Rule of construction</header>
+ <text>Nothing in this paragraph may be construed to diminish the authority of the Department of Defense, the Department of the Interior, or any other Federal agency.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id9a35a1340f164350a454586b897f6872">
+                <enum>(10)</enum>
+                <header>Fishery stakeholders</header>
+ <text>The term <term>fishery stakeholders</term> means—</text> <subparagraph id="idf6ff6cec61664627b48dd4df82b91029"> <enum>(A)</enum> <text>subsistence fishery participants and their dependents;</text>
+                </subparagraph>
+                <subparagraph id="id8a8718ff3ed347ec94cee32546868601">
+                    <enum>(B)</enum>
+ <text>fishing vessel crews;</text> </subparagraph> <subparagraph id="id6cd92a269f904018a8142931541c5f08"> <enum>(C)</enum> <text>fish processor and distribution workers;</text>
+                </subparagraph>
+                <subparagraph id="id2eee40ece97f4545ae504fc84f1575ed">
+                    <enum>(D)</enum>
+ <text>recreational fisheries;</text> </subparagraph> <subparagraph id="id85764f9bd8a74e3db731aabb6cbf45ca"> <enum>(E)</enum> <text>Tribal fisheries; and</text>
+                </subparagraph>
+                <subparagraph id="id674a1737883f4dada4877d5b4796ac9b">
+                    <enum>(F)</enum>
+ <text>territorial fishing communities, including such communities in American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="ided16ddf5a97e40b390f1be2dd81cfb5e" commented="no">
+                <enum>(11)</enum>
+                <header>Indian Tribe</header>
+ <text>The term <term>Indian Tribe</term> has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5304">25 U.S.C. 5304</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id32703fe673cb41e4a6b8aba45b8f04e7" commented="no" display-inline="no-display-inline">
+                <enum>(12)</enum>
+                <header>Institution of higher education</header>
+ <text>The term <term>institution of higher education</term> has the meaning given that term in section 201 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1001">20 U.S.C. 1001</external-xref>).</text>
+            </paragraph>
+            <paragraph id="idab8da669319c411e98b5704a91da5892" commented="no">
+                <enum>(13)</enum>
+                <header>Native Hawaiian community</header>
+ <text>The term <term>Native Hawaiian community</term> means the distinct Native Hawaiian indigenous political community that Congress, exercising its plenary power over Native American affairs, has recognized and with which Congress has implemented a special political and trust relationship.</text>
+            </paragraph>
+            <paragraph id="id32e7401a66c349d1969f7c081b488449" commented="no">
+                <enum>(14)</enum>
+                <header>Native Hawaiian organization</header>
+ <text>The term <term>Native Hawaiian organization</term> has the meaning given that term in section 6207 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7517">20 U.S.C. 7517</external-xref>) and includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs.</text>
+            </paragraph>
+            <paragraph id="id62d2efd74e6240bb8c1f809bf10884ce">
+                <enum>(15)</enum>
+                <header>National sea grant college program</header>
+ <text>The term <term>national sea grant college program</term> means the program maintained under section 204(a) of the National Sea Grant College Program Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1123">33 U.S.C. 1123(a)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="idbbbb6371c9764bbe863760be37b5c12d" commented="no">
+                <enum>(16)</enum>
+                <header>Offshore aquaculture</header>
+ <text>The term <term>offshore aquaculture</term> means aquaculture conducted in the exclusive economic zone.</text>
+            </paragraph>
+            <paragraph id="id012fafca6c3c406aa3cc14a4c3346dd8" commented="no">
+                <enum>(17)</enum>
+                <header>Offshore aquaculture facility</header>
+ <text>The term <term>offshore aquaculture facility</term> means—</text> <subparagraph id="id7dc5822f0062426fb2cf216dbffe6105" commented="no"> <enum>(A)</enum> <text>an installation or structure used, in whole or in part, for offshore aquaculture; or</text>
+                </subparagraph>
+                <subparagraph id="idaa71bce0a3b043aaa868332bdbc2dc3f" commented="no">
+                    <enum>(B)</enum>
+ <text>an area of the seabed, water column, or the sediment used for offshore aquaculture.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id7d6efe5c0f5c452eb314aa7e000b7c86" commented="no">
+                <enum>(18)</enum>
+                <header>State</header>
+ <text>The term <term>State</term> means each of the several States, the District of Columbia, and each commonwealth, territory, or possession of the United States.</text>
+            </paragraph>
+            <paragraph id="id2AB3CC570CD541CD9A2CA5A50A888234">
+                <enum>(19)</enum>
+                <header>Tribal fishery</header>
+ <text>The term <term>Tribal fishery</term> means a fishery that is—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id48cc5752a8044c27839494a7f01c9098"> <enum>(A)</enum> <text display-inline="yes-display-inline">owned, operated, or managed by a Tribal or Indigenous community; or</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id2662f28c05da44b285ef9e76c20f632b">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">located in an area—</text> <clause commented="no" display-inline="no-display-inline" id="id80194d4bdc4041019c1979aec19954fc"> <enum>(i)</enum> <text display-inline="yes-display-inline">that is subject to the jurisdiction of an Indian Tribe; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id19b3a3e9fc39414eab9fe535736b7ec7">
+                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">for which the Indian Tribe has sovereign authority over fishing activity in the area.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id6c617d1d7a2347c297c15df4631f467c" commented="no">
+                <enum>(20)</enum>
+                <header>Tribal land</header>
+ <text>The term <term>Tribal land</term> means land that is subject to the jurisdiction of an Indian Tribe.</text>
+            </paragraph>
+            <paragraph id="id03f834f9546742cb9e1fbb24d3c3093c" commented="no">
+                <enum>(21)</enum>
+                <header>Tribal or Indigenous community</header>
+ <text>The term <term>Tribal or Indigenous community</term> means a population of people who are—</text>
+                <subparagraph id="ide6878200527945c5a8cb7ec39209945d" commented="no">
+                    <enum>(A)</enum>
+ <text>enrolled members of an Indian Tribe;</text> </subparagraph> <subparagraph id="id36dc8316f8924cf99a1d782512686cc8" commented="no"> <enum>(B)</enum> <text>members of an Alaska Native or Native Hawaiian community or organization; or</text>
+                </subparagraph>
+                <subparagraph id="id78d40ca201c94dcf8ab67fd0a32123c0" commented="no">
+                    <enum>(C)</enum>
+ <text>members of any other community of Indigenous people located in a State.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <title id="id0FD1AEFE9CE44243A0EE4AB4BBDD3A85">
+            <enum>I</enum>
+            <header>Office of Aquaculture</header>
+            <section id="id268ACE8754C74017B8826368772C8D2F">
+                <enum>101.</enum>
+                <header>Office of Aquaculture</header>
+                <subsection id="idE00143383FA14B628E2F5256F00FBF21">
+                    <enum>(a)</enum>
+                    <header>Establishment</header>
+ <text>There is established within the headquarters of the National Marine Fisheries Service of the Administration the Office of Aquaculture (in this section referred to as the <quote>Office</quote>).</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id6FE0F55651314D57B1D42EEF7799FB02">
+                    <enum>(b)</enum>
+                    <header>Resources</header>
+ <text>The Administrator shall ensure the Office is provided with sufficient resources to carry out the duties of the Office under subsection (d).</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id9A4849F43563445EA339E4D25363B5D1">
+                    <enum>(c)</enum>
+                    <header>Representation at regional fisheries offices</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7801DE533EF741F7B5491842325615D9">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall provide for representation of the Office in each of the regional fisheries offices of the Administration.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id40E4B1BDD6C24EDBAC25B494659ACA81">
+                        <enum>(2)</enum>
+                        <header>Minimum presence</header>
+ <text display-inline="yes-display-inline">In carrying out paragraph (1), the Administrator—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idCBFBEE1E4BCC401D9753299D5CAD8C75">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">shall provide for the placement of at least one regional aquaculture coordinator from the Office in each regional fisheries office;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id1B8F409597674E6D9BFCFDFED580E156">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">shall otherwise ensure that the representation of the Office at a regional fisheries office is, at a minimum, sufficient to permit the Office to fulfill the duties of the Office under subsection (d); and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id0E8125CD50104EFA8D65AE9B29471C24">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">may increase that representation to the extent warranted by the activity and interest of aquaculture stakeholders in the region.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id3F45FF1E04364B98BED75D9141E044AF">
+                    <enum>(d)</enum>
+                    <header>Duties</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id32cfc7af19894472a5c95988deae01a3">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Office shall—</text> <subparagraph id="id72eafd97823b49c58ff18796a75dd3a7"> <enum>(A)</enum> <text>coordinate the implementation of this Act, including administration of—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id355e130f89c54f6882ca417dd45bdc00">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the aquaculture research program established under subsection (e);</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idd6e31206b6df4c60a8f3dba1472ac000">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the offshore aquaculture assessment program established under section 201; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id19633aeca3684128adc04eb042cf97ac">
+                                <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">the issuance of permits under section 202;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id18720ADAA0F14A5D8356FDD101C5A1D1">
+                            <enum>(B)</enum>
+ <text>coordinate regulatory, scientific, outreach, and international issues related to aquaculture within the Administration;</text>
+                        </subparagraph>
+                        <subparagraph id="id2ACA95DAD4B74F919F70812C50D6EDFE">
+                            <enum>(C)</enum>
+ <text>collaborate with and leverage existing efforts by the national sea grant college program—</text>
+                            <clause id="idD44E23782FA842D4B0424A01B871FA09">
+                                <enum>(i)</enum>
+ <text>to conduct outreach, education, extension services, and training efforts for aquaculture and offshore aquaculture; and</text>
+                            </clause>
+                            <clause id="id937DA280CE7D483282890199A6852A6D">
+                                <enum>(ii)</enum>
+ <text>to engage with aquaculture stakeholders and, from time to time, convene conferences for aquaculture stakeholders to exchange information and ideas;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id1C7020CDA7AC4957978FDE51606E3743">
+                            <enum>(D)</enum>
+ <text>maintain aquaculture capacity in the regions covered by the regional fisheries offices of the Administration;</text>
+                        </subparagraph>
+                        <subparagraph id="idc2015b5f84ec48aea6494e41b4677a41">
+                            <enum>(E)</enum>
+ <text>develop recommendations for performance standards for offshore aquaculture operations that, at a minimum—</text>
+                            <clause id="idbe7ebc1564134e3d9a5486e4623436f4">
+                                <enum>(i)</enum>
+ <text>encourage development of offshore aquaculture in a manner that complies with environmental law;</text>
+                            </clause>
+                            <clause id="idc5aad8f46f8141c2aadf9eb278182662">
+                                <enum>(ii)</enum>
+ <text>are based on the best scientific information available;</text> </clause> <clause id="idadceacc134774b35a640f30af08a7431"> <enum>(iii)</enum> <text>take into account traditional knowledge of Tribal and Indigenous communities as appropriate to the region;</text>
+                            </clause>
+                            <clause id="id593f47f2650d42118f4aa43852db42f2">
+                                <enum>(iv)</enum>
+ <text>are adaptive to offshore aquaculture developments, such as updates in technology and changes in environmental conditions; and</text>
+                            </clause>
+                            <clause id="ide309119b23424d84865d231f6fb56710">
+                                <enum>(v)</enum>
+ <text>prefer species that are native or historically naturalized to the region; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idd6357978ead54c03b2d621b64231d915">
+                            <enum>(F)</enum>
+ <text>prioritize the health of cultured species.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id365445fc79d7416e93b5119985cfb9c4"> <enum>(2)</enum> <header>Agreements with States</header> <subparagraph commented="no" display-inline="no-display-inline" id="id205e8072fa2844b88746bc5c273eeb1c"> <enum>(A)</enum> <header display-inline="yes-display-inline">In general</header> <text>Upon request of the Governor of a coastal State, the Office shall enter into an agreement with the State to allow the State, and aquaculture stakeholders in the State as appropriate, to participate in the activities authorized under sections 201 and 203 and titles III and IV, as though—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id4bd4cf2f3ed4498697a468edf4c70eee">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the aquaculture conducted in the State’s coastal waters were offshore aquaculture; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idbb24cb032dd343f2b6cde7b9715069e9">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">facilities for aquaculture in the State’s coastal waters were offshore aquaculture facilities.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id7292faaaf5d14d57ae69791f8c3f626d" commented="no">
+                            <enum>(B)</enum>
+                            <header>Rule of construction</header>
+ <text>Nothing in this paragraph or in any agreement entered into under this paragraph shall be construed to affect the authority of the Administrator to issue permits for or regulate aquaculture in State waters, except as expressly provided in such an agreement.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id71BB9A66BCD54F9F9CF5F7064CC395FD">
+                    <enum>(e)</enum>
+                    <header>Aquaculture research program and duties</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id44B9B231AE8846C7BB6DA35FDB7FE798">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall establish, and provide resources (in addition to the resources required under subsection (b)) for, an aquaculture research program that draws upon the scientific capacity of programs of the Administration, such as the Fisheries Science Centers, the national sea grant college program, and the National Centers for Coastal Ocean Science, to support the efforts of the Office to implement this Act.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idDAC70CE25F964480842031D91DE3C18D">
+                        <enum>(2)</enum>
+                        <header>Functions</header>
+ <text>As part of the aquaculture research program established under paragraph (1), the Office shall—</text>
+                        <subparagraph id="idAE4054C60FF94C74B675F79689BE3BB3">
+                            <enum>(A)</enum>
+ <text>ensure that commercial-scale offshore aquaculture demonstration projects for which permits are issued under section 202 are scientifically monitored to support the implementation of this Act;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id5e15d1ed0cb84f58aee7877f17eb82e3">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">evaluate data;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idcc227ba2e8194082a18862ac8f9b6a1a"> <enum>(C)</enum> <text display-inline="yes-display-inline">conduct additional research to support the development of sustainable offshore aquaculture;</text>
+                        </subparagraph>
+                        <subparagraph id="id342EBBEFBC9D4C1E9DAFC10EBEE0100B">
+                            <enum>(D)</enum>
+ <text>administer support for industry under section 301;</text> </subparagraph> <subparagraph id="idCB471E010278437A834192D7D599AC1F"> <enum>(E)</enum> <text>administer the Aquaculture Centers of Excellence under section 302;</text>
+                        </subparagraph>
+                        <subparagraph id="id82736651da224f75877834b4b055aaeb">
+                            <enum>(F)</enum>
+ <text>administer the contract to conduct the study described in section 401; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id3c31c38348c74f66af9080c6e9c5c1f4">
+                            <enum>(G)</enum>
+ <text display-inline="yes-display-inline">coordinate the engagement of the Administration with the Comptroller General of the United States as the Comptroller General prepares the report required by section 402.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id86390D40E80645ECAF38851B5ADD1571">
+                    <enum>(f)</enum>
+                    <header>Budget request</header>
+ <text>The Administrator shall include, in the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year pursuant to section 1105 of title 31, United States Code, a request for funding for the Office as a separate line item with the National Marine Fisheries Service.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="id031a13fca0574f24b6b77f38fc40109c">
+            <enum>II</enum>
+            <header>Commercial-scale demonstration projects</header>
+            <section id="id0f45ddc05cde4b7a9947bf467ed0aaa8">
+                <enum>201.</enum>
+                <header>Assessment program for offshore aquaculture</header>
+                <subsection id="idc77213d95b134c5c872f1b8df7ac6ffa">
+                    <enum>(a)</enum>
+                    <header>Establishment of program</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Administrator shall establish an assessment program (in this section referred to as the <quote>assessment program</quote>) with the objective of assessing the viability of offshore aquaculture—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id8a23c245bfda4d90b7ba700dbf01805f">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in light of changing circumstances and advances in technology; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id73a212efc40e41388dbf80d60a9ef039">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">using the best available science, information from aquaculture stakeholders, and information developed from demonstration projects for which permits are issued under section 202.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id41a24198ee5349f390eae627e537c07f">
+                    <enum>(b)</enum>
+                    <header>Elements</header>
+ <text>At a minimum, the assessment program shall examine the following in order to determine the viability of offshore aquaculture:</text>
+                    <paragraph id="id9fc73e8cbc254c5ca2859c9ebf463328">
+                        <enum>(1)</enum>
+ <text>The ability of different commercial-scale facility designs and operational methods—</text>
+                        <subparagraph id="id301ffcf4254c40b888e55c1fc7bf3c6e">
+                            <enum>(A)</enum>
+ <text>to survive various atmospheric and ocean conditions to the extent possible, including high wind speeds or high-energy ocean conditions associated with severe weather, or tidal or tsunami activity, without—</text>
+                            <clause id="id8f8feddcd48e4953af7314cc0f26f445">
+                                <enum>(i)</enum>
+ <text>escapes;</text> </clause> <clause id="id1e5f623b086c4b48b14cf5d4f7efa20a"> <enum>(ii)</enum> <text>loss of or damage to infrastructure; or</text>
+                            </clause>
+                            <clause id="idd13728872b5247a9ab08662315cc8255">
+                                <enum>(iii)</enum>
+ <text>wildlife entanglement resulting from loss or damaged infrastructure;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="ida0bc932e85064d86af75d6b53c4fb7f1">
+                            <enum>(B)</enum>
+ <text>to prevent adverse wildlife impacts to the extent possible, including entanglements of large whales, sea turtles, and other species protected under—</text>
+                            <clause id="idf6fb54ec2a8144f19f33903bd5f8aca5">
+                                <enum>(i)</enum>
+ <text>the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>); and</text>
+                            </clause>
+                            <clause id="id1449e651c3aa4fe6ab91593c7e98434a">
+                                <enum>(ii)</enum>
+ <text>the Marine Mammal Protection Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1361">16 U.S.C. 1361 et seq.</external-xref>);</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id613a37dcb8b340d9b34b3da92b07ff1a">
+                            <enum>(C)</enum>
+ <text>to prevent adverse impacts on the marine environment to the extent possible, including impacts to habitat, water chemistry, and wildlife; and</text>
+                        </subparagraph>
+                        <subparagraph id="id24db2f6a42b8408a8124820e76e947c3">
+                            <enum>(D)</enum>
+ <text>to prevent adverse impacts on navigation and safety, to the extent possible, to existing ocean users due to offshore aquaculture facilities, including requirements for operations, navigation, and transit associated with such facilities.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idf44dca5d29374430996bdbdc36260691">
+                        <enum>(2)</enum>
+ <text>The ability of different technologies to provide reliable and timely data on offshore aquaculture facilities, including visual data and other relevant data types, on a regular basis to enable the Administrator to monitor—</text>
+                        <subparagraph id="id8d3c0657026644a99b7d83924e2be009">
+                            <enum>(A)</enum>
+ <text>the compliance of demonstration projects for which permits are issued under section 202 with the requirements under subsection (b) of such section;</text>
+                        </subparagraph>
+                        <subparagraph id="idf883847a5b314fad8056733801b337fa">
+                            <enum>(B)</enum>
+ <text>impacts on the marine environment; and</text> </subparagraph> <subparagraph id="id7601fb56eb124ef09a4fb82ff90eb933"> <enum>(C)</enum> <text>interference with existing uses of the water bodies in which demonstration projects for which permits are issued under section 202 are located.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idc8b0d9855ca44a5286d3cf771f2ca6f6">
+                        <enum>(3)</enum>
+ <text>The relative risks, benefits, and costs of various types of offshore aquaculture, including different species of finfish in different geographies and under varying climactic and ecological conditions.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id331b127236324bce863fd16bbc71cf77" commented="no">
+                    <enum>(c)</enum>
+                    <header>Report required</header>
+ <text>Not later than 2 years after the date on which the Administrator establishes the assessment program, the Administrator shall publish, make available to the public, and submit to the National Academy of Sciences and the Comptroller General of the United States, a report that includes the following:</text>
+                    <paragraph id="ida38ae50c9a0e4770ae8a71ff36911f20">
+                        <enum>(1)</enum>
+ <text>A description of each demonstration project for which a permit is issued under section 202, including documentation supporting the issuance of the permit.</text>
+                    </paragraph>
+                    <paragraph id="ide81df166d80248f88c268188dc5026d1">
+                        <enum>(2)</enum>
+ <text>A summary of the information submitted to the Administrator for each such demonstration project.</text>
+                    </paragraph>
+                    <paragraph id="id195aa32149f64dbba53e79ce0e49f1b4">
+                        <enum>(3)</enum>
+ <text>A description of the progress made toward meeting the objective described in subsection (a).</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="id20253c4e92db478b8841bcfe71179f37">
+                <enum>202.</enum>
+                <header>Permits for demonstration projects for offshore aquaculture
+                    facilities</header>
+                <subsection id="id463dfe5358454970a20e1fb551d51628">
+                    <enum>(a)</enum>
+                    <header>Issuance of permits</header>
+ <text>After the Administrator establishes the assessment program under section 201, the Administrator shall issue permits for demonstration projects for proposed offshore aquaculture facilities in furtherance of the assessment program.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id4dd792ecc3e84fc39ba1d13d76107b30">
+                    <enum>(b)</enum>
+                    <header>Eligibility requirements</header>
+ <text display-inline="yes-display-inline">To be eligible for the issuance of a permit under subsection (a), a demonstration project is required to—</text>
+                    <paragraph id="id79daae98b7074bc695ba3ffd9f4b6cf5">
+                        <enum>(1)</enum>
+ <text>advance the objective described in section 201(a);</text> </paragraph> <paragraph id="id20334bcfe30a42869b3e8e34620476ad"> <enum>(2)</enum> <text>cultivate only native or historically naturalized species that pose a minimal threat of harm to wildlife and the ecosystem in which the project is located;</text>
+                    </paragraph>
+                    <paragraph id="idc0a6ed290a2d4ef8b34a18927dcb1712">
+                        <enum>(3)</enum>
+ <text>incorporate design and operational practices that minimize the risk of escape, wildlife entanglement, and adverse pollution impacts;</text>
+                    </paragraph>
+                    <paragraph id="id6ecf3443059345f7a1653fa2bddde530">
+                        <enum>(4)</enum>
+ <text>develop an escape response and infrastructure loss or damage plan that minimizes the impact of any escapes or infrastructure loss or damage on the marine environment and on other uses of the water body in which the project is located;</text>
+                    </paragraph>
+                    <paragraph id="iddcce80e009f2496b843c82fa273b8908">
+                        <enum>(5)</enum>
+ <text>comply with all applicable requirements of—</text> <subparagraph id="id80e4a1b90b2e4bcb82f82e3f7db554b2"> <enum>(A)</enum> <text>the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1251">33 U.S.C. 1251 et seq.</external-xref>) (commonly referred to as the <quote>Clean Water Act</quote>);</text>
+                        </subparagraph>
+                        <subparagraph id="idd18a7bbfd3a140b48113affe468871e5">
+                            <enum>(B)</enum>
+ <text>the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>);</text>
+                        </subparagraph>
+                        <subparagraph id="idc542b1301756454b9cd8da34df6f590b">
+                            <enum>(C)</enum>
+ <text>the Marine Mammal Protection Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1361">16 U.S.C. 1361 et seq.</external-xref>); and</text>
+                        </subparagraph>
+                        <subparagraph id="idc1b88158a34e47748dcdcdb2cb1159b0">
+                            <enum>(D)</enum>
+ <text>the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>);</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id0611c5e632f547cea2df9c8ab4940601">
+                        <enum>(6)</enum>
+ <text>maximize compatibility with, and prevent or minimize displacement of, existing uses and users of the marine environment in the near vicinity of where the project is located;</text>
+                    </paragraph>
+                    <paragraph id="id28cf73e037da44a2a0f920596f030bb3">
+                        <enum>(7)</enum>
+ <text>conform to best practices to avoid or minimize the use of antibiotics and other pharmaceuticals and minimize the release of such pharmaceuticals into the environment; and</text>
+                    </paragraph>
+                    <paragraph id="id79ca1053ece34e7980721c73ea9ad3fa">
+                        <enum>(8)</enum>
+ <text>be designed and managed in partnership with—</text> <subparagraph id="id970a1594e7da4277b18c6cacc91d28b6"> <enum>(A)</enum> <text>a land-grant college or university (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/7/3103">7 U.S.C. 3103</external-xref>));</text>
+                        </subparagraph>
+                        <subparagraph id="id9e86fa53ad8c4c35ba15ca3625ad3b80">
+                            <enum>(B)</enum>
+ <text>a historically black college or university (as defined by the term <term>part B institution</term> in section 322 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1061">20 U.S.C. 1061</external-xref>));</text>
+                        </subparagraph>
+                        <subparagraph id="idea79f3d469ac44dfaadfa9a9d3c26fd6">
+                            <enum>(C)</enum>
+ <text>a 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (<external-xref legal-doc="public-law" parsable-cite="pl/103/382">Public Law 103–382</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/7/301">7 U.S.C. 301</external-xref> note)); or</text>
+                        </subparagraph>
+                        <subparagraph id="id364dcb274a8a4d6b8b791702dacae72e">
+                            <enum>(D)</enum>
+ <text>a sea grant college (as defined in section 203 of the National Sea Grant College Program Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1122">33 U.S.C. 1122</external-xref>)).</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="ide917071e086341a1bfd4d7509289ba36">
+                    <enum>(c)</enum>
+                    <header>Authorized activities</header>
+ <text>A person that holds a permit for a demonstration project issued under subsection (a) may conduct offshore aquaculture consistent with—</text>
+                    <paragraph id="id1f2d4b4b4ec049d294e7949fc4ad48f4">
+                        <enum>(1)</enum>
+ <text>this Act, including regulations prescribed to carry out this Act; and</text>
+                    </paragraph>
+                    <paragraph id="id66ce884e49ce4c269825ce55fdfaf899">
+                        <enum>(2)</enum>
+ <text>other applicable provisions of law, including regulations.</text> </paragraph> </subsection> <subsection id="id49adaaf4242046518201963c9da7321a"> <enum>(d)</enum> <header>Applications</header> <text>A person seeking a permit for a demonstration project shall submit to the Administrator an application that specifies—</text>
+                    <paragraph id="id09c90182d5eb4df28c6657f02c9fb743">
+                        <enum>(1)</enum>
+ <text>the proposed location of the offshore aquaculture facility and the location of on-shore facilities used for propagation or rearing of cultured species, such as hatcheries or research operations;</text>
+                    </paragraph>
+                    <paragraph id="id6bf358702f9242f386e882989d87e10d">
+                        <enum>(2)</enum>
+ <text>the type of aquaculture operations that will be conducted at all facilities described in paragraph (1);</text>
+                    </paragraph>
+                    <paragraph id="idf2a8c6849a4542d59db959da02c159be">
+                        <enum>(3)</enum>
+ <text>the cultured species, or a specified range of species, to be propagated or reared, or both, at the offshore aquaculture facility;</text>
+                    </paragraph>
+                    <paragraph id="idacfd21bd294e4d308e89c356e83063ea">
+                        <enum>(4)</enum>
+                        <subparagraph commented="no" display-inline="yes-display-inline" id="id984c5ec882b64a6699cdd3fbd16da102">
+                            <enum>(A)</enum>
+ <text>the source of eggs, larvae, or juvenile cultured species that will be used in offshore aquaculture operations;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id197ff9c3965848c9aa59083f568542b0" indent="up1">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">an analysis of the likely ecosystem impacts of such operations, such as the spread of pathogens; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" indent="up1" id="id6e14470f0d074aee9a3545955fed5f6e">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the information upon which the analysis was based;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idc0f935e78dd3457ea992f3115c965795">
+                        <enum>(5)</enum>
+ <text>plans to respond to—</text> <subparagraph id="id643a1be4a10349a48735496f5e3ce179"> <enum>(A)</enum> <text>a natural disaster;</text>
+                        </subparagraph>
+                        <subparagraph id="idba34881dfc1042dea33e48f13ac032cf">
+                            <enum>(B)</enum>
+ <text>an escape;</text> </subparagraph> <subparagraph id="id7d10b170fed444f68aa1f97939bebd3c"> <enum>(C)</enum> <text>disease;</text>
+                        </subparagraph>
+                        <subparagraph id="idffc6cd9a04194ed3ba36a9b3be9390ac">
+                            <enum>(D)</enum>
+ <text>loss or damage to infrastructure; and</text> </subparagraph> <subparagraph id="id2a59f03e0d114c89b07a20534092ee0e"> <enum>(E)</enum> <text>other circumstances designated by the Administrator; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idb474b47d2aa945ed90827193c1613ba9">
+                        <enum>(6)</enum>
+ <text>such other design, construction, and operational information as the Administrator may require to ensure the integrity of the operations and contingency planning.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="ide1ad6c150ff54b2892b8ca6f37fca369">
+                    <enum>(e)</enum>
+                    <header>Notice, public comment, and objections</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idf815f582a432410e823c0e3e11b60e58">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall—</text> <subparagraph id="id50f479d1401e48098dfb6052dbfb0b86"> <enum>(A)</enum> <text>not later than 90 days after receiving an application under this section, publish in the Federal Register a notice summarizing the application; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ida49346d67e674c16b302c135a7e07452">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">invite and consider public comments, and formal objections from any Governor or Tribal leader of a specially affected coastal jurisdiction, on applications for permits under this section.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idff01054c6b304cf3b750fa69bc709ea2">
+                        <enum>(2)</enum>
+                        <header>Specially affected coastal jurisdiction</header>
+ <text>In this subsection, the term <term>specially affected coastal jurisdiction</term> means any coastal State or Indian Tribe—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id89c568f49a9f4337aa32f127a3a43a26">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the land, Tribal land, or waters of which—</text>
+                            <clause id="id42ffa199a8e24bfba143baf9a5e99cc8">
+                                <enum>(i)</enum>
+ <text>are adjacent to the Federal waters in which the project will be conducted; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="ida8adbc906645447fb68a4119ae0dd948">
+                                <enum>(ii)</enum>
+ <text>are used, or are scheduled to be used, as a support base for the project; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id63eddbca95f043128d1e3af3d622f74d">
+                            <enum>(B)</enum>
+ <text>for which there is a reasonable probability of significant effect on uses of land, Tribal land, or water from the project.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="ideae972e117c548ea818d300acfccaf0c">
+                    <enum>(f)</enum>
+                    <header>Priority consideration</header>
+ <text>In considering applications for permits for demonstration projects under this section, the Administrator shall give priority consideration to applications for demonstration projects—</text>
+                    <paragraph id="id35ea3c154d884dd0a35a1a84856189f5">
+                        <enum>(1)</enum>
+ <text>owned or operated by applicants who can demonstrate that the demonstration project will directly benefit individuals who are already participating in the agricultural, wild-caught fishery, or aquaculture industries who have been negatively impacted by the COVID–19 pandemic, natural disasters, or major disasters declared under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>); or</text>
+                    </paragraph>
+                    <paragraph id="idcf57024dcfcf491f966480736473f226">
+                        <enum>(2)</enum>
+ <text>sited within an Aquaculture Opportunity Area identified by the Secretary of Commerce in accordance with section 7 of Executive Order 13921 (<external-xref legal-doc="usc" parsable-cite="usc/16/1801">16 U.S.C. 1801</external-xref> note; relating to promoting American seafood competitiveness and economic growth).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id5b03548f82134bc5a4a4773104f3d4d0">
+                    <enum>(g)</enum>
+                    <header>Socioeconomic data</header>
+ <text>In considering applications for permits for demonstration projects under this section, and to support the study described in section 401, the report required by section 402, and the assessment program established under section 201, the Administrator shall collect socioeconomic data associated with the owner or operator of, and communities employed or otherwise affected by, each demonstration project.</text>
+                </subsection>
+                <subsection id="id1cda0b6832604f8190ccb686c3aebd13">
+                    <enum>(h)</enum>
+                    <header>Decisions with respect to issuance, deferral, or denial</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id487f48dd1fcc41a69305e0a4ff27b7f6">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the conclusion of the period for public comments under subsection (e) with respect to an application for a permit for a demonstration project under this section, the Administrator shall—</text>
+                        <subparagraph id="id5d91857b8c1d4ace875df71f474ffb6b">
+                            <enum>(A)</enum>
+ <text>issue the permit, if the Administrator determines the application complies with the requirements of this Act, the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>), and other applicable law;</text>
+                        </subparagraph>
+                        <subparagraph id="id04dd5ca2f32741759eddc7686a00c902">
+                            <enum>(B)</enum>
+ <text>if the Administrator determines that the application does not comply with the requirements described in subparagraph (A) and can be modified to comply with those requirements—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="idf123ec936b444d4c9a3033b74003743f">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">defer the decision on the permit; and</text>
+                            </clause>
+                            <clause id="id188febe689bf49b6af636e3ea4418cdd">
+                                <enum>(ii)</enum>
+ <text>provide to the applicant a notice that specifies modifications to the proposed demonstration project needed for a permit to be issued; or</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idbd776a9d107e4dd190ae14a1f916731a">
+                            <enum>(C)</enum>
+ <text>if the Administrator determines that the application does not comply with the requirements described in subparagraph (A) and that the application cannot be modified to comply with such requirements, deny the permit and provide a justification for the denial.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idba86b9c029d44f7681286cae0f2a33a0">
+                        <enum>(2)</enum>
+                        <header>Other approval</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id5b43da687f9c41a4a10daa283d499729">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">An application for a permit for a demonstration project under this section shall be considered approved, as if a permit for the application had been issued under paragraph (1)(A), if—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id8169c0c7c14e40038a300327d0e3d674">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the Administrator does not take action under subparagraph (A), (B), or (C) of paragraph (1) within 90 days after the conclusion of the period for public comments under subsection (e) with respect to the application;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="ide44adc74cd3c4d6c8725a4b449820aa2">
+                                <enum>(ii)</enum>
+ <text>no formal objection to the application has been received from the Governor or Tribal leader of a specially affected coastal jurisdiction (as defined in subsection (e)); and</text>
+                            </clause>
+                            <clause id="idffc8aa843a6d4833a490d16d7b418dfa">
+                                <enum>(iii)</enum>
+ <text>the Administrator has determined that the application complies with the requirements described in paragraph (1)(A).</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idb78a1e578e384f9c9715cfd8680e2f60">
+                            <enum>(B)</enum>
+                            <header>Process</header>
+ <text>The Administrator shall establish a process for the approval of applications under this paragraph.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id851009cd3ba94c62af00469db0eec5cc">
+                    <enum>(i)</enum>
+                    <header>Effective period</header>
+ <text>A permit for a demonstration project issued under this section—</text> <paragraph commented="no" display-inline="no-display-inline" id="id9eab278fae8b4fbda5384d4696be23c8"> <enum>(1)</enum> <text display-inline="yes-display-inline">shall be in effect during the 10-year period beginning on the date on which the project begins in-water operations; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7b157c1966a947319c112c56cdb886f3">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">may be renewed as provided by subsection (k).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id044813f1b5d343a0b5194817755e7c6c">
+                    <enum>(j)</enum>
+                    <header>Renewal</header>
+                    <paragraph id="ida93ab795737d403ea6ca2ce69c571c94">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator may renew a permit, that has not been revoked, for a demonstration project issued under this section for an additional 10-year period after the 10-year period described in subsection (i)(1) if—</text>
+                        <subparagraph id="id8fc6db0830f945888e0b32b1cfa60df0">
+                            <enum>(A)</enum>
+ <text>the owner or operator of the project submits to the Administrator a proposal for renewal of the permit by a date determined by the Administrator; and</text>
+                        </subparagraph>
+                        <subparagraph id="id7c800102f36148deaa829e0add4d20b6">
+                            <enum>(B)</enum>
+ <text>the Administrator determines that the permit, as modified by the proposal, remains in compliance with the requirements described in subsection (j)(1).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idcf6214c3e6f34dc9b2abb01fd941f416">
+                        <enum>(2)</enum>
+                        <header>Notice and public comment</header>
+ <text>The Administrator shall—</text> <subparagraph id="id378292ce388741fcbc4d4f84e8e2c7fe"> <enum>(A)</enum> <text>publish in the Federal Register a notice summarizing each proposal received under paragraph (1) with respect to the renewal of a permit;</text>
+                        </subparagraph>
+                        <subparagraph id="id726075a9a7344058932079a7a2ec98c2">
+                            <enum>(B)</enum>
+ <text>invite public comments for a period of not less than 60 days regarding each such proposal; and</text>
+                        </subparagraph>
+                        <subparagraph id="idb1ad644b10b74425bffd09fc90189fb1">
+                            <enum>(C)</enum>
+ <text>consider such comments in determining whether to approve the renewal of the permit.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="idcb9854c2ebfa41f3863bbdd02a708613">
+                    <enum>(k)</enum>
+                    <header>Authority To modify or terminate participation of demonstration projects
+                        and order removal of facilities</header>
+ <text>The Administrator may require modifications to a demonstration project for which a permit is issued under this section, terminate such a permit, or order the removal of an offshore aquaculture facility authorized to operate under such a permit, if—</text>
+                    <paragraph id="id59384319a90f43eaa3c230ebde8d6280">
+                        <enum>(1)</enum>
+                        <subparagraph commented="no" display-inline="yes-display-inline"
+                            id="id7fdb06ebee6741e5af745e470f7028e0">
+                            <enum>(A)</enum>
+ <text>the project incurs an incident involving a death or serious personal injury and the Administrator determines that negligence of the project operator was the cause of or a contributing factor to the incident;</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline"
+                            id="id00234064159f4529bb2552a72b43607e" indent="up1">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">operation of the project results in a violation of—</text>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="id3d55e79df7f74d29999778a6b569d49d">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1531">16 U.S.C. 1531 et seq.</external-xref>); or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="idabd65ec11453482bb6c9671fe3876dcd">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the Marine Mammal Protection Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1361">16 U.S.C. 1361 et seq.</external-xref>);</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" indent="up1"
+                            id="id698fa76cfeae4b5ca575919f1735c8ea">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the owner or operator of the project fails to comply with all of the terms and conditions of—</text>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="idd5f11e9912f84ab281be173d15870e7e">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the permit; or</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id616ebe99e4f241e59f54b5abe0b58a5a"> <enum>(ii)</enum> <text display-inline="yes-display-inline">modifications required by the Administrator under this subsection; or</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" indent="up1"
+                            id="id2e67483cc8824e7595878e948bbef28a">
+                            <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the Administrator determines that operation of the demonstration project would be unsafe or result in unacceptable negative impacts to—</text>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="id90d14ae58e284143bbf3d6ce40522398">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the marine environment;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="id002c20bf9d4044e2a18501c825f8a00f">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">nearby communities; or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline"
+                                id="idd62eb43640ae4a45816a0b9379dbb43b">
+                                <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">other users of the water body in which the project is located; and</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id8d57a9dae3f84e51a094f1cd13c13af3">
+                        <enum>(2)</enum>
+ <text>before requiring a modification to the demonstration project, terminating the permit, or ordering the removal of the offshore aquaculture facility—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline"
+                            id="id5744b48c503f48138e8c90da7614df3e">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the Administrator provides a warning notice to the owner or operator of the project; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline"
+                            id="id122633ef972a4e868859baf56839e965">
+                            <enum>(B)</enum>
+ <text>the owner or operator is given an opportunity to address the Administrator's concerns.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id8f8d0103a9bc4eb5bd2f893adc5770c4">
+                    <enum>(l)</enum>
+                    <header>Coastal Zone Management Act review</header>
+ <text>The submission of an application for a permit for a demonstration project under this section shall trigger the right of review by a coastal State under the Coastal Zone Management Act of 1972 (<external-xref legal-doc="usc" parsable-cite="usc/16/1451">16 U.S.C. 1451 et seq.</external-xref>).</text>
+                </subsection>
+            </section>
+            <section id="id6585699fe778424ab54c47f9811cf5b1">
+                <enum>203.</enum>
+                <header>Coordination of permit reviews for demonstration projects</header>
+                <subsection id="idae70e866ab7543a3a0ae6ae52867fb33">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Administration shall serve as the lead Federal agency for purposes of providing information on Federal permitting requirements for demonstration projects under section 202.</text>
+                </subsection>
+                <subsection id="iddc5847f29c794858a30024a24d015063">
+                    <enum>(b)</enum>
+                    <header>Informal consultations</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idf619acc958254482b7e2ead638a422a0">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall convene representatives of the agencies described in paragraph (2) to provide prospective applicants for permits for demonstration projects under section 202 an opportunity for informal consultation with such agencies.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcd08db632b6546eebfabbe1c5fe01cde">
+                        <enum>(2)</enum>
+                        <header>Agencies described</header>
+ <text>The agencies described in this paragraph are the following:</text> <subparagraph id="idd40c7001d2bd43439cc56fbe9105b5c5"> <enum>(A)</enum> <text>The Department of Agriculture.</text>
+                        </subparagraph>
+                        <subparagraph id="idbabcba5c902841b1836461f24a6a8f9c">
+                            <enum>(B)</enum>
+ <text>The Environmental Protection Agency.</text> </subparagraph> <subparagraph id="id1ea80552a6674a5aa6d7c0e74163f097"> <enum>(C)</enum> <text>The Army Corps of Engineers.</text>
+                        </subparagraph>
+                        <subparagraph id="id1d6f658d5015438cb11ed6627935b57b">
+                            <enum>(D)</enum>
+ <text>The Department in which the Coast Guard is operating.</text> </subparagraph> <subparagraph id="id0ed82c8459d846bdb20fcf6e6daa10de"> <enum>(E)</enum> <text>The Department of Defense.</text>
+                        </subparagraph>
+                        <subparagraph id="ide6f791f67c1d47dbac483d6827f523aa">
+                            <enum>(F)</enum>
+ <text>Any other agency the Administrator considers appropriate.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idbecf416fa4a94367aeb0736551c1bcf7"> <enum>(3)</enum> <header>Rule of construction</header> <text display-inline="yes-display-inline">Nothing in this subsection shall preclude an applicant or a prospective applicant from contacting Federal agencies directly.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id7a1ba8fbb87a4555a7a1815f0a318e7a">
+                    <enum>(c)</enum>
+                    <header>Environmental analysis</header>
+ <text>To the extent allowable under the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4321">42 U.S.C. 4321 et seq.</external-xref>), any environmental analysis or environmental impact statement required under that Act for offshore aquaculture activities proposed to be carried out under a demonstration project under section 202 shall be conducted through a single, consolidated environmental review and the Administration, through the Office of Aquaculture established by section 101, shall serve as the lead Federal agency.</text>
+                </subsection>
+                <subsection id="id6113e7fd8fa34b2c9a8732c99024e6dc">
+                    <enum>(d)</enum>
+                    <header>Coordination of permit reviews</header>
+ <text>To the extent practicable under this Act and all other applicable laws, including regulations, Federal agencies with permitting requirements applicable to offshore aquaculture activities proposed to be carried out under a demonstration project under section 202 shall coordinate their review processes in order to provide a timely response to an applicant not later than 180 days after the submission of the application.</text>
+                </subsection>
+            </section>
+            <section id="id7689006aac4a4ae8b2980d7dbdcde52e">
+                <enum>204.</enum>
+                <header>Reporting by assessment program participants</header>
+                <subsection id="idaf67f322aed04b6babe77491cf03392a">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Not later than 1 year after the date on which a demonstration project for which a permit is issued under section 202 commences, and annually thereafter until the demonstration project terminates, the owner or operator of the demonstration project shall submit to the Administrator the following:</text>
+                    <paragraph id="idf4142b101af34053b4223dcbbc2de03b">
+                        <enum>(1)</enum>
+ <text>Production data.</text> </paragraph> <paragraph id="id3b2d0019a2ff4685a217498eccec2cb8"> <enum>(2)</enum> <text>Information on interactions with wild species, mitigation measures taken, and the results of such interactions and measures.</text>
+                    </paragraph>
+                    <paragraph id="id5d6dce4e66654586a16d1b63b1da5e7f">
+                        <enum>(3)</enum>
+ <text>Information on technology and operational practices used to measure and monitor—</text>
+                        <subparagraph id="id712d886d8ef54ef5a23c7b22802f33ec">
+                            <enum>(A)</enum>
+ <text>effluent;</text> </subparagraph> <subparagraph id="id63089f8e289b4b5d80e4335fe98a0b52"> <enum>(B)</enum> <text>integrity of cage materials and other gear; and</text>
+                        </subparagraph>
+                        <subparagraph id="id2b4959432a314dd69c3a29157e6f7586">
+                            <enum>(C)</enum>
+ <text>health of the cultivated species.</text> </subparagraph> </paragraph> <paragraph id="ide0f9c31e23774f4dbd41afa900e93f95"> <enum>(4)</enum> <text>Information on environmental and ecosystem impacts.</text>
+                    </paragraph>
+                    <paragraph id="idc2ab5ba531f54fa3873ff6b2256469c1" commented="no">
+                        <enum>(5)</enum>
+ <text>Data necessary for the Ocean Studies Board of the National Academies of Sciences, Engineering, and Medicine to complete the study described in section 401.</text>
+                    </paragraph>
+                    <paragraph id="idfd1ee4200624429b898ef8c2e2ab0931">
+                        <enum>(6)</enum>
+ <text>Owner, operator, and employee demographic data and other relevant data as determined appropriate by the Administrator for purposes of assessing—</text>
+                        <subparagraph id="id65519490512e41c59094b27e96783a30">
+                            <enum>(A)</enum>
+ <text>the direct benefits of the demonstration project to fishery stakeholders; and</text>
+                        </subparagraph>
+                        <subparagraph id="ide0e3939eaddb4f2a8e09ebd0972d34c1">
+                            <enum>(B)</enum>
+ <text>the economic and social benefits of the demonstration project for nearby coastal communities.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idf4a430f40574410d85e63aed67989aa9">
+                        <enum>(7)</enum>
+ <text>Information on navigation and safety impacts to existing ocean users.</text>
+                    </paragraph>
+                    <paragraph id="idf97b0821f3af45bbb419ac7de24be2e7">
+                        <enum>(8)</enum>
+ <text>Such additional information as the Administrator requires to fulfill the goals and objective of the assessment program established under section 201.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id2c48cfed3fff4329accf5329a4f47d02">
+                    <enum>(b)</enum>
+                    <header>Technical assistance</header>
+ <text>The Administrator shall, upon request, provide technical assistance to owners and operators of demonstration projects for which permits are issued under section 202 to comply with the reporting requirements of this section.</text>
+                </subsection>
+                <subsection id="idd23f85bef5f34891b89ac2d1d9f5959f">
+                    <enum>(c)</enum>
+                    <header>Emergency reporting</header>
+ <text>The Administrator shall establish an emergency reporting process for each owner or operator of a demonstration project for which a permit is issued under section 202 to immediately report suspected or known interactions between project facilities or vessels and protected wild species.</text>
+                </subsection>
+            </section>
+            <section id="idb898f5fbd10c4644a920c230bfe0dfbe">
+                <enum>205.</enum>
+                <header>Rule of construction; savings provisions</header>
+                <subsection id="idb2d8336e2f0c4580ac627b252b6dde0c">
+                    <enum>(a)</enum>
+                    <header>Rule of construction</header>
+ <text>Any requirement in this title to identify or consider an impact or effect on human health or the environment shall be construed as including a requirement to make such identification or consideration while taking into account—</text>
+                    <paragraph id="idba6d3e2c515a4ae1aa3861ee559e7fb9">
+                        <enum>(1)</enum>
+ <text>the cumulative impact of such impact or effect in the context of all sources of emissions, discharges, or releases from any source, past, present, or in the reasonably foreseeable future, on the affected environment and population;</text>
+                    </paragraph>
+                    <paragraph id="idf837d0b2beb24d6385aff1d61df575f4">
+                        <enum>(2)</enum>
+ <text>any characteristics of such environment and population that may heighten vulnerability to environmental pollution and related health risks; and</text>
+                    </paragraph>
+                    <paragraph id="ide83c9c6392b64570858cca2e0a47b821">
+                        <enum>(3)</enum>
+ <text>any action or practice that, even if appearing neutral, has the effect of subjecting individuals to discrimination on the basis of race, color, or national origin.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="ide84788114d5e498b861378f8287694b7">
+                    <enum>(b)</enum>
+                    <header>Statutory construction</header>
+ <text>A permit for a demonstration project issued under section 202 shall not supersede or substitute for any other authorization required under Federal or State law.</text>
+                </subsection>
+                <subsection id="ideb6721bb380443b3871d928c1e7a65a3" commented="no" display-inline="no-display-inline">
+                    <enum>(c)</enum>
+                    <header>Applicability</header>
+ <text>This title does not apply with respect to applications for a permit in process on the date of the enactment of this Act or permits that are in effect on that date.</text>
+                </subsection>
+            </section>
+        </title>
+        <title id="idA44F3679B8394029922DC2ECC1CA53B5">
+            <enum>III</enum>
+            <header>Workforce development, financing, and other support</header>
+            <section id="id31BC491634B349CC884D5D6CDC4E9395">
+                <enum>301.</enum>
+                <header>General support for industry</header>
+                <subsection id="id4b4e365b635249dda69b4abcd7586c41">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Administrator shall support the development of offshore aquaculture consistent with this Act and other applicable Federal law.</text>
+                </subsection>
+                <subsection id="idfda166e95e294564bf203a2b21da2fa9">
+                    <enum>(b)</enum>
+                    <header>Marketing and promotion grants</header>
+ <text>The Administrator, in consultation with private sector aquaculture stakeholders, shall establish and administer a grant program to support the sale and public perception of cultured species domestically and internationally.</text>
+                </subsection>
+                <subsection id="id1352066E32174BFF8A5770000BA8321F">
+                    <enum>(c)</enum>
+                    <header>Workforce development grants</header>
+                    <paragraph id="id6376f9c3134247f6a29b3503af2852cb">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>The Administrator, in consultation with private sector operators of offshore aquaculture facilities, academic institutions, and the national sea grant college program, shall establish and administer a grant program to support the education and training of individuals with the skills needed to manage and operate offshore aquaculture facilities.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idaf7a32ceeb6b4dad833374033f87ea97">
+                        <enum>(2)</enum>
+                        <header>Aquaculture Centers of Excellence</header>
+ <text display-inline="yes-display-inline">The Administrator may carry out paragraph (1) through the program established under section 302(b)(1).</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id9DE39376137C4FF2B7BB7538E18076B2">
+                    <enum>(d)</enum>
+                    <header>Regional networks</header>
+ <text>The Administrator, through each regional fisheries office of the Administration, shall organize a network of—</text>
+                    <paragraph id="id60168e670d15423d8a96432748b4b8ae">
+                        <enum>(1)</enum>
+ <text>regional experts and Federal agency contacts, in coordination with relevant organizations, including the national sea grant college program, the Regional Aquaculture Centers of the Department of Agriculture, institutions of higher education, and the Cooperative Extension System of the Department of Agriculture, to provide technical expertise and extension services for offshore aquaculture and information on Federal permit requirements for offshore aquaculture; and</text>
+                    </paragraph>
+                    <paragraph id="id525F6DA60B3A41C08ADCB251F77B1987">
+                        <enum>(2)</enum>
+ <text>individuals and businesses interested in aquaculture operations and products to facilitate professional development, marketing, mentoring opportunities, and agency outreach and education on aquaculture.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id473821E64F674B12943479C8CA34E62E">
+                    <enum>(e)</enum>
+                    <header>Aquaculture database</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id0e09d5b70bcb4451a1303cb96dd1ab04">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall establish and maintain an aquaculture database within the Office of Aquaculture established by section 101.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id15efeddd7b1944449fbaca930d28b417">
+                        <enum>(2)</enum>
+                        <header>Inclusions</header>
+ <text display-inline="yes-display-inline">The database required by paragraph (1) shall include information on research, technologies, monitoring techniques, best practices, and advisory board recommendations relating to aquaculture and offshore aquaculture.</text>
+                    </paragraph>
+                    <paragraph id="idfe8da1b40539472aa6eeafbd449ca02b">
+                        <enum>(3)</enum>
+                        <header>Safeguarding of information</header>
+ <text>The Administrator shall make the database required by paragraph (1) available in a manner that safeguards personally identifiable information and confidential business information.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id1f5670c1d1e84dbaa982e181609f869f">
+                        <enum>(4)</enum>
+                        <header>Patents</header>
+ <text display-inline="yes-display-inline">The inclusion of information in the database required by paragraph (1) shall not be considered to be publication for purposes of subsection (a) or (b) of section 102 of title 35, United States Code.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idAC49D564B08B403CB4F55B1E8C03DCA0">
+                    <enum>(f)</enum>
+                    <header>Technical assistance programs for operators</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id04aae8697bcf4e57b855abc05848f3e3">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator, through the Office of Aquaculture established by section 101 and the regional aquaculture coordinators described in such section, shall organize a program in each regional fisheries office of the Administration to provide technical assistance to operators of offshore aquaculture facilities.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4af803d67710490aa09d2515fe345bb5">
+                        <enum>(2)</enum>
+                        <header>Tailoring</header>
+ <text display-inline="yes-display-inline">The programs required by paragraph (1) shall be tailored to meet the unique needs of each region.</text>
+                    </paragraph>
+                    <paragraph id="id2499cbb6a3f44a53a6c5dc5b629f8f7d">
+                        <enum>(3)</enum>
+                        <header>Consultations</header>
+ <text>Under each program required by paragraph (1), the regional aquaculture coordinators described in section 101 may conduct consultations with the operator of each offshore aquaculture facility in the region concerned on a regular basis—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id908c440e6f734435be9444a580992923">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">to assess the status of the operator’s business; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id40b9299f142243f5891e99d96b24f352">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">if appropriate, to identify available resources to support the operator, such as regional experts, university extension agents, and grant opportunities.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id683EB8A0ACB14B4AB5D635CF07093D0C">
+                    <enum>(g)</enum>
+                    <header>Capital markets</header>
+                    <paragraph id="idAFC615E072B64C9EB971E1246D5744F9">
+                        <enum>(1)</enum>
+                        <header>Provision of information</header>
+ <text>In order to enhance access to capital markets, the Administrator shall provide financial institutions and investment firms with objective, science-based information on offshore aquaculture and the Federal regulatory regime for offshore aquaculture.</text>
+                    </paragraph>
+                    <paragraph id="id35731F5B9F2D40ECA63BFF13FF5A6271">
+                        <enum>(2)</enum>
+                        <header>Economic analysis</header>
+ <text>The Administrator shall provide economic analysis to answer queries regarding the value of offshore aquaculture assets to secure financing, such as equipment, governmental permits, inventory, and intellectual property.</text>
+                    </paragraph>
+                    <paragraph id="idB860CE6BC9754A3C810E80CF14A0B2C4">
+                        <enum>(3)</enum>
+                        <header>Collaboration</header>
+ <text>In order to achieve the goals of this subsection, the Administrator is encouraged to collaborate with the Secretary of Agriculture, the Secretary of the Treasury, and the regional networks established under subsection (d).</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idB2B4AD79255845E588211FB65958B04C">
+                <enum>302.</enum>
+                <header>Aquaculture Centers of Excellence</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id718d8a1a2f064214a27b710ad9d8e7ad">
+                    <enum>(a)</enum>
+                    <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id1243169422d248c5a7fd0c400b17a424"> <enum>(1)</enum> <header>Covered institution</header> <text>The term <term>covered institution</term> means—</text>
+                        <subparagraph id="id358C98B15EC446D8970459AB5DD70C3B">
+                            <enum>(A)</enum>
+ <text>a minority-serving institution;</text> </subparagraph> <subparagraph id="idA3948A005CC94DCC81E8E9C54F4D1388"> <enum>(B)</enum> <text>a Native Hawaiian-serving institution;</text>
+                        </subparagraph>
+                        <subparagraph id="idE0EC9AE763DF4907A3CAFDE09948B00D">
+                            <enum>(C)</enum>
+ <text>an Alaska Native-serving institution;</text> </subparagraph> <subparagraph id="id2E000A3AFA4148B5897796534C4D7ACE"> <enum>(D)</enum> <text>a historically Black college or university; or</text>
+                        </subparagraph>
+                        <subparagraph id="id3935ECFBB1A740829AD01255CB379D1E" commented="no" display-inline="no-display-inline">
+                            <enum>(E)</enum>
+ <text>a Tribal college or university.</text> </subparagraph> </paragraph> <paragraph id="idF2C1EBE6685D4214A01E882D331CA73D" commented="no"> <enum>(2)</enum> <header>Historically Black college or university</header> <text>The term <term>historically Black college or university</term> has the meaning given the term <term>part B institution</term> in section 322 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1061">20 U.S.C. 1061</external-xref>).</text>
+                    </paragraph>
+                    <paragraph id="id0e542961506643cbbcef30bdf260b37e" commented="no">
+                        <enum>(3)</enum>
+                        <header>Minority-serving institution</header>
+ <text>The term <term>minority-serving institution</term> means an eligible institution described in paragraph (2), (4), (5), (6), or (7) of section 371(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1067q">20 U.S.C. 1067q(a)</external-xref>).</text>
+                    </paragraph>
+                    <paragraph id="id57aa464dc13c44a2afb6df6278b56c21" commented="no">
+                        <enum>(4)</enum>
+                        <header>Tribal college or university</header>
+ <text>The term <term>Tribal college or university</term> means a Tribal College or University (as defined in section 316(b) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059c">20 U.S.C. 1059c(b)</external-xref>)) that is chartered by the governing body of the applicable Indian Tribe or by the Federal Government.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id42F005A6EB8E47B2996A77D888DDE7FD">
+                    <enum>(b)</enum>
+                    <header>Aquaculture curriculum grants</header>
+                    <paragraph id="id077661819fde4f45a4b65fc4b776d12b">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Not later than 1 year after the date of the enactment of this Act, the Administrator, in consultation with private sector aquaculture stakeholders, academic institutions, and the national sea grant college program, shall establish a program to award grants to covered institutions to assist in establishing or enhancing an aquaculture curriculum for undergraduate, graduate, or certificate courses of study at such covered institutions.</text>
+                    </paragraph>
+                    <paragraph id="id6C742E817F694E28937DAD4AAE79B853">
+                        <enum>(2)</enum>
+                        <header>Aquaculture Centers of Excellence</header>
+ <text>A covered institution that receives a grant under this section shall be known as an <quote>Aquaculture Center of Excellence</quote>.</text>
+                    </paragraph>
+                    <paragraph id="id261de5b23d23453aa21e7dbc8b1bd0b4">
+                        <enum>(3)</enum>
+                        <header>Applications</header>
+ <text>To be eligible to receive a grant under this section, a covered institution shall submit to the Administrator an application that includes any plans to partner with one or more other institutions of higher education as authorized under paragraph (5).</text>
+                    </paragraph>
+                    <paragraph id="id51FDB9F197AB45D18D07E19BA4ED222B">
+                        <enum>(4)</enum>
+                        <header>Use of grant amounts</header>
+                        <subparagraph id="id888F4481AE6F4AEFA631CEB0F31820F2">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>A covered institution receiving a grant under this section shall use the grant amounts to establish or enhance an aquaculture curriculum for undergraduate, graduate, or certificate courses of study that may include the following:</text>
+                            <clause id="idF482D0441E0B48FAA63957765905AFE7">
+                                <enum>(i)</enum>
+ <text>Training in various skills needed by successful aquaculture entrepreneurs, including—</text>
+                                <subclause id="id6eaefb225b04465097bffd2dbdb3e299">
+                                    <enum>(I)</enum>
+ <text>offshore aquaculture operations;</text> </subclause> <subclause id="id59B0A2B6745842C185DC00A7C9A6CBE2"> <enum>(II)</enum> <text>business management, strategic planning, business plan development, capital financing and fundraising, financial management and accounting, market analysis and competitive analysis, and market entry and strategy execution; and</text>
+                                </subclause>
+                                <subclause id="idB5D14FAF9F8E4A4ABDCC06B382C6FEF3">
+                                    <enum>(III)</enum>
+ <text>any other skill specific to the needs of the student population and the surrounding community, including with respect to social and environmental sustainability, as determined by the covered institution.</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id385ED81476514E7A9F6B644F0F9880E5">
+                                <enum>(ii)</enum>
+ <text>Natural and social science research programs in aquaculture and natural fisheries, including offshore aquaculture.</text>
+                            </clause>
+                            <clause id="id5F81FC3E561641EC94839BEE5EFE16EF">
+                                <enum>(iii)</enum>
+ <text>Development of extension programs (or cooperation with existing extension programs) that—</text>
+                                <subclause id="idAF97F72000E94764B0E332F43A0AFEEA">
+                                    <enum>(I)</enum>
+ <text>educate and engage community members, including elementary and secondary school students, on aquaculture and aquaculture career pathways; and</text>
+                                </subclause>
+                                <subclause id="idBB674E116B874968AC46477DCF4280FE">
+                                    <enum>(II)</enum>
+ <text>transfer newly developed techniques and research information developed or collated at the covered institution to aquaculture stakeholders.</text>
+                                </subclause>
+                            </clause>
+                            <clause id="idb195715b50354bfba40a730b794c5724">
+                                <enum>(iv)</enum>
+ <text>Career development, such as the establishment of cooperatives, apprenticeships, internships, practicums, mentorships, accelerators, or grant competitions.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id2297FF1A692549ADAAF56E67515E72A7">
+                            <enum>(B)</enum>
+                            <header>Limitations on use of grant amounts</header>
+ <text>Amounts from a grant awarded under this section may be used only for expenses directly related to the implementation of the curriculum or activities authorized under this section.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id59167B6F5EA94BF5AB977B1CDCA50D7E">
+                        <enum>(5)</enum>
+                        <header>Partnerships</header>
+ <text>In applying for grants and carrying out activities with grant amounts under this section, a covered institution may partner with one or more other institutions of higher education with established aquaculture programs, including institutions of higher education not otherwise eligible for grants under this section, to facilitate the sharing of resources and knowledge necessary for the development or enhancement of aquaculture curriculum at the covered institution.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idBD49E3008D484F08A90FB782542189C9">
+                    <enum>(c)</enum>
+                    <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2026 through 2030, to remain available until expended.</text>
+                </subsection>
+            </section>
+            <section id="idb8e4961746f54892a40dd07c39d2d294">
+                <enum>303.</enum>
+                <header>Working waterfronts preservation grant program</header>
+                <subsection id="id9a2b8019c0cb41b59ed0033c02ab9588">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Secretary of Commerce, acting through the Assistant Secretary of Commerce for Economic Development (referred to in this section as the <term>Secretary</term>), shall award grants, on a competitive basis, that support the commercial fishing industry, the aquaculture industry, the for-hire recreational fishing industry, or the boatbuilding industry in coastal States.</text>
+                </subsection>
+                <subsection id="idabaff569aea842da92f9001418141c34">
+                    <enum>(b)</enum>
+                    <header>Application</header>
+ <text>An entity desiring a grant under this section shall submit to the Secretary an application containing such information as the Secretary may reasonably require.</text>
+                </subsection>
+                <subsection id="idaf37ee954d874a03b20719bc59c900c4">
+                    <enum>(c)</enum>
+                    <header>Considerations</header>
+ <text>In selecting entities to receive a grant under this section, the Secretary shall give substantial weight to—</text>
+                    <paragraph id="id2f4a3bf67ce240b698ffb375c5d3c6ec">
+                        <enum>(1)</enum>
+ <text>the economic significance of a project to the commercial fishing industry, the aquaculture industry, the for-hire recreational fishing industry, or the boatbuilding industry in the immediate vicinity and in the coastal State in which the project is located;</text>
+                    </paragraph>
+                    <paragraph id="idd36365cc5da742bc9fdf0d97a5540705">
+                        <enum>(2)</enum>
+ <text>the availability of waterfront access points for the commercial fishing industry, the aquaculture industry, the for-hire recreational fishing industry, or the boatbuilding industry within the community in which the entity seeks to carry out the project;</text>
+                    </paragraph>
+                    <paragraph id="iddfeaaa57982b4c6789912170462e328f">
+                        <enum>(3)</enum>
+ <text>the utility of the project for use in the commercial fishing industry, the aquaculture industry, the for-hire recreational fishing industry, or the boatbuilding industry with respect to the natural characteristics and developed infrastructure of the community in which the project will be located;</text>
+                    </paragraph>
+                    <paragraph id="idb660514d372b4d06b99daa6341a39223">
+                        <enum>(4)</enum>
+ <text>whether the entity has a business plan for the project;</text> </paragraph> <paragraph id="id5e0811075086415eba6e99e14d240796"> <enum>(5)</enum> <text>anticipated or likely impacts of the project on existing uses, including commercial fishing, aquaculture, offshore aquaculture, for-hire recreational fishing, or boatbuilding;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id402f6a920863440fb83b7245f47076b6">
+                        <enum>(6)</enum>
+ <text display-inline="yes-display-inline">the ability of the entity to demonstrate a need, or support, for the project within that community; and</text>
+                    </paragraph>
+                    <paragraph id="idb033c1a850554b7ab1576b4546f59e7c">
+                        <enum>(7)</enum>
+ <text>if the project will confer property protection benefits, and the duration of those benefits.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id3b9150c7137745fa9ff0f159879f8dfe">
+                    <enum>(d)</enum>
+                    <header>Cost-Sharing</header>
+ <text>A grant under this section for a project may not exceed 50 percent of the total cost of the project.</text>
+                </subsection>
+                <subsection id="id5e8f2bc33e5541eb97dcaf8b8eff40ec">
+                    <enum>(e)</enum>
+                    <header>Improved or protected property</header>
+                    <paragraph id="id691e476af9ac46cf8344a7bfd36aa6cd">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>A grant under this section may be used to improve or protect privately-owned real property or interests in privately-owned real property, including easements, only from willing owners.</text>
+                    </paragraph>
+                    <paragraph id="id88cb535d039f4625aa3b94f5e2a08b2e">
+                        <enum>(2)</enum>
+                        <header>No exercise of eminent domain</header>
+ <text>No Federal, State, or local agency may exercise the power of eminent domain to secure title to any real property or facilities in connection with a project carried out with a grant under this section.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id308b02b2fb4648d89d9809bda16679ac" commented="no" display-inline="no-display-inline">
+                    <enum>(f)</enum>
+                    <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2026 through 2030.</text>
+                </subsection>
+            </section>
+            <section id="id80A12F165AAF4593BDA0730A81B2A33A">
+                <enum>304.</enum>
+                <header>Outreach on sustainable offshore aquaculture</header>
+                <subsection commented="no" display-inline="no-display-inline" id="id59d3efab091c4a93aed59ec2b9516e64">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Administrator shall conduct outreach on sustainable offshore aquaculture to promote understanding, science-based decision making, and commercial adoption.</text>
+                </subsection>
+                <subsection commented="no" display-inline="no-display-inline" id="id01d36044cfb840fca65c8275eedc083e">
+                    <enum>(b)</enum>
+                    <header>Engagement</header>
+ <text display-inline="yes-display-inline">In carrying out subsection (a), the Administrator shall use appropriate means to engage—</text>
+                    <paragraph id="idA97569674B6D4FDABCF29EA600346025">
+                        <enum>(1)</enum>
+ <text>the general public;</text> </paragraph> <paragraph id="idC160AE69A9244AABB39FC2064BDB70C3"> <enum>(2)</enum> <text>community leaders;</text>
+                    </paragraph>
+                    <paragraph id="id1091BBBC8AB547D6957C6FF3C4950B2F">
+                        <enum>(3)</enum>
+ <text>governmental officials;</text> </paragraph> <paragraph id="id362280DFF8344655B70B7525F04BCC03"> <enum>(4)</enum> <text>the business community;</text>
+                    </paragraph>
+                    <paragraph id="id18C14497AA70433E813B040F3501FE21">
+                        <enum>(5)</enum>
+ <text>the academic community; and</text> </paragraph> <paragraph id="id2E132506B64044EC9B128C6AE02B7CA1"> <enum>(6)</enum> <text>the nonprofit sector.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title commented="no" level-type="subsequent" id="id9fd4b101d2c34520a31ad3376f201f15">
+            <enum>IV</enum>
+            <header>Studies and reports</header>
+            <section id="id502576cca4b7404096638b20433d1d31">
+                <enum>401.</enum>
+                <header>Study on offshore aquaculture by Ocean Studies Board of the National
+                    Academies of Sciences, Engineering, and Medicine</header>
+                <subsection id="id956f72d877544c02b11759cf260af0d9">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>The Administrator shall seek to enter into a contract with the Ocean Studies Board of the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the <quote>Board</quote>) under which the Board shall, not later than 5 years after the date on which the Administrator establishes the assessment program under section 201—</text>
+                    <paragraph id="idca2e66f2bd5a400893f43a3c331423c2">
+                        <enum>(1)</enum>
+ <text>complete a study to develop the scientific basis for efficient and effective regulation of offshore aquaculture; and</text>
+                    </paragraph>
+                    <paragraph id="id70f73db4fcdc443d8bd52a512186c987">
+                        <enum>(2)</enum>
+ <text>submit to Congress and make publicly available the results of the study.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="idf4dfda4cdf844526bf0208d6c2be43cf">
+                    <enum>(b)</enum>
+                    <header>Elements</header>
+ <text>The study completed pursuant to subsection (a) shall, with respect to offshore aquaculture—</text>
+                    <paragraph id="id2d10bc21a318498f90204455b6a7d46a">
+                        <enum>(1)</enum>
+ <text>identify—</text> <subparagraph id="ida2e3b80393334679804d6ffa344abcaa"> <enum>(A)</enum> <text>optimal methods of operation of offshore aquaculture facilities to limit adverse effects on the environment, wildlife, and human well-being, including—</text>
+                            <clause id="id0865d36c61a541658f4af425bc34ec0a">
+                                <enum>(i)</enum>
+ <text>considerations to guide siting decisions of such facilities;</text>
+                            </clause>
+                            <clause id="id06673ddebb5b410080a14231dbf69136">
+                                <enum>(ii)</enum>
+ <text>appropriate stocking densities; and</text> </clause> <clause id="id090efb1279ad4ffa8f5ffd5a74142788"> <enum>(iii)</enum> <text>opportunities for selective breeding;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idaf2f215f80324e8e9a0a2f752d742f58">
+                            <enum>(B)</enum>
+ <text>a science-based definition of <quote>responsible offshore aquaculture feed or other inputs</quote>, including guidance on sourcing feed or other inputs to address long- or short-term concerns, including the availability and scalability of such inputs;</text>
+                        </subparagraph>
+                        <subparagraph id="id93ac3ea6d63c4c03af8b25af88f8582d">
+                            <enum>(C)</enum>
+ <text>potential adverse effects on the environment, wildlife, and human well-being, including from—</text>
+                            <clause id="id4d1f748ca6af4bc3accaa3a3e2d914ef">
+                                <enum>(i)</enum>
+ <text>the use of antibiotics and other pharmaceuticals by offshore aquaculture facilities, including through analyses necessary to establish acceptable rates, impact levels, and risk thresholds, such as analyses of organism antibiotic consumption or metabolization versus excretion to the surrounding environment;</text>
+                            </clause>
+                            <clause id="id04f1f6a9e4d444f6a5dff14101007f4e">
+                                <enum>(ii)</enum>
+ <text>assimilation of pollution originating from offshore aquaculture facilities on marine organisms;</text>
+                            </clause>
+                            <clause id="id7713a421b35742309ceef220be175708">
+                                <enum>(iii)</enum>
+ <text>abandoned, lost, damaged or otherwise discarded equipment;</text>
+                            </clause>
+                            <clause id="id8264d96c58904bfcbb1b6e9eb88c6310">
+                                <enum>(iv)</enum>
+ <text>harmful interactions with wildlife;</text> </clause> <clause id="id3801a02badea44738d0a8e578997dda3"> <enum>(v)</enum> <text>interbreeding between cultured species and native marine species;</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id7377b2fcd29a425fa1364ad2e1073b67">
+                                <enum>(vi)</enum>
+ <text display-inline="yes-display-inline">the spread of disease from cultured species to wild species;</text>
+                            </clause>
+                            <clause id="idc081565f67904186b7d8d3b758f8b96a">
+                                <enum>(vii)</enum>
+ <text>the collection and removal of brood stock for offshore aquaculture operations, and hatcheries and prestocking rearing operations that are specific to offshore aquaculture;</text>
+                            </clause>
+                            <clause id="ide36620ba26cf45cc80138896cc32e04f">
+                                <enum>(viii)</enum>
+ <text>large-scale cultivation of filter-feed bivalve organisms and seaweed;</text>
+                            </clause>
+                            <clause id="id3f692473cf3f4d1f8af201ac2e6da0da">
+                                <enum>(ix)</enum>
+ <text>offshore aquaculture facilities acting as aggregating devices and increasing the vulnerability of wild fisheries and wildlife populations to fishing or other sources of mortality;</text>
+                            </clause>
+                            <clause id="ide23970afea3c4e7ca639a333757097e7">
+                                <enum>(x)</enum>
+ <text>predator control devices and methods; and</text> </clause> <clause id="id65f664fe40f140b6bf9b32cceeb351a8"> <enum>(xi)</enum> <text>the use of non-sustainable sources of feed or other inputs, including the use of globally limited marine resources for feed ingredients, and scalability of alternatives, including—</text>
+                                <subclause id="id38d451bbf90441a3870f9c3a33dfa711">
+                                    <enum>(I)</enum>
+ <text>novel ingredients (for example, insect, single cell protein, and algae);</text>
+                                </subclause>
+                                <subclause id="id60dc4ce4ec594d9ea4e6a9c353fa4aaf">
+                                    <enum>(II)</enum>
+ <text>traditional ingredients (for example, soya); and</text> </subclause> <subclause id="idb224f4d20de7474c989847ab404595c1"> <enum>(III)</enum> <text>other inputs;</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id7bc3a4be45be49f1b24414966a10f15f">
+                            <enum>(D)</enum>
+ <text>potential methods and technologies to mitigate adverse effects, including the effects identified under subparagraph (C);</text>
+                        </subparagraph>
+                        <subparagraph id="idd831da3bbbc3438dbb103451c0ed96c6">
+                            <enum>(E)</enum>
+ <text>potential conflicts between offshore aquaculture facilities and other users of the offshore environment, and solutions to mitigate such conflicts;</text>
+                        </subparagraph>
+                        <subparagraph id="id5ef515eb16ba44c18fe61317266bdf50">
+                            <enum>(F)</enum>
+ <text>the types of data and qualitative information necessary for the optimal operation of offshore aquaculture facilities and appropriate methods of procuring such data and information, including from—</text>
+                            <clause id="id38ace0c96ce84b82ae759940de4fed5b">
+                                <enum>(i)</enum>
+ <text>citizen science (as defined in section 402(c) of the Crowdsourcing and Citizen Science Act (<external-xref legal-doc="usc" parsable-cite="usc/15/3724">15 U.S.C. 3724(c)</external-xref>)); and</text>
+                            </clause>
+                            <clause id="id9b03740051284e70a3c49af8be8c334f">
+                                <enum>(ii)</enum>
+ <text>the traditional knowledge of Tribal and Indigenous communities; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id78dbc4a6f0504ef18e3cb272d85f9724">
+                            <enum>(G)</enum>
+ <text>best practices for offshore aquaculture siting and operations to manage and plan for predicted changes in global atmospheric and oceanographic conditions; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id3d71a5866f9b408383cf8ae83874013d">
+                        <enum>(2)</enum>
+ <text>provide recommendations for legislative or administrative action with respect to—</text>
+                        <subparagraph id="id321dc0b8818946209d50811154c05df8">
+                            <enum>(A)</enum>
+ <text>methods of operation identified under paragraph (1)(A);</text> </subparagraph> <subparagraph id="ida1a5db5c0a7744a9a612906f29721ad6"> <enum>(B)</enum> <text>mitigating adverse effects identified under paragraph (1)(C);</text>
+                        </subparagraph>
+                        <subparagraph id="id0c868521a21f428d8a1b5654e444e3c6">
+                            <enum>(C)</enum>
+ <text>environmental standards, control rules, or reference points that build on the existing public and private standards for the sustainability of offshore aquaculture; and</text>
+                        </subparagraph>
+                        <subparagraph id="id0dab74ae08264cbd8a33cd9cb4128020">
+                            <enum>(D)</enum>
+ <text>ensuring that operators of offshore aquaculture facilities adhere to international standards for social responsibility, public health, and equitable labor practices, including with respect to sourcing inputs for such facilities.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="idb516538bc9eb4c6d9e84031292b18bc9">
+                <enum>402.</enum>
+                <header>Report on offshore aquaculture by Government Accountability Office</header>
+                <subsection id="idd640f81357ec42ed95f10a298356fedf">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>Not later than 5 years after the date on which the Administrator establishes the assessment program under section 201, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report examining the permitting, monitoring, and regulation of offshore aquaculture during the 15-year period ending on such date of establishment.</text>
+                </subsection>
+                <subsection id="idf3b629892a194f82ba256d93e75c5765">
+                    <enum>(b)</enum>
+                    <header>Bases of report</header>
+ <text>The Comptroller General shall base the report required by subsection (a) on available literature, case studies, and aquaculture stakeholder input.</text>
+                </subsection>
+                <subsection id="idff09a00f3f6c4b22ab4de36ee16dd9a1">
+                    <enum>(c)</enum>
+                    <header>Elements of report</header>
+ <text>The report required by subsection (a) shall—</text> <paragraph id="idf2a7432f225c48bdb5d3e2c9714565f0"> <enum>(1)</enum> <text>assess the feasibility and potential positive and negative implications of designating a lead agency to issue permits for offshore aquaculture operations in a timely manner;</text>
+                    </paragraph>
+                    <paragraph id="id30703531c975420aa2f07f994d5842c1">
+                        <enum>(2)</enum>
+ <text>identify lessons learned during the period described in subsection (a) with respect to—</text>
+                        <subparagraph id="idd9eafd79c79c486690f1c578c7ddd81d">
+                            <enum>(A)</enum>
+ <text>the effect of offshore aquaculture type, location, and regulatory framework on the success of offshore aquaculture projects;</text>
+                        </subparagraph>
+                        <subparagraph id="id00f6bb2ac3ef4e5cbd778e29309e8e84">
+                            <enum>(B)</enum>
+ <text>the degree of involvement of coastal or adjacent States or Tribal or Indigenous communities in consultations for, planning for, or operations of offshore aquaculture;</text>
+                        </subparagraph>
+                        <subparagraph id="id2a17eb97a1bb424089117c27ca13c4e9">
+                            <enum>(C)</enum>
+ <text>safety protocols and risk mitigation measures for the permitting and oversight processes for offshore aquaculture, including—</text>
+                            <clause id="idba92695c615c43fc9e16c2b9e3488307">
+                                <enum>(i)</enum>
+ <text>escape prevention measures;</text> </clause> <clause id="idf9015ae4903d47c7b5b6ba7b70ef71f1"> <enum>(ii)</enum> <text>emergency event response planning;</text>
+                            </clause>
+                            <clause id="idd7db62afac974280a39b9df0caad3afb">
+                                <enum>(iii)</enum>
+ <text>compliance monitoring, particularly in remote locations;</text>
+                            </clause>
+                            <clause id="id735d5c597f3246ab8959cf175e2c88bd">
+                                <enum>(iv)</enum>
+ <text>compliance with Federal laws;</text> </clause> <clause id="idd309fe1055fc47ffa3ffc6e808792099"> <enum>(v)</enum> <text>mechanisms for reporting to appropriate Federal authorities; and</text>
+                            </clause>
+                            <clause id="idc2da9c1e56824792beec4abfbed354df">
+                                <enum>(vi)</enum>
+ <text>vessel navigation aids to ensure navigational safety;</text> </clause> </subparagraph> <subparagraph id="idb9b31d1ac9614d269af93a9c0f6980e5"> <enum>(D)</enum> <text>the effect of incentives to reduce adverse effects or disparate impacts from offshore aquaculture operations;</text>
+                        </subparagraph>
+                        <subparagraph id="id95ed3be09e41469594f040cc482244f8">
+                            <enum>(E)</enum>
+ <text>building and optimizing synergies between offshore aquaculture and wild-caught fishing activities, or offshore, nearshore, and onshore aquaculture activities, including market development, increasing seafood consumption, and shared infrastructure;</text>
+                        </subparagraph>
+                        <subparagraph id="id2f2e4ec0b0724e72b858ef1cc5ec4fbd">
+                            <enum>(F)</enum>
+ <text>the environmental effects of offshore aquaculture operations, including mechanisms to prevent harm to the environment, wildlife, or human well-being;</text>
+                        </subparagraph>
+                        <subparagraph id="id236202903750461787878200bcbcbca2">
+                            <enum>(G)</enum>
+ <text>the net economic and social benefits of offshore aquaculture projects, particularly for nearby communities and fishery stakeholders, based on project size, regulatory structures, and financing structures;</text>
+                        </subparagraph>
+                        <subparagraph id="id334945abbf3941c9992921f96377b951">
+                            <enum>(H)</enum>
+ <text>the impact of introducing offshore aquaculture products to the marketplace on supply and demand for wild-capture fisheries products, and methods for ensuring resiliency and growth for both offshore aquaculture and wild-capture fisheries products;</text>
+                        </subparagraph>
+                        <subparagraph id="id686005a3c8c143c68f64bb76957e1f9e">
+                            <enum>(I)</enum>
+ <text>mechanisms to enhance capital investment, workforce development, and equitable opportunity requirements or assistance programs in the permitting process for offshore aquaculture, or to diversify permit applicants;</text>
+                        </subparagraph>
+                        <subparagraph id="id0b5a3e3b33ba4af9a8528a5417fb8eb9">
+                            <enum>(J)</enum>
+ <text>outstanding needs for continued research, development, education activities, programs, and funding regarding—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id9a224f61f5414612803e5c9e75e6cad6">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">offshore aquaculture projects; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id9ea26054bde842db9a1f75676507f9e7">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">development of the domestic workforce and entrepreneurship related to offshore aquaculture;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id0a63e279c2ed4e5b949b6190e31132ac">
+                            <enum>(K)</enum>
+ <text>the economic potential for both large- and small-scale offshore aquaculture operations to generate a positive return on investment under various regulatory and financing structures;</text>
+                        </subparagraph>
+                        <subparagraph id="id323e42e268e146f898f9daf15027e304">
+                            <enum>(L)</enum>
+ <text>the applicability and sufficiency of existing regulatory systems for offshore aquaculture; and</text>
+                        </subparagraph>
+                        <subparagraph id="id6fb032d00a66470a8db6829af58d938a">
+                            <enum>(M)</enum>
+ <text>existing local, State, Federal, and foreign regulatory standards that may serve as models for efficient and effective regulation of offshore aquaculture; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id7c4f4b1583904b58a3d2e9a6130203f3">
+                        <enum>(3)</enum>
+ <text>include such recommendations as the Comptroller General may have with respect to future offshore aquaculture operations, including with respect to—</text>
+                        <subparagraph id="id97498ff85c3c4b01b896e453fbfd3614">
+                            <enum>(A)</enum>
+ <text>regulatory processes necessary for permitting, monitoring, and oversight, including processes and techniques related to siting, deployment, operations, and decommissioning;</text>
+                        </subparagraph>
+                        <subparagraph id="id84361858c6bd49ca93e26826ef72b8af">
+                            <enum>(B)</enum>
+ <text>potential safeguards, data collection, or monitoring required to minimize disparate impacts on specially affected coastal jurisdictions (as defined in section 202(e)), fishery stakeholders, local economies, marine environments, and existing domestic economic sectors;</text>
+                        </subparagraph>
+                        <subparagraph id="id27b09961f01c4da3a5660254b043473d">
+                            <enum>(C)</enum>
+ <text>mechanisms for optimizing coordination among Federal agencies with a role in permitting or supporting offshore aquaculture without compromising the goals of such permitting;</text>
+                        </subparagraph>
+                        <subparagraph id="id0de7e4891b854fbab8499b51cbb818bb">
+                            <enum>(D)</enum>
+ <text>methods for effectively involving aquaculture stakeholders, including—</text>
+                            <clause id="id0edd5a30c6534e8cabc2af0afa0be8df">
+                                <enum>(i)</enum>
+ <text>specially affected coastal jurisdictions (as defined in section 202(e));</text>
+                            </clause>
+                            <clause id="idb437f4c19c3243eca4a40ca60470812a">
+                                <enum>(ii)</enum>
+ <text>local communities;</text> </clause> <clause id="id2681b667c99f47fdabf8a8d322612712"> <enum>(iii)</enum> <text>regional offshore waters users and management groups, including regional fishery management councils; and</text>
+                            </clause>
+                            <clause id="id1eafcc2e5ada431c96f2137ce5aacb98">
+                                <enum>(iv)</enum>
+ <text>users of local, State, Tribal, and Federal waters and coastal resources;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id409c392ea55c4e6e9a0c977d8add5dc3">
+                            <enum>(E)</enum>
+ <text>best practices for incorporating local knowledge, including from Tribal or Indigenous communities;</text>
+                        </subparagraph>
+                        <subparagraph id="id01d07dfc0efc4b379e113a4d8b709d46">
+                            <enum>(F)</enum>
+ <text>capabilities of Federal agencies that are necessary for effective regulation of the offshore aquaculture sector; and</text>
+                        </subparagraph>
+                        <subparagraph id="id6f039a5f7834456c94007c260a90276d" commented="no" display-inline="no-display-inline">
+                            <enum>(G)</enum>
+ <text>how creating private rights of action or waiving sovereign immunity would affect the development of offshore aquaculture projects and the acceptance of such projects by nearshore and offshore waters user groups and coastal communities.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

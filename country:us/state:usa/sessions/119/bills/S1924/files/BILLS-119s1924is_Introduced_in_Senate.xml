@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-AEG25337-TJW-5X-RL1">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1924 IS: Improving Mental Health Access for Students Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1924</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250602">June 2, 2025</action-date>
+            <action-desc><sponsor name-id="S389">Mr. Kennedy</sponsor> (for himself and <cosponsor name-id="S370">Mr. Booker</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To add suicide prevention resources to school identification
+            cards.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H22842965A1D444B8A8CA14A1AC204905">
+        <section section-type="section-one" id="id2DD41B7B02514DD8B5F62D6A14E2C343">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Mental Health Access for Students Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="H7C28489E6E4844B4A2606890EFBD74DF">
+            <enum>2.</enum>
+            <header>Adding suicide prevention contact information to school identification
+                cards</header>
+            <subsection id="idDC12136E29484A239F9BD38C95F8F5FE">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 487(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1094">20 U.S.C. 1094(a)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HA3265904144C4F1AA9083D2253D8171A">
+                    <paragraph display-inline="no-display-inline" id="H0EC040A9D09B470FBC90AEE91B892CAB">
+                        <enum>(30)</enum>
+                        <subparagraph commented="no" display-inline="yes-display-inline" id="H72CA204522D446659681548809458C66">
+                            <enum>(A)</enum>
+ <text>In the case of an institution that creates and distributes identification cards for students at any time after the date of enactment of this paragraph, such institution shall include phone contact information on each such card for the following organizations:</text>
+                            <clause id="H07502BEBA5724E9C9426CE007C595E0F" indent="up1">
+                                <enum>(i)</enum>
+ <text>988 Suicide and Crisis Lifeline.</text> </clause> <clause id="HA32A278021D1486CB545DF3347D08E7F" indent="up1"> <enum>(ii)</enum> <text>Crisis Text Line.</text>
+                            </clause>
+                            <clause id="HF0F215A34A924B579014ADF463F4B1E6" indent="up1">
+                                <enum>(iii)</enum>
+ <text>A campus mental health center or program, as determined by the institution.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H87C3730BAC87456F9FBC8F3C6304A842" indent="up1">
+                            <enum>(B)</enum>
+ <text>In the case of an institution that does not create and distribute identification cards for students at any time after the date of enactment of this paragraph, such institution shall publish the suicide prevention contact information specified in subparagraph (A) on the website of such institution.</text>
+                        </subparagraph>
+                        <subparagraph id="idF0A5A5F6C00A47CABB963BEF4239B080" indent="up1">
+                            <enum>(C)</enum>
+ <text>If an organization in clause (i) or (ii) of subparagraph (A) ceases to exist, the Secretary may designate a different entity with a similar purpose to be included on the identification card.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idE5AEF03E450948BF908DA731D273ACA7">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text>The amendment made by subsection (a) shall take effect beginning on the day that is 1 year after the date of enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25652-HR6-3S-JWM">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2715 IS: Fair Access In Residency Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2715</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250904">September 4, 2025</action-date>
+            <action-desc><sponsor name-id="S375">Mr. Daines</sponsor> (for himself, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, and <cosponsor name-id="S363">Mr.
+                    King</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XVIII of the Social Security Act to require hospitals with
+            approved medical residency training programs to submit to the Secretary of Health and
+            Human Services certain information regarding osteopathic and allopathic candidates for
+            such programs.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HA1190D23BB3149ADA53ADC1BA9981F71">
+        <section commented="no" section-type="section-one" id="H83D8C7C83EB547BB93B3153E33A3A0AA">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Access In Residency Act of 2025</short-title></quote> or the <quote><short-title>FAIR Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HE20837551E214BCCBF4F232134F142CA">
+            <enum>2.</enum>
+            <header>Encouraging more equitable treatment of osteopathic and allopathic candidates in
+                residency application and review process</header>
+            <subsection commented="no" id="H0826ED46B5F54DF5900E129304AF3B79">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1886(d)(5)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(5)(B)</external-xref>) is amended—</text>
+                <paragraph id="H1CDDFBBEB08647109D1E689E9CFD9AD7">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in clause (i), by inserting at the end the following new sentence: <quote>For discharges occurring on or after October 1, 2026, the amount determined under the previous sentence for a hospital shall be reduced by 2 percent for each prior fiscal year (beginning with fiscal year 2025) for which the hospital has not submitted to the Secretary the information described in subclause (xiv).</quote>; and</text>
+                </paragraph>
+                <paragraph id="H3E163F0F4FC041F68A889A106A65FD21">
+                    <enum>(2)</enum>
+ <text>by adding at the end the following new clause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H5618620407D546B09C4B042B47D747F8"> <clause commented="no" id="HDBEEDF101D4D40B9A6AF7866C148ABB9" indent="up2"> <enum>(xiv)</enum> <text display-inline="yes-display-inline">For purposes of clause (i), the information described in this clause is, with respect to a hospital and a fiscal year, the following:</text>
+                            <subclause commented="no" id="H850CDF1ADC5E49F188F32C6BD279F53E">
+                                <enum>(I)</enum>
+ <text>The number of applicants for residency in each of the hospital’s approved medical residency training programs beginning in such fiscal year—</text>
+                                <item commented="no" id="H7EFEFB6F1C39424F9765542C75742425">
+                                    <enum>(aa)</enum>
+ <text>from osteopathic medical schools; and</text> </item> <item commented="no" id="HE4C33EE3C166441A83214EC512018E96"> <enum>(bb)</enum> <text>from allopathic medical schools.</text>
+                                </item>
+                            </subclause>
+                            <subclause commented="no" id="H94ABE3ABDB4249B09B8D815F1EF8891E">
+                                <enum>(II)</enum>
+ <text>The number of such applicants accepted into each such program beginning in such fiscal year from each such type of medical school.</text>
+                            </subclause>
+                            <subclause commented="no" id="H43E94D96D80F490FB0610AFFCE76F744">
+                                <enum>(III)</enum>
+ <text>An affirmation that—</text> <item commented="no" id="HBE69DD145EF846C69A4BF34D54532F71"> <enum>(aa)</enum> <text display-inline="yes-display-inline">the policy of the hospital is to consider for acceptance to each such program applicants from both osteopathic and allopathic medical schools; and</text>
+                                </item>
+                                <item commented="no" id="H62314653D2B44BEB9132751C023A5AC3">
+                                    <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">in the case that the hospital requires applicants to submit an examination score as a prerequisite for acceptance in such a program, the hospital accepts scores from, at the election of the applicant, either the Comprehensive Osteopathic Medical Licensing Examination of the United States or the United States Medical Licensing Examination.</text>
+                                </item>
+                            </subclause>
+                        </clause>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HE4FE569117C94477A67151815C723E11">
+                <enum>(b)</enum>
+                <header>Publication</header>
+ <text display-inline="yes-display-inline">The Secretary of Health and Human Services shall publish on a public website the information described in subclauses (I) and (II) of section 1886(d)(5)(B)(xiv) of the Social Security Act, as added by subsection (a), and the affirmation described in subclause (III) of such section, that is submitted by a hospital with respect to an approved medical residency training program (as defined in section 1886(h)(5)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(h)(5)(A)</external-xref>)) for each fiscal year (beginning with fiscal year 2025).</text>
+            </subsection>
+            <subsection id="H5AAEC8003DD04FEFAB9AB35097C563A9">
+                <enum>(c)</enum>
+                <header>Rule of construction</header>
+ <text display-inline="yes-display-inline">Nothing in this Act shall be construed as federalizing medical education, or as establishing a mandate for an approved medical residency training program (as defined in section 1886(h)(5)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(h)(5)(A)</external-xref>)) to accept students (or to accept a certain number of students) from osteopathic or allopathic medical schools.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

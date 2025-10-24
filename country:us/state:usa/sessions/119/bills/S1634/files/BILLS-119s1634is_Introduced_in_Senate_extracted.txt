@@ -1,0 +1,820 @@
+Title: 
+Official Title: To promote competition and reduce consumer switching costs in the provision
+            of online communications services.
+Number of Sections: 7
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Augmenting Compatibility and Competition by Enabling Service Switching Act of 2025 or the ACCESS Act of 2025.
+
+Section 2:
+2.
+            Definitions
+ In this Act:  (1) Commission The term Commission means the Federal Trade Commission.
+            
+            
+                (2)
+                Communications provider
+ The term communications provider means a consumer-facing communications and information services provider.
+            
+            
+                (3)
+                Competing communications provider
+ The term competing communications provider, with respect to a large communications platform provider, means another communications provider offering, or planning to offer, similar products or services to consumers.
+            
+            
+                (4)
+                Competing communications service
+ The term competing communications service, with respect to a large communications platform, means a similar product or service provided by a competing communications provider.
+            
+            
+                (5)
+                Custodial third-party agent
+ The term custodial third-party agent means an entity that is duly authorized by a user to interact with a large communications platform provider on that user’s behalf to manage the user’s online interactions, content, and account settings.
+            
+            
+                (6)
+                Interoperability interface
+ The term interoperability interface means an electronic interface maintained by a large communications platform for purposes of achieving interoperability.
+            
+            
+                (7)
+                Large communications platform
+ The term large communications platform means a product or service provided by a communications provider that—
+                
+                    (A)
+ generates income, directly or indirectly, from the collection, processing, sale, or sharing of user data; and
+                
+                
+                    (B)
+ has more than 100,000,000 monthly active users in the United States.
+                
+            
+            
+                (8)
+                Large communications platform provider
+ The term large communications platform provider means a communications provider that provides, manages, or controls a large communications platform.
+            
+            
+                (9)
+                User data
+                
+                    (A)
+                    In general
+ The term user data means information that is—  (i) collected directly by a communications provider; and
+                    
+                    
+                        (ii)
+ linked, or reasonably linkable, to a specific person.    (B) Exclusion The term user data does not include information that is rendered unusable, unreadable, de-identified, or anonymized.
+
+Section 3:
+3.
+            Portability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to initiate the secure transfer of user data to a user, or to a competing communications provider acting at the direction of a user, in a structured, commonly used, and machine-readable format.
+            
+            
+                (b)
+                General duty of competing communications providers
+ A competing communications provider that receives ported user data from a large communications platform provider shall reasonably secure any user data it acquires.
+            
+            
+                (c)
+                Exemption for certain services
+ The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.
+
+Section 4:
+4.
+            Interoperability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to facilitate and maintain technically compatible, interoperable communications with a user of a competing communications provider.
+            
+            
+                (b)
+                General duty of competing communications providers
+ A competing communications provider that accesses an interoperability interface of a large communications platform provider shall reasonably secure any user data it acquires, processes, or transmits.
+            
+            
+                (c)
+                Interoperability obligations for large communications platform
+                    providers
+                
+                    (1)
+                    In general
+ In order to achieve interoperability under subsection (a), a large communications platform provider shall fulfill the duties under paragraphs (2) through (6) of this subsection.
+                
+                
+                    (2)
+                    Non-discrimination
+                    
+                        (A)
+                        In general
+ A large communications platform provider shall facilitate and maintain interoperability with competing communications services for each of its large communications platforms through an interoperability interface, based on fair, reasonable, and nondiscriminatory terms.
+                    
+                    
+                        (B)
+                        Reasonable thresholds, access standards, and fees
+                        
+                            (i)
+                            In general
+ A large communications platform provider may establish reasonable thresholds related to the frequency, nature, and volume of requests by a competing communications provider to access resources maintained by the large communications platform provider, beyond which the large communications platform provider may assess a reasonable fee for such access.
+                        
+                        
+                            (ii)
+                            Usage expectations
+ A large communications platform provider may establish fair, reasonable, and nondiscriminatory usage expectations to govern access by competing communications providers, including fees or penalties for providers that exceed those usage expectations.
+                        
+                        
+                            (iii)
+                            Limitation on fees and usage expectations
+ Any fees, penalties, or usage expectations assessed under clauses (i) and (ii) shall be reasonably proportional to the cost, complexity, and risk to the large communications platform provider of providing such access.
+                        
+                        
+                            (iv)
+                            Notice
+ A large communications platform provider shall provide public notice of any fees, penalties, or usage expectations that may be established under clauses (i) and (ii), including reasonable advance notice of any changes.
+                        
+                        
+                            (v)
+                            Security and privacy standards
+ A large communications platform provider shall, consistent with industry best practices, set privacy and security standards for access by competing communications services to the extent reasonably necessary to address a threat to the large communications platform or user data, and shall report any suspected violations of those standards to the Commission.
+                        
+                    
+                    
+                        (C)
+                        Prohibited changes to interfaces
+ A change to an interoperability interface or terms of use made with the purpose, or substantial effect, of unreasonably denying access or undermining interoperability for competing communications services shall be considered a violation of the duty under subparagraph (A) to facilitate and maintain interoperability based on fair, reasonable, and nondiscriminatory terms.
+                    
+                
+                
+                    (3)
+                    Functional equivalence
+ A large communications platform provider that maintains interoperability between its own large communications platform and other products, services, or affiliated offerings of such provider shall offer a functionally equivalent version of that interface to competing communications services.
+                
+                
+                    (4)
+                    Interface information
+                    
+                        (A)
+                        In general
+ Not later than 120 days after the date of enactment of this Act, a large communications platform provider shall disclose to competing communications providers complete and accurate documentation describing access to the interoperability interface required under this section.
+                    
+                    
+                        (B)
+                        Contents
+ The documentation required under subparagraph (A)—  (i) is limited to interface documentation necessary to achieve development and operation of interoperable products and services; and
+                        
+                        
+                            (ii)
+ does not require the disclosure of the source code of a large communications platform.
+                        
+                    
+                
+                
+                    (5)
+                    Notice of changes
+ A large communications platform provider shall provide reasonable advance notice to a competing communications provider, which may be provided through public notice, of any change to an interoperability interface maintained by the large communications platform provider that will affect the interoperability of a competing communications service.
+                
+                
+                    (6)
+                    Non-commercialization by a large communications platform
+                        provider
+ A large communications platform provider may not collect, use, or share user data obtained from a competing communications service through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.
+                
+            
+            
+                (d)
+                Non-Commercialization by a competing communications provider
+ A competing communications provider that accesses an interoperability interface may not collect, use, or share user data obtained from a large communications platform provider through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.
+            
+            
+                (e)
+                Exemption for certain services
+ The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.
+
+Section 5:
+5.
+            Delegatability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall maintain a set of transparent third-party-accessible interfaces by which a user may delegate a custodial third-party agent to manage the user’s online interactions, content, and account settings on a large communications platform on the same terms as a user.
+            
+            
+                (b)
+                Authentication
+ Not later than 180 days after the date of enactment of this Act, the Commission shall establish rules and procedures to facilitate a custodial third-party agent’s ability to obtain access pursuant to subsection (a) in a way that ensures that a request for access on behalf of a user is a verifiable request.
+            
+            
+                (c)
+                Registration with the Commission
+ A custodial third-party agent shall register with the Commission as a condition of, and prior to, accessing an interface described in subsection (a).
+            
+            
+                (d)
+                Deregistration by the Commission
+ The Commission shall establish rules and procedures to deregister a custodial third-party agent that the Commission determines has violated the duties established in this section.
+            
+            
+                (e)
+                Revocation of access rights
+ A large communications platform provider may revoke or deny access for any custodial third-party agent that—
+                
+                    (1)
+ fails to register with the Commission; or   (2) repeatedly facilitates fraudulent or malicious activity.
+                
+            
+            
+                (f)
+                Duties of a custodial third-Party agent
+ A custodial third-party agent—  (1) shall reasonably safeguard the privacy and security of user data provided to it by a user, or accessed on a user’s behalf;
+                
+                
+                    (2)
+ shall not access or manage a user’s online interactions, content, or account settings in any way that—
+                    
+                        (A)
+ will benefit the custodial third-party agent to the detriment of the user;
+                    
+                    
+                        (B)
+ will result in any reasonably foreseeable harm to the user; or   (C) is inconsistent with the directions or reasonable expectations of the user; and
+                    
+                
+                
+                    (3)
+ shall not collect, use, or share any user data provided to it by a user, or accessed on a user’s behalf, for the commercial benefit of the custodial third-party agent.
+                
+            
+            
+                (g)
+                Fees
+ A custodial third-party agent may charge users a fee for the provision of the products or services described in subsection (a).
+            
+            
+                (h)
+                Extent of access rights
+ Nothing in this section shall be construed to confer greater rights of access for a custodial third-party agent to a large communications platform than are accessible to a user.
+
+Section 6:
+6.
+            Implementation and enforcement
+            
+                (a)
+                Regulations
+ Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations to implement section 4(c)(2)(B)(v) and subsections (b), (c), and (d) of section 5.
+            
+            
+                (b)
+                Authentication
+ Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with relevant industry stakeholders, shall establish rules and procedures to facilitate the verification of the validity of requests from users and competing communications providers to obtain user data under sections 3(a) and 4(a).
+            
+            
+                (c)
+                Technical standards
+ Not later than 180 days after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall develop and publish model technical standards by which to make interoperable popular classes of communications or information services, including—
+                
+                    (1)
+ online messaging;   (2) multimedia sharing; and
+                
+                
+                    (3)
+ social networking.    (d) Compliance assessment The Commission shall regularly assess compliance by large communications platform providers with the provisions of this Act.
+            
+            
+                (e)
+                Complaints
+ The Commission shall establish procedures under which a user, a large communications platform provider, a competing communications provider, and a custodial third-party agent may file a complaint alleging that a large communications platform provider, a competing communication provider, or a custodial third-party agent has violated this Act.
+            
+            
+                (f)
+                Enforcement
+                
+                    (1)
+                    Unfair or deceptive acts or practices
+ A violation of this Act, or regulations enacted pursuant to this Act, shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+                
+                
+                    (2)
+                    Powers of commission
+                    
+                        (A)
+                        In general
+ Except as provided in subparagraph (C), the Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+                    
+                    
+                        (B)
+                        Privileges and immunities
+ Except as provided in subparagraph (C), any person who violates section 3 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+                    
+                    
+                        (C)
+                        Nonprofit organizations and common carriers
+ Notwithstanding section 4 or 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2)) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+                    
+                    
+                        (D)
+                        Fines
+ In assessing any fine for a violation of this Act, the Commission shall consider each individual user affected by a violation of this Act as an individual violation.
+                    
+                
+            
+            
+                (g)
+                Reliance on open standards
+ Any large communications platform provider that establishes and maintains interoperability through an open standard established under subsection (c) shall be entitled to a rebuttable presumption of providing access on fair, reasonable, and nondiscriminatory terms.
+            
+            
+                (h)
+                Preemption
+ The provisions of this Act shall preempt any State law only to the extent that such State law is inconsistent with the provisions of this Act.
+            
+            
+                (i)
+                Effective date
+ This Act shall take effect on the date on which the Commission promulgates regulations under subsection (a).
+
+Section 7:
+7.
+            Relation to other laws
+ Nothing in this Act shall be construed to modify, limit, or supersede the operation of any privacy or security provision in—
+            
+                (1)
+ section 552a of title 5, United States Code (commonly known as the Privacy Act of 1974);
+            
+            
+                (2)
+ the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.);   (3) the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
+            
+            
+                (4)
+ the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.);   (5) the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.);
+            
+            
+                (6)
+ title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.);   (7) chapters 119, 123, and 206 of title 18, United States Code;
+            
+            
+                (8)
+ section 444 of the General Education Provisions Act (20 U.S.C. 1232g) (commonly referred to as the Family Educational Rights and Privacy Act of 1974);
+            
+            
+                (9)
+ section 445 of the General Education Provisions Act (20 U.S.C. 1232h);   (10) the Privacy Protection Act of 1980 (42 U.S.C. 2000aa et seq.);
+            
+            
+                (11)
+ the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note), as those regulations relate to—
+                
+                    (A)
+ a person described in section 1172(a) of the Social Security Act (42 U.S.C. 1320d–1(a)); or
+                
+                
+                    (B)
+ transactions referred to in section 1173(a)(1) of the Social Security Act (42 U.S.C. 1320d–2(a)(1));
+                
+            
+            
+                (12)
+ the Communications Assistance for Law Enforcement Act (47 U.S.C. 1001 et seq.);
+            
+            
+                (13)
+ sections 222 and 227 of the Communications Act of 1934 (47 U.S.C. 222, 227); or
+            
+            
+                (14)
+ any other privacy or security provision of Federal law.
+
+
+================================================================================
+
+Raw Text:
+119 S1634 IS: Augmenting Compatibility and Competition by Enabling Service Switching Act of 2025
+U.S. Senate
+2025-05-07
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 1634
+        IN THE SENATE OF THE UNITED STATES
+        
+            May 7, 2025
+            Mr. Warner (for himself, Mr. Hawley, and Mr.
+                    Blumenthal) introduced the following bill; which was read twice and
+                referred to the Committee on Commerce,
+                    Science, and Transportation
+        
+        A BILL
+        To promote competition and reduce consumer switching costs in the provision
+            of online communications services.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Augmenting Compatibility and Competition by Enabling Service Switching Act of 2025 or the ACCESS Act of 2025.
+        
+        
+            2.
+            Definitions
+ In this Act:  (1) Commission The term Commission means the Federal Trade Commission.
+            
+            
+                (2)
+                Communications provider
+ The term communications provider means a consumer-facing communications and information services provider.
+            
+            
+                (3)
+                Competing communications provider
+ The term competing communications provider, with respect to a large communications platform provider, means another communications provider offering, or planning to offer, similar products or services to consumers.
+            
+            
+                (4)
+                Competing communications service
+ The term competing communications service, with respect to a large communications platform, means a similar product or service provided by a competing communications provider.
+            
+            
+                (5)
+                Custodial third-party agent
+ The term custodial third-party agent means an entity that is duly authorized by a user to interact with a large communications platform provider on that user’s behalf to manage the user’s online interactions, content, and account settings.
+            
+            
+                (6)
+                Interoperability interface
+ The term interoperability interface means an electronic interface maintained by a large communications platform for purposes of achieving interoperability.
+            
+            
+                (7)
+                Large communications platform
+ The term large communications platform means a product or service provided by a communications provider that—
+                
+                    (A)
+ generates income, directly or indirectly, from the collection, processing, sale, or sharing of user data; and
+                
+                
+                    (B)
+ has more than 100,000,000 monthly active users in the United States.
+                
+            
+            
+                (8)
+                Large communications platform provider
+ The term large communications platform provider means a communications provider that provides, manages, or controls a large communications platform.
+            
+            
+                (9)
+                User data
+                
+                    (A)
+                    In general
+ The term user data means information that is—  (i) collected directly by a communications provider; and
+                    
+                    
+                        (ii)
+ linked, or reasonably linkable, to a specific person.    (B) Exclusion The term user data does not include information that is rendered unusable, unreadable, de-identified, or anonymized.
+                
+            
+        
+        
+            3.
+            Portability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to initiate the secure transfer of user data to a user, or to a competing communications provider acting at the direction of a user, in a structured, commonly used, and machine-readable format.
+            
+            
+                (b)
+                General duty of competing communications providers
+ A competing communications provider that receives ported user data from a large communications platform provider shall reasonably secure any user data it acquires.
+            
+            
+                (c)
+                Exemption for certain services
+ The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.
+            
+        
+        
+            4.
+            Interoperability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to facilitate and maintain technically compatible, interoperable communications with a user of a competing communications provider.
+            
+            
+                (b)
+                General duty of competing communications providers
+ A competing communications provider that accesses an interoperability interface of a large communications platform provider shall reasonably secure any user data it acquires, processes, or transmits.
+            
+            
+                (c)
+                Interoperability obligations for large communications platform
+                    providers
+                
+                    (1)
+                    In general
+ In order to achieve interoperability under subsection (a), a large communications platform provider shall fulfill the duties under paragraphs (2) through (6) of this subsection.
+                
+                
+                    (2)
+                    Non-discrimination
+                    
+                        (A)
+                        In general
+ A large communications platform provider shall facilitate and maintain interoperability with competing communications services for each of its large communications platforms through an interoperability interface, based on fair, reasonable, and nondiscriminatory terms.
+                    
+                    
+                        (B)
+                        Reasonable thresholds, access standards, and fees
+                        
+                            (i)
+                            In general
+ A large communications platform provider may establish reasonable thresholds related to the frequency, nature, and volume of requests by a competing communications provider to access resources maintained by the large communications platform provider, beyond which the large communications platform provider may assess a reasonable fee for such access.
+                        
+                        
+                            (ii)
+                            Usage expectations
+ A large communications platform provider may establish fair, reasonable, and nondiscriminatory usage expectations to govern access by competing communications providers, including fees or penalties for providers that exceed those usage expectations.
+                        
+                        
+                            (iii)
+                            Limitation on fees and usage expectations
+ Any fees, penalties, or usage expectations assessed under clauses (i) and (ii) shall be reasonably proportional to the cost, complexity, and risk to the large communications platform provider of providing such access.
+                        
+                        
+                            (iv)
+                            Notice
+ A large communications platform provider shall provide public notice of any fees, penalties, or usage expectations that may be established under clauses (i) and (ii), including reasonable advance notice of any changes.
+                        
+                        
+                            (v)
+                            Security and privacy standards
+ A large communications platform provider shall, consistent with industry best practices, set privacy and security standards for access by competing communications services to the extent reasonably necessary to address a threat to the large communications platform or user data, and shall report any suspected violations of those standards to the Commission.
+                        
+                    
+                    
+                        (C)
+                        Prohibited changes to interfaces
+ A change to an interoperability interface or terms of use made with the purpose, or substantial effect, of unreasonably denying access or undermining interoperability for competing communications services shall be considered a violation of the duty under subparagraph (A) to facilitate and maintain interoperability based on fair, reasonable, and nondiscriminatory terms.
+                    
+                
+                
+                    (3)
+                    Functional equivalence
+ A large communications platform provider that maintains interoperability between its own large communications platform and other products, services, or affiliated offerings of such provider shall offer a functionally equivalent version of that interface to competing communications services.
+                
+                
+                    (4)
+                    Interface information
+                    
+                        (A)
+                        In general
+ Not later than 120 days after the date of enactment of this Act, a large communications platform provider shall disclose to competing communications providers complete and accurate documentation describing access to the interoperability interface required under this section.
+                    
+                    
+                        (B)
+                        Contents
+ The documentation required under subparagraph (A)—  (i) is limited to interface documentation necessary to achieve development and operation of interoperable products and services; and
+                        
+                        
+                            (ii)
+ does not require the disclosure of the source code of a large communications platform.
+                        
+                    
+                
+                
+                    (5)
+                    Notice of changes
+ A large communications platform provider shall provide reasonable advance notice to a competing communications provider, which may be provided through public notice, of any change to an interoperability interface maintained by the large communications platform provider that will affect the interoperability of a competing communications service.
+                
+                
+                    (6)
+                    Non-commercialization by a large communications platform
+                        provider
+ A large communications platform provider may not collect, use, or share user data obtained from a competing communications service through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.
+                
+            
+            
+                (d)
+                Non-Commercialization by a competing communications provider
+ A competing communications provider that accesses an interoperability interface may not collect, use, or share user data obtained from a large communications platform provider through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.
+            
+            
+                (e)
+                Exemption for certain services
+ The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.
+            
+        
+        
+            5.
+            Delegatability
+            
+                (a)
+                General duty of large communications platform providers
+ A large communications platform provider shall maintain a set of transparent third-party-accessible interfaces by which a user may delegate a custodial third-party agent to manage the user’s online interactions, content, and account settings on a large communications platform on the same terms as a user.
+            
+            
+                (b)
+                Authentication
+ Not later than 180 days after the date of enactment of this Act, the Commission shall establish rules and procedures to facilitate a custodial third-party agent’s ability to obtain access pursuant to subsection (a) in a way that ensures that a request for access on behalf of a user is a verifiable request.
+            
+            
+                (c)
+                Registration with the Commission
+ A custodial third-party agent shall register with the Commission as a condition of, and prior to, accessing an interface described in subsection (a).
+            
+            
+                (d)
+                Deregistration by the Commission
+ The Commission shall establish rules and procedures to deregister a custodial third-party agent that the Commission determines has violated the duties established in this section.
+            
+            
+                (e)
+                Revocation of access rights
+ A large communications platform provider may revoke or deny access for any custodial third-party agent that—
+                
+                    (1)
+ fails to register with the Commission; or   (2) repeatedly facilitates fraudulent or malicious activity.
+                
+            
+            
+                (f)
+                Duties of a custodial third-Party agent
+ A custodial third-party agent—  (1) shall reasonably safeguard the privacy and security of user data provided to it by a user, or accessed on a user’s behalf;
+                
+                
+                    (2)
+ shall not access or manage a user’s online interactions, content, or account settings in any way that—
+                    
+                        (A)
+ will benefit the custodial third-party agent to the detriment of the user;
+                    
+                    
+                        (B)
+ will result in any reasonably foreseeable harm to the user; or   (C) is inconsistent with the directions or reasonable expectations of the user; and
+                    
+                
+                
+                    (3)
+ shall not collect, use, or share any user data provided to it by a user, or accessed on a user’s behalf, for the commercial benefit of the custodial third-party agent.
+                
+            
+            
+                (g)
+                Fees
+ A custodial third-party agent may charge users a fee for the provision of the products or services described in subsection (a).
+            
+            
+                (h)
+                Extent of access rights
+ Nothing in this section shall be construed to confer greater rights of access for a custodial third-party agent to a large communications platform than are accessible to a user.
+            
+        
+        
+            6.
+            Implementation and enforcement
+            
+                (a)
+                Regulations
+ Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations to implement section 4(c)(2)(B)(v) and subsections (b), (c), and (d) of section 5.
+            
+            
+                (b)
+                Authentication
+ Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with relevant industry stakeholders, shall establish rules and procedures to facilitate the verification of the validity of requests from users and competing communications providers to obtain user data under sections 3(a) and 4(a).
+            
+            
+                (c)
+                Technical standards
+ Not later than 180 days after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall develop and publish model technical standards by which to make interoperable popular classes of communications or information services, including—
+                
+                    (1)
+ online messaging;   (2) multimedia sharing; and
+                
+                
+                    (3)
+ social networking.    (d) Compliance assessment The Commission shall regularly assess compliance by large communications platform providers with the provisions of this Act.
+            
+            
+                (e)
+                Complaints
+ The Commission shall establish procedures under which a user, a large communications platform provider, a competing communications provider, and a custodial third-party agent may file a complaint alleging that a large communications platform provider, a competing communication provider, or a custodial third-party agent has violated this Act.
+            
+            
+                (f)
+                Enforcement
+                
+                    (1)
+                    Unfair or deceptive acts or practices
+ A violation of this Act, or regulations enacted pursuant to this Act, shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+                
+                
+                    (2)
+                    Powers of commission
+                    
+                        (A)
+                        In general
+ Except as provided in subparagraph (C), the Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+                    
+                    
+                        (B)
+                        Privileges and immunities
+ Except as provided in subparagraph (C), any person who violates section 3 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+                    
+                    
+                        (C)
+                        Nonprofit organizations and common carriers
+ Notwithstanding section 4 or 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44, 45(a)(2)) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to common carriers subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+                    
+                    
+                        (D)
+                        Fines
+ In assessing any fine for a violation of this Act, the Commission shall consider each individual user affected by a violation of this Act as an individual violation.
+                    
+                
+            
+            
+                (g)
+                Reliance on open standards
+ Any large communications platform provider that establishes and maintains interoperability through an open standard established under subsection (c) shall be entitled to a rebuttable presumption of providing access on fair, reasonable, and nondiscriminatory terms.
+            
+            
+                (h)
+                Preemption
+ The provisions of this Act shall preempt any State law only to the extent that such State law is inconsistent with the provisions of this Act.
+            
+            
+                (i)
+                Effective date
+ This Act shall take effect on the date on which the Commission promulgates regulations under subsection (a).
+            
+        
+        
+            7.
+            Relation to other laws
+ Nothing in this Act shall be construed to modify, limit, or supersede the operation of any privacy or security provision in—
+            
+                (1)
+ section 552a of title 5, United States Code (commonly known as the Privacy Act of 1974);
+            
+            
+                (2)
+ the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.);   (3) the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
+            
+            
+                (4)
+ the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.);   (5) the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.);
+            
+            
+                (6)
+ title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.);   (7) chapters 119, 123, and 206 of title 18, United States Code;
+            
+            
+                (8)
+ section 444 of the General Education Provisions Act (20 U.S.C. 1232g) (commonly referred to as the Family Educational Rights and Privacy Act of 1974);
+            
+            
+                (9)
+ section 445 of the General Education Provisions Act (20 U.S.C. 1232h);   (10) the Privacy Protection Act of 1980 (42 U.S.C. 2000aa et seq.);
+            
+            
+                (11)
+ the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note), as those regulations relate to—
+                
+                    (A)
+ a person described in section 1172(a) of the Social Security Act (42 U.S.C. 1320d–1(a)); or
+                
+                
+                    (B)
+ transactions referred to in section 1173(a)(1) of the Social Security Act (42 U.S.C. 1320d–2(a)(1));
+                
+            
+            
+                (12)
+ the Communications Assistance for Law Enforcement Act (47 U.S.C. 1001 et seq.);
+            
+            
+                (13)
+ sections 222 and 227 of the Communications Act of 1934 (47 U.S.C. 222, 227); or
+            
+            
+                (14)
+ any other privacy or security provision of Federal law.

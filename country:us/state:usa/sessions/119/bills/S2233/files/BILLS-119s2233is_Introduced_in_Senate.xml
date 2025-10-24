@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT25573-LF5-NG-TS4">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2233 IS: U.S.A. Beef Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2233</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250709">July 9, 2025</action-date>
+            <action-desc><sponsor name-id="S381">Mr. Rounds</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+                Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Federal Meat Inspection Act to modify requirements for a meat
+            food product of cattle to bear a <quote>Product of U.S.A.</quote> label, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>U.S.A. Beef Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id53927c5dfdc64b819856045326f2fe3c">
+            <enum>2.</enum>
+            <header>Product of U.S.A. label for beef</header>
+ <text display-inline="no-display-inline">Section 7 of the Federal Meat Inspection Act (<external-xref legal-doc="usc" parsable-cite="usc/21/607">21 U.S.C. 607</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idD1BE750697364C8F9E0CE25EFF642EE8">
+                <subsection commented="no" display-inline="no-display-inline" id="id6A529A0E9CA54C1EA27020FF724E1551">
+                    <enum>(g)</enum>
+                    <header>Product of the United States label for beef</header>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idBBCB162B1C03463CA88396725E3F9F38">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Subject to paragraph (2), the label of meat of cattle or a meat food product of cattle may bear the phrase <quote>Product of U.S.A.</quote>, or any substantially similar word or phrase, only if the meat or meat food product is exclusively derived from 1 or more cattle exclusively born, raised, and slaughtered in the United States.</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id22D5DA1E19F84F06937A61BF69CC8E02">
+                        <enum>(2)</enum>
+                        <header>Inapplicability</header>
+ <text display-inline="yes-display-inline">Paragraph (1) shall not apply to meat of cattle or a meat food product of cattle that is intended and offered for export to a foreign country.</text>
+                    </paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

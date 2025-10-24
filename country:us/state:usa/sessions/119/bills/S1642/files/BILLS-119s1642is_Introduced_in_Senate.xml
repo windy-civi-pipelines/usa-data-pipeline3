@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25495-2DY-0C-D3C">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1642 IS: Strengthening Essential Manufacturing and Industrial Investment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1642</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S396">Mrs. Blackburn</sponsor> (for herself, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S384">Mr.
+                    Tillis</cosponsor>, and <cosponsor name-id="S337">Mr. Coons</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSFI00">Committee on
+                Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to expand the advanced
+            manufacturing investment credit to include materials integral to semiconductor
+            manufacturing.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="id0711b0de35ba4ae2ad5df2d3a02c988c">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening Essential Manufacturing and Industrial Investment Act</short-title></quote> or the <quote><short-title>SEMI Investment Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id46605f1bb76b443796bc7a89546f580e">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">Expansion of advanced manufacturing
+                investment credit</header>
+            <subsection id="id16326695ae6b453fac57511628d8a4a0">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Paragraph (3) of <external-xref legal-doc="usc" parsable-cite="usc/26/48D">section 48D(b)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idB81619CEC36A45DD97BB2E432D96EF9A">
+                    <paragraph commented="no" display-inline="no-display-inline" id="ide0c5fcea03d243188f89a49f96252604">
+                        <enum>(3)</enum>
+                        <header>Advanced manufacturing facility</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id80fc7dfa8166410c8f20998148d8d377">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of this section, the term <term>advanced manufacturing facility</term> means a facility for which the primary purpose is the manufacturing of—</text>
+                            <clause commented="no" display-inline="no-display-inline" id="id1d9dad62e9fa42578a04186447f9e5af">
+                                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">semiconductors,</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id605b88a6412c42d88d36b7b60d9798f3"> <enum>(ii)</enum> <text display-inline="yes-display-inline">semiconductor manufacturing equipment, or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idf5bab0daffdb464ea17cc0c53de0105f">
+                                <enum>(iii)</enum>
+ <text>semiconductor materials.</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id4559c10f3d144ca5b7dab98f2e12ed4a"> <enum>(B)</enum> <header>Semiconductor materials</header> <clause commented="no" display-inline="no-display-inline" id="idcddac73b29fa4a7da2f624d4814cab79"> <enum>(i)</enum> <header>In general</header> <text display-inline="yes-display-inline">For purposes of this paragraph, the term <term>semiconductor materials</term> means—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="idf64eb16190fc4c1f8f5365b879f44cfc">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">any direct production material, or</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id4746903df349443bb35946fa9ca4a73b">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">any indirect production material,</text>
+                                </subclause>
+                                <continuation-text continuation-text-level="clause">which is used in
+                                    semiconductor manufacturing (as defined in section 231.116 of
+                                    title 15, Code of Federal Regulations).</continuation-text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idee21fd56404346e0ade4c8855b9aa12c">
+                                <enum>(ii)</enum>
+                                <header>Direct production material</header>
+ <text>For purposes of this subparagraph, the term <term>direct production material</term> means a material which is—</text>
+                                <subclause commented="no" display-inline="no-display-inline" id="id9ace8a3be4524120883ac486a9d99ce1">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">primarily used for, and integral to, the production of a semiconductor,</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="idc312b56723b641c688ce5769a2f5d388">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">physically incorporated into a finished semiconductor, and</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id2da2d3bbfdbe4341a97e1b4c35de5c0b">
+                                    <enum>(III)</enum>
+ <text>any of the following:</text> <item id="id31aaf913132e4500b26082a58697fa8f"> <enum>(aa)</enum> <header>Substrate</header> <text>Any substrate of silicon, silicon carbide, gallium nitride, gallium arsenide, indium phosphide, or other semiconductor-grade substrate material.</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="idb4dc87478d6f47c9aff28ffffe94f0f1">
+                                        <enum>(bb)</enum>
+                                        <header>Thin film or layering material</header>
+ <text display-inline="yes-display-inline">Any deposited metal, dielectric, barrier material, or dopant that forms the physical structure of a semiconductor.</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id0b8923e416f249678d909ae2a6eb1abd">
+                                        <enum>(cc)</enum>
+                                        <header>Packaging substrate material</header>
+ <text>Any ceramic, organic, or metallic material that forms the physical base for semiconductor packaging.</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id60236d726017466b81f832ee4f58cf2d">
+                                        <enum>(dd)</enum>
+                                        <header>Bonding, interconnect, or adhesive material</header>
+ <text>Any wire bond, solder bump, lead frame, die attach adhesive, underfill, or other material which—</text>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id97d8335142b14d789c6d96ebd9716571">
+                                            <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">forms electrical connections within a semiconductor, or</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id2f2ff556d059436d8e203fe35ad70c79">
+                                            <enum>(BB)</enum>
+ <text display-inline="yes-display-inline">provides structural integrity within a semiconductor.</text>
+                                        </subitem>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id8e924e14a2dc414b8facf883a29dc908">
+                                <enum>(iii)</enum>
+                                <header display-inline="yes-display-inline">Indirect production
+                                    material</header>
+                                <subclause commented="no" display-inline="no-display-inline" id="id70909558c7d3448aad9dcef2df3cd793">
+                                    <enum>(I)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of this subparagraph, the term <term>indirect production material</term> means a material which is—</text>
+                                    <item commented="no" display-inline="no-display-inline" id="idf45584386f2845b894b6cd79cd66e9d2">
+                                        <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">a specialized material that is primarily used for, and integral to, the production, testing, inspection, or packaging of a semiconductor,</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id26d05056f7d4475b8ec486b4efe5a275">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">not physically incorporated into a finished semiconductor, and</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id0f994f5fe14247878fe2e12fb40f9d75">
+                                        <enum>(cc)</enum>
+ <text display-inline="yes-display-inline">any of the following:</text>
+                                        <subitem commented="no" display-inline="no-display-inline" id="idbc211496e918431c990413dea2204ef2">
+                                            <enum>(AA)</enum>
+                                            <header>Process chemicals</header>
+ <text>An etchant, deposition precursor, doping gas, or other chemical used in wafer fabrication.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id08a9c315d9a344a1a74c2561574b3b17">
+                                            <enum>(BB)</enum>
+                                            <header display-inline="yes-display-inline">Photolithography material</header>
+ <text>A photoresist, photoresist ancillary material, developer, mask, or pellicle used in semiconductor patterning.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id3e6cb16c52244118ba9d223817249fd2">
+                                            <enum>(CC)</enum>
+                                            <header display-inline="yes-display-inline">Cleaning,
+                                                planarization, and preparation material</header>
+ <text>A solvent, surfactant, slurry, Chemical Mechanical Planarization (CMP) pad, conditioning disk, or cleaning agent used to prepare and maintain semiconductor manufacturing surfaces.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id6ad88ce150f141f6a862d9a444b79bad">
+                                            <enum>(DD)</enum>
+                                            <header display-inline="yes-display-inline">Testing and
+                                                inspection material</header>
+ <text>A probe card, test socket, or optical inspection material.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id801e8058853d419e8007dd5c6ab1cac0">
+                                            <enum>(EE)</enum>
+                                            <header display-inline="yes-display-inline">Packaging
+                                                process material</header>
+ <text>A mold compound, encapsulant, or bonding wire used in assembly processes.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id4b7965bfb8cd4e3fa6de11b8b8dab54a">
+                                            <enum>(FF)</enum>
+                                            <header display-inline="yes-display-inline">Fluid-,
+                                                gas-, or wafer-handling material</header>
+ <text>A polymer, elastomer, ceramic material and resultant tubings, fittings, vessels, filters, seals, or other such chemical-handling or wafer-handling material.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id247eb9867f61403daf997339a0e43909">
+                                            <enum>(GG)</enum>
+                                            <header display-inline="yes-display-inline">Wafer
+                                                processing chamber materials</header>
+ <text>Any process chamber materials used in production that play an active role in energy transmission, heat dissipation, plasma resistance, or chemical resistance.</text>
+                                        </subitem>
+                                        <subitem commented="no" display-inline="no-display-inline" id="id7b2f59198da34c41b04fd0da5a756c73">
+                                            <enum>(HH)</enum>
+                                            <header display-inline="yes-display-inline">Other
+                                                material</header>
+ <text display-inline="yes-display-inline">Any other material identified by the Secretary pursuant to subclause (II).</text>
+                                        </subitem>
+                                    </item>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="idae9e62f1a8b44031b31cd302a33e1746">
+                                    <enum>(II)</enum>
+                                    <header>Other indirect production materials</header>
+ <text display-inline="yes-display-inline">For purposes of item (cc)(HH) of subclause (I), the Secretary (in consultation with the Secretary of Commerce) shall identify additional materials which are described in items (aa) and (bb) of such subclause.</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="id8c4e05d2dea7463aab2a4daf01dca3e7">
+                                    <enum>(III)</enum>
+                                    <header>Exclusion</header>
+ <text display-inline="yes-display-inline">The term <term>indirect production material</term> shall not include any material which—</text>
+                                    <item commented="no" display-inline="no-display-inline" id="id36799254d877403c81c20311f8b784b6">
+                                        <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">has a generic use, and</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id20ed4f8af2424532bd92b94ce2f43590">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">is predominately used in an application other than semiconductor manufacturing.</text>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idd5f6dea8f61549859a2a05860e4b3d06">
+                                <enum>(iv)</enum>
+                                <header>List of semiconductor materials</header>
+                                <subclause commented="no" display-inline="no-display-inline" id="id12feb841166c466da01f03dcdc26d3ea">
+                                    <enum>(I)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>Not later than 180 days after the date of enactment of the <short-title>Strengthening Essential Manufacturing and Industrial Investment Act</short-title>, and annually thereafter, the Secretary, in consultation with the Secretary of Commerce, shall publish a list that sets forth the specifications, characteristics, and applications of materials that qualify as direct production materials and indirect production materials for purposes of clauses (ii) and (iii).</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" id="idce68e7bb73eb403caa9b99a50fdd5827">
+                                    <enum>(II)</enum>
+                                    <header display-inline="yes-display-inline">Petition for interim
+                                        determination</header>
+ <text display-inline="yes-display-inline">In the case of any material which has not been included on the most recent list under subclause (I), a taxpayer may file a petition (at such time, and in such form and manner, as the Secretary may prescribe) with the Secretary for a determination of whether such material qualifies as a direct production material or indirect production material for purposes of clauses (ii) and (iii).</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id79d0c9fd32ad468a923d3c04f0962e3f">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Effective date</header>
+ <text>The amendment made by this section shall apply to property placed in service after the date of enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

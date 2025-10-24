@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ARP25145-WPR-71-5R1">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1736 IS: Improving Training for School Food Service Workers Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1736</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250513">May 13, 2025</action-date>
+            <action-desc><sponsor name-id="S229">Mrs. Murray</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+                Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Child Nutrition Act of 1966 to clarify the availability and
+            appropriateness of training for local food service personnel, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Training for School Food Service Workers Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idf9f0bc44af12425faee23558e45c26cc">
+            <enum>2.</enum>
+            <header>Training and certification of all local food service personnel</header>
+ <text display-inline="no-display-inline">Section 7(g)(2)(B) of the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1776">42 U.S.C. 1776(g)(2)(B)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idfcc29929626d46c186cb427009533497">
+                <clause id="idb1558fcf38a24faaa30581314e5d438b">
+                    <enum>(iv)</enum>
+                    <header>Availability and appropriateness of training</header>
+                    <subclause id="id9BDDA05401AC40498AAEA18FC852E227">
+                        <enum>(I)</enum>
+                        <header>In general</header>
+ <text>A training program carried out under this subparagraph shall—</text> <item id="id608eb5c515a5432ca0f1c51fc6294e71"> <enum>(aa)</enum> <text>be scheduled during regular, paid working hours;</text>
+                        </item>
+                        <item id="ida5f87b0d77da475aa982b91972aac634">
+                            <enum>(bb)</enum>
+ <text>be offered in-person, if appropriate;</text> </item> <item id="idE231151241074B4A85FF0B8CFC05FDA0"> <enum>(cc)</enum> <text>incorporate experiential learning; and</text>
+                        </item>
+                        <item id="idC01B0CEF86BF432586FAC2A7148B5444">
+                            <enum>(dd)</enum>
+ <text>be provided at no cost to food service personnel.</text> </item> </subclause> <subclause id="id2B609C38B20C42179E9C11F07DC79FC1"> <enum>(II)</enum> <header>Program outside working hours</header> <text>In the event that a training program carried out under this subparagraph is scheduled outside of regular, paid working hours—</text>
+                        <item id="id3289fd58cc524753a3370a7817afd2bf">
+                            <enum>(aa)</enum>
+ <text>efforts shall be made to inform food service personnel of the necessity of the program to be scheduled outside of regular, paid working hours;</text>
+                        </item>
+                        <item id="idbe63963b67f54c1dbf3b7d357e51f3a0">
+                            <enum>(bb)</enum>
+ <text>food service personnel shall be consulted to schedule the program at a time that is minimally disruptive to the personnel participating in the training program;</text>
+                        </item>
+                        <item id="id3b9d9211d5694f7b9af40cacb7503f8c">
+                            <enum>(cc)</enum>
+ <text>compensation shall be provided to food service personnel attending the program at the regular rate of pay, including any applicable overtime rate; and</text>
+                        </item>
+                        <item id="id45930b9656324dcdb3c2eddd10e80c55">
+                            <enum>(dd)</enum>
+ <text>food service personnel shall not be penalized or in any other manner discriminated against for not being able to attend the program.</text>
+                        </item>
+                    </subclause>
+                </clause>
+                <clause commented="no" display-inline="no-display-inline" id="idEE8287E673734F9BA464C99B98C60D27">
+                    <enum>(v)</enum>
+                    <header display-inline="yes-display-inline">Relationship to other laws</header>
+ <text display-inline="yes-display-inline">Nothing in this subparagraph supersedes or otherwise modifies any Federal, State, or local law or legal obligation governing the relationship between an employee and employer.</text>
+                </clause>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25301-J8M-MH-0LD">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1757 IS: Efficient Nuclear Licensing Hearings Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1757</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250514">May 14, 2025</action-date>
+            <action-desc><sponsor name-id="S365">Mr. Scott of South Carolina</sponsor> (for himself
+                and <cosponsor name-id="S337">Mr. Coons</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Atomic Energy Act of 1954 to provide for more efficient
+            hearings on nuclear facility construction applications, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H5F95238F05B0482499580211188FEB3F">
+        <section section-type="section-one" id="H3835B7A034894888919500B0BB53C298">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Efficient Nuclear Licensing Hearings Act</short-title></quote>.</text>
+        </section>
+        <section id="H3628FEF7E9BE4D058ED1C5BE971DF648">
+            <enum>2.</enum>
+            <header>Updating hearing procedures</header>
+            <subsection id="H6B08A677644A4726B439BE438794B374">
+                <enum>(a)</enum>
+                <header>Hearings and judicial review</header>
+ <text>Section 189 a. of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2239">42 U.S.C. 2239(a)</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7fca67ca985b452daac4554bc34325ed">
+                    <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph id="H7394D815262B4CFABD13EAF78E9A80CF"> <enum>(A)</enum> <text>in subparagraph (A)—</text>
+                        <clause id="H731597C8338A4D659A60D0A51D3F6355">
+                            <enum>(i)</enum>
+ <text>in the first sentence, by striking <quote>In any proceeding under this Act</quote> and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="H0AF2F1B377854B00AFC3C5BF037EDC46">
+                                <clause id="HCCC0F578008F4958BD81F99E483B6BCA" indent="up3">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">In any proceeding under this Act</text>
+                                </clause>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                        <clause id="H8BF469B71B9C4CC88A6846AD0C2B1EC5">
+                            <enum>(ii)</enum>
+ <text>in clause (i) (as so designated), by striking <quote>The Commission shall hold a hearing</quote> and all that follows through <quote>upon a determination by the Commission that the amendment involves no significant hazards consideration.</quote> and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="H67A33C5DFED9434D953039E234C0ECEF">
+                                <clause id="HDAC203D2F8A74528A6F59448EED4BFE0" indent="up3">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">The Commission may, in the absence of a request for a hearing by any person whose interest may be affected, issue a construction permit, an operating license, a combined construction permit and operating license, an amendment to a construction permit, an amendment to an operating license, or an amendment to a combined construction permit and operating license under section 103, 104 b., 104 c., or 185 b. for a facility or a testing facility, without a hearing, but upon thirty days notice and publication once in the Federal Register of its intent to do so. The Commission may dispense with such thirty days notice and publication with respect to any application for an amendment to a construction permit, an amendment to an operating license, or an amendment to a combined construction permit and operating license upon a determination by the Commission that the amendment involves no significant hazards consideration.</text>
+                                </clause>
+                                <clause commented="no" id="H29FC702D745A4967B03831BE04E1D491" indent="up3">
+                                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">The Commission shall use informal adjudicatory procedures for any hearing held by the Commission pursuant to this subparagraph. </text>
+                                </clause>
+                                <after-quoted-block>;</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H9D645ABF6C8D47D59CF498897265DB09">
+                        <enum>(B)</enum>
+ <text>in subparagraph (B)(iv)—</text> <clause id="HB07A8C549A3144B6A450765D0E944BF9"> <enum>(i)</enum> <text>by inserting <quote>informal</quote> before <quote>hearing procedures</quote>; and</text>
+                        </clause>
+                        <clause id="H93AA04F9694F4789989BD281B5D83C36">
+                            <enum>(ii)</enum>
+ <text>by striking <quote>, whether informal or formal adjudicatory,</quote>; and</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H3D61447E1A3946348587F5AC426F8E19">
+                    <enum>(2)</enum>
+ <text>in paragraph (2)(A), in the second sentence, by striking <quote>required hearing</quote> and inserting <quote>hearing held by the Commission under this section</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H4F7E33BDDC784F9D84906F8814628A54">
+                <enum>(b)</enum>
+                <header>Construction permits and operating licenses</header>
+ <text>Section 185 b. of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2235">42 U.S.C. 2235(b)</external-xref>) is amended by striking <quote>After holding a public hearing under section 189 a. (1)(A),</quote> and inserting <quote>After the thirty days notice and publication period or holding a hearing, as applicable, under section 189 a. (1)(A),</quote>.</text>
+            </subsection>
+            <subsection id="H82795F34683043AAB39506509ADBB8BB">
+                <enum>(c)</enum>
+                <header>Licensing of uranium enrichment facilities</header>
+ <text display-inline="yes-display-inline">Section 193(b) of the Atomic Energy Act of 1954 (<external-xref legal-doc="usc" parsable-cite="usc/42/2243">42 U.S.C. 2243(b)</external-xref>) is amended—</text>
+                <paragraph id="H9366C2FDC5B147579C37F6EE5AF64674">
+                    <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph id="H5C1000C33BBC4EC1A20826E0C99B7ED7"> <enum>(A)</enum> <text>by striking <quote>on the record</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H838D51293A384F5E84BDFF4E40AE394C">
+                        <enum>(B)</enum>
+ <text>by inserting <quote>if a person whose interest may be affected by such construction and operation has requested a hearing regarding the licensing of the construction and operation of the facility</quote> after <quote>and 63</quote>; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HDF8DB3CC17E74E028C1E589C14F679FB">
+                    <enum>(2)</enum>
+ <text>in paragraph (2), by striking <quote>Such hearing</quote> and inserting <quote>If a hearing is held under paragraph (1), the hearing</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HDF2D64F001F9445EB1F073DFA07C7571">
+                <enum>(d)</enum>
+                <header>Applicability</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply to all applications and proceedings pending before the Nuclear Regulatory Commission on or after the date of enactment of this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25495-PC9-KX-6X8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2008 IS: Stop Funding Genital Mutilation Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2008</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250610">June 10, 2025</action-date>
+            <action-desc><sponsor name-id="S287">Mr. Cornyn</sponsor> (for himself and <cosponsor name-id="S378">Mr. Lankford</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSFI00">Committee
+                    on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XIX of the Social Security Act to prohibit Medicaid and CHIP
+            funding for gender transition procedures.</official-title>
+    </form>
+    <legis-body>
+        <section id="H2131D31F49754E41B3D41DA67FCD59A1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Funding Genital Mutilation Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="id42fc318a22364e5eba353a346e331a94">
+            <enum>2.</enum>
+            <header display-inline="yes-display-inline">Prohibiting Federal Medicaid and CHIP
+                funding for gender transition procedures</header>
+            <subsection id="ID1F4185E392CE4B6A8DD9A1098E00B46F">
+                <enum>(a)</enum>
+                <header>Medicaid</header>
+ <text>Section 1903(i) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">42 U.S.C. 1396b(i)</external-xref>) is amended—</text>
+                <paragraph id="ID3B22E16204944963A4604D2CB2C8EC35">
+                    <enum>(1)</enum>
+ <text>in paragraph (26), by striking <quote>; or</quote> and inserting a semicolon;</text>
+                </paragraph>
+                <paragraph id="ID15B5E05321AD4A69922E4CA97346E14A">
+                    <enum>(2)</enum>
+ <text>in paragraph (27), by striking the period at the end and inserting <quote>; or</quote>;</text>
+                </paragraph>
+                <paragraph id="IDCC3AB44E90194080BEC33CDD17C0BCBF">
+                    <enum>(3)</enum>
+ <text>by inserting after paragraph (27) the following new paragraph:</text> <quoted-block id="IDC7FC44FD3636413EB86420600FE569EA" display-inline="no-display-inline" style="OLC"> <paragraph id="ID2CD7663FE9E9442FBCD18387FDE1CDBE"> <enum>(28)</enum> <text>with respect to any amount expended for specified gender transition procedures (as defined in section 1905(kk)) furnished to an individual enrolled in a State plan (or waiver of such plan).</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="ID78E763EC752342A6BF6CECB1E19F5723">
+                    <enum>(4)</enum>
+ <text>in the flush left matter at the end, by striking <quote>and (18),</quote> and inserting <quote>(18), and (28)</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ID45576D1B496146E5A8DA3A7B31593893">
+                <enum>(b)</enum>
+                <header>CHIP</header>
+ <text>Section 2107(e)(1)(N) of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1397gg">42 U.S.C. 1397gg(e)(1)(N)</external-xref>) is amended by striking <quote>and (17)</quote> and inserting <quote>(17), and (28)</quote>.</text>
+            </subsection>
+            <subsection id="ID6D43F4EB9F65480095204C42D6DAB9AC">
+                <enum>(c)</enum>
+                <header>Specified gender transition procedures defined</header>
+ <text>Section 1905 of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d</external-xref>) is amended by adding at the end the following new subsection:</text>
+                <quoted-block id="ID26F3835D04EC4B45AB89E1FC7414077C" display-inline="no-display-inline" style="OLC">
+                    <subsection id="ID951DEB9AC264478790F379D03FA9B97C">
+                        <enum>(kk)</enum>
+                        <header>Specified gender transition procedures</header>
+                        <paragraph id="IDB58061B28BA0486D8DA6E63C14D5E69A">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>For purposes of section 1903(i)(28), except as provided in paragraph (2), the term <term>specified gender transition procedure</term> means, with respect to an individual, any of the following when performed for the purpose of intentionally changing the body of such individual (including by disrupting the body's development, inhibiting its natural functions, or modifying its appearance) to no longer correspond to the individual's sex:</text>
+                            <subparagraph id="ID19F506AD7F6848D195D6D1B86C77427E">
+                                <enum>(A)</enum>
+ <text>Performing any surgery, including—</text> <clause id="ID8E94773F3C8749C9BF4392EC81EED5AE"> <enum>(i)</enum> <text>castration;</text>
+                                </clause>
+                                <clause id="ID7751A99CB00B4EB4A2364280E89A2872">
+                                    <enum>(ii)</enum>
+ <text>sterilization;</text> </clause> <clause id="ID4EA1C923B3FE43ECBE53F1F4A383E6AD"> <enum>(iii)</enum> <text>orchiectomy;</text>
+                                </clause>
+                                <clause id="ID93510C2F5B6043FA9BDEE71242440CA3">
+                                    <enum>(iv)</enum>
+ <text>scrotoplasty;</text> </clause> <clause id="ID49DF4D7617294E169DAAE795072A29B9"> <enum>(v)</enum> <text>vasectomy;</text>
+                                </clause>
+                                <clause id="ID6076D33D0D3D40F48077AAFC7817B522">
+                                    <enum>(vi)</enum>
+ <text>tubal ligation;</text> </clause> <clause id="ID19FEDDDDA74A4BDB892B18CA9A3360A4"> <enum>(vii)</enum> <text>hysterectomy;</text>
+                                </clause>
+                                <clause id="IDFB25BA0E40E244D1B72FA57777457E36">
+                                    <enum>(viii)</enum>
+ <text>oophorectomy;</text> </clause> <clause id="IDFDCC71FFFF36418BBE85E4211B399F25"> <enum>(ix)</enum> <text>ovariectomy;</text>
+                                </clause>
+                                <clause id="ID69A5584996E1480BA8EA6F75CA334532">
+                                    <enum>(x)</enum>
+ <text>metoidioplasty;</text> </clause> <clause id="IDFD09C39AEC574BAB95B13F07FD66A814"> <enum>(xi)</enum> <text>clitoroplasty;</text>
+                                </clause>
+                                <clause id="ID36A3C383307A4F64BAD92682362AE05F">
+                                    <enum>(xii)</enum>
+ <text>reconstruction of the fixed part of the urethra with or without a metoidioplasty or a phalloplasty;</text>
+                                </clause>
+                                <clause id="ID7A0DB611D78D4462A9AFE9C7D9A87ADA">
+                                    <enum>(xiii)</enum>
+ <text>penectomy;</text> </clause> <clause id="IDC486CB310F9D4E7CB2AFDD5042B439A8"> <enum>(xiv)</enum> <text>phalloplasty;</text>
+                                </clause>
+                                <clause id="IDC4E7952380944E91A2DFC0028595A6AA">
+                                    <enum>(xv)</enum>
+ <text>vaginoplasty;</text> </clause> <clause id="ID285171C08D3C42EF9FB26660044245DA"> <enum>(xvi)</enum> <text>vaginectomy;</text>
+                                </clause>
+                                <clause id="IDC5B8ECB736434A7A9C68E8B35A302556">
+                                    <enum>(xvii)</enum>
+ <text>vulvoplasty;</text> </clause> <clause id="ID0D14B59362A24F5AA08B5D6C79A7E20B"> <enum>(xviii)</enum> <text>reduction thyrochondroplasty;</text>
+                                </clause>
+                                <clause id="IDBD3CC9FE0D0D4DF3A6FFFB7069459BCE">
+                                    <enum>(xix)</enum>
+ <text>chondrolaryngoplasty;</text> </clause> <clause id="IDFCC7A78F116C4EAFBAB4DE3D18EF7856"> <enum>(xx)</enum> <text>mastectomy; and</text>
+                                </clause>
+                                <clause id="ID68D6F049C3FE46E39E4DA7C238D1981F">
+                                    <enum>(xxi)</enum>
+ <text>any plastic, cosmetic, or aesthetic surgery that feminizes or masculinizes the facial or other body features of an individual.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph id="ID604633FC8445467D912D179E8009192C">
+                                <enum>(B)</enum>
+ <text>Any placement of chest implants to create feminine breasts or any placement of erection or testicular prostheses.</text>
+                            </subparagraph>
+                            <subparagraph id="ID09145F5EEAD046A5913AC399B5133F25">
+                                <enum>(C)</enum>
+ <text>Any placement of fat or artificial implants in the gluteal region.</text>
+                            </subparagraph>
+                            <subparagraph id="IDA2A26C5ACDA84955940F0EDC7787F1F7">
+                                <enum>(D)</enum>
+ <text>Administering, prescribing, or dispensing to an individual medications, including—</text>
+                                <clause id="ID733FD25E64B34677A4195FCBB0CFB532">
+                                    <enum>(i)</enum>
+ <text>gonadotropin-releasing hormone (GnRH) analogues or other puberty-blocking drugs to stop or delay normal puberty; and</text>
+                                </clause>
+                                <clause id="ID723BD5D891354A06AE3907DA7C7554EA">
+                                    <enum>(ii)</enum>
+ <text>testosterone, estrogen, or other androgens to an individual at doses that are supraphysiologic than would normally be produced endogenously in a healthy individual of the same age and sex.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="ID2A517C5914BB4749BC8B87D5C068421B">
+                            <enum>(2)</enum>
+                            <header>Exception</header>
+ <text>Paragraph (1) shall not apply to the following when furnished to an individual by a health care provider with the consent of such individual's parent or legal guardian:</text>
+                            <subparagraph id="ID963CB5F489DD46EFAF5EE753F5853C8A">
+                                <enum>(A)</enum>
+ <text>Puberty suppression or blocking prescription drugs for the purpose of normalizing puberty for an individual experiencing precocious puberty.</text>
+                            </subparagraph>
+                            <subparagraph id="IDC66581AD1AE44ECEB97D716958D82369">
+                                <enum>(B)</enum>
+ <text>Medically necessary procedures or treatments to correct for—</text>
+                                <clause id="ID90D9F12F41A646F7817DE19170335640">
+                                    <enum>(i)</enum>
+ <text>a medically verifiable disorder of sex development, including—</text>
+                                    <subclause id="ID5B739715A5E7459884AE7AD00ECFA601">
+                                        <enum>(I)</enum>
+ <text>46,XX chromosomes with virilization;</text> </subclause> <subclause id="IDE32574CB839B48D2942BDB4B03D36E52"> <enum>(II)</enum> <text>46,XY chromosomes with undervirilization; and</text>
+                                    </subclause>
+                                    <subclause id="ID4A7496748A704323A657E73D801A500E">
+                                        <enum>(III)</enum>
+ <text>both ovarian and testicular tissue;</text> </subclause> </clause> <clause id="IDEFCDF1E2DBD34F779C24B6E1A15A842F"> <enum>(ii)</enum> <text>sex chromosome structure, sex steroid hormone production, or sex hormone action, if determined to be abnormal by a physician through genetic or biochemical testing;</text>
+                                </clause>
+                                <clause id="IDF621AB0C094448C9A8224AA82FC82808">
+                                    <enum>(iii)</enum>
+ <text>infection, disease, injury, or disorder caused or exacerbated by a previous procedure described in paragraph (1), or a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of a major bodily function unless the procedure is performed, not including procedures performed for the alleviation of mental distress; or</text>
+                                </clause>
+                                <clause id="IDCFDEAA8EF9A24BEDA9E6D1EE7F47D67F">
+                                    <enum>(iv)</enum>
+ <text>procedures to restore or reconstruct the body of the individual in order to correspond to the individual's sex after one or more previous procedures described in paragraph (1), which may include the removal of a pseudo phallus or breast augmentation.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="ID08FB78569A8943BA9C65D9066C6D18E3">
+                            <enum>(3)</enum>
+                            <header>Sex</header>
+ <text>For purposes of paragraph (1), the term <term>sex</term> means either male or female, as biologically determined and defined in paragraphs (4) and (5), respectively.</text>
+                        </paragraph>
+                        <paragraph id="ID135744F3C7954966A9F7F410E9B0845D">
+                            <enum>(4)</enum>
+                            <header>Female</header>
+ <text>For purposes of paragraph (3), the term <term>female</term> means an individual who naturally has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization.</text>
+                        </paragraph>
+                        <paragraph id="IDCB346F2F5D6C4E8DB656417B001FD121" commented="no" display-inline="no-display-inline">
+                            <enum>(5)</enum>
+                            <header>Male</header>
+ <text>For purposes of paragraph (3), the term <term>male</term> means an individual who naturally has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

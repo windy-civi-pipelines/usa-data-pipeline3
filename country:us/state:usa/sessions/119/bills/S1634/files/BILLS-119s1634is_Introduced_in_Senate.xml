@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-LIP25456-3H9-6S-G0P">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1634 IS: Augmenting Compatibility and Competition by Enabling Service Switching Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1634</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250507">May 7, 2025</action-date>
+            <action-desc><sponsor name-id="S327">Mr. Warner</sponsor> (for himself, <cosponsor name-id="S399">Mr. Hawley</cosponsor>, and <cosponsor name-id="S341">Mr.
+                    Blumenthal</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSCM00">Committee on Commerce,
+                    Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To promote competition and reduce consumer switching costs in the provision
+            of online communications services.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause" id="H3BFF3801487645B9A31A08D2AB7037A7">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Augmenting Compatibility and Competition by Enabling Service Switching Act of 2025</short-title></quote> or the <quote><short-title>ACCESS Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idb1959aa378ee4a9eb7365bf690ffb5e6">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id60b6c35f8d0d48189cf5d7a0078cb2c7"> <enum>(1)</enum> <header>Commission</header> <text>The term <term>Commission</term> means the Federal Trade Commission.</text>
+            </paragraph>
+            <paragraph id="idaa361353a6f843859e43c7a671f158c6">
+                <enum>(2)</enum>
+                <header>Communications provider</header>
+ <text>The term <term>communications provider</term> means a consumer-facing communications and information services provider.</text>
+            </paragraph>
+            <paragraph id="idde09c329087849d58a8786afffc5200d">
+                <enum>(3)</enum>
+                <header>Competing communications provider</header>
+ <text>The term <term>competing communications provider</term>, with respect to a large communications platform provider, means another communications provider offering, or planning to offer, similar products or services to consumers.</text>
+            </paragraph>
+            <paragraph id="iddb4ee77a3a384e878fe5bc1eb4e73b21">
+                <enum>(4)</enum>
+                <header>Competing communications service</header>
+ <text>The term <term>competing communications service</term>, with respect to a large communications platform, means a similar product or service provided by a competing communications provider.</text>
+            </paragraph>
+            <paragraph id="id78a63df16e704e3cb52db76de7fef7c7">
+                <enum>(5)</enum>
+                <header>Custodial third-party agent</header>
+ <text>The term <term>custodial third-party agent</term> means an entity that is duly authorized by a user to interact with a large communications platform provider on that user’s behalf to manage the user’s online interactions, content, and account settings.</text>
+            </paragraph>
+            <paragraph id="id663a9f33d63d48a4a9fef3f1484ee464">
+                <enum>(6)</enum>
+                <header>Interoperability interface</header>
+ <text>The term <term>interoperability interface</term> means an electronic interface maintained by a large communications platform for purposes of achieving interoperability.</text>
+            </paragraph>
+            <paragraph id="id26253909d5314223b55373e44fdd36d9">
+                <enum>(7)</enum>
+                <header>Large communications platform</header>
+ <text>The term <term>large communications platform</term> means a product or service provided by a communications provider that—</text>
+                <subparagraph id="id4cb8a8e3d30848149fd63ef16d8ac77e">
+                    <enum>(A)</enum>
+ <text>generates income, directly or indirectly, from the collection, processing, sale, or sharing of user data; and</text>
+                </subparagraph>
+                <subparagraph id="id461b9b79de3f42bb93f6d6b20c6367f4">
+                    <enum>(B)</enum>
+ <text>has more than 100,000,000 monthly active users in the United States.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id2e3053dea84b489592ab939f68ff8ee0">
+                <enum>(8)</enum>
+                <header>Large communications platform provider</header>
+ <text>The term <term>large communications platform provider</term> means a communications provider that provides, manages, or controls a large communications platform.</text>
+            </paragraph>
+            <paragraph id="id33f014c9050c44838ce2cf9f88eed956">
+                <enum>(9)</enum>
+                <header>User data</header>
+                <subparagraph id="id9CD90C4C04194A26AB9060A8BA1D4AEF">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+ <text>The term <term>user data</term> means information that is—</text> <clause id="idE38A2FE4431D4DC9B6A6BE66EB389957"> <enum>(i)</enum> <text>collected directly by a communications provider; and</text>
+                    </clause>
+                    <clause id="id6F59330ADD05482987DBF90397265D03">
+                        <enum>(ii)</enum>
+ <text>linked, or reasonably linkable, to a specific person.</text> </clause> </subparagraph> <subparagraph id="id0BF4A3AFEE7C47628689FB76C33C03CE"> <enum>(B)</enum> <header>Exclusion</header> <text>The term <term>user data</term> does not include information that is rendered unusable, unreadable, de-identified, or anonymized.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="idc5e41652e890469683aa33479da2967d">
+            <enum>3.</enum>
+            <header>Portability</header>
+            <subsection id="idc786796c31404569bf23dc60e25e082a">
+                <enum>(a)</enum>
+                <header>General duty of large communications platform providers</header>
+ <text>A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to initiate the secure transfer of user data to a user, or to a competing communications provider acting at the direction of a user, in a structured, commonly used, and machine-readable format.</text>
+            </subsection>
+            <subsection id="id54815ea66c5245749b88921a8f90690e">
+                <enum>(b)</enum>
+                <header>General duty of competing communications providers</header>
+ <text>A competing communications provider that receives ported user data from a large communications platform provider shall reasonably secure any user data it acquires.</text>
+            </subsection>
+            <subsection id="ide0ad77bdbd75461f96920c88836592f6">
+                <enum>(c)</enum>
+                <header>Exemption for certain services</header>
+ <text>The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.</text>
+            </subsection>
+        </section>
+        <section id="id2782306f2e664df39a267476f23ed0ef">
+            <enum>4.</enum>
+            <header>Interoperability</header>
+            <subsection id="idc90be17d957046b697b27e4f831e540a">
+                <enum>(a)</enum>
+                <header>General duty of large communications platform providers</header>
+ <text>A large communications platform provider shall, for each large communications platform it operates, maintain a set of transparent, third-party-accessible interfaces (including application programming interfaces) to facilitate and maintain technically compatible, interoperable communications with a user of a competing communications provider.</text>
+            </subsection>
+            <subsection id="id96cbf74edfbd4b109636795878524112">
+                <enum>(b)</enum>
+                <header>General duty of competing communications providers</header>
+ <text>A competing communications provider that accesses an interoperability interface of a large communications platform provider shall reasonably secure any user data it acquires, processes, or transmits.</text>
+            </subsection>
+            <subsection id="id8b88c8f0fa944260ad77b8f640574a51">
+                <enum>(c)</enum>
+                <header>Interoperability obligations for large communications platform
+                    providers</header>
+                <paragraph id="idfd45b492c3164e4793a9321c808e8ad9">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>In order to achieve interoperability under subsection (a), a large communications platform provider shall fulfill the duties under paragraphs (2) through (6) of this subsection.</text>
+                </paragraph>
+                <paragraph id="id7bb0f6f1c0f747a89ae4bdc7f4c6f0f6">
+                    <enum>(2)</enum>
+                    <header>Non-discrimination</header>
+                    <subparagraph id="id58cf046a49a34a31be8597ba0ca749cf">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>A large communications platform provider shall facilitate and maintain interoperability with competing communications services for each of its large communications platforms through an interoperability interface, based on fair, reasonable, and nondiscriminatory terms.</text>
+                    </subparagraph>
+                    <subparagraph id="id667daa2f96294b9abc8abe6cc48901f8">
+                        <enum>(B)</enum>
+                        <header>Reasonable thresholds, access standards, and fees</header>
+                        <clause id="id93fdba56d92243289a15b1b3adf1c39a">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>A large communications platform provider may establish reasonable thresholds related to the frequency, nature, and volume of requests by a competing communications provider to access resources maintained by the large communications platform provider, beyond which the large communications platform provider may assess a reasonable fee for such access.</text>
+                        </clause>
+                        <clause id="id2ad316639fd04f38ae7e47f4f0477faf">
+                            <enum>(ii)</enum>
+                            <header>Usage expectations</header>
+ <text>A large communications platform provider may establish fair, reasonable, and nondiscriminatory usage expectations to govern access by competing communications providers, including fees or penalties for providers that exceed those usage expectations.</text>
+                        </clause>
+                        <clause id="id0ed3848453044f9d83e465d4a7e3f83f">
+                            <enum>(iii)</enum>
+                            <header>Limitation on fees and usage expectations</header>
+ <text>Any fees, penalties, or usage expectations assessed under clauses (i) and (ii) shall be reasonably proportional to the cost, complexity, and risk to the large communications platform provider of providing such access.</text>
+                        </clause>
+                        <clause id="id582b671684c24585be2d84246ddb4568">
+                            <enum>(iv)</enum>
+                            <header>Notice</header>
+ <text>A large communications platform provider shall provide public notice of any fees, penalties, or usage expectations that may be established under clauses (i) and (ii), including reasonable advance notice of any changes.</text>
+                        </clause>
+                        <clause id="idf77ea181270244b6874f4ec8b4cb21ed">
+                            <enum>(v)</enum>
+                            <header>Security and privacy standards</header>
+ <text>A large communications platform provider shall, consistent with industry best practices, set privacy and security standards for access by competing communications services to the extent reasonably necessary to address a threat to the large communications platform or user data, and shall report any suspected violations of those standards to the Commission.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id0aa97dfb408149ec8473e59feaf890c8">
+                        <enum>(C)</enum>
+                        <header>Prohibited changes to interfaces</header>
+ <text>A change to an interoperability interface or terms of use made with the purpose, or substantial effect, of unreasonably denying access or undermining interoperability for competing communications services shall be considered a violation of the duty under subparagraph (A) to facilitate and maintain interoperability based on fair, reasonable, and nondiscriminatory terms.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id20134e89654949d5b21fe74f57a6327f">
+                    <enum>(3)</enum>
+                    <header>Functional equivalence</header>
+ <text>A large communications platform provider that maintains interoperability between its own large communications platform and other products, services, or affiliated offerings of such provider shall offer a functionally equivalent version of that interface to competing communications services.</text>
+                </paragraph>
+                <paragraph id="id7291b43d81c84e3c94aeb792eac23e92">
+                    <enum>(4)</enum>
+                    <header>Interface information</header>
+                    <subparagraph id="ida086ddaf8741453bbd43fabe4f8c61a5">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Not later than 120 days after the date of enactment of this Act, a large communications platform provider shall disclose to competing communications providers complete and accurate documentation describing access to the interoperability interface required under this section.</text>
+                    </subparagraph>
+                    <subparagraph id="id9fe07535592e4b019ea0bfcdc9cb8ba4">
+                        <enum>(B)</enum>
+                        <header>Contents</header>
+ <text>The documentation required under subparagraph (A)—</text> <clause id="id32328d718424425eb56e8070ff3667c2"> <enum>(i)</enum> <text>is limited to interface documentation necessary to achieve development and operation of interoperable products and services; and</text>
+                        </clause>
+                        <clause id="id33813db1211b4055bd2ef5c15dd7b7b6">
+                            <enum>(ii)</enum>
+ <text>does not require the disclosure of the source code of a large communications platform.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id948b5f5b84984891a899bb0414a172fb">
+                    <enum>(5)</enum>
+                    <header>Notice of changes</header>
+ <text>A large communications platform provider shall provide reasonable advance notice to a competing communications provider, which may be provided through public notice, of any change to an interoperability interface maintained by the large communications platform provider that will affect the interoperability of a competing communications service.</text>
+                </paragraph>
+                <paragraph id="id70f579567a744a72a08d5a81b9345957">
+                    <enum>(6)</enum>
+                    <header>Non-commercialization by a large communications platform
+                        provider</header>
+ <text>A large communications platform provider may not collect, use, or share user data obtained from a competing communications service through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id09b1b85304f14ee8a039f05bf208c735">
+                <enum>(d)</enum>
+                <header>Non-Commercialization by a competing communications provider</header>
+ <text>A competing communications provider that accesses an interoperability interface may not collect, use, or share user data obtained from a large communications platform provider through the interoperability interface except for the purposes of safeguarding the privacy and security of such information or maintaining interoperability of services.</text>
+            </subsection>
+            <subsection id="idd592ab18bfc246bca7185864b8c2e807">
+                <enum>(e)</enum>
+                <header>Exemption for certain services</header>
+ <text display-inline="yes-display-inline">The obligations under this section shall not apply to a product or service by which a large communications platform provider does not generate any income or other compensation, directly or indirectly, from collecting, using, or sharing user data.</text>
+            </subsection>
+        </section>
+        <section id="id310707ee865f483ca10e534f8ac2b254">
+            <enum>5.</enum>
+            <header>Delegatability</header>
+            <subsection id="id533d0e4e08244a82a6db627251a859ad">
+                <enum>(a)</enum>
+                <header>General duty of large communications platform providers</header>
+ <text>A large communications platform provider shall maintain a set of transparent third-party-accessible interfaces by which a user may delegate a custodial third-party agent to manage the user’s online interactions, content, and account settings on a large communications platform on the same terms as a user.</text>
+            </subsection>
+            <subsection id="id6d42b81aab5b46b69da38326a1ba7bde">
+                <enum>(b)</enum>
+                <header>Authentication</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Commission shall establish rules and procedures to facilitate a custodial third-party agent’s ability to obtain access pursuant to subsection (a) in a way that ensures that a request for access on behalf of a user is a verifiable request.</text>
+            </subsection>
+            <subsection id="id3549f52e51e04ca4be2e12b7b4ab87ba">
+                <enum>(c)</enum>
+                <header>Registration with the Commission</header>
+ <text>A custodial third-party agent shall register with the Commission as a condition of, and prior to, accessing an interface described in subsection (a).</text>
+            </subsection>
+            <subsection id="id797535c31dd34adca2fbcfddbf691984">
+                <enum>(d)</enum>
+                <header>Deregistration by the Commission</header>
+ <text>The Commission shall establish rules and procedures to deregister a custodial third-party agent that the Commission determines has violated the duties established in this section.</text>
+            </subsection>
+            <subsection id="idd412d4d488d340a4a0518f50636e7899">
+                <enum>(e)</enum>
+                <header>Revocation of access rights</header>
+ <text>A large communications platform provider may revoke or deny access for any custodial third-party agent that—</text>
+                <paragraph id="idea2107c391494e809f74cd4f5f2be534">
+                    <enum>(1)</enum>
+ <text>fails to register with the Commission; or</text> </paragraph> <paragraph id="idacb1cef8361d4502a551ee6da140b61f"> <enum>(2)</enum> <text>repeatedly facilitates fraudulent or malicious activity.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id139b883ebadc4742986ebaa84a15f84d">
+                <enum>(f)</enum>
+                <header>Duties of a custodial third-Party agent</header>
+ <text>A custodial third-party agent—</text> <paragraph id="id22fcf304366348b18dbe8894c239e220"> <enum>(1)</enum> <text>shall reasonably safeguard the privacy and security of user data provided to it by a user, or accessed on a user’s behalf;</text>
+                </paragraph>
+                <paragraph id="id737fc8403b9243cd8c34286e19164f0f">
+                    <enum>(2)</enum>
+ <text>shall not access or manage a user’s online interactions, content, or account settings in any way that—</text>
+                    <subparagraph id="idab882a649e6e4ec593bf8d794d1c5319">
+                        <enum>(A)</enum>
+ <text>will benefit the custodial third-party agent to the detriment of the user;</text>
+                    </subparagraph>
+                    <subparagraph id="id0127ac0bb3c84e39b96eb10cbb1f40a6">
+                        <enum>(B)</enum>
+ <text>will result in any reasonably foreseeable harm to the user; or</text> </subparagraph> <subparagraph id="id8ec2d0f60c314c289db1b6a82796de04"> <enum>(C)</enum> <text>is inconsistent with the directions or reasonable expectations of the user; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id5eaea50682e44161b3fdbba641f2419b">
+                    <enum>(3)</enum>
+ <text>shall not collect, use, or share any user data provided to it by a user, or accessed on a user’s behalf, for the commercial benefit of the custodial third-party agent.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id23417b65c3c24c0cb734545edfbacb8d">
+                <enum>(g)</enum>
+                <header>Fees</header>
+ <text>A custodial third-party agent may charge users a fee for the provision of the products or services described in subsection (a).</text>
+            </subsection>
+            <subsection id="id499d4be4092c4b9fa914bc4ab7f88fb9">
+                <enum>(h)</enum>
+                <header>Extent of access rights</header>
+ <text>Nothing in this section shall be construed to confer greater rights of access for a custodial third-party agent to a large communications platform than are accessible to a user.</text>
+            </subsection>
+        </section>
+        <section id="id69cef60035994e338401587491733dc1">
+            <enum>6.</enum>
+            <header>Implementation and enforcement</header>
+            <subsection id="idf01fa9e54ceb40c18627e3da787a6efe">
+                <enum>(a)</enum>
+                <header>Regulations</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations to implement section 4(c)(2)(B)(v) and subsections (b), (c), and (d) of section 5.</text>
+            </subsection>
+            <subsection id="id981962d3d1864c2182a1554ee6cd748b">
+                <enum>(b)</enum>
+                <header>Authentication</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with relevant industry stakeholders, shall establish rules and procedures to facilitate the verification of the validity of requests from users and competing communications providers to obtain user data under sections 3(a) and 4(a).</text>
+            </subsection>
+            <subsection id="id1fa00d27e2a8439c9abcb502f53018d0">
+                <enum>(c)</enum>
+                <header>Technical standards</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall develop and publish model technical standards by which to make interoperable popular classes of communications or information services, including—</text>
+                <paragraph id="ida4d529723f1a4cf9beafd343dfe78ecc">
+                    <enum>(1)</enum>
+ <text>online messaging;</text> </paragraph> <paragraph id="id51d659b8877d4264b1f2611050dbfdbd"> <enum>(2)</enum> <text>multimedia sharing; and</text>
+                </paragraph>
+                <paragraph id="id02215c83aeab4cf1b2f21b1d1c9cca76">
+                    <enum>(3)</enum>
+ <text>social networking.</text> </paragraph> </subsection> <subsection id="id78b49b5a95c8423683fbad959828e0ba"> <enum>(d)</enum> <header>Compliance assessment</header> <text>The Commission shall regularly assess compliance by large communications platform providers with the provisions of this Act.</text>
+            </subsection>
+            <subsection id="id1ad905045b35484ba2917b0623c9cf85">
+                <enum>(e)</enum>
+                <header>Complaints</header>
+ <text>The Commission shall establish procedures under which a user, a large communications platform provider, a competing communications provider, and a custodial third-party agent may file a complaint alleging that a large communications platform provider, a competing communication provider, or a custodial third-party agent has violated this Act.</text>
+            </subsection>
+            <subsection id="idddd0056d66a04b819f77764e1bd3bdce">
+                <enum>(f)</enum>
+                <header>Enforcement</header>
+                <paragraph id="iddf623bf636734eceb2785b83e8c81ac5">
+                    <enum>(1)</enum>
+                    <header>Unfair or deceptive acts or practices</header>
+ <text>A violation of this Act, or regulations enacted pursuant to this Act, shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="idbecbe4f003bf43cf88d17531892bf4a4">
+                    <enum>(2)</enum>
+                    <header>Powers of commission</header>
+                    <subparagraph id="idda408fa6e5e1485b8d7e7570874b9372">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Except as provided in subparagraph (C), the Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this Act.</text>
+                    </subparagraph>
+                    <subparagraph id="id055b0a23df9f4bf5b1f558186928324c">
+                        <enum>(B)</enum>
+                        <header>Privileges and immunities</header>
+ <text>Except as provided in subparagraph (C), any person who violates section 3 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph id="ide73567f1a6fd48c087e478250b81094f">
+                        <enum>(C)</enum>
+                        <header>Nonprofit organizations and common carriers</header>
+ <text>Notwithstanding section 4 or 5(a)(2) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/44">15 U.S.C. 44</external-xref>, 45(a)(2)) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to common carriers subject to the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/151">47 U.S.C. 151 et seq.</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph id="id1c471df61e2e4124bad3ac13cab901eb">
+                        <enum>(D)</enum>
+                        <header>Fines</header>
+ <text>In assessing any fine for a violation of this Act, the Commission shall consider each individual user affected by a violation of this Act as an individual violation.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id2a680afd2a8f469689e53eba108a1016">
+                <enum>(g)</enum>
+                <header>Reliance on open standards</header>
+ <text>Any large communications platform provider that establishes and maintains interoperability through an open standard established under subsection (c) shall be entitled to a rebuttable presumption of providing access on fair, reasonable, and nondiscriminatory terms.</text>
+            </subsection>
+            <subsection id="id1ab45537706e4f688a8f3993df5c17e5">
+                <enum>(h)</enum>
+                <header>Preemption</header>
+ <text>The provisions of this Act shall preempt any State law only to the extent that such State law is inconsistent with the provisions of this Act.</text>
+            </subsection>
+            <subsection id="id745c4919327b4626ac8ad806294b3c71">
+                <enum>(i)</enum>
+                <header>Effective date</header>
+ <text>This Act shall take effect on the date on which the Commission promulgates regulations under subsection (a).</text>
+            </subsection>
+        </section>
+        <section id="idf5e006a3b31e423eba6e17b9c0c6f27c">
+            <enum>7.</enum>
+            <header>Relation to other laws</header>
+ <text display-inline="no-display-inline">Nothing in this Act shall be construed to modify, limit, or supersede the operation of any privacy or security provision in—</text>
+            <paragraph id="id565a33b18e134e6cbd30862fe31f688a">
+                <enum>(1)</enum>
+ <text>section 552a of title 5, United States Code (commonly known as the <quote>Privacy Act of 1974</quote>);</text>
+            </paragraph>
+            <paragraph id="id53c0de18346e4b99a0bd97ed2fcfa818">
+                <enum>(2)</enum>
+ <text>the Right to Financial Privacy Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/12/3401">12 U.S.C. 3401 et seq.</external-xref>);</text> </paragraph> <paragraph id="id0d8c9934d7844f789b521dcb91abe8fa"> <enum>(3)</enum> <text>the Fair Credit Reporting Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1681">15 U.S.C. 1681 et seq.</external-xref>);</text>
+            </paragraph>
+            <paragraph id="idef74641b2c1e4990bcccd1e0c89bee5b">
+                <enum>(4)</enum>
+ <text>the Fair Debt Collection Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/1692">15 U.S.C. 1692 et seq.</external-xref>);</text> </paragraph> <paragraph id="idd3b710e15a524a48b872e7b75270c7e9"> <enum>(5)</enum> <text>the Children's Online Privacy Protection Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/15/6501">15 U.S.C. 6501 et seq.</external-xref>);</text>
+            </paragraph>
+            <paragraph id="idf6794a23a33e4424a35705e2b80b9a63">
+                <enum>(6)</enum>
+ <text>title V of the Gramm-Leach-Bliley Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">15 U.S.C. 6801 et seq.</external-xref>);</text> </paragraph> <paragraph id="id078a411e0f3543c1afbc4e37685644b9"> <enum>(7)</enum> <text>chapters 119, 123, and 206 of title 18, United States Code;</text>
+            </paragraph>
+            <paragraph id="id8d64f1daa2a7424faf11f60b420feb21">
+                <enum>(8)</enum>
+ <text>section 444 of the General Education Provisions Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1232g">20 U.S.C. 1232g</external-xref>) (commonly referred to as the <quote>Family Educational Rights and Privacy Act of 1974</quote>);</text>
+            </paragraph>
+            <paragraph id="ideb36835652294af7b2971bc4ce305419">
+                <enum>(9)</enum>
+ <text>section 445 of the General Education Provisions Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1232h">20 U.S.C. 1232h</external-xref>);</text> </paragraph> <paragraph id="id61A995C288984AA8B52B60F52C20FCD9"> <enum>(10)</enum> <text>the Privacy Protection Act of 1980 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000aa">42 U.S.C. 2000aa et seq.</external-xref>);</text>
+            </paragraph>
+            <paragraph id="id34bc68d9eb5d4870a7ea2184a23b9df0">
+                <enum>(11)</enum>
+ <text>the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note), as those regulations relate to—</text>
+                <subparagraph id="id9fe8aaca48d34dd98ec2dc9d720ac163">
+                    <enum>(A)</enum>
+ <text>a person described in section 1172(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-1">42 U.S.C. 1320d–1(a)</external-xref>); or</text>
+                </subparagraph>
+                <subparagraph id="id51df606264a145278c2dad3020357aa8">
+                    <enum>(B)</enum>
+ <text>transactions referred to in section 1173(a)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2(a)(1)</external-xref>);</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="ida145394f6e074bb9a5639fb046303eb2">
+                <enum>(12)</enum>
+ <text>the Communications Assistance for Law Enforcement Act (<external-xref legal-doc="usc" parsable-cite="usc/47/1001">47 U.S.C. 1001 et seq.</external-xref>);</text>
+            </paragraph>
+            <paragraph id="id80b34f1199984dcfbce11623f6e420e9">
+                <enum>(13)</enum>
+ <text>sections 222 and 227 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/222">47 U.S.C. 222</external-xref>, 227); or</text>
+            </paragraph>
+            <paragraph id="id3a8adb50c1c7485d85d90b101127226a">
+                <enum>(14)</enum>
+ <text>any other privacy or security provision of Federal law.</text> </paragraph> </section> </legis-body> </bill>
+

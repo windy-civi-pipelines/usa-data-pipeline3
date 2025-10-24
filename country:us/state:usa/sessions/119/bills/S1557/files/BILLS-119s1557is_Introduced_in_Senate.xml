@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ROM25286-XYR-2P-KKR">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1557 IS: Net Price Calculator Improvement Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1557</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250501">May 1, 2025</action-date>
+            <action-desc><sponsor name-id="S153">Mr. Grassley</sponsor> (for himself and <cosponsor name-id="S394">Ms. Smith</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Higher Education Act of 1965 to make technical improvements to
+            the Net Price Calculator system so that prospective students may have a more accurate
+            understanding of the true cost of college.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Net Price Calculator Improvement Act</short-title></quote>.</text>
+        </section>
+        <section id="id93b672ca88614650baf76fb148c615d0">
+            <enum>2.</enum>
+            <header>Minimum standards for net price calculators</header>
+ <text display-inline="no-display-inline">Section 132(h) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1015a">20 U.S.C. 1015a(h)</external-xref>) is amended—</text>
+            <paragraph id="id7e7ef2d15dfa43a6b246ab1aefc100e2">
+                <enum>(1)</enum>
+ <text>by redesignating paragraph (4) as paragraph (6);</text> </paragraph> <paragraph id="id3049085545fc465097823901f722aeae"> <enum>(2)</enum> <text>in paragraph (2), by inserting before the period <quote>, and, not later than 1 year after the date of enactment of the <short-title>Net Price Calculator Improvement Act</short-title>, shall meet the requirements of paragraph (4)(C)</quote>;</text>
+            </paragraph>
+            <paragraph id="idc85738f3025449eab1fda5ea428d28d0">
+                <enum>(3)</enum>
+ <text>in paragraph (3), by inserting after the first sentence the following: <quote>Not later than 1 year after the date of enactment of the <short-title>Net Price Calculator Improvement Act</short-title>, such calculator shall meet the requirements of paragraph (4).</quote>; and</text>
+            </paragraph>
+            <paragraph id="id5de17350e4e2432fa40352d890187308">
+                <enum>(4)</enum>
+ <text>by inserting after paragraph (3) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id64b569852e3a4a11abc590ac35258e2a"> <paragraph id="idc5a5c05c55064b78b3362e423add075f"> <enum>(4)</enum> <header>Minimum requirements for net price calculators</header> <text>Not later than 1 year after the date of enactment of the <short-title>Net Price Calculator Improvement Act</short-title>, a net price calculator for an institution of higher education shall, at a minimum, meet the following requirements:</text>
+                        <subparagraph id="id2736e1aca4784aa2922c0a1ae62a0424">
+                            <enum>(A)</enum>
+ <text>The link for the calculator—</text> <clause id="idb802bb63ed854b819944c39957379b03"> <enum>(i)</enum> <text>is clearly labeled as a <quote>net price calculator</quote> and prominently, clearly, and conspicuously (in such size and contrast (such as shade) that it is readily noticeable and readable) posted in locations on the institution’s website where information on costs and aid is provided (such as financial aid, prospective students, or tuition and fees web pages);</text>
+                            </clause>
+                            <clause id="id76e735bdd37e45feae93e11383636c11">
+                                <enum>(ii)</enum>
+ <text>matches in size and font to the other prominent links on the primary menu; and</text>
+                            </clause>
+                            <clause id="ida580a54aaef8486194704d0c305490bc">
+                                <enum>(iii)</enum>
+ <text>may also be included on the institution’s compliance web page, which contains information relating to compliance with Federal, State, and local laws.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="ide374ef5f6edb45a08fd5a10640bcb85a">
+                            <enum>(B)</enum>
+ <text>The input screen for the net price calculator displays a chart of the net prices for students receiving Federal student financial aid under title IV (as required by subsection (i)(5)) for the most recent academic year for which data are available, disaggregated by income categories.</text>
+                        </subparagraph>
+                        <subparagraph id="id04b3bdf237ac4694a368a87e70d4529a">
+                            <enum>(C)</enum>
+ <text>The results screen for the calculator specifies the following information:</text>
+                            <clause id="id132c1ca0bb9c4282b8866db031345854">
+                                <enum>(i)</enum>
+ <text>The individual net price (as calculated under paragraph (2)) for the individual student, which is the most visually prominent figure on the results screen, including a statement of—</text>
+                                <subclause id="id9405df2161444a9c9aeff93d6f368a3e">
+                                    <enum>(I)</enum>
+ <text>the year for which the net price applies; and</text> </subclause> <subclause id="id6849168575da42bbacc8f29e68ba5131"> <enum>(II)</enum> <text>the year from which the data was used to determine that net price.</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id194ddc69af494fb6b603d1a82027bd99">
+                                <enum>(ii)</enum>
+ <text>Cost of attendance, including—</text> <subclause id="id7e259e1e1bd940199129340440695fae"> <enum>(I)</enum> <text>the total estimated cost for a student to complete the program of study, based on normal time for completion of, or graduation from, the student’s particular program of study;</text>
+                                </subclause>
+                                <subclause id="id0c4d7b9f25b84366b00a216b85ca5a07">
+                                    <enum>(II)</enum>
+ <text>the total annual cost of attendance;</text> </subclause> <subclause id="idcc47153079f742ddb1d5bec953f8429e"> <enum>(III)</enum> <text>annual tuition and fees;</text>
+                                </subclause>
+                                <subclause id="ida30214d66d264d0b9ec2bf6c897a07c3">
+                                    <enum>(IV)</enum>
+ <text>average annual cost of room and board for the institution for a first-time, full-time undergraduate student enrolled in the institution;</text>
+                                </subclause>
+                                <subclause id="id6a454d9b02254b09897bdb5bfb2f6bf2">
+                                    <enum>(V)</enum>
+ <text>average annual cost of books and supplies for a first-time, full-time undergraduate student enrolled in the institution;</text>
+                                </subclause>
+                                <subclause id="id456dafaf44ef46fc80623b3a6b5ee992">
+                                    <enum>(VI)</enum>
+ <text>estimated annual cost of other expenses (including personal expenses and transportation) for a first-time, full-time undergraduate student enrolled in the institution; and</text>
+                                </subclause>
+                                <subclause id="ide5ca757d67584b8e8e36352b44aa45cc">
+                                    <enum>(VII)</enum>
+ <text>a statement of—</text> <item id="id5d6f2685e89f49118ab00f14bdbe1682"> <enum>(aa)</enum> <text>the year for which each cost described in this clause applies; and</text>
+                                    </item>
+                                    <item id="idf4b8a60c608749b5a52c985001888722">
+                                        <enum>(bb)</enum>
+ <text>the year from which the data was used to determine each cost described in this clause.</text>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause id="id2f8e077b3f8f4aaeac7b1b904bf2e580">
+                                <enum>(iii)</enum>
+ <text>Estimated total need-based grant aid and merit-based grant aid, from Federal, State, and institutional sources that may be available to the individual student, showing the subtotal for each category and the total of all sources of grant aid and disaggregated by academic year for normal time for completion of, or graduation from, the student’s particular program of study.</text>
+                            </clause>
+                            <clause id="id4f49e06ec2c0459d891966df2cf5b41d">
+                                <enum>(iv)</enum>
+ <text>Percentage of the first-time, full-time undergraduate students enrolled in the institution who received any type of grant aid described in clause (iii), disaggregated by their first year and subsequent years of enrollment up to the number of years for normal completion of, or graduation from, their particular program of study.</text>
+                            </clause>
+                            <clause id="id6134deb742cd4603b15e6762771d78b7">
+                                <enum>(v)</enum>
+ <text>The disclaimer described in paragraph (6).</text> </clause> <clause id="id4c2aa38c6fc6405ebac81e9ecb5ddc11"> <enum>(vi)</enum> <text>In the case of a calculator that—</text>
+                                <subclause id="id583a375ae43b4825a27d91a704f3dcde">
+                                    <enum>(I)</enum>
+ <text>includes questions to estimate a student’s (or prospective student’s) eligibility for veterans’ education benefits (as defined in section 480) or educational benefits for active duty service members, such benefits are displayed on the results screen in a manner that clearly distinguishes them from the grant aid described in clause (iii); or</text>
+                                </subclause>
+                                <subclause commented="no" id="id8ae625de467b428a89425f14a3ab29a6">
+                                    <enum>(II)</enum>
+ <text>does not include questions to estimate eligibility for the benefits described in subclause (I), the results screen—</text>
+                                    <item id="id3f3412a7719946b4a2ad1ebccae0a2c1">
+                                        <enum>(aa)</enum>
+ <text>indicates that certain students (or prospective students) may qualify for such benefits;</text>
+                                    </item>
+                                    <item id="id8752ed3c11834793a9da2e2bcbc7bfad">
+                                        <enum>(bb)</enum>
+ <text>states why the institution is not including questions to estimate a student’s eligibility for such benefits; and</text>
+                                    </item>
+                                    <item id="id0d20aca885104c1991989cf78491ebbf">
+                                        <enum>(cc)</enum>
+ <text>includes a link to an appropriate Federal website that provides information about such benefits.</text>
+                                    </item>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="ida6670c515a944863bef5080fce33812e">
+                            <enum>(D)</enum>
+ <text>The institution populates the calculator with data from not earlier than 2 academic years prior to the most recent academic year.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id21eea712525c41e09dc5fc0264f5a738">
+                        <enum>(5)</enum>
+                        <header>Prohibition on use of data collected by the net price
+                            calculator</header>
+ <text>A net price calculator for an institution of higher education shall—</text>
+                        <subparagraph id="id0071d6e82fce4d9e8576c8fc5d94d26a">
+                            <enum>(A)</enum>
+ <text>clearly indicate which questions are required to be completed for an estimate of the net price from the calculator;</text>
+                        </subparagraph>
+                        <subparagraph id="idce05ee681bdf432fb798a3ef2cd7ac1e">
+                            <enum>(B)</enum>
+ <text>in the case of a calculator that requests contact information from users, clearly mark such requests as <quote>optional</quote>;</text>
+                        </subparagraph>
+                        <subparagraph id="idefcd77aa1dfc4a519798791e9f7ac726">
+                            <enum>(C)</enum>
+ <text>prohibit any personally identifiable information provided by users from being sold or made available to third parties; and</text>
+                        </subparagraph>
+                        <subparagraph id="idd552840b47644fd98fb3af4de28af2f2">
+                            <enum>(D)</enum>
+ <text>clearly state <quote>Any information that you provide on this site is confidential. The Net Price Calculator does not store your responses or require personal identifying information of any kind.</quote>.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+        <section id="id4aa9e5880292428bab9a040fa7eb61cb">
+            <enum>3.</enum>
+            <header>Universal net price calculator</header>
+ <text display-inline="no-display-inline">Section 132(h) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1015a">20 U.S.C. 1015a(h)</external-xref>), as amended by section 2, is further amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idceb65ccb51a24fe3a78372d806753492">
+                <paragraph id="id3123d5f901ac4bf1aaf7c1b5654a7983">
+                    <enum>(7)</enum>
+                    <header>Universal net price calculator</header>
+                    <subparagraph id="id85be412e726f4570872c2e06c69b7154">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>The Secretary may develop a universal net price calculator that is housed within the Department of Education, with Department branding, and that may be based on or utilize an existing platform developed by a public or private entity, that—</text>
+                        <clause id="id6b4e65c56d4749a5869cc04e86ff0571">
+                            <enum>(i)</enum>
+ <text>enables users to answer 1 set of questions and receive net prices for any institution that is required to have a net price calculator under this subsection;</text>
+                        </clause>
+                        <clause id="id751c0e4d24024c91bd9462a55d2ccb50">
+                            <enum>(ii)</enum>
+ <text>provides the information required under subparagraphs (C) and (D) of paragraph (4) for each institution for which a net price is being sought;</text>
+                        </clause>
+                        <clause id="id0d7583f365994c3db1fc5c4c7905d098">
+                            <enum>(iii)</enum>
+ <text>is developed in consultation with the heads of relevant Federal agencies; and</text>
+                        </clause>
+                        <clause id="id0987f9e31abf44b3b5eb8454ee6ebaa0">
+                            <enum>(iv)</enum>
+ <text>before being finalized and publicly released, is tested in accordance with subparagraph (B).</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idaacab35ca3234151b08f1eff9fda4eef">
+                        <enum>(B)</enum>
+                        <header>Consumer testing</header>
+                        <clause id="id07cd4b47f8b14e55a1aebac82b4ffb24">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>If the Secretary develops a universal net price calculator under subparagraph (A), the Secretary, in consultation with the heads of relevant Federal agencies, shall establish a process to submit the universal net price calculator developed under this paragraph for consumer testing among representatives of students (including low-income students, first generation college students, adult students, and prospective students), students’ families (including low-income families, families with first generation college students, and families with prospective students), institutions of higher education, secondary school and postsecondary counselors, and nonprofit consumer groups.</text>
+                        </clause>
+                        <clause id="idae057faffd124385b77977adebd2bdcc">
+                            <enum>(ii)</enum>
+                            <header>Length of consumer testing</header>
+ <text>The Secretary shall ensure that the consumer testing lasts no longer than 6 months after the process for consumer testing is developed under clause (i).</text>
+                        </clause>
+                        <clause id="id280f50ba3cf343a9876f9fb3db627152">
+                            <enum>(iii)</enum>
+                            <header>Use of results</header>
+ <text>The results of consumer testing under clause (i) shall be used in the final development of the universal net price calculator.</text>
+                        </clause>
+                        <clause id="id711846d233c1449488ac7421049e926d">
+                            <enum>(iv)</enum>
+                            <header>Reporting requirement</header>
+ <text>Not later than 3 months after the date the consumer testing under clause (i) concludes, the Secretary shall submit to Congress the final universal net price calculator and a report detailing the results of such testing, including whether the Secretary added any additional items to the calculator as a result of such testing.</text>
+                        </clause>
+                        <clause id="id4fe89dc00fb341189e1d4e99b72d1d3e">
+                            <enum>(v)</enum>
+                            <header>Authority to modify</header>
+ <text>The Secretary may modify the definitions, terms, formatting, and design of the universal net price calculator based on the results of consumer testing required under this paragraph and before finalizing the calculator.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idf6b43f9e9a0c43d3868f01e84f947fa2">
+                    <enum>(8)</enum>
+                    <header>Report from secretary</header>
+ <text>Not later than 1 year after the date of enactment of the <short-title>Net Price Calculator Improvement Act</short-title>, the Secretary shall submit a report to Congress on steps taken to raise awareness of net price calculators among prospective students and families, particularly among students in middle school and high school and students from low-income families.</text>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

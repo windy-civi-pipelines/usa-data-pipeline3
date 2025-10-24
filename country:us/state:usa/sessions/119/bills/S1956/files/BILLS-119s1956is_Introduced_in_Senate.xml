@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-LIP25652-GN6-7K-6R0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1956 IS: Strengthening Agency Management and Oversight of Software Assets Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1956</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250604">June 4, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself, <cosponsor name-id="S373">Mr. Cassidy</cosponsor>, <cosponsor name-id="S376">Ms.
+                    Ernst</cosponsor>, <cosponsor name-id="S384">Mr. Tillis</cosponsor>, <cosponsor name-id="S378">Mr. Lankford</cosponsor>, and <cosponsor name-id="S247">Mr.
+                    Wyden</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security
+                    and Governmental Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve the visibility, accountability, and oversight of agency software
+            asset management practices, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="id65e243dc-1a28-4cfb-b012-0fff5479faa2" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Strengthening Agency Management and Oversight of Software Assets Act</short-title></quote>.</text>
+        </section>
+        <section id="id160b1fb7-3524-4b87-ba55-4e7e537a6a88" changed="not-changed">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="id8aeb823a-309e-4c79-8ee0-f79285b59807" changed="not-changed"> <enum>(1)</enum> <header>Administrator</header> <text>The term <term>Administrator</term> means the Administrator of General Services.</text>
+            </paragraph>
+            <paragraph id="ide76c7fe4-ddc8-4a5c-83bd-d12a633148cd" changed="not-changed">
+                <enum>(2)</enum>
+                <header>Agency</header>
+ <text>The term <term>agency</term> has the meaning given that term in section 3502 of title 44, United States Code.</text>
+            </paragraph>
+            <paragraph id="ida1d38924-9be0-40d8-ac20-a60f27f2f73a" changed="not-changed">
+                <enum>(3)</enum>
+                <header>Cloud computing</header>
+ <text>The term <term>cloud computing</term> has the meaning given the term in Special Publication 800–145 of the National Institute of Standards and Technology, or any successor document.</text>
+            </paragraph>
+            <paragraph id="id05f6a3b8-04ef-413c-aa5d-28a214ea801e" changed="not-changed">
+                <enum>(4)</enum>
+                <header>Cloud service provider</header>
+ <text>The term <term>cloud service provider</term> has the meaning given the term in section 3607(b) of title 44, United States Code.</text>
+            </paragraph>
+            <paragraph id="iddd538809-443f-487f-a6b8-5efb4258c617" changed="not-changed">
+                <enum>(5)</enum>
+                <header>Comprehensive assessment</header>
+ <text>The term <term>comprehensive assessment</term> means a comprehensive assessment conducted pursuant to section 3(a).</text>
+            </paragraph>
+            <paragraph id="id8bf3fb15-ca73-4a60-80b2-4d25a12f018a" changed="not-changed">
+                <enum>(6)</enum>
+                <header>Director</header>
+ <text>The term <term>Director</term> means the Director of the Office of Management and Budget.</text>
+            </paragraph>
+            <paragraph id="ida0a91915-106f-4841-9b61-baedbc1fe977" changed="not-changed">
+                <enum>(7)</enum>
+                <header>Plan</header>
+ <text>The term <term>plan</term> means the plan developed by a Chief Information Officer, or equivalent official, pursuant to section 4(a).</text>
+            </paragraph>
+            <paragraph id="id2551218e-a92f-4220-8df0-33febac96f23" changed="not-changed">
+                <enum>(8)</enum>
+                <header>Software entitlement</header>
+ <text>The term <term>software entitlement</term> means any software that—</text> <subparagraph id="id30a8b28f-59da-495a-a437-a8ba8ec04dc2" changed="not-changed"> <enum>(A)</enum> <text>has been purchased, leased, or licensed by or billed to an agency under any contract or other business arrangement; and</text>
+                </subparagraph>
+                <subparagraph id="idb4725263-d00f-49f6-a649-dc27f5d8fc17" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>is subject to use limitations.</text> </subparagraph> </paragraph> <paragraph id="idd3628139-855b-418c-a561-d9351f58e010" changed="not-changed"> <enum>(9)</enum> <header>Software inventory</header> <text>The term <term>software inventory</term> means the software inventory of an agency required pursuant to—</text>
+                <subparagraph id="idec48d0f3-2b44-4056-b31c-e204fcac89aa" changed="not-changed">
+                    <enum>(A)</enum>
+ <text>section 2(b)(2)(A) of the Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016 (<external-xref legal-doc="usc" parsable-cite="usc/40/11302">40 U.S.C. 11302</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/114/210">Public Law 114–210</external-xref>); or</text>
+                </subparagraph>
+                <subparagraph id="id530f6bfa-278c-44cf-97e8-a63fadee2e69" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>subsequent guidance issued by the Director pursuant to that Act.</text> </subparagraph> </paragraph> </section> <section id="id4987db9c-92d3-48a3-aa53-3e45b975309e" changed="not-changed"> <enum>3.</enum> <header>Software inventory update and expansion</header> <subsection id="id3828b8bb-ce6a-4ab9-80ac-644de91dba17" changed="not-changed"> <enum>(a)</enum> <header>In general</header> <text>As soon as practicable, and not later than 18 months after the date of enactment of this Act, the Chief Information Officer of each agency, in consultation with the Chief Financial Officer, the Chief Acquisition Officer, the Chief Data Officer, and General Counsel of the agency, or the equivalent officials of the agency, shall complete a comprehensive assessment of the software paid for by, in use at, or deployed throughout the agency, which shall include—</text>
+                <paragraph id="idccac8a3a-17cf-4917-9ec7-f75f10fd0203" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>the current software inventory of the agency, including software entitlements, contracts and other agreements or arrangements of the agency, and a list of the largest software entitlements of the agency separated by provider and category of software;</text>
+                </paragraph>
+                <paragraph id="id19e7fffb-ec2c-42ca-ac60-5100f4997ebd" changed="not-changed">
+                    <enum>(2)</enum>
+ <text>a comprehensive, detailed accounting of—</text> <subparagraph id="id39a0270e-a09e-4876-a894-7019ac30fc70" changed="not-changed"> <enum>(A)</enum> <text>any software used by or deployed within the agency, including software developed or built by the agency, or by another agency for use by the agency, including shared services, as of the date of the comprehensive assessment, including, to the extent identifiable, the contracts and other agreements or arrangements used by the agency to acquire, build, deploy, or use such software;</text>
+                    </subparagraph>
+                    <subparagraph id="ide3ca0f8d-609e-47cc-bfec-6f2ae5470d46" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>information and data on software entitlements, which shall include information on any additional fees or costs, including fees or costs for the use of cloud services, that are not included in the initial costs of the contract, agreement, or arrangement—</text>
+                        <clause id="id508cea34-b75c-414a-90ef-04fba2811474" changed="not-changed">
+                            <enum>(i)</enum>
+ <text>for which the agency pays;</text> </clause> <clause id="id17a055b7-7c3a-42ed-93e1-e0b2df5cc767" changed="not-changed"> <enum>(ii)</enum> <text>that are not deployed or in use by the agency; and</text>
+                        </clause>
+                        <clause id="idbab496d4-abce-4b6d-8366-a4daa83b8073" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text>that are billed to the agency under any contract or business arrangement that creates duplication, or are otherwise determined to be unnecessary by the Chief Information Officer of the agency, or the equivalent official, in the deployment or use by the agency; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="ida1645e40-19cf-45a4-aef2-9d5ecdb3bbd0" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>the extent—</text> <clause id="id22e91bbc-3f93-4140-acf6-8ecffcd810d7" changed="not-changed"> <enum>(i)</enum> <text>to which any software paid for, in use, or deployed throughout the agency is interoperable; and</text>
+                        </clause>
+                        <clause id="id5c4e6a35-8a3d-4173-8090-74e1432d6cc7" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>of the efforts of the agency to improve interoperability of software assets throughout the agency enterprise;</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id0e62d3c1-a0f9-4686-a1e5-dfb065f72079" changed="not-changed">
+                    <enum>(3)</enum>
+ <text>a categorization of software entitlements of the agency by cost, volume, and type of software;</text>
+                </paragraph>
+                <paragraph id="id3e9f73f6-83b4-4053-9061-e61fed63ad1b" changed="not-changed">
+                    <enum>(4)</enum>
+ <text>a list of any provisions in the software entitlements of the agency that may restrict how the software can be deployed, accessed, or used, including any such restrictions on desktop or server hardware, through a cloud service provider, or on data ownership or access; and</text>
+                </paragraph>
+                <paragraph id="idb18f20a5-5cb4-461e-abc8-7aaf1ae3f4ad" changed="not-changed">
+                    <enum>(5)</enum>
+ <text>an analysis addressing—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idcfb1daca7610424eb259f4872bc1bdc8" changed="not-changed"> <enum>(A)</enum> <text>the accuracy and completeness of the comprehensive assessment;</text>
+                    </subparagraph>
+                    <subparagraph id="id9b10093f-636a-4733-8d0d-e4993c222c64" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>agency management of and compliance with all contracts or other agreements or arrangements that include or reference software entitlements or software management within the agency;</text>
+                    </subparagraph>
+                    <subparagraph id="id854aef19-3372-4757-8c80-71d28da83b77" changed="not-changed">
+                        <enum>(C)</enum>
+ <text>the extent to which the agency accurately captures the total cost of software entitlements and related costs, including the total cost of upgrades over the life of a contract, cloud usage costs, and any other cost associated with the maintenance or servicing of contracts; and</text>
+                    </subparagraph>
+                    <subparagraph id="id46ecdc7e-12d2-4d13-9936-789f660ad351" changed="not-changed">
+                        <enum>(D)</enum>
+ <text>compliance with software license management policies of the agency.</text> </subparagraph> </paragraph> </subsection> <subsection id="idcb85bb85-acf4-4858-bd22-ea3e68962603" changed="not-changed"> <enum>(b)</enum> <header>Contract support</header> <paragraph id="idae77f274-93a3-4f63-8583-c69e13ceb317" changed="not-changed"> <enum>(1)</enum> <header>Authority</header> <text>The head of an agency may enter into 1 or more contracts to support the requirements of subsection (a).</text>
+                </paragraph>
+                <paragraph id="ide5e83d7e-6073-4e64-9bfd-7eebeb282eef" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>No conflict of interest</header>
+ <text>Contracts under paragraph (1) shall not include contractors with organizational conflicts of interest, within the meaning given that term under subpart 9.5 of the Federal Acquisition Regulation.</text>
+                </paragraph>
+                <paragraph id="idfc33b1d9-6fb9-40f9-a13e-5fff29511ccc" changed="not-changed">
+                    <enum>(3)</enum>
+                    <header>Operational independence</header>
+ <text>Over the course of a comprehensive assessment, contractors hired pursuant to paragraph (1) shall maintain operational independence from the integration, management, and operations of the software inventory and software entitlements of the agency.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idf72062a8-6d1c-48ce-be43-8b611d0bb13b" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Submission</header>
+ <text>On the date on which the Chief Information Officer, Chief Financial Officer, Chief Acquisition Officer, the Chief Data Officer, and General Counsel of an agency, or the equivalent officials of the agency, complete the comprehensive assessment, the Chief Information Officer shall submit the comprehensive assessment to the head of the agency.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="ida992f2fcfec8459b8c2cd5db7e34c7d4" changed="not-changed">
+                <enum>(d)</enum>
+                <header>Subsequent submission</header>
+ <text display-inline="yes-display-inline">Not later than 30 days after the date on which the head of an agency receives the comprehensive assessment under subsection (c), the head of the agency shall submit the comprehensive assessment to—</text>
+                <paragraph id="id1ba59183-ab31-4786-a749-9fc9c84d7c43" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>the Director;</text> </paragraph> <paragraph id="idaef6ae26-608e-4cfe-978d-e0d6691aefce" changed="not-changed"> <enum>(2)</enum> <text>the Administrator;</text>
+                </paragraph>
+                <paragraph id="id82a56902-90f4-490c-bad2-9d6550cc08cb" changed="not-changed">
+                    <enum>(3)</enum>
+ <text>the Comptroller General of the United States;</text> </paragraph> <paragraph id="id0866b9e1-55c8-4eac-8589-0b197a58e17e" changed="not-changed"> <enum>(4)</enum> <text>the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</committee-name>; and</text>
+                </paragraph>
+                <paragraph id="id0a5921d2-44ed-4edc-93aa-38893aafbfb5" changed="not-changed">
+                    <enum>(5)</enum>
+ <text>the <committee-name committee-id="">Committee on Oversight and Government Reform of the House of Representatives</committee-name>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ide2a36ca0-9b7c-468a-9427-1ae400147126" changed="not-changed">
+                <enum>(e)</enum>
+                <header>Consultation</header>
+ <text>In order to ensure the utility and standardization of the comprehensive assessment of each agency, including to support the development of each plan and the report required under section 4(e)(2), the Director, in consultation with the Administrator, shall share information, best practices, and recommendations relating to the activities performed in the course of a comprehensive assessment of an agency.</text>
+            </subsection>
+        </section>
+        <section id="id0a70664d-bcc4-4559-bfc2-3e8d7dd2a0fa" changed="not-changed">
+            <enum>4.</enum>
+            <header>Software modernization planning at agencies</header>
+            <subsection id="id6bfd0fdf-6362-479f-9bd4-fa83e38baa9c" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>The Chief Information Officer of each agency, in consultation with the Chief Financial Officer, the Chief Acquisition Officer, the Chief Data Officer, and the General Counsel of the agency, or the equivalent officials of the agency, shall use the information developed pursuant to the comprehensive assessment of the agency to develop a plan for the agency—</text>
+                <paragraph id="id2c9c90cb-5945-4e4a-9e4e-c3ed0ab3016b" changed="not-changed">
+                    <enum>(1)</enum>
+ <text>to consolidate software entitlements of the agency;</text> </paragraph> <paragraph id="id433c3ee2-cbdc-4265-892e-9df237996623" changed="not-changed"> <enum>(2)</enum> <text>to ensure that, in order to improve the performance of, and reduce unnecessary costs to, the agency, the Chief Information Officer, Chief Data Officer, and Chief Acquisition Officer of the agency, or the equivalent officers, develop criteria and procedures for how the agency will adopt cost-effective acquisition strategies, including enterprise licensing, across the agency that reduce costs, eliminate excess licenses, and improve performance; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idccc681724b4646ddb3f6f2cd1d3f234a" changed="not-changed">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">to restrict the ability of a bureau, program, component, or operational entity within the agency to acquire, use, develop, or otherwise leverage any software entitlement (or portion thereof) without the approval of the Chief Information Officer of the agency, in consultation with the Chief Acquisition Officer of the agency, or the equivalent officers of the agency.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id0938b395-0d93-467e-96f3-07ce6a719609" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Plan requirements</header>
+ <text>The plan of an agency shall—</text> <paragraph id="iddaf0b71f-7875-4f41-83d0-378958b89709" changed="not-changed"> <enum>(1)</enum> <text>include a detailed strategy for—</text>
+                    <subparagraph id="idecc282d4-f7f7-45be-9b74-a30307930e6d" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>the remediation of any software asset management deficiencies found during the comprehensive assessment of the agency;</text>
+                    </subparagraph>
+                    <subparagraph id="id52df17e6-ebb4-401c-9449-b521f0b3abae" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>the ongoing maintenance of software asset management upon the completion of the remediation;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id48285c377ce146fd8e5b09080c89beb4" changed="not-changed">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">automation of software license management processes and incorporation of discovery tools across the agency;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idbfe3b3e016fc4d758216b18962bc69bd" changed="not-changed">
+                        <enum>(D)</enum>
+ <text display-inline="yes-display-inline">ensuring that officers and employees of the agency are adequately trained in the policies, procedures, rules, regulations, and guidance relating to the software acquisition and development of the agency before entering into any agreement relating to any software entitlement (or portion thereof) for the agency, including training on—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id5139957e813a46c095c3886c5add9199" changed="not-changed">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">negotiating options within contracts to address and minimize provisions that restrict how the agency may deploy, access, or use the software, including restrictions on deployment, access, or use on desktop or server hardware and restrictions on data ownership or access;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id7ef89543ac324a8c9c6dd75a775f3c42" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the differences between acquiring commercial software products and services and acquiring or building custom software; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idc66fed26c59f4795a90d6d4f6fa5a26b" changed="not-changed">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">determining the costs of different types of licenses and options for adjusting licenses to meet increasing or decreasing demand; and</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id6193252c-43eb-4814-b68b-b64ad1bbb1fe" changed="not-changed">
+                        <enum>(E)</enum>
+ <text>maximizing the effectiveness of software deployed by the agency, including, to the extent practicable, leveraging technologies that—</text>
+                        <clause id="idf634e927-ac79-45ad-aba8-df2d195aac74" changed="not-changed">
+                            <enum>(i)</enum>
+ <text>measure actual software usage via analytics that can identify inefficiencies to assist in rationalizing software spending;</text>
+                        </clause>
+                        <clause id="idd08c6640-a1af-428c-95e6-3c252e05159c" changed="not-changed">
+                            <enum>(ii)</enum>
+ <text>allow for segmentation of the user base;</text> </clause> <clause id="idcd85df11-2283-4d25-89e8-5486bd75f420" changed="not-changed"> <enum>(iii)</enum> <text>support effective governance and compliance in the use of software; and</text>
+                        </clause>
+                        <clause commented="no" id="id806a7b8b-e425-4a7a-be8b-21cea0f7b833" changed="not-changed">
+                            <enum>(iv)</enum>
+ <text>support interoperable capabilities between software;</text> </clause> </subparagraph> </paragraph> <paragraph id="id2e8df207-196f-4ee9-9cb6-a0caebbbf760" changed="not-changed"> <enum>(2)</enum> <text>identify categories of software the agency could prioritize for conversion to more cost-effective software licenses, including enterprise licenses, as the software entitlements, contracts, and other agreements or arrangements come up for renewal or renegotiation;</text>
+                </paragraph>
+                <paragraph id="idd83e0661-5244-47a9-98f8-44bfee9169c0" changed="not-changed">
+                    <enum>(3)</enum>
+ <text>provide an estimate of the costs to move toward more enterprise, open-source, or other licenses that do not restrict the use of software by the agency, and the projected cost savings, efficiency measures, and improvements to agency performance throughout the total software lifecycle;</text>
+                </paragraph>
+                <paragraph id="id38347a8e-838c-47a7-80dd-88dfcecd2f23" changed="not-changed">
+                    <enum>(4)</enum>
+ <text>identify potential mitigations to minimize software license restrictions on how such software can be deployed, accessed, or used, including any mitigations that would minimize any such restrictions on desktop or server hardware, through a cloud service provider, or on data ownership or access;</text>
+                </paragraph>
+                <paragraph id="id72e70106-c93e-4294-b0bd-853ae1d8e513" changed="not-changed">
+                    <enum>(5)</enum>
+ <text>ensure that the purchase by the agency of any software is based on publicly available criteria that are not unduly structured to favor any specific vendor, unless prohibited by law (including regulation);</text>
+                </paragraph>
+                <paragraph id="ida6fbe7f7-54c0-4841-a170-e7a1f79bbbc1" changed="not-changed">
+                    <enum>(6)</enum>
+ <text>include any estimates for additional resources, services, or support the agency may need to implement the plan;</text>
+                </paragraph>
+                <paragraph id="id2d8f88fa-0c34-45cc-bcd0-ac6ca26b3faa" changed="not-changed">
+                    <enum>(7)</enum>
+ <text>provide information on the prevalence of software products in use across multiple software categories; and</text>
+                </paragraph>
+                <paragraph id="id9dcc84a7-d5a0-45f6-b68e-e10c64c1b8c1" changed="not-changed">
+                    <enum>(8)</enum>
+ <text>include any additional information, data, or analysis determined necessary by the Chief Information Officer, or other equivalent official, of the agency.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idfe336870-ca84-4cb8-8e09-bdcd4e594ecf" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Support</header>
+ <text>The Chief Information Officer, or other equivalent official, of an agency may request support from the Director and the Administrator for any analysis or developmental needs to create the plan of the agency.</text>
+            </subsection>
+            <subsection id="idb42a4b16-6002-41ff-bba9-b65a7d202dfe" changed="not-changed">
+                <enum>(d)</enum>
+                <header>Agency submission</header>
+ <text>Not later than 1 year after the date on which the head of an agency submits the comprehensive assessment pursuant to section 3(d), the head of the agency shall submit to the Director, the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</committee-name>, and the <committee-name committee-id="">Committee on Oversight and Government Reform of the House of Representatives</committee-name> the plan of the agency.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6da800f22ce94851ae16abbaf72b7968" changed="not-changed">
+                <enum>(e)</enum>
+                <header>Consultation and coordination</header>
+ <text>The Director—</text> <paragraph commented="no" display-inline="no-display-inline" id="idde01b0a376554fedb6f3f3b625690671" changed="not-changed"> <enum>(1)</enum> <text display-inline="yes-display-inline">in coordination with the Administrator, the Chief Information Officers Council, the Chief Acquisition Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, and other government and industry representatives identified by the Director, shall establish processes, using existing reporting functions, as appropriate, to identify, define, and harmonize common definitions, terms and conditions, standardized requirements, and other information and criteria to support agency heads in developing and implementing the plans required by this section; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idda21980d6933425c8a929ce142f3af6e" changed="not-changed">
+                    <enum>(2)</enum>
+ <text>in coordination with the Administrator, and not later than 2 years after the date of enactment of this Act, submit to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</committee-name> and the <committee-name committee-id="">Committee on Oversight and Government Reform of the House of Representatives</committee-name> a report detailing recommendations to leverage Government procurement policies and practices with respect to software acquired by, developed by, deployed within, or in use at 1 or more agencies to—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id0ab54b015d80405cb9216f6f178fc8ff" changed="not-changed">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">increase the interoperability of software licenses, including software entitlements and software built by Government agencies;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3cf3c11e7c5a49079fb4e1ac09a97051" changed="not-changed">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">consolidate licenses, as appropriate;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd914c500f05f461495dac2435ee30de1" changed="not-changed">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">reduce costs;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idaa5aa1d53b834ddb9d74a75aaa16a810" changed="not-changed"> <enum>(D)</enum> <text display-inline="yes-display-inline">improve performance; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id929e688b67164cbd9350d809be45a715" changed="not-changed">
+                        <enum>(E)</enum>
+ <text>modernize the management and oversight of software entitlements and software built by Government agencies, as identified through an analysis of agency plans.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id4fcb5720-723d-426b-9729-8f2599e8fe12" changed="not-changed">
+            <enum>5.</enum>
+            <header>GAO report</header>
+ <text display-inline="no-display-inline">Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee<committee-name committee-id="SSGA00"> on Homeland Security and Governmental Affairs of the Senate</committee-name> and the <committee-name committee-id="">Committee on Oversight and Government Reform of the House of Representatives</committee-name> a report on—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="ide31a020e2c444282909ade8f68683691" changed="not-changed">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Government-wide trends in agency software asset management practices;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id2149c4b36ccc4ff08c37813cbdcb7da9" changed="not-changed">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">comparisons of software asset management practices among agencies;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id71a8d61d69764ee4ab290088024e9569" changed="not-changed">
+                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the establishment by the Director of processes to identify, define, and harmonize common definitions, terms, and conditions under section 4(e);</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id7c5116e79d594b4196e99e506642fe26" changed="not-changed">
+                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">agency compliance with the restrictions on contract support under section 3(b); and</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc71a80f3cb5642838bbf093d7b58018d" changed="not-changed">
+                <enum>(5)</enum>
+ <text display-inline="yes-display-inline">other analyses of and findings regarding the plans of agencies, as determined by the Comptroller General of the United States.</text>
+            </paragraph>
+        </section>
+        <section id="id9e706cb1af804ff4b8292e9f4df0796c" changed="not-changed">
+            <enum>6.</enum>
+            <header>No additional funds</header>
+ <text display-inline="no-display-inline">No additional funds are authorized to be appropriated for the purpose of carrying out this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

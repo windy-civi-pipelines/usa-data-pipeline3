@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-RIL25639-S7R-CJ-3H7">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2710 IS: Open Payments Expansion Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2710</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250904">September 4, 2025</action-date>
+            <action-desc><sponsor name-id="S153">Mr. Grassley</sponsor> (for himself and <cosponsor name-id="S388">Ms. Hassan</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XI of the Social Security Act to require pharmaceutical and
+            device manufacturers to publicly disclose covered payments made to patient advocacy
+            organizations.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Open Payments Expansion Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id9266c0261aee43e18c4ca8364163564a">
+            <enum>2.</enum>
+            <header>Disclosure of pharmaceutical and device manufacturer covered payments to patient
+                advocacy organizations</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ida1bf7d019a244726ba94914aae4afcea">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1128G of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-7h">42 U.S.C. 1320a–7h</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7bb76b7b32b549dba8922b7dc4296f0e">
+                    <enum>(1)</enum>
+ <text>in subsection (a), by adding at the end the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id32FF4CC5E1B844B1891D4A0D799067AC">
+                        <paragraph id="idcdb096e9f46c42aabd7ad8e03c933acf">
+                            <enum>(3)</enum>
+                            <header>Donations to patient advocacy organizations</header>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc0192f2574b648988294a8649b3c18bd">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>In addition to the requirements under paragraphs (1) and (2), on March 31, 2027, and on the 90th day of each calendar year beginning thereafter, any applicable manufacturer or applicable group purchasing organization shall submit to the Secretary, in such electronic form as the Secretary shall require, details regarding any covered payment made by such manufacturer or organization to any patient advocacy organization, including—</text>
+                                <clause commented="no" id="id54628148ea7548d383acd61c1f25c1a3">
+                                    <enum>(i)</enum>
+ <text>the name of the patient advocacy organization; and</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id7fd72119586d4f549c0e221cc0ab6025"> <enum>(ii)</enum> <text>the amount of the covered payment.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id2d091542f89d4699ae14114e98664e3c">
+                                <enum>(B)</enum>
+                                <header>Definitions</header>
+ <text>In this paragraph:</text> <clause commented="no" display-inline="no-display-inline" id="idd6a4924db7ff480598a7b4cc8d8cd572"> <enum>(i)</enum> <header>Covered payment</header> <text>The term <term>covered payment</term> means any—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id02f942bc9969446a9bf7dc3bff48fc32">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">payment or other transfer of value; or </text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id8941f1022fc7492f8f2bcd3acfc107ae">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">indirect payment or other transfer of value.</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id7b7893cbea9547d09522e4843fbf35f4">
+                                    <enum>(ii)</enum>
+                                    <header display-inline="yes-display-inline">Indirect payment or
+                                        other transfer of value</header>
+ <text>The term <term>indirect payment or other transfer of value</term> means a payment or other transfer of value made by an applicable manufacturer or applicable group purchasing organization to a patient advocacy organization through a third party, where the applicable manufacturer or applicable group purchasing organization requires, instructs, directs, or otherwise causes the third party to provide the payment or transfer of value, in whole or in part, to a patient advocacy organization.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idd3cd5be0eaa741ae9526bc597513c53b">
+                                    <enum>(iii)</enum>
+                                    <header display-inline="yes-display-inline">Patient advocacy
+                                        organization</header>
+ <text>The term <term>patient advocacy organization</term> means an organization described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)(3)</external-xref> of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code that—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id7e42f28797944ce08082a895be6df26c">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">provides education, advocacy, and support services oriented towards patients and caregivers;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="id2c11b9c368b74830a3f7e1a1bd04778b">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">is concerned with a medical condition diagnosed by a licensed medical practitioner who is in good standing with a State licensing body; or</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idb4856653501d4b21b6b049213ab734fb">
+                                        <enum>(III)</enum>
+ <text display-inline="yes-display-inline">has a mission that seeks to help vulnerable individuals affected by medical conditions or to help the families of such vulnerable individuals and takes actions consistent with such mission.</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2c881e400b06411ead2638aac685d663">
+                    <enum>(2)</enum>
+ <text>in subsection (c)(1)(C)(ix), by striking <quote>or covered recipient</quote> each place it appears and inserting <quote>covered recipient, or patient advocacy organization</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idd9c9a894aaa441e099646717ff7c44e8">
+                <enum>(b)</enum>
+                <header>Administration</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">Chapter 35</external-xref> of title 44, United States Code, shall not apply to this section or the amendments made by this section.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
