@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BAG25019-L9W-XX-VKN">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2425 IS: Intelligence Community Property Security Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2425</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S381">Mr. Rounds</sponsor> (for himself, <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S252">Ms.
+                    Collins</cosponsor>, <cosponsor name-id="S287">Mr. Cornyn</cosponsor>, and
+                    <cosponsor name-id="S323">Mr. Risch</cosponsor>) introduced the following bill;
+                which was read twice and referred to the Select <committee-name committee-id="SLIN00">Committee on Intelligence</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the National Security Act of 1947 to provide penalties for
+            unauthorized access to intelligence community property, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Intelligence Community Property Security Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idC3FA8206089942A7B965E78474649433">
+            <enum>2.</enum>
+            <header>Unauthorized access to intelligence community property</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id4384b39c54734450b42a2f99e8831897">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text>The National Security Act of 1947 (<external-xref legal-doc="usc" parsable-cite="usc/50/3001">50 U.S.C. 3001 et seq.</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block id="idD8CCD27AD50B41BE8314A2BAA2B68EA9" style="OLC" act-name="">
+                    <section id="id458BF01142EA46F8BD97FF8CCD548096">
+                        <enum>1115.</enum>
+                        <header>Unauthorized access to intelligence community property</header>
+                        <subsection commented="no" display-inline="no-display-inline" id="idC27B95F3C00F4147B0142BDE416E43FB">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text>It shall be unlawful, within the jurisdiction of the United States, without authorization to access any property that—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id2D85A79FCF044DF9A1EFBEF654EA0AFE">
+                                <enum>(1)</enum>
+ <text>is under the jurisdiction of an element of the intelligence community; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id4027D4D72E4E42628EBF7048E9B1552C">
+                                <enum>(2)</enum>
+ <text>has been clearly marked as closed or restricted.</text> </paragraph> </subsection> <subsection id="id912241D912664D5DA6C4B3E7424D801F"> <enum>(b)</enum> <header>Penalties</header> <text>Any person who violates subsection (a) shall—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idD185FBE617454D8FB47B29A810245DFF">
+                                <enum>(1)</enum>
+ <text>in the case of the first offense, be fined under title 18, United States Code, imprisoned for not more than 180 days, or both; </text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idF62CE5F287D74B8EA1880F355F106555">
+                                <enum>(2)</enum>
+ <text>in the case of the second offense, be fined under such title, imprisoned for not more than 3 years, or both; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id8A4CE483E4B34A83BC89DB5754292535">
+                                <enum>(3)</enum>
+ <text>in the case of the third or subsequent offense, be fined under such title, imprisoned for not more than 10 years, or both. </text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf5350a5d7ed14712a23cc8f0761069cf">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Clerical amendment</header>
+ <text>The table of contents preceding section 2 of such Act is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id9A4912E1F73D48B0AC15102AE4A9E94B">
+                    <toc>
+                        <toc-entry level="section" bold="off">Sec. 1115. Unauthorized access to
+                            intelligence community property.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAA13D88549344A508DBAD78D4502963D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 3961 IH: To prohibit the Secretary of Defense from entering into software source code contracts with entities with certain relationships with China, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-06-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3961</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20250612">June 12, 2025</action-date><action-desc><sponsor name-id="F000246">Mr. Fallon</sponsor> (for himself, <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>, <cosponsor name-id="M001239">Mr. McGuire</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="M001218">Mr. McCormick</cosponsor>, and <cosponsor name-id="G000589">Mr. Gooden</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Defense from entering into software source code contracts with entities with certain relationships with China, and for other purposes.</official-title></form><legis-body id="H33A59EC75B9D4A55A1F8CAF5F39B7DAE" style="OLC"> 
+<section id="HFA2B6740025F428EADE464A1A7A93404" display-inline="no-display-inline" section-type="section-one"><enum>1.</enum><header>Prohibition on software source code contracts with entities with certain relationships with China</header> 
+<subsection id="HBF0E67A8DD8A447C9148B35D023AEA64"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Defense may not enter into, renew, or extend a contract for the provision of software source code with a person described in subsection (b).</text></subsection> <subsection id="H848F8977E32A4AACAF7024979CCFCDCD"> <enum>(b)</enum> <header>Person described</header> <text>A person described in this subsection is a person that—</text>
+        <paragraph id="H82C26DBEF0424F3C8E225EBB0F4E4A36">
+          <enum>(1)</enum>
+ <text>owns, operates, substantially funds, or has a material interest in a facility located in covered country, if such facility has a primary purpose (as determined by the Secretary) of researching or developing artificial intelligence;</text>
+        </paragraph>
+        <paragraph id="HF6105F3B53BF42A1A3335FF8EABB9DC4">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">has allowed a covered country to access to the software, or the source code relating to such software, that is the subject of the contract, where such access could allow the covered country to reverse engineer such software source code; or</text>
+        </paragraph>
+        <paragraph id="H490C8B68724D4B2893B0D7A12E6C9098">
+          <enum>(3)</enum>
+ <text>operates a data center (as such term is defined in section 453 of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17112">42 U.S.C. 17112</external-xref>)) in a covered country with respect to such software source code, including a data center operated—</text>
+          <subparagraph id="H4CDA292F5D0D45ED915343AC03FE88DA">
+            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">by a parent, subsidiary, or affiliate of an entity seeking to enter into, renew, or extend a contract with the Secretary; or</text>
+          </subparagraph>
+          <subparagraph id="HF9B813CCAA8B43E2A554B15179C14A31">
+            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">on behalf of such an entity by a covered country.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection> 
+<subsection id="HB468725CBC114B2E8275AFFE8554BA89" display-inline="no-display-inline"><enum>(c)</enum><header>Waiver authority</header><text>The Secretary may waive the prohibition under this section if the Secretary determines such a waiver is in the national security interests of the United States.</text></subsection> <subsection id="HD0FA1CDD4856499394C11A55A17530F6"> <enum>(d)</enum> <header>Applicability</header> <text>This section shall apply only with respect to contracts entered into, renewed, or extended within three years after the date of the enactment of such section.</text>
+            </subsection> 
+<subsection id="H36B18013F46C44B4905EBE991A369C1D"><enum>(e)</enum><header>Definitions</header><text>In this Act:</text> <paragraph id="H05FAEE01773E4C40A3F6055F189E2376"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>covered country</term> has the meaning given the term <term>covered foreign entity</term> in section 812 of the National Defense AuthorizationAct for Fiscal Year 2024 (<external-xref legal-doc="public-law" parsable-cite="pl/118/31">Public Law 118–31</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/4501">10 U.S.C. 4501</external-xref> note prec.).</text></paragraph> 
+<paragraph id="HB54513C02EC3478D95AEF528B42F43AC"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>material interest</term> means a financial or other interest that the Secretary determines is significant enough to influence a decision or action of an individual.</text></paragraph></subsection></section> </legis-body></bill>
+

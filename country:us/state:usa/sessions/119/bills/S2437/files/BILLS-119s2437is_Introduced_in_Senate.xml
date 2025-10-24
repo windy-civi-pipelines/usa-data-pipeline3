@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-FLO25700-N75-FS-8MS">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2437 IS: Snow Water Supply Forecasting Program Reauthorization Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2437</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S408">Mr. Hickenlooper</sponsor> (for himself and
+                    <cosponsor name-id="S431">Mr. Curtis</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Snow Water Supply Forecasting Program Authorization Act to
+            reauthorize the Snow Water Supply Forecasting Program, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Snow Water Supply Forecasting Program Reauthorization Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id6325197f15e34af7b286e105c9711f86">
+            <enum>2.</enum>
+            <header>Snow Water Supply Forecasting Program</header>
+ <text display-inline="no-display-inline">The Snow Water Supply Forecasting Program Authorization Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1477">43 U.S.C. 1477</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="idc93856fcc3c84676acf985080e5e22d5">
+                <enum>(1)</enum>
+ <text>in subsection (c)(2)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id8b3582b17e084a82a96da5501ff0f6b7"> <enum>(A)</enum> <text display-inline="yes-display-inline">in subparagraph (A), by striking <quote>culminating in the report required under subsection (d)(3)</quote> and inserting <quote>with an emphasis on development and deployment of technologies that integrate snowpack measuring and modeling</quote>; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id8925eb3564e84b2caefd5b453416a3cc">
+                    <enum>(B)</enum>
+ <text>in subparagraph (B), by striking <quote>after submitting the report required by subsection (d)(3),</quote>;</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id99e49f2bcc4541c689d20420b423e72c">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in subsection (d)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id6019cbb72f3e43fba1ab98abcf7df3fa"> <enum>(A)</enum> <text>in paragraph (1)—</text>
+                    <clause commented="no" display-inline="no-display-inline" id="id328a3f9b29384f829bafec7f396c4781">
+                        <enum>(i)</enum>
+ <text>in the paragraph heading, by inserting <quote><header-in-text style="OLC" level="paragraph">with integrated modeling</header-in-text></quote> after <quote><header-in-text style="OLC" level="paragraph">data</header-in-text></quote>;</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="idf389e8c92e53452eade5bf3645b90ca1">
+                        <enum>(ii)</enum>
+ <text>in the matter preceding subparagraph (A), by striking <quote>emerging technologies for snowpack measurement, such as</quote> and inserting <quote>technologies for snowpack measurements and models, including</quote>;</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id1500dcd285d247979f11833796ebd68f">
+                        <enum>(iii)</enum>
+ <text>in subparagraph (B), by striking <quote>and</quote> at the end; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id8c6814cd83f7415b93ed2a90b168819c">
+                        <enum>(iv)</enum>
+ <text>by striking subparagraph (C) and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id5563a66bb472412bbb8b5731f132885d"> <subparagraph commented="no" display-inline="no-display-inline" id="id19533ab0050b4213859ebafa36ae4011"> <enum>(C)</enum> <text>imaging spectroscopy;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id14d5d4dbec9946a892576705228be7ad">
+                                <enum>(D)</enum>
+ <text>machine learning;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id440f1b7dd5c247b9b5047ece6371d103"> <enum>(E)</enum> <text>integrated snowpack and hydrologic modeling; and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id532781415b3441df96c74261bb31a864">
+                                <enum>(F)</enum>
+ <text>other technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data to inform water management and reservoir operations.</text>
+                            </subparagraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idf4f66f1a61b34ba9a489a1831272394e">
+                    <enum>(B)</enum>
+ <text>in paragraph (2), by striking <quote>emerging technologies for snowpack measurement</quote> and inserting <quote>technologies for snowpack measurement, including the Department of Agriculture and the National Oceanic and Atmospheric Administration</quote>; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id4931b6681ed840aaaf42bc2402ef437e">
+                    <enum>(C)</enum>
+ <text>by striking paragraph (3);</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idbed77269290d44988c2d6fd350ae5f93"> <enum>(3)</enum> <text>in subsection (e)—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="ida9f6aff24cea41f682778a5fd7653f1c">
+                    <enum>(A)</enum>
+ <text>in paragraph (1)—</text> <clause commented="no" display-inline="no-display-inline" id="idc92ee362c960412a855c2df69a2bfe59"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>After submitting the report required under subsection (d)(3), the</quote> and inserting <quote>The</quote>; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id503012b1a34449ab86524a66978e1266">
+                        <enum>(ii)</enum>
+ <text>by inserting <quote>and water supply forecasts</quote> after <quote>snowpack measurement</quote>; and</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idff3c91b029c640c6a10f71b22ad7b633">
+                    <enum>(B)</enum>
+ <text>by striking paragraph (2) and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id8c28e53b292a4a3cadf86befc9b904f7"> <paragraph id="PH878F5D9E97FE41DC84E5C66A56642E27" commented="no" display-inline="no-display-inline"> <enum>(2)</enum> <header display-inline="yes-display-inline">Focus</header> <text display-inline="yes-display-inline">The program shall focus on activities that will maintain, establish, expand, or advance snowpack measurement and integrated modeling, with an emphasis on—</text>
+                            <subparagraph id="PHA6B28D1E87F84A879F97F22C2E68E395" commented="no" display-inline="no-display-inline">
+                                <enum>(A)</enum>
+ <text>enhancing activities to achieve improved snow and water supply forecasting results that are more responsive to changing weather and watershed conditions;</text>
+                            </subparagraph>
+                            <subparagraph id="PH71C3E31F7FD3453693FDCCBF745D9582" commented="no" display-inline="no-display-inline">
+                                <enum>(B)</enum>
+ <text>activities in river basins where activities described in this section relating to snowpack measurement and water supply forecasting can inform water management decisions or models at a multi-water user, multi-basin, or multi-State scale, including interstate water management decisions; and</text>
+                            </subparagraph>
+                            <subparagraph id="PH93EC07826B6C480886066A18BF2B7CF3" commented="no" display-inline="no-display-inline">
+                                <enum>(C)</enum>
+ <text>building the capacity of program partners to implement and adapt to the new measurement and forecasting capabilities enabled under the program.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id92266a47cf1445e2ae271d3560a8dbdb">
+                <enum>(4)</enum>
+ <text>in subsection (f)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id446c2b28fb1d44369af3941be62f180e"> <enum>(A)</enum> <text>in the matter preceding paragraph (1), by striking <quote>this Act</quote> and inserting <quote>the <short-title>Snow Water Supply Forecasting Program Reauthorization Act of 2025</short-title></quote>;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idb4134cc3959a45bc910903cf50839a07">
+                    <enum>(B)</enum>
+ <text>in paragraph (2), by striking <quote>or sub-basin</quote>;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id2923cd4480ee4b5eb09d880c19a5aa07"> <enum>(C)</enum> <text>by redesignating paragraph (2) as paragraph (3); and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id6b7e6d34c2444bafaa286c1a5e4b1f9e">
+                    <enum>(D)</enum>
+ <text>by striking paragraph (1) and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id04ca32d77d754c65bd89c0e4c332b17a"> <paragraph commented="no" display-inline="no-display-inline" id="id29483d4cdcf24f40bd3faa8a6221cb86"> <enum>(1)</enum> <text>a list of basins for which snowpack measurement and integrated modeling technologies are being used under the program, including a description of each application, outcome, and data resource used;</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id93792ce59e914102a45ca172d58c9890">
+                            <enum>(2)</enum>
+ <text>an assessment of which technologies best inform water supply forecasting for multiple water districts, communities, or States; and</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idedc3886cf8d245659478e627101eb97f">
+                <enum>(5)</enum>
+ <text>in subsection (g), by striking <quote>$15,000,000, in the aggregate, for fiscal years 2022 through 2026</quote> and inserting <quote>$6,500,000 for each of fiscal years 2027 through 2031</quote>.</text>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

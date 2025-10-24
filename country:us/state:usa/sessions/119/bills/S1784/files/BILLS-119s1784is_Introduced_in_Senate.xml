@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-TAM25608-4LV-MM-5GG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1784 IS: Mapping America's Pharmaceutical Supply Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1784</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250515">May 15, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself, <cosponsor name-id="S378">Mr. Lankford</cosponsor>, <cosponsor name-id="S376">Ms.
+                    Ernst</cosponsor>, <cosponsor name-id="S374">Mr. Cotton</cosponsor>, <cosponsor name-id="S362">Mr. Kaine</cosponsor>, <cosponsor name-id="S363">Mr.
+                    King</cosponsor>, and <cosponsor name-id="S404">Mr. Scott of
+                Florida</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSHR00">Committee on Health,
+                    Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To improve coordination of Federal efforts to identify and mitigate health
+            and national security risks through maintaining a list of essential medicines,
+            conducting a risk assessment of essential medicine supply chains, and creating a
+            monitoring system to map essential medicine supply chains using data
+            analytics.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section commented="no" section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mapping America's Pharmaceutical Supply Act</short-title></quote> or the <quote><short-title>MAPS Act</short-title></quote>.</text>
+        </section>
+        <section id="id6df2446de3ad48b68ce7c7aed516378a">
+            <enum>2.</enum>
+            <header>Essential Medicines List</header>
+            <subsection id="id78691f66d196404dac761ad65ce2ea1f">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>The Secretary, in coordination with the heads of other relevant Federal departments and agencies and in consultation with, as appropriate, stakeholders who have relevant expertise, shall update and maintain a list of essential medicines (referred to in this Act as the <quote>Essential Medicines List</quote>), initially developed in response to Executive Order 13944 (85 Fed. Reg. 49929), to include active pharmaceutical ingredients and drugs—</text>
+                <paragraph id="id6e05eedb155447d8854347ec7c2833b4">
+                    <enum>(1)</enum>
+ <text>that are directly related to responding to chemical, biological, radiological, or nuclear threats and incidents covered by the National Response Framework;</text>
+                </paragraph>
+                <paragraph id="id25134f1b8d79416ea046ab7dd4dd22c0">
+                    <enum>(2)</enum>
+ <text>of greatest priority for providing health care and identified as being at high risk of shortage;</text>
+                </paragraph>
+                <paragraph id="id3e711bdc6c1c4a27b3871c1abfe48a58">
+                    <enum>(3)</enum>
+ <text>the shortage of which would have an adverse health outcome on patients with chronic conditions; or</text>
+                </paragraph>
+                <paragraph id="idb5ba326137f34580a755f6f2ca4cc024">
+                    <enum>(4)</enum>
+ <text>that the Secretary of Defense determines to be critical for military preparedness.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id98fd19c9b0ff478bb0bca1e81ab8a2ec">
+                <enum>(b)</enum>
+                <header>Updates to list</header>
+ <text>The Secretary shall update the Essential Medicines List regularly, on a timeframe that the Secretary determines necessary and appropriate, and not less frequently than every 2 years.</text>
+            </subsection>
+            <subsection id="id39180e1250a647a1bde1eb5d97642f8a">
+                <enum>(c)</enum>
+                <header>Compilation of initial list</header>
+ <text>The Secretary shall complete the first updates to the Essential Medicines List required pursuant to subsection (a) not later than 180 days after the date of enactment of this Act.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id4edc269cb28042c382f59c43ccb4555d">
+                <enum>(d)</enum>
+                <header>Publication of list</header>
+ <text>The Secretary shall publish the Essential Medicines List promptly after each update pursuant to subsection (b) or (c).</text>
+            </subsection>
+        </section>
+        <section id="id50f35feb280a49089a188d57b1d5dcb8">
+            <enum>3.</enum>
+            <header>Essential medicines risk assessment</header>
+            <subsection id="idff186af4ce9d4d4c84e8483b845f85fd">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>The Secretary, in coordination with the Secretary of Defense and in consultation with the heads of other relevant departments and agencies, shall conduct a comprehensive risk assessment of the supply chains for active pharmaceutical ingredients and drugs included on the Essential Medicines List described in section 2.</text>
+            </subsection>
+            <subsection id="id1fc0af1d05414f589b66e1a34f0394e8">
+                <enum>(b)</enum>
+                <header>Contents of essential medicines risk assessment</header>
+ <text>At a minimum, the risk assessment under subsection (a) shall identify, to the extent available—</text>
+                <paragraph id="idce6a1926123b4a2a8487935383926071">
+                    <enum>(1)</enum>
+ <text>key starting materials and excipients used in manufacturing the active pharmaceutical ingredients and drugs on the Essential Medicines List;</text>
+                </paragraph>
+                <paragraph id="id0b9a219d2e034af983f811decc206bd0">
+                    <enum>(2)</enum>
+ <text>the active pharmaceutical ingredients and drugs on the Essential Medicines List that rely on a high-risk foreign supplier or foreign entity of concern (as defined in section 9901(8) of the William M. (Mac) Thornberry National Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="usc" parsable-cite="usc/15/4651">15 U.S.C. 4651(8)</external-xref>)) for more than 50 percent of production;</text>
+                </paragraph>
+                <paragraph id="id48cc6d76a4254a7991e215c465d664fe">
+                    <enum>(3)</enum>
+ <text>the active pharmaceutical ingredients and drugs on the Essential Medicines List that are sourced exclusively or primarily from foreign establishments, including drugs manufactured domestically from active pharmaceutical ingredients sourced exclusively or primarily from foreign establishments;</text>
+                </paragraph>
+                <paragraph id="id616a1877a8e64977bef197a2f0d6348d">
+                    <enum>(4)</enum>
+ <text>current domestic manufacturing capabilities for active pharmaceutical ingredients and drugs on the Essential Medicines List, including the key starting materials and excipients of such ingredients and drugs, and any cost-effective manufacturing technologies, including advanced manufacturing;</text>
+                </paragraph>
+                <paragraph id="ide0dc34db14ac4840b4eee02d8f13672c">
+                    <enum>(5)</enum>
+ <text>public health and national security risks, including cybersecurity threats and critical infrastructure designations specific to the supply chains of active pharmaceutical ingredients and drugs included on the Essential Medicines List;</text>
+                </paragraph>
+                <paragraph id="idb635669484864363805a34fff9915dda">
+                    <enum>(6)</enum>
+ <text>any deficiencies, lack of authorities, or limitations in policy or process that reduce the ability of the Federal Government to address any identified public health or national security risks related to supply chains for active pharmaceutical ingredients and drugs included on the Essential Medicines List; and</text>
+                </paragraph>
+                <paragraph id="id343080fc20204a56b40c916bdbbf700d">
+                    <enum>(7)</enum>
+ <text>how the Federal Government will mitigate such national security risks, including through the use of authorities under the Defense Production Act of 1950 (<external-xref legal-doc="usc" parsable-cite="usc/50/4501">50 U.S.C. 4501 et seq.</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id9ce5162719f9446381668368187825e3">
+                <enum>(c)</enum>
+                <header>Report on assessment</header>
+                <paragraph id="idd133379219b7491ea03db993dece9ee9">
+                    <enum>(1)</enum>
+                    <header>Submission of report</header>
+ <text>Not later than 180 days after the date of enactment of this Act, and annually thereafter, the Secretary, in consultation with the heads of relevant Federal departments and agencies consulted under subsection (a), shall submit a report with the findings under subsection (b) to—</text>
+                    <subparagraph id="idac4cb1e94ae44cb0830dc602db3cc9ab">
+                        <enum>(A)</enum>
+ <text>the Committee on Armed Services, the Committee on Health, Education, Labor, and Pensions, and the Committee on Homeland Security and Governmental Affairs of the Senate;</text>
+                    </subparagraph>
+                    <subparagraph id="idee90b4bfe420420ea3edeb157ee7da01">
+                        <enum>(B)</enum>
+ <text>the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Homeland Security of the House of Representatives; and</text>
+                    </subparagraph>
+                    <subparagraph id="id72c208f8dcdb4b959bdb3813fc09502c">
+                        <enum>(C)</enum>
+ <text>the Office of the Director of National Intelligence.</text> </subparagraph> </paragraph> <paragraph id="idc4c4a3152a164d4c88bd41de516e56bf"> <enum>(2)</enum> <header>Publication of report</header> <text>Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the heads of relevant Federal departments and agencies consulted under subsection (a), shall release a public version of the report submitted under paragraph (1).</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idbc486b60ab3c4a34b74467adc42e8bc8">
+            <enum>4.</enum>
+            <header>U.S. pharmaceutical supply chains mapping</header>
+            <subsection id="id78179b26d2084e4096ab101ac1f4a102">
+                <enum>(a)</enum>
+                <header>Pharmaceutical supply chain mapping</header>
+ <text>The Secretary of Health and Human Services (referred to in this section as the <quote>Secretary</quote>), in coordination with the heads of other relevant Federal departments and agencies, shall ensure coordination of efforts of the Department of Health and Human Services, including through public-private partnerships, to—</text>
+                <paragraph id="idce24f96b98ef4122b9df0455fc86dc2c">
+                    <enum>(1)</enum>
+ <text>map, or otherwise visualize, the supply chains, from manufacturing of key starting materials through manufacturing of finished dosage forms and distribution, of drugs (as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/321">21 U.S.C. 321</external-xref>)) included on the Essential Medicines List under section 2; and</text>
+                </paragraph>
+                <paragraph id="id62f5b21850814cc9aa344a6a8deb7304">
+                    <enum>(2)</enum>
+ <text>use data analytics to identify supply chain vulnerabilities that pose a threat to national security, as determined by the Secretary or the heads of other relevant Federal departments and agencies.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="ida2dc571300d3496383428a6208203f45">
+                <enum>(b)</enum>
+                <header>Requirements</header>
+ <text>In carrying out subsection (a), the Secretary shall—</text> <paragraph id="idb0421c34d51f489881126ddbef1fb64a"> <enum>(1)</enum> <text>describe the roles and responsibilities of agencies and offices within the Department of Health and Human Services related to monitoring such supply chains and assessing any related vulnerabilities; and</text>
+                </paragraph>
+                <paragraph id="id5b5de80453be42a399cb3d2b396c6dee">
+                    <enum>(2)</enum>
+ <text>facilitate the exchange of information between Federal departments, agencies, and offices, as appropriate and necessary to enable such agencies and offices to carry out roles and responsibilities described in paragraph (1) related to drugs described in subsection (a)(1), which may include—</text>
+                    <subparagraph id="id6ae371c67d66408ca8f0d1cfe90dfd82">
+                        <enum>(A)</enum>
+ <text>the location of establishments registered under subsection (b), (c), or (i) of section 510 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360">21 U.S.C. 360</external-xref>) involved in the production of active pharmaceutical ingredients and finished dosage forms of drugs described in subsection (a)(1), and the amount of such ingredients and finished dosage forms produced at each such establishment;</text>
+                    </subparagraph>
+                    <subparagraph id="ide1210ca0f21a43408aa1b7fb72777fdf">
+                        <enum>(B)</enum>
+ <text>to the extent available and as appropriate, the location of establishments so registered involved in the production of the key starting materials and excipients needed to produce the active pharmaceutical ingredients and finished dosage forms, and the amount of such materials and excipients produced at each such establishment; and</text>
+                    </subparagraph>
+                    <subparagraph id="id9ab760fe0c6842849c24604e12875388">
+                        <enum>(C)</enum>
+ <text>any regulatory actions with respect to such drugs or the establishments manufacturing such drugs, including with respect to inspections and related regulatory activities conducted under section 704 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/21/374">21 U.S.C. 374</external-xref>), the seizure of such a drug pursuant to section 304 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/21/334">21 U.S.C. 334</external-xref>), any recalls of such a drug; inclusion of such a drug on the drug shortage list under section 506E of such Act (<external-xref legal-doc="usc" parsable-cite="usc/21/356e">21 U.S.C. 356e</external-xref>), or prior drug shortages reports of a discontinuance or interruption in the production of such a drug under 506C of such Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355d">21 U.S.C. 355d</external-xref>).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id6dc005d3657c48fab47720aa9f5ce4ea">
+                <enum>(c)</enum>
+                <header>Report</header>
+ <text>Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Secretary, in consultation with the heads of agencies with which the Secretary coordinates under subsection (a), shall submit a report to the relevant committees of Congress on—</text>
+                <paragraph id="id6d16b43fe3c048ed9229c46f05e15110">
+                    <enum>(1)</enum>
+ <text>the current status of efforts to map and analyze pharmaceutical supply chains, as described in subsection (a);</text>
+                </paragraph>
+                <paragraph id="id26caf3b076fc42de8580f66f154d8674">
+                    <enum>(2)</enum>
+ <text>activities of the Secretary carried out under this section to coordinate efforts as described in subsection (a), including information sharing between relevant Federal departments, agencies, and offices;</text>
+                </paragraph>
+                <paragraph id="id16e0616f88e44e90aba88fb2854473a4">
+                    <enum>(3)</enum>
+ <text>the roles and responsibilities described in subsection (b)(1), including the identification of any gaps, data limitations, or areas of unnecessary duplication between such roles and responsibilities;</text>
+                </paragraph>
+                <paragraph id="idc05abaa4b23647a492bda8cfd4d04c97">
+                    <enum>(4)</enum>
+ <text>the extent to which Federal agencies use data analytics to conduct predictive modeling of anticipated drug shortages or risks associated with supply chain vulnerabilities that pose a threat to national security; and</text>
+                </paragraph>
+                <paragraph id="id56aaed6203c74c0cb57687689eb57b65">
+                    <enum>(5)</enum>
+ <text>the extent to which the Secretary has engaged relevant industry in such mapping.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="idfc539db745a7407b9ae06ef65ad0b284">
+            <enum>5.</enum>
+            <header>Department of Defense biannual reports</header>
+ <text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter, the Secretary of Defense shall submit to the congressional committees described in subparagraphs (A) and (B) of section 3(c)(1) a report that lists all drugs purchased by the Department of Defense during the 180-day period preceding the date of the report—</text>
+            <paragraph id="id2fcb223cea80436d97124d407c8b02f9">
+                <enum>(1)</enum>
+ <text>that contain key starting materials, excipients, or active pharmaceutical ingredients sourced from the People’s Republic of China; or</text>
+            </paragraph>
+            <paragraph id="idab085525ee58420c93b639e019cdd2c3">
+                <enum>(2)</enum>
+ <text>for which the finished drug product was manufactured in the People’s Republic of China.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id603ef5de0f1b46c79bf900ddacbf6ba2">
+            <enum>6.</enum>
+            <header display-inline="yes-display-inline">Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" id="id37f784de2bf54eeca36be1dff8986450"> <enum>(1)</enum> <header>Advanced manufacturing</header> <text>The term <term>advanced manufacturing</term> has the meaning given the term <term>advanced and continuous pharmaceutical manufacturing</term> in section 3016(h) of the 21st Century Cures Act (<external-xref legal-doc="usc" parsable-cite="usc/21/399h">21 U.S.C. 399h(h)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id749a28061c0e4206ad394338b2a043d9">
+                <enum>(2)</enum>
+                <header>Cybersecurity threat</header>
+ <text>The term <term>cybersecurity threat</term> has the meaning given such term in section 2200 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/650">6 U.S.C. 650</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" id="idcc2215e539cb4dfeb47af1dc2c98daf2">
+                <enum>(3)</enum>
+                <header>Drug</header>
+ <text>The term <term>drug</term> has the meaning given such term in section 201(g) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/321">21 U.S.C. 321(g)</external-xref>).</text>
+            </paragraph>
+            <paragraph id="id72c718288f3c42d3bc737901499cc178">
+                <enum>(4)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term>, except as otherwise specified, means the Secretary of Health and Human Services.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id2c1093ca1e934a07b12cb50ac3acf01e">
+            <enum>7.</enum>
+            <header>Additional provisions</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id4b21097f74fd4f86a815c241b5db3000">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Clarification</header>
+ <text display-inline="yes-display-inline">The participation of the Secretary in developing and updating the list of essential medicines under section 2 shall be deemed to be full satisfaction of the requirements applicable to such secretary under section 3 of Executive Order 13944 (85 Fed. Reg. 49929).</text>
+            </subsection>
+            <subsection id="id69597ece3efe44a286b91f983d748555">
+                <enum>(b)</enum>
+                <header>Confidential commercial information</header>
+ <text>The exchange of information among the Secretary and the heads of other relevant Federal departments and agencies for purposes of carrying out sections 3 and 4 shall not be a violation of section 1905 of title 18, United States Code. This section shall not be construed to affect the status, if any, of such information as trade secret or confidential commercial information for purposes of section 301(j) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/331">21 U.S.C. 331(j)</external-xref>), section 552 of title 5, United States Code, or section 1905 of title 18, United States Code.</text>
+            </subsection>
+            <subsection id="idd33ed7416b0742e185f06a5aa8bb40f8">
+                <enum>(c)</enum>
+                <header>Cybersecurity measures</header>
+ <text>The Secretary shall ensure that robust cybersecurity measures are in place to prevent inappropriate access to, or unauthorized disclosure of, the information identified, exchanged, or disclosed under sections 3 and 4.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
