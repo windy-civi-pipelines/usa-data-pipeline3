@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT25270-TGN-TN-KLH">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1719 IS: Primary Care Enhancement Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1719</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250512">May 12, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> (for himself, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>, <cosponsor name-id="S365">Mr. Scott of
+                    South Carolina</cosponsor>, <cosponsor name-id="S406">Mr. Kelly</cosponsor>, and
+                    <cosponsor name-id="S378">Mr. Lankford</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to provide for the treatment of
+            direct primary care service arrangements as medical care, to provide that such
+            arrangements do not disqualify deductible health savings account contributions, and for
+            other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H53B1DEF3228F469C94A4CCDED31DDA1B">
+        <section section-type="section-one" id="H04A3F855B7C04D38A76D1968889CD00B">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Primary Care Enhancement Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H3BD3D22061E74BC99FECAF033A300A16">
+            <enum>2.</enum>
+            <header>Treatment of direct primary care service arrangements</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id2FDC2F5FD22A4F658E0DD4A0AE7725E4">
+                <enum>(a)</enum>
+                <header>Amount treated as medical care</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id945F1A60FCB54693B2C156E572FCCE77">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/213">Section 213(d)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting <quote>, or</quote>, and by inserting after subparagraph (D) the following new subparagraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idE3A58D41642D4CFD84F7188273C98A23">
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id220C1CABAA654C719791DEC3D4E7F877">
+                            <enum>(E)</enum>
+ <text>for direct primary care service arrangements.</text> </subparagraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id2DDFCC278E0643019EB6999BA6C779B6"> <enum>(2)</enum> <header>Limitation</header> <text>Section 213(d)(1) of such Code, as amended by paragraph (1), is further amended by adding at the end the following: <quote>In the case of a direct care primary service arrangement, only eligible fee amounts (as defined in paragraph (13)) shall be taken into account under subparagraph (E).</quote>.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id94A2B4F4962D49A0A0F022EE4B3521C9">
+                    <enum>(3)</enum>
+                    <header>Definitions</header>
+ <text>Section 213(d) of such Code is amended by inserting after paragraph (11) the following new paragraphs:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id5770C0C2E9904D08A0F3824A6AEFA239">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id2CC5CB5AA9654EB68A469092CCDDCF92">
+                            <enum>(12)</enum>
+                            <header>Direct primary care service arrangement</header>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idF05F1B9B92034B61941EDEB10A3D15E1">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>The term <term>direct primary care service arrangement</term> means, with respect to any individual, an arrangement under which such individual is provided medical care (as defined in paragraph (1), determined without regard to subparagraph (E) thereof) consisting solely of primary care services provided by primary care practitioners (as defined in section 1833(x)(2)(A) of the Social Security Act, determined without regard to clause (ii) thereof), if the sole compensation for such care is a fixed periodic fee.</text>
+                            </subparagraph>
+                            <subparagraph id="id5CDCFEFBEC9744C6A79C8F51B08B5B2D">
+                                <enum>(B)</enum>
+                                <header>Certain services specifically excluded from treatment as
+                                    primary care services</header>
+ <text>For purposes of this paragraph, the term <term>primary care services</term> shall not include—</text>
+                                <clause id="idE12BF7F90727437FBBA5B868F4A64420">
+                                    <enum>(i)</enum>
+ <text>procedures that require the use of general anesthesia, and</text>
+                                </clause>
+                                <clause id="id68F8C607D5FF4CDFB42700C988316F1D">
+                                    <enum>(ii)</enum>
+ <text>laboratory services not typically administered in an ambulatory primary care setting.</text>
+                                </clause>
+                                <continuation-text continuation-text-level="subparagraph">The
+                                    Secretary, after consultation with the Secretary of Health and
+                                    Human Services, shall issue regulations or other guidance
+                                    regarding the application of this
+                                    subparagraph.</continuation-text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idB796DC3494EC4152B6F1C41273D2FF1A">
+                            <enum>(13)</enum>
+                            <header>Eligible fee amount</header>
+                            <subparagraph id="id18037979B57746058033D96D19123F72">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>The term <term>eligible fee amount</term> means, with respect to any individual for any month, the amount of fixed periodic fees paid for a direct care primary service arrangement, to the extent that the aggregate fees for all direct primary care service arrangements with respect to such individual for such month do not exceed $150 (twice such dollar amount in the case of an individual with any direct primary care service arrangement that covers more than one individual).</text>
+                            </subparagraph>
+                            <subparagraph id="id81C6BF991F2241449FCBEACC7F500A23">
+                                <enum>(B)</enum>
+                                <header>Indexing</header>
+ <text>In the case of any taxable year beginning in a calendar year after 2026, the $150 amount contained in subparagraph (A) shall be increased by an amount equal to—</text>
+                                <clause id="idBB5816F8ABFD4AF495EA7DCB1F9EFAB5">
+                                    <enum>(i)</enum>
+ <text>such dollar amount, multiplied by</text> </clause> <clause id="idb82f6521f8a9437d9ef2bc7c74c6dc8f"> <enum>(ii)</enum> <text>the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting <quote>calendar year 2025</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof.</text>
+                                </clause>
+                                <continuation-text continuation-text-level="subparagraph">If any
+                                    increase under the preceding sentence is not a multiple of $10,
+                                    such increase shall be rounded to the nearest multiple of
+                                    $10.</continuation-text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id9b342cd374d54d95938717716614e9a3">
+                <enum>(b)</enum>
+                <header>Health savings accounts</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(c)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="ide01750effbad4ab998a3861292c391c5">
+                    <paragraph id="ida957510ed99b43d6be3665c5f3c349ae">
+                        <enum>(6)</enum>
+                        <header>Treatment of direct primary care service arrangements</header>
+ <text>A direct care primary service arrangement (as defined in section 213(d)(12))—</text>
+                        <subparagraph id="id1b8169a1d604440caa6fa8d694651278">
+                            <enum>(A)</enum>
+ <text>shall not be treated as a health plan for purposes of paragraph (1)(A)(ii), and</text>
+                        </subparagraph>
+                        <subparagraph id="id49e50b2883894d8e89794b4c15ee1126">
+                            <enum>(B)</enum>
+ <text>shall not be treated as insurance for purposes of subsection (d)(2)(B).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" id="H19472D02BB4C491CBA76DBD6B4D655DE">
+                <enum>(c)</enum>
+                <header>Reporting of direct primary care service arrangement fees on W–2</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/6051">Section 6051(a)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting <quote>, and</quote>, and by inserting after paragraph (17) the following new paragraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HAC90D7E1C9EE4FA5B6265498FEA7E636">
+                    <paragraph commented="no" id="HAF9A5F53B33E4CDC9F29251EC5099319">
+                        <enum>(18)</enum>
+ <text display-inline="yes-display-inline">in the case of a direct primary care service arrangement (as defined in section 213(d)(12)) which is provided in connection with employment, the aggregate fees for such arrangement for such employee.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="HAA8CCA13CFAC4E5D91C5C187FCCEB541">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to months beginning after December 31, 2025, in taxable years ending after such date.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

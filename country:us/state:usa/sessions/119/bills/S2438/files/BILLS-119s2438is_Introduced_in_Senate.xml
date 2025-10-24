@@ -1,0 +1,1263 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25402-CPP-8Y-SNW">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2438 IS: Transformation to Competitive Integrated Employment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2438</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250724">July 24, 2025</action-date>
+            <action-desc><sponsor name-id="S390">Mr. Van Hollen</sponsor> (for himself, <cosponsor name-id="S375">Mr. Daines</cosponsor>, <cosponsor name-id="S331">Mrs.
+                    Gillibrand</cosponsor>, and <cosponsor name-id="S396">Mrs.
+                Blackburn</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSHR00">Committee on Health,
+                    Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To assist employers providing employment under special certificates issued
+            under section 14(c) of the Fair Labor Standards Act of 1938 in transforming their
+            business and program models to models that support people with disabilities through
+            competitive integrated employment, to phase out the use of such special certificates,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H1938529602304E94A1161A55567F9E5C">
+        <section section-type="section-one" id="H682E0474D1EA47F4907887FFA9831DE1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transformation to Competitive Integrated Employment Act</short-title></quote>.</text>
+        </section>
+        <section id="HE1875A31B3904B7385A032F9D4760382">
+            <enum>2.</enum>
+            <header>Table of contents</header>
+            <toc>
+                <toc-entry level="section" idref="H682E0474D1EA47F4907887FFA9831DE1">Sec. 1. Short
+                    title.</toc-entry>
+                <toc-entry level="section" idref="HE1875A31B3904B7385A032F9D4760382">Sec. 2. Table
+                    of contents.</toc-entry>
+                <toc-entry level="section" idref="H1B6CB51808FF4F289788C0D57D351BF7">Sec. 3.
+                    Purposes.</toc-entry>
+                <toc-entry level="title" idref="H56C9AEDACF6B41518F08753B7CCB470B">TITLE
+                    I—Competitive integrated employment transformation grant programs</toc-entry>
+                <toc-entry level="section" idref="HAB318AFA08A7431A84D54C0A65E53984">Sec. 101.
+                    Program authorized.</toc-entry>
+                <toc-entry level="section" idref="HADCFD900D6744403B6D7CF8E2EF19438">Sec. 102. State
+                    grant program.</toc-entry>
+                <toc-entry level="section" idref="HDC0086E8C1D0498BB1FF8F34C2AE1FE4">Sec. 103.
+                    Certificate holder grant program.</toc-entry>
+                <toc-entry level="title" idref="H235345B6ADDA4F1D9A9BD55BE063981B">TITLE II—Phase
+                    out of special certificates under section 14<enum-in-header>(c)</enum-in-header>
+                    of the Fair Labor Standards Act of 1938</toc-entry>
+                <toc-entry level="section" idref="H077EF36E2DB243E1BA53556DB2A7A14C">Sec. 201.
+                    Transition to fair wages for people with disabilities.</toc-entry>
+                <toc-entry level="section" idref="H46696BE7ECFE4F6C81087680EA9622DB">Sec. 202.
+                    Prohibition on new special certificates; sunset.</toc-entry>
+                <toc-entry level="title" idref="H06337EEECBF84094AEC334CF54D792CF">TITLE
+                    III—Technical assistance and dissemination</toc-entry>
+                <toc-entry level="section" idref="HB6FA0E9948D5486F9832238640D5C4ED">Sec. 301.
+                    Technical Assistance and dissemination.</toc-entry>
+                <toc-entry level="title" idref="H2E081182D91B4BAB8800C512C00C069D">TITLE
+                    IV—Reporting and evaluation</toc-entry>
+                <toc-entry level="section" idref="H76DFD81216B74CC081F151D09F8AB025">Sec. 401.
+                    Impact evaluation and reporting.</toc-entry>
+                <toc-entry level="section" idref="HC954B5D61976455597D3CBCB5F2C4CA3">Sec. 402. Wage
+                    and hour reports.</toc-entry>
+                <toc-entry level="title" idref="HFD21C431CD404AABAEFE6270F66B8D7B">TITLE V—General
+                    provisions</toc-entry>
+                <toc-entry level="section" idref="H709BE13FACC14F52AC064C3448063E78">Sec. 501.
+                    Definitions.</toc-entry>
+                <toc-entry level="section" idref="H2316BC1815A84CA0AF646D97B8869F6F">Sec. 502.
+                    Authorization of appropriations.</toc-entry>
+            </toc>
+        </section>
+        <section id="H1B6CB51808FF4F289788C0D57D351BF7">
+            <enum>3.</enum>
+            <header>Purposes</header>
+ <text display-inline="no-display-inline">The purposes of this Act are to—</text> <paragraph id="id14b62168b8614e8c9534fea292cc656c"> <enum>(1)</enum> <text>assist employers with special certificates issued under section 14(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)</external-xref>) to transform their business and program operations to models that support people with disabilities to find and retain work in competitive integrated employment;</text>
+            </paragraph>
+            <paragraph id="id39c7b9f5d7534d11acff7ad1989bd481">
+                <enum>(2)</enum>
+ <text>ensure people with disabilities, families of such people, State and local governments, and other stakeholders are involved in the transformations described in paragraph (1);</text>
+            </paragraph>
+            <paragraph id="idcde082526ad74c119d93a900eab89815">
+                <enum>(3)</enum>
+ <text>ensure people employed in programs using such special certificates transition to competitive integrated employment positions and, as needed, to integrated services that support them in their homes and in community settings;</text>
+            </paragraph>
+            <paragraph id="id93e67a59a18649448825f7e84af8fdcb">
+                <enum>(4)</enum>
+ <text>identify models and processes for shifting business and program models from such special certificates to competitive integrated employment models and integrated community participation and wraparound services, and to share that information with other such special certificate holders, State and local entities, and other service providers for people with disabilities; and</text>
+            </paragraph>
+            <paragraph id="id3f444ed2b0c3486a86e257195ae90cbc">
+                <enum>(5)</enum>
+ <text>support States and local governments as they revise and implement their Olmstead plans and local plans, respectively, in order to improve competitive integrated employment outcomes for people with disabilities through all State workforce development systems.</text>
+            </paragraph>
+        </section>
+        <title id="H56C9AEDACF6B41518F08753B7CCB470B">
+            <enum>I</enum>
+            <header>Competitive integrated employment transformation grant programs</header>
+            <section id="HAB318AFA08A7431A84D54C0A65E53984">
+                <enum>101.</enum>
+                <header>Program authorized</header>
+ <text display-inline="no-display-inline">From the amounts appropriated to carry out this title, the Secretary of Labor shall award grants under sections 102 and 103, on a competitive basis, to States and eligible entities to assist employers who were issued special certificates in transforming their business and program models from providing employment using such special certificates to business and program models that employ and support people with disabilities by—</text>
+                <paragraph id="idd06255b7322f46d8821c09c25d070805">
+                    <enum>(1)</enum>
+ <text>providing competitive integrated employment, including by compensating all employees of the employer at a rate that is—</text>
+                    <subparagraph id="id15FD5AD5B1764C0387FFDFDE7F570B68">
+                        <enum>(A)</enum>
+ <text>not less than the higher of the rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/206">29 U.S.C. 206(a)(1)</external-xref>) or the rate specified in the applicable State or local minimum wage law; and</text>
+                    </subparagraph>
+                    <subparagraph id="idC32E6E6E1A364E1D8B9776E19B83B7EC">
+                        <enum>(B)</enum>
+ <text>not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not people with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idc1d90aaa728f44b98d85015ccb191ee7">
+                    <enum>(2)</enum>
+ <text>assisting people with disabilities who were employed by the employer in finding and retaining work in competitive integrated employment, which work may be with the employer after such transformation or in another competitive integrated employment setting;</text>
+                </paragraph>
+                <paragraph id="idc83df6f3a44e411c9ab16c16029783ed">
+                    <enum>(3)</enum>
+ <text>providing integrated community participation and wraparound services for people with disabilities; and</text>
+                </paragraph>
+                <paragraph id="id83ac031f70024c8982e069df0622b7fa">
+                    <enum>(4)</enum>
+ <text>ensuring all such services and other non-employment services offered by the employer comply with the requirements for home and community-based services under the final rule of the Department of Health and Human Services entitled <quote>Medicaid Program; State Plan Home and Community-Based Services, 5-Year Period for Waivers, Provider Payment Reassignment, and Home and Community-Based Setting Requirements for Community First Choice and Home and Community-Based Services (HCBS) Waivers</quote> (79 Fed. Reg. 2948 (January 16, 2014)), or a successor rule.</text>
+                </paragraph>
+            </section>
+            <section id="HADCFD900D6744403B6D7CF8E2EF19438">
+                <enum>102.</enum>
+                <header>State grant program</header>
+                <subsection id="HA9962BB7D8804C59BD31B27DE8863702">
+                    <enum>(a)</enum>
+                    <header>Application</header>
+                    <paragraph id="HA2A26DDE0BA74392BF37EED22DE07F70">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>To be eligible to receive a grant under this section, a State shall submit an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.</text>
+                    </paragraph>
+                    <paragraph id="HD60D734108704BDC9C90FFAD15E33E0A">
+                        <enum>(2)</enum>
+                        <header>Contents</header>
+ <text>Each application submitted under paragraph (1) shall include—</text> <subparagraph id="idcdf181b0d83f47eaa27f56a3b82955fa"> <enum>(A)</enum> <text>a description of the status of the employers in the State providing employment using special certificates, including—</text>
+                            <clause id="id9c6e8161246841a8a59f3cdc58fc928b">
+                                <enum>(i)</enum>
+ <text>the number of employers in the State using special certificates to employ and pay people with disabilities;</text>
+                            </clause>
+                            <clause id="id05397748332c4a43880cd8ab37a5ddd4">
+                                <enum>(ii)</enum>
+ <text>the number of employers described in clause (i) that also employ people with disabilities in competitive integrated employment, which shall include employers providing such employment in combination with integrated services;</text>
+                            </clause>
+                            <clause id="id3cd4aa9b42f2426c9d6d164bfc216bdd">
+                                <enum>(iii)</enum>
+ <text>the number of employees employed under a special certificate, disaggregated by—</text>
+                                <subclause id="idf2965f810853444dab2488e7deff28eb">
+                                    <enum>(I)</enum>
+ <text>employer; and</text> </subclause> <subclause id="idef1d2089a2624e0fb15a654356672b32"> <enum>(II)</enum> <text>demographic characteristics, including gender, race, ethnicity, and type of disability, unless indicating such characteristics would disclose personal identifying information;</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id3f6231cf604b44bbaa2af068bfb4336c">
+                                <enum>(iv)</enum>
+ <text>the average, median, minimum, and maximum number of hours such employees work per week, disaggregated by employer, and reported for the State as a whole; and</text>
+                            </clause>
+                            <clause id="id9f159605f0594df2a51fd40e34b9a4f2">
+                                <enum>(v)</enum>
+ <text>the average, median, minimum, and maximum hourly wage for such employees, disaggregated by employer, and reported for the State as a whole;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id210a8cd9e81149debf0471e88c906911">
+                            <enum>(B)</enum>
+ <text>a description of the activities of the State with respect to competitive integrated employment for people with disabilities, including, as applicable—</text>
+                            <clause id="ide76c434d43234598879792736abf03da">
+                                <enum>(i)</enum>
+ <text>a copy of the State plan for carrying out the Employment First initiative;</text>
+                            </clause>
+                            <clause id="id9686827f36834ee688cf8f6a90fb87eb">
+                                <enum>(ii)</enum>
+ <text>a copy of the Olmstead plan of the State;</text> </clause> <clause id="id206f83a7e2d44d868035cce314d80561"> <enum>(iii)</enum> <text>a description of activities related to the development and promotion of ABLE accounts; and</text>
+                            </clause>
+                            <clause id="ide16bbed93b4a4dc694af3960c903cfef">
+                                <enum>(iv)</enum>
+ <text>a description of the medical assistance provided by the State through a Medicaid buy-in eligibility pathway under subclause (XV) or (XVI) of section 1902(a)(10)(A)(ii) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a(a)(10)(A)(ii)</external-xref>), including any premiums or other cost sharing imposed on individuals who enroll in the State Medicaid program through such a pathway;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id2c506b0e73944fd095213bcd1d0e651f">
+                            <enum>(C)</enum>
+ <text>a description of activities to be funded under the grant, and the goals of such activities, including—</text>
+                            <clause id="id8926a0d7a13d4645a37b4edb5614cacc">
+                                <enum>(i)</enum>
+ <text>the process to be used to identify each employer in the State that will transform its business and program models from employing people with disabilities using special certificates to employing people with disabilities in competitive integrated employment settings or settings involving a combination of competitive integrated employment and integrated services;</text>
+                            </clause>
+                            <clause id="ide8e69a21371b4682b06253665ca4a174">
+                                <enum>(ii)</enum>
+ <text>the number of such employers in the State that will carry out a transformation described in clause (i);</text>
+                            </clause>
+                            <clause id="id4ff8a240cc4b4ebd9103ab2509469c4b">
+                                <enum>(iii)</enum>
+ <text>the service delivery infrastructure that will be implemented in the State to support people with disabilities who have been employed under special certificates through such a transformation, including providing enhanced integrated services to support people with the most significant disabilities;</text>
+                            </clause>
+                            <clause id="id4681bbb6bc1e46cc9df556f900aa1768">
+                                <enum>(iv)</enum>
+ <text>a description of the process to recruit and engage Federal, State, and local governments and nonprofit and private employers to hire people with disabilities into competitive integrated employment who have been employed under special certificates;</text>
+                            </clause>
+                            <clause id="id5f48c6bd01f044879af2d05643db230d">
+                                <enum>(v)</enum>
+ <text>the competitive integrated employment and integrated services that will be implemented in the State to support such people;</text>
+                            </clause>
+                            <clause id="id2a2906d19c6a4719828fa33c1929f68d">
+                                <enum>(vi)</enum>
+ <text>a timeline for assisting employers that operate in the State in phasing out employment using special certificates, which shall not extend past the date on which the legal effect of such certificates expires under section 14(c)(7) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)(7)</external-xref>), as added by title II;</text>
+                            </clause>
+                            <clause id="id94d17798b21042388dfc1262a15c2092">
+                                <enum>(vii)</enum>
+ <text>a timeline for the expansion of employers that will provide competitive integrated employment, or a combination of competitive integrated employment and integrated services, to people with disabilities who have been employed by such employers under special certificates;</text>
+                            </clause>
+                            <clause id="id72ed6884ca4a4640b6f06a4affe59fee">
+                                <enum>(viii)</enum>
+ <text>a description of the expanded competitive integrated employment and integrated services to be provided to such people as a result of transformations described in clause (i); and</text>
+                            </clause>
+                            <clause id="id6219cc59512649389bc3a9bfa43bc79a">
+                                <enum>(ix)</enum>
+ <text>a description of the process to be used to engage stakeholders in such transformations;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id99ba9e3fb8544536a30ea55087c717fe">
+                            <enum>(D)</enum>
+ <text>a description of how the activities under the grant will coordinate and align Federal, State, and local programs, agencies, and funding in the transformations described in subparagraph (C)(i);</text>
+                        </subparagraph>
+                        <subparagraph id="id7cc41f24d5c445febfeecb0309774004">
+                            <enum>(E)</enum>
+ <text>a description of the State’s evaluation plan to determine the social and economic impact of the grant, including the impact (as measured throughout the transformation and the 2-year period after the State has assisted employers in phasing out employment using special certificates) on—</text>
+                            <clause id="id097FE6181060428FA9D950D770337467">
+                                <enum>(i)</enum>
+ <text>the employment status of people with disabilities in the State, including the number of hours worked, average wages, and job satisfaction, of such people; and</text>
+                            </clause>
+                            <clause id="id2D7ED9DE441F40A58EEC9E96E6B29D40">
+                                <enum>(ii)</enum>
+ <text>changes in provider capacity to support competitive integrated employment and integrated services;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id6e873955d1b043e29bbc3aad5c912cbc">
+                            <enum>(F)</enum>
+ <text>assurances that—</text> <clause id="id8fa585c1da454129a8e6bae096e97e8e"> <enum>(i)</enum> <text>the activities carried out under the grant will result in each employer in the State that provides employment using special certificates on the date of enactment of this Act transforming as described in subparagraph (C)(i);</text>
+                            </clause>
+                            <clause id="id8a19ab0705f0435387751c6261ef7e83">
+                                <enum>(ii)</enum>
+ <text>people with the most significant disabilities, including intellectual and developmental disabilities, who will be affected by such a transformation will be given priority in receiving the necessary competitive integrated employment supports and integrated services to succeed during and after such a transformation;</text>
+                            </clause>
+                            <clause id="id1a3e6b89b41148b59c2469613067c7b6">
+                                <enum>(iii)</enum>
+ <text>each individual in the State who is employed under a special certificate will, as a result of such a transformation, be given an opportunity to be employed in competitive integrated employment;</text>
+                            </clause>
+                            <clause id="idfbb4d8447cbd4dc39b174d67b9b0c942">
+                                <enum>(iv)</enum>
+ <text>at a minimum, the State agencies responsible for developmental disability services, Medicaid, education, vocational rehabilitation, mental health services, transportation, and workforce development agree to be partners in the goals of the grant;</text>
+                            </clause>
+                            <clause id="id11b780b5c8fa42f092f5655ec414dc0c">
+                                <enum>(v)</enum>
+ <text>until the date that is 2 years after the legal effect of special certificates expires under section 14(c)(7) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)(7)</external-xref>), as added by title II, the State will comply with requirements of the Secretary with respect to the collection of data, and will require employers providing employment under special certificates in the State to comply with such requirements;</text>
+                            </clause>
+                            <clause id="id4380d8bc057646e9946722f7c61ef375">
+                                <enum>(vi)</enum>
+ <text>the State will cooperate with the evaluation under title IV by providing all data required and allow the evaluation of activities under the grant;</text>
+                            </clause>
+                            <clause id="id4220e033588e40579a35bd9b5a4e8acc">
+                                <enum>(vii)</enum>
+ <text>the State will establish an advisory council described in paragraph (3) to monitor and guide the process of transforming business and program models of employers in the State as described in subparagraph (C)(i);</text>
+                            </clause>
+                            <clause id="idcaff5215edf3415fa1231fa3e9dded8c">
+                                <enum>(viii)</enum>
+ <text>the State will cooperate with the nonprofit entity carrying out technical assistance and dissemination activities under title III;</text>
+                            </clause>
+                            <clause id="id05ec14bd157d4353a26966e109f59c0c">
+                                <enum>(ix)</enum>
+ <text>all integrated services and non-employment services offered by employers in the State will comply with—</text>
+                                <subclause id="id0AB32FFF143D46AA81355C66E5119A4E">
+                                    <enum>(I)</enum>
+ <text>the requirements for home and community-based services under the final rule of the Department of Health and Human Services entitled <quote>Medicaid Program; State Plan Home and Community-Based Services, 5-Year Period for Waivers, Provider Payment Reassignment, and Home and Community-Based Setting Requirements for Community First Choice and Home and Community-Based Services (HCBS) Waivers</quote> (79 Fed. Reg. 2948 (January 16, 2014)), or a successor rule;</text>
+                                </subclause>
+                                <subclause id="idC8073EBDCCBE4843BAF536D8D2C71A60">
+                                    <enum>(II)</enum>
+ <text>the holding of the Olmstead decision; and</text> </subclause> <subclause id="id00CC66BDC605483DB65BD24ACC6D5153"> <enum>(III)</enum> <text>the Americans with Disabilities Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/42/12101">42 U.S.C. 12101 et seq.</external-xref>); and</text>
+                                </subclause>
+                            </clause>
+                            <clause id="id295a1a5516ad45dd8e703a45a826fdce">
+                                <enum>(x)</enum>
+ <text>the State will disseminate information to all people with disabilities employed under special certificates regarding the availability of—</text>
+                                <subclause id="id6C4C94E00A984E66BAECFD680E11AA32">
+                                    <enum>(I)</enum>
+ <text>ABLE accounts and other asset developmental options for people with disabilities;</text>
+                                </subclause>
+                                <subclause id="id01B84AC5431046909A916DE1D8F9BE10">
+                                    <enum>(II)</enum>
+ <text>the Ticket to Work and Self Sufficiency Program established under section 1148 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320b-19">42 U.S.C. 1320b–19</external-xref>); and</text>
+                                </subclause>
+                                <subclause id="id526CB1DFF9A14A18810D4EF3801A0320">
+                                    <enum>(III)</enum>
+ <text>other resources related to benefits counseling for people with disabilities who wish to work or are working in competitive integrated employment settings; and</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="idfdba318068eb4f60bc8f0a58dc96a220">
+                            <enum>(G)</enum>
+ <text>such other information and assurances as the Secretary may reasonably require.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id600dd3d4b5be41d9a89b1292ba9bc660">
+                        <enum>(3)</enum>
+                        <header>Members of the advisory council</header>
+ <text>A State receiving a grant under this section shall, for the purpose described in paragraph (2)(F)(vii), establish an advisory council composed of the following:</text>
+                        <subparagraph id="ide224fbd77833454ea4de0a1e93ca4b5a">
+                            <enum>(A)</enum>
+ <text>People with disabilities (who shall comprise not less than 25 percent of the members), including such people with intellectual or developmental disabilities who are or were employed under a special certificate.</text>
+                        </subparagraph>
+                        <subparagraph id="idf6b24e6c8c8949d09e4cddb55d993e6d">
+                            <enum>(B)</enum>
+ <text>A family member of a person with an intellectual or developmental disability who is employed under a special certificate.</text>
+                        </subparagraph>
+                        <subparagraph id="id4c7426f8d735412ea6cca2b3195faf7e">
+                            <enum>(C)</enum>
+ <text>A family member of a person with an intellectual or developmental disability who is employed in competitive integrated employment.</text>
+                        </subparagraph>
+                        <subparagraph id="id543c9a391ddb41218fe5c957c990b89c">
+                            <enum>(D)</enum>
+ <text>An employer providing competitive integrated employment.</text> </subparagraph> <subparagraph id="id8e3b8fdfbc5741b8af4ffd61b340e5f5"> <enum>(E)</enum> <text>An employer providing employment under special certificates.</text>
+                        </subparagraph>
+                        <subparagraph id="id27d71bcb9f3a494390b2e0a84a62724c">
+                            <enum>(F)</enum>
+ <text>A representative of a nonprofit agency or organization specializing in competitive integrated employment.</text>
+                        </subparagraph>
+                        <subparagraph id="id8b45ce54a34e4f3d866071e0a4bf3ef4">
+                            <enum>(G)</enum>
+ <text>A representative of the State developmental disability agency.</text>
+                        </subparagraph>
+                        <subparagraph id="ida14794260605419abb5ecce0cd43096d">
+                            <enum>(H)</enum>
+ <text>A representative of the State vocational rehabilitation agency, as such term is used under the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/701">29 U.S.C. 701 et seq.</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="id71af377c1fec4fbf91f111c0314df5ef">
+                            <enum>(I)</enum>
+ <text>A representative of an agency that is in the State and described in paragraph (6) or (7) of section 8501 of title 41, United States Code.</text>
+                        </subparagraph>
+                        <subparagraph id="id5997ce22b4cc4008b8b1aaa508620534">
+                            <enum>(J)</enum>
+ <text>A representative of the State independent living centers, as such term is used under the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/701">29 U.S.C. 701 et seq.</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="id3cf83bf6ca204cd48fd8e8fe0241360f">
+                            <enum>(K)</enum>
+ <text>A representative of the State Council on Developmental Disabilities, as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15002">42 U.S.C. 15002</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="id5cd54cb9a670436eb2f37970187ebd49">
+                            <enum>(L)</enum>
+ <text>A representative of one of the State University Centers for Excellence in Developmental Disabilities Education, Research, and Service, established under subtitle D of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15061">42 U.S.C. 15061 et seq.</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="id7704a9d50ca84a97870df3623ae1c62c">
+                            <enum>(M)</enum>
+ <text>A representative of the State protection and advocacy system, as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15002">42 U.S.C. 15002</external-xref>).</text>
+                        </subparagraph>
+                        <subparagraph id="idbd024f0242d24b789601de55fd787f70">
+                            <enum>(N)</enum>
+ <text>A representative of the State Medicaid office.</text> </subparagraph> <subparagraph id="idbdc75f24b222429ca36938e4d36aef33"> <enum>(O)</enum> <text>Representatives of other State agencies and disability organizations and other disability related offices and groups with expertise in competitive integrated employment.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <subsection id="id6827ed53ace64ba1a764b2cc377502b7">
+                    <enum>(b)</enum>
+                    <header>Geographic diversity</header>
+ <text>To the extent practicable, the Secretary shall distribute grant funds under this section equitably among geographic areas of the United States, and take into account rural and urban diversity.</text>
+                </subsection>
+                <subsection id="id267aef6f34544d4e825b2a92ed5e3ec0">
+                    <enum>(c)</enum>
+                    <header>Duration of awards</header>
+ <text>A grant under this section shall be awarded for a period of 5 years.</text>
+                </subsection>
+                <subsection id="idb6f0c31b0c374b039016d4b0887ce379">
+                    <enum>(d)</enum>
+                    <header>Limit on award number</header>
+ <text>A State may only be awarded 1 grant under this section.</text> </subsection> <subsection id="idef59403c483a4483a9d16ecb66ae8a86"> <enum>(e)</enum> <header>Amount of awards</header> <text>A grant awarded under this section may not be made in an amount that is less than $3,000,000, or more than $15,000,000, for the 5-year grant period.</text>
+                </subsection>
+                <subsection id="idE6778338BE9D4A5EA140695F5625AAE7">
+                    <enum>(f)</enum>
+                    <header>Additional funding for supported employment services</header>
+                    <paragraph id="idCD1FEFFD21DF419A9B5AFEEEAF12E3B5">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>Title VI of the Rehabilitation Act of 1973 is amended—</text> <subparagraph id="id762578527FA2438AADA724E6AB8C0D82"> <enum>(A)</enum> <text>in section 603 (<external-xref legal-doc="usc" parsable-cite="usc/29/795h">29 U.S.C. 795h</external-xref>)—</text>
+                            <clause id="id1C710625EDEC4E1481B924EF44E3D245">
+                                <enum>(i)</enum>
+ <text>in subsection (a), by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id20F05F799A3F4DE7BA0C4091346B3E3A"> <paragraph id="idDCC36949B93D4BF594DE956D36590D92"> <enum>(3)</enum> <header>References</header> <text>For purposes of this subsection, any reference in this subsection to sums or amounts appropriated shall not include the amounts appropriated under section 611(e).</text>
+                                    </paragraph>
+                                    <after-quoted-block>;</after-quoted-block>
+                                </quoted-block>
+                            </clause>
+                            <clause commented="no" id="id58F61F6E8EC64FE0889392DEA0FB8A34">
+                                <enum>(ii)</enum>
+ <text>in subsection (c)—</text> <subclause commented="no" id="id7A33EE25CAB443C2910E6A9FA10958AC"> <enum>(I)</enum> <text>by inserting <quote>or a grant under section 611</quote> after <quote>allotment under this title</quote>; and</text>
+                                </subclause>
+                                <subclause commented="no" id="id45BACDF6DB574D82BDF79487AAADA88D">
+                                    <enum>(II)</enum>
+ <text>by inserting <quote>or such grant</quote> after <quote>such allotment</quote>; and</text>
+                                </subclause>
+                            </clause>
+                            <clause commented="no" id="id97113A7E098548A2A312D22C36E00D01">
+                                <enum>(iii)</enum>
+ <text>in subsection (d)—</text> <subclause commented="no" id="idDEE6550D4F454E579A6328D535C8C54C"> <enum>(I)</enum> <text>by inserting <quote>or a grant under section 611</quote> after <quote>allotment under this title</quote>; and</text>
+                                </subclause>
+                                <subclause commented="no" id="id40C1056C14B546B48E0C5CB6F71EB53B">
+                                    <enum>(II)</enum>
+ <text>by inserting <quote>or such grant</quote> after <quote>such allotment</quote>;</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id21D7848A882F4A17AE2B7AF2E4285FB1">
+                            <enum>(B)</enum>
+ <text>in section 604(b)(2) (<external-xref legal-doc="usc" parsable-cite="usc/29/795i">29 U.S.C. 795i(b)(2)</external-xref>), by inserting <quote>(or made available through a grant awarded under section 611)</quote> after <quote>allotted under this title</quote>;</text>
+                        </subparagraph>
+                        <subparagraph id="idD1F9CAFF0E0449A7BF796E9F74769FF7">
+                            <enum>(C)</enum>
+ <text>in section 610 (<external-xref legal-doc="usc" parsable-cite="usc/29/795o">29 U.S.C. 795o</external-xref>)—</text> <clause id="idFCF392493FCB46FD91000CE7741C2414"> <enum>(i)</enum> <text>by inserting <quote>, except for section 611,</quote> after <quote>this title</quote>;</text>
+                            </clause>
+                            <clause id="id42E1EB4DD7774F1FBE27BE8EE5468AB2">
+                                <enum>(ii)</enum>
+ <text>by striking <quote>and</quote>; and</text> </clause> <clause id="id0B42627E36D247DFA40F3CF1C8D3C8F8"> <enum>(iii)</enum> <text>by inserting <quote>, and such sums as may be necessary for each of fiscal years 2026 through 2035</quote> before the period at the end; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id29C2417D1F4B4C09A75AEBAB320C6984">
+                            <enum>(D)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idAE66A2200BBE47C3A07AE1E033F87BCA"> <section id="id96C2E3C685C749B98AFC61CE3E9CC46C"> <enum>611.</enum> <header>Additional funding for certain States with competitive integrated employment</header> <subsection id="idB75E13DA01EC42CD9A3CF0F62131812F"> <enum>(a)</enum> <header>Grants</header> <text display-inline="yes-display-inline">From amounts appropriated under subsection (e), the Secretary, in consultation with the Secretary of Labor, shall award a grant under this section to each eligible State that submits an application under subsection (c) for the purposes described in section 604.</text>
+                                    </subsection>
+                                    <subsection id="id9D2189D67D0E4744A025EFD3C700FD55">
+                                        <enum>(b)</enum>
+                                        <header>Eligibility</header>
+                                        <paragraph id="id7B54B3F1A5984ECEA7144B1E42F52DC8">
+                                            <enum>(1)</enum>
+                                            <header>In general</header>
+ <text display-inline="yes-display-inline">A State is eligible for a grant under this section for a fiscal year if the State—</text>
+                                            <subparagraph id="idFDD293B119BD4A6C9D2508B384D137B6">
+                                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">is eligible for an allotment under section 603(a) for the fiscal year; and </text>
+                                            </subparagraph>
+                                            <subparagraph id="idC2FB391D2B4B412E995FFAC5BA873468">
+                                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">has successfully completed a grant under section 102 of the Transformation to Competitive Integrated Employment Act during that fiscal year or the preceding fiscal year, as determined under paragraph (2). </text>
+                                            </subparagraph>
+                                        </paragraph>
+                                        <paragraph id="id3FBD380B650D4DF9B33BB75A0CD87FEE">
+                                            <enum>(2)</enum>
+                                            <header>Successfully completing a competitive integrated
+                                                employment grant</header>
+ <text display-inline="yes-display-inline">A State has successfully completed a grant under section 102 of the <short-title>Transformation to Competitive Integrated Employment Act</short-title> if, at the conclusion of the 5-year period of the grant, the Secretary of Labor determines the State has complied with all requirements under such section for such grant.</text>
+                                        </paragraph>
+                                    </subsection>
+                                    <subsection id="idC4D498CD940144BCB53CC8D5A0C15D8C">
+                                        <enum>(c)</enum>
+                                        <header>Application</header>
+ <text>A State seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including information demonstrating the State has successfully complied with the requirements under subsection (b)(2).</text>
+                                    </subsection>
+                                    <subsection id="idBF9D60849F924CACA3883CB6ACFF54CA">
+                                        <enum>(d)</enum>
+                                        <header>Awards</header>
+                                        <paragraph id="id42848DF5D17E44938B9CDAE117314367">
+                                            <enum>(1)</enum>
+                                            <header>In general</header>
+ <text>A grant to a State under this section shall be awarded in an amount determined under paragraph (2) for each of 5 fiscal years, except as provided under paragraph (3).</text>
+                                        </paragraph>
+                                        <paragraph id="id730BEDB87316458AAE565729076A0D6D">
+                                            <enum>(2)</enum>
+                                            <header>Amount</header>
+ <text>Subject to available appropriations under subsection (e), the amount of a grant under this section to a State for a fiscal year shall be equal to 25 percent of the amount allotted to such State under subsection (a) of section 603 for the preceding fiscal year (excluding any additional amounts allotted to the State under subsection (b) of such section).</text>
+                                        </paragraph>
+                                        <paragraph id="id8F5A18BFCAA34E159935C8C694A0B556">
+                                            <enum>(3)</enum>
+                                            <header>Continued compliance</header>
+ <text>In the case that a State receiving a grant under this section ceases compliance with subsection (b)(2) for a fiscal year—</text>
+                                            <subparagraph id="idD31525760E98401081B286F4A296F6BB">
+                                                <enum>(A)</enum>
+ <text>no amounts shall be awarded through such grant for such fiscal year; or</text>
+                                            </subparagraph>
+                                            <subparagraph id="id13E32BA5867B49CB88CF225F9ECFA09E">
+                                                <enum>(B)</enum>
+ <text>if such amounts have already been awarded to the State for such fiscal year, the State shall return to the Secretary such amounts. </text>
+                                            </subparagraph>
+                                        </paragraph>
+                                        <paragraph commented="no" id="id329e03393a514a84aa7c44a09e26d799">
+                                            <enum>(4)</enum>
+                                            <header>Competitive integrated employment fund</header>
+                                            <subparagraph commented="no" id="ide1e423864f9847a6af00971bf0b00465">
+                                                <enum>(A)</enum>
+                                                <header>Establishment of fund</header>
+ <text>There is established in the Treasury of the United States a fund to be known as the <quote>Competitive Integrated Employment Fund</quote> (referred to in this paragraph as the <quote>Fund</quote>).</text>
+                                            </subparagraph>
+                                            <subparagraph commented="no" id="id640445ec056d495ba354b8854a238197">
+                                                <enum>(B)</enum>
+                                                <header>Deposits</header>
+ <text>The Secretary shall deposit into the Fund any amount received under paragraph (3)(B).</text>
+                                            </subparagraph>
+                                            <subparagraph commented="no" id="id38830a2ae95e49f6a49ea978e9d54ff9">
+                                                <enum>(C)</enum>
+                                                <header>Use of fund amounts</header>
+ <text>Amounts in the Fund shall be available to the Secretary of Labor, without fiscal year limitation, for activities to increase competitive integrated employment opportunities for people with disabilities.</text>
+                                            </subparagraph>
+                                        </paragraph>
+                                    </subsection>
+                                    <subsection id="id65C12CB8F4224F849581BFF66DCA23A6">
+                                        <enum>(e)</enum>
+                                        <header>Authorization of appropriations</header>
+ <text>There are authorized to be appropriated for each of fiscal years 2031 through 2035 such sums as may be necessary to carry out this section.</text>
+                                    </subsection>
+                                </section>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id72D486A55E8A4EA78DA0C2DB9B967354">
+                        <enum>(2)</enum>
+                        <header>Table of contents</header>
+ <text>The table of contents in section 1(b) of the Rehabilitation Act of 1973 is amended by inserting after the item relating to section 610 the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id91FF2DBFF84A45EA838F9A910C86C6FB">
+                            <toc>
+                                <toc-entry level="section" idref="id96C2E3C685C749B98AFC61CE3E9CC46C">Sec. 611. Additional
+                                    funding for certain States with competitive integrated
+                                    employment.</toc-entry>
+                            </toc>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="HDC0086E8C1D0498BB1FF8F34C2AE1FE4">
+                <enum>103.</enum>
+                <header>Certificate holder grant program</header>
+                <subsection id="H3396E45557C341E6821B8D38EB0047CE">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>To be eligible to receive a grant under this section, an eligible entity shall submit an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.</text>
+                </subsection>
+                <subsection id="HCEAD93FC3893463EAEE82B437C826F23">
+                    <enum>(b)</enum>
+                    <header>Contents</header>
+ <text>Each application submitted under subsection (a) shall include—</text> <paragraph id="H002F7EF9A7A64451A3F7CD1E543A15C3"> <enum>(1)</enum> <text display-inline="yes-display-inline">the status of the eligible entity’s use of special certificates to employ people with disabilities, including—</text>
+                        <subparagraph id="id8c939355f4c04a29969f0a34af3b0992">
+                            <enum>(A)</enum>
+                            <clause commented="no" display-inline="yes-display-inline" id="id5a793791a393466ca9e634c42e5f0845">
+                                <enum>(i)</enum>
+ <text>the number of employees the eligible entity employs using such special certificates at the time of submission of the application;</text>
+                            </clause>
+                            <clause id="idd214117f45a641d5bcb31c65c0ba81fc" indent="up1">
+                                <enum>(ii)</enum>
+ <text>the aggregate demographic profile of such employees, including gender, race, and type of disability of such employees, unless indicating such demographic profile would disclose personal identifying information; and</text>
+                            </clause>
+                            <clause id="id9b4f7a9c0de14e358c811afa4f67d5a0" indent="up1">
+                                <enum>(iii)</enum>
+ <text>an historical accounting, covering each of the previous 4 fiscal years, of—</text>
+                                <subclause id="id490E1EAF592C42CEAB738665A3C61AAA">
+                                    <enum>(I)</enum>
+ <text>the number of employees with a disability working for a wage that is—</text>
+                                    <item id="id2580C82B8043465782BE8B8D005BF3F1">
+                                        <enum>(aa)</enum>
+ <text>less than the higher of the rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/206">29 U.S.C. 206(a)(1)</external-xref>) or the rate specified in the applicable State or local minimum wage law; or</text>
+                                    </item>
+                                    <item id="idF9419EEC91E643518399EEE9C4A1B877">
+                                        <enum>(bb)</enum>
+ <text>less than the customary rate paid by the employer for the same or similar work performed by other employees who are not people with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; and</text>
+                                    </item>
+                                </subclause>
+                                <subclause id="idD0C5B041FA6C49D8A5B3CAD28C792BDD">
+                                    <enum>(II)</enum>
+ <text>an aggregate demographic profile of such employees including gender, race, ethnicity, age, and type of disability;</text>
+                                </subclause>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="HD58BFBAB249B410A9EF8600CA32396EF">
+                            <enum>(B)</enum>
+ <text>the average, minimum, maximum, and range of hourly wages paid to employees employed using such special certificates during the previous year;</text>
+                        </subparagraph>
+                        <subparagraph id="HEFF9A1BB9742451483880985D15B5149">
+                            <enum>(C)</enum>
+ <text>for each of the preceding 5 fiscal years, the number of people with disabilities, disaggregated by fiscal year, who have been transitioned by the eligible entity from employment under such special certificates to competitive integrated employment; and</text>
+                        </subparagraph>
+                        <subparagraph id="H6CAC4BCE85C94DAFB46E60395D2209D8">
+                            <enum>(D)</enum>
+ <text>a description of the business and program models (including the financial and organizational structure) of the eligible entity that is using the special certificates, including—</text>
+                            <clause id="idB9BD7B16D933439DBA20B7284EB3EF2B">
+                                <enum>(i)</enum>
+ <text>the number and type of contracts the entity has entered into during the preceding 5 fiscal years to supply goods or services, including an indication for each such contract of whether people with disabilities are employed under the contract;</text>
+                            </clause>
+                            <clause id="idF6A60DD12679435D994E1F7F777F9269">
+                                <enum>(ii)</enum>
+ <text>the budget and the funding structure, including all sources of funding, for the preceding 5 fiscal years;</text>
+                            </clause>
+                            <clause id="H72D51D6058D24CF7844039EF4322ECD5">
+                                <enum>(iii)</enum>
+ <text>the human resource structure; and</text> </clause> <clause id="HAE847151174F4DB49C0D69DC43A54520"> <enum>(iv)</enum> <text>the entities partnering with the eligible entity as described in subsection (h)(2);</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H47325A677CFD4AB88B152A7BACD5AA4F">
+                        <enum>(2)</enum>
+ <text>a description of activities to be funded under the grant, and the goals of such activities, including—</text>
+                        <subparagraph id="ida163701cdb1d4ad0bbb8848dd944f526">
+                            <enum>(A)</enum>
+ <text>a description of the business and program models of competitive integrated employment or a combination of competitive integrated employment, integrated services, and other companionship and personal support services, into which the models of the eligible entity will transform, including the business plan, employment structure, and leadership organization of the eligible entity;</text>
+                        </subparagraph>
+                        <subparagraph id="idd39cf566ce0b4db3bcf466f7122ae562">
+                            <enum>(B)</enum>
+ <text>a description of—</text> <clause id="idb4e20828cc6643e18c16a4c2ee01997b"> <enum>(i)</enum> <text>the integrated services to be provided by the eligible entity; or</text>
+                            </clause>
+                            <clause commented="no" id="H4F5C01C802D34918BEFCC6C453EC080A">
+                                <enum>(ii)</enum>
+ <text>the eligible entity’s process for referring an individual requiring such services to a provider of such services to ensure that the individual receives such services;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="HBD03358BA3DE4953A04B75FEDED702CB">
+                            <enum>(C)</enum>
+ <text>after the transformation of the eligible entity’s business and program models as described in subparagraph (A), the number of employees that will be employed under such models;</text>
+                        </subparagraph>
+                        <subparagraph id="H33220D89179D4A9BABF72EDC7AFD2F18">
+                            <enum>(D)</enum>
+ <text>the date on which the eligible entity will discontinue using special certificates, and the funding structure the eligible entity will use to provide competitive integrated employment or a combination of such employment and integrated services; and</text>
+                        </subparagraph>
+                        <subparagraph id="HD45F6F408CAA4FDC9E12084521665E9B">
+                            <enum>(E)</enum>
+ <text display-inline="yes-display-inline">the process to be used for the transformation of the eligible entity’s business and program models as described in subparagraph (A), including—</text>
+                            <clause id="HD1CC0A8A54854B03A11024EED62D54B2">
+                                <enum>(i)</enum>
+ <text>redesign of contracts;</text> </clause> <clause id="H429BAE1E5C894EC3AA4E8C5563E0DBDC"> <enum>(ii)</enum> <text>changes in funding sources;</text>
+                            </clause>
+                            <clause id="id8ab9981ffacb4db88e71c71359784276">
+                                <enum>(iii)</enum>
+ <text>staff training on competitive integrated employment support and practices;</text>
+                            </clause>
+                            <clause id="HCC89EB88B9C14ED598BA942004B72905">
+                                <enum>(iv)</enum>
+ <text>input from key stakeholders, including people with disabilities, their families, and other local stakeholders; and</text>
+                            </clause>
+                            <clause id="H54BEA95D03CE4BC6A0363465CA3C06DB">
+                                <enum>(v)</enum>
+ <text>a description of the individuals who will be responsible for the development and implementation of such process;</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id558aa95b2f184f3d97548ecd2bb47a33">
+                        <enum>(3)</enum>
+ <text>a description of the process to recruit and engage Federal, State, and local governments and nonprofit and private employers to hire people with disabilities who have been employed under special certificates;</text>
+                    </paragraph>
+                    <paragraph id="HEA28739AA9D74620BC750072FF87E6A9">
+                        <enum>(4)</enum>
+ <text>a timeline of activities to be implemented and goals to be reached on at least a quarterly basis during the 3-year grant period;</text>
+                    </paragraph>
+                    <paragraph id="H9D67948134984F9298704489C8D7FA7C">
+                        <enum>(5)</enum>
+ <text>a description of how the activities under the grant will coordinate and align Federal, State, and local programs, agencies, and funding in the transformation described in paragraph (2)(A);</text>
+                    </paragraph>
+                    <paragraph id="HF479228D73F54DBEA19BC575FF6704F2">
+                        <enum>(6)</enum>
+ <text>assurances that—</text> <subparagraph id="H8B93DD202EDA433BBFF399A29C95AA59"> <enum>(A)</enum> <text>the activities carried out under the grant will result in the transformation described in paragraph (2)(A);</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="H9B041DEB5DAB4F0BB7C6C891E5FEE885">
+                            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">people with disabilities who are employed by the eligible entity under special certificates will be employed in competitive integrated employment;</text>
+                        </subparagraph>
+                        <subparagraph id="HC4F8A3514F684B3D90CD1CF078D38E1B">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the eligible entity will comply with the requirements of the Secretary with respect to the collection of data;</text>
+                        </subparagraph>
+                        <subparagraph id="H323D1AD88F1A494D99DF161596DA2D97">
+                            <enum>(D)</enum>
+ <text>the eligible entity will cooperate in the evaluation described in title IV by providing all data required and allow evaluation of the activities under the grant; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" id="HDE610D1E711444029181795E82E76DAC">
+                            <enum>(E)</enum>
+ <text>the eligible entity will cooperate with the nonprofit entity carrying out technical assistance and dissemination required under title III;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H168C0E9719134969B3FAE98239AFF9DC">
+                        <enum>(7)</enum>
+ <text>a description of the eligible entity’s evaluation plan to determine the impact of the grant;</text>
+                    </paragraph>
+                    <paragraph id="id425b0a8b60c742acb8019a34fc44f1cd">
+                        <enum>(8)</enum>
+ <text>assurances of collaboration and support from all State entities involved in supporting people with disabilities to secure competitive integrated employment, including the State Medicaid agency, the State developmental disability agency, the State vocational rehabilitation agency, the State department of education, and the State board, and other State and local governmental entities (including the local board) and organizations that support transformations to providing competitive integrated employment and integrated services for employees employed under a special certificate; and</text>
+                    </paragraph>
+                    <paragraph id="HDEC9A2571B9D4D25A0368DC34A6A5767">
+                        <enum>(9)</enum>
+ <text>such other information and assurances as the Secretary may reasonably require.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H1BDD9BAB11E145DF95F32CD9570FB314">
+                    <enum>(c)</enum>
+                    <header>Geographic diversity</header>
+ <text>To the extent practicable, the Secretary shall distribute grant funds under this section equitably among geographic areas of the United States, and shall take into account rural and urban diversity.</text>
+                </subsection>
+                <subsection id="H8C59BAE80B76437F82E3732D589FBDD5">
+                    <enum>(d)</enum>
+                    <header>Program size</header>
+ <text>To the extent practicable, the Secretary shall distribute grant funds under this section equitably among eligible entities providing employment using special certificates serving different numbers of people.</text>
+                </subsection>
+                <subsection id="H3D4197B451F840F8853805F80209A6DF">
+                    <enum>(e)</enum>
+                    <header>Duration of awards</header>
+                    <paragraph id="HF995F5EB1C9A4D609830E7A6BF6A0540">
+                        <enum>(1)</enum>
+                        <header>Grant period</header>
+ <text>A grant awarded under this section shall be awarded for a period of 3 years.</text>
+                    </paragraph>
+                    <paragraph id="idef195932cd394a2ab585b9166bc6094b">
+                        <enum>(2)</enum>
+                        <header>Grant cycles</header>
+ <text>Grants shall be awarded under this section in 2 grant cycles. Grants for the second grant cycle shall be awarded not earlier than the end of the second year of the first 3-year grant cycle.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H503968251545417DAF3AA963B8E5230E">
+                    <enum>(f)</enum>
+                    <header>Limit on award number</header>
+ <text>An eligible entity may only be awarded 1 grant total under this section.</text> </subsection> <subsection id="idd211b7daccec4150a956e9f863b4b126"> <enum>(g)</enum> <header>Amount of awards</header> <text>A grant awarded under this section may not be made in an amount that is less than $200,000, or more than $750,000, for the 3-year grant period.</text>
+                </subsection>
+                <subsection id="HE40885C19C424E30B8C9D5A57FC2DA56">
+                    <enum>(h)</enum>
+                    <header>Eligible entity defined</header>
+ <text>In this title, the term <term>eligible entity</term> means an entity that—</text>
+                    <paragraph id="H8F7AACF42A5C4126B3AE6F416488E903">
+                        <enum>(1)</enum>
+ <text>employs people with disabilities under special certificates and is located in a State that did not receive a grant under section 102; and</text>
+                    </paragraph>
+                    <paragraph id="H469ECB4806844D12BA81E5E49B9F892A">
+                        <enum>(2)</enum>
+ <text>partners with at least 2 entities with experience providing support to people with disabilities in competitive integrated employment, such as—</text>
+                        <subparagraph id="H296ABA93CFAE493390436CF1DFCD7A16">
+                            <enum>(A)</enum>
+ <text>an employer providing competitive integrated employment;</text> </subparagraph> <subparagraph id="H43575C8435F54ACBB7F7D2F157A8FC18"> <enum>(B)</enum> <text>a State developmental disability agency;</text>
+                        </subparagraph>
+                        <subparagraph id="id07984551E9744D409D6FEF1DDD427620">
+                            <enum>(C)</enum>
+ <text>a State mental health services agency;</text> </subparagraph> <subparagraph id="H2AFF9A5CBF69489CB9B8E1B43A5EA116"> <enum>(D)</enum> <text display-inline="yes-display-inline">a representative of an agency described in paragraph (6) or (7) of section 8501 of title 41, United States Code;</text>
+                        </subparagraph>
+                        <subparagraph id="HC78804ABE3C84D6C90777ACAB93C89C8">
+                            <enum>(E)</enum>
+ <text display-inline="yes-display-inline">a representative of the State Council on Developmental Disabilities, as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15002">42 U.S.C. 15002</external-xref>);</text>
+                        </subparagraph>
+                        <subparagraph display-inline="no-display-inline" id="HA5447104CA614C2FAC2AFE216D06F60F">
+                            <enum>(F)</enum>
+ <text display-inline="yes-display-inline">a representative of the State vocational rehabilitation agency, as such term is used under the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/701">29 U.S.C. 701 et seq.</external-xref>);</text>
+                        </subparagraph>
+                        <subparagraph id="H8C344E8700CD4294980891C71EE3E30D">
+                            <enum>(G)</enum>
+ <text display-inline="yes-display-inline">a representative of the State independent living centers, as such term is used under the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/701">29 U.S.C. 701 et seq.</external-xref>);</text>
+                        </subparagraph>
+                        <subparagraph id="H9890243935B549618B62E02D3DFFEF3D">
+                            <enum>(H)</enum>
+ <text display-inline="yes-display-inline">a representative of one of the State University Centers for Excellence in Developmental Disabilities Education, Research, and Service, established under subtitle D of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15061">42 U.S.C. 15061 et seq.</external-xref>);</text>
+                        </subparagraph>
+                        <subparagraph id="ide9b23e21aed0453f9f3edfb5e28bf386">
+                            <enum>(I)</enum>
+ <text>a representative of the State protection and advocacy system, as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/42/15002">42 U.S.C. 15002</external-xref>); and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="H3CE8BBA483BC48ABB2407D6EDF33BE50">
+                            <enum>(J)</enum>
+ <text display-inline="yes-display-inline">a nonprofit agency or organization specializing in competitive integrated employment.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="H235345B6ADDA4F1D9A9BD55BE063981B">
+            <enum>II</enum>
+            <header>Phase out of special certificates under section
+                    14<enum-in-header>(c)</enum-in-header> of the Fair Labor Standards Act of
+                1938</header>
+            <section id="H077EF36E2DB243E1BA53556DB2A7A14C">
+                <enum>201.</enum>
+                <header>Transition to fair wages for people with disabilities</header>
+                <subsection id="idF8E1643F740149419CB10BB43AEEC193">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Subparagraph (A) of section 14(c)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)(1)</external-xref>) is amended to read as follows:</text>
+                    <quoted-block style="OLC" id="HEF78F1B9533A42EF960727EDB76EEDEB">
+                        <subparagraph id="HC116A2D83E1B4DE9A366C1AE163BD0EE" indent="up1">
+                            <enum>(A)</enum>
+ <text>at a rate that equals, or exceeds, the greater of—</text> <clause id="H17941AE46D09447C90437E3AE3073250"> <enum>(i)</enum> <subclause commented="no" display-inline="yes-display-inline" id="HCD3C5E5597454B2EB9044AFFD4A0DE8A"> <enum>(I)</enum> <text display-inline="yes-display-inline">60 percent of the wage rate in effect under section 6(a)(1), beginning on the effective date described in section 201(b) of the <short-title>Transformation to Competitive Integrated Employment Act</short-title>; </text>
+                                </subclause>
+                                <subclause id="HBDE329DC56884FFD91815401D4C6E604" indent="up1">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">70 percent of the wage rate in effect under section 6(a)(1), beginning 2 years after the date of enactment of such Act;</text>
+                                </subclause>
+                                <subclause id="HD8F71C8721294A15939C6016AA5FC4B0" indent="up1">
+                                    <enum>(III)</enum>
+ <text>80 percent of the wage rate in effect under section 6(a)(1), beginning 3 years after such date of enactment; </text>
+                                </subclause>
+                                <subclause id="H665439A435594ED381F3DDE9C4E2F259" indent="up1">
+                                    <enum>(IV)</enum>
+ <text display-inline="yes-display-inline">90 percent of the wage rate in effect under section 6(a)(1), beginning 4 years after such date of enactment; and</text>
+                                </subclause>
+                                <subclause id="H0CE6BE03B35146939F8B1882D8A1EA63" indent="up1">
+                                    <enum>(V)</enum>
+ <text>the wage rate in effect under section 6(a)(1), beginning 5 years after such date of enactment; or</text>
+                                </subclause>
+                            </clause>
+                            <clause id="HF7F502746686414E8701B7484E03A6F3">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the wage rate in effect on the day before the date of enactment of the <short-title>Transformation to Competitive Integrated Employment Act</short-title> for the employment, under a special certificate issued under this paragraph, of the individual for whom the wage rate is determined under this paragraph;</text>
+                            </clause>
+                        </subparagraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subsection>
+                <subsection id="id6e5c580f0bdc4a76ade8db84f665c136">
+                    <enum>(b)</enum>
+                    <header>Effective date</header>
+ <text>The amendment made by subsection (a) shall take effect on the date that is 90 days after the date of enactment of this Act.</text>
+                </subsection>
+            </section>
+            <section id="H46696BE7ECFE4F6C81087680EA9622DB">
+                <enum>202.</enum>
+                <header>Prohibition on new special certificates; sunset</header>
+ <text display-inline="no-display-inline">Section 14(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)</external-xref>) (as amended by section 201), is further amended by adding at the end the following:</text>
+                <quoted-block style="OLC" id="H86A0BAF1964745788DAF5A9D26373AFB">
+                    <paragraph id="HEC6B654630FA44C691C706FFBCDAE2B3" indent="up1">
+                        <enum>(6)</enum>
+                        <header>Prohibition on new special certificates</header>
+ <text>Notwithstanding paragraph (1), the Secretary shall not issue a special certificate under this subsection to an employer that was not issued a special certificate under this subsection before the date of enactment of the <short-title>Transformation to Competitive Integrated Employment Act</short-title>.</text>
+                    </paragraph>
+                    <paragraph id="HC691699945BB4A02A79603F4876695CC" indent="up1">
+                        <enum>(7)</enum>
+                        <header>Sunset</header>
+ <text>Beginning on the day after the date that is 5 years after the date of enactment of the <short-title>Transformation to Competitive Integrated Employment Act</short-title>—</text>
+                        <subparagraph id="idA9C3F6202469430A9031A60F04B9E44C">
+                            <enum>(A)</enum>
+ <text>the authority to issue special certificates under paragraph (1) shall expire; and </text>
+                        </subparagraph>
+                        <subparagraph id="idA4BA4A9551FF4926B63576C41D694F4C">
+                            <enum>(B)</enum>
+ <text>no special certificates issued under paragraph (1) shall have any legal effect.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </section>
+        </title>
+        <title id="H06337EEECBF84094AEC334CF54D792CF">
+            <enum>III</enum>
+            <header>Technical assistance and dissemination</header>
+            <section id="HB6FA0E9948D5486F9832238640D5C4ED">
+                <enum>301.</enum>
+                <header>Technical Assistance and dissemination</header>
+                <subsection id="idc2971318277e449396f38741f6b37709">
+                    <enum>(a)</enum>
+                    <header>Grant authorized</header>
+ <text>From the amounts appropriated for this title, the Secretary (acting through the Office of Disability Employment Policy in partnership with the Employment and Training Administration), in partnership with the Administration for Community Living of the Department of Health and Human Services and the Office of Special Education and Rehabilitative Services of the Department of Education, shall award a grant to a nonprofit entity to—</text>
+                    <paragraph commented="no" id="id36c93a718202400cb2febd97f03530ac">
+                        <enum>(1)</enum>
+ <text>provide technical assistance to employers who are transforming from employing people with disabilities using special certificates to providing competitive integrated employment;</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id6b92348e743746feb563e0081be6ab6f">
+                        <enum>(2)</enum>
+ <text display-inline="yes-display-inline">identify and disseminate private and public sector models of the transformation described in subparagraph (A);</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id7ed077cd76884635bb463ad16221b7eb">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">build a set of replicable strategies for employers using special certificates to increase their use of evidence-based practices in providing competitive integrated employment and increase their options for providing competitive integrated employment;</text>
+                    </paragraph>
+                    <paragraph id="id2bbb439be7294532b6c3b2cd43751427">
+                        <enum>(4)</enum>
+ <text>collect and disseminate—</text> <subparagraph id="id57B3FA7D4AB4405FAAA7C8954E26750F"> <enum>(A)</enum> <text>evidence-based practices with respect to the transformations described in paragraph (1)(A), including practices that increase awareness of and access to training materials from and opportunities offered through the Office of Disability Employment Policy; and</text>
+                        </subparagraph>
+                        <subparagraph id="id8CBD99ACDE3B4CC5A25D0AD3992EB03F">
+                            <enum>(B)</enum>
+ <text>evidence-based strategies for implementing the aims of activities that are intended to improve the quality of integrated services provided to people with disabilities leading to competitive integrated employment and that are carried out—</text>
+                            <clause id="id260C5F48136A4593A9D9841C173E127B">
+                                <enum>(i)</enum>
+ <text>under the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3101">29 U.S.C. 3101 et seq.</external-xref>);</text>
+                            </clause>
+                            <clause id="idD0819EC469EF4EA886783BE890B84802">
+                                <enum>(ii)</enum>
+ <text>through settlement agreements made pursuant to the employment requirements under the Olmstead decision; or</text>
+                            </clause>
+                            <clause commented="no" id="id8AF24A446396412CB01E565D50123E37">
+                                <enum>(iii)</enum>
+ <text>through home and community-based services described in the final rule of the Department of Health and Human Services entitled <quote>Medicaid Program; State Plan Home and Community-Based Services, 5-Year Period for Waivers, Provider Payment Reassignment, and Home and Community-Based Setting Requirements for Community First Choice and Home and Community-Based Services (HCBS) Waivers</quote> (79 Fed. Reg. 2948 (January 16, 2014)), or a successor rule;</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idc68f0cc1468a4e25886f0434efebd24b">
+                        <enum>(5)</enum>
+ <text>leverage and increase awareness of and access to training materials and opportunities made available through training and technical assistance investments of—</text>
+                        <subparagraph id="idC7D00E97A20A479F806EECD306FD9782">
+                            <enum>(A)</enum>
+ <text>the Office of Disability Employment Policy;</text> </subparagraph> <subparagraph id="id5DC361687B51423AB3804886177D0F99"> <enum>(B)</enum> <text>the Employment and Training Administration;</text>
+                        </subparagraph>
+                        <subparagraph id="idB9EFDF39BB9E4697BFE6774DFFA21156">
+                            <enum>(C)</enum>
+ <text>the Administration for Community Living of the Department of Health and Human Services; and</text>
+                        </subparagraph>
+                        <subparagraph id="id3933BEEFF4F04FB6B288696008055441">
+                            <enum>(D)</enum>
+ <text>the Office of Special Education and Rehabilitative Services of the Department of Education;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="idfa0c94a38f8d4627b2aa8deed888d1fc">
+                        <enum>(6)</enum>
+ <text>raise awareness of efforts in States to carry out the Employment First initiative; and</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idffd48375243b4d26b142ced2079f69cf">
+                        <enum>(7)</enum>
+ <text display-inline="yes-display-inline">coordinate dissemination efforts related to ABLE accounts and other financial asset development resources through the ABLE National Resource Center and the Department of the Treasury.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="HB181659CC9CC445FA5A43302F8134FA4">
+                    <enum>(b)</enum>
+                    <header>Application</header>
+                    <paragraph id="H03E1ED9244CB40DC85D6B8C7165B7ED9">
+                        <enum>(1)</enum>
+                        <header>In general</header>
+ <text>To be eligible to receive a grant under this section, a nonprofit entity shall submit an application to the Secretary at such time, in such manner, and including such information that the Secretary may reasonably require.</text>
+                    </paragraph>
+                    <paragraph id="H972433BFCE8B41379E39070E53D1F2C6">
+                        <enum>(2)</enum>
+                        <header>Contents</header>
+ <text>Each application submitted under paragraph (1) shall include—</text> <subparagraph id="HC8192477750E40009FD29F9077BA8A1D"> <enum>(A)</enum> <text>a description of the nonprofit entity’s expertise in providing technical assistance that shall include evidence of—</text>
+                            <clause id="HB3B193DCB4784E24B0A382CBFD45E70E">
+                                <enum>(i)</enum>
+ <text>knowledge of transforming business and program models providing employment using special certificates to models providing competitive integrated employment and integrated services;</text>
+                            </clause>
+                            <clause id="H5E22FD43D30F43B39AAA10CAD6DABA0A">
+                                <enum>(ii)</enum>
+ <text>knowledge of methods for supporting employers, including employers not receiving a grant or assistance through a grant under title I, to transform as described in clause (i);</text>
+                            </clause>
+                            <clause id="H14FB2ED1FE244333A4FCA52C5949C196">
+                                <enum>(iii)</enum>
+ <text>experience working with nonprofit entities, for-profit entities, and Federal, State, and local agencies focusing on employment of youth and adults who are people with disabilities; and</text>
+                            </clause>
+                            <clause id="H4D0F61AA03F04FF49A15242D9D7FD7D2">
+                                <enum>(iv)</enum>
+ <text>experience working with people with disabilities and their families;</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="HBC4336E3176B4D17AFECB44D68338107">
+                            <enum>(B)</enum>
+ <text>a description of the nonprofit entity’s expertise in providing, collecting, compiling, communicating, and disseminating information about program and systems change for programs serving people with disabilities that shall include—</text>
+                            <clause id="H478C68691A09409381829A61198FB8E0">
+                                <enum>(i)</enum>
+ <text>expertise documenting program change;</text> </clause> <clause id="HF07A2C3A02E34B2FA3259528DE41EB5C"> <enum>(ii)</enum> <text>experience compiling recommended practices related to program transformations;</text>
+                            </clause>
+                            <clause id="H31552A3F3FF44D93AFAA4C1D9C623940">
+                                <enum>(iii)</enum>
+ <text>expertise regarding competitive integrated employment for youth and adults who are people with disabilities;</text>
+                            </clause>
+                            <clause id="HB3A74E4C2AEA4503AC5B3ED93E790A0B">
+                                <enum>(iv)</enum>
+ <text>expertise working with people with disabilities and their families through systems change procedures;</text>
+                            </clause>
+                            <clause id="H38C56CC138624120BC1636615BF69169">
+                                <enum>(v)</enum>
+ <text>expertise creating accessible products to disseminate learned information, including through web-based means;</text>
+                            </clause>
+                            <clause id="H3D491A9C2B24495781470A893AC79DCD">
+                                <enum>(vi)</enum>
+ <text>experience creating accessible websites to disseminate information;</text>
+                            </clause>
+                            <clause id="H00A0A858E7E84D03B9627BBC1F3BE1EC">
+                                <enum>(vii)</enum>
+ <text>experience working with nonprofit entities, for-profit entities, and Federal, State, and local agencies focusing on employment of youth and adults who are people with disabilities;</text>
+                            </clause>
+                            <clause id="id04f0d24c9db140c5a5f8b387993b1581">
+                                <enum>(viii)</enum>
+ <text>experience with assisting youth who are people with disabilities in transitioning from receiving services under the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1401">20 U.S.C. 1401 et seq.</external-xref>) and from kindergarten through grade 12 to inclusive postsecondary education and competitive integrated employment; and</text>
+                            </clause>
+                            <clause id="id25608ae7fbb54fff99a4122bb5f30e46">
+                                <enum>(ix)</enum>
+ <text>experience leveraging resources, available through the Office of Disability Employment Policy and the Employment and Training Administration, that are designed to provide effective and efficient services to job seekers who are people with disabilities in competitive integrated employment settings; and</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" id="H116142D3C99647C9828830D87E1D3E5B">
+                            <enum>(C)</enum>
+ <text>a description of the individuals at the nonprofit entity who will be responsible for carrying out the activities under this section.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H76CB6E53A46E4DD7AB3861D35E1AFD05">
+                        <enum>(3)</enum>
+                        <header>Duration of award</header>
+ <text>A grant under this section shall be awarded for a period of 6 years, and shall be non-renewable.</text>
+                    </paragraph>
+                    <paragraph id="H9B7412BF94A9418186A78FFC5AEA1C63">
+                        <enum>(4)</enum>
+                        <header>Definition of nonprofit entity</header>
+ <text display-inline="yes-display-inline">In this section, the term <term>nonprofit entity</term> means a nonprofit entity with expertise in collecting, compiling, communicating, and disseminating information about program and systems change for programs serving people with disabilities.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="H2E081182D91B4BAB8800C512C00C069D">
+            <enum>IV</enum>
+            <header>Reporting and evaluation</header>
+            <section id="H76DFD81216B74CC081F151D09F8AB025">
+                <enum>401.</enum>
+                <header>Impact evaluation and reporting</header>
+                <subsection id="H1AC928E49E184F67B46A30CE9711D2AA">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary shall enter into a contract with a nonprofit entity with experience in conducting evaluations of program and systems change efforts to—</text>
+                    <paragraph id="H8B2CF62A01964E97AB6F74CDCED83098">
+                        <enum>(1)</enum>
+ <text>conduct a multi-year evaluation on the impact of this Act, including the amendments made by this Act, with respect to people with disabilities (including such people receiving a wage rate under section 14(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)</external-xref>), as amended by title II); and</text>
+                    </paragraph>
+                    <paragraph id="H17BF1836974343FD8EB2A160AF797E8A">
+                        <enum>(2)</enum>
+ <text>prepare the reports described in subsection (c).</text> </paragraph> </subsection> <subsection id="HFB674135A0824A87BEB4C107AC5E3AA1"> <enum>(b)</enum> <header>Evaluation</header> <text display-inline="yes-display-inline">In carrying out subsection (a)(1), the nonprofit entity awarded a contract under this section shall evaluate—</text>
+                    <paragraph id="H5DC1F9A7957D481CB8D7F99ACEDA9E50">
+                        <enum>(1)</enum>
+ <text>changes in wages and employment for people described in subsection (a)(1); and</text>
+                    </paragraph>
+                    <paragraph id="HBE8CC36A62B0477FA6DC91C203BAE4CC">
+                        <enum>(2)</enum>
+ <text>actions taken by employers and States to comply with the amendments made by title II and, in the case of an employer or State receiving funds under title I, to comply with the transformation requirements under such title.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="H6A724679F18D49F6B2392463CC253AD4">
+                    <enum>(c)</enum>
+                    <header>Reports</header>
+ <text>The Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives, the following reports on the evaluation conducted under subsection (a)(1):</text>
+                    <paragraph id="H717CA1BB4C1F462AA98FCBD1FAC2566B">
+                        <enum>(1)</enum>
+ <text>An interim report on the evaluation, not later than 3 years after the evaluation commences under subsection (a)(1).</text>
+                    </paragraph>
+                    <paragraph id="HE148168EB0EA4C36B387B152B5FA4BFF">
+                        <enum>(2)</enum>
+ <text>A final report on such evaluation, not later than 18 months after the date on which the legal effect of special certificates expire pursuant to paragraph (7) of section 14(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)</external-xref>), as added by title II.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+            <section id="HC954B5D61976455597D3CBCB5F2C4CA3">
+                <enum>402.</enum>
+                <header>Wage and hour reports</header>
+                <subsection id="id4A53F7DABBFE4A7B9DF089435EC3EDA6">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text>For each year of the 5-year period described in section 14(c)(1)(A) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)(1)(A)</external-xref>), as amended by title II, the Secretary (acting through the Administrator of the Wage and Hour Division), in coordination with the Civil Rights Division of the Department of Justice, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives, an annual report summarizing practices of employers providing employment using special certificates, which, with respect to the preceding year, shall include—</text>
+                    <paragraph id="H252401A037374E81B946C2DF08A9AFF2">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the number of employees (of such employers) who are people with disabilities and who are compensated at a rate that is less than—</text>
+                        <subparagraph id="idb75b0cfdae9c49bfac8ec93a79b4f9c9">
+                            <enum>(A)</enum>
+ <text>the higher of the rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/206">29 U.S.C. 206(a)(1)</external-xref>) or the rate specified in the applicable State or local minimum wage law; or</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="ida330a7b1bc064be6a63061f17d9b4477">
+                            <enum>(B)</enum>
+ <text>the customary rate paid by the employer for the same or similar work performed by other employees who are not people with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills;</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id66a053df451b4c4dbcf57d3a6e507e5f">
+                        <enum>(2)</enum>
+ <text>the type of employment setting (such as segregated employment or competitive integrated employment) and the integrated services provided by such employers;</text>
+                    </paragraph>
+                    <paragraph id="HB1B101AD87AD4469A3C984BDC200F530">
+                        <enum>(3)</enum>
+ <text display-inline="yes-display-inline">the average hourly wage, minimum and maximum hourly wage, and average hours worked per week of employees described in paragraph (1), disaggregated by employer and by State;</text>
+                    </paragraph>
+                    <paragraph id="id56d4f769221d4052abc04829e668c1ef">
+                        <enum>(4)</enum>
+ <text>the aggregate demographic characteristics of employees described in paragraph (1), including the gender, ethnicity, race, and type of disability of such employees; and</text>
+                    </paragraph>
+                    <paragraph id="HAF53DBE9D4AD4C50878BE93628BE9564">
+                        <enum>(5)</enum>
+ <text>the number of employees who have transitioned from employment provided under a special certificate to competitive integrated employment, disaggregated by employer and by State.</text>
+                    </paragraph>
+                </subsection>
+                <subsection id="id1ddacac492f64ff4928c8274953f3d79">
+                    <enum>(b)</enum>
+                    <header>Report on audit of existing special certificate holders</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary (acting through the Administrator of the Wage and Hour Division) shall—</text>
+                    <paragraph id="id19a58ecb870742ca9adc3816dcb573b1">
+                        <enum>(1)</enum>
+ <text>conduct an audit of not less than 10 percent of employers providing employment to employees using special certificates, as of the date of enactment of this Act, which shall include an audit of—</text>
+                        <subparagraph id="idd5e908a5144d47b99b14596756df2752">
+                            <enum>(A)</enum>
+ <text>the training and support provided to such employees to promote their transition to competitive integrated employment;</text>
+                        </subparagraph>
+                        <subparagraph id="id84023c9c34bf4fa38cb4f13aee5dc877">
+                            <enum>(B)</enum>
+ <text>the actions taken by employers to identify competitive integrated employment for such employees; and</text>
+                        </subparagraph>
+                        <subparagraph id="id3d2c2b08fb574557bca8a94571c46586">
+                            <enum>(C)</enum>
+ <text>the wages of such employees, including whether such wages are at a rate that is less than—</text>
+                            <clause id="idB6A8DA28618840C5BAABB0520DA15185">
+                                <enum>(i)</enum>
+ <text>the higher of the rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/206">29 U.S.C. 206(a)(1)</external-xref>) or the rate specified in the applicable State or local minimum wage law; or</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id17148BF59A6142838875CDEFB90CBB33">
+                                <enum>(ii)</enum>
+ <text>the customary rate paid by the employer for the same or similar work performed by other employees who are not people with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; and</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="id3777da22e35f4b55927f985adc4f6877">
+                        <enum>(2)</enum>
+ <text>submit a report on such audit to the Committee on Health, Education, Labor, and Pensions of the Senate, the Special Committee on Aging of the Senate, and the Committee on Education and Workforce of the House of Representatives.</text>
+                    </paragraph>
+                </subsection>
+            </section>
+        </title>
+        <title id="HFD21C431CD404AABAEFE6270F66B8D7B">
+            <enum>V</enum>
+            <header>General provisions</header>
+            <section id="H709BE13FACC14F52AC064C3448063E78">
+                <enum>501.</enum>
+                <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="H419D68EFDF1C4F21A0AC1E54A471051C"> <enum>(1)</enum> <header>ABLE account</header> <text>The term <term>ABLE account</term> has the meaning given such term in <external-xref legal-doc="usc" parsable-cite="usc/26/529A">section 529A(e)(6)</external-xref> of the Internal Revenue Code of 1986.</text>
+                </paragraph>
+                <paragraph id="id62E08CDE46574E98A62535766B338D56">
+                    <enum>(2)</enum>
+                    <header>Competitive integrated employment</header>
+ <text display-inline="yes-display-inline">The term <term>competitive integrated employment</term> has the meaning given the term in section 7(5) of the Rehabilitation Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/29/705">29 U.S.C. 705(5)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="id122A5C19255F456EA1126F741E913422">
+                    <enum>(3)</enum>
+                    <header>Disability</header>
+ <text>The term <term>disability</term> includes any intellectual, developmental, mental health, or other disability.</text>
+                </paragraph>
+                <paragraph id="H05BEF452CC1C4FE9AB8657D5A34C257B">
+                    <enum>(4)</enum>
+                    <header>Integrated community participation and wraparound services; integrated
+                        services</header>
+                    <subparagraph id="H6AB97CA05E3D4F9C9F6CA98AEE0F5358">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), the terms <term>integrated community participation and wraparound services</term> and <term>integrated services</term> mean services for people with disabilities that are—</text>
+                        <clause id="id600342cddcdd4f798c6539aacb8ffa39">
+                            <enum>(i)</enum>
+ <text>designed to assist such people in developing skills and abilities to reside successfully in home and community-based settings;</text>
+                        </clause>
+                        <clause id="id740de47f07cc4c7e9d9e502301c4ecc3">
+                            <enum>(ii)</enum>
+ <text>provided in accordance with a person-centered written plan of care;</text>
+                        </clause>
+                        <clause id="id9ee98b07d944404583901335bc2da253">
+                            <enum>(iii)</enum>
+ <text>created using evidence-based practices that lead to such people—</text>
+                            <subclause id="id656E990CB53746EE8CF273810EAE59F6">
+                                <enum>(I)</enum>
+ <text>maintaining competitive integrated employment;</text> </subclause> <subclause id="id516FAF84BA8140C5923E999BBB32A808"> <enum>(II)</enum> <text>achieving independent living; or</text>
+                            </subclause>
+                            <subclause id="id4E7979AE8F3349B3A1C0D1E391F5CA56">
+                                <enum>(III)</enum>
+ <text>maximizing socioeconomic self-sufficiency, optimal independence, and full participation in the community;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id10750dd39a4e420894b4817ca9d688c9">
+                            <enum>(iv)</enum>
+ <text>provided in a community location that is not specifically intended for people with disabilities;</text>
+                        </clause>
+                        <clause id="id1E54170E26AB49A38C525131254CDF63">
+                            <enum>(v)</enum>
+ <text>provided in a location that—</text> <subclause id="id31D6E2B3C268412FB27AB64FF724027C"> <enum>(I)</enum> <text>allows the people receiving the services to interact with people without disabilities to the fullest extent possible; and</text>
+                            </subclause>
+                            <subclause id="id211F7D4F513C410CA040468FA403BF7A">
+                                <enum>(II)</enum>
+ <text>makes it possible for the people receiving the services to access community resources that are not specifically intended for people with disabilities and to have the same opportunity to participate in the community as people who do not have a disability;</text>
+                            </subclause>
+                        </clause>
+                        <clause id="idcca1c992ab44478ba8f98a558742b1ce">
+                            <enum>(vi)</enum>
+ <text>provided in multiple locations to allow the individual receiving the services to have options, thereby—</text>
+                            <subclause id="id065ADE61DE9344C2A7B40E2870456248">
+                                <enum>(I)</enum>
+ <text>optimizing individual initiative, autonomy, and independence; and</text>
+                            </subclause>
+                            <subclause id="idC58C759C72634DA8ACBB7581C758969E">
+                                <enum>(II)</enum>
+ <text>facilitating choice regarding services and supports, and choice regarding the provider of such services; and</text>
+                            </subclause>
+                        </clause>
+                        <clause id="id4F82394DE46B411D9CC55E0E9E867542">
+                            <enum>(vii)</enum>
+ <text>in compliance with the final rule of the Department of Health and Human Services entitled <quote>Medicaid Program; State Plan Home and Community-Based Services, 5-Year Period for Waivers, Provider Payment Reassignment, and Home and Community-Based Setting Requirements for Community First Choice and Home and Community-Based Services (HCBS) Waivers</quote> (79 Fed. Reg. 2948 (January 16, 2014)), or a successor rule.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id7b7671acdd3848f08ab4da16f168f4a2">
+                        <enum>(B)</enum>
+                        <header>Exclusions</header>
+ <text>The terms <term>integrated community participation and wraparound services</term> and <term>integrated services</term> shall not include a service provided in any of the following settings:</text>
+                        <clause id="id5b47a643cff049138338d5b6255964bf">
+                            <enum>(i)</enum>
+ <text>A nursing facility.</text> </clause> <clause id="iddce1fc6074914006993aef13ec2bff9e"> <enum>(ii)</enum> <text>An institution for people with mental diseases.</text>
+                        </clause>
+                        <clause id="id4080fcf2994041568c0318a2d4336fe3">
+                            <enum>(iii)</enum>
+ <text>An intermediate care facility for people with intellectual disabilities.</text>
+                        </clause>
+                        <clause id="id16c00a188a754d72991d4dec23159f44">
+                            <enum>(iv)</enum>
+ <text>A congregate setting in which an individual does not have the ability, at the time preferred by the individual and in accordance with other preferences of the individual, to access services supporting the full inclusion and engagement of the individual in the greater community.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id5C4939F5E2834027AABA9956E6E56060">
+                    <enum>(5)</enum>
+                    <header>Local board; local plan</header>
+ <text>The terms <term>local board</term> and <term>local plan</term> have the meanings given such terms in section 3 of the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3102">29 U.S.C. 3102</external-xref>).</text>
+                </paragraph>
+                <paragraph id="H55720239646F4CBEA1EFB44EDC3257E0">
+                    <enum>(6)</enum>
+                    <header>Olmstead decision</header>
+ <text>The term <term>Olmstead decision</term> means the decision of the Supreme Court of the United States in Olmstead v. L.C., 527 U.S. 581 (1999).</text>
+                </paragraph>
+                <paragraph id="idD079933CFF444A17A244F449A10F6BB4">
+                    <enum>(7)</enum>
+                    <header>Olmstead plan</header>
+ <text>The term <term>Olmstead plan</term>, with respect to a State, means the plan of the State for complying with the holding in the Olmstead decision.</text>
+                </paragraph>
+                <paragraph id="idB9F0F6C2ECC142D29F119FCF9BFACD67">
+                    <enum>(8)</enum>
+                    <header>People with disabilities</header>
+ <text>The term <term>people with disabilities</term> includes individuals described in section 14(c)(1) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)(1)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="id013CAA182E2345778E0A50402CE0BCC0">
+                    <enum>(9)</enum>
+                    <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Labor.</text> </paragraph> <paragraph id="H4A768F06C1D74FD5B6F68062EFE21411"> <enum>(10)</enum> <header>Special certificate</header> <text display-inline="yes-display-inline">The term <term>special certificate</term> means a special certificate issued under section 14(c) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/214">29 U.S.C. 214(c)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="H04BF8352D29D4DF4BB037E08A5983B2F">
+                    <enum>(11)</enum>
+                    <header>State</header>
+ <text>The term <term>State</term> means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and the territory of Guam.</text>
+                </paragraph>
+                <paragraph id="id0f7b3b5214c44fc29580f8d0b38084c4">
+                    <enum>(12)</enum>
+                    <header>State board</header>
+ <text>The term <term>State board</term> has the meaning given such term in section 3 of the Workforce Innovation and Opportunity Act.</text>
+                </paragraph>
+                <paragraph id="id91002540f517430395dc49dae72b544d">
+                    <enum>(13)</enum>
+                    <header>Workforce development system</header>
+ <text>The term <term>workforce development system</term> has the meaning given such term in section 3 of the Workforce Innovation and Opportunity Act.</text>
+                </paragraph>
+            </section>
+            <section id="H2316BC1815A84CA0AF646D97B8869F6F">
+                <enum>502.</enum>
+                <header>Authorization of appropriations</header>
+                <subsection id="id5060AFF60F5D43EEB2E7EC76D64044EC">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated to carry out this Act, $200,000,000 for each of fiscal years 2026 through 2030.</text>
+                </subsection>
+                <subsection id="idFC541988177E4D52B286BE258F90F17D" commented="no" display-inline="no-display-inline">
+                    <enum>(b)</enum>
+                    <header>Technical Assistance</header>
+ <text>From amounts made available under subsection (a) for each fiscal year, 1 percent shall be allocated for the activities under title III.</text>
+                </subsection>
+            </section>
+        </title>
+    </legis-body>
+</bill>
+

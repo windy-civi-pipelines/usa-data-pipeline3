@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MDM25G87-GYD-W5-H3P">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2594 IS: Immigration Enforcement Identification Safety Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2594</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250731">July 31, 2025</action-date>
+            <action-desc><sponsor name-id="S327">Mr. Warner</sponsor> (for himself, <cosponsor name-id="S362">Mr. Kaine</cosponsor>, <cosponsor name-id="S363">Mr.
+                    King</cosponsor>, and <cosponsor name-id="S330">Mr. Bennet</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSJU00">Committee on the
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend section 236 of the Immigration and Nationality Act to require
+            immigration enforcement officers of the Department of Homeland Security to display
+            visible identification during enforcement actions and provide privacy enhancing
+            services.</official-title>
+    </form>
+    <legis-body>
+        <section id="id8d6030264ff1486ca00377a71a42d541" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short titles</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Immigration Enforcement Identification Safety Act of 2025</short-title></quote> or the <quote><short-title>IEIS Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id9410e0e13c324002a83c22dc0eb54f72">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <subsection commented="no" display-inline="no-display-inline" id="id8532028f637143b58cfd603abe77118b"> <enum>(a)</enum> <header>Agency</header> <text>The term <term>agency</term> means an Executive agency (as defined in section 105 of title 5, United States Code).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id0f1a48bf946c4a228199ec94359a59df">
+                <enum>(b)</enum>
+                <header>Covered employee</header>
+ <text>The term <term>covered employee</term> means—</text> <paragraph commented="no" display-inline="no-display-inline" id="id33624e54331c4c94a3c679fd8f7c5973"> <enum>(1)</enum> <text display-inline="yes-display-inline">a covered immigration officer (as defined in section 236(g)(1)(A) of the Immigration and Nationality Act, as amended by section 2), whose official duties put the covered employee at greater risk of being the target of a threat, intimidation, harassment, stalking, or a similar action;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6cd9070130894c0b9a456c08043ff382">
+                    <enum>(2)</enum>
+ <text>a spouse, child, or parent of an employee described in subparagraph (A); and</text>
+                </paragraph>
+                <paragraph id="id90bc0d9c86b041eca6ac27bf154b9766" commented="no" display-inline="no-display-inline">
+                    <enum>(3)</enum>
+ <text>any other familial relative of such employee who has the same permanent residence as such employee.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id103ab950689f4ab4a015c7324b8a6fe3" commented="no"
+                display-inline="no-display-inline">
+                <enum>(c)</enum>
+                <header display-inline="yes-display-inline">Privacy-Enhancing services</header>
+ <text>The term <term>privacy-enhancing services</term> means any software or hardware solution, technical process, technique, or other technological means of mitigating privacy risks arising from data processing, including by eliminating, reducing, or suppressing personal information, including restricted personal information (as defined in section 119(b)(1) of title 18, United States Code).</text>
+            </subsection>
+        </section>
+        <section id="idd644562ab4bd4973a74ee5337706b135">
+            <enum>3.</enum>
+            <header>Identification requirement for immigration enforcement personnel</header>
+ <text display-inline="no-display-inline">Section 236 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1226">8 U.S.C. 1226</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idefcb3c196b304f7183933f4765eb1dcd">
+                <subsection commented="no" display-inline="no-display-inline" id="idbecade8c66b4436197c52278de69b748">
+                    <enum>(g)</enum>
+                    <header display-inline="yes-display-inline">Identification requirement for
+                        immigration enforcement personnel</header>
+                    <paragraph id="id5b87e5c6bfea4af09455b7b93b9bedaa">
+                        <enum>(1)</enum>
+                        <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph id="idd1d0fc7d66e747eb9ff3035d04ef4ba4"> <enum>(A)</enum> <header>Covered immigration officer</header> <text>The term <term>covered immigration officer</term> means—</text>
+                            <clause id="id54b5d0f334ec45199efc5c996bd1840e">
+                                <enum>(i)</enum>
+ <text>any officer, agent, or employee of U.S. Customs and Border Protection;</text>
+                            </clause>
+                            <clause id="id3079b125d80840caaf6fc96ade197b24">
+                                <enum>(ii)</enum>
+ <text>any officer, agent, or employee of U.S. Immigration and Customs Enforcement; and</text>
+                            </clause>
+                            <clause id="id44cf4b02845345c78e77bb8448497d4e">
+                                <enum>(iii)</enum>
+ <text>any officer, agent, or individual authorized, deputized, or designated under Federal law, regulation, or agreement to perform immigration enforcement functions, including pursuant to section 287(g) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1357">8 U.S.C. 1357(g)</external-xref>) or any other delegation or agreement with the Department of Homeland Security.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id457927996ecb4df9b9e6caeca1b2a58d">
+                            <enum>(B)</enum>
+                            <header>Immigration enforcement function</header>
+ <text>The term <term>immigration enforcement function</term>—</text> <clause commented="no" display-inline="no-display-inline" id="ideffce4a7b72a40baaa22fe76aab0bd8e"> <enum>(i)</enum> <text display-inline="yes-display-inline">means any activity that involves the direct exercise of Federal immigration enforcement through public-facing actions, including a patrol, stop, arrest, search, interview to determine immigration status, raid, checkpoint, or the service of a judicial or administrative warrant; and</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="id2a458ca26b63495295f13091b877e4d4">
+                                <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">does not include any covert, nonpublic operation.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ida8be6d4a78144efa880a7d9bce99d821">
+                        <enum>(2)</enum>
+                        <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (3), any covered immigration officer who is conducting an immigration enforcement function and any Federal or non-Federal law enforcement officer who is providing direct support to such immigration enforcement function shall visibly display—</text>
+                        <subparagraph id="idd1abad8bc9d841088bee2ec0008eb534">
+                            <enum>(A)</enum>
+ <text>such covered immigration officer's last name and another individual identifier that is unique to such individual;</text>
+                        </subparagraph>
+                        <subparagraph id="id3c2ea4242ac745d19367e0d7120f6d55">
+                            <enum>(B)</enum>
+ <text>the name of the Federal law enforcement entity or other organization employing such covered immigration officer; and</text>
+                        </subparagraph>
+                        <subparagraph id="id4805ed057fae4bebafdef649ab807a47">
+                            <enum>(C)</enum>
+ <text>the face of such covered immigration officer.</text> </subparagraph> </paragraph> <paragraph id="id17e7d0f083884da58d76b0d31f6fc701"> <enum>(3)</enum> <header>Exception</header> <text>The requirement under paragraph (2) shall not apply to individuals referred to in such paragraph who—</text>
+                        <subparagraph id="ide14c4acfbafd4f5a9c1e430a98ca9d93">
+                            <enum>(A)</enum>
+ <text>are engaged in investigative activity involving the use of an assumed name or cover identity;</text>
+                        </subparagraph>
+                        <subparagraph id="id0eea939e9b5c4208b846bdaa49f56a96">
+                            <enum>(B)</enum>
+ <text>are engaged in planned tactical operations (such as high-risk situations, responding to hostage incidents, terrorism response, narcotics raids, hazardous surveillance, sniper incidents, armed suicidal persons, barricaded suspects, high-risk felony warrant service, fugitives refusing to surrender, and active shooter incidents) by specifically trained law enforcement personnel to a high-risk situation that requires the application of specialized lifesaving tools, tactics, and capabilities which exceed those immediately available to the officer or agent of the Department of Homeland Security who is conducting an immigration enforcement function and any Federal or non-Federal law enforcement officer who is providing direct support to such immigration enforcement function in the regular performance of the officer's or agent's official duties; or</text>
+                        </subparagraph>
+                        <subparagraph id="ida6556c84ad4c43cfb474a33bc4732e5d">
+                            <enum>(C)</enum>
+ <text>are engaged in a law enforcement function that necessitate the use of face coverings, as required under section 1960.10(b) of title 29, Code of Federal Regulations.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id1d466b7655cf479c8422db4cb62ebe9e">
+            <enum>4.</enum>
+            <header>Reimbursements relating to internet data privacy services</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id8e8958c6b57c4cd28b58d5c549ea16da">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Notwithstanding any other provision of law, amounts appropriated by any Act for fiscal year 2026, or for any fiscal year thereafter, for salaries and expenses of an agency may be used by such agency to reimburse a covered employee employed by that agency for not more than 100 percent of the costs incurred by the covered employee for privacy-enhancing services.</text>
+            </subsection>
+            <subsection id="idcbf5345a78b3486f95ca4e60ab346d87" commented="no" display-inline="no-display-inline">
+                <enum>(b)</enum>
+                <header>Documentation</header>
+ <text>Any reimbursement to a covered employee authorized under subsection (a) shall be contingent upon the submission by the covered employee of such information or documentation as the agency employing the covered employee may reasonably require.</text>
+            </subsection>
+        </section>
+        <section id="id154aeaed5c89404b86e0bf56f4e9381a">
+            <enum>5.</enum>
+            <header>Rules of construction</header>
+ <text display-inline="no-display-inline">Nothing in this Act may be construed to prohibit, restrain, or limit—</text>
+            <paragraph id="idad7a11ca25324adbaaefb4da8ad17607">
+                <enum>(1)</enum>
+ <text>the lawful investigation or reporting by the press of any unlawful activity or misconduct alleged to have been committed by a covered employee;</text>
+            </paragraph>
+            <paragraph id="idc890359bffa64481a629f7eae6e93c96">
+                <enum>(2)</enum>
+ <text>the lawful disclosure of information relating to a covered employee or the immediate family of a covered employee regarding matters of public concern; or</text>
+            </paragraph>
+            <paragraph id="id3ffc1464c53a493f937205bf6581d843">
+                <enum>(3)</enum>
+ <text>information that the covered employee or the employer of the covered employee voluntarily publishes on the internet after the date of the enactment of this Act.</text>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

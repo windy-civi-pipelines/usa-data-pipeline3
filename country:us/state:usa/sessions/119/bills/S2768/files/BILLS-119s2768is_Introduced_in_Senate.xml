@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25578-C6P-S4-NW8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2768 IS: No Bail Post-Jail Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2768</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250911">September 11, 2025</action-date>
+            <action-desc><sponsor name-id="S374">Mr. Cotton</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To deny pretrial release for certain individuals, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Bail Post-Jail Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id2ef9aad45d9348e5a33a7ccfeeafa9cd">
+            <enum>2.</enum>
+            <header>Denial for pretrial release for prior incarceration</header>
+ <text display-inline="no-display-inline">Section 3124(e) of title 18, United States Code is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id10e1e5d3d25f4ade9d03148cb63d0e7a">
+                <paragraph commented="no" display-inline="no-display-inline" id="ide7106a792ce84cdea15e61fcf7faebf7">
+                    <enum>(4)</enum>
+ <text>A person shall be considered to pose a danger to the safety of the community and be ineligible for release if the judicial officer finds that the person—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7094fb2eb6f34c608d3dd47a357ba8ad">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">is charged with a felony offense;</text>
+                    </subparagraph>
+                    <subparagraph id="id516dcb574013400aa4cdb8f56e6e8173" commented="no" display-inline="no-display-inline">
+                        <enum>(B)</enum>
+ <text>is an adult or a juvenile charged as an adult with regard to the offense; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id30fe1195348b4911bb892a41ba914914">
+                        <enum>(C)</enum>
+ <text>has a prior felony conviction for a crime of violence that resulted in the person serving not less than 30 days in a State or Federal correctional facility, not including any period of pretrial detention without conviction.</text>
+                    </subparagraph>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

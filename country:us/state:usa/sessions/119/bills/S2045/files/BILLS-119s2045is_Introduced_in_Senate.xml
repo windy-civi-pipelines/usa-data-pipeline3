@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT25351-3H9-DD-0JF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2045 IS: Protecting Endowments from Our Adversaries Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-06-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2045</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250612">June 12, 2025</action-date>
+            <action-desc><sponsor name-id="S423">Mr. Ricketts</sponsor> (for himself, <cosponsor name-id="S374">Mr. Cotton</cosponsor>, and <cosponsor name-id="S357">Mrs.
+                    Fischer</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Internal Revenue Code of 1986 to impose an excise tax on
+            certain investments of private colleges and universities.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H9D21B6E7F8FB445791016F8704FB45BE">
+        <section section-type="section-one" id="H8AA67F5A15BA4092922911F9294A3FB8">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Endowments from Our Adversaries Act</short-title></quote>.</text>
+        </section>
+        <section id="HB4DAC720ED074C2AB271C5FD79B7CA60">
+            <enum>2.</enum>
+            <header>Excise tax on certain investments of private colleges and universities</header>
+            <subsection id="HD1C92882FB874CF09720CD347B8C878F">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subchapter H of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/42">chapter 42</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HACB09965028B4AB1A9BB17A37E67096E">
+                    <section id="HCF661A90C7AA494FBDDEBA2DE826615F">
+                        <enum>4969.</enum>
+                        <header>Excise tax on certain investments of private colleges and
+                            universities</header>
+                        <subsection id="H03057F3A5633424093C99C8F10D72EC3">
+                            <enum>(a)</enum>
+                            <header>Tax on acquisition of listed investments</header>
+ <text display-inline="yes-display-inline">In the case of any specified educational institution which acquires (directly or indirectly through any chain of ownership) one or more listed investments during any taxable year, there is hereby imposed for such taxable year a tax equal to 50 percent of the fair market values of such investments determined as of the dates of such acquisitions.</text>
+                        </subsection>
+                        <subsection id="HBF41A1F75FE145A88C14566F4C8CC038">
+                            <enum>(b)</enum>
+                            <header>Tax on net income from 1-Year listed investments</header>
+                            <paragraph id="HC30E883875A64FF2B2EA339565B7C9EA">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>There is hereby imposed on each specified educational institution for the taxable year a tax equal to 100 percent of the excess (if any) of—</text>
+                                <subparagraph id="H7EC845A63BAE48F8BA27C977881BFA82">
+                                    <enum>(A)</enum>
+ <text>the sum of—</text> <clause id="H7275F3EDBD084EB59803F31B5C1D483B"> <enum>(i)</enum> <text>all income received with respect to any 1-year listed investment during such taxable year, plus</text>
+                                    </clause>
+                                    <clause id="HC4C40736BB634D51ABC2F80C6C2AE4BC">
+                                        <enum>(ii)</enum>
+ <text>all gains recognized with respect to the sale or other disposition of any 1-year listed investments during such taxable year, over</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H457E1554C74241299C9B63AF878A578D">
+                                    <enum>(B)</enum>
+ <text>the sum of—</text> <clause id="H054BBA2F4B704A5695EAE009D64C4DA7"> <enum>(i)</enum> <text>all deductions properly allocable to income described in subparagraph (A)(i), plus</text>
+                                    </clause>
+                                    <clause id="H8247E413F1594D87991235FF649F63D4">
+                                        <enum>(ii)</enum>
+ <text>all losses recognized with respect to the sale or other disposition of any 1-year listed investments during such taxable year.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H5B5FF7F410204B0BBD2040D3A44F65BA">
+                                <enum>(2)</enum>
+                                <header>1-year listed investment</header>
+ <text>For purposes of this section, with respect to any income received or gain or loss recognized, the term <term>1-year listed investment</term> means any listed investment which was such a listed investment at all times during the 1-year period ending on the date such income was received or such gain or loss was recognized.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HF5DA706E3CA8483D98C11097BDBE4229">
+                            <enum>(c)</enum>
+                            <header>Listed investment</header>
+ <text>For purposes of this section—</text> <paragraph id="HF2153FC3829B482AAC03DE0C9157426D"> <enum>(1)</enum> <header>In general</header> <text>The term <term>listed investment</term> means any specified interest with respect to any person listed on one or more of—</text>
+                                <subparagraph id="H595797EF41A94750852D1E394EBEF1DD">
+                                    <enum>(A)</enum>
+ <text>the Entity List maintained by the Secretary of Commerce,</text>
+                                </subparagraph>
+                                <subparagraph id="H7D3B0BEB24F343EBAD28F7C5F74848F6">
+                                    <enum>(B)</enum>
+ <text>the Military End User (MEU) List maintained by the Secretary of Commerce,</text>
+                                </subparagraph>
+                                <subparagraph id="H82D3AC7FF09D4D52A335F2B592C30987">
+                                    <enum>(C)</enum>
+ <text>the Unverified List maintained by the Secretary of Commerce, or</text>
+                                </subparagraph>
+                                <subparagraph id="H9C7404373DB3439AA694804D3903199C">
+                                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">the list maintained by the Federal Communications Commission of equipment and services covered by section 2 of the Secure and Trusted Communications Networks Act of 2019 (commonly referred to as the FCC Covered List).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HCB4B4BECFA364CEE89F2D5ACDC033A71">
+                                <enum>(2)</enum>
+                                <header>Listed persons list</header>
+ <text>The Secretary shall establish (not later than 60 days after the date of the enactment of this section), update, and maintain a list of the persons which are listed on one or more of the lists described in paragraph (1).</text>
+                            </paragraph>
+                            <paragraph id="H7EFC52FFA2EF471C96FE245DB4120759">
+                                <enum>(3)</enum>
+                                <header>Specified interest</header>
+ <text>The term <term>specified interest</term> means, with respect to any person—</text>
+                                <subparagraph id="HA65675504B5244A8A8BEA6F3DADCE3D5">
+                                    <enum>(A)</enum>
+ <text>stock or any other equity or profits interest of such person,</text>
+                                </subparagraph>
+                                <subparagraph id="H1F769798C61A4DF2BE9AD1A4B587FA8C">
+                                    <enum>(B)</enum>
+ <text>debt issued by such person, or</text> </subparagraph> <subparagraph id="H9399B4426D8343A6B4F129FDB07A6F80"> <enum>(C)</enum> <text>any contract or derivative with respect to any interest described in subparagraph (A) or (B).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H1A3E96985C674D4DACDEEA5674431F5D">
+                                <enum>(4)</enum>
+                                <header>Inclusion of certain pooled funds</header>
+                                <subparagraph id="H0E2A6E43AE834917B9CEC364C126A07B">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>Any specified interest acquired through a regulated investment company, exchange traded fund, or any other pooled investment shall not fail to be treated as acquired through a chain of ownership described in subsection (a).</text>
+                                </subparagraph>
+                                <subparagraph id="H483C573693C541BABE03D0281097473B">
+                                    <enum>(B)</enum>
+                                    <header>Certifications of pooled funds</header>
+ <text>The Secretary shall establish procedures under which regulated investment companies, exchange traded funds, and other pooled investments may be certified by the Secretary as not holding any listed investments.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HD87A41A205A94AE5B4FA6ACB6CE87BB9">
+                            <enum>(d)</enum>
+                            <header>Specified educational institution</header>
+ <text>For purposes of this section—</text> <paragraph id="H68945E9847674655A584C6E3E15F0238"> <enum>(1)</enum> <header>In general</header> <text>The term <term>specified educational institution</term> means, with respect to any taxable year, any eligible educational institution (as defined in section 25A(f)(2))—</text>
+                                <subparagraph id="HB0437B320DD84F4880329F3DC69542C2">
+                                    <enum>(A)</enum>
+ <text>which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities), and</text>
+                                </subparagraph>
+                                <subparagraph id="HC8F77C4C367F4E5B99345F5C3BD49D92">
+                                    <enum>(B)</enum>
+ <text>the aggregate fair market value of the assets of which at the end of the preceding taxable year (other than those assets which are used directly in carrying out the institution’s exempt purpose) is in excess of $1,000,000,000.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H40E21BDC5A1D4C538967F40A7A4643C8">
+                                <enum>(2)</enum>
+                                <header>Treatment of related organizations</header>
+ <text>For purposes of subsections (a) and (b), assets held by any related organization (as defined in section 4968(d)(2)) with respect to an educational institution shall be treated as held by such educational institution, except that—</text>
+                                <subparagraph id="HCB1B300F8C2347179F366993129BECBD">
+                                    <enum>(A)</enum>
+ <text>such assets shall not be taken into account with respect to more than 1 educational institution, and</text>
+                                </subparagraph>
+                                <subparagraph id="H6813FBC0D64844A09EB40D53A25077FB">
+                                    <enum>(B)</enum>
+ <text>unless such organization is controlled by such institution or is described in section 509(a)(3) with respect to such institution, assets which are not intended or available for the use or benefit of such educational institution shall not be taken into account.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H64DE351115AE47599AD23772CB1B5F2F">
+                            <enum>(e)</enum>
+                            <header>Valuation of debt</header>
+ <text>For purposes of subsection (a), the fair market value of any debt shall be treated as being the principal amount of such debt.</text>
+                        </subsection>
+                        <subsection id="HA214AAB0874F4D649822A5436378CFFD">
+                            <enum>(f)</enum>
+                            <header>Regulations</header>
+ <text display-inline="yes-display-inline">The Secretary may issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance providing for the proper application of this section with respect to institutionally related foundations and pooled investments.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HC822AC4313B44083B6FE87EE3E3AB4AD">
+                <enum>(b)</enum>
+                <header>Clerical amendments</header>
+                <paragraph id="HBEC98B0A02504EC2A544557FFC7EB5B0">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The table of sections for subchapter H of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/42">chapter 42</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="H5220509CB53347E8B856A3D3326C45CE">
+                        <toc container-level="quoted-block-container" quoted-block="no-quoted-block" lowest-level="section" idref="HACB09965028B4AB1A9BB17A37E67096E" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded">
+                            <toc-entry idref="HCF661A90C7AA494FBDDEBA2DE826615F" level="section">Sec. 4969. Excise tax on certain investments of private colleges
+                                and universities.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="HB1135CF977C747B8BA5A43155C89D768">
+                    <enum>(2)</enum>
+ <text>The heading of subchapter H of chapter 42 of such Code (and the item relating to such subchapter in the table of subchapters for such chapter) are each amended by striking <quote><header-in-text level="subchapter" style="OLC">Tax Based on Investment Income</header-in-text></quote> and inserting <quote><header-in-text level="subchapter" style="OLC">Taxes Based on Investments</header-in-text></quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HCDD4B0BF8143465E9564477609751831">
+                <enum>(c)</enum>
+                <header>Effective dates</header>
+                <paragraph id="HA5B4191B6F634A9BA6C91545C243C6AA">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Except as otherwise provided in this subsection, the amendments made by this section shall apply to taxable years ending after the earlier of—</text>
+                    <subparagraph id="H45B63A654FFE48F6BCA528AC1813EDB4">
+                        <enum>(A)</enum>
+ <text>the end of the first calendar year beginning after the date of the enactment of this Act, or</text>
+                    </subparagraph>
+                    <subparagraph id="H690235CB68824B05909D67D5C2D9582A">
+                        <enum>(B)</enum>
+ <text>the end of the 1-year period beginning on the date on which the Secretary of the Treasury (or the Secretary’s delegate) establishes the listed persons list under <external-xref legal-doc="usc" parsable-cite="usc/26/4969">section 4969(c)(2)</external-xref> of the Internal Revenue Code of 1986 (as added by this section).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H20816971AF5A4779A81A1866BDDEE8E2">
+                    <enum>(2)</enum>
+                    <header>Certain prior acquisitions</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/4969">Section 4969(a)</external-xref> of the Internal Revenue Code of 1986 (as added by this section) shall not apply to investments acquired before the end of the calendar year referred to in paragraph (1)(A).</text>
+                </paragraph>
+                <paragraph id="H994C7C5358A44468B9BFE65F4B1A27F4">
+                    <enum>(3)</enum>
+                    <header>Certain prior income and gains</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/4969">Section 4969(b)</external-xref> of the Internal Revenue Code of 1986 (as added by this section) shall not apply to income received, or gains or losses recognized, before the end of the 1-year period referred to in paragraph (1)(B).</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

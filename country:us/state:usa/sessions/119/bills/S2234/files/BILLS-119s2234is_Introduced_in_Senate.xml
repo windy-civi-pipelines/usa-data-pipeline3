@@ -1,0 +1,1238 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MIR25742-82T-94-YY2">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2234 IS: Reducing Homelessness Through Program Reform Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-07-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2234</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250709">July 9, 2025</action-date>
+            <action-desc><sponsor name-id="S381">Mr. Rounds</sponsor> (for himself, <cosponsor name-id="S394">Ms. Smith</cosponsor>, <cosponsor name-id="S259">Mr.
+                    Reed</cosponsor>, and <cosponsor name-id="S266">Mr. Crapo</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To make improvements to the Emergency Solutions Grants and Continuum of Care
+            programs, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reducing Homelessness Through Program Reform Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id34bfb6fbe42449da8d74eb9c2cea9098">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph commented="no" display-inline="no-display-inline" id="idfabb0a99c05f4f9a8e9462090ab67a02"> <enum>(1)</enum> <header>Appropriate congressional committees</header> <text>The term <term>appropriate congressional committees</term> means—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id939d6faf11224ca68700d8882ab72484">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the Committee on Banking, Housing, and Urban Affairs of the Senate; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idc7c3d475f927431d8ec1bfcb279a5058">
+                    <enum>(B)</enum>
+ <text>the Committee on Financial Services of the House of Representatives.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id6d2f682bf826451aa9716888458c6780">
+                <enum>(2)</enum>
+                <header>At risk of homelessness</header>
+ <text>The term <term>at risk of homelessness</term> has the meaning given the term in section 401 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11360">42 U.S.C. 11360</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idb55076a4eccd4bf1b32ca143ebb751d6">
+                <enum>(3)</enum>
+                <header>Department</header>
+ <text>The term <term>Department</term> means the Department of Housing and Urban Development.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id9b51825386ae4d569c2ac3b5f528d8a5">
+                <enum>(4)</enum>
+                <header display-inline="yes-display-inline">Homeless</header>
+ <text>The term <term>homeless</term> has the meaning given the term in section 103 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11302">42 U.S.C. 11302</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id7f08741271064227aaa43dac312e2b1a">
+                <enum>(5)</enum>
+                <header display-inline="yes-display-inline">Public housing agency</header>
+ <text>The term <term>public housing agency</term> has the meaning given the term in section 3(b) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437a">42 U.S.C. 1437a(b)</external-xref>).</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id79320acf57ac4e94bc0f5f7b8ce46145">
+                <enum>(6)</enum>
+                <header display-inline="yes-display-inline">Secretary</header>
+ <text>The term <term>Secretary</term>, except as otherwise provided, means the Secretary of Housing and Urban Development.</text>
+            </paragraph>
+        </section>
+        <section id="id8aa66384a56f4bf688db7018d27a5b73">
+            <enum>3.</enum>
+            <header>Administrative costs for the Emergency Solutions Grants program</header>
+ <text display-inline="no-display-inline">Section 418 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11378">42 U.S.C. 11378</external-xref>) is amended by striking <quote>7.5 percent</quote> and inserting <quote>10 percent</quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id28624d41a8f74bb7ba1d0a65be80cf55">
+            <enum>4.</enum>
+            <header>Amendments to the Continuum of Care program</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id164fa9c28cb945518ac5ebd1a4af0244">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>) is amended—</text>
+                <paragraph id="id1845de97a9484cb6be442f103c3f8fa7">
+                    <enum>(1)</enum>
+ <text>in section 402(g) (<external-xref legal-doc="usc" parsable-cite="usc/42/11360a">42 U.S.C. 11360a(g)</external-xref>)—</text> <subparagraph id="id74a6dbb9cddf4a45b51c757ff5803ae9"> <enum>(A)</enum> <text>by redesignating paragraph (2) as paragraph (3); and</text>
+                    </subparagraph>
+                    <subparagraph id="idcd84e7a8782a42f6a3970301de4fe595">
+                        <enum>(B)</enum>
+ <text>by inserting after paragraph (1) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id10aa6090c0f54175899da255da9c34c9"> <paragraph id="id5078caf3c1914d938eeb9575c0543aa9"> <enum>(2)</enum> <header>Time limit on designation</header> <text>The Secretary—</text>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id4c6c67c96fc746a094baf4e1e5991618">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">shall accept applications for designation as a unified funding agency annually or biennially, which designation shall be effective for not more than 2 years; and</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id6c78bb2e962947c090454e6beaeec735">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">may, on an annual or biennial basis, renew any designation under subparagraph (A).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id58244b5b323f4894816d97b559a87be6">
+                    <enum>(2)</enum>
+ <text>in section 422 (<external-xref legal-doc="usc" parsable-cite="usc/42/11382">42 U.S.C. 11382</external-xref>)—</text> <subparagraph id="id07b6c4a3af2f48b88f6ddbfc14a9b6e9"> <enum>(A)</enum> <text>in subsection (b)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id3a4f06bcd183407bb828d9332ed179d4">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>The Secretary</quote> and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idDCF662A81B7F4B95989E9E6552DC35FA">
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3fe8218cb1a14336a69cd412b5e04ec9">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>Except as provided in paragraph (2), the Secretary</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause id="id6760f84825f64c58a4fdd7e3865af1f1"> <enum>(ii)</enum> <text>by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idF165864643224AB1A3544C266910A182">
+                                <paragraph commented="no" display-inline="no-display-inline" id="iddf64a3d9f06046e3979c4e45bef7dc98">
+                                    <enum>(2)</enum>
+                                    <header>2-year notification</header>
+ <text display-inline="yes-display-inline">Subject to the availability of appropriations, the Secretary may issue a notification of funding availability for grants awarded under this subtitle that provides funding for 2 successive fiscal years, which shall—</text>
+                                    <subparagraph id="id03dd027aeb77412b8ae07cae787afb24">
+                                        <enum>(A)</enum>
+ <text>award funds for the second year of projects, including adjustments under subsection (f), unless the project is underperforming, as determined by the collaborative applicant, and the collaborative applicant applies to replace the project with a new project; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id0881b08cdb274db9b5400a1fcbd7e6a7">
+                                        <enum>(B)</enum>
+ <text>include—</text> <clause id="id8f9045d3668a4e90aaf1d173218df2b6"> <enum>(i)</enum> <text>the method for applying for and awarding projects to replace underperforming projects in year 2;</text>
+                                        </clause>
+                                        <clause id="ide54ead1e2ee948f187214a122e5896ec">
+                                            <enum>(ii)</enum>
+ <text>the method for applying for and awarding renewals of expiring grants for projects that were not eligible for renewal in the first fiscal year; </text>
+                                        </clause>
+                                        <clause id="idac886147b3b34366ad24d16cf32647df">
+                                            <enum>(iii)</enum>
+ <text>the method for allocating any amounts in the second fiscal year that are in excess of the amount needed to fund the second fiscal year of all grants awarded in the first fiscal year; </text>
+                                        </clause>
+                                        <clause id="idf559824fe53745eeb3acb86e8ec281b4">
+                                            <enum>(iv)</enum>
+ <text>the method of applying for and awarding grants, which are 1-year transition grants awarded by the Secretary to project sponsors for activities under this subtitle to transition from 1 eligible activity to another eligible activity if the recipient—</text>
+                                            <subclause id="idb4cd89888c1343c0ac24167ad5ba45a7">
+                                                <enum>(I)</enum>
+ <text>has the consent of the continuum of care; and</text>
+                                            </subclause>
+                                            <subclause id="id0d33a7c09a594174bee03e06c611946b">
+                                                <enum>(II)</enum>
+ <text>meets standards determined by the Secretary;</text>
+                                            </subclause>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="idcf3cf2ee5da64e8382e9b36db8ebacbf">
+                                        <enum>(C)</enum>
+ <text>announce by notice the award of second fiscal year funding and awards for new and renewal projects; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id6ea0a21582c54c38a123a01e3a1d86fc">
+                                        <enum>(D)</enum>
+ <text>identify the process by which the Secretary may approve replacement of a collaborative applicant that is not a unified funding agency to receive the award in the second fiscal year.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <after-quoted-block>; </after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idffd241ef87e74a0d8679a7aec6a589b3">
+                        <enum>(B)</enum>
+ <text>in subsection (c)(2)—</text> <clause commented="no" display-inline="no-display-inline" id="id17fb72b8a97b465bbaea2284865465d9"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>(A) <header-in-text level="subparagraph" style="OLC">In general</header-in-text>.—Except as provided in subparagraph (B), the Secretary</quote> and inserting <quote>The Secretary</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id66b72f0b154142779ef74d291f802c8a">
+                            <enum>(ii)</enum>
+ <text>by striking subparagraph (B); and</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idb94a089fd7aa4ec4bdd2f29ee4025ebd"> <enum>(C)</enum> <text>in subsection (e), by striking <quote>1 year</quote> and inserting <quote>2 years</quote>;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id2e0efa58ba8e4c2f9b5f082c1d83de96">
+                    <enum>(3)</enum>
+ <text>in section 423(a) (<external-xref legal-doc="usc" parsable-cite="usc/42/11383">42 U.S.C. 11383</external-xref>)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id2c5194eaa04948088031f77f510931d8"> <enum>(A)</enum> <text>in paragraph (4), in the third sentence—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id9d046ba86c184456bdc2f8a66d9f95dd">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>, at the discretion of the applicant and the project sponsor,</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ide6d31d81e84342568e199c47cd872aac">
+                            <enum>(ii)</enum>
+ <text>by inserting <quote>not more than</quote> before <quote>15 years</quote>;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idab734f090d284a558e1a8dc0f0f96c63">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in paragraph (7), in the matter preceding subparagraph (A), by inserting <quote>payment of not more than 6 months of arrears for rent and utility expenses,</quote> after <quote>moving costs,</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="idb267c6b6fa39498b83b6735580a1b5b6">
+                        <enum>(C)</enum>
+ <text>in paragraph (10), by striking <quote>3 percent</quote> and inserting <quote>the greater of $70,000 or 5 percent</quote>;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6ee1d4a44d534d9a9e7dc464edcc78e8">
+                    <enum>(4)</enum>
+ <text>in section 425 (<external-xref legal-doc="usc" parsable-cite="usc/42/11385">42 U.S.C. 11385</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id8fbd4121839d4591b6184ad6f4e5d012">
+                        <subsection id="idd38c90d25a314254b3f29062447b9da3">
+                            <enum>(f)</enum>
+                            <header>Adjustment of costs</header>
+ <text>Not later than 1 year after the date of enactment of this subsection, and on a biennial basis thereafter, the Comptroller General of the United States—</text>
+                            <paragraph id="id56657d152cf949f4bd2c6c138c24b396">
+                                <enum>(1)</enum>
+ <text>shall study the hiring, retention, and compensation levels of the workforce providing the services described in subsection (c), including executive directors, case managers, and front line staff, and examine whether low compensation is undermining program effectiveness; </text>
+                            </paragraph>
+                            <paragraph id="id2d0710adda2b45ea8dbf857833c90d0b">
+                                <enum>(2)</enum>
+ <text>shall submit to the appropriate congressional committees a report on any findings, and to the Secretary any recommendations, as the Comptroller General considers appropriate regarding funding levels for the cost of the supportive services and the staffing to provide the services described in subsection (c); and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idcc7ec1aad8c046048eb27af56fab462d">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">in carrying out the study under paragraph (1), may reference the Consumer Price Index or other similar surveys.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida155729eaf7346babaef1eb7a8e65e12">
+                    <enum>(5)</enum>
+ <text>in section 426 (<external-xref legal-doc="usc" parsable-cite="usc/42/11386">42 U.S.C. 11386</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id4C6A820C335247838949B009C2762D82">
+                        <subsection commented="no" display-inline="no-display-inline" id="ida7f7c236486442d583fefc28b9d38eea">
+                            <enum>(h)</enum>
+                            <header>Inspections</header>
+ <text>When complying with inspection requirements for a housing unit provided to a homeless individual or family using assistance under this subtitle, the Secretary may allow a grantee to—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id99e68182773d4419be94cb378f407fdf">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">conduct a pre-inspection not more than 60 days before leasing the unit;</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id6b0e924a766e4b7cbe38c2b0152ea7ac">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">conduct a remote or video inspection of the unit; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id390f06eddd7e42e7ac4ceb5aeb10e6fa">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">allow the unit to be leased prior to completion of an inspection if the unit passed an alternative Federal inspection within the preceding 12-month period, so long as the unit is inspected not later than 15 days after the start of the lease.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="id8433df02a45a4d92bd01a625c446f329">
+                    <enum>(6)</enum>
+ <text>in section 430 (<external-xref legal-doc="usc" parsable-cite="usc/42/11386d">42 U.S.C. 11386d</external-xref>), by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id24850e79dfef4722ad1f98e7e3e07345">
+                        <subsection id="id982b10a5f3ee4ed8858fced410ca06a3">
+                            <enum>(d)</enum>
+                            <header>Costs paid by program income</header>
+ <text>With respect to grant amounts awarded under this subtitle, costs paid by the program income of a grant recipient may count toward the contributions required under subsection (a) if the costs—</text>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idcedb9fee59eb4f938cf1e21f17fed9eb">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">are eligible expenses under this subtitle; </text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="ida2f6c0724abd4c7cbeaec97899b3a63d">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">meet standards determined by the Secretary; and</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id8b75c6ae6e754546bd0c435bd45c3e10">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">supplement activities carried out by the recipient under this subtitle.</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id414c4121886042b08c200bbf1d4c4dac">
+                <enum>(b)</enum>
+                <header>Other modifications</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5b1af65f09514b0da109e4f4111f452c">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">Definitions</header>
+ <text>In this subsection—</text> <subparagraph id="ide7ae5dfe89054bc8a5ba8a40921f6656"> <enum>(A)</enum> <text>the terms <term>collaborative applicant</term> and <term>eligible entity</term> have the meanings given those terms in section 401 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11360">42 U.S.C. 11360</external-xref>); and</text>
+                    </subparagraph>
+                    <subparagraph id="idea7683080ba644cf8e83a717703880b9">
+                        <enum>(B)</enum>
+ <text>the terms <term>Indian tribe</term> and <term>tribally designated housing entity</term> have the meanings given those terms in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/25/4103">25 U.S.C. 4103</external-xref>).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb3b274d3b1e44006a2292ce1a2adb170">
+                    <enum>(2)</enum>
+                    <header display-inline="yes-display-inline">Nonapplication of civil rights
+                        laws</header>
+ <text>With respect to the funds made available for the Continuum of Care program authorized under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>) under the heading <quote>Homeless Assistance Grants</quote> in the Department of Housing and Urban Development Appropriations Act, 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/260">Public Law 116–260</external-xref>) and under section 231 of the Department of Housing and Urban Development Appropriations Act, 2020 (<external-xref legal-doc="usc" parsable-cite="usc/42/11364a">42 U.S.C. 11364a</external-xref>), title VI of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000d">42 U.S.C. 2000d et seq.</external-xref>) and title VIII of the Civil Rights Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/42/3601">42 U.S.C. 3601 et seq.</external-xref>) shall not apply to applications by or awards for projects to be carried out—</text>
+                    <subparagraph id="id8a31c13a9585437e964510394d1c567b">
+                        <enum>(A)</enum>
+ <text>on or off reservation or trust lands for awards made to Indian tribes or tribally designated housing entities; or</text>
+                    </subparagraph>
+                    <subparagraph id="id2803a665d92b42eb8b8f72aa7bf358be">
+                        <enum>(B)</enum>
+ <text>on reservation or trust lands for awards made to eligible entities.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id037f6c66f6e54c5ca92ac0524910d8ce">
+                    <enum>(3)</enum>
+                    <header>Certification</header>
+ <text>With respect to funds made available for the Continuum of Care program authorized under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>) under the heading <quote>Homeless Assistance Grants</quote> under section 231 of the Department of Housing and Urban Development Appropriations Act, 2020 (<external-xref legal-doc="usc" parsable-cite="usc/42/11364a">42 U.S.C. 11364a</external-xref>)—</text>
+                    <subparagraph id="idfd2e5bc95d1949eabd1c1f3e096b62bc">
+                        <enum>(A)</enum>
+ <text>applications for projects to be carried out on reservations or trust land shall contain a certification of consistency with an approved Indian housing plan developed under section 102 of the Native American Housing Assistance and Self-Determination Act (<external-xref legal-doc="usc" parsable-cite="usc/25/4112">25 U.S.C. 4112</external-xref>), notwithstanding section 106 of the Cranston-Gonzalez National Affordable Housing Act (<external-xref legal-doc="usc" parsable-cite="usc/42/12706">42 U.S.C. 12706</external-xref>) and section 403 of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11361">42 U.S.C. 11361</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="id0db4d93ac8db4b8da7cd65bf67ff365e">
+                        <enum>(B)</enum>
+ <text>Indian tribes and tribally designated housing entities that are recipients of awards for projects on reservations or trust land shall certify that they are following an approved housing plan developed under section 102 of the Native American Housing Assistance and Self-Determination Act (<external-xref legal-doc="usc" parsable-cite="usc/25/4112">25 U.S.C. 4112</external-xref>); and</text>
+                    </subparagraph>
+                    <subparagraph id="id7f9f43acaf8f47c3bc0bf78db3b7ee14">
+                        <enum>(C)</enum>
+ <text>a collaborative applicant for a Continuum of Care whose geographic area includes only reservation and trust land is not required to meet the requirement in section 402(f)(2) of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11360a">42 U.S.C. 11360a(f)(2)</external-xref>).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id6245f9d16b60407aa96412a2ba543166">
+            <enum>5.</enum>
+            <header>Amendments to the Housing Choice Voucher program</header>
+ <text display-inline="no-display-inline">Section 8(o) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437f">42 U.S.C. 1437f(o)</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id755b7bdd38e344cbb28de8e04a5e087a">
+                <enum>(1)</enum>
+ <text>in paragraph (5), by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id2D24B682BFA7407B9CA9D27ACC1D88FB"> <subparagraph commented="no" display-inline="no-display-inline" id="id68505c11e6d24337849cf3ae5b33092a"> <enum>(C)</enum> <header>Exceptions</header> <text>Notwithstanding subparagraph (A)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id9e8365a6d919434ea361d405ad6b32b0">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a public housing agency may accept a third party income calculation and verification of family income for purposes of this subsection if—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="id8ed37678f87443abbb360d764310c4d3">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the calculation and verification was completed for determination of income eligibility for a Federal program or service during the preceding 12-month period; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id5927e4c147af433a9e9456b5f333d209">
+                                <enum>(II)</enum>
+ <text>there has been no change in income or family composition since the calculation and verification under clause (i); and</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idaaff21bc2dad4c8da528d7e6c2ec236d">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">when using prior year income under section 3(a)(7)(B), a public housing agency shall use the income of the family as determined by the agency or owner for the prior calendar year or another 12-month period ending during the preceding 12 months, taking into consideration any redetermination of income between the start of such prior calendar year or other 12-month period and the date of the annual review.</text>
+                        </clause>
+                    </subparagraph>
+                    <after-quoted-block>;</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id1caf806cbb0640d58e0c375a72b8c5d4">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in paragraph (8)—</text> <subparagraph id="idd9ffa4a75de74dcdb5a20bcb0612939d"> <enum>(A)</enum> <text>in subparagraph (A)(iii)—</text>
+                    <clause id="ide108530ba8f64bc4bcc927aedf570c63">
+                        <enum>(i)</enum>
+ <text>in the clause heading, by striking <quote><header-in-text level="clause" style="OLC">for interim period</header-in-text></quote>;</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id9a28835009dc4706aeb8b6b3a17c9316">
+                        <enum>(ii)</enum>
+ <text>in the first sentence—</text> <subclause commented="no" display-inline="no-display-inline" id="id67622a49d61d4d54afbc7e63786f3627"> <enum>(I)</enum> <text display-inline="yes-display-inline">by striking <quote>before</quote> and inserting <quote>without performing</quote>; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="ide903cd726dd54d39a7912704a1eb05db">
+                            <enum>(II)</enum>
+ <text>by striking <quote>has been completed</quote> and all that follows through <quote>subparagraph (B)</quote>; and</text>
+                        </subclause>
+                    </clause>
+                    <clause id="id352ff34843374ae8b153618f43f5d257">
+                        <enum>(iii)</enum>
+ <text>in the second sentence, by striking <quote>subparagraph (D)</quote> and inserting <quote>subparagraphs (D) and (F)</quote>;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="idc64b3f67f9bc4a99bf566426d0fc6dc9">
+                    <enum>(B)</enum>
+ <text>in subparagraph (C), by adding at the end the following: <quote>This subparagraph shall not apply with respect to a dwelling unit for which the public housing agency relied on an alternative inspection method under subparagraph (E) as the initial inspection.</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="id3c113bb8a7124928b147289b160239c5">
+                    <enum>(C)</enum>
+ <text>in subparagraph (E)—</text> <clause commented="no" display-inline="no-display-inline" id="id28e9df8f4dd243a1bbd69dd90ed4df98"> <enum>(i)</enum> <text display-inline="yes-display-inline">in clause (i)—</text>
+                        <subclause commented="no" display-inline="no-display-inline" id="id6c6594940ed74ed088ed4524434dcc42">
+                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">by inserting <quote>(I)</quote> after <quote>(i)</quote>;</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="id0ee1b85f2f0e400eb29ce0e5fd4de034">
+                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">in subclause (I), as so designated, by striking <quote>and</quote> at the end; and</text>
+                        </subclause>
+                        <subclause commented="no" display-inline="no-display-inline" id="idf4903bac5a284a2ba4398ac5933ff7fd">
+                            <enum>(III)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id5d4e87fd3b604204a8ead3cd578c07b4">
+                                <subclause id="idbe5f07c2752448fba0c86677caebe23d" indent="up1">
+                                    <enum>(II)</enum>
+ <text>the public housing agency (or other entity pursuant to paragraph (11)) conducted the inspection during the preceding 12-month period when the unit was occupied by a previous tenant assisted under this subsection or was vacant; or</text>
+                                </subclause>
+                                <subclause commented="no" display-inline="no-display-inline" indent="up1" id="id988b1f774a9e4acd9c4f0107e258a621">
+                                    <enum>(III)</enum>
+ <text display-inline="yes-display-inline">the public housing agency—</text>
+                                    <item commented="no" display-inline="no-display-inline" id="ide95e36d6c37c4e84904e3afda7b07e13">
+                                        <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">conducted a pre-inspection not more than 60 days before leasing a unit;</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="ide2572f398565412fa2c497b01ad40185">
+                                        <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">conducted a remote or video inspection of a unit; or </text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id9db749e6e6f147109a3e286e364b9775">
+                                        <enum>(cc)</enum>
+ <text display-inline="yes-display-inline">allowed a unit to be leased prior to completion of an inspection if the unit passed alternative inspection within the preceding 12-month period, so long as the unit is inspected not later than 15 days after the start of the lease; and</text>
+                                    </item>
+                                </subclause>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idfc469f670d2d4516a986ef1e7d400586">
+                <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id14157137f0d64aad8795bc06bb6d9a85"> <paragraph id="id4df43df462e343ecbc6701720783e1cd" commented="no"> <enum>(23)</enum> <header>Use of housing assistance funds for deposits and holding fees</header> <subparagraph id="id8c50fe0d79534b6a96fa2dc9acc1b1e7" commented="no"> <enum>(A)</enum> <header>In general</header> <text>A public housing agency may use current and prior year available housing assistance for tenant-based rental assistance under this subsection for—</text>
+                            <clause id="idcab2e1f073414e10900e723711861250" commented="no">
+                                <enum>(i)</enum>
+ <text>standard security deposits for rent, utilities, and any other deposits allowed by the Secretary that are necessary to lease a dwelling unit under this subsection; and</text>
+                            </clause>
+                            <clause id="id55a4c369e5e4433496ca9cfad2c2a1af" commented="no">
+                                <enum>(ii)</enum>
+ <text>fees to hold an available dwelling unit under this subsection during the inspection and approval process.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="id1faa10b6a4b64257be49bfd9d6b5b655" commented="no">
+                            <enum>(B)</enum>
+                            <header>Maximum amount</header>
+ <text>The maximum amount a public housing agency may provide to or on behalf of a family under clause (i) or (ii) of subparagraph (A) is the equivalent of 1 month’s rent of the selected unit for each of the purposes under those clauses.</text>
+                        </subparagraph>
+                        <subparagraph id="id334eeae9ae714958a771bcfe5cfae019" commented="no">
+                            <enum>(C)</enum>
+                            <header>Allocation baseline</header>
+ <text>Any funds used for the purposes described in subparagraph (A) shall be part of the allocation baseline for tenant-based contract renewals.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idc5cc9ab7799245a1bed50d2b40179b8f">
+                            <enum>(D)</enum>
+                            <header>Cap</header>
+ <text display-inline="yes-display-inline">The Secretary shall establish a cap to limit the percentage of funds made available under a housing assistance payment contract that a public housing agency may use for the purposes described in subparagraph (A).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+        <section id="id0b16f58ff21e48bca0975c1fa6ff8066">
+            <enum>6.</enum>
+            <header>Technology upgrades</header>
+            <subsection id="idbe440f2bd72e4347a2c97c9db186b310">
+                <enum>(a)</enum>
+                <header>E-Snaps system</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id56b077d4244f4d01aecad4a5cd970363">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>There is authorized to be appropriated to the Secretary $5,000,000 for fiscal year 2025, in addition to amounts otherwise available, to remain available until expended, for information technology upgrades to the E-Snaps system used to support the program application and awards process under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>).</text>
+                </paragraph>
+                <paragraph id="idb0e2264e0a5047cdb359942761c28299">
+                    <enum>(2)</enum>
+                    <header>Development process</header>
+ <text>In the development process of upgrading the E-Snaps system described in paragraph (1), the Secretary shall—</text>
+                    <subparagraph id="idf2765e119d46409da941c4d90210f523">
+                        <enum>(A)</enum>
+ <text>focus on the needs of users of the E-Snaps system, meaning grant recipients and other relevant stakeholders, and take into consideration, to the extent practicable—</text>
+                        <clause id="id62a3a37b5df2492ea24e143c8ca737ae">
+                            <enum>(i)</enum>
+ <text>the guidelines outlined in the U.S. Web Design Standards maintained by the General Services Administration and the Digital Services Playbook and TechFAR Handbook for Procuring Digital Services Using Agile Processes; and</text>
+                        </clause>
+                        <clause id="id179842597bd6441f9719e6034d4f41cd">
+                            <enum>(ii)</enum>
+ <text>the relevant successor documents or recommendations of such guidelines;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="ida7928f33faf6489794b9c2b1dafdab14">
+                        <enum>(B)</enum>
+ <text>use modern, relevant privacy- and security-enhancing technology; and</text>
+                    </subparagraph>
+                    <subparagraph id="idd24cd108407c4ba992505893cd4633ef">
+                        <enum>(C)</enum>
+ <text>plan for the ongoing operations and maintenance of the system and product to ensure its ongoing capability.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id30b8cd2a7cd54f8aa76df2e149ef3e40">
+                    <enum>(3)</enum>
+                    <header>Nonapplication of the Paperwork Reduction Act</header>
+ <text>Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code, shall not apply to any aspect of the development process described in paragraph (2).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idcc64305e74fe4cebb430d95ba4f838d0">
+                <enum>(b)</enum>
+                <header>Expansion of working capital fund for information technology
+                    services</header>
+ <text>Section 7(f) of the Department of Housing and Urban Development Act (<external-xref legal-doc="usc" parsable-cite="usc/42/3535">42 U.S.C. 3535(f)</external-xref>) is amended—</text>
+                <paragraph id="id24EF1A69C7CA4596B52AA9EFA52C4D91">
+                    <enum>(1)</enum>
+ <text>by striking <quote>The Secretary</quote> and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id02DB8BF92C9144ECABEB080600DFB800">
+                        <paragraph id="id51201CA1B4894CEFACA615B948FCB239">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </paragraph> <paragraph id="idED912D0850F643F5BA01E2F7FC90EFB6"> <enum>(2)</enum> <text>by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idca102d4ea77044928ca23ba9fdd6b4a8">
+                        <paragraph id="ida551455d4ba7478184a11e5bf473e8c6">
+                            <enum>(2)</enum>
+                            <header>Working capital fund information technology activities</header>
+                            <subparagraph id="idf452f03867164d1e88bd2fc27231b845">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>The authorized services of the working capital fund established under paragraph (1) (in this paragraph referred to as the <term>Fund</term>) shall include the activities described in this paragraph for information technology, which shall be managed by the Chief Information Officer of the Department under the overall Fund management of the Office of the Chief Financial Officer.</text>
+                            </subparagraph>
+                            <subparagraph id="id0c0a18360cac4ee7846f4013297ea6dc">
+                                <enum>(B)</enum>
+                                <header>Activities</header>
+ <text>The Fund shall be used for recurring and nonrecurring expenses relating to information technology needs of the Department, including services, products, upgrades, modernization, and maintenance needs and projects, for the purposes of meaningfully improving digital service and program delivery and customer experience.</text>
+                            </subparagraph>
+                            <subparagraph id="id9e18727ecfd5481db9b7a0a7b1923221">
+                                <enum>(C)</enum>
+                                <header>Transfers and deposits</header>
+                                <clause id="idb6a6e047dcda46bd935bfaf526a9571e">
+                                    <enum>(i)</enum>
+                                    <header>In general</header>
+ <text>The Fund shall include unobligated balances of expired discretionary funds appropriated in fiscal year 2025 or any succeeding fiscal year from the general fund of the Treasury to the Department of Housing and Urban Development, which may be transferred, not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which they were appropriated, into the Fund for use under this paragraph.</text>
+                                </clause>
+                                <clause id="id9015f0db025a4da6b85ab04b6384bf56">
+                                    <enum>(ii)</enum>
+                                    <header>Salaries and expenses</header>
+ <text>Of the amounts made available for salaries and expenses in a fiscal year, excluding amounts made available under the heading <quote>Office of Inspector General</quote>, a total of up to $10,000,000 may be transferred to the Fund for use under this paragraph.</text>
+                                </clause>
+                                <clause id="id8b5ad2cdbcbd452a8516511ba5f737dd">
+                                    <enum>(iii)</enum>
+                                    <header>Availability</header>
+ <text>Amounts transferred to or deposited in the Fund under this subparagraph shall be available until expended, in addition to such other funds as may be available for the activities described in subparagraph (B), subject to approval by the Office of Management and Budget.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="id796c022b788a4bfbbf98d8f309b78e00">
+            <enum>7.</enum>
+            <header>Improving coordination between health care systems and supportive
+                services</header>
+            <subsection id="id645a9c6277364c53bf4b23ffe662fc22">
+                <enum>(a)</enum>
+                <header>Report by National Academies of Sciences, Engineering, and Medicine</header>
+ <text>Not later than 90 days after the date of enactment of this Act, the Secretary of Health and Human Services and the Secretary of Housing and Urban Development shall seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to conduct and submit to the appropriate congressional committees an evidence-based, nonpartisan analysis that—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf28c8cf103424ae4917b01d3ffc499d7">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">reviews the research on linkages between health care and homelessness and analyzes the effect of greater coordination and partnerships between health care organizations, mental health and substance use disorder and substance use disorder service providers, and housing service providers, including possible cost-savings of providing greater access to health services, recovery housing, or housing-related supportive services for individuals experiencing chronic homelessness and other types of homelessness; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4b80d71c3ffd4b25b8feb81e132bc43a">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">includes policy and program recommendations for improving access to health care and housing, health care and housing outcomes, possible cost-savings and efficiencies, and best practices.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id1d7ae33c9d944a33a8d18bd9dcd472dd">
+                <enum>(b)</enum>
+                <header>Demonstration authority</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id51e917ba346f4655a0b01c72e0933fa2">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Subtitle A of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11360">42 U.S.C. 11360 et seq.</external-xref>) is amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id77094D2FBC2C4D488544CB9B084C3A79">
+                        <section id="id32db0eeba2f841d7a306d00497967da6">
+                            <enum>409.</enum>
+                            <header>Demonstration authority</header>
+                            <subsection commented="no" display-inline="no-display-inline" id="id02dff326becc49a5b73b276b3cd195b9">
+                                <enum>(a)</enum>
+                                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="idcb49ca2355ee46d084da74dd8978f2c3"> <enum>(1)</enum> <header display-inline="yes-display-inline">Covered recipient</header> <text>The term <term>covered recipient</term> means a recipient of assistance under this title.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id5f5c7fa73e1b4a908169aa028ff89c0d">
+                                    <enum>(2)</enum>
+                                    <header>Healthcare organization</header>
+ <text>The term <term>healthcare organization</term> means a provider of physical or behavioral healthcare, including—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6951ecdcb8f742c9981f5e38728584e0">
+                                        <enum>(A)</enum>
+ <text>a hospital;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idc51fea0adf92447b889fbc23f211ed2b"> <enum>(B)</enum> <text>a community health center;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idd96456ffc7c44e1889147b5124d8eea4">
+                                        <enum>(C)</enum>
+ <text>a provider of substance use or mental health services; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="ideb60616735d24a8796c06ded9dc9c974">
+                                        <enum>(D)</enum>
+ <text>a provider of public health services and initiatives, which may include area agencies on aging.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3ca50a1201ca474a86d61d617da1bb1f">
+                                    <enum>(3)</enum>
+                                    <header>Housing provider</header>
+ <text display-inline="yes-display-inline">The term <term>housing provider</term> means an entity, including a grant recipient under subtitle B or C of this title, a public housing agency (as defined in section 3 of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437a">42 U.S.C. 1437a</external-xref>)), or a federally funded organization or a nonprofit organization, providing housing services, including rapid re-housing, transitional housing, housing choice vouchers, and housing-related supportive services to individuals experiencing or at risk of homelessness.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id732cd0f3f3ff45bcb7089523f95d117e">
+                                <enum>(b)</enum>
+                                <header display-inline="yes-display-inline">Authority</header>
+ <text display-inline="yes-display-inline">The Secretary may establish demonstration projects or partnerships that involve collaboration between housing providers and healthcare organizations to provide housing-related supportive services, such as housing navigation, placement, financing, and casework, or improve access to health services for homeless individuals or those at risk of homelessness, including—</text>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3163c9ac6a404910a732a16a73099189">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">assistance in coordinating data systems with the Health Insurance Portability and Accountability Act (<external-xref legal-doc="public-law" parsable-cite="pl/104/191">Public Law 104–191</external-xref>); and</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idbf9eb1a7bb704422a465e450ff1841f4">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">projects or partnerships that are aimed at serving individuals—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id645b0d3de1134458bd86ad72a05f4e1c">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">who are homeless, chronically homeless, or at risk of homelessness; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id8da1f65b31f342ddbb17287c43288af9">
+                                        <enum>(B)</enum>
+ <text>with—</text> <clause id="id02662dae2fa146ef9fe2dc320411ba54"> <enum>(i)</enum> <text>a high-use of emergency services or emergency departments;</text>
+                                        </clause>
+                                        <clause id="id87a9bc93b5154bf78e306267ff12818d">
+                                            <enum>(ii)</enum>
+ <text>chronic disabilities, including physical health or mental health conditions;</text>
+                                        </clause>
+                                        <clause id="iddb9d674c419d4143862f1fcecee17f52">
+                                            <enum>(iii)</enum>
+ <text>substance use disorders;</text> </clause> <clause id="id49e26ae95f8a4852ad6a53476450a748"> <enum>(iv)</enum> <text>serious mental illness; or</text>
+                                        </clause>
+                                        <clause id="idc129fbdeb63b4008a468c12299f381d5">
+                                            <enum>(v)</enum>
+ <text>other severe service needs.</text> </clause> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="idcd771ffbfe944c2c8c27367b37504009"> <enum>(c)</enum> <header>Report</header> <paragraph commented="no" display-inline="no-display-inline" id="idb9407f5e586b43fdb24f7ba47a5da847"> <enum>(1)</enum> <header display-inline="yes-display-inline">Appropriate congressional committees defined</header> <text>In this subsection, the term <term>appropriate congressional committees</term> means—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idD04FBFBA675E401781B8146A6300B995">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the Committee on Banking, Housing, and Urban Affairs of the Senate; and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id1B4E730568304C13BBBAF73744854CD2">
+                                        <enum>(B)</enum>
+ <text>the Committee on Financial Services of the House of Representatives.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id11ccde1c73fb467d8a531d9a0f09e8f6">
+                                    <enum>(2)</enum>
+                                    <header>Requirement</header>
+ <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, and every 4 years thereafter, the Secretary shall submit to the appropriate congressional committees a report on each demonstration project or partnership established under this section.</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idBA575D6D1A7C418BBD52E7A0B799D808">
+                    <enum>(2)</enum>
+                    <header>Technical and conforming amendment</header>
+ <text>The table of contents in section 101(b) of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11301">42 U.S.C. 11301</external-xref> note) is amended by inserting after the item relating to section 408 the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id5F5A55CF3A514B0EB620C0B9DA0E25CE">
+                        <toc>
+                            <toc-entry bold="off" level="section">Sec. 409. Demonstration
+                                authority.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="id75d602849f474c0ab18743a602073597">
+            <enum>8.</enum>
+            <header>Advisory Committee on Homelessness</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idf23f60d2b23c4a30846b3e315d834962">
+                <enum>(a)</enum>
+                <header>Advisory Committee on Homelessness</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id32e45840d9f9448187e5b1c912c3c05b">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Subtitle A of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11360">42 U.S.C. 11360 et seq.</external-xref>), as amended by this Act, is amended by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id24321217D1BC4B268D4D424B4F7D7714">
+                        <section commented="no" display-inline="no-display-inline" id="id3eee952a9be14a32931fb816fee7d424">
+                            <enum>410.</enum>
+                            <header>Advisory Committee on Homelessness</header>
+                            <subsection id="id1975bdb8717f45b6b4fe824951440b06">
+                                <enum>(a)</enum>
+                                <header>Establishment</header>
+ <text>There is established in the Department of Housing and Urban Development (in this section referred to as the <term>Department</term>) the Advisory Committee on Homelessness (in this section referred to as the <term>Committee</term>).</text>
+                            </subsection>
+                            <subsection id="id30983118f98241c0a1f23b17b918feb2">
+                                <enum>(b)</enum>
+                                <header>Membership</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id473166ef09544c7f81a40a2b509096b0">
+                                    <enum>(1)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>The Committee shall consist of not less than 10 and not more than 15 members jointly appointed by the Secretary and the Executive Director of the United States Interagency Council on Homelessness (in this section referred to as the <term>Executive Director</term>) from among the following:</text>
+                                    <subparagraph id="idac1046839fcd421c9c5a2c9d9a934816">
+                                        <enum>(A)</enum>
+ <text>Individuals who have experienced or are currently experiencing homelessness.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id0633a13268624f0993e288a30985c058">
+                                        <enum>(B)</enum>
+ <text>A representative of or advocate for people experiencing homelessness.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id72f7e36576a94f03a3ce0742c5ee9b1d">
+                                        <enum>(C)</enum>
+ <text>A community-based provider of services for people experiencing homelessness.</text>
+                                    </subparagraph>
+                                    <subparagraph id="idb8dbf62694de47a486f5cb2774d4520e">
+                                        <enum>(D)</enum>
+ <text>A provider of or expert in affordable housing or permanent housing services.</text>
+                                    </subparagraph>
+                                    <subparagraph id="idb552d2aef2674cfa8363f747a82db682">
+                                        <enum>(E)</enum>
+ <text>A provider of or expert in health care for people experiencing homelessness.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id1e1921b180b442af885b791e73c9e566">
+                                        <enum>(F)</enum>
+ <text>A provider of mental health, substance use disorder, or wraparound services.</text>
+                                    </subparagraph>
+                                    <subparagraph id="idc38e9b802bd140e4b1baaf4c5447780e">
+                                        <enum>(G)</enum>
+ <text>A provider of job training and employment assistance programs or services.</text>
+                                    </subparagraph>
+                                    <subparagraph id="iddc7b1876a1ce4b73abe93a0ebd8b7744">
+                                        <enum>(H)</enum>
+ <text>A representative of a federally-recognized Indian tribe who has experience in Tribal housing and homelessness services.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id9558c2a700af49248c0e21abc49e75b7">
+                                        <enum>(I)</enum>
+ <text>An individual representing local government or local law enforcement.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id997a375ab5c84a16a1bf5bd17c27eed7">
+                                        <enum>(J)</enum>
+ <text>Such other organization, group, or stakeholder as the Secretary and Executive Director consider appropriate. </text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idd39f497678664ce5891c4e89b4617e77">
+                                    <enum>(2)</enum>
+                                    <header>Ex-officio members</header>
+ <text>The Committee shall include, as ex officio members—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idca7111f21d9046a99481c36f2e16e010"> <enum>(A)</enum> <text display-inline="yes-display-inline">the Secretary, or a representative thereof, and the Executive Director, or a representative thereof;</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id0f4be97eb90c4917babade254a3ce6b6">
+                                        <enum>(B)</enum>
+ <text>the Secretaries, or representatives thereof, of—</text>
+                                        <clause id="idfb61e5aec4a845de842145bc2572a40c">
+                                            <enum>(i)</enum>
+ <text>Health and Human Services;</text> </clause> <clause id="idd6eec2acfdb74bc893f3175138390a12"> <enum>(ii)</enum> <text>Agriculture;</text>
+                                        </clause>
+                                        <clause id="id3a790f28282247888ac3ea079871287b">
+                                            <enum>(iii)</enum>
+ <text>Education;</text> </clause> <clause id="id7ad4787411114a2dbb5ac1b652daea47"> <enum>(iv)</enum> <text>Veterans Affairs;</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="id2D9E49510A534DB3928A89302B596BFC">
+                                        <enum>(C)</enum>
+ <text>the Assistant Secretary of Health and Human Services for Mental Health and Substance Use, or a representative thereof;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id7C04F44DCDB347BA9151AA983857839D">
+                                        <enum>(D)</enum>
+ <text>the Director of the Bureau of Indian Affairs, or a representative thereof; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="id65ceae90a7d54f8bb18676b88f28c337">
+                                        <enum>(E)</enum>
+ <text>such other ex officio members as the Secretary and the Executive Director consider appropriate.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idf5d629a27f8842739f58d199939d44ef">
+                                    <enum>(3)</enum>
+                                    <header>Period of appointment; vacancies</header>
+                                    <subparagraph id="idb2480cb538a043c184d7d50710f94e13">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text>The Secretary and Executive Director shall determine the terms of service of the members of the Committee, except that—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="ide8013dc6c5734e4c82753a2f1e0d7f6c">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a term of service may not exceed 4 years; and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="idb88629a1f3ff4ef6b4bdb0474ac6c39b">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the Secretary may reappoint any member for additional terms of service.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idcd9c1afa2a58414b9033273c480f1bea">
+                                        <enum>(B)</enum>
+                                        <header>Vacancies</header>
+ <text>A vacancy in the Committee—</text> <clause id="id76B0CB8404734FF6A1DF2A252ED8694F"> <enum>(i)</enum> <text>shall not affect the powers of the Committee; and</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id484DA57A7CD74ED1BC86CBF65528ABB5">
+                                            <enum>(ii)</enum>
+ <text>shall be filled in the same manner as the original appointment. </text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="idCF0A1C97534F42D0AE40072C4235EF91">
+                                <enum>(c)</enum>
+                                <header>Meetings</header>
+                                <paragraph id="ID713A12DE7D79416DBEBDD4057F256299">
+                                    <enum>(1)</enum>
+                                    <header>Initial meeting</header>
+ <text>Not later than 6 months after the date on which all members of the Committee have been appointed, the Committee shall hold the first meeting of the Committee.</text>
+                                </paragraph>
+                                <paragraph id="ID67F067576FFC463A842A5F7DA6A093C8">
+                                    <enum>(2)</enum>
+                                    <header>Frequency</header>
+ <text>The Committee shall meet at the call of the Chairperson.</text>
+                                </paragraph>
+                                <paragraph id="ID7A3C368FA83449AD90220C7B181165BB">
+                                    <enum>(3)</enum>
+                                    <header>Quorum</header>
+ <text>A majority of the members of the Committee shall constitute a quorum, but a lesser number of members may hold hearings.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="ID79CF96D103FD4274ADF268D788E44827">
+                                <enum>(d)</enum>
+                                <header>Chairperson and Vice Chairperson</header>
+ <text>The Committee shall select a Chairperson and Vice Chairperson from among the members of the Committee.</text>
+                            </subsection>
+                            <subsection id="idbf2fc611e88d4bc499f4fb3c1a2043e7">
+                                <enum>(e)</enum>
+                                <header>Best practices</header>
+ <text>The Secretary and the Executive Director shall implement strategies and activities associated with best practices of incorporating advisory groups of people with lived experience, this may include—</text>
+                                <paragraph id="idd05adfe9860c4c9daab73dcc4199612b">
+                                    <enum>(1)</enum>
+ <text>orientation and training for Committee members on the work of the Secretary, the United States Interagency Council on Homelessness, and relevant agencies;</text>
+                                </paragraph>
+                                <paragraph id="id901f5f97cd5b4a9d9ef517bbdeaa9ac6">
+                                    <enum>(2)</enum>
+ <text>training and professional development on best practices for effective engagement with the lived experience advisory group for involved staff for the Department; and</text>
+                                </paragraph>
+                                <paragraph id="idd7394c3f7a994623a17281a49bc547d8">
+                                    <enum>(3)</enum>
+ <text>strategies to reduce barriers to participation for individuals with lived experience of homelessness. </text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="id92ffb275afcc448f83d1975ada7c4622">
+                                <enum>(f)</enum>
+                                <header>Duties of the Committee</header>
+                                <paragraph id="ideb77881d99614801bbd338ec7428e74a">
+                                    <enum>(1)</enum>
+                                    <header>Advice to Secretary and Executive Director</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idb63f2b8cfa814de08bd40e87bf33c769">
+                                        <enum>(A)</enum>
+                                        <header display-inline="yes-display-inline">Consultation</header>
+ <text>The Secretary and the Executive Director shall consult with and seek the advice of the Committee on a regular basis with respect to policy, programs, and initiatives related to homelessness.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id6cb1875f33bb46349c067e7c1267af42">
+                                        <enum>(B)</enum>
+                                        <header>Activities</header>
+ <text>In providing advice to the Secretary and Executive Director under this subsection, the Committee, drawing from their own independent judgement, shall—</text>
+                                        <clause id="id4e5109f61daf41459995a819c8196168">
+                                            <enum>(i)</enum>
+ <text>assemble and review information relating to the needs, experiences, and expertise of people experiencing homelessness;</text>
+                                        </clause>
+                                        <clause id="idcdec759955f946d6b113fa0d97e55237">
+                                            <enum>(ii)</enum>
+ <text>provide an on-going assessment of the effectiveness of the policies, programs, and services of the Department in assisting people experiencing homelessness and creating interim, transitional, and permanent housing opportunities;</text>
+                                        </clause>
+                                        <clause id="id2862596141ea479f9069d77bc6c63e98">
+                                            <enum>(iii)</enum>
+ <text>provide on-going advice on the most appropriate, effective, and dignified means of assisting all populations of people experiencing homelessness; and</text>
+                                        </clause>
+                                        <clause id="idcd0f0f06ddaa48d78af275111830ac5d">
+                                            <enum>(iv)</enum>
+ <text>provide on-going insights for departments, policies, and programs across the Federal Government that serve people experiencing homelessness.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="idf4ac5a2e5a804e00930e509039bb1c4b">
+                                    <enum>(2)</enum>
+                                    <header>Additional activities</header>
+ <text>The Committee shall—</text> <subparagraph id="idda3d21b352794e3094bf1c0610ec15de"> <enum>(A)</enum> <text>primarily review the continuum of homelessness and homelessness prevention services provided by the Department and assess new policies, programs, and procedures related to homelessness resources, supportive services, and prevention, including—</text>
+                                        <clause id="id6822a1ded14f4301afd3a265e822646e">
+                                            <enum>(i)</enum>
+ <text>identifying recommendations to address programmatic gaps and barriers to effectively serving the full demographic and geographic spectrum of people experiencing homelessness and at risk of homelessness;</text>
+                                        </clause>
+                                        <clause id="id8405f6a038bc4733b6c160d4b0bcdf37">
+                                            <enum>(ii)</enum>
+ <text>uplifting best practices, innovative solutions, efficiencies, and local policy initiatives for consideration by the Department, as well as identifying successes within the policies and programs of the Department; and</text>
+                                        </clause>
+                                        <clause id="id51c05d23be214e5db27eb97c1ae67e6e">
+                                            <enum>(iii)</enum>
+ <text>identifying opportunities for increased liaison by the Department with nongovernmental organizations, State and local governments, and individual groups providing services to homeless populations;</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="idcced99d3939046c78eb24e99309ac135">
+                                        <enum>(B)</enum>
+ <text>advise agency partners within the United States Interagency Council on Homelessness to strengthen coordination of all services involved in addressing needs of people experiencing homeless, including by—</text>
+                                        <clause id="idce2d5572e4de47de9b7b5fc1e161c344">
+                                            <enum>(i)</enum>
+ <text>identifying recommendations to strengthen the accessibility and efficacy of Federal programs and policies that serve people experiencing homelessness; and</text>
+                                        </clause>
+                                        <clause id="idfcf262a2d99c48459c38db42f4461072">
+                                            <enum>(ii)</enum>
+ <text>identifying areas for increased streamlining, flexibilities, efficiency, and synchronization under existing laws and policies to promote effective coordination of Federal agencies with State and local agencies addressing homelessness; and</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="idcb210628f53e48e2ae61f689e49fede6">
+                                        <enum>(C)</enum>
+ <text>perform such other functions as the Secretary, the Executive Director, and Committee members may direct.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="IDBF35816E08534CFC835DB84FCD77111A">
+                                <enum>(g)</enum>
+                                <header>Powers of Committee</header>
+                                <paragraph id="ID78DA905C4EAE49B0AF74CB57183B6E1A">
+                                    <enum>(1)</enum>
+                                    <header>Hearings</header>
+ <text>The Committee may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Committee considers advisable to carry out this section.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="id385B0BF713C84647989A51A8BF846505">
+                                    <enum>(2)</enum>
+                                    <header>Information from Federal agencies</header>
+                                    <subparagraph commented="no" id="id03B4F3592AD44AC5BB98277E37F689C3">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text>The Committee may secure directly from a Federal department or agency such information as the Committee considers necessary to carry out this section.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idEEC5F6AA1ADB46588943EF27D3AC4D94">
+                                        <enum>(B)</enum>
+                                        <header>Furnishing information</header>
+ <text>On request of the Chairperson of the Committee, the head of the department or agency shall furnish the information to the Committee.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="ID697F1CDBA8724CB4AD225E5D97B10BD6">
+                                    <enum>(3)</enum>
+                                    <header>Postal services</header>
+ <text>The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="IDCC4D9C4DC9ED4F319C2D4949548B9F15">
+                                    <enum>(4)</enum>
+                                    <header>Donations</header>
+ <text>The Committee may accept, use, and dispose of donations of services or property.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ID5B2226B82D614F6AA60C08533C1FED30">
+                                <enum>(h)</enum>
+                                <header>Committee personnel matters</header>
+                                <paragraph id="IDF9E4CF3EA6AC4F01B81923D97C022F5A">
+                                    <enum>(1)</enum>
+                                    <header>Compensation of members</header>
+ <text>A member of the Committee who is not paid by their employer while attending and participating in activities of the Committee may receive compensation at a rate established by the Secretary and Executive Director and in accordance with guidance of the Department on best practices for compensating people with expertise based on their lived experience of homelessness.</text>
+                                </paragraph>
+                                <paragraph id="ID8AB9CAB7544542CBBCD32562861B7980">
+                                    <enum>(2)</enum>
+                                    <header>Travel expenses</header>
+ <text>A member of the Committee who is not paid by their employer while attending and participating in activities of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Committee.</text>
+                                </paragraph>
+                                <paragraph commented="no" id="ID771CB422D4684EF88424586CBA7942C6">
+                                    <enum>(3)</enum>
+                                    <header>Executive director and staff</header>
+                                    <subparagraph commented="no" id="ID99AD8891AD904A7EBF3A1D3EE5A99435">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text>The Secretary shall detail a staff member of the Department of Housing and Urban Development to serve as executive director of the Committee and such other additional personnel as may be necessary to enable the Committee to perform its duties, except that the appointment of an executive director shall be subject to confirmation by the Committee.</text>
+                                    </subparagraph>
+                                    <subparagraph id="IDA9D71553FE6B470ABBF61FBF5DCE8D94">
+                                        <enum>(B)</enum>
+                                        <header>Detail of government employees</header>
+ <text>A Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="IDD761928855434025A0BC6D8D636885FE">
+                                    <enum>(4)</enum>
+                                    <header>Procurement of temporary and intermittent
+                                        services</header>
+ <text>The Chairperson of the Committee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title. </text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ida1acc474b37c41339e2d3c13fd7a3d6e">
+                                <enum>(i)</enum>
+                                <header>Reports</header>
+                                <paragraph id="id83ddf3df962c4ddd8525fe8f521c5089">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>Not later than 3 months after the Annual Homelessness Assessment Report is released each year, the Committee shall submit to the Secretary and the Executive Director a brief report on select programs and activities of the Department and United States Interagency Council on Homelessness that relate to homelessness, which may include—</text>
+                                    <subparagraph id="id3e7e1bbdf0ce4a2bb4b7d74e62349dee">
+                                        <enum>(A)</enum>
+ <text>an assessment of the experiences and needs of people experiencing homelessness;</text>
+                                    </subparagraph>
+                                    <subparagraph id="idcb7fe87a2c5d4593b6fad9ef6ba2418e">
+                                        <enum>(B)</enum>
+ <text>a brief review of successes and areas to strengthen within programs and activities of the Department and United States Interagency Council on Homelessness;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id61a990d13156479c9d5d5f4a08c0943d">
+                                        <enum>(C)</enum>
+ <text>a review of the activities of the Committee; and</text>
+                                    </subparagraph>
+                                    <subparagraph id="idaf0fbb4748ef43748b8d549cab94fb11">
+                                        <enum>(D)</enum>
+ <text>such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id487d9847da714810ba34818c43077938">
+                                    <enum>(2)</enum>
+                                    <header>Transmission to Congress</header>
+ <text>Not later than 90 days after the receipt of a report under paragraph (1), the Secretary shall transmit to the Committee Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a copy of the report, together with any comments and recommendations concerning the report that the Secretary considers appropriate.</text>
+                                </paragraph>
+                                <paragraph id="id4796a93cce874690a8229e5a101cd44a">
+                                    <enum>(3)</enum>
+                                    <header>Additional reports and recommendations</header>
+ <text>The Committee may submit to the Secretary and the Executive Director such other reports and recommendations as the Committee considers appropriate.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="id7c3575e48ce140ac86c4d5687279319a">
+                                <enum>(j)</enum>
+                                <header>Termination</header>
+ <text>Section 1013 of title 5, United States Code, shall not apply to the Committee.</text>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="idb3ce79a9b92148999bbaa935440e8ad5">
+                                <enum>(k)</enum>
+                                <header>Authorization of appropriations</header>
+ <text display-inline="yes-display-inline">There is authorized to be appropriated for the Committee $150,000 for each of fiscal years 2025 through 2030 to carry out this section, to remain available until expended.</text>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id63FB6CC1FF244C7DACBE98FCCA441843">
+                    <enum>(2)</enum>
+                    <header>Technical and conforming amendment</header>
+ <text>The table of contents in section 101(b) of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11301">42 U.S.C. 11301</external-xref> note), as amended by this Act, is amended by inserting after the item relating to section 409 the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idA0C05E11FE2F4946A688D5BB53D5F53B">
+                        <toc>
+                            <toc-entry bold="off" level="section">Sec. 410. Advisory Committee on
+                                Homelessness.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idbb595dd82cfc45f1b8356482effbe145">
+                <enum>(b)</enum>
+                <header>Grantees and member agencies</header>
+ <text display-inline="yes-display-inline">The Secretary and the United States Interagency Council on Homelessness shall support its grantees and Federal member agencies in incorporating individuals with lived experience of homelessness within their homelessness programs, relevant committees, and workgroups, including by—</text>
+                <paragraph id="id25b2c38416ae47749c3ab87080da1882">
+                    <enum>(1)</enum>
+ <text>examining opportunities to incentivize meaningfully including the expertise of individuals with lived and ongoing experiences of homelessness in grants, policies, and programs that impact individuals at risk of or experiencing homelessness, as well as opportunities to compensate people with lived experience for their contributions; and</text>
+                </paragraph>
+                <paragraph id="idefab4f9676d44074a4bbed713cac1936">
+                    <enum>(2)</enum>
+ <text>addressing barriers such as Federal program eligibility and caps on earned income to ensure individuals with lived experience of homelessness are compensated for their participation in planning activities and input processes without risking any benefits or assistance that they receive from the Federal Government, which may include the provision of waivers, subject to a process determined by the Secretary, regarding eligibility for Federal housing assistance programs to individuals who would otherwise be eligible for those programs if not for the compensation provided for their consultation services.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="id5ce27dfff52f469c9c33b4be8f389b65">
+            <enum>9.</enum>
+            <header>Streamlining coordinated entry</header>
+            <subsection id="id4f3a692eee794eaaa642b777658750df">
+                <enum>(a)</enum>
+                <header>Audit by the Comptroller General</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall—</text>
+                <paragraph id="id51df3c7ff53f404cb4c4478080a0f750">
+                    <enum>(1)</enum>
+ <text>conduct a multi-community evaluation of the operations of coordinated assessment systems by the Continuum of Care Program under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>) program to examine the efficiency, accuracy, and outcomes of those operations; and</text>
+                </paragraph>
+                <paragraph id="id1f5e5b0b75664409b17e01976fdd9acf">
+                    <enum>(2)</enum>
+ <text>submit to the appropriate congressional committees on any findings and to the Secretary on any recommendations, as the Comptroller General considers appropriate, for a more effective and efficient coordinated entry process.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id9c562bbf96b248da84602bcfa3a9ae10">
+                <enum>(b)</enum>
+                <header>Assessments</header>
+ <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, the Secretary shall—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc2e09a6239294a9ba458b7d0ef20a7fa">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">evaluate the coordinated assessment processes under the Continuum of Care Program under subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11381">42 U.S.C. 11381 et seq.</external-xref>), which shall include—</text>
+                    <subparagraph commented="no" id="ida9c5fee87773414692372b1f51cd551d">
+                        <enum>(A)</enum>
+ <text>a request for information from continuums of care about coordinated entry tools, processes, barriers, documentation barriers, and necessary guidance;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="id46ba032c62e64309a6ed7bb778a17499">
+                        <enum>(B)</enum>
+ <text>incorporating findings from relevant reports and demonstrations of the Department of Housing and Urban Development including relevant reports such as the report described in subsection (a); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="idb6a7252ef12e4bd78a35299fdab9b4e2">
+                        <enum>(C)</enum>
+ <text>consulting with organizations with expertise in providing health care to people experiencing homelessness on best practices in assessment tools for prioritizing resources and characterizing chronic homelessness and people experiencing homelessness with high-service needs;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="iddff795ebd69145178ea4c10821b31ccc">
+                    <enum>(2)</enum>
+ <text>issue an updated notice, which shall include guidance—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idb79516391fc34c3aa40020bea05ea63e"> <enum>(A)</enum> <text display-inline="yes-display-inline">on effective assessment processes that remove barriers, streamline access, minimize bias, allow for coordination with public housing agencies, include trauma-informed data collection practices, improve accuracy, address needs for underserved groups, and successfully divert individuals from homelessness; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="id3faae7d1b9934f83a2114a0a88c1faa9">
+                        <enum>(B)</enum>
+ <text>that includes all key populations and subpopulations, including consideration for age, family status, health status, or other vulnerabilities, access points, prioritization, programs, and the programs and systems serving individuals experiencing homelessness and that allow for local flexibility and tailoring based on the needs and resources within the specific community; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc1868a84b2f043c992f860f30c5b5422">
+                    <enum>(3)</enum>
+ <text>establish a timely, periodic procedure to request feedback on coordinated assessment and update the guidance, which may include conducting a request for information not less frequently than once every 5 years.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="iddd307ba4a52b405aa0617643636ed4e9">
+            <enum>10.</enum>
+            <header>Streamlining documentation requirements</header>
+            <subsection id="idc4cc3b3d041c40c29e2878fe79d5a4d5">
+                <enum>(a)</enum>
+                <header>Assessment</header>
+ <text>Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Secretary and the appropriate congressional committees a report that assesses—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id297cfcda74504fe5b28170d4de97ab98">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the documentation requirements (beyond photo identification) for determining eligibility and resource prioritization for homelessness assistance programs of the Department;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id21392ebf6a6c4d3981d390971aaa0988">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the influence of those documentation requirements on housing access and resource access; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide898ae571aa34c5b9dd92709ea4b2491">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">recommendations for reducing documentation barriers to homelessness assistance programs of the Department and evaluating the opportunity to incorporate the use of State-issued, existing forms of digital identification that States have provided all of their residents and are not specific to people experiencing homelessness.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id9a158884a7504e319c149990f03153f6">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Evaluation</header>
+ <text>The Secretary shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="idc44684f621274d3ebb4ce4e2e6e1ea83"> <enum>(1)</enum> <text>evaluate the assessment required under subsection (a);</text>
+                </paragraph>
+                <paragraph id="idcf7d4820603148f4816841b48d84e2f7">
+                    <enum>(2)</enum>
+ <text>publish a request for information from continuums of care and public housing agencies about the matters described in paragraphs (1), (2), and (3) of subsection (a); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id20ff30b6e7614fca89b4ed164af1ba5f">
+                    <enum>(3)</enum>
+ <text>submit to the appropriate congressional committees ongoing reports on the impact of waivers provided in August 2023, and any similar, subsequent waivers, to modify admissions to the housing choice voucher program under section 8(o) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437f">42 U.S.C. 1437f(o)</external-xref>) and expedite assistance to homeless individuals.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="ide8fc30cba47843379c2b189f31e679a9">
+            <enum>11.</enum>
+            <header>Improving targeted data collection, funding, and coordination</header>
+            <subsection id="idfa56baf6d4e84387b43c8c4e29b05178">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>The Secretary shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="idcad8fa2348a641dfbb881561648c9ce2"> <enum>(1)</enum> <text display-inline="yes-display-inline">issue not less than 1 request for information on—</text>
+                    <subparagraph id="idfe841e938e9f45a0a9f399424d72df4c">
+                        <enum>(A)</enum>
+ <text>improving data collection, including through the use of the Homeless Management Information System or other data systems,</text>
+                    </subparagraph>
+                    <subparagraph id="id7ad863ce8c7d4290ac1e47add62a6c33">
+                        <enum>(B)</enum>
+ <text>coordination and use of data between housing and homelessness providers and physical, mental, and behavioral health organizations, substance use treatment providers, the Department of Veterans Affairs, and the criminal justice system for purposes of programs involved with providing services for people experiencing or at risk of homelessness; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id291bb951f1c243c8b667773f82ff41ec">
+                        <enum>(C)</enum>
+ <text>the potential use and value of using artificial intelligence models for the purpose of improving program effectiveness and assessing the effectiveness of interventions for people experiencing or at risk of homelessness;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id2f8f4e402071445db230c46e365dce85">
+                    <enum>(2)</enum>
+ <text>consider providing incentives to improve data collection, enhance the use of the Homeless Management Information System, implement community information exchanges, and strengthen the coordination of data from physical, mental, and behavioral health organizations and the criminal justice system with housing and homelessness providers, in order to target resources for housing, outreach, homelessness prevention, and housing-related supportive services for homeless individuals, chronically homeless individuals, or those at risk of homelessness with significant criminal justice system or law enforcement interaction;</text>
+                </paragraph>
+                <paragraph id="id79bf88bed186476794a7884c843ff692">
+                    <enum>(3)</enum>
+ <text>coordinate with the Secretary of the Department of Veterans Affairs on data sharing to improve coordination between data for vouchers provided under section 8(o)(19) of the United States Housing Act of 1937 (<external-xref legal-doc="usc" parsable-cite="usc/42/1437f">42 U.S.C. 1437f(o)(19)</external-xref>), the Homeless Management Information System, and any other applicable homeless program supported by the Department of Veterans Affairs; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                    id="idf2b151b5ce1e499badc0da7fb689e505">
+                    <enum>(4)</enum>
+ <text>issue guidance to establish best practices and mechanisms to enable Homeless Management Information System data to be made available in a usable format for academic researchers using artificial intelligence models without including personally-identifying information and with appropriate risk-mitigation strategies in place, with the aim of improving the understanding and effectiveness of interventions for people experiencing or at risk of homelessness.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idfe28d8ddf96246a99b430ef8ffd87900">
+                <enum>(b)</enum>
+                <header>Demonstration authority</header>
+ <text>The Secretary may use unobligated funding to pilot demonstration projects or partnerships between the entities described in subsection (a)(2) for purposes of improving access to housing and support services necessary for gainful and permanent employment, which may include flexibility and waivers related to—</text>
+                <paragraph id="ida2bdb652d9434a2f92f8c0dde65d99ab">
+                    <enum>(1)</enum>
+ <text>program requirements under subtitles B and C of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11371">42 U.S.C. 11371 et seq.</external-xref>, 11381 et seq.);</text>
+                </paragraph>
+                <paragraph id="id2fe3a746dc7740a09817d7b95f44091e">
+                    <enum>(2)</enum>
+ <text>flexibility to serve individuals exiting an institution where they have resided for 120 days or less and who resided in an emergency shelter or place not meant for human habitation immediately before entering that institution;</text>
+                </paragraph>
+                <paragraph id="id50ede7b3d4bc47a79840d30ec92f5904">
+                    <enum>(3)</enum>
+ <text>flexibility to serve individuals exiting an institution where they have resided and who otherwise lack a fixed, regular, and adequate nighttime residence; or</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide318c42db61d4d5cac176fad8ed8d535">
+                    <enum>(4)</enum>
+ <text>flexibility to serve individuals exiting the criminal justice system.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id92eee7116b4f4a31a4c6ba32a21fbf51">
+                <enum>(c)</enum>
+                <header>USICH report</header>
+ <text>Following a reasonable time after the conclusion of a demonstration project or partnership described in subsection (b), the United States Interagency Council on Homelessness shall issue a publicly available report summarizing those efforts and recommending best practices.</text>
+            </subsection>
+            <subsection id="idd0a6a6a67ecf4ab796adde7e5f68f473">
+                <enum>(d)</enum>
+                <header>Guidance</header>
+ <text>The Secretary, in coordination with the Attorney General, shall issue guidance on best practices for improving targeted data collection, funding, and coordination relating to behavioral health and criminal justice system interaction with housing assistance and homelessness programs for the purpose of diverting people who are exiting institutions from entering homelessness.</text>
+            </subsection>
+        </section>
+        <section id="id4edf62c41ce14510b105d8847acd684d">
+            <enum>12.</enum>
+            <header>Authorization for Interagency Council on Homelessness</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idda7e4bf943b541ab9757dc908465e101">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Title II of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11311">42 U.S.C. 11311 et seq.</external-xref>) is amended—</text>
+                <paragraph id="idc4c0f71d299e4a3bb91e09ef97cebdca">
+                    <enum>(1)</enum>
+ <text>in section 204(a) (<external-xref legal-doc="usc" parsable-cite="usc/42/11314">42 U.S.C. 11314(a)</external-xref>)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id53621e5ed1734d1bb558a1c398eab31c"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking <quote>The Council</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id63EB0B7ABCDE46398209EFF7A4022F3D">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id583413b52599415c968fd483f65b67a5">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The Council</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id28fad17293c84363ad5843670d7c0301"> <enum>(B)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id15E0C5C748104D02892D35CDB752F975">
+                            <paragraph commented="no" display-inline="no-display-inline" id="id5fa7f9f3363045cd97b90fcd8ca64f53">
+                                <enum>(2)</enum>
+                                <header>Testimony</header>
+ <text>The Executive Director of the Council shall annually testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the coordinated response to homelessness by the Federal Government.</text>
+                            </paragraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0fea2f62fac646d09c67d021aa9dce71">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in section 208 (<external-xref legal-doc="usc" parsable-cite="usc/42/11318">42 U.S.C. 11318</external-xref>), by striking <quote>to carry out this title $3,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal years 2011</quote> and inserting <quote>such sums as may be necessary to carry out this title until the date that is 7 years after the date of enactment of the <short-title>Reducing Homelessness Through Program Reform Act</short-title></quote>;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id57248bc2e8ab4d3a97414ac867101f1f">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">by striking section 209 (<external-xref legal-doc="usc" parsable-cite="usc/42/11319">42 U.S.C. 11319</external-xref>); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idaa3dc8bc9e234970b94ee15b15d1d752">
+                    <enum>(4)</enum>
+ <text>by redesignating section 210 (<external-xref legal-doc="usc" parsable-cite="usc/42/11320">42 U.S.C. 11320</external-xref>) as section 209.</text> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="id655fd97295844f33badb8766ff384f09"> <enum>(b)</enum> <header>Technical and conforming amendment</header> <text>The table of contents in section 101(b) of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11301">42 U.S.C. 11301</external-xref> note) is amended by striking the items relating to sections 209 and 210 and inserting the following:</text>
+                <toc>
+                    <toc-entry level="section" bold="off"><quote>Sec. 209. Encouragement of State
+                            involvement.</quote>.</toc-entry>
+                </toc>
+            </subsection>
+        </section>
+        <section commented="no" id="idd14a168586904108b09f4c565f4bfe9d">
+            <enum>13.</enum>
+            <header>Evaluation</header>
+ <text display-inline="no-display-inline">Not later than 2 years after the date of enactment of this Act, the Secretary shall conduct an evaluation and submit to the appropriate congressional committees, and make publicly available, a report on grant allocation amounts, matching requirements, and funding under the Emergency Solutions Grants program and the Continuum of Care program under subtitles B and C, respectively, of title IV of the McKinney-Vento Homeless Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/11371">42 U.S.C. 11371 et seq.</external-xref>, 11381 et seq.), which shall include surveys of the field, unmet need (on a relative and absolute basis), and local program availability compared to community needs in small States, small communities, and Tribal and rural communities, as it relates to program funding levels.</text>
+        </section>
+        <section id="id1ed9fb6123734b57b0470e56ffa460ee">
+            <enum>14.</enum>
+            <header>Rule of construction</header>
+ <text display-inline="no-display-inline">Nothing in this Act or the amendments made by this Act shall be construed to limit the authority of the Secretary to provide flexibility under housing laws in effect as of the date of enactment of this Act. The flexibilities and waivers authorized under this Act and the amendments made by this Act shall not replace or result in the termination of other flexibilities and waivers that the Secretary is authorized to exercise.</text>
+        </section>
+    </legis-body>
+</bill>
+

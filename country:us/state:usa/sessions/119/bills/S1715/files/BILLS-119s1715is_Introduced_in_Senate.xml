@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25651-TM4-L0-V3G">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S1715 IS: Protecting Privacy in Purchases Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 1715</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250512">May 12, 2025</action-date>
+            <action-desc><sponsor name-id="S407">Mr. Hagerty</sponsor> (for himself, <cosponsor name-id="S437">Mr. Justice</cosponsor>, <cosponsor name-id="S293">Mr.
+                    Graham</cosponsor>, <cosponsor name-id="S323">Mr. Risch</cosponsor>, <cosponsor name-id="S410">Ms. Lummis</cosponsor>, <cosponsor name-id="S373">Mr.
+                    Cassidy</cosponsor>, <cosponsor name-id="S344">Mr. Hoeven</cosponsor>,
+                    <cosponsor name-id="S417">Mr. Budd</cosponsor>, <cosponsor name-id="S375">Mr.
+                    Daines</cosponsor>, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S423">Mr. Ricketts</cosponsor>, <cosponsor name-id="S398">Mr.
+                    Cramer</cosponsor>, <cosponsor name-id="S266">Mr. Crapo</cosponsor>, <cosponsor name-id="S404">Mr. Scott of Florida</cosponsor>, <cosponsor name-id="S419">Mr.
+                    Mullin</cosponsor>, <cosponsor name-id="S357">Mrs. Fischer</cosponsor>, and
+                    <cosponsor name-id="S317">Mr. Barrasso</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit payment card networks and covered entities from requiring the
+            use of or assigning merchant category codes that distinguish a firearms retailer from a
+            general merchandise retailer or sporting goods retailer, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H74492021A81F441EBDDF2F00481FCDA9">
+        <section section-type="section-one" id="H59EBC581C6C743DBB9C803C6A43521E5">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Privacy in Purchases Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="H6341E7197C314C78B2FB44BC59439AAE">
+            <enum>2.</enum>
+            <header>Distinguishing firearms sales</header>
+            <subsection id="HC6E0649155AD4CEF8F7A93C86F810471">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="HFA3A7EA92FE2440E8E1D829AEEAFB743"> <enum>(1)</enum> <header>Ammunition</header> <text>The term <term>ammunition</term> has the meaning given the term in section 921(a)(17)(A) of title 18, United States Code, as applied to a firearm, as defined in paragraph (3).</text>
+                </paragraph>
+                <paragraph id="H30912E9D54D740F08D07BE1A94D1A325">
+                    <enum>(2)</enum>
+                    <header>Covered entity</header>
+ <text display-inline="yes-display-inline">The term <term>covered entity</term> means any entity that establishes a relationship with—</text>
+                    <subparagraph id="H1CFE398A1C28486384B429EDC663046B">
+                        <enum>(A)</enum>
+ <text>a merchant for the purposes of processing credit, debit, or prepaid transactions; or</text>
+                    </subparagraph>
+                    <subparagraph id="HFB54A9E04B8C46B5A2E8A0A751ABF298">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">another entity that establishes a relationship with a merchant for the purposes of processing credit, debit, or prepaid transactions.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H380CAFF546D74DBFA8775238E304BACA">
+                    <enum>(3)</enum>
+                    <header>Firearm</header>
+ <text>The term <term>firearm</term> means an item described in paragraph (3), (5), (7), (16), (29), or (30) of section 921(a) of title 18, United States Code.</text>
+                </paragraph>
+                <paragraph id="H27BC07A134494068AA3F30A37B527E0A">
+                    <enum>(4)</enum>
+                    <header>Firearms retailer</header>
+ <text>The term <term>firearms retailer</term> means a person or entity engaged in the lawful business of selling or trading—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ida388ec8f2fae48538f5cd5b957b674a0">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">firearms; or</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id822923f2178f4ea2ac2d8790ea8a5a82"> <enum>(B)</enum> <text display-inline="yes-display-inline">ammunition to be used in firearms.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HEF9A2BDCD5334743A53F1D3A0737920C">
+                    <enum>(5)</enum>
+                    <header>Merchant category code</header>
+ <text display-inline="yes-display-inline">The term <term>merchant category code</term> means a multi-digit code that is issued by the International Organization for Standardization for the purposes of enabling the classification of merchants into specific categories based on the type of business or trade of the merchant or the services supplied by the merchant.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H4A58E6A4BF7B4FF3982E88DC8523F355">
+                    <enum>(6)</enum>
+                    <header>Payment card network</header>
+ <text display-inline="yes-display-inline">The term <term>payment card network</term> means an entity that, directly or through a licensed member, processor, or agent, provides a proprietary service, infrastructure, software, or hardware that routes information used to authorize, clear, and settle credit card and debit card transactions.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HD59EC9C49BBF41668D162B4D45277A12">
+                <enum>(b)</enum>
+                <header>Prohibitions relating to merchant category codes</header>
+                <paragraph id="HC6E1B0FE02DB48D88F84DDED8DB9996C">
+                    <enum>(1)</enum>
+                    <header>Payment card networks</header>
+ <text display-inline="yes-display-inline">A payment card network may not require a firearms retailer to use, nor require a covered entity to assign to a firearms retailer, a merchant category code that distinguishes the firearms retailer from a general merchandise retailer or a sporting goods retailer.</text>
+                </paragraph>
+                <paragraph id="H8C05AA37311048AB8D13FFD0E682A2EB">
+                    <enum>(2)</enum>
+                    <header>Covered entities</header>
+ <text display-inline="yes-display-inline">Neither a covered entity, nor any agent of a covered entity, may assign to a firearms retailer any merchant category code that distinguishes the firearms retailer from a general merchandise retailer or a sporting goods retailer.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HD5CB0B247D774A11B0B21344DBCCB9BE">
+                <enum>(c)</enum>
+                <header>Enforcement</header>
+                <paragraph id="H3062A448D3AC4D2BAFC5886572577794">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Attorney General shall—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idb8c81fb56e394193b8f54fff57f29c4f"> <enum>(A)</enum> <text display-inline="yes-display-inline">enforce this section, including by conducting investigations of potential violations of this section; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7799fbf013b64f8b814cb1848a973eaa">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">not later than 90 days after the date of enactment of this Act, establish a process for a person, including a firearms retailer, to submit to the Attorney General a complaint relating to an alleged violation of this section.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H9CA0C8FE3BE94FD38286591932362AB4">
+                    <enum>(2)</enum>
+                    <header>Investigation</header>
+ <text>The Attorney General shall investigate each complaint received through the processes established under paragraph (1)(B).</text>
+                </paragraph>
+                <paragraph id="H8D5F386A5F8C497899BAD8BE93689E00">
+                    <enum>(3)</enum>
+                    <header>Written notice</header>
+ <text>If the Attorney General determines after conducting an investigation (whether initiated by the Attorney General or through a complaint received through the process established under paragraph (1)(B)) that a payment card network or a covered entity has violated this section, the Attorney General shall send to that payment card network or covered entity, as applicable, written notice of that violation that requires the payment card network or covered entity to remedy the violation not later than 30 days after the date on which the payment card network or covered entity receives that notice.</text>
+                </paragraph>
+                <paragraph id="HF4FB0892A801473DBE39CA63EA2B1E4F">
+                    <enum>(4)</enum>
+                    <header>Injunction</header>
+ <text>If a payment card network or covered entity does not remedy a violation of this section within 30 days of receiving written notice under paragraph (3), the Attorney General may bring an action in an appropriate district court of the United States to enjoin the violating behavior.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HADC0FE49B5834989AE06CEAB6A6D394A">
+                <enum>(d)</enum>
+                <header>Preemption</header>
+ <text display-inline="yes-display-inline">Any law of a State or local government regulating merchant category codes for firearm retailers is hereby preempted by this section.</text>
+            </subsection>
+            <subsection id="H334344C4B19C48D7A0C0DF7929198A40">
+                <enum>(e)</enum>
+                <header>No private right of action</header>
+ <text>Nothing in this section may be construed as establishing a private right of action.</text>
+            </subsection>
+            <subsection id="HFC9D86C6F30746CE887990D9B83CB88D">
+                <enum>(f)</enum>
+                <header>Report</header>
+ <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to Congress a report that—</text>
+                <paragraph id="HCD29C4777D644F459EF64228B6D087DE">
+                    <enum>(1)</enum>
+ <text>for the year covered by the report, identifies the total number of investigations undertaken by the Attorney General under this section, whether initiated by the Attorney General or through a complaint received through the process established under subsection (c)(1)(B);</text>
+                </paragraph>
+                <paragraph id="H616F57E1D0384C79BE5173807E991A3F">
+                    <enum>(2)</enum>
+ <text>includes a summary of each investigation described in paragraph (1), including the disposition of each such investigation; and</text>
+                </paragraph>
+                <paragraph id="H8EF6FC2BA166468991E6CDEDF8177886">
+                    <enum>(3)</enum>
+ <text>provides any available data and analysis regarding the effectiveness of this Act.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

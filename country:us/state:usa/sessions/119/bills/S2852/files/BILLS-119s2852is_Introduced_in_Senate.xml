@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25493-LDC-6T-5N4">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2852 IS: Restoring Trust in Public Servants Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-09-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2852</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20250917" legis-day="20250916">September 17 (legislative day,
+                September 16), 2025</action-date>
+            <action-desc><sponsor name-id="S426">Mr. Kim</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit Federal officials from owning covered investments, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HF288CDFB30D24D5BAB2AF409BD766600">
+        <section section-type="section-one" id="H41224F0F02E34607BE0CB225588DEBF3">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Trust in Public Servants Act</short-title></quote>.</text>
+        </section>
+        <section id="H1E3F9C9A1F1D485DB9176505458FFE61">
+            <enum>2.</enum>
+            <header>Ownership of covered investments</header>
+            <subsection id="HFA0E64A564FE4F1D9F3F951FF6E7485D">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="id79a09655f9a049acb7567357a2dda39e" commented="no"> <enum>(1)</enum> <header>Commodity; security future</header> <text>The terms <term>commodity</term> and <quote>security future</quote> have the meanings given those term in section 1a of the Commodity Exchange Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a</external-xref>).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6b093bfdb6ea43d180050edade7aca63">
+                    <enum>(2)</enum>
+                    <header>Covered investment</header>
+                    <subparagraph id="H87B5D506B2EA482195EAD54B0EA8116C">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>The term <term>covered investment</term> means—</text> <clause id="HE6CE4AC56C9A45EFAA88F7D81C02AA51"> <enum>(i)</enum> <text>an investment in—</text>
+                            <subclause commented="no" display-inline="no-display-inline" id="idd5e7173a6411416f8beb5fca69569e2e">
+                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">a security;</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="idc6456855478d45079ad28272c58bc155"> <enum>(II)</enum> <text display-inline="yes-display-inline">a commodity;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idbd3fa48628ab46abab009d1a09c7077e">
+                                <enum>(III)</enum>
+ <text display-inline="yes-display-inline">a digital asset; or</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="ide5377c57ba3b4fe99d39b4d715b7a039"> <enum>(IV)</enum> <text display-inline="yes-display-inline">a security future; and</text>
+                            </subclause>
+                        </clause>
+                        <clause id="H86BEFCDFBCD44975A4C97092EA65F12C">
+                            <enum>(ii)</enum>
+ <text>any economic interest comparable to an interest described in clause (i) that is acquired through synthetic means, such as the use of a derivative, including an option, warrant, or other, similar means.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HB93DB3FBCB1D40DF9E97BB685371BD4D">
+                        <enum>(B)</enum>
+                        <header>Inclusions</header>
+ <text>The term <term>covered investment</term> includes an investment or economic interest described in subparagraph (A) that is held directly, or in which an individual has an indirect, beneficial, or economic interest, through—</text>
+                        <clause id="H0ECF758304B142C48967F5409DCC5626">
+                            <enum>(i)</enum>
+ <text>an investment fund;</text> </clause> <clause id="HAADEF25CF2D642548EA02949C9E461F0"> <enum>(ii)</enum> <text>a trust;</text>
+                        </clause>
+                        <clause id="HDE1FC23BCBC640A5954B50685D3E9396">
+                            <enum>(iii)</enum>
+ <text>an employee benefit plan; or</text> </clause> <clause id="H62EF92F3EB3246D6A03890ED572EB49A"> <enum>(iv)</enum> <text>a deferred compensation plan, including a carried interest or other agreement tied to the performance of an investment, other than a fixed cash payment.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HFF8A76D7888742C5AF2389A9BC396313">
+                        <enum>(C)</enum>
+                        <header>Exclusions</header>
+ <text>The term <term>covered investment</term> does not include—</text> <clause id="H186CC49D39144973933268472AE78A96"> <enum>(i)</enum> <text>a diversified mutual fund (including any holdings of such a fund);</text>
+                        </clause>
+                        <clause id="H9E224E7E34254F319327ECBE01B7D8D9">
+                            <enum>(ii)</enum>
+ <text>a diversified exchange-traded fund (including any holdings of such a fund);</text>
+                        </clause>
+                        <clause id="H81CDE1C6B41F49A8B01A7FC8B410A3BB">
+                            <enum>(iii)</enum>
+ <text>a United States Treasury bill, note, or bond;</text> </clause> <clause id="HEE4B7A03C902465C9040150AA2BB9A2A"> <enum>(iv)</enum> <text>compensation from the primary occupation of a family member of a Member of Congress; or</text>
+                        </clause>
+                        <clause id="H88937D87267A42819B267D6D2CD90B47">
+                            <enum>(v)</enum>
+ <text>any investment fund held in a Federal, State, or local government employee retirement plan.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H14890343143848A5B6943C3D55F6A083">
+                        <enum>(D)</enum>
+                        <header>Clarification</header>
+ <text>An investment that achieves compliance with applicable environmental, social, and governance criteria shall not be considered to be a covered investment solely by reason of that compliance.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="H9EE6FF16E5944CDABE655C0532FF2FC6">
+                    <enum>(3)</enum>
+                    <header>Covered official</header>
+ <text>The term <term>covered official</term> means the following:</text> <subparagraph commented="no" id="H8713A4D76E2B40ADBAA04C87295B4502"> <enum>(A)</enum> <text display-inline="yes-display-inline">In the legislative branch, a Member of Congress and each of the following (other than an employee who is considered an intern or a fellow for purposes of any law or regulation establishing a limit on the number of employees of an office of the Senate or the House of Representatives):</text>
+                        <clause commented="no" id="H7624A9D036C14BFF97A9B2543AC9E940">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">An employee of a Senator (as described in section 207(e)(9)(F) of title 18, United States Code).</text>
+                        </clause>
+                        <clause commented="no" id="H1F28FAF944124B7D9A666509C6BF3658">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">An employee of a Member of the House of Representatives (as described in section 207(e)(9)(E) of title 18, United States Code).</text>
+                        </clause>
+                        <clause id="H5C0341E1E3FB41AD88304438F8196748">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">An employee of a committee of Congress (as defined in section 207(e)(9)(A) of title 18, United States Code).</text>
+                        </clause>
+                        <clause id="HF36488B201E2401A94795C5CA2FA8FCA">
+                            <enum>(iv)</enum>
+ <text>An employee on the leadership staff of the Senate (as defined in section 207(e)(9)(I) of title 18, United States Code).</text>
+                        </clause>
+                        <clause id="H859E2C237A9A43EC989944F7F0BEE8C5">
+                            <enum>(v)</enum>
+ <text>An employee on the leadership staff of the House of Representatives (as defined in section 207(e)(9)(H) of title 18, United States Code).</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H583860932C85490FA4E702B9645BF773">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">In the executive branch—</text> <clause commented="no" id="H078249E0686948A1840FCA070C495C51"> <enum>(i)</enum> <text>the President;</text>
+                        </clause>
+                        <clause commented="no" id="H7CB44CD27BDC42F99FE214670E81B38E">
+                            <enum>(ii)</enum>
+ <text>the Vice President;</text> </clause> <clause commented="no" id="H029E8D9D33204C9184A37527782E20C4"> <enum>(iii)</enum> <text>a political appointee; or</text>
+                        </clause>
+                        <clause commented="no" id="HA986667734DE437C8B51A6887AA14404">
+                            <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">any officer or employee of the executive branch who—</text>
+                            <subclause id="H1090908E5FBC4DCFB968029020F9EFFA">
+                                <enum>(I)</enum>
+ <text>is not a political appointee; and</text> </subclause> <subclause id="H1FE6EC128A0941AE8202269248A2B8F0"> <enum>(II)</enum> <text>occupies a position described in paragraphs (3) through (8) of section 13103(f) of title 5, United States Code.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H257FE3FADFCB41C6B754CD0E846F8AC8">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">A judicial officer.</text> </subparagraph> </paragraph> <paragraph id="id41f4df6bb3c1454b93dfc6cc33af4e2b" commented="no"> <enum>(4)</enum> <header>Digital asset</header> <text>The term <term>digital asset</term> means any digital representation of value that is recorded on a cryptographically secured distributed ledger or any similar technology.</text>
+                </paragraph>
+                <paragraph commented="no" id="H9946A71DE54A48CDB672767106FADB19">
+                    <enum>(5)</enum>
+                    <header>Executive branch; Member of Congress</header>
+ <text display-inline="yes-display-inline">The terms <term>executive branch</term> and <quote>Member of Congress</quote> have the meanings given those term in section 13101 of title 5, United States Code.</text>
+                </paragraph>
+                <paragraph id="H5EC02EACB58F47489916491245DB86DD">
+                    <enum>(6)</enum>
+                    <header>Family member</header>
+ <text display-inline="yes-display-inline">The term <term>family member</term> means a spouse or a dependent child (as defined in section 13101 of title 5, United States Code).</text>
+                </paragraph>
+                <paragraph id="H3732BADB297C4C8F900FC19B5B2A970D">
+                    <enum>(7)</enum>
+                    <header>Judicial officer</header>
+ <text>The term <term>judicial officer</term>—</text> <subparagraph id="H1C88629F30654E778EE2C6E69154ACF4"> <enum>(A)</enum> <text display-inline="yes-display-inline">has the meaning given the term in section 13101 of title 5, United States Code; and</text>
+                    </subparagraph>
+                    <subparagraph id="HA6E44D3DD5974EFBB3C11973D51C2B6B">
+                        <enum>(B)</enum>
+ <text>includes—</text> <clause commented="no" display-inline="no-display-inline" id="id7cde292627154ae49a5f8c22dfd73df5"> <enum>(i)</enum> <text display-inline="yes-display-inline">a bankruptcy judge; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idb2ab3f89997443d2952c7748807d194c">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">a magistrate judge.</text> </clause> </subparagraph> </paragraph> <paragraph id="H563CD28D3FE642ACA033B53B8F32446D"> <enum>(8)</enum> <header>Political appointee</header> <text display-inline="yes-display-inline">The term <term>political appointee</term> means any individual occupying a position in the executive branch—</text>
+                    <subparagraph id="H8743391953FF4CCF8FF02D3542D45EF0">
+                        <enum>(A)</enum>
+ <text>who was appointed to such position by the President, by and with the advice and consent of the Senate;</text>
+                    </subparagraph>
+                    <subparagraph id="HA810C4C5D1524EF6A58804B9D8BB7A23">
+                        <enum>(B)</enum>
+ <text>described in sections 5312 through 5316 of title 5, United States Code (relating to the Executive Schedule);</text>
+                    </subparagraph>
+                    <subparagraph id="H18051CAFB28046E9BE756E4B82026732">
+                        <enum>(C)</enum>
+ <text>as a noncareer appointee in the Senior Executive Service, as defined in section 3132(a) of title 5, United States Code; or</text>
+                    </subparagraph>
+                    <subparagraph id="H245A7C4E50764A36B5ACCF3FBBED7372">
+                        <enum>(D)</enum>
+ <text>that is of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, or any other position that is excepted from the competitive service because of the confidential policy-determining, policy-making or policy-advocating character of the position.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id6b948d16f0f442ed832e1d5a6e020720" commented="no">
+                    <enum>(9)</enum>
+                    <header>Security</header>
+ <text>The term <term>security</term> has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)</external-xref>).</text>
+                </paragraph>
+                <paragraph id="HF6A366E6C23E4EFAB98A861AAF4F6F8D">
+                    <enum>(10)</enum>
+                    <header>Supervising ethics office</header>
+ <text>The term <term>supervising ethics office</term> means any of the following:</text>
+                    <subparagraph commented="no" id="HD87985F32F3D4AA694FE5AFA1C730445">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">In the case of an individual described in paragraph (3)(A)—</text>
+                        <clause commented="no" id="H8370C2D95E6E421F8242229351C8BF6C">
+                            <enum>(i)</enum>
+ <text>the Select Committee on Ethics of the Senate; or</text> </clause> <clause commented="no" id="H4F59F4B4F1514CEDAEB485F503BCE69C"> <enum>(ii)</enum> <text display-inline="yes-display-inline">the Committee on Ethics of the House of Representatives.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="H6F509C714B1D4932BADDEF4BA250F25D">
+                        <enum>(B)</enum>
+ <text>In the case of an individual described in paragraph (3)(B), the Office of Government Ethics.</text>
+                    </subparagraph>
+                    <subparagraph id="H1DE0D42047074D7CAB613E278D8B598C">
+                        <enum>(C)</enum>
+ <text>In the case of a judicial officer, the Judicial Conference of the United States.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id90620102a344436ca72a7c74a15783d3">
+                <enum>(b)</enum>
+                <header>Ownership of covered investments</header>
+                <paragraph commented="no" id="HA8A6A4A726A241D5BE6F47C333EC7E4F">
+                    <enum>(1)</enum>
+                    <header>Conduct during Federal service</header>
+ <text display-inline="yes-display-inline">Except as described in paragraph (2), no covered official or family member of a Member of Congress may own or trade any covered investment.</text>
+                </paragraph>
+                <paragraph commented="no" id="H06A4D5CADC884BCAADA1058896E065D2">
+                    <enum>(2)</enum>
+                    <header>Compliance</header>
+                    <subparagraph commented="no" id="H60672119D15E4B4E8A41ADF3AF28CF44">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), to comply with the requirements under paragraph (1), a covered official or family member of a Member of Congress shall divest of any covered investment prior to the expiration of the applicable compliance period.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="H040D5B068EF04F0292066D4D74CC68BA">
+                        <enum>(B)</enum>
+                        <header>Applicable compliance period</header>
+ <text display-inline="yes-display-inline">In this paragraph, the term <term>applicable compliance period</term> means—</text>
+                        <clause id="H8847B2D7DAB24762B78E440BB1979C71">
+                            <enum>(i)</enum>
+ <text>with respect to a covered investment held by a covered official or family member of a Member of Congress on the date of enactment of this Act, the 90-day period that begins on the date of enactment of this Act;</text>
+                        </clause>
+                        <clause id="H8C195B044A3144A4A5D67F4B7F45CD5A">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">with respect to a covered investment held by an individual on the date on which the individual becomes a covered official or becomes a family member of a Member of Congress after the date of enactment of this Act, the 90-day period that begins on the date on which the individual becomes a covered official or becomes a family member of a Member of Congress; and</text>
+                        </clause>
+                        <clause id="HF0772674F49C496EAE6CFDED558E9B70">
+                            <enum>(iii)</enum>
+ <text>with respect to a covered investment that is first held by a covered official or a family member of a Member of Congress after the last day of either of the periods described in clauses (i) or (ii), the 90-day period that begins on the date on which the covered investment was first held by the covered official or family member.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H32D0ADC0526B4982B56F851050BD77EE">
+                <enum>(c)</enum>
+                <header>Penalties</header>
+                <paragraph commented="no" id="H2940AE8263614E3EBD7071136BF706A7">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (2), a covered official in violation of this section, as determined by the supervising ethics office, shall pay a penalty in an amount equal to the fee set forth under section 13106(d)(1) of title 5, United States Code, for each such violation.</text>
+                </paragraph>
+                <paragraph commented="no" id="HB6D3ACED256A44FBA4C10F30896E77BF">
+                    <enum>(2)</enum>
+                    <header>Exception</header>
+                    <subparagraph id="H9CE51D4CEAFD44E4BACA2D197DA63149">
+                        <enum>(A)</enum>
+                        <header>Penalty</header>
+ <text display-inline="yes-display-inline">An individual described in subparagraph (C) who during any month is in violation of this section with respect to a covered investment, as determined by the supervising ethics office, shall pay a penalty in an amount equal to—</text>
+                        <clause id="H7BAA19D79C904467AD29DCFA7A10F736">
+                            <enum>(i)</enum>
+ <text>in the case of an individual who is a covered official, the salary of such official for that month; or</text>
+                        </clause>
+                        <clause id="HBDB51E10EFE343C3B2D786E36BF0DD4F">
+                            <enum>(ii)</enum>
+ <text>in the case of an individual who is a family member of a Member of Congress, the salary of the Member of Congress for that month.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="H7238BD58C20046B781897C872DCF7196">
+                        <enum>(B)</enum>
+                        <header>Amount determined without regard to number of violations</header>
+ <text>The amount of the penalty imposed under subparagraph (A) shall apply to an individual without regard to the number of covered investments with respect to which the individual is in violation during the month in which the penalty is imposed.</text>
+                    </subparagraph>
+                    <subparagraph id="H3B79F7C9B8044C4880D2ECF8224FA60B">
+                        <enum>(C)</enum>
+                        <header>Individuals described</header>
+ <text>The individuals described in this paragraph are the following:</text> <clause id="HBA0C8A2B48554E92AACE4074A6E5EF78"> <enum>(i)</enum> <text display-inline="yes-display-inline">A Member of Congress or a family member of a Member of Congress.</text>
+                        </clause>
+                        <clause id="H0A7B26B26602435B835B97DD31C0B7F4">
+                            <enum>(ii)</enum>
+ <text>The President.</text> </clause> <clause id="HF858BAB16CFF44359D453BAB9E642710"> <enum>(iii)</enum> <text>The Vice President.</text>
+                        </clause>
+                        <clause id="HD7EB056BF2F447A18DF85A051C173753">
+                            <enum>(iv)</enum>
+ <text>A political appointee who was appointed to such position by the President, by and with the advice and consent of the Senate.</text>
+                        </clause>
+                        <clause id="HF6300246D6FF43A192AEF790C54BB5EA">
+                            <enum>(v)</enum>
+ <text>A judicial officer.</text> </clause> </subparagraph> </paragraph> </subsection> <subsection commented="no" id="H438A2320C9934D44B3DB78793D3E98CD"> <enum>(d)</enum> <header>Publication</header> <text display-inline="yes-display-inline">For each individual in violation of this section, as determined by the supervising ethics office, the supervising ethics office shall make available a list, on a publicly accessible website of the supervising ethics office, detailing the names, occupation, and office of employment for each such individual or, in the case of a family member of a Member of Congress, the name of such family member and of such Member of Congress.</text>
+            </subsection>
+            <subsection id="id9d2e780e41a1472696cfe5ee8fe925f5">
+                <enum>(e)</enum>
+                <header>Tax treatment of divestitures</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id87c315db6b3b463ba754209b7475fbae">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1043">Section 1043(b)(1)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="idc44abbd0ce9346ccb968cf9e32f86cbe"> <enum>(A)</enum> <text>by striking <quote>and</quote> at the end of subparagraph (A);</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id3711970a30eb4f5b8c7fba95a3f90e33">
+                        <enum>(B)</enum>
+ <text>by striking the period at the end of subparagraph (B) and inserting <quote>, and</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id279d0d0b17d84406aef66ee18d62df52">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following new subparagraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idc63bfba32eae446f8faa411cca8f6273">
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idc55c01ac0bf44d98961146b248aa192e">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">any—</text> <clause commented="no" display-inline="no-display-inline" id="id5522d358e73449d6947218f457b0c153"> <enum>(i)</enum> <text display-inline="yes-display-inline">covered official described in subparagraph (B) or (C) of section 2(a)(3) of the <short-title>Restoring Trust in Public Servants Act</short-title> who is not described in subparagraph (A),</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id814fa644d57a4d48ad24050c046abb24">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">any covered official described in subparagraph (A) of section 2(a)(3) of such Act, and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id0be015c2334443ea99ff17c947c64119">
+                                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">any family member of a Member of Congress (as such terms are defined in section 2(a) of such Act).</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id564461152d3d4bfda4bef049b877bde1">
+                    <enum>(2)</enum>
+                    <header>Certificate of divestiture</header>
+ <text><external-xref legal-doc="usc" parsable-cite="usc/26/1043">Section 1043(b)(2)</external-xref> of the Internal Revenue Code of 1986 is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id91a3f05e6c3d4e629b67ba3e2582fa26"> <enum>(A)</enum> <text display-inline="yes-display-inline">in subparagraph (A), by inserting <quote>, and the <short-title>Restoring Trust in Public Servants Act</short-title></quote> after <quote>including section 208 of title 18, United States Code</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id89c8d7d2c9b749e6b246e583f4fc3d42">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking subparagraph (B) and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id6b21709a88544652b53a6e434c2faec6">
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idee75b9f3ee1f48488aad93ec8161997b">
+                                <enum>(B)</enum>
+ <text>that has been issued by—</text> <clause commented="no" display-inline="no-display-inline" id="idad230b92d7e64196a74b15aef297d467"> <enum>(i)</enum> <text display-inline="yes-display-inline">in the case of an eligible person described in subparagraph (A) or (B) of paragraph (1), the President or the Director of the Office of Government Ethics, in the case of executive branch officers or employees, or by the Judicial Conference of the United States (or its designee), in the case of judicial officers, and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id6a9f26b1cbaa4d6b91049feb0f510d59">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the case of any eligible person described in paragraph (1)(C), the supervising ethics office (as defined in section 2(a) of the <short-title>Restoring Trust in Public Servants Act</short-title>), and</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idb2cd46a561d34d38b06c30f84a1f107f">
+                    <enum>(3)</enum>
+                    <header>Effective date</header>
+ <text>The amendments made by this subsection shall apply to sales after the date of the enactment of this Act.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" id="H05D0766CA22C488AAE51F851E39B3333">
+            <enum>3.</enum>
+            <header>Ban on all outside earned income and all service on boards by Members of
+                Congress</header>
+            <subsection id="H25FFC0F2C8A44C37B811DA6E67C88B9E">
+                <enum>(a)</enum>
+                <header>Outside earned income</header>
+                <paragraph id="H36F177FECBD0452A9E636E949AACDE19">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 13143(a)(1) of title 5, United States Code, is amended by striking <quote>outside earned income attributable to such calendar year which exceeds 15 percent</quote> and inserting <quote>any outside earned income attributable to such calendar year, except that such an officer or employee may have outside earned income attributable to such calendar year which does not exceed 15 percent</quote>.</text>
+                </paragraph>
+                <paragraph id="HBC3D14A9FC6A486F8E7678C78BF288DF">
+                    <enum>(2)</enum>
+                    <header>Individuals becoming Members during calendar year</header>
+ <text>Section 13143(a)(2) of title 5, United States Code, is amended—</text> <subparagraph id="H9CD2AE28D2464767B0E0169A3B5A206C"> <enum>(A)</enum> <text>by striking <quote>outside earned income attributable to the portion of that calendar year which occurs after such individual becomes a Member or such an officer or employee which exceeds 15 percent</quote> and inserting <quote>any outside earned income attributable to the portion of that calendar year which occurs after such individual becomes a Member or such an officer or employee, except that such an officer or employee may have outside earned income attributable to such portion of that calendar year which does not exceed 15 percent</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="H8A972D8C204847A980F45CFB5AA38397">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>such individual is a Member or such officer or employee</quote> and inserting <quote>such individual is such an officer or employee</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H091BB9F642D943CA9E82F084D031F57E">
+                    <enum>(3)</enum>
+                    <header>Preserving authority of officers and employees of Congress to earn
+                        compensation from practicing medicine</header>
+ <text>Section 13144(a) of title 5, United States Code, is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide442cc98f2fb47d396bc7c579cfe74b4"> <enum>(A)</enum> <text>in paragraph (1), by striking <quote>fiduciary relationship</quote> and inserting <quote>fiduciary relationship, except that such an officer or employee of the House of Representatives or Senate may receive such compensation if the fiduciary relationship involves the practice of medicine</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5875a97589c54047aa89b8975d18bb02">
+                        <enum>(B)</enum>
+ <text>in paragraph (3), by striking <quote>fiduciary relationship</quote> and inserting <quote>fiduciary relationship, except that such an officer or employee of the House of Representatives or Senate may receive such compensation if the fiduciary relationship involves the practice of medicine</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HED40F55636424AB19DEE4FFDF5089F84">
+                    <enum>(4)</enum>
+                    <header>Application of ban to income earned from teaching</header>
+ <text>Section 13144(a)(5) of title 5, United States Code, is amended by striking <quote>without the prior notification</quote> and inserting <quote>except that such an officer or employee may receive compensation for teaching with the prior notification</quote>.</text>
+                </paragraph>
+                <paragraph id="H978187EE96C244739513211BCD5181AC">
+                    <enum>(5)</enum>
+                    <header>Definition</header>
+ <text>Section 13141 of title 5, United States Code, is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id5ac7ca78171c4a7c944c0ab57658fcfb"> <enum>(A)</enum> <text display-inline="yes-display-inline">by redesignating paragraph (5) as paragraph (6); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idaefda68c6fa04d90a9e6b8697f67c02e">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by inserting after paragraph (4) the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="HB3A063B6C57545A59E7AB8D6930946E7">
+                            <paragraph id="H4A84D68153584102BDE3B2892CA2BCCD">
+                                <enum>(5)</enum>
+ <text display-inline="yes-display-inline">The term <term>outside earned income</term>, with respect to a Member of Congress, has the meaning given that term in clause 4(d) of rule XXV of the Rules of the House of Representatives for the One Hundred Seventeenth Congress, except that paragraph (d)(1)(D) of such clause shall not apply. Such term shall apply with respect to a Senator in the same manner as such term applies to a Member of the House of Representatives under such clause.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H480584951C5748C99FB0490927514CB1">
+                <enum>(b)</enum>
+                <header>Service on boards</header>
+ <text>Section 13144(a)(4) of title 5, United States Code, is amended to read as follows:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HBAEED68D4A3C4A04B43B69DE4D35EDD8">
+                    <paragraph id="HF16267F658A7482F8A3804D4B2ECF3A0">
+                        <enum>(4)</enum>
+ <text display-inline="yes-display-inline">serve as an officer or member of the board of any association, corporation, or other entity, except that—</text>
+                        <subparagraph id="HCFFA447DC6864BE29946C54751482189">
+                            <enum>(A)</enum>
+ <text>a Member and such an officer or employee may serve without compensation as an officer or member of the board of any nonprofit association, nonprofit corporation, or other nonprofit entity; and</text>
+                        </subparagraph>
+                        <subparagraph id="H1E1D1E815F5248A28A3BB37E367A870E">
+                            <enum>(B)</enum>
+ <text>such an officer or employee may serve without compensation as an officer or member of any other association, corporation or other entity; or</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="H72E32AF152F94FDF9429160C8D5C6D76">
+            <enum>4.</enum>
+            <header>Lifetime lobbying ban</header>
+            <subsection commented="no" id="HEC1C04FBFE7A4912B6B023CD24F9EF3E">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Section 207(e) of title 18, United States Code, is amended—</text> <paragraph commented="no" id="H7289507D9D3C41BD9BE7CB44E73342CD"> <enum>(1)</enum> <text>by striking paragraph (1) and inserting the following:</text>
+                    <quoted-block style="OLC" id="H1631D3BA02C8499E8415650C9CDD629A">
+                        <paragraph commented="no" id="HEAFD0BD25B504EC6BA876EA420598716">
+                            <enum>(1)</enum>
+                            <header>Members of Congress</header>
+                            <subparagraph commented="no" id="HF2566DC4DD3E485AA70F600392D601F8">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>Any person who is a Senator or a Member of the House of Representatives and who, after that person leaves office, knowingly makes any lobbying contact to, or engages in lobbying activities with, a covered executive branch official or any Member, officer, or employee of either House of Congress shall be punished as provided in section 216 of this title.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" id="H0209BBD760D04B218A0BEC986DEA35DD">
+                                <enum>(B)</enum>
+                                <header>Definitions</header>
+ <text>In this paragraph:</text> <clause commented="no" id="H387406C6188540F3B1186EB2068D9AB1"> <enum>(i)</enum> <text>The terms <term>lobbying activities</term> and <term>covered executive branch official</term> have the meanings given those terms in section 3 of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1602">2 U.S.C. 1602</external-xref>).</text>
+                                </clause>
+                                <clause commented="no" id="HD4981D7DE1C64571994E777CFEB209BA">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">The term <term>lobbying contact</term> has the meaning given the term in section 3(8) of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1602">2 U.S.C. 1602(8)</external-xref>) except that subparagraph (B)(iv) of such paragraph shall not apply.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" id="H5D53F5E7331A4FDFB5B1A6A25F64626B">
+                    <enum>(2)</enum>
+ <text>in paragraph (2)—</text> <subparagraph commented="no" id="H0F3E47DF16E4496C982323A6C8ABACBC"> <enum>(A)</enum> <text>by striking the heading and all that follows through <quote>Any person</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" id="HAA58670A878A49A0AFD3B31B84CC0725">
+                            <paragraph commented="no" id="H5660A6D4E7784728A2D9EAC7B930399C">
+                                <enum>(2)</enum>
+                                <header>Officers and certain staff</header>
+                                <subparagraph commented="no" id="H12D2521AB2DF4DFE986DB1E24E5670A5">
+                                    <enum>(A)</enum>
+                                    <header>Officers and staff of the Senate</header>
+ <text>Any person</text> </subparagraph> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" id="HFCD77C30C9C14FA0A583B1E2BD4F533C"> <enum>(B)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" id="HDEDFFFCA6E9646EA9F00E1A305FFC3E9">
+                            <subparagraph commented="no" id="HAC50E4AE1630418CAC654EB7E2A7EFEC">
+                                <enum>(B)</enum>
+                                <header>Officers of the House of Representatives</header>
+                                <clause commented="no" display-inline="no-display-inline" id="H3DCCE95A92D54F23B870CBBE79CA5CA7">
+                                    <enum>(i)</enum>
+ <text>Any person who is an elected officer of the House of Representatives and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in clause (ii), on behalf of any other person (except the United States) in connection with any matter on which such elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.</text>
+                                </clause>
+                                <clause commented="no" id="H73453A8439354F69BBD770AC55632E76">
+                                    <enum>(ii)</enum>
+ <text>The persons referred to in clause (i) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Representatives.</text>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H2CD861FDF256499BA3103D765EBEB1A1">
+                <enum>(b)</enum>
+                <header>Restrictions relating to foreign entities</header>
+ <text>Section 207(f) of title 18, United States Code, is amended—</text> <paragraph commented="no" id="H6AC0F6502CEA4205A287666CAF010D19"> <enum>(1)</enum> <text>in paragraph (1), by striking <quote>Any person</quote> and inserting <quote>Except as provided in paragraph (2), any person</quote>;</text>
+                </paragraph>
+                <paragraph commented="no" id="H71414EF57A18447295090122AB88885E">
+                    <enum>(2)</enum>
+ <text>by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;</text>
+                </paragraph>
+                <paragraph commented="no" id="H2A5F6BFD961245669EE5FED74BCC155E">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">by inserting after paragraph (1) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="HF327E00B8CE34FAAB99ECD07383ADC84">
+                        <paragraph commented="no" id="HEC7B6E90649049148FAC865A73B2D494">
+                            <enum>(2)</enum>
+                            <header>Member of Congress</header>
+ <text display-inline="yes-display-inline">With respect to the restrictions under paragraph (1), any person who is a Member of Congress may not engage in any of the activities under such paragraph at any time after leaving office.</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id52de454c36b749c2b946b62f16333e59">
+                    <enum>(4)</enum>
+ <text>by striking paragraph (4), as so redesignated, and inserting the following:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="id4CB6DEF54CCF4795BB77F4AF266E8F39">
+                        <paragraph commented="no" display-inline="no-display-inline" id="id701f38a46ee94693835f6f8210f985ff">
+                            <enum>(4)</enum>
+                            <header>Definition</header>
+ <text>For purposes of this subsection, the term <quote>foreign entity</quote> means—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idce92073a25a24486ae5ed04f86856403">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the government of a foreign country, as defined in section 1(e) of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/611">22 U.S.C. 611(e)</external-xref>), or a foreign political party, as defined in section 1(f) of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/611">22 U.S.C. 611(f)</external-xref>); and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idce4484447f0349079e011b574b7a097b">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in the case of a Member of Congress, any foreign principal as defined in section 1(b) of the Foreign Agents Registration Act of 1938, as amended (<external-xref legal-doc="usc" parsable-cite="usc/22/611">22 U.S.C. 611(b)</external-xref>).</text>
+                            </subparagraph>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="H9965FEE98C1C418183EC4A705ED663FF">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by subsection (a) shall apply to individuals who leave office or employment to which such amendments apply on or after the date of commencement of the first session of the One Hundred Twentieth Congress sine die or January 4, 2027, whichever date is earlier.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
